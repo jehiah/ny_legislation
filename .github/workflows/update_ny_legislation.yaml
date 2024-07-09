@@ -1,0 +1,32 @@
+name: update-ny-legislation
+
+on:
+  schedule:
+# .---------------- minute (0 - 59)
+# |  .------------- hour (0 - 23)
+# |  |  .---------- day of month (1 - 31)
+# |  |  |  .------- month (1 - 12) OR jan,feb,mar,apr ...
+# |  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7)  OR sun,mon,tue,wed,thu,fri,sat
+# |  |  |  |  |
+# *  *  *  *  *  command to be executed
+    - cron: '35 17,23 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  # The "build" workflow
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v4
+    - uses: actions/setup-go@v4
+      with:
+        go-version: '^1.22.0'
+    # Run build of the application
+    - name: update
+      env:
+        NY_SENATE_TOKEN: ${{ secrets.NY_SENATE_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: scripts/update_ny_legislation.sh
