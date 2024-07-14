@@ -2,7 +2,9 @@
 set -e
 
 mkdir -p build
-go build -o build ./sync_ny_legislation
+pushd scripts 2>&1 >/dev/null
+go build -o ../build ./sync_ny_legislation
+popd 2>&1 >/dev/null
 
 if [ "$(git config --get user.email)" == "" ]; then
     git config --global user.email "automatic-data-update@jehiah.cz"
@@ -12,7 +14,7 @@ fi
 # git remote rm origin
 # git remote add origin https://jehiah:$GH_TOKEN@github.com/jehiah/ny_legislation.git
 
-./build/sync_ny_legislation --target-dir=""
+./build/sync_ny_legislation --target-dir="."
 
 git add bills last_sync.json
 git status

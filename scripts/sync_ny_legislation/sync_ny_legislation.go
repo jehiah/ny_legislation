@@ -143,6 +143,9 @@ func main() {
 	if *targetDir == "" {
 		log.Fatal("set --target-dir")
 	}
+	if *targetDir == "." {
+		*targetDir = ""
+	}
 
 	vAPI := verboseapi.NewAPI(os.Getenv("NY_SENATE_TOKEN"))
 	vAPI.Limiter = rate.NewLimiter(rate.Every(3*time.Millisecond), 25)
