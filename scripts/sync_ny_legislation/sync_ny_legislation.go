@@ -9,13 +9,16 @@ import (
 	"time"
 
 	"github.com/jehiah/nysenateapi"
+	"github.com/jehiah/nysenateapi/verboseapi"
 	log "github.com/sirupsen/logrus"
+	"github.com/swaggest/assertjson"
+	"golang.org/x/time/rate"
 )
 
 var localTimezone *time.Location
 
 type SyncApp struct {
-	api       nysenateapi.API
+	api       *nysenateapi.API
 	targetDir string
 
 	billLookup map[string]bool
@@ -30,19 +33,7 @@ type LastSync struct {
 }
 
 func (s *SyncApp) Load() error {
-	fn := filepath.Join(s.targetDir, "last_sync.json")
-	_, err := os.Stat(fn)
-	if os.IsNotExist(err) {
-		return nil
-	}
-	if err != nil {
-		return err
-	}
-	b, err := os.ReadFile(fn)
-	if err != nil {
-		return err
-	}
-	err = json.Unmarshal(b, &s.LastSync)
+	err := s.readFile("last_sync.json", &s.LastSync)
 	if err != nil {
 		return err
 	}
@@ -50,6 +41,28 @@ func (s *SyncApp) Load() error {
 	if err != nil {
 		return err
 	}
+	return nil
+}
+
+func (s *SyncApp) CustomAction(ctx context.Context) error {
+	err := s.LoadBills()
+	if err != nil {
+		return err
+	}
+	// read & re-write each file
+	for f := range s.billLookup {
+		var bill nysenateapi.Bill
+		err := s.readFile(f, &bill)
+		if err != nil {
+			return err
+		}
+		err = s.writeFile(f, bill)
+		if err != nil {
+			return err
+		}
+		return nil
+	}
+
 	return nil
 }
 
@@ -81,10 +94,11 @@ func (s SyncApp) writeFile(fn string, o interface{}) error {
 	}
 	defer f.Close()
 
-	e := json.NewEncoder(f)
-	e.SetEscapeHTML(false)
-	e.SetIndent("", "  ")
-	err = e.Encode(o)
+	b, err := assertjson.MarshalIndentCompact(o, "", " ", 120)
+	if err != nil {
+		return err
+	}
+	_, err = f.Write(b)
 	if err != nil {
 		return err
 	}
@@ -118,10 +132,11 @@ func (s SyncApp) Save() error {
 }
 
 func main() {
-	targetDir := flag.String("target-dir", "../../", "Target Directory")
+	targetDir := flag.String("target-dir", "../..", "Target Directory")
 	timezone := flag.String("tz", "America/New_York", "timezone")
 	updateAll := flag.Bool("update-all", false, "update all")
 	skipIndexUpdate := flag.Bool("skip-index-update", false, "skip updating year index files and last_sync.json")
+	customAction := flag.Bool("custom-action", false, "run custom action")
 
 	flag.Parse()
 	log.SetLevel(log.DebugLevel)
@@ -129,8 +144,11 @@ func main() {
 		log.Fatal("set --target-dir")
 	}
 
+	vAPI := verboseapi.NewAPI(os.Getenv("NY_SENATE_TOKEN"))
+	vAPI.Limiter = rate.NewLimiter(rate.Every(3*time.Millisecond), 25)
+
 	s := &SyncApp{
-		api:        nysenateapi.NewAPI(os.Getenv("NY_SENATE_TOKEN")),
+		api:        nysenateapi.NewWithVerboseAPI(vAPI),
 		billLookup: make(map[string]bool),
 		targetDir:  *targetDir,
 	}
@@ -146,6 +164,8 @@ func main() {
 		log.Fatal(err)
 	}
 	switch {
+	case *customAction:
+		err = s.CustomAction(ctx)
 	case *updateAll:
 		err = s.UpdateAllBills(ctx)
 	default:

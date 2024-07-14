@@ -12,8 +12,7 @@ fi
 # git remote rm origin
 # git remote add origin https://jehiah:$GH_TOKEN@github.com/jehiah/ny_legislation.git
 
-./build/sync_ny_legislation --target-dir=.
-
+./build/sync_ny_legislation --target-dir=""
 
 git add bills last_sync.json
 git status

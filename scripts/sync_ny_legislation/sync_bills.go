@@ -41,6 +41,9 @@ func (s *SyncApp) LoadBills() error {
 		if filepath.Base(fn) == "index.json" {
 			continue
 		}
+		if strings.Contains(fn, "_raw") {
+			continue
+		}
 		fn = strings.TrimPrefix(fn, s.targetDir+"/")
 		s.billLookup[fn] = true
 	}
@@ -55,6 +58,7 @@ func (s *SyncApp) UpdateAllBills(ctx context.Context) error {
 	// get all bills for the year in batches of 1000
 
 	offset := 0
+	// offset = 23000
 	for {
 		res, err := s.api.Bills(ctx, year, offset)
 		if err != nil {
