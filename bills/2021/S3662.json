@@ -1,0 +1,40 @@
+{
+ "PrintNo":"S3662","Version":"B","Session":2021,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2021-01-30T12:36:18.94448Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-05-31","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2021-01-30","Chamber":"SENATE"},
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2022-01-05","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2022-01-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3662A","Date":"2022-01-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2022-05-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2022-05-31","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 3662B","Date":"2022-05-31","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2022-05-11","Version":"A","Chamber":"SENATE","Committee":"Budget And Revenue",
+   "Votes":[
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":1502,"Name":"Edward Rath","Short":"RATH","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
+  {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI"},
+  {"ID":1101,"Name":"John E. Brooks","Short":"BROOKS"},{"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN"},
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
+  {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
+ ],
+ "Title":"Provides a tax credit for the installation of fire sprinkler systems",
+ "Summary":"Provides a tax credit for the installation of fire sprinkler systems.","LawSection":"Tax Law",
+ "LawCode":"Amd §§606 & 210-B, Tax L",
+ "ActClause":"AN ACT to amend the tax law, in relation to providing tax credits for the installation of fire sprinkler systems",
+ "PreviousVersions":["S5260-2013","S2587-2015","S3519-2017","S5488-2019"]
+}

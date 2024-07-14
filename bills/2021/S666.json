@@ -1,0 +1,74 @@
+{
+ "PrintNo":"S666","Version":"A","Session":2021,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2021-01-04T18:25:07.776911Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-05-02","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2022-05-16"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2021-01-06","Chamber":"SENATE"},
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2022-01-05","Chamber":"SENATE"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2022-03-03",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 666A","Date":"2022-03-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2022-05-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1201","Date":"2022-05-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2022-05-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2022-05-16","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A5832A","Date":"2022-05-25","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2022-05-02","Version":"A","Chamber":"SENATE",
+   "Committee":"Veterans, Homeland Security And Military Affairs",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1101,"Name":"John E. Brooks","Short":"BROOKS","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1235,"Name":"Daphne Jordan","Short":"JORDAN","Vote":"Aye"},
+    {"ID":1495,"Name":"Elijah Reichlin-Melnick","Short":"REICHLIN-MELNICK","Vote":"Aye"},
+    {"ID":423,"Name":"Patty Ritchie","Short":"RITCHIE","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2022-05-10","Version":"A","Chamber":"SENATE","Committee":"Finance",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":372,"Name":"Neil D. Breslin","Short":"BRESLIN","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN","Vote":"Aye"},
+    {"ID":429,"Name":"Timothy M. Kennedy","Short":"KENNEDY","Vote":"Aye"},
+    {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":423,"Name":"Patty Ritchie","Short":"RITCHIE","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":403,"Name":"Diane J. Savino","Short":"SAVINO","Vote":"Aye"},
+    {"ID":890,"Name":"Susan Serino","Short":"SERINO","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
+  {"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
+ ],
+ "Title":"Provides benefit information to national guard members",
+ "Summary":"Relates to providing benefit information to a national guard member.","LawSection":"Military Law",
+ "LawCode":"Add §255, Mil L",
+ "ActClause":"AN ACT to amend the military law, in relation to providing benefit information to a national guard member",
+ "SameAsPrintNo":"A5832-2021","PreviousVersions":["S7322-2015","S4524-2017","S2283-2019"]
+}

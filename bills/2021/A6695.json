@@ -1,0 +1,40 @@
+{
+ "PrintNo":"A6695","Version":"A","Session":2021,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2021-03-25T09:20:37.743415Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2022-01-05","Committee":"Election Law"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2022-02-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2021-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2022-01-05","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2022-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.431","Date":"2022-02-17","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 6695A","Date":"2022-02-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":621,"Short":"GALEF","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1122,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1467,"Short":"SILLITTI","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1126,"Short":"NORRIS","Vote":"Nay"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":621,"Name":"Sandy Galef","Short":"GALEF"},{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
+  {"ID":519,"Name":"Deborah Glick","Short":"GLICK"}
+ ],
+ "Title":"Relates to filing name of new political party",
+ "Summary":"Requires a new party to file a certificate following the election at which the party obtains party status.",
+ "LawSection":"Election Law","LawCode":"Amd §2-124, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to filing name of new political party",
+ "SameAsPrintNo":"S8263-2021","PreviousVersions":["A7404-2017","A6713-2019"]
+}

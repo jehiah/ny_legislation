@@ -1,0 +1,40 @@
+{
+ "PrintNo":"S4281","Version":"A","Session":2021,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2021-02-03T12:25:57.748773Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2021-03-08","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2021-05-04"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2021-02-03","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2021-03-08","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4281A","Date":"2021-03-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.849","Date":"2021-04-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2021-05-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2021-05-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A585A","Date":"2021-06-09","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2021-04-14","Version":"A","Chamber":"SENATE",
+   "Committee":"Energy And Telecommunications",
+   "Votes":[
+    {"ID":433,"Name":"Phil Boyle","Short":"BOYLE","Vote":"Aye"},
+    {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":429,"Name":"Timothy M. Kennedy","Short":"KENNEDY","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":423,"Name":"Patty Ritchie","Short":"RITCHIE","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY"},{"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN"}],
+ "Title":"Requires providers of voice service to implement the STIR/SHAKEN authentication framework in the internet protocol networks of voice service providers",
+ "Summary":"Requires providers of voice service to implement the STIR/SHAKEN authentication framework in the internet protocol networks of voice service providers.",
+ "LawSection":"General Business Law","LawCode":"Add §399-z-1, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to requiring STIR/SHAKEN authentication framework",
+ "SameAsPrintNo":"A585-2021","PreviousVersions":["A7759-2019","S5926-2019"]
+}

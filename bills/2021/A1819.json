@@ -1,0 +1,67 @@
+{
+ "PrintNo":"A1819","Version":"A","Session":2021,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2021-01-11T14:42:41.209326Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2022-01-05","Committee":"Election Law"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2022-05-05"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2021-01-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2021-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2022-01-05","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2022-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.423","Date":"2022-02-17","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 1819A","Date":"2022-05-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED BY S1851A","Date":"2022-05-25","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":621,"Short":"GALEF","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1122,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1467,"Short":"SILLITTI","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1126,"Short":"NORRIS","Vote":"Nay"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"ELECTION LAW",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":621,"Short":"GALEF","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1122,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1467,"Short":"SILLITTI","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1467,"Short":"SILLITTI","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1463,"Short":"BURGOS","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1126,"Short":"NORRIS","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":1126,"Short":"NORRIS","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":457,"Name":"Vivian Cook","Short":"COOK"},
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1247,"Name":"Mark Walczyk","Short":"WALCZYK"},
+  {"ID":527,"Name":"Richard Gottfried","Short":"GOTTFRIED"},{"ID":621,"Name":"Sandy Galef","Short":"GALEF"},
+  {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL"},{"ID":1146,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL L"},{"ID":667,"Name":"Victor M. Pichardo","Short":"PICHARDO"},
+  {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":622,"Name":"Thomas Abinanti","Short":"ABINANTI"},
+  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
+ ],
+ "Title":"Relates to state party names",
+ "Summary":"Prohibits a state party from using the word \"Independent\" or \"Independence\" in its name.",
+ "LawSection":"Election Law","LawCode":"Amd §2-124, rpld §2-124 sub 4, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to prohibition of state party names; and to repeal subdivision 4 of section 2-124 of such law relating thereto",
+ "SameAsPrintNo":"S1851-2021","PreviousVersions":["A2600-2019"]
+}

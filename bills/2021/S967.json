@@ -1,0 +1,48 @@
+{
+ "PrintNo":"S967","Version":"A","Session":2021,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2021-01-05T16:48:13.487565Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-01-31","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2021-01-06","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2021-04-26","Chamber":"SENATE"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2022-01-05","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2022-01-11","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 967A","Date":"2022-01-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2022-01-31","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2021-04-26","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1101,"Name":"John E. Brooks","Short":"BROOKS","Vote":"Aye"},
+    {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1502,"Name":"Edward Rath","Short":"RATH","Vote":"Aye"},
+    {"ID":1495,"Name":"Elijah Reichlin-Melnick","Short":"REICHLIN-MELNICK","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2022-01-31","Version":"A","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1101,"Name":"John E. Brooks","Short":"BROOKS","Vote":"Aye"},
+    {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1502,"Name":"Edward Rath","Short":"RATH","Vote":"Aye"},
+    {"ID":1495,"Name":"Elijah Reichlin-Melnick","Short":"REICHLIN-MELNICK","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN"},{"ID":1101,"Name":"John E. Brooks","Short":"BROOKS"},
+  {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}
+ ],
+ "Title":"Authorizes the taxation of certain state owned parks",
+ "Summary":"Authorizes the taxation of certain lands owned by the state constituting a state park; provides that if the land constitutes a state park and the average daily state park attendance for the preceding year exceeded twenty-five percent of the municipal population as determined by the most recent census data; the state-owned land constitutes ten percent or more of the total land contained within the municipality; the municipality provides or pays for first responder police protection and either pays or provides for the cost of first responder fire protection or the residents of the municipality make direct payments to a fire protection district responsible for protecting the state park and its visitors; and the principal entrance to the state park is within the boundaries of the municipality, it may be subject to real property taxation.",
+ "LawSection":"Real Property Tax Law","LawCode":"Amd §532, RPT L",
+ "ActClause":"AN ACT to amend the real property tax law, in relation to certain state lands constituting a state park subject to taxation",
+ "SameAsPrintNo":"A2615-2021","PreviousVersions":["S7662-2019"]
+}

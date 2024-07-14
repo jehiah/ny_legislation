@@ -1,0 +1,45 @@
+{
+ "PrintNo":"A384","Version":"A","Session":2021,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2020-12-23T15:19:10.36892Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2022-01-05","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2022-02-10"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2021-01-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2021-12-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 384A","Date":"2021-12-15","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2022-01-05","Chamber":"ASSEMBLY",
+   "Version":"A"
+  },
+  {"Text":"REPORTED","Date":"2022-02-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.383","Date":"2022-02-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1122,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1132,"Short":"NIOU","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":901,"Short":"JEAN-PIERRE","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":636,"Short":"FRIEND","Vote":"Nay"},{"ID":660,"Short":"LALOR","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":900,"Short":"DILAN","Vote":"Nay"},
+    {"ID":618,"Short":"QUART","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"}],
+ "Title":"Relates to the perimeter rule at LaGuardia airport",
+ "Summary":"Provides that the port authority shall prohibit nonstop flights to or from points beyond one thousand five hundred miles, except on Saturdays and flights to Denver, Colorado, from flying to or from LaGuardia airport, an air terminal of the Port Authority of New York and New Jersey.",
+ "LawSection":"Port Authority of New York and New Jersey","LawCode":"Add §4-b, Chap 802 of 1947",
+ "ActClause":"AN ACT to amend chapter 802 of the laws of 1947, relating to facilitating the financing and effectuation of air terminals by the Port of New York Authority, in relation to prohibiting certain flights at LaGuardia airport",
+ "SameAsPrintNo":"S311-2021","PreviousVersions":["A4738-2019"]
+}

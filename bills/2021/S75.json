@@ -1,0 +1,46 @@
+{
+ "PrintNo":"S75","Version":"A","Session":2021,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2020-12-18T11:48:38.072274Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-01-05","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2021-01-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1032","Date":"2021-05-11","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2021-05-12","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2021-05-19","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 75A","Date":"2021-05-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2021-06-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO HEALTH","Date":"2022-01-05","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2021-05-11","Chamber":"SENATE","Committee":"Health",
+   "Votes":[
+    {"ID":1136,"Name":"Brian Benjamin","Short":"BENJAMIN","Vote":"Aye"},
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":433,"Name":"Phil Boyle","Short":"BOYLE","Vote":"Nay"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Nay"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Nay"},
+    {"ID":1502,"Name":"Edward Rath","Short":"RATH","Vote":"Nay"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
+  {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}
+ ],
+ "Title":"Relates to adult vaccination reporting requirements",
+ "Summary":"Requires a health care provider who administers an immunization to a person nineteen years of age or older to report such information to the department of health or to a regional health information organization unless such person objects to such reporting.",
+ "LawSection":"Public Health Law","LawCode":"Amd §2168, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to adult immunization reporting requirements",
+ "SameAsPrintNo":"A279-2021","PreviousVersions":["S4494-2019"]
+}

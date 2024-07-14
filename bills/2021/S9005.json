@@ -1,0 +1,30 @@
+{
+ "PrintNo":"S9005","Session":2021,"Chamber":"SENATE","BillType":"Senate","Published":"2022-05-03T16:49:22.290553Z",
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-06-03","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2022-05-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1322","Date":"2022-05-11","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2022-05-16","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2022-05-17","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2022-06-03","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2022-05-11","Chamber":"SENATE","Committee":"Internet And Technology",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":403,"Name":"Diane J. Savino","Short":"SAVINO","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":403,"Name":"Diane J. Savino","Short":"SAVINO"}],"Title":"Establishes the \"secure our data act\"",
+ "Summary":"Establishes the \"secure our data act\"; relates to state entities preparing for and protecting against a ransomware attack.",
+ "LawSection":"State Technology Law","LawCode":"Add §210, St Tech L",
+ "ActClause":"AN ACT to amend the state technology law, in relation to establishing the \"secure our data act\""
+}

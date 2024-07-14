@@ -1,0 +1,57 @@
+{
+ "PrintNo":"S594","Version":"C","Session":2021,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2021-01-04T15:14:14.225052Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-06-03","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2021-01-06","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2021-04-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 594A","Date":"2021-04-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.939","Date":"2021-05-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2021-05-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2021-05-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2021-06-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO RULES","Date":"2021-12-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 594B","Date":"2021-12-27","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2022-01-05","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2022-04-06","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 594C","Date":"2022-04-06","Chamber":"SENATE","Version":"C"},
+  {"Text":"1ST REPORT CAL.776","Date":"2022-04-25","Chamber":"SENATE","Version":"C"},
+  {"Text":"2ND REPORT CAL.","Date":"2022-04-26","Chamber":"SENATE","Version":"C"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2022-04-27","Chamber":"SENATE","Version":"C"},
+  {"Text":"COMMITTED TO RULES","Date":"2022-06-03","Chamber":"SENATE","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2021-05-10","Version":"A","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1101,"Name":"John E. Brooks","Short":"BROOKS","Vote":"Aye"},
+    {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1502,"Name":"Edward Rath","Short":"RATH","Vote":"Aye"},
+    {"ID":1495,"Name":"Elijah Reichlin-Melnick","Short":"REICHLIN-MELNICK","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2022-04-25","Version":"C","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1101,"Name":"John E. Brooks","Short":"BROOKS","Vote":"Aye"},
+    {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1502,"Name":"Edward Rath","Short":"RATH","Vote":"Aye"},
+    {"ID":1495,"Name":"Elijah Reichlin-Melnick","Short":"REICHLIN-MELNICK","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1495,"Name":"Elijah Reichlin-Melnick","Short":"REICHLIN-MELNICK"}
+ ],
+ "Title":"Relates to Internet access and communications for municipalities",
+ "Summary":"Authorizes municipalities to construct and maintain broadband and related telecommunications infrastructure, or to contract with a corporation or nonprofit organization for such services; authorizes municipalities to issue and sell bonds or other municipal obligations to provide funds for such services.",
+ "LawSection":"General Municipal Law","LawCode":"Add §99-y, Gen Muni L",
+ "ActClause":"AN ACT to amend the general municipal law, in relation to Internet access and communications for municipalities",
+ "SameAsPrintNo":"A6763-2021","PreviousVersions":["S7229-2019"]
+}

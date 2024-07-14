@@ -1,0 +1,35 @@
+{
+ "PrintNo":"A5783","Session":2021,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2021-02-25T10:44:15.720208Z",
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2021-02-25","Committee":"Election Law"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2021-03-04"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2021-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2021-03-01","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.151","Date":"2021-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S264","Date":"2021-03-10","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1126,"Short":"NORRIS","Vote":"Aye"},
+    {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1467,"Short":"SILLITTI","Vote":"Aye"},{"ID":1463,"Short":"BURGOS","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Nay"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}],
+ "Title":"Relates to absentee voting application deadlines",
+ "Summary":"Relates to absentee voting application deadlines; provides all applications requesting an absentee ballot by mail must be received by the board of elections no later than the fifteenth day before the election for a ballot is first requested; provides applications delivered in person shall be received no later than the day before such election.",
+ "LawSection":"Election Law","LawCode":"Amd §8-400, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to absentee voting application deadlines",
+ "SameAsPrintNo":"S264-2021","PreviousVersions":["S8916-2019"]
+}

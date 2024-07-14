@@ -1,0 +1,58 @@
+{
+ "PrintNo":"S22","Version":"A","Session":2021,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2020-12-17T11:43:40.901497Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-03-02","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2021-01-06","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2021-01-19","Chamber":"SENATE"},
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2022-01-05","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2022-02-18",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 22A","Date":"2022-02-18","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2022-03-02","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2021-01-19","Chamber":"SENATE",
+   "Committee":"Commerce, Economic Development And Small Business",
+   "Votes":[
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN","Vote":"Aye"},
+    {"ID":1496,"Name":"Mike Martucci","Short":"MARTUCCI","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2022-03-02","Version":"A","Chamber":"SENATE",
+   "Committee":"Commerce, Economic Development And Small Business",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN","Vote":"Aye"},
+    {"ID":1496,"Name":"Mike Martucci","Short":"MARTUCCI","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
+  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1496,"Name":"Mike Martucci","Short":"MARTUCCI"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}
+ ],
+ "Title":"Relates to authorizing small business tax-deferred savings accounts",
+ "Summary":"Relates to authorizing small business tax-deferred savings accounts.",
+ "LawSection":"Economic Development Law","LawCode":"Add §138-a, Ec Dev L; amd §§208 & 612, Tax L",
+ "ActClause":"AN ACT to amend the economic development law and the tax law, in relation to authorizing the creation of small business tax-deferred savings accounts",
+ "SameAsPrintNo":"A2291-2021","PreviousVersions":["S2412-2019"]
+}

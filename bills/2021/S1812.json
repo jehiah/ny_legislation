@@ -1,0 +1,49 @@
+{
+ "PrintNo":"S1812","Version":"A","Session":2021,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2021-01-15T17:45:45.499743Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-01-18","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2021-01-15","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2021-01-25","Chamber":"SENATE"},
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2022-01-05","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO SOCIAL SERVICES","Date":"2022-01-11","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1812A","Date":"2022-01-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2022-01-18","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2021-01-26","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":890,"Name":"Susan Serino","Short":"SERINO","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2022-01-18","Version":"A","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":890,"Name":"Susan Serino","Short":"SERINO","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
+  {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}
+ ],
+ "Title":"Relates to the creation of a self-sufficiency standard study",
+ "Summary":"Relates to the creation of a self-sufficiency standard study regarding how much income is needed for a family of a given composition in a given geographic location to adequately meet its basic needs without public or private assistance.",
+ "LawSection":"Social Services Law","LawCode":"Add §131-cc, Soc Serv L",
+ "ActClause":"AN ACT to amend the social services law, in relation to the creation of a self-sufficiency standard study",
+ "SameAsPrintNo":"A5741-2021","PreviousVersions":["A10420-2015","A1589-2017","S5552-2019"]
+}

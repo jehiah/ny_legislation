@@ -1,0 +1,43 @@
+{
+ "PrintNo":"S1063","Session":2021,"Chamber":"SENATE","BillType":"Senate","Published":"2021-01-06T15:23:02.711625Z",
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-03-09","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2021-01-06","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2021-01-19","Chamber":"SENATE"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2022-01-05","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2022-03-09","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2021-01-19","Chamber":"SENATE","Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1495,"Name":"Elijah Reichlin-Melnick","Short":"REICHLIN-MELNICK","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2022-03-09","Chamber":"SENATE","Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1495,"Name":"Elijah Reichlin-Melnick","Short":"REICHLIN-MELNICK","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI"}],
+ "Title":"Prohibits certain agencies from charging for the process of a FOIL request made by state and local agencies or the state legislature",
+ "Summary":"Prohibits agencies from charging for the process of a FOIL request made by state and local agencies or the state legislature.",
+ "LawSection":"Public Officers Law","LawCode":"Amd §87, Pub Off L",
+ "ActClause":"AN ACT to amend the public officers law, in relation to prohibiting certain agencies from charging for the process of a FOIL request made by state and local agencies or the state legislature",
+ "SameAsPrintNo":"A1756-2021","PreviousVersions":["S7023-2017","S7856-2019"]
+}

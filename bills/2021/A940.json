@@ -1,0 +1,89 @@
+{
+ "PrintNo":"A940","Version":"B","Session":2021,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2020-12-30T13:43:12.703459Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2022-01-26","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2022-02-03"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2022-04-06"},
+  {"Type":"IN_SENATE_COMM","Date":"2022-04-06","Committee":"Consumer Protection"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2021-01-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2021-05-11","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 940A","Date":"2021-05-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2021-05-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2022-01-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2022-01-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 940B","Date":"2022-01-26","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2022-02-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ADVANCED TO THIRD READING CAL.358","Date":"2022-02-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2022-04-06","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2022-04-06","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2022-04-06","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1479,"Short":"LAWLER","Vote":"Aye"},
+    {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":660,"Short":"LALOR","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1123,"Short":"BYRNE","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1133,"Short":"WALLACE","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1479,"Short":"LAWLER","Vote":"Aye"},
+    {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":660,"Short":"LALOR","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1123,"Short":"BYRNE","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1133,"Short":"WALLACE","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":498,"Short":"CYMBROWITZ","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":511,"Short":"PERRY","Vote":"Aye"},
+    {"ID":622,"Short":"ABINANTI","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":0,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Nay"},
+    {"ID":0,"Short":"GIGLIO","Vote":"Nay"},{"ID":476,"Short":"MONTESANO","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":522,"Short":"O'DONNELL","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1479,"Short":"LAWLER","Vote":"Aye"},
+    {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":660,"Short":"LALOR","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1123,"Short":"BYRNE","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1133,"Short":"WALLACE","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":498,"Short":"CYMBROWITZ","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":511,"Short":"PERRY","Vote":"Aye"},
+    {"ID":622,"Short":"ABINANTI","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":0,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Nay"},
+    {"ID":0,"Short":"GIGLIO","Vote":"Nay"},{"ID":476,"Short":"MONTESANO","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":522,"Short":"O'DONNELL","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"}],
+ "Title":"Relates to automatic license plate readers",
+ "Summary":"Relates to automatic license plate readers (ALPRs) and mandatory postings of policies and annual reporting requirements.",
+ "LawSection":"Executive Law","LawCode":"Amd §840, add §837-x, Exec L",
+ "ActClause":"AN ACT to amend the executive law, in relation to the use of automatic license plate reader systems",
+ "SameAsPrintNo":"S685-2021","PreviousVersions":["S7245-2015","S23-2017","A7254-2019"]
+}

@@ -1,0 +1,50 @@
+{
+ "PrintNo":"S401","Version":"A","Session":2021,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2020-12-30T16:05:07.003744Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-03-09","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2021-01-06","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2021-05-05","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2022-01-05","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WOMEN'S ISSUES","Date":"2022-03-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 401A","Date":"2022-03-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2022-03-09","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2021-05-05","Chamber":"SENATE","Committee":"Women's Issues",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1235,"Name":"Daphne Jordan","Short":"JORDAN","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2022-03-09","Version":"A","Chamber":"SENATE","Committee":"Women's Issues",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1235,"Name":"Daphne Jordan","Short":"JORDAN","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+ ],
+ "Title":"Relates to women's health in correctional facilities",
+ "Summary":"Relates to women's health in correctional facilities; establishes a women's health education program; requires HIV and STD testing to be offered to incarcerated individuals; provides pregnant incarcerated individuals with access to prenatal vitamins as well as a specialized diet tailored to pregnancy needs; requires a study and report on women's health in prison.",
+ "LawSection":"Public Health Law",
+ "LawCode":"Add §207-b, amd §2308-a, Pub Health L; amd §§140 & 505, add §140-a, Cor L",
+ "ActClause":"AN ACT to amend the public health law, in relation to establishing the women's health education program for correctional facilities and rights of pregnant incarcerated individuals; to amend the public health law, in relation to requiring certain testing to be offered; to amend the correction law, in relation to providing pregnant incarcerated individuals with access to prenatal vitamins and a specialized diet; and to require the department of health to collect data on women's health care in prisons and publish a report",
+ "SameAsPrintNo":"A211-2021","PreviousVersions":["A8764-2017","S3126-2019"]
+}

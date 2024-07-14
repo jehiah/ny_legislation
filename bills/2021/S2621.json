@@ -1,0 +1,36 @@
+{
+ "PrintNo":"S2621","Session":2021,"Chamber":"SENATE","BillType":"Senate","Published":"2021-01-22T10:43:21.218879Z",
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2022-06-03","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2021-01-22","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CITIES 1","Date":"2022-01-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1138","Date":"2022-05-09","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2022-05-10","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2022-05-11","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2022-06-03","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2022-05-09","Chamber":"SENATE","Committee":"Cities 1",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN","Vote":"Aye"},
+    {"ID":1496,"Name":"Mike Martucci","Short":"MARTUCCI","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
+ ],
+ "Title":"Relates to calculating the area median income based on zip code for affordable housing programs in a city with a population of one million or more",
+ "Summary":"Establishes that area median income shall be calculated per each zip code in the city of New York.",
+ "LawSection":"New York City",
+ "ActClause":"AN ACT to require all affordable housing programs in a city having a population over one million to calculate the area median income based on the zip code in which the project will be located",
+ "PreviousVersions":["S4455-2017","S1691-2019"]
+}
