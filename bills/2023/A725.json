@@ -1,0 +1,40 @@
+{
+ "PrintNo":"A725","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-01-11T09:42:43.636882Z",
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2023-01-11","Committee":"Election Law"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2023-01-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2023-04-18","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.125","Date":"2023-04-20","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.23","Date":"2024-01-03","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S5943","Date":"2024-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Aye"},{"ID":1122,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1467,"Short":"SILLITTI","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1126,"Short":"NORRIS","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Nay"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1467,"Name":"Gina Sillitti","Short":"SILLITTI"},{"ID":1133,"Name":"Monica P. Wallace","Short":"WALLACE"},
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"}
+ ],
+ "Title":"Modifies the order in which candidates appear on the ballot",
+ "Summary":"Modifies the order in which candidates appear on the ballot; requires that offices shall be listed on the ballot in descending order based on the size of the electorate and requires certain federal offices to be listed before state, county or local offices.",
+ "LawSection":"Election Law","LawCode":"Amd §7-104, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to the order in which candidates appear on the ballot",
+ "SameAsPrintNo":"S5943-2023","PreviousVersions":["A4582-2021"]
+}

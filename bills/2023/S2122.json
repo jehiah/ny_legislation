@@ -1,0 +1,65 @@
+{
+ "PrintNo":"S2122","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-01-18T14:53:00.363589Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-02-06","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2023-01-18","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2023-05-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2122A","Date":"2023-05-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-05-17","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO HEALTH","Date":"2024-01-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-02-06","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-05-17","Version":"A","Chamber":"SENATE","Committee":"Health",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-02-06","Version":"A","Chamber":"SENATE","Committee":"Health",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":885,"Name":"Robert Ortt","Short":"ORTT"},
+  {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
+ ],
+ "Title":"Enacts the \"donor-conceived person protection act\"",
+ "Summary":"Enacts the \"donor-conceived person protection act\" to ensure that reproductive tissue banks, licensed by the department of health, collect and verify medical information from any donor it procures reproductive tissue from and to disseminate such information to a recipient before a recipient purchases or otherwise receives such tissue, and to donor-conceived persons, if any, when such persons turn eighteen years of age or earlier upon consent of the recipient parent or guardian; defines terms; makes related provisions.",
+ "LawSection":"Public Health Law","LawCode":"Add §4369-a, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to establishing the \"donor-conceived person protection act\"",
+ "SameAsPrintNo":"A2735-2023","PreviousVersions":["S7602-2021"]
+}

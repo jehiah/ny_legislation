@@ -1,0 +1,69 @@
+{
+ "PrintNo":"A494","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2023-01-09T11:31:18.420978Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Election Law"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-08"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2023-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ELECTION LAW","Date":"2023-05-11","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 494A","Date":"2023-05-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2023-05-24","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2024-01-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2024-03-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.361","Date":"2024-03-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 494B","Date":"2024-05-08","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED BY S6199B","Date":"2024-06-03","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1467,"Short":"SILLITTI","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1463,"Short":"BURGOS","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1126,"Short":"NORRIS","Vote":"Nay"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Nay"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"ELECTION LAW",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1467,"Short":"SILLITTI","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1463,"Short":"BURGOS","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1126,"Short":"NORRIS","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1126,"Short":"NORRIS","Vote":"Nay"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1467,"Short":"SILLITTI","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},
+  {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
+  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
+  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
+  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
+  {"ID":1526,"Name":"Juan Ardila","Short":"ARDILA"}
+ ],
+ "Title":"Relates to notifying candidates of designation for certain county committees",
+ "Summary":"Relates to notifying candidates of designation for certain county committees; requires the board of elections of the city of New York to provide notice to each candidate designated in a petition for election to a party position of a county committee located within the city of New York.",
+ "LawSection":"Election Law","LawCode":"Amd §6-134, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to notifying candidates of designation for certain county committees",
+ "SameAsPrintNo":"S6199-2023","PreviousVersions":["A7488-2019","A4236-2021"]
+}

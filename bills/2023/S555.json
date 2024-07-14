@@ -1,0 +1,66 @@
+{
+ "PrintNo":"S555","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-01-05T10:30:41.469912Z",
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-03-26","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2023-01-05","Chamber":"SENATE"},
+  {
+   "Text":"REPORTED AND COMMITTED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2023-04-18",
+   "Chamber":"SENATE"
+  },
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-05-22","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CITIES 1","Date":"2024-01-03","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-03-26","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-04-18","Chamber":"SENATE","Committee":"Cities 1",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2023-05-22","Chamber":"SENATE",
+   "Committee":"Housing, Construction And Community Development",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-03-26","Chamber":"SENATE","Committee":"Cities 1",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Title":"Enacts the New York city department of buildings community accountability act",
+ "Summary":"Enacts the New York city department of buildings community accountability act.",
+ "LawSection":"New York City Administrative Code",
+ "LawCode":"Amd §28-103.18.1, add §§28-103.18.2, 28-201.5 & 28-207.6, NYC Ad Cd",
+ "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to enacting the New York city department of buildings community accountability act",
+ "SameAsPrintNo":"A1027-2023",
+ "PreviousVersions":["A7745-2007","A4770-2009","A1785-2011","A5159-2013","A3617-2015","A4705-2017","A3115-2019","S6948-2021"]
+}

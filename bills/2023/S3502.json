@@ -1,0 +1,51 @@
+{
+ "PrintNo":"S3502","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-01-31T14:05:38.577537Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-06-07","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2023-01-31","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2023-05-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3502A","Date":"2023-05-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-05-15","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2024-01-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.704","Date":"2024-03-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2024-03-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2024-03-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 3502B","Date":"2024-05-21","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTED TO RULES","Date":"2024-06-07","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-05-15","Version":"A","Chamber":"SENATE",
+   "Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-03-25","Version":"A","Chamber":"SENATE",
+   "Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
+ "Title":"Requires inter-agency records prepared by an outside consultant on behalf of an agency to be subject to FOIL disclosure",
+ "Summary":"Requires inter-agency records prepared on behalf of an agency to be subject to FOIL disclosure.",
+ "LawSection":"Public Officers Law","LawCode":"Amd §87, Pub Off L",
+ "ActClause":"AN ACT to amend the public officers law, in relation to requiring inter-agency records prepared by an outside consultant on behalf of an agency to be subject to FOIL disclosure",
+ "SameAsPrintNo":"A6103-2023","PreviousVersions":["S8925-2021"]
+}

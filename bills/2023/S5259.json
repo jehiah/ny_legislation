@@ -1,0 +1,48 @@
+{
+ "PrintNo":"S5259","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-02-28T13:12:11.444117Z",
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-05-15","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2023-02-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1342","Date":"2023-05-23","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2023-05-24","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2023-05-30","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2023-06-10","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ELECTIONS","Date":"2024-01-03","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-05-15","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-05-23","Chamber":"SENATE","Committee":"Elections",
+   "Votes":[
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-05-15","Chamber":"SENATE","Committee":"Elections",
+   "Votes":[
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"}
+ ],
+ "Title":"Directs the state board of elections to conduct a study on the implementation and impact of ranked choice voting in New York state",
+ "Summary":"Directs the state board of elections to conduct a study on the implementation and impact of ranked choice voting in New York state.",
+ "LawSection":"Election Law","LawCode":"Add §3-228, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to directing the state board of elections to conduct a study on the implementation and impact of ranked choice voting in New York state"
+}

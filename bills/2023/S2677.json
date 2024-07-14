@@ -1,0 +1,40 @@
+{
+ "PrintNo":"S2677","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-01-24T10:12:45.795948Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2023-01-24","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2023-05-30"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2023-01-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1179","Date":"2023-05-22","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2023-05-23","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2023-05-24","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 2677A","Date":"2023-05-30","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A463A","Date":"2023-06-07","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-05-22","Chamber":"SENATE","Committee":"Insurance",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":372,"Name":"Neil D. Breslin","Short":"BRESLIN","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":429,"Name":"Timothy M. Kennedy","Short":"KENNEDY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":372,"Name":"Neil D. Breslin","Short":"BRESLIN"},{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
+ ],
+ "Title":"Requires notice of adverse step therapy determinations",
+ "Summary":"Requires written notice of an adverse determination made by a utilization review agent in relation to a step therapy protocol override determination.",
+ "LawSection":"Insurance Law","LawCode":"Amd §§4902 & 4903, Ins L; amd §§4902 & 4903, Pub Health L",
+ "ActClause":"AN ACT to amend the insurance law and the public health law, in relation to requiring notice of adverse step therapy determinations",
+ "SameAsPrintNo":"A463-2023","PreviousVersions":["S8194-2021"]
+}

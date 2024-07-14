@@ -1,0 +1,63 @@
+{
+ "PrintNo":"S897","Version":"C","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-01-09T09:41:46.792108Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-05-17","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2023-01-09","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-05-22","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2023-05-23","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 897A","Date":"2023-05-23","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2024-01-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2024-02-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 897B","Date":"2024-02-21","Chamber":"SENATE","Version":"B"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-02-27","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2024-05-17","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 897C","Date":"2024-05-17","Chamber":"SENATE","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-05-22","Chamber":"SENATE","Committee":"Environmental Conservation",
+   "Votes":[
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-02-27","Version":"B","Chamber":"SENATE","Committee":"Environmental Conservation",
+   "Votes":[
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
+  {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
+  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}
+ ],
+ "Title":"Establishes the climate corporate data accountability act",
+ "Summary":"Establishes the climate corporate data accountability act requiring certain business entities within the state to annually disclose scope 1, scope 2 and scope 3 emissions; establishes the climate accountability and emissions disclosure fund.",
+ "LawSection":"Environmental Conservation Law",
+ "LawCode":"Add Art 74 §§74-0101 & 74-0102, En Con L; add §99-ss, St Fin L",
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to climate corporate data accountability; and to amend the state finance law, in relation to establishing the climate accountability and emissions disclosure fund",
+ "SameAsPrintNo":"A4123-2023","PreviousVersions":["S9595-2021"]
+}

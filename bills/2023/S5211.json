@@ -1,0 +1,47 @@
+{
+ "PrintNo":"S5211","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-02-27T11:45:41.740861Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-02-26","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2023-02-27","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-04-17","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2024-01-03","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2024-02-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5211A","Date":"2024-02-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2024-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 5211B","Date":"2024-02-26","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-04-17","Chamber":"SENATE","Committee":"Civil Service And Pensions",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1514,"Name":"Iwen Chu","Short":"CHU","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-02-26","Version":"A","Chamber":"SENATE","Committee":"Civil Service And Pensions",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1514,"Name":"Iwen Chu","Short":"CHU","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1514,"Name":"Iwen Chu","Short":"CHU"}],
+ "Title":"Provides a lung disease presumption for correction officers, correction supervisors, deputy sheriff patrol or deputy sheriff patrol supervisors",
+ "Summary":"Provides a lung disease presumption for correction officers, correction supervisors, deputy sheriff patrol or deputy sheriff patrol supervisors.",
+ "LawSection":"Retirement and Social Security Law","LawCode":"Add §§63-j & 605-h, R & SS L",
+ "ActClause":"AN ACT to amend the retirement and social security law, in relation to providing a lung disease presumption for correction officers, correction supervisors, deputy sheriff patrol or deputy sheriff patrol supervisors",
+ "SameAsPrintNo":"A5205-2023","PreviousVersions":["S3977-2019","S8557-2021"]
+}

@@ -1,0 +1,55 @@
+{
+ "PrintNo":"A5613","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2023-03-17T12:36:57.167784Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-05","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-03-21"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-25"},
+  {"Type":"IN_SENATE_COMM","Date":"2024-03-25","Committee":"Investigations And Government Operations"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2023-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2024-01-03","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2024-02-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5613A","Date":"2024-02-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2024-03-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 5613B","Date":"2024-03-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2024-03-19","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ADVANCED TO THIRD READING CAL.370","Date":"2024-03-21","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2024-03-25","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2024-03-25","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2024-03-25","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1133,"Short":"WALLACE","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1133,"Short":"WALLACE","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":545,"Name":"Kenneth Zebrowski","Short":"ZEBROWSKI"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
+ "Title":"Relates to accessing records under the freedom of information law",
+ "Summary":"Provides for accessing records under the freedom of information law including notification procedures and the release of names of natural persons and residential addresses.",
+ "LawSection":"Public Officers Law","LawCode":"Amd §89, Pub Off L",
+ "ActClause":"AN ACT to amend the public officers law, in relation to accessing records under the freedom of information law",
+ "SameAsPrintNo":"S1726-2023","PreviousVersions":["A8255-2017","A119-2019","A7544-2021"]
+}

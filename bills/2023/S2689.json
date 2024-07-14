@@ -1,0 +1,75 @@
+{
+ "PrintNo":"S2689","Version":"C","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-01-24T10:33:02.329545Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-05-07","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2023-01-24","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO ENERGY AND TELECOMMUNICATIONS","Date":"2023-02-14","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2023-04-04","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2689A","Date":"2023-04-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2024-01-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO PROCUREMENT AND CONTRACTS","Date":"2024-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 2689B","Date":"2024-02-26","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO PROCUREMENT AND CONTRACTS","Date":"2024-03-21","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 2689C","Date":"2024-03-21","Chamber":"SENATE","Version":"C"},
+  {
+   "Text":"REPORTED AND COMMITTED TO ENERGY AND TELECOMMUNICATIONS","Date":"2024-03-26","Chamber":"SENATE",
+   "Version":"C"
+  },
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-05-07","Chamber":"SENATE","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-02-14","Chamber":"SENATE","Committee":"Procurement And Contracts",
+   "Votes":[
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-03-26","Version":"C","Chamber":"SENATE","Committee":"Procurement And Contracts",
+   "Votes":[
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-05-07","Version":"C","Chamber":"SENATE",
+   "Committee":"Energy And Telecommunications",
+   "Votes":[
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Nay"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":372,"Name":"Neil D. Breslin","Short":"BRESLIN"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
+  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
+  {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}
+ ],
+ "Title":"Relates to the utilization of renewable energy at state-owned facilities in Albany",
+ "Summary":"Enacts the \"Renewable Capitol act\"; requires the office of general services, in consultation with the power authority of the state of New York, to ensure that all operations that power, heat or cool the empire state plaza complex shall entirely use renewable energy systems; requires the office of general services to establish an advisory committee to advise the office of general services on the preparation, design and content of a plan for the use of renewable energy systems.",
+ "LawSection":"Executive Law","LawCode":"Add §204, Exec L; amd §1005, Pub Auth L; amd §§90 & 91, Pub Bldg L",
+ "ActClause":"AN ACT to amend the executive law, the public authorities law and the public buildings law, in relation to the utilization of renewable energy at state-owned facilities in Albany",
+ "SameAsPrintNo":"A5633-2023","PreviousVersions":["S8221-2021"]
+}

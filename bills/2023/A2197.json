@@ -1,0 +1,77 @@
+{
+ "PrintNo":"A2197","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-01-23T13:15:59.698885Z",
+ "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2023-01-23","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2024-01-17"},
+  {"Type":"IN_SENATE_COMM","Date":"2024-01-17","Committee":"Consumer Protection"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2023-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2023-04-25","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.158","Date":"2023-04-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2023-06-07","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2023-06-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RULES","Date":"2023-06-07","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2024-01-03","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-01-03","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.68","Date":"2024-01-03","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2024-01-17","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2024-01-17","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2024-01-17","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1148,"Short":"SMITH","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1544,"Short":"GRAY","Vote":"Nay"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1148,"Short":"SMITH","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1544,"Short":"GRAY","Vote":"Nay"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1148,"Short":"SMITH","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1544,"Short":"GRAY","Vote":"Nay"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+ ],
+ "Title":"Requires comparison of prices charged by energy services companies",
+ "Summary":"Requires that a billing statement delivered to the customer by an energy services company include a side-by-side comparison showing both the price charged by the energy service company for commodity and delivery service during the prior billing period, and the price the customer would have paid had they taken commodity and delivery service from their local utility corporation or municipality; requires an energy service company to provide each of its customers with an annual statement comparing the price charged by the energy service company for commodity and delivery services and other energy-related value-added products over the prior twelve-month period with the price such customer would have paid had they taken commodity and delivery service from their local utility corporation or municipality.",
+ "LawSection":"General Business Law","LawCode":"Amd §349-d, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to requiring comparison of prices charged by energy services companies",
+ "SameAsPrintNo":"S2600-2023","PreviousVersions":["A9892-2019","A1886-2021"]
+}

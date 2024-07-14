@@ -1,0 +1,54 @@
+{
+ "PrintNo":"A9621","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-03-26T09:02:05.842967Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-26","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-20"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2024-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2024-04-09","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.416","Date":"2024-04-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 9621A","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2024-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2024-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2024-06-04","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1133,"Short":"WALLACE","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1133,"Short":"WALLACE","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
+  {"ID":657,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
+  {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}
+ ],
+ "Title":"Relates to requiring agencies to report information about FOIL inquiries to the committee on open government",
+ "Summary":"Requires all agencies to submit to the committee on open government a log of all freedom of information law requests for each year in which they received or have pending a request for records; requires the committee on open government to publish, on one webpage, all freedom of information law request logs it receives.",
+ "LawSection":"Public Officers Law","LawCode":"Ren §90 to be §90-a, add §90, Pub Off L",
+ "ActClause":"AN ACT to amend the public officers law, in relation to requiring agencies to report information about FOIL inquiries to the committee on open government",
+ "SameAsPrintNo":"S8671-2023"
+}

@@ -1,0 +1,57 @@
+{
+ "PrintNo":"S3103","Version":"C","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-01-27T12:43:41.10285Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-03-19","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2023-01-27","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2023-05-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3103A","Date":"2023-05-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-05-23","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2023-05-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 3103B","Date":"2023-05-25","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2024-01-03","Chamber":"SENATE","Version":"B"},
+  {
+   "Text":"AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2024-03-12","Chamber":"SENATE",
+   "Version":"B"
+  },
+  {"Text":"PRINT NUMBER 3103C","Date":"2024-03-12","Chamber":"SENATE","Version":"C"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-03-19","Chamber":"SENATE","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-05-22","Version":"A","Chamber":"SENATE",
+   "Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-03-19","Version":"C","Chamber":"SENATE",
+   "Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+ ],
+ "Title":"Requires mental health services for incarcerated individuals with mental health issues related to the trauma of incarceration",
+ "Summary":"Requires mental health services for incarcerated individuals with mental health issues related to the trauma of incarceration upon reentry and reintegration into society upon release.",
+ "LawSection":"Correction Law","LawCode":"Amd §§71-a & 78, Cor L",
+ "ActClause":"AN ACT to amend the correction law, in relation to requiring mental health services for incarcerated individuals with mental health issues related to the trauma of incarceration",
+ "SameAsPrintNo":"A6058-2023","PreviousVersions":["S8923-2021"]
+}

@@ -1,0 +1,35 @@
+{
+ "PrintNo":"A4072","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-02-09T13:45:40.296322Z",
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2023-02-09","Committee":"Election Law"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2023-03-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2023-02-09","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2023-03-28","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.109","Date":"2023-03-30","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S945","Date":"2023-04-17","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":1126,"Short":"NORRIS","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Aye"},{"ID":1122,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Excused"},{"ID":1467,"Short":"SILLITTI","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL"}],
+ "Title":"Amends election law to accurately reflect proper cross reference",
+ "Summary":"Amends election law to accurately reflect proper cross reference relating to the operational failure of a voting machine.",
+ "LawSection":"Election Law","LawCode":"Amd §9-211, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to making technical corrections thereto",
+ "SameAsPrintNo":"S945-2023"
+}

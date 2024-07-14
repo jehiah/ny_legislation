@@ -1,0 +1,52 @@
+{
+ "PrintNo":"A8999","Version":"C","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-02-01T16:06:31.726539Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-22","Committee":"Banks"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-22"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2024-02-01","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2024-02-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8999A","Date":"2024-02-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2024-02-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.336","Date":"2024-02-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 8999B","Date":"2024-05-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 8999C","Date":"2024-05-22","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SUBSTITUTED BY S2601B","Date":"2024-06-04","Chamber":"ASSEMBLY","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":901,"Short":"JEAN-PIERRE","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":607,"Short":"CURRAN","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Nay"},{"ID":656,"Short":"DIPIETRO","Vote":"Nay"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":1528,"Short":"CHANG","Vote":"Nay"},
+    {"ID":1524,"Short":"FLOOD","Vote":"Nay"},{"ID":1248,"Short":"SMULLEN","Vote":"Excused"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Excused"},{"ID":1128,"Short":"DICKENS","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
+  {"ID":1128,"Name":"Inez E. Dickens","Short":"DICKENS"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
+  {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
+  {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},{"ID":1526,"Name":"Juan Ardila","Short":"ARDILA"},
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
+  {"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
+  {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"}
+ ],
+ "Title":"Prohibits fees for any service rendered through a bank relating to the use of an electronic benefit transfer card issued by the state or certain departments or agencies thereof",
+ "Summary":"Prohibits fees for any service rendered through a banking organization relating to the use of an electronic benefit transfer card issued by the state or certain departments or agencies thereof.",
+ "LawSection":"Banking Law","LawCode":"Add §9-aa, Bank L",
+ "ActClause":"AN ACT to amend the banking law, in relation to prohibiting fees for benefit banking services",
+ "SameAsPrintNo":"S2601-2023","PreviousVersions":["S8616-2019","S446-2021"]
+}

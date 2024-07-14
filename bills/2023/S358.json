@@ -1,0 +1,37 @@
+{
+ "PrintNo":"S358","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-01-03T12:37:13.984369Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2023-01-04","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2023-05-08"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2023-01-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.325","Date":"2023-02-08","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2023-02-13","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2023-02-14","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 358A","Date":"2023-03-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 358B","Date":"2023-05-08","Chamber":"SENATE","Version":"B"},
+  {"Text":"SUBSTITUTED BY A2258B","Date":"2023-06-05","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-02-08","Chamber":"SENATE","Committee":"Consumer Protection",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS"}],
+ "Title":"Relates to prohibiting the unauthorized installation of certain security devices on residential buildings",
+ "Summary":"Prohibits the installation of certain security devices used to control access to common areas of a residential building without the written permission of the owners, board of managers, board of directors, or authorized party of such property.",
+ "LawSection":"General Business Law","LawCode":"Add §390-e, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the unauthorized installation of certain security devices on residential buildings",
+ "SameAsPrintNo":"A2258-2023","PreviousVersions":["S8380-2021"]
+}

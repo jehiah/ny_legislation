@@ -1,0 +1,66 @@
+{
+ "PrintNo":"A1880","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2023-01-23T10:53:13.267371Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2023-01-23","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2023-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2023-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.11","Date":"2023-02-16","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 1880A","Date":"2023-03-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2023-05-18","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2023-05-18","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2023-05-18","Chamber":"SENATE","Version":"A"},
+  {"Text":"DIED IN SENATE","Date":"2024-01-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-01-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.56","Date":"2024-01-03","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":522,"Short":"O'DONNELL","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":0,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":607,"Short":"CURRAN","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1524,"Short":"FLOOD","Vote":"Nay"},{"ID":488,"Short":"HEVESI","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":522,"Short":"O'DONNELL","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":0,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":607,"Short":"CURRAN","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1524,"Short":"FLOOD","Vote":"Nay"},{"ID":488,"Short":"HEVESI","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":457,"Name":"Vivian Cook","Short":"COOK"},
+  {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
+  {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":902,"Name":"Latoya Joyner","Short":"JOYNER"},
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL L"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
+  {"ID":896,"Name":"Latrice Walker","Short":"WALKER"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
+  {"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
+  {"ID":665,"Name":"Steven Otis","Short":"OTIS"}
+ ],
+ "Title":"Relates to creating the New York electronic communications privacy act; search and seizure of electronic devices and electronic communications",
+ "Summary":"Creates the New York electronic communications privacy act; requires government agents and agencies to obtain a search warrant for physical or electronic access to electronic device information.",
+ "LawSection":"Criminal Procedure Law","LawCode":"Add Art 695 §§695.05 - 695.25, CP L",
+ "ActClause":"AN ACT to amend the criminal procedure law, in relation to establishing the New York electronic communications privacy act (\"NYECPA\")",
+ "SameAsPrintNo":"S2615-2023","PreviousVersions":["A9235-2015","A1895-2017","A2620-2019","A5045-2021"]
+}

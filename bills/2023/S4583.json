@@ -1,0 +1,48 @@
+{
+ "PrintNo":"S4583","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-02-10T14:18:20.646573Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-01-29","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2023-02-10","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-04-17","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2023-05-22","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4583A","Date":"2023-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2024-01-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-01-29","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-04-17","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-01-29","Version":"A","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
+ ],
+ "Title":"Relates to the next generation 911 system, an emergency services internet protocol network",
+ "Summary":"Requires the state shall offer a statewide emergency services internet protocol network (ESINet) available for connection to local public safety answering points (PSAPs).",
+ "LawSection":"County Law","LawCode":"Add §325-a, County L",
+ "ActClause":"AN ACT to amend the county law, in relation to the next generation 911 system, an emergency services internet protocol network",
+ "SameAsPrintNo":"A5942-2023"
+}

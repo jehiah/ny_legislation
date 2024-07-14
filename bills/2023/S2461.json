@@ -1,0 +1,50 @@
+{
+ "PrintNo":"S2461","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-01-20T14:24:32.361303Z",
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-04-16","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2023-01-20","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-05-09","Chamber":"SENATE"},
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2024-01-03","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-04-16","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-05-09","Chamber":"SENATE","Committee":"Agriculture",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-04-16","Chamber":"SENATE","Committee":"Agriculture",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"}
+ ],
+ "Title":"Establishes the sanitary retail food store grant program",
+ "Summary":"Establishes the sanitary retail food store grant program to provide funding to retail food stores that fail inspections to correct deficiencies if such stores are unable to sustain the costs to immediately correct critical deficiencies, are located in food deserts, and would otherwise be unable to stay in operation due to their inability to meet and maintain sanitary standards.",
+ "LawSection":"Agriculture and Markets Law","LawCode":"Add §501, amd §500, Ag & Mkts L",
+ "ActClause":"AN ACT to amend the agriculture and markets law, in relation to establishing the sanitary retail food store grant program",
+ "SameAsPrintNo":"A2262-2023","PreviousVersions":["S7585-2021"]
+}

@@ -1,0 +1,43 @@
+{
+ "PrintNo":"S2360","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-01-20T09:25:04.12873Z",
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-01-29","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO DISABILITIES","Date":"2023-01-20","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-05-22","Chamber":"SENATE"},
+  {"Text":"REFERRED TO DISABILITIES","Date":"2024-01-03","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-01-29","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-05-22","Chamber":"SENATE","Committee":"Disabilities",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-01-29","Chamber":"SENATE","Committee":"Disabilities",
+   "Votes":[
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1498,"Name":"John Mannion","Short":"MANNION","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1498,"Name":"John Mannion","Short":"MANNION"}],
+ "Title":"Prohibits the withholding of state funding for service providers for people with developmental disabilities due to the receipt of certain COVID-19 federal funds",
+ "Summary":"Prohibits the withholding of state funding for service providers for people with developmental disabilities due to the receipt of certain COVID-19 federal funds.",
+ "LawSection":"Mental Hygiene Law","LawCode":"Add §16.38, Ment Hyg L",
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to prohibiting the withholding of state funding for service providers for people with developmental disabilities due to the receipt of COVID-19 federal funds",
+ "SameAsPrintNo":"A2359-2023","PreviousVersions":["S8208-2021"]
+}

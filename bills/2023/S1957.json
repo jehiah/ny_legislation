@@ -1,0 +1,46 @@
+{
+ "PrintNo":"S1957","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-01-17T15:10:34.807786Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2023-01-17","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-02-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2023-05-25","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1957A","Date":"2023-05-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2024-01-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-05-14","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2023-02-13","Chamber":"SENATE","Committee":"Racing, Gaming And Wagering",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2024-05-14","Version":"A","Chamber":"SENATE",
+   "Committee":"Racing, Gaming And Wagering",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
+ "Title":"Relates to handicapping tournaments",
+ "Summary":"Specifies who can operate a handicapping tournament; requires handicapping tournament operators to distribute no less than eighty percent of entry fees as prizes to the winners of a handicapping tournament; requires that five percent of the portion of the gross revenue collected by an operator on handicapping tournament entry fees from New York participants that is not distributed as prizes to the winners of a tournament be distributed quarterly by such operator to the horsemen's organization for welfare and medical plans for regularly employed backstretch employees.",
+ "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Amd §906, RWB L",
+ "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to handicapping tournaments",
+ "SameAsPrintNo":"A3611-2023","PreviousVersions":["A7840-2021","S7034-2021"]
+}
