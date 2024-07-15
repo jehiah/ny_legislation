@@ -1,0 +1,56 @@
+{
+ "PrintNo":"S2412","Version":"B","Session":2019,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2019-01-24T15:11:22.318584Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2020-03-03","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2019-01-24","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2019-02-27","Chamber":"SENATE"},
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2020-01-08","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2020-01-21",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 2412A","Date":"2020-01-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2020-02-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2020-03-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 2412B","Date":"2020-03-03","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2019-02-27","Chamber":"SENATE",
+   "Committee":"Commerce, Economic Development And Small Business",
+   "Votes":[
+    {"ID":913,"Name":"Fredrick J. Akshar II","Short":"AKSHAR","Vote":"Aye"},
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":433,"Name":"Phil Boyle","Short":"BOYLE","Vote":"Aye"},
+    {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2020-02-04","Version":"A","Chamber":"SENATE",
+   "Committee":"Commerce, Economic Development And Small Business",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":433,"Name":"Phil Boyle","Short":"BOYLE","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1222,"Name":"Jim Gaughran","Short":"GAUGHRAN","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],
+ "Title":"Relates to authorizing small business tax-deferred savings accounts",
+ "Summary":"Relates to authorizing small business tax-deferred savings accounts.",
+ "LawSection":"Economic Development Law","LawCode":"Add §138-a, Ec Dev L; amd §§208 & 612, Tax L",
+ "ActClause":"AN ACT to amend the economic development law and the tax law, in relation to authorizing the creation of small business tax-deferred savings accounts",
+ "SameAsPrintNo":"A7332-2019"
+}

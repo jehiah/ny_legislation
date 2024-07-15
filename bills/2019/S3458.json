@@ -1,0 +1,61 @@
+{
+ "PrintNo":"S3458","Version":"A","Session":2019,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2019-02-07T13:05:36.587591Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2020-03-10","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2019-02-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2019-03-12","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2019-03-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3458A","Date":"2019-03-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO HEALTH","Date":"2020-01-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2020-03-10","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2019-03-12","Chamber":"SENATE","Committee":"Health",
+   "Votes":[
+    {"ID":1136,"Name":"Brian Benjamin","Short":"BENJAMIN","Vote":"Aye"},
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":370,"Name":"David Carlucci","Short":"CARLUCCI","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":1234,"Name":"Jen Metzger","Short":"METZGER","Vote":"Aye"},
+    {"ID":381,"Name":"Velmanette Montgomery","Short":"MONTGOMERY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":1099,"Name":"Chris Jacobs","Short":"JACOBS","Vote":"Aye"},
+    {"ID":379,"Name":"Betty Little","Short":"LITTLE","Vote":"Aye"},
+    {"ID":423,"Name":"Patty Ritchie","Short":"RITCHIE","Vote":"Aye"},
+    {"ID":1236,"Name":"Bob Antonacci","Short":"ANTONACCI","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2020-03-10","Version":"A","Chamber":"SENATE","Committee":"Health",
+   "Votes":[
+    {"ID":1136,"Name":"Brian Benjamin","Short":"BENJAMIN","Vote":"Aye"},
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":370,"Name":"David Carlucci","Short":"CARLUCCI","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":1234,"Name":"Jen Metzger","Short":"METZGER","Vote":"Aye"},
+    {"ID":381,"Name":"Velmanette Montgomery","Short":"MONTGOMERY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":379,"Name":"Betty Little","Short":"LITTLE","Vote":"Aye"},
+    {"ID":423,"Name":"Patty Ritchie","Short":"RITCHIE","Vote":"Aye"},
+    {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Nay"},
+    {"ID":1099,"Name":"Chris Jacobs","Short":"JACOBS","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
+ "Title":"Relates to medical assistance coverage for medically tailored meals",
+ "Summary":"Requires medical assistance coverage for medically tailored meals and medical nutrition therapy for the purpose of disease management.",
+ "LawSection":"Social Services Law","LawCode":"Amd §365-a, Soc Serv L",
+ "ActClause":"AN ACT to amend the social services law, in relation to medical assistance coverage for medically tailored meals and medical nutrition therapy for the purpose of disease management",
+ "SameAsPrintNo":"A2794-2019"
+}

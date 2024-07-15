@@ -1,0 +1,37 @@
+{
+ "PrintNo":"S1607","Session":2019,"Chamber":"SENATE","BillType":"Senate","Published":"2019-01-15T11:45:22.199655Z",
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2019-01-15","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2019-05-06"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2019-01-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.526","Date":"2019-04-30","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2019-05-01","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2019-05-06","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED BY A1503","Date":"2019-06-19","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2019-04-30","Chamber":"SENATE","Committee":"Energy And Telecommunications",
+   "Votes":[
+    {"ID":370,"Name":"David Carlucci","Short":"CARLUCCI","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":429,"Name":"Timothy M. Kennedy","Short":"KENNEDY","Vote":"Aye"},
+    {"ID":1234,"Name":"Jen Metzger","Short":"METZGER","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":423,"Name":"Patty Ritchie","Short":"RITCHIE","Vote":"Aye"},
+    {"ID":887,"Name":"Rich Funke","Short":"FUNKE","Vote":"Nay"},
+    {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
+ "Title":"Relates to studying the implementation of 5G and next gen network technology in the state",
+ "Summary":"Requires the office of information technology services to study and evaluate the future implementation and possible impact of 5G technology in the state.",
+ "LawSection":"State Technology",
+ "ActClause":"AN ACT directing the study of the future implementation of fifth and future generation wireless network system technology in the state",
+ "SameAsPrintNo":"A1503-2019","PreviousVersions":["A8848-2017","S7635-2017"]
+}

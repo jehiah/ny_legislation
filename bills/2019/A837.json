@@ -1,0 +1,39 @@
+{
+ "PrintNo":"A837","Version":"A","Session":2019,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2019-01-11T15:57:12.114066Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2019-01-11","Committee":"Election Law"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2019-06-03"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2019-01-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2019-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.377","Date":"2019-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 837A","Date":"2019-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED BY S211C","Date":"2019-06-18","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1126,"Short":"NORRIS","Vote":"Aye"},
+    {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Aye"},{"ID":575,"Short":"LIFTON","Vote":"Aye"},
+    {"ID":654,"Short":"BUCHWALD","Vote":"Aye"},{"ID":899,"Short":"BLAKE","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1122,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1130,"Short":"D'URSO","Vote":"Aye"},
+    {"ID":503,"Short":"LENTOL","Vote":"Excused"},{"ID":1141,"Short":"TAYLOR","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL L"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1130,"Name":"Anthony D'Urso","Short":"D'URSO"},{"ID":527,"Name":"Richard Gottfried","Short":"GOTTFRIED R"}
+ ],
+ "Title":"Relates to voter notification of special elections",
+ "Summary":"Relates to voter notification of special elections; provides such notice be posted on the board of elections website not less than two weeks prior to such election.",
+ "LawSection":"Election Law","LawCode":"Amd §4-120, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to voter notification of special elections",
+ "SameAsPrintNo":"S211-2019","PreviousVersions":["A8393-2017"]
+}

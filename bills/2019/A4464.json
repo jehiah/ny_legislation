@@ -1,0 +1,48 @@
+{
+ "PrintNo":"A4464","Session":2019,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2019-02-04T12:21:44.784483Z",
+ "Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2020-01-08","Committee":"Racing And Wagering"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2020-02-27"},{"Type":"PASSED_ASSEMBLY","Date":"2020-03-02"},
+  {"Type":"IN_SENATE_COMM","Date":"2020-03-02","Committee":"Racing, Gaming And Wagering"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO RACING AND WAGERING","Date":"2019-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RACING AND WAGERING","Date":"2020-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2020-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.424","Date":"2020-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2020-03-02","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2020-03-02","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2020-03-02","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":1239,"Short":"LIPETRI","Vote":"Aye"},
+    {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":658,"Short":"GARBARINO","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":909,"Short":"LAWRENCE","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":1239,"Short":"LIPETRI","Vote":"Aye"},
+    {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":658,"Short":"GARBARINO","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":909,"Short":"LAWRENCE","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":539,"Name":"J. Gary Pretlow","Short":"PRETLOW"},{"ID":492,"Name":"Michael G. Miller","Short":"MILLER MG"}],
+ "Title":"Requires lottery sales agents to return previously purchased lottery tickets to the persons submitting them to such agents for verification of prizes",
+ "Summary":"Requires lottery sales agents to return previously purchased lottery tickets to the persons submitting them to such agents for verification of prizes won or lost; requires lottery ticket dispensing machines used for verifying if a ticket is a winner or not to return the ticket submitted for verification.",
+ "LawSection":"Tax Law","LawCode":"Add §1613-d, Tax L",
+ "ActClause":"AN ACT to amend the tax law, in relation to requiring lottery sales agents to return previously purchased lottery tickets to the person submitting them to such agent for verification of prizes",
+ "PreviousVersions":["A9953-2009","A3708-2011","A2330-2013","A1287-2015","A1823-2017"]
+}

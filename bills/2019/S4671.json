@@ -1,0 +1,45 @@
+{
+ "PrintNo":"S4671","Version":"A","Session":2019,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2019-03-20T10:15:57.48929Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2020-03-03","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2019-03-20","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2019-04-30","Chamber":"SENATE"},
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2020-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2020-01-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4671A","Date":"2020-01-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2020-03-03","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2019-04-30","Chamber":"SENATE","Committee":"Budget And Revenue",
+   "Votes":[
+    {"ID":1236,"Name":"Bob Antonacci","Short":"ANTONACCI","Vote":"Aye"},
+    {"ID":1136,"Name":"Brian Benjamin","Short":"BENJAMIN","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2020-03-03","Version":"A","Chamber":"SENATE","Committee":"Budget And Revenue",
+   "Votes":[
+    {"ID":1136,"Name":"Brian Benjamin","Short":"BENJAMIN","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1224,"Name":"Anna Kaplan","Short":"KAPLAN"},{"ID":1235,"Name":"Daphne Jordan","Short":"JORDAN"}],
+ "Title":"Relates to pass-through manufacturers zero percent tax rate",
+ "Summary":"Relates to pass-through manufacturers zero percent tax rate.","LawSection":"Tax Law",
+ "LawCode":"Amd §§612, 606 & 210-B, Tax L",
+ "ActClause":"AN ACT to amend the tax law, in relation to pass-through manufacturers zero percent tax rate",
+ "SameAsPrintNo":"A636-2019"
+}

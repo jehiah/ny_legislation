@@ -1,0 +1,51 @@
+{
+ "PrintNo":"S5802","Version":"A","Session":2019,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2019-05-15T09:23:31.630831Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2020-12-28","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2019-05-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.971","Date":"2019-05-29","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2019-05-30","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2019-06-03","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 5802A","Date":"2019-06-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2019-06-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2020-01-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.409","Date":"2020-02-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2020-02-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2020-02-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2020-12-28","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2019-05-29","Chamber":"SENATE","Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":370,"Name":"David Carlucci","Short":"CARLUCCI","Vote":"Aye"},
+    {"ID":1099,"Name":"Chris Jacobs","Short":"JACOBS","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2020-02-11","Version":"A","Chamber":"SENATE",
+   "Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":370,"Name":"David Carlucci","Short":"CARLUCCI","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":1099,"Name":"Chris Jacobs","Short":"JACOBS","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1136,"Name":"Brian Benjamin","Short":"BENJAMIN"}],
+ "Title":"Relates to the unauthorized release of sealed records",
+ "Summary":"Relates to the unauthorized release of sealed records.","LawSection":"Public Officers Law",
+ "LawCode":"Add §72-b, Pub Off L",
+ "ActClause":"AN ACT to amend the public officers law, in relation to the unauthorized release of sealed records",
+ "SameAsPrintNo":"A34-2019","PreviousVersions":["A11389-2009","A3087-2011","A4337-2013","A6428-2015","A350-2017"]
+}

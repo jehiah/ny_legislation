@@ -1,0 +1,61 @@
+{
+ "PrintNo":"A876","Session":2019,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2019-01-11T16:12:01.071979Z",
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2019-04-30","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2020-01-08"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2019-01-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2019-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2019-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.275","Date":"2019-05-09","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.43","Date":"2020-01-08","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":459,"Short":"DENDEKKER","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":502,"Short":"ABBATE","Vote":"Aye"},{"ID":618,"Short":"QUART","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":654,"Short":"BUCHWALD","Vote":"Aye"},
+    {"ID":666,"Short":"PALUMBO","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1132,"Short":"NIOU","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":459,"Short":"DENDEKKER","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":502,"Short":"ABBATE","Vote":"Aye"},{"ID":618,"Short":"QUART","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":654,"Short":"BUCHWALD","Vote":"Aye"},
+    {"ID":666,"Short":"PALUMBO","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1132,"Short":"NIOU","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":503,"Short":"LENTOL","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":599,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":498,"Short":"CYMBROWITZ","Vote":"Aye"},
+    {"ID":666,"Short":"PALUMBO","Vote":"Aye"},{"ID":522,"Short":"O'DONNELL","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":511,"Short":"PERRY","Vote":"Aye"},
+    {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":622,"Short":"ABINANTI","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":657,"Short":"FAHY","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Nay"},{"ID":590,"Short":"SCHIMMINGER","Vote":"Nay"},
+    {"ID":476,"Short":"MONTESANO","Vote":"Nay"},{"ID":658,"Short":"GARBARINO","Vote":"Nay"},
+    {"ID":488,"Short":"HEVESI","Vote":"Excused"},{"ID":663,"Short":"MOSLEY","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":618,"Name":"Dan Quart","Short":"QUART"},{"ID":1130,"Name":"Anthony D'Urso","Short":"D'URSO"},
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":527,"Name":"Richard Gottfried","Short":"GOTTFRIED R"},
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
+  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"}
+ ],
+ "Title":"Requires debt collectors to send consumers a written notice of their rights under state law along with their debt collection correspondence",
+ "Summary":"Requires debt collectors to send consumers a written notice of their rights under state law along with their initial debt collection correspondence; such notice would contain information such as who and when a principal creditor may contact a debtor about the debt owed as well as the fact that a principal creditor cannot disclose information affecting a consumer debtor's reputation for creditworthiness if the principal creditor knows or has reason to know such information is false; applies to consumer rather than commercial debts.",
+ "LawSection":"General Business Law","LawCode":"Add §601-b, amd §602, Gen Bus L; amd §94-a, Exec L",
+ "PreviousVersions":["A8887-2011","A2246-2013","A2072-2015","A4150-2017"]
+}

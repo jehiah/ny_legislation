@@ -1,0 +1,34 @@
+{
+ "PrintNo":"A9062","Session":2019,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2020-01-13T15:26:22.063492Z",
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2020-01-13","Committee":"Correction"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2020-01-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORRECTION","Date":"2020-01-13","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2020-01-28","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.382","Date":"2020-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S7182","Date":"2020-02-04","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":599,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":504,"Short":"ORTIZ","Vote":"Aye"},{"ID":573,"Short":"FINCH","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":663,"Short":"MOSLEY","Vote":"Aye"},
+    {"ID":899,"Short":"BLAKE","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1129,"Short":"DE LA ROSA","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Excused"},
+    {"ID":618,"Short":"QUART","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":899,"Name":"Michael Blake","Short":"BLAKE"}],
+ "Title":"Relates to the recipients of reports issued regarding the death of an inmate",
+ "Summary":"Requires a report on the death and circumstances of an inmate to be sent to the governor, the chairman of the assembly committee on correction and the chairman of the senate committee on crime victims, crime and correction.",
+ "LawSection":"Correction Law","LawCode":"Amd §47, Cor L (as proposed in S.2692 & A.4336)",
+ "ActClause":"AN ACT to amend the correction law, in relation to requiring a report on the death and circumstances of an inmate to be sent to certain recipients",
+ "SameAsPrintNo":"S7182-2019"
+}

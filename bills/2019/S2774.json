@@ -1,0 +1,54 @@
+{
+ "PrintNo":"S2774","Version":"C","Session":2019,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2019-01-29T12:03:19.420456Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2020-03-10","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2019-01-29","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ETHICS AND INTERNAL GOVERNANCE","Date":"2019-02-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2774A","Date":"2019-02-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.200","Date":"2019-02-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2019-03-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2019-03-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2019-06-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2020-01-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO ETHICS AND INTERNAL GOVERNANCE","Date":"2020-03-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 2774B","Date":"2020-03-05","Chamber":"SENATE","Version":"B"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2020-03-10","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2020-03-10","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 2774C","Date":"2020-03-10","Chamber":"SENATE","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2019-02-28","Version":"A","Chamber":"SENATE",
+   "Committee":"Ethics And Internal Governance",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":372,"Name":"Neil D. Breslin","Short":"BRESLIN","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":414,"Name":"Catharine Young","Short":"YOUNG","Vote":"Aye"},
+    {"ID":1235,"Name":"Daphne Jordan","Short":"JORDAN","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2020-03-10","Version":"B","Chamber":"SENATE",
+   "Committee":"Ethics And Internal Governance",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":372,"Name":"Neil D. Breslin","Short":"BRESLIN","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1235,"Name":"Daphne Jordan","Short":"JORDAN","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
+ "Title":"Requires public officers and bodies to provide interpreters and assistive listening devices for the hearing impaired at public hearings under certain conditions",
+ "Summary":"Requires public officers and public bodies to make reasonable efforts to provide qualified interpreters at no charge for the hearing impaired at public meetings and hearings upon written request to the public officer responsible for the siting of such hearing; also requires installation and use of assistive listening devices.",
+ "LawSection":"Public Officers Law","LawCode":"Amd §§74-a & 103, Pub Off L",
+ "ActClause":"AN ACT to amend the public officers law, in relation to the accessibility of public hearings and meetings",
+ "PreviousVersions":["A637-2007","A2102-2009","A1932-2011","A2826-2013","A1669-2015","S8129-2017"]
+}

@@ -1,0 +1,69 @@
+{
+ "PrintNo":"S7522","Session":2019,"Chamber":"SENATE","BillType":"Senate","Published":"2020-01-23T10:27:48.986531Z",
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2020-12-28","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2020-01-23","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2020-02-11","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.558","Date":"2020-03-03","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2020-03-04","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2020-03-10","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2020-12-28","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2020-02-11","Chamber":"SENATE","Committee":"Health",
+   "Votes":[
+    {"ID":1136,"Name":"Brian Benjamin","Short":"BENJAMIN","Vote":"Aye"},
+    {"ID":1231,"Name":"Alessandra Biaggi","Short":"BIAGGI","Vote":"Aye"},
+    {"ID":370,"Name":"David Carlucci","Short":"CARLUCCI","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN","Vote":"Aye"},
+    {"ID":918,"Name":"Todd Kaminsky","Short":"KAMINSKY","Vote":"Aye"},
+    {"ID":1234,"Name":"Jen Metzger","Short":"METZGER","Vote":"Aye"},
+    {"ID":381,"Name":"Velmanette Montgomery","Short":"MONTGOMERY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1099,"Name":"Chris Jacobs","Short":"JACOBS","Vote":"Aye"},
+    {"ID":379,"Name":"Betty Little","Short":"LITTLE","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Nay"},
+    {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Nay"},
+    {"ID":423,"Name":"Patty Ritchie","Short":"RITCHIE","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2020-03-03","Chamber":"SENATE","Committee":"Finance",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1136,"Name":"Brian Benjamin","Short":"BENJAMIN","Vote":"Aye"},
+    {"ID":372,"Name":"Neil D. Breslin","Short":"BRESLIN","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN","Vote":"Aye"},
+    {"ID":429,"Name":"Timothy M. Kennedy","Short":"KENNEDY","Vote":"Aye"},
+    {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":381,"Name":"Velmanette Montgomery","Short":"MONTGOMERY","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":403,"Name":"Diane J. Savino","Short":"SAVINO","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":419,"Name":"Kenneth P. LaValle","Short":"LAVALLE","Vote":"Aye"},
+    {"ID":1223,"Name":"Kevin Thomas","Short":"THOMAS","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Nay"},
+    {"ID":379,"Name":"Betty Little","Short":"LITTLE","Vote":"Nay"},
+    {"ID":406,"Name":"Michael H. Ranzenhofer","Short":"RANZENHOFER","Vote":"Nay"},
+    {"ID":423,"Name":"Patty Ritchie","Short":"RITCHIE","Vote":"Nay"},
+    {"ID":417,"Name":"Joseph E. Robach","Short":"ROBACH","Vote":"Nay"},
+    {"ID":371,"Name":"James L. Seward","Short":"SEWARD","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
+ "Title":"Relates to expanding the health department's review of correctional health services",
+ "Summary":"Expands the health department's review of correctional health services by including a biennial study of health care staffing at facilities operated by the department of corrections and community supervision.",
+ "LawSection":"Public Health Law","LawCode":"Amd §206, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to expanding health department review of correctional health services",
+ "SameAsPrintNo":"A9044-2019","PreviousVersions":["A9044-2019"]
+}

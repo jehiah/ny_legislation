@@ -1,0 +1,39 @@
+{
+ "PrintNo":"A2549","Version":"A","Session":2019,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2019-01-23T16:07:56.422863Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2019-01-23","Committee":"Election Law"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2020-01-22"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2019-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2019-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.73","Date":"2019-02-28","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.113","Date":"2020-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 2549A","Date":"2020-01-22","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1126,"Short":"NORRIS","Vote":"Aye"},
+    {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":503,"Short":"LENTOL","Vote":"Aye"},{"ID":575,"Short":"LIFTON","Vote":"Aye"},
+    {"ID":654,"Short":"BUCHWALD","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Excused"},
+    {"ID":899,"Short":"BLAKE","Vote":"Excused"},{"ID":1130,"Short":"D'URSO","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":657,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1130,"Name":"Anthony D'Urso","Short":"D'URSO"},
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+ ],
+ "Title":"Removes the requirement that party emblems be included in ballot design",
+ "Summary":"Removes the requirement that party emblems be included in ballot design.","LawSection":"Election Law",
+ "LawCode":"Amd §§1-104, 2-124, 4-112, 6-128, 6-138, 6-140, 6-206, 15-108 & 16-104, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to removing the requirement that party emblems be included in ballot design",
+ "PreviousVersions":["A9046-2013","A3218-2015","A7333-2017"]
+}
