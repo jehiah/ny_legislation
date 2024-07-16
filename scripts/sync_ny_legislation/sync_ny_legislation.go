@@ -2,8 +2,10 @@ package main
 
 import (
 	"context"
+	"crypto/tls"
 	"encoding/json"
 	"flag"
+	"net/http"
 	"os"
 	"path/filepath"
 	"time"
@@ -145,6 +147,13 @@ func main() {
 	}
 	if *targetDir == "." {
 		*targetDir = ""
+	}
+
+	// nyassembly.gov SSL has invalid chain
+	// https://www.ssllabs.com/ssltest/analyze.html?d=nyassembly.gov
+	t := http.DefaultTransport.(*http.Transport)
+	t.TLSClientConfig = &tls.Config{
+		InsecureSkipVerify: true,
 	}
 
 	vAPI := verboseapi.NewAPI(os.Getenv("NY_SENATE_TOKEN"))
