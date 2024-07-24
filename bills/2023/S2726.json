@@ -1,15 +1,17 @@
 {
- "PrintNo":"S2726","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-01-24T11:43:30.154261Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Health"}],
+ "PrintNo":"S2726","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-01-24T11:43:30.154261Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-07-24","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-01-24","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2024-01-03","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2024-01-03","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2024-07-24","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2726A","Date":"2024-07-24","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
- "Title":"Relates to requiring children enrolled in an overnight, children's non-regulated, summer day, or travelling camp to be vaccinated",
- "Summary":"Requires children enrolled in an overnight, children's non-regulated, summer day, or travelling camp to be vaccinated against a specified list of diseases.",
- "LawSection":"Public Health Law","LawCode":"Amd §§1392 & 1394, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to requiring children enrolled in an overnight, children's non-regulated, summer day, or travelling camp to be vaccinated",
- "PreviousVersions":["S6279-2019","S4249-2021"]
+ "Title":"Relates to requiring staff and children enrolled in an overnight, children's non-regulated, summer day, or travelling camp to be vaccinated",
+ "Summary":"Requires staff and children enrolled in an overnight, children's non-regulated, summer day, or travelling camp to be vaccinated against a specified list of diseases.",
+ "LawSection":"Public Health Law","LawCode":"Amd §1394, Pub Health L; amd §398-f, Gen Bus L",
+ "ActClause":"AN ACT to amend the public health law and the general business law, in relation to requiring children enrolled in an overnight, children's non-regulated, summer day, or travelling camp to be vaccinated",
+ "SameAsPrintNo":"A2186-2023","PreviousVersions":["S6279-2019","S4249-2021"]
 }
