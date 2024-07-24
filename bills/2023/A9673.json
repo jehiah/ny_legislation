@@ -1,6 +1,6 @@
 {
- "PrintNo":"A9673","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-04-03T14:13:25.178038Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "PrintNo":"A9673","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-04-03T14:13:25.178038Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-21","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2024-04-03","Chamber":"ASSEMBLY"},
@@ -11,11 +11,12 @@
   {"Text":"AMEND (T) AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2024-05-17","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PRINT NUMBER 9673C","Date":"2024-05-17","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2024-05-21","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"AMEND BY RESTORING TO ORIGINAL PRINT 9673","Date":"2024-06-07","Chamber":"ASSEMBLY"}
+  {"Text":"AMEND BY RESTORING TO ORIGINAL PRINT 9673","Date":"2024-06-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED BY RESTORING TO PREVIOUS PRINT 9673A","Date":"2024-07-24","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"1970-01-01","Chamber":"ASSEMBLY",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
     {"ID":1152,"Short":"TAGUE","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
@@ -27,7 +28,8 @@
  ],
  "Sponsors":[{"ID":1531,"Name":"Alex Bores","Short":"BORES"}],
  "Title":"Directs the department of taxation and finance to conduct a study on the implementation of local land value taxation",
- "Summary":"Directs the secretary of state to establish a pilot program for implementation of local land value taxation based on classes of land; directs the secretary of state to submit the application procedure for the pilot program to the temporary president of the senate and the speaker of the assembly.",
+ "Summary":"Directs the department of taxation and finance to establish a pilot program for implementation of local land value taxation based on classes of land; directs the department of taxation and finance to establish an application procedure for the pilot program.",
  "LawSection":"Real Property Taxation",
- "ActClause":"AN ACT to direct the secretary of state to establish a pilot program for implementation of local land value taxation"
+ "ActClause":"AN ACT to direct the department of taxation and finance to establish a pilot program for implementation of local land value taxation",
+ "SameAsPrintNo":"S7871-2023"
 }
