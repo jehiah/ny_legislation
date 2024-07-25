@@ -3,9 +3,10 @@ module github.com/jehiah/ny_legislation/scripts
 go 1.22.3
 
 require (
-	github.com/jehiah/nysenateapi v0.0.0-20240713013553-1e07367e2fe5
+	github.com/jehiah/nysenateapi v0.0.0-20240725191713-b5965e56b0b2
 	github.com/sirupsen/logrus v1.9.3
 	github.com/swaggest/assertjson v1.9.0
+	golang.org/x/time v0.5.0
 )
 
 require (
@@ -22,6 +23,5 @@ require (
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	golang.org/x/net v0.27.0 // indirect
 	golang.org/x/sys v0.22.0 // indirect
-	golang.org/x/time v0.5.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
