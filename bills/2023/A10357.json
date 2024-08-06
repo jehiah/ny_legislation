@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10357","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-20T17:14:18.728165Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-23","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},{"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-06"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-06"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ELECTION LAW","Date":"2024-05-20","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S9687","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1540","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-06","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.216","Date":"2024-08-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -88,7 +91,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-05-23","Chamber":"ASSEMBLY","Committee":"ELECTION LAW",
    "Votes":[
     {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
     {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
@@ -101,7 +104,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-05-28","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
     {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
@@ -130,7 +133,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-06-03","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
     {"ID":1122,"Short":"CARROLL","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
