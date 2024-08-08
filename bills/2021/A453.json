@@ -3,9 +3,10 @@
  "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2021-05-26","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2021-06-02"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2021-06-02"},{"Type":"IN_SENATE_COMM","Date":"2021-06-03","Committee":"Rules"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2021-06-02"},{"Type":"IN_SENATE_COMM","Date":"2021-06-02","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2021-06-03"},{"Type":"PASSED_SENATE","Date":"2021-06-03"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2021-12-17"},{"Type":"VETOED","Date":"2021-12-29"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2021-12-17"},{"Type":"POCKET_APPROVAL","Date":"2021-12-29"},
+  {"Type":"VETOED","Date":"2021-12-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2021-01-06","Chamber":"ASSEMBLY"},
@@ -16,7 +17,7 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.282","Date":"2021-06-02","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2021-06-02","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2021-06-02","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO RULES","Date":"2021-06-03","Chamber":"SENATE"},
+  {"Text":"REFERRED TO RULES","Date":"2021-06-02","Chamber":"SENATE"},
   {"Text":"SUBSTITUTED FOR S2205","Date":"2021-06-03","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1271","Date":"2021-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2021-06-03","Chamber":"SENATE"},
@@ -95,7 +96,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2021-05-24","Chamber":"ASSEMBLY",
+   "Committee":"ENVIRONMENTAL CONSERVATION",
    "Votes":[
     {"ID":466,"Short":"ENGLEBRIGHT","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
@@ -115,7 +117,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2021-05-26","Chamber":"ASSEMBLY",
    "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":466,"Short":"ENGLEBRIGHT","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
@@ -154,7 +156,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2021-06-02","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":466,"Short":"ENGLEBRIGHT","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
@@ -207,7 +209,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2021-06-02","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":466,"Short":"ENGLEBRIGHT","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},

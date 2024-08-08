@@ -3,7 +3,7 @@
  "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2021-06-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2021-06-02"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2021-06-02"},{"Type":"IN_SENATE_COMM","Date":"2021-06-03","Committee":"Rules"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2021-06-02"},{"Type":"IN_SENATE_COMM","Date":"2021-06-02","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2021-06-07"},{"Type":"PASSED_SENATE","Date":"2021-06-07"},
   {"Type":"DELIVERED_TO_GOV","Date":"2021-09-28"},{"Type":"SIGNED_BY_GOV","Date":"2021-10-08"}
  ],
@@ -16,7 +16,7 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.290","Date":"2021-06-02","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2021-06-02","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2021-06-02","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO RULES","Date":"2021-06-03","Chamber":"SENATE"},
+  {"Text":"REFERRED TO RULES","Date":"2021-06-02","Chamber":"SENATE"},
   {"Text":"SUBSTITUTED FOR S7114","Date":"2021-06-07","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1513","Date":"2021-06-07","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2021-06-07","Chamber":"SENATE"},
@@ -94,7 +94,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2021-05-24","Chamber":"ASSEMBLY",
+   "Committee":"TRANSPORTATION",
    "Votes":[
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Aye"},
     {"ID":511,"Short":"PERRY","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Aye"},
@@ -112,7 +113,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2021-06-01","Chamber":"ASSEMBLY",
    "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Aye"},
@@ -149,7 +150,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2021-06-02","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Aye"},
     {"ID":511,"Short":"PERRY","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Aye"},
@@ -200,7 +201,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2021-06-02","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Aye"},
     {"ID":511,"Short":"PERRY","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Aye"},

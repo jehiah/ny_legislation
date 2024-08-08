@@ -16,7 +16,7 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.287","Date":"2021-06-02","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2021-06-02","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2021-06-02","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO RULES","Date":"2021-06-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2021-06-02","Chamber":"SENATE","Version":"A"},
   {"Text":"DIED IN SENATE","Date":"2022-01-05","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2022-01-05","Chamber":"SENATE","Version":"A"},
   {"Text":"ORDERED TO THIRD READING CAL.59","Date":"2022-01-05","Chamber":"ASSEMBLY","Version":"A"},
@@ -26,7 +26,8 @@
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2021-05-26","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1479,"Short":"LAWLER","Vote":"Aye"},
     {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
@@ -38,7 +39,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2021-06-02","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1479,"Short":"LAWLER","Vote":"Aye"},
     {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
@@ -66,7 +67,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2021-06-02","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1479,"Short":"LAWLER","Vote":"Aye"},
     {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
@@ -94,7 +95,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2022-01-12","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1479,"Short":"LAWLER","Vote":"Aye"},
     {"ID":621,"Short":"GALEF","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
