@@ -1,11 +1,12 @@
 {
  "PrintNo":"S7679","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-10-02T14:10:48.308402Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-10-02T14:10:48.308402Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-02","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-06","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-09"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2023-10-02","Chamber":"SENATE"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR A8147A","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.533","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.221","Date":"2024-08-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
