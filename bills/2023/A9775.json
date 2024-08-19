@@ -1,8 +1,12 @@
 {
- "PrintNo":"A9775","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-04-09T08:44:29.121919Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-09","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2024-04-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A9775","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-04-09T08:44:29.121919Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-08-19","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2024-04-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2024-08-19","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9775A","Date":"2024-08-19","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":464,"Name":"Fred Thiele","Short":"THIELE"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
