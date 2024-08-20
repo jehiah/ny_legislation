@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8322","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-11-29T10:37:31.529873Z","Status":"PASSED_SENATE",
+ "Published":"2023-11-29T10:37:31.529873Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Children And Families"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-03-11"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-21"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-21","Committee":"Children And Families"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-07"},{"Type":"PASSED_SENATE","Date":"2024-05-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-07"},{"Type":"PASSED_SENATE","Date":"2024-05-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2023-11-29","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S7452A","Date":"2024-05-07","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.823","Date":"2024-05-07","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -90,7 +92,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-01-23","Chamber":"ASSEMBLY","Committee":"CHILDREN AND FAMILIES",
    "Votes":[
     {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1252,"Short":"BYRNES","Vote":"Aye"},
     {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1524,"Short":"FLOOD","Vote":"Aye"},
@@ -104,7 +106,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-03-21","Chamber":"ASSEMBLY","Committee":"CHILDREN AND FAMILIES",
    "Votes":[
     {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1252,"Short":"BYRNES","Vote":"Aye"},
     {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1524,"Short":"FLOOD","Vote":"Aye"},

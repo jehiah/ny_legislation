@@ -1,11 +1,11 @@
 {
  "PrintNo":"A7395","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-05-19T11:30:11.197553Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Mental Health"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-02-08"},{"Type":"PASSED_ASSEMBLY","Date":"2024-02-13"},
   {"Type":"IN_SENATE_COMM","Date":"2024-02-13","Committee":"Mental Health"},{"Type":"SENATE_FLOOR","Date":"2024-06-04"},
-  {"Type":"PASSED_SENATE","Date":"2024-06-04"}
+  {"Type":"PASSED_SENATE","Date":"2024-06-04"},{"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2023-05-19","Chamber":"ASSEMBLY"},
@@ -19,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR S9787","Date":"2024-06-04","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1740","Date":"2024-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-04","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -90,7 +91,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2023-05-24","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
    "Votes":[
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
     {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
@@ -101,7 +102,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
+   "VoteType":"Favorable","Date":"2024-02-06","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
    "Votes":[
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
     {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
@@ -119,7 +120,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
+   "VoteType":"","Date":"2024-02-13","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
    "Votes":[
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
     {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},

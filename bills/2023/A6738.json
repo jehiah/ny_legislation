@@ -1,10 +1,11 @@
 {
  "PrintNo":"A6738","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-08T12:20:02.979123Z","Status":"PASSED_SENATE",
+ "Published":"2023-05-08T12:20:02.979123Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-25","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-14"},{"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Codes"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-21"},{"Type":"PASSED_SENATE","Date":"2024-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-21"},{"Type":"PASSED_SENATE","Date":"2024-05-21"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2023-05-08","Chamber":"ASSEMBLY"},
@@ -29,7 +30,8 @@
   {"Text":"SUBSTITUTED FOR S6798A","Date":"2024-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1159","Date":"2024-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -100,7 +102,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2023-06-08","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},
     {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
@@ -121,7 +123,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"CODES",
+   "VoteType":"Favorable refer to committee Rules","Date":"2023-06-08","Chamber":"ASSEMBLY","Committee":"CODES",
    "Votes":[
     {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},
     {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
@@ -153,7 +155,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"CODES",
+   "VoteType":"Favorable","Date":"2024-05-07","Chamber":"ASSEMBLY","Committee":"CODES",
    "Votes":[
     {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},
     {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
@@ -196,7 +198,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"CODES",
+   "VoteType":"","Date":"2023-06-09","Chamber":"ASSEMBLY","Committee":"CODES",
    "Votes":[
     {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},
     {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
@@ -239,7 +241,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"CODES",
+   "VoteType":"","Date":"2024-05-14","Chamber":"ASSEMBLY","Committee":"CODES",
    "Votes":[
     {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},
     {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},

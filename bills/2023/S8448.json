@@ -1,11 +1,12 @@
 {
  "PrintNo":"S8448","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-01-31T09:35:30.072661Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-31","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2024-03-25"},
   {"Type":"PASSED_SENATE","Date":"2024-05-21"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-21","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES","Date":"2024-01-31","Chamber":"SENATE"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR A9154","Date":"2024-05-23","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.118","Date":"2024-05-23","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-23","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"SENATE"}
  ],
  "Votes":[
   {

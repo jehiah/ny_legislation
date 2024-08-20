@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9049","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-02-05T10:08:50.218852Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-05","Committee":"Economic Development"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-02-15"},{"Type":"PASSED_ASSEMBLY","Date":"2024-02-28"},
   {"Type":"IN_SENATE_COMM","Date":"2024-02-28","Committee":"Commerce, Economic Development And Small Business"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2024-02-05","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S8508","Date":"2024-06-03","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1505","Date":"2024-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-03","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -88,7 +90,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-02-13","Chamber":"ASSEMBLY","Committee":"ECONOMIC DEVELOPMENT",
    "Votes":[
     {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
@@ -105,7 +107,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-02-28","Chamber":"ASSEMBLY","Committee":"ECONOMIC DEVELOPMENT",
    "Votes":[
     {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9138","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-02-08T14:29:07.582206Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-08","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-14"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-28"},{"Type":"PASSED_SENATE","Date":"2024-05-28"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-28"},{"Type":"PASSED_SENATE","Date":"2024-05-28"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2024-02-08","Chamber":"ASSEMBLY"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR S8736","Date":"2024-05-28","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1047","Date":"2024-05-28","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-05-28","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-28","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-28","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -89,7 +91,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-05-07","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -112,7 +114,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-05-14","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
