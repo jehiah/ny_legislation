@@ -1,11 +1,11 @@
 {
  "PrintNo":"A5729","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-03-23T15:19:34.586856Z","Status":"PASSED_SENATE",
+ "Published":"2023-03-23T15:19:34.586856Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-24","Committee":"Rules 5729a"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-14"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-14","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2024-05-29"},
-  {"Type":"PASSED_SENATE","Date":"2024-05-29"}
+  {"Type":"PASSED_SENATE","Date":"2024-05-29"},{"Type":"DELIVERED_TO_GOV","Date":"2024-08-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2023-03-23","Chamber":"ASSEMBLY"},
@@ -26,7 +26,8 @@
   {"Text":"SUBSTITUTED FOR S6146A","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.880","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-26","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -97,7 +98,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2023-05-17","Chamber":"ASSEMBLY","Committee":"INSURANCE",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -114,7 +115,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2023-06-01","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -147,7 +148,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2023-06-01","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -180,7 +181,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-03-14","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},

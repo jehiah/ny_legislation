@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4060","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-09T13:43:50.737932Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-09T13:43:50.737932Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-02-09","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-08"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-04-03"},
   {"Type":"IN_SENATE_COMM","Date":"2024-04-03","Committee":"Women's Issues"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-02-09","Chamber":"ASSEMBLY"},
@@ -24,7 +25,8 @@
   {"Text":"SUBSTITUTED FOR S5910B","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1759","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-26","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -94,7 +96,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2023-03-21","Chamber":"ASSEMBLY","Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":549,"Short":"GUNTHER","Vote":"Aye"},
@@ -112,7 +114,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2023-05-17","Chamber":"ASSEMBLY","Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":549,"Short":"GUNTHER","Vote":"Aye"},
@@ -130,7 +132,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-04-03","Chamber":"ASSEMBLY","Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":549,"Short":"GUNTHER","Vote":"Aye"},
