@@ -1,12 +1,12 @@
 {
  "PrintNo":"A4060","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-09T13:43:50.737932Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2023-02-09T13:43:50.737932Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-02-09","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-08"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-04-03"},
   {"Type":"IN_SENATE_COMM","Date":"2024-04-03","Committee":"Women's Issues"},
   {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-26"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-26"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-02-09","Chamber":"ASSEMBLY"},
@@ -26,7 +26,8 @@
   {"Text":"3RD READING CAL.1759","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-26","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.227","Date":"2024-08-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
