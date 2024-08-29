@@ -1,11 +1,12 @@
 {
  "PrintNo":"S5815","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-03-17T10:39:30.119697Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-03-17T10:39:30.119697Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-16","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2024-01-24"},
   {"Type":"PASSED_SENATE","Date":"2024-02-14"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-14","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-20"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-20"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-20"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-20"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-03-17","Chamber":"SENATE"},
@@ -29,7 +30,8 @@
   {"Text":"SUBSTITUTED FOR A6205A","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.70","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
