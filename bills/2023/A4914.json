@@ -1,12 +1,12 @@
 {
  "PrintNo":"A4914","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-24T15:45:21.416524Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2023-02-24T15:45:21.416524Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-29"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-29","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-30"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2023-02-24","Chamber":"ASSEMBLY"},
@@ -27,7 +27,8 @@
   {"Text":"3RD READING CAL.1358","Date":"2024-05-29","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-05-29","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.295","Date":"2024-08-30","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

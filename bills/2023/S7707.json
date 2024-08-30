@@ -1,12 +1,12 @@
 {
  "PrintNo":"S7707","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-10-16T11:29:59.658369Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2023-10-16T11:29:59.658369Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_SENATE","Date":"2024-06-03"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-30"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2023-10-16","Chamber":"SENATE"},
@@ -22,7 +22,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.494","Date":"2024-06-06","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-06","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2024-06-06","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.298","Date":"2024-08-30","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

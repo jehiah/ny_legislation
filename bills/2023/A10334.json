@@ -1,11 +1,11 @@
 {
  "PrintNo":"A10334","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-17T12:49:10.181873Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},{"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-29"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-29"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2024-05-17","Chamber":"ASSEMBLY"},
@@ -20,7 +20,8 @@
   {"Text":"3RD READING CAL.1618","Date":"2024-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-03","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-29","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-29","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.293","Date":"2024-08-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
