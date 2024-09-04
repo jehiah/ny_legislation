@@ -1,10 +1,11 @@
 {
  "PrintNo":"A6146","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-04-03T13:33:32.274087Z","Status":"PASSED_SENATE",
+ "Published":"2023-04-03T13:33:32.274087Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},{"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2023-04-03","Chamber":"ASSEMBLY"},
@@ -24,7 +25,8 @@
   {"Text":"SUBSTITUTED FOR S5500B","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.332","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -94,7 +96,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Codes","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Codes","Date":"2024-05-21","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
    "Votes":[
     {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
@@ -106,7 +109,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"CODES",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
    "Votes":[
     {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
@@ -129,7 +132,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-05-30","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},
@@ -168,7 +171,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-06-04","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":642,"Short":"GOODELL","Vote":"Aye"},

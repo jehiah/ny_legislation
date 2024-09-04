@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4066","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-09T13:47:38.298073Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-09T13:47:38.298073Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-24","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-02-12"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-27"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-27","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2024-04-03"},{"Type":"PASSED_SENATE","Date":"2024-04-03"}
+  {"Type":"SENATE_FLOOR","Date":"2024-04-03"},{"Type":"PASSED_SENATE","Date":"2024-04-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2023-02-09","Chamber":"ASSEMBLY"},
@@ -28,7 +29,8 @@
   {"Text":"SUBSTITUTED FOR S5085C","Date":"2024-04-03","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.459","Date":"2024-04-03","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-04-03","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-04-03","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-04-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -100,7 +102,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2023-05-24","Chamber":"ASSEMBLY",
+   "Committee":"TRANSPORTATION",
    "Votes":[
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
     {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":464,"Short":"THIELE","Vote":"Aye"},
@@ -118,7 +121,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2023-06-01","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
     {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":464,"Short":"THIELE","Vote":"Aye"},
@@ -152,7 +155,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2023-06-01","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
     {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":464,"Short":"THIELE","Vote":"Aye"},
@@ -186,7 +189,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-03-27","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
     {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":464,"Short":"THIELE","Vote":"Aye"},

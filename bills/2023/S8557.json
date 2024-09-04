@@ -1,11 +1,12 @@
 {
  "PrintNo":"S8557","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-02-13T14:59:44.956829Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-02-13","Committee":"Civil Service And Pensions"},
   {"Type":"SENATE_FLOOR","Date":"2024-02-28"},{"Type":"PASSED_SENATE","Date":"2024-03-13"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-13","Committee":"Governmental Employees"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-06"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2024-02-13","Chamber":"SENATE"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR A9386","Date":"2024-05-06","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING CAL.438","Date":"2024-05-06","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-06","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-06","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {

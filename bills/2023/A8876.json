@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8876","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-01-26T09:30:47.26446Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-26","Committee":"Governmental Employees"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-02-29"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-04"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-04","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2024-03-13"},{"Type":"PASSED_SENATE","Date":"2024-03-13"}
+  {"Type":"SENATE_FLOOR","Date":"2024-03-13"},{"Type":"PASSED_SENATE","Date":"2024-03-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2024-01-26","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S8216A","Date":"2024-03-13","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.378","Date":"2024-03-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-03-13","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-13","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-13","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -88,7 +90,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-02-27","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL EMPLOYEES",
    "Votes":[
     {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
     {"ID":460,"Short":"AUBRY","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
@@ -100,7 +102,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-03-04","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL EMPLOYEES",
    "Votes":[
     {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
     {"ID":460,"Short":"AUBRY","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
