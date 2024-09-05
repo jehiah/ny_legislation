@@ -1,10 +1,11 @@
 {
  "PrintNo":"S9018","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-04-10T09:44:26.598327Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2024-04-10T09:44:26.598327Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-06","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2024-05-16"},
   {"Type":"PASSED_SENATE","Date":"2024-05-29"},{"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-29","Committee":"Education"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2024-04-10","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR A9855A","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.202","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

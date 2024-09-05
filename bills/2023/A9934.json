@@ -1,10 +1,11 @@
 {
  "PrintNo":"A9934","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-04-26T14:23:17.186981Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-26","Committee":"Education"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-15"},{"Type":"IN_SENATE_COMM","Date":"2024-05-15","Committee":"Education"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2024-04-26","Chamber":"ASSEMBLY"},
@@ -16,7 +17,8 @@
   {"Text":"SUBSTITUTED FOR S9016","Date":"2024-05-30","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1067","Date":"2024-05-30","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-05-30","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -86,7 +88,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-05-08","Chamber":"ASSEMBLY","Committee":"EDUCATION",
    "Votes":[
     {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
@@ -107,7 +109,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-05-15","Chamber":"ASSEMBLY","Committee":"EDUCATION",
    "Votes":[
     {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
