@@ -23,7 +23,8 @@
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Codes","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Codes","Date":"2024-02-13","Chamber":"ASSEMBLY",
+   "Committee":"ENVIRONMENTAL CONSERVATION",
    "Votes":[
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
     {"ID":522,"Short":"O'DONNELL","Vote":"Aye"},{"ID":464,"Short":"THIELE","Vote":"Aye"},
@@ -43,7 +44,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2024-05-07","Chamber":"ASSEMBLY",
    "Committee":"CODES",
    "Votes":[
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
@@ -75,7 +76,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-05-07","Chamber":"ASSEMBLY",
    "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
@@ -124,7 +125,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-06-06","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
     {"ID":522,"Short":"O'DONNELL","Vote":"Aye"},{"ID":464,"Short":"THIELE","Vote":"Aye"},
@@ -200,8 +201,7 @@
   {"ID":1254,"Name":"Patrick Burke","Short":"BURKE"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
-  {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
-  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
+  {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":522,"Name":"Daniel O'Donnell","Short":"O'DONNELL"},{"ID":657,"Name":"Patricia Fahy","Short":"FAHY"},
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},
@@ -224,11 +224,12 @@
   {"ID":1463,"Name":"Kenny Burgos","Short":"BURGOS"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1133,"Name":"Monica P. Wallace","Short":"WALLACE"},
   {"ID":534,"Name":"Michael Benedetto","Short":"BENEDETTO"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},
-  {"ID":539,"Name":"J. Gary Pretlow","Short":"PRETLOW"},{"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},
-  {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
-  {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},
-  {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
-  {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"}
+  {"ID":539,"Name":"J. Gary Pretlow","Short":"PRETLOW"},{"ID":1487,"Name":"William Conrad","Short":"CONRAD"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
+  {"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},{"ID":1531,"Name":"Alex Bores","Short":"BORES"},
+  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},
+  {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
+  {"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"}
  ],
  "Title":"Enacts the \"packaging reduction and recycling infrastructure act\"",
  "Summary":"Enacts the \"packaging reduction and recycling infrastructure act\" to require companies selling, offering for sale, or distributing packaging materials and products to register with a packaging reduction organization to develop a packaging reduction and recycling plan.",

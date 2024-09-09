@@ -1,11 +1,12 @@
 {
  "PrintNo":"A6563","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-04-19T12:27:06.771093Z","Status":"PASSED_SENATE",
+ "Published":"2023-04-19T12:27:06.771093Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-03","Committee":"Higher Education"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-14"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Higher Education"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-09"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2023-04-19","Chamber":"ASSEMBLY"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR S1865B","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1628","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.312","Date":"2024-09-09","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -91,7 +94,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-05-07","Chamber":"ASSEMBLY","Committee":"HIGHER EDUCATION",
    "Votes":[
     {"ID":657,"Short":"FAHY","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
     {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
@@ -109,7 +112,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-05-14","Chamber":"ASSEMBLY","Committee":"HIGHER EDUCATION",
    "Votes":[
     {"ID":657,"Short":"FAHY","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
     {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
