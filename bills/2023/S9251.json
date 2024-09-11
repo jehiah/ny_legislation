@@ -1,11 +1,12 @@
 {
  "PrintNo":"S9251","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-05-07T15:17:05.619419Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2024-05-07T15:17:05.619419Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-07","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-30","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-11"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2024-05-07","Chamber":"SENATE"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR A10021A","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.285","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.315","Date":"2024-09-11","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
