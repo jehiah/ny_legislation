@@ -1,14 +1,18 @@
 {
- "PrintNo":"S8993","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-04-08T11:27:51.25962Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-04-08","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2024-04-08","Chamber":"SENATE"}],
+ "PrintNo":"S8993","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-04-08T11:27:51.25962Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-09-16","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2024-04-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2024-09-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8993A","Date":"2024-09-16","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
   {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}
  ],
  "Title":"Establishes a jobs and housing pilot program to create jobs in the construction industry and address the housing crisis; appropriation",
  "Summary":"Establishes a jobs and housing pilot program to create jobs in the construction industry and address the housing crisis by developing or redeveloping housing that is affordable to individuals earning up to one hundred thirty percent of the area median income, adjusted for family size; makes an appropriation therefor.",
- "LawSection":"Appropriations","LawCode":"Add Art 32 §§1283 - 1286, Priv Hous Fin L",
+ "LawSection":"Appropriations","LawCode":"Add Art 31-A §§1283 - 1286, Priv Hous Fin L",
  "ActClause":"AN ACT to amend the private housing finance law, in relation to establishing a jobs and housing pilot program to create jobs in the construction industry and address the housing crisis; and making an appropriation therefor"
 }
