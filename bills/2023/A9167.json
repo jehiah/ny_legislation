@@ -1,14 +1,16 @@
 {
- "PrintNo":"A9167","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-02-12T10:26:38.810157Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-12","Committee":"Codes"}],
+ "PrintNo":"A9167","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-02-12T10:26:38.810157Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-09-16","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2024-02-12","Chamber":"ASSEMBLY"},
-  {"Text":"HELD FOR CONSIDERATION IN CODES","Date":"2024-05-14","Chamber":"ASSEMBLY"}
+  {"Text":"HELD FOR CONSIDERATION IN CODES","Date":"2024-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2024-09-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9167A","Date":"2024-09-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
-   "VoteType":"Held for Consideration","Date":"1970-01-01","Chamber":"ASSEMBLY",
+   "VoteType":"Held for Consideration","Date":"2024-05-14","Chamber":"ASSEMBLY","Committee":"CODES",
    "Votes":[
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
@@ -43,9 +45,9 @@
   {"ID":1538,"Name":"John W. McGowan","Short":"MCGOWAN"},{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"}
  ],
  "Title":"Requires law enforcement and courts to notify the United States Immigration and Customs Enforcement agency when an arrested person or defendant is not a United States citizen; repealer",
- "Summary":"Requires law enforcement and courts to notify the United States Immigration and Customs Enforcement agency (ICE) when an arrested person or defendant is not a United States citizen; adjusts certain maximum sentences for class A misdemeanors and unclassified misdemeanors; repeals provisions of the \"protect our courts act\".",
+ "Summary":"Requires law enforcement and courts to notify the United States Immigration and Customs Enforcement agency (ICE) when an arrested person or defendant is not a United States citizen; adjusts certain maximum sentences for class A misdemeanors and unclassified misdemeanors; requires notification to be made to the United States Immigration and Customs Enforcement agency prior to the release of certain noncitizens; repeals provisions of the \"protect our courts act\".",
  "LawSection":"Criminal Procedure Law",
- "LawCode":"Amd §160.20, add §370.30, CP L; amd §70.15, rpld §70.15 sub 1-a, Pen L; rpld §28, Civ Rts L; rpld §4-a, §212 sub 2 ¶(aa), Judy L",
- "ActClause":"AN ACT to amend the criminal procedure law, in relation to requiring law enforcement and courts to notify the United States Immigration and Customs Enforcement agency when an arrested person or defendant is not a United States citizen; to amend the penal law, in relation to adjusting certain maximum sentences; and to repeal certain provisions of the penal law, the civil rights law and the judiciary law, in relation to repealing provisions of the \"protect our courts act\"",
- "SameAsPrintNo":"S8533-2023","PreviousVersions":["S8533-2023"]
+ "LawCode":"Amd §160.20, add §370.30, CP L; amd §70.15, rpld §70.15 sub 1-a, Pen L; amd §§147 & 500-c, Cor L; rpld §28, Civ Rts L; rpld §4-a, §212 sub 2 ¶(aa), Judy L",
+ "ActClause":"AN ACT to amend the criminal procedure law, in relation to requiring law enforcement and courts to notify the United States Immigration and Customs Enforcement agency when an arrested person or defendant is not a United States citizen; to amend the penal law, in relation to adjusting certain maximum sentences; to amend the correction law, in relation to requiring notification of the United States Immigration and Customs Enforcement agency prior to the release of certain noncitizens; and to repeal certain provisions of the penal law, the civil rights law and the judiciary law, in relation to repealing provisions of the \"protect our courts act\"",
+ "PreviousVersions":["S8533-2023"]
 }
