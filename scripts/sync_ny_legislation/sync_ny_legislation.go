@@ -71,6 +71,7 @@ func (s *SyncApp) CustomAction(ctx context.Context) error {
 func (s *SyncApp) Run() error {
 	os.MkdirAll(s.targetDir, 0777)
 	os.MkdirAll(filepath.Join(s.targetDir, "bills"), 0777)
+	os.MkdirAll(filepath.Join(s.targetDir, "resolutions"), 0777)
 	s.LastRun = time.Now().UTC().Truncate(time.Second)
 	err := s.SyncBills()
 	if err != nil {
