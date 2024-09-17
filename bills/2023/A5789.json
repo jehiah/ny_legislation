@@ -1,10 +1,11 @@
 {
  "PrintNo":"A5789","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-03-23T15:52:14.946066Z","Status":"PASSED_SENATE",
+ "Published":"2023-03-23T15:52:14.946066Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-14"},{"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Health"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-03-23","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S6226A","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1350","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -90,7 +92,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-05-07","Chamber":"ASSEMBLY","Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":549,"Short":"GUNTHER","Vote":"Aye"},
@@ -108,7 +110,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-05-14","Chamber":"ASSEMBLY","Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":549,"Short":"GUNTHER","Vote":"Aye"},
@@ -140,7 +142,8 @@
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
-  {"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"}
+  {"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}
  ],
  "Title":"Provides for availability of ambulance services and advanced life support first response service to store and distribute blood and initiate and administer blood transfusions",
  "Summary":"Provides for availability of ambulance services and advanced life support first response service to store and distribute blood and initiate and administer blood transfusions, by expanding current provisions for air transport to apply additionally to motor vehicle based ambulance services.",
