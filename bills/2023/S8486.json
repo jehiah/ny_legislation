@@ -1,12 +1,12 @@
 {
  "PrintNo":"S8486","Version":"C","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-02-05T14:23:19.120129Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2024-02-05T14:23:19.120129Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-15","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2024-05-30"},
   {"Type":"PASSED_SENATE","Date":"2024-06-03"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-17"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-17"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2024-02-05","Chamber":"SENATE"},
@@ -31,7 +31,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.342","Date":"2024-06-03","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-03","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"RETURNED TO SENATE","Date":"2024-06-03","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-17","Chamber":"SENATE","Version":"C"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-17","Chamber":"SENATE","Version":"C"},
+  {"Text":"SIGNED CHAP.317","Date":"2024-09-17","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

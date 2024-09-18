@@ -1,11 +1,11 @@
 {
  "PrintNo":"A5789","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-03-23T15:52:14.946066Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2023-03-23T15:52:14.946066Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-14"},{"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Health"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-17"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-17"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-03-23","Chamber":"ASSEMBLY"},
@@ -21,7 +21,8 @@
   {"Text":"3RD READING CAL.1350","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-17","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.316","Date":"2024-09-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
