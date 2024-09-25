@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9827","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-04-11T14:24:58.779002Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-11","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-02"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-06"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-06","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-25"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2024-04-11","Chamber":"ASSEMBLY"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR S9188","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1593","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.333","Date":"2024-09-25","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -88,7 +91,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-04-16","Chamber":"ASSEMBLY","Committee":"ENERGY",
    "Votes":[
     {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
     {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
@@ -102,7 +105,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-05-06","Chamber":"ASSEMBLY","Committee":"ENERGY",
    "Votes":[
     {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
     {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
