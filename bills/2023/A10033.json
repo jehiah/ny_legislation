@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10033","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-02T15:07:12.934179Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-02","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2024-05-02","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10033","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-05-02T15:07:12.934179Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-09-27","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2024-05-02","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2024-09-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10033A","Date":"2024-09-27","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
@@ -16,8 +20,7 @@
   {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"}
  ],
  "Title":"Establishes a hyperbaric oxygen therapy pilot program",
- "Summary":"Establishes a hyperbaric oxygen therapy pilot program to treat veterans suffering from traumatic brain injuries and post-traumatic stress disorder.",
+ "Summary":"Establishes \"The Bart Law\"; requires a hyperbaric oxygen therapy pilot program to treat veterans suffering from traumatic brain injuries and post-traumatic stress disorder.",
  "LawSection":"Public Health Law","LawCode":"Add Art 27-CCCC §§2748 - 2748-b, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to establishing a hyperbaric oxygen therapy pilot program",
- "SameAsPrintNo":"S9303-2023"
+ "ActClause":"AN ACT to amend the public health law, in relation to establishing a hyperbaric oxygen therapy pilot program"
 }
