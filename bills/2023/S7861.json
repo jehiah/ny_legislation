@@ -1,11 +1,12 @@
 {
  "PrintNo":"S7861","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-01-03T09:44:16.846343Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2024-01-03T09:44:16.846343Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Local Government"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-06"},{"Type":"PASSED_SENATE","Date":"2024-05-20"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-20","Committee":"Real Property Taxation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2024-01-03","Chamber":"SENATE"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR A10051A","Date":"2024-06-04","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.361","Date":"2024-06-04","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-04","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-04","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.387","Date":"2024-09-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

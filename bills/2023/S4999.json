@@ -1,11 +1,12 @@
 {
  "PrintNo":"S4999","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-02-21T10:37:05.779093Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-02-21T10:37:05.779093Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-04","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-08"},{"Type":"PASSED_SENATE","Date":"2024-05-16"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-16","Committee":"Economic Development"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2023-02-21","Chamber":"SENATE"},
@@ -29,7 +30,9 @@
   {"Text":"SUBSTITUTED FOR A4051B","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.433","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"SIGNED CHAP.375","Date":"2024-09-27","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

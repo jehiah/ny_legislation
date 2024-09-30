@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9573","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-03-20T08:46:52.069245Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-09","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-15"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-15","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2024-03-20","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S9306","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1896","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.359","Date":"2024-09-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -89,7 +92,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2024-04-09","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
    "Votes":[
     {"ID":464,"Short":"THIELE","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
@@ -104,7 +108,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
+   "VoteType":"Favorable","Date":"2024-05-07","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":464,"Short":"THIELE","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
@@ -137,7 +141,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
+   "VoteType":"","Date":"2024-05-15","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":464,"Short":"THIELE","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},

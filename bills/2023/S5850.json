@@ -1,11 +1,12 @@
 {
  "PrintNo":"S5850","Version":"C","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-03-20T09:58:37.097133Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-03-20T09:58:37.097133Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-01","Committee":"Local Government"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-22"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-30","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2023-03-20","Chamber":"SENATE"},
@@ -37,7 +38,9 @@
   {"Text":"SUBSTITUTED FOR A5794C","Date":"2024-06-03","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.311","Date":"2024-06-03","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-03","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-03","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-03","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"SENATE","Version":"C"},
+  {"Text":"SIGNED CHAP.377","Date":"2024-09-27","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

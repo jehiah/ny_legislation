@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10297","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-17T10:55:17.247529Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},{"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2024-05-17","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S8324A","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1228","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.368","Date":"2024-09-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -89,7 +92,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2024-05-29","Chamber":"ASSEMBLY",
+   "Committee":"REAL PROPERTY TAXATION",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
     {"ID":1152,"Short":"TAGUE","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
@@ -99,7 +103,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-06-03","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
     {"ID":1152,"Short":"TAGUE","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
@@ -125,7 +129,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-06-03","Chamber":"ASSEMBLY",
    "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
@@ -169,7 +173,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
+   "VoteType":"","Date":"2024-06-04","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
     {"ID":1152,"Short":"TAGUE","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},

@@ -1,11 +1,12 @@
 {
  "PrintNo":"S6624","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-05-01T17:42:30.287533Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-05-01T17:42:30.287533Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_SENATE","Date":"2024-06-03"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2023-05-01","Chamber":"SENATE"},
@@ -22,7 +23,9 @@
   {"Text":"SUBSTITUTED FOR A7006B","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.443","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"SIGNED CHAP.381","Date":"2024-09-27","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

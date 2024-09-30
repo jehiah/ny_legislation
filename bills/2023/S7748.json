@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7748","Version":"C","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-11-13T11:49:00.477564Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-11-13T11:49:00.477564Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-04-29","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_SENATE","Date":"2024-06-06"},{"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-06","Committee":"Codes"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2023-11-13","Chamber":"SENATE"},
@@ -22,7 +23,9 @@
   {"Text":"SUBSTITUTED FOR A8304B","Date":"2024-06-06","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.497","Date":"2024-06-06","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-06","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-06","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-06","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"SENATE","Version":"C"},
+  {"Text":"SIGNED CHAP.386","Date":"2024-09-27","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
