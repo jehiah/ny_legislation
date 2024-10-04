@@ -1,17 +1,20 @@
 {
- "PrintNo":"A8230","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A8230","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2023-11-06T13:08:33.465807Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-13","Committee":"Ways And Means"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-10-04","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-11-06","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HEALTH","Date":"2024-01-03","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2024-02-09","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 8230A","Date":"2024-02-09","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2024-02-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2024-02-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2024-10-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 8230B","Date":"2024-10-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2024-02-13","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1252,"Short":"BYRNES","Vote":"Aye"},
@@ -40,6 +43,6 @@
  ],
  "Title":"Authorizes a prenatal and postpartum informational mobile application",
  "Summary":"Authorizes a prenatal and postpartum informational mobile application for individuals who are eligible for Medicaid.",
- "LawSection":"Social Services Law","LawCode":"Amd §365-k, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to authorizing a prenatal and postpartum informational mobile application"
+ "LawSection":"Public Health Law","LawCode":"Add §2504-c, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to authorizing a prenatal and postpartum informational mobile application"
 }
