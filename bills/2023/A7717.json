@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7717","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-06-06T12:42:53.265157Z","Status":"PASSED_SENATE",
+ "Published":"2023-06-06T12:42:53.265157Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},{"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-10-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2023-06-06","Chamber":"ASSEMBLY"},
@@ -23,7 +24,8 @@
   {"Text":"SUBSTITUTED FOR S8589A","Date":"2024-06-04","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.947","Date":"2024-06-04","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-04","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-10-09","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
