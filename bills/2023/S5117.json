@@ -1,14 +1,16 @@
 {
- "PrintNo":"S5117","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-02-23T09:14:45.318062Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Education"}],
+ "PrintNo":"S5117","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2023-02-23T09:14:45.318062Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-10-09","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2023-02-23","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.644","Date":"2023-04-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2023-04-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2023-05-01","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2023-06-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2024-01-03","Chamber":"SENATE"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2024-01-03","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2024-10-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5117A","Date":"2024-10-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -40,9 +42,8 @@
   {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
- "Title":"Relates to critical mapping data and school safety plans",
- "Summary":"Authorizes the provision of critical incident mapping data with school safety plans.",
- "LawSection":"Education Law","LawCode":"Amd §2801-a, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to providing critical incident mapping data relating to school safety plans",
- "SameAsPrintNo":"A5258-2023"
+ "Title":"Relates to site mapping for emergency response data and school safety plans",
+ "Summary":"Authorizes the provision of site mapping for emergency response data with school safety plans; provides for the funding of such mapping data.",
+ "LawSection":"Education Law","LawCode":"Amd §§2801-a & 3602, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to providing site mapping for emergency response data relating to school safety plans"
 }
