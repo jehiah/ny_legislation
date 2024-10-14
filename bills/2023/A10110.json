@@ -1,11 +1,12 @@
 {
  "PrintNo":"A10110","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-06T14:24:06.095408Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-22"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-23","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2024-06-05"},
-  {"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"PASSED_SENATE","Date":"2024-06-05"},{"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},
+  {"Type":"SIGNED_BY_GOV","Date":"2024-08-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2024-05-06","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S9249","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1461","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.256","Date":"2024-08-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -89,7 +92,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-05-21","Chamber":"ASSEMBLY","Committee":"AGRICULTURE",
    "Votes":[
     {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
@@ -105,7 +108,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-05-22","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
@@ -137,7 +140,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-05-23","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},

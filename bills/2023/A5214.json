@@ -1,6 +1,6 @@
 {
  "PrintNo":"A5214","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-03-07T10:23:54.144038Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Published":"2023-03-07T10:23:54.144038Z","Status":"STRICKEN",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-01","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2023-03-07","Chamber":"ASSEMBLY"},
@@ -12,11 +12,13 @@
   {"Text":"REPORTED REFERRED TO CODES","Date":"2023-05-23","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO CODES","Date":"2024-01-03","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2024-02-01","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 5214B","Date":"2024-02-01","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 5214B","Date":"2024-02-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2024-07-22","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Codes","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Codes","Date":"2023-05-23","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
     {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9966","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-04-26T14:33:15.266555Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-29","Committee":"Small Business"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-15"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-15","Committee":"Commerce, Economic Development And Small Business"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SMALL BUSINESS","Date":"2024-04-29","Chamber":"ASSEMBLY"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR S9392","Date":"2024-05-30","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1441","Date":"2024-05-30","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-05-30","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.252","Date":"2024-08-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -87,7 +90,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-05-07","Chamber":"ASSEMBLY","Committee":"SMALL BUSINESS",
    "Votes":[
     {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1538,"Short":"MCGOWAN","Vote":"Aye"},
     {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
@@ -101,7 +104,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-05-15","Chamber":"ASSEMBLY","Committee":"SMALL BUSINESS",
    "Votes":[
     {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1538,"Short":"MCGOWAN","Vote":"Aye"},
     {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},

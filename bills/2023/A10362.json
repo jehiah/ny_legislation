@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10362","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-05-21T08:19:16.949065Z","Status":"PASSED_SENATE",
+ "Published":"2024-05-21T08:19:16.949065Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"},{"Type":"IN_SENATE_COMM","Date":"2024-06-06","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2024-05-21","Chamber":"ASSEMBLY"},
@@ -23,7 +24,9 @@
   {"Text":"SUBSTITUTED FOR S9327B","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1786","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.370","Date":"2024-09-27","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -94,7 +97,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-06-06","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":0,"Short":"GIGLIO","Vote":"Aye"},
@@ -115,7 +118,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-06-06","Chamber":"ASSEMBLY",
    "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -154,7 +157,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
+   "VoteType":"","Date":"2024-06-07","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":0,"Short":"GIGLIO","Vote":"Aye"},

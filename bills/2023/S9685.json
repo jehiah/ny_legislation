@@ -1,12 +1,12 @@
 {
  "PrintNo":"S9685","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-05-20T13:07:52.479135Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2024-05-30"},
   {"Type":"PASSED_SENATE","Date":"2024-06-05"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-05","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-10-09"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2024-10-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2024-05-20","Chamber":"SENATE"},
@@ -19,7 +19,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.604","Date":"2024-06-07","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-10-09","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-10-09","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.431","Date":"2024-10-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {

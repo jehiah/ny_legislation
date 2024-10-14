@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7270","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-05-16T17:00:01.479953Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-24","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-21"},{"Type":"IN_SENATE_COMM","Date":"2024-03-21","Committee":"Cities 2"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-07-25"},{"Type":"SIGNED_BY_GOV","Date":"2024-07-25"}
  ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2023-05-16","Chamber":"ASSEMBLY"},
@@ -25,7 +26,9 @@
   {"Text":"SUBSTITUTED FOR S7008A","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1026","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-07-25","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.206","Date":"2024-07-25","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -96,7 +99,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2023-05-23","Chamber":"ASSEMBLY",
+   "Committee":"REAL PROPERTY TAXATION",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
     {"ID":1128,"Short":"DICKENS","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
@@ -106,7 +110,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2023-05-24","Chamber":"ASSEMBLY",
    "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
@@ -135,7 +139,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2023-05-30","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
     {"ID":1128,"Short":"DICKENS","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
@@ -178,7 +182,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2023-05-31","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
     {"ID":1128,"Short":"DICKENS","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
@@ -221,7 +225,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-03-21","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
     {"ID":1128,"Short":"DICKENS","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},

@@ -1,10 +1,11 @@
 {
  "PrintNo":"A9785","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-04-09T08:47:07.941444Z","Status":"PASSED_SENATE",
+ "Published":"2024-04-09T08:47:07.941444Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},{"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2024-04-09","Chamber":"ASSEMBLY"},
@@ -23,7 +24,9 @@
   {"Text":"3RD READING CAL.1588","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"HOME RULE REQUEST","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.321","Date":"2024-09-20","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -94,7 +97,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2024-05-29","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
    "Votes":[
     {"ID":464,"Short":"THIELE","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
     {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
@@ -109,7 +113,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-06-03","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":464,"Short":"THIELE","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
     {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
@@ -140,7 +144,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-06-03","Chamber":"ASSEMBLY",
    "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":464,"Short":"THIELE","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
@@ -189,7 +193,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
+   "VoteType":"","Date":"2024-06-04","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":464,"Short":"THIELE","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
     {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},

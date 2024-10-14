@@ -1,11 +1,12 @@
 {
  "PrintNo":"S9278","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-05-09T09:54:31.716748Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_SENATE","Date":"2024-06-03"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-07-25"},{"Type":"SIGNED_BY_GOV","Date":"2024-07-25"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2024-05-09","Chamber":"SENATE"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR A10296","Date":"2024-06-04","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.376","Date":"2024-06-04","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-04","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-07-25","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.210","Date":"2024-07-25","Chamber":"SENATE"}
  ],
  "Votes":[
   {

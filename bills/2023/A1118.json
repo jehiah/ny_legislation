@@ -1,11 +1,12 @@
 {
  "PrintNo":"A1118","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-01-13T10:29:35.365757Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-01-13","Committee":"Racing And Wagering"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},{"Type":"PASSED_ASSEMBLY","Date":"2024-01-16"},
   {"Type":"IN_SENATE_COMM","Date":"2024-01-16","Committee":"Racing, Gaming And Wagering"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-10-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2023-01-13","Chamber":"ASSEMBLY"},
@@ -23,7 +24,9 @@
   {"Text":"SUBSTITUTED FOR S1550","Date":"2024-05-30","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.633","Date":"2024-05-30","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-05-30","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.423","Date":"2024-10-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -93,7 +96,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2023-02-15","Chamber":"ASSEMBLY","Committee":"RACING AND WAGERING",
    "Votes":[
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
@@ -104,7 +107,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2023-02-27","Chamber":"ASSEMBLY","Committee":"RACING AND WAGERING",
    "Votes":[
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
@@ -115,7 +118,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-01-16","Chamber":"ASSEMBLY","Committee":"RACING AND WAGERING",
    "Votes":[
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},

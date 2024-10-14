@@ -1,12 +1,12 @@
 {
  "PrintNo":"A5550","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-03-16T10:42:45.679765Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-23","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-14"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-14","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-09"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-09"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2023-03-16","Chamber":"ASSEMBLY"},
@@ -27,7 +27,8 @@
   {"Text":"3RD READING CAL.960","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-09","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-09","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.222","Date":"2024-08-09","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

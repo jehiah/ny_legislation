@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10284","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-16T16:24:23.410696Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"},{"Type":"IN_SENATE_COMM","Date":"2024-06-05","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2024-05-16","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S9825","Date":"2024-06-07","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1752","Date":"2024-06-07","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.261","Date":"2024-08-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -89,7 +92,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-05-21","Chamber":"ASSEMBLY",
+   "Committee":"ENVIRONMENTAL CONSERVATION",
    "Votes":[
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
     {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":522,"Short":"O'DONNELL","Vote":"Aye"},
@@ -109,7 +113,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-06-05","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
     {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":522,"Short":"O'DONNELL","Vote":"Aye"},
@@ -145,7 +149,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-06-06","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
     {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":522,"Short":"O'DONNELL","Vote":"Aye"},

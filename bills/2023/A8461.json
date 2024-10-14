@@ -1,17 +1,19 @@
 {
- "PrintNo":"A8461","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A8461","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2023-12-29T09:31:18.272456Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-11","Committee":"Transportation"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-07-17","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2023-12-29","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2024-01-03","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2024-01-11","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 8461A","Date":"2024-01-11","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"HELD FOR CONSIDERATION IN TRANSPORTATION","Date":"2024-05-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"HELD FOR CONSIDERATION IN TRANSPORTATION","Date":"2024-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2024-07-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 8461B","Date":"2024-07-17","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
-   "VoteType":"Held for Consideration","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Held for Consideration","Date":"2024-05-21","Chamber":"ASSEMBLY","Committee":"TRANSPORTATION",
    "Votes":[
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
     {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
@@ -33,5 +35,6 @@
  "Title":"Creates a series of distinctive license plates for law enforcement officers who were wounded in the line of duty",
  "Summary":"Creates a series of distinctive license plates for law enforcement officers who were wounded in the line of duty or the spouse of such, which shall bear the words \"Wounded in the Line of Duty\"; includes the New York state sheriff's association, New York state association of chiefs of police, police benevolent association of the New York state troopers, the New York state police benevolent association, and the New York city police benevolent association; provides that proceeds from the service charge shall be used for a fund to assist wounded/fallen officers and their families.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Add §404-ff, V & T L; add §97-zzzz, St Fin L",
- "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to creating a series of distinctive license plates for law enforcement officers who were wounded in the line of duty"
+ "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to creating a series of distinctive license plates for law enforcement officers who were wounded in the line of duty",
+ "SameAsPrintNo":"S8442-2023"
 }

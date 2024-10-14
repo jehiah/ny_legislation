@@ -1,10 +1,11 @@
 {
  "PrintNo":"A3865","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-08T13:41:04.501662Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-08T13:41:04.501662Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-12","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-18"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-01-22"},{"Type":"IN_SENATE_COMM","Date":"2024-01-22","Committee":"Finance"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-20"},{"Type":"PASSED_SENATE","Date":"2024-05-20"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-20"},{"Type":"PASSED_SENATE","Date":"2024-05-20"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-10-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2023-02-08","Chamber":"ASSEMBLY"},
@@ -19,7 +20,10 @@
   {"Text":"SUBSTITUTED FOR S1965A","Date":"2024-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1103","Date":"2024-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-20","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-20","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.421","Date":"2024-10-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"APPROVAL MEMO.7","Date":"2024-10-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -90,7 +94,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-01-17","Chamber":"ASSEMBLY","Committee":"INSURANCE",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -107,7 +111,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-01-22","Chamber":"ASSEMBLY","Committee":"INSURANCE",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -131,7 +135,7 @@
   {"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"},
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
   {"ID":607,"Name":"Brian F. Curran","Short":"CURRAN"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
-  {"ID":1524,"Name":"Edward Flood","Short":"FLOOD"}
+  {"ID":1524,"Name":"Edward Flood","Short":"FLOOD"},{"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"}
  ],
  "Title":"Relates to coverage for prenatal vitamins",
  "Summary":"Requires certain health and casualty insurers to provide coverage for prenatal vitamins.",

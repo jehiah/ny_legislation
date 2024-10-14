@@ -1,11 +1,12 @@
 {
  "PrintNo":"A6834","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-08T13:19:38.795124Z","Status":"PASSED_SENATE",
+ "Published":"2023-05-08T13:19:38.795124Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-06-08","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-21"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-21","Committee":"Veterans, Homeland Security And Military Affairs"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2023-05-08","Chamber":"ASSEMBLY"},
@@ -34,7 +35,9 @@
   {"Text":"SUBSTITUTED FOR S6623","Date":"2024-06-06","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1838","Date":"2024-06-06","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.343","Date":"2024-09-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -105,7 +108,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2023-05-23","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
@@ -123,7 +127,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2023-06-08","Chamber":"ASSEMBLY",
    "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
@@ -160,7 +164,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2023-06-08","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
@@ -211,7 +215,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2023-06-09","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
@@ -262,7 +266,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-03-21","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},

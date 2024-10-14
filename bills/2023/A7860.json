@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7860","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-07-07T10:56:03.341673Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-18"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-01-22"},{"Type":"IN_SENATE_COMM","Date":"2024-01-22","Committee":"Health"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-07-07","Chamber":"ASSEMBLY"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR S7846","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.995","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.347","Date":"2024-09-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -88,7 +91,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-01-17","Chamber":"ASSEMBLY","Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1252,"Short":"BYRNES","Vote":"Aye"},
@@ -106,7 +109,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-01-22","Chamber":"ASSEMBLY","Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1252,"Short":"BYRNES","Vote":"Aye"},

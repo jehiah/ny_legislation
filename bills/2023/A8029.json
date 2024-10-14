@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8029","Version":"C","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-09-13T11:06:14.618089Z","Status":"PASSED_SENATE",
+ "Published":"2023-09-13T11:06:14.618089Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-13","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-15"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-16"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-16","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-05-23"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-05-23"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2023-09-13","Chamber":"ASSEMBLY"},
@@ -39,7 +40,9 @@
   {"Text":"SUBSTITUTED FOR S7647B","Date":"2024-05-23","Chamber":"SENATE","Version":"C"},
   {"Text":"3RD READING CAL.603","Date":"2024-05-23","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2024-05-23","Chamber":"SENATE","Version":"C"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-23","Chamber":"SENATE","Version":"C"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-23","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SIGNED CHAP.348","Date":"2024-09-27","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -109,7 +112,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2024-03-26","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
@@ -127,7 +131,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-05-13","Chamber":"ASSEMBLY",
    "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
@@ -164,7 +168,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-05-15","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
@@ -215,7 +219,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-05-16","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},

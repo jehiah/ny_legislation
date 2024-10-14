@@ -1,12 +1,12 @@
 {
  "PrintNo":"S9043","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-04-11T14:33:00.627258Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2024-04-11T14:33:00.627258Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2024-06-04"},
   {"Type":"PASSED_SENATE","Date":"2024-06-04"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-04","Committee":"Transportation"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2024-04-11","Chamber":"SENATE"},
@@ -23,7 +23,8 @@
   {"Text":"HOME RULE REQUEST","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.280","Date":"2024-08-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,15 +1,16 @@
 {
  "PrintNo":"A7384","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-05-19T10:07:50.489925Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Ways And Means"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2023-05-19","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2023-05-23","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2024-01-03","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2024-01-03","Chamber":"ASSEMBLY"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2024-07-15","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2023-05-23","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
    "Votes":[
     {"ID":545,"Short":"ZEBROWSKI","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},

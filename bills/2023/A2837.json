@@ -1,16 +1,17 @@
 {
  "PrintNo":"A2837","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-01-27T13:16:01.814678Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Ways And Means"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2023-01-27","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2024-01-03","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2024-05-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2024-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2024-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2024-07-15","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Codes","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Codes","Date":"2024-05-07","Chamber":"ASSEMBLY",
+   "Committee":"REAL PROPERTY TAXATION",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
     {"ID":1152,"Short":"TAGUE","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
@@ -20,7 +21,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2024-05-28","Chamber":"ASSEMBLY",
    "Committee":"CODES",
    "Votes":[
     {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},

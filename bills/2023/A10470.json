@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10470","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-29T14:47:30.13505Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-04"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},{"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2024-05-29","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S9693","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1796","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.266","Date":"2024-08-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -89,7 +92,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-06-04","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
    "Votes":[
     {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -112,7 +116,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-06-04","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -150,7 +154,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-06-04","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},

@@ -1,7 +1,7 @@
 {
- "PrintNo":"A3279","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A3279","Version":"C","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2023-02-02T14:43:08.958458Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-29","Committee":"Ways And Means"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-07-15","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-02-02","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2023-04-26","Chamber":"ASSEMBLY"},
@@ -9,11 +9,14 @@
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2023-05-09","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2024-01-03","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2024-02-29","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 3279B","Date":"2024-02-29","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 3279B","Date":"2024-02-29","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2024-07-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 3279C","Date":"2024-07-15","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2023-05-09","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
     {"ID":549,"Short":"GUNTHER","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL L","Vote":"Aye"},
@@ -48,8 +51,9 @@
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1526,"Name":"Juan Ardila","Short":"ARDILA"},
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"}
  ],
- "Title":"Establishes a reproductive health services training grant program",
- "Summary":"Establishes a reproductive health services training and education grant program to train interns or residents who are employed by a hospital or otherwise enrolled in an accredited graduate medical education program in the performance of abortion and related reproductive health services",
- "LawSection":"Public Health Law","LawCode":"Add §2807-nn, Pub Health L; add §99-g, St Fin L",
- "ActClause":"AN ACT to amend the public health law and the state finance law, in relation to establishing a reproductive health services training and education grant program"
+ "Title":"Establishes a reproductive health services training and education grant program",
+ "Summary":"Establishes a reproductive health services training and education grant program to ensure health care providers receive adequate training in abortion care.",
+ "LawSection":"Public Health Law","LawCode":"Add §2599-bb-2, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to establishing a reproductive health services training and education grant program",
+ "SameAsPrintNo":"S3060-2023","PreviousVersions":["S3060-2023"]
 }

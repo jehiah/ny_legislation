@@ -1,15 +1,16 @@
 {
  "PrintNo":"A3344","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-02-02T14:45:28.182135Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Ways And Means"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2023-02-02","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2023-02-28","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2024-01-03","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2024-01-03","Chamber":"ASSEMBLY"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2024-07-15","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2023-02-28","Chamber":"ASSEMBLY",
+   "Committee":"CODES",
    "Votes":[
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
     {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},

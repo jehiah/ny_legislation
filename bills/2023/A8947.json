@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8947","Version":"C","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-01-30T15:55:16.174576Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2024-01-30T15:55:16.174576Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-07","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},
   {"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2024-06-07"},
-  {"Type":"PASSED_SENATE","Date":"2024-06-07"},{"Type":"DELIVERED_TO_GOV","Date":"2024-09-05"}
+  {"Type":"PASSED_SENATE","Date":"2024-06-07"},{"Type":"DELIVERED_TO_GOV","Date":"2024-09-05"},
+  {"Type":"SIGNED_BY_GOV","Date":"2024-09-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2024-01-30","Chamber":"ASSEMBLY"},
@@ -25,7 +26,9 @@
   {"Text":"3RD READING CAL.1055","Date":"2024-06-07","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE","Version":"C"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"C"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-05","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SIGNED CHAP.308","Date":"2024-09-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"APPROVAL MEMO.6","Date":"2024-09-05","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

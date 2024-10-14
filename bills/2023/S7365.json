@@ -1,11 +1,11 @@
 {
  "PrintNo":"S7365","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-05-22T09:37:14.13448Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2023-05-22T09:37:14.13448Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-01","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_SENATE","Date":"2024-06-06"},{"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-06","Committee":"Codes"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-10-09"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2024-10-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2023-05-22","Chamber":"SENATE"},
@@ -23,7 +23,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.511","Date":"2024-06-06","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-10-09","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-10-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"SIGNED CHAP.429","Date":"2024-10-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"APPROVAL MEMO.9","Date":"2024-10-09","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

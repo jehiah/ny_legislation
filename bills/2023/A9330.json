@@ -1,10 +1,11 @@
 {
  "PrintNo":"A9330","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-02-29T16:15:42.961244Z","Status":"PASSED_SENATE",
+ "Published":"2024-02-29T16:15:42.961244Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"},{"Type":"IN_SENATE_COMM","Date":"2024-06-06","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2024-02-29","Chamber":"ASSEMBLY"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR S8506A","Date":"2024-06-06","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1851","Date":"2024-06-06","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.353","Date":"2024-09-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -92,7 +95,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Codes","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Codes","Date":"2024-05-22","Chamber":"ASSEMBLY",
+   "Committee":"CONSUMER AFFAIRS AND PROTECTION",
    "Votes":[
     {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
     {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
@@ -105,7 +109,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"CODES",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
    "Votes":[
     {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
     {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
@@ -129,7 +133,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-06-03","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
     {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
@@ -169,7 +173,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-06-06","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
     {"ID":1463,"Short":"BURGOS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},

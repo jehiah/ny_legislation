@@ -1,11 +1,12 @@
 {
  "PrintNo":"A7790","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-06-15T13:38:51.72652Z","Status":"PASSED_SENATE",
+ "Published":"2023-06-15T13:38:51.72652Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-04","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-02"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-23","Committee":"Women's Issues"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-28"},{"Type":"PASSED_SENATE","Date":"2024-05-28"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-28"},{"Type":"PASSED_SENATE","Date":"2024-05-28"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-10-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2023-06-15","Chamber":"ASSEMBLY"},
@@ -20,7 +21,9 @@
   {"Text":"SUBSTITUTED FOR S6674A","Date":"2024-05-28","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1163","Date":"2024-05-28","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-28","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.422","Date":"2024-10-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -91,7 +94,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-04-17","Chamber":"ASSEMBLY","Committee":"INSURANCE",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -109,7 +112,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-05-23","Chamber":"ASSEMBLY","Committee":"INSURANCE",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A2656","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-01-26T16:06:00.352053Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-18"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-01-22"},
   {"Type":"IN_SENATE_COMM","Date":"2024-01-22","Committee":"Women's Issues"},
-  {"Type":"SENATE_FLOOR","Date":"2024-01-22"},{"Type":"PASSED_SENATE","Date":"2024-01-22"}
+  {"Type":"SENATE_FLOOR","Date":"2024-01-22"},{"Type":"PASSED_SENATE","Date":"2024-01-22"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-10-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2023-01-26","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S201","Date":"2024-01-22","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.95","Date":"2024-01-22","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-01-22","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-01-22","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-01-22","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.420","Date":"2024-10-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -90,7 +93,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-01-17","Chamber":"ASSEMBLY","Committee":"INSURANCE",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -107,7 +110,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-01-22","Chamber":"ASSEMBLY","Committee":"INSURANCE",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},

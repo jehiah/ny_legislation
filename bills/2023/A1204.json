@@ -1,10 +1,11 @@
 {
  "PrintNo":"A1204","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-01-13T10:56:06.831523Z","Status":"PASSED_SENATE",
+ "Published":"2023-01-13T10:56:06.831523Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-22"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},{"Type":"IN_SENATE_COMM","Date":"2024-05-23","Committee":"Labor"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2023-01-13","Chamber":"ASSEMBLY"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR S9462A","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1535","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.335","Date":"2024-09-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -92,7 +95,7 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2024-05-21","Chamber":"ASSEMBLY","Committee":"LABOR",
    "Votes":[
     {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
     {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
@@ -112,7 +115,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"Favorable","Date":"2024-05-22","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
     {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
@@ -147,7 +150,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"RULES",
+   "VoteType":"","Date":"2024-05-23","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
     {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},

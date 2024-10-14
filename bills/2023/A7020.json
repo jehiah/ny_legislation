@@ -1,11 +1,12 @@
 {
  "PrintNo":"A7020","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-10T11:20:43.24705Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2023-05-10T11:20:43.24705Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-22"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-23","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2024-06-04"},
-  {"Type":"PASSED_SENATE","Date":"2024-06-04"},{"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
+  {"Type":"PASSED_SENATE","Date":"2024-06-04"},{"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},
+  {"Type":"SIGNED_BY_GOV","Date":"2024-08-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2023-05-10","Chamber":"ASSEMBLY"},
@@ -24,7 +25,8 @@
   {"Text":"3RD READING CAL.1460","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.230","Date":"2024-08-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

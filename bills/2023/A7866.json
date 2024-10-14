@@ -1,6 +1,6 @@
 {
  "PrintNo":"A7866","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-07-07T10:57:47.523114Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2023-07-07T10:57:47.523114Z","Status":"STRICKEN",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-29","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2023-07-07","Chamber":"ASSEMBLY"},
@@ -9,11 +9,13 @@
   {"Text":"PRINT NUMBER 7866A","Date":"2024-02-27","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2024-04-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 7866B","Date":"2024-04-12","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2024-05-29","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2024-05-29","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2024-07-15","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
-   "VoteType":"Favorable refer to committee Ways and Means","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2024-05-29","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL EMPLOYEES",
    "Votes":[
     {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
     {"ID":460,"Short":"AUBRY","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},

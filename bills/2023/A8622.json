@@ -1,12 +1,12 @@
 {
  "PrintNo":"A8622","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-01-12T16:09:22.291355Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-12","Committee":"Governmental Operations"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-03-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-11"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-11","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2024-04-17"},{"Type":"PASSED_SENATE","Date":"2024-04-17"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2024-01-12","Chamber":"ASSEMBLY"},
@@ -19,7 +19,8 @@
   {"Text":"3RD READING CAL.710","Date":"2024-04-17","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-04-17","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-04-17","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.237","Date":"2024-08-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

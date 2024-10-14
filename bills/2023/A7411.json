@@ -1,12 +1,12 @@
 {
  "PrintNo":"A7411","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-19T13:12:43.208593Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2023-05-19T13:12:43.208593Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Commerce, Economic Development And Small Business"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-08-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-08-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2023-05-19","Chamber":"ASSEMBLY"},
@@ -28,7 +28,8 @@
   {"Text":"3RD READING CAL.150","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-08-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.234","Date":"2024-08-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

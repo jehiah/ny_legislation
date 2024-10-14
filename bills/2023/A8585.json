@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8585","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-01-12T14:54:32.776072Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-12","Committee":"Local Governments"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-03-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-11"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-11","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2024-01-12","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S7930","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.894","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.319","Date":"2024-09-20","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -88,7 +91,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2024-03-05","Chamber":"ASSEMBLY","Committee":"LOCAL GOVERNMENTS",
    "Votes":[
     {"ID":464,"Short":"THIELE","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
     {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
@@ -103,7 +106,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2024-03-11","Chamber":"ASSEMBLY","Committee":"LOCAL GOVERNMENTS",
    "Votes":[
     {"ID":464,"Short":"THIELE","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
     {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},

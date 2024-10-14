@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4285","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-02-14T12:57:04.568452Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Tourism, Parks, Arts And Sports Development"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-02-15"},{"Type":"PASSED_ASSEMBLY","Date":"2024-02-26"},
   {"Type":"IN_SENATE_COMM","Date":"2024-02-26","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
-  {"Type":"SENATE_FLOOR","Date":"2024-03-06"},{"Type":"PASSED_SENATE","Date":"2024-03-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-03-06"},{"Type":"PASSED_SENATE","Date":"2024-03-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-09-20"},{"Type":"SIGNED_BY_GOV","Date":"2024-09-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2023-02-14","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S722","Date":"2024-03-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.389","Date":"2024-03-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-03-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-09-20","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.340","Date":"2024-09-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -91,7 +94,8 @@
    ]
   },
   {
-   "VoteType":"Favorable refer to committee Rules","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable refer to committee Rules","Date":"2023-05-22","Chamber":"ASSEMBLY",
+   "Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
    "Votes":[
     {"ID":522,"Short":"O'DONNELL","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
     {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
@@ -107,7 +111,7 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "VoteType":"Favorable","Date":"2024-02-14","Chamber":"ASSEMBLY","Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
    "Votes":[
     {"ID":522,"Short":"O'DONNELL","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
     {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
@@ -133,7 +137,7 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY","Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "VoteType":"","Date":"2024-02-26","Chamber":"ASSEMBLY","Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
    "Votes":[
     {"ID":522,"Short":"O'DONNELL","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
     {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
