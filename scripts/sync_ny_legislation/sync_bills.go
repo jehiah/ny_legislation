@@ -63,11 +63,11 @@ func (s *SyncApp) LoadBills() error {
 
 // UpdateAllBills
 func (s *SyncApp) UpdateAllBills(ctx context.Context) error {
-	year := "2017"
+	year := "2023"
 	// get all bills for the year in batches of 1000
 
 	offset := 0
-	offset = 16000
+	offset = 13000
 	for {
 		res, err := s.api.Bills(ctx, year, offset)
 		if err != nil {

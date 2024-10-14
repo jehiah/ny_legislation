@@ -16,7 +16,7 @@ fi
 
 ./build/sync_ny_legislation --target-dir="."
 
-git add bills last_sync.json
+git add bills resolutions last_sync.json
 git status
 
 FILES_CHANGED=$(git diff --staged --name-only | wc -l)
