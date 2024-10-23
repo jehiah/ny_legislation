@@ -1,11 +1,12 @@
 {
  "PrintNo":"S8607","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-02-21T10:42:02.408267Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2024-02-21T10:42:02.408267Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-02-21","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-06","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-10-23"},{"Type":"SIGNED_BY_GOV","Date":"2024-10-23"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2024-02-21","Chamber":"SENATE"},
@@ -21,7 +22,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.539","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"HOME RULE REQUEST","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-10-23","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.438","Date":"2024-10-23","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

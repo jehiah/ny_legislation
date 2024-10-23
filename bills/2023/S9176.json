@@ -1,11 +1,12 @@
 {
  "PrintNo":"S9176","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-05-02T14:32:01.541605Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-02","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-30","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-10-23"},{"Type":"SIGNED_BY_GOV","Date":"2024-10-23"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2024-05-02","Chamber":"SENATE"},
@@ -20,7 +21,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.648","Date":"2024-06-07","Chamber":"ASSEMBLY"},
   {"Text":"HOME RULE REQUEST","Date":"2024-06-07","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-07","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-10-23","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.441","Date":"2024-10-23","Chamber":"SENATE"}
  ],
  "Votes":[
   {

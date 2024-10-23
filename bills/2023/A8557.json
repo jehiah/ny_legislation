@@ -1,10 +1,11 @@
 {
  "PrintNo":"A8557","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-01-09T15:30:58.995858Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-27","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-03-07"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},{"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-10-23"},{"Type":"SIGNED_BY_GOV","Date":"2024-10-23"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2024-01-09","Chamber":"ASSEMBLY"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR S9361","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1865","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-10-23","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.434","Date":"2024-10-23","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
