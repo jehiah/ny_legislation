@@ -1,11 +1,12 @@
 {
  "PrintNo":"A7173","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-05-12T13:29:52.971045Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-06-08","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-21"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-21","Committee":"Veterans, Homeland Security And Military Affairs"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2023-05-12","Chamber":"ASSEMBLY"},
@@ -26,7 +27,8 @@
   {"Text":"SUBSTITUTED FOR S7544","Date":"2024-05-30","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.812","Date":"2024-05-30","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-05-30","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

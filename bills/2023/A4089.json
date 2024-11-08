@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4089","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-09T13:49:45.736039Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-09T13:49:45.736039Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2023-02-09","Chamber":"ASSEMBLY"},
@@ -34,7 +35,8 @@
   {"Text":"SUBSTITUTED FOR S6469A","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1645","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-08","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
