@@ -1,12 +1,12 @@
 {
  "PrintNo":"A4611","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-17T10:25:29.139855Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2023-02-17T10:25:29.139855Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-31","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-02-28"},
   {"Type":"IN_SENATE_COMM","Date":"2024-02-28","Committee":"Veterans, Homeland Security And Military Affairs"},
   {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-08"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2023-02-17","Chamber":"ASSEMBLY"},
@@ -35,7 +35,8 @@
   {"Text":"3RD READING CAL.1639","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-08","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-08","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.445","Date":"2024-11-11","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,12 +1,12 @@
 {
  "PrintNo":"A9578","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-03-20T08:48:13.638118Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-08"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2024-03-20","Chamber":"ASSEMBLY"},
@@ -22,7 +22,8 @@
   {"Text":"3RD READING CAL.1360","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-08","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-08","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.448","Date":"2024-11-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

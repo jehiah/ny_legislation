@@ -1,12 +1,12 @@
 {
  "PrintNo":"A9850","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-04-12T16:24:57.623812Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-12","Committee":"Veterans' Affairs"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-02"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-06"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-06","Committee":"Veterans, Homeland Security And Military Affairs"},
   {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-08"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2024-04-12","Chamber":"ASSEMBLY"},
@@ -19,7 +19,8 @@
   {"Text":"3RD READING CAL.1893","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-08","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-08","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.449","Date":"2024-11-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
