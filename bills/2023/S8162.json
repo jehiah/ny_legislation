@@ -1,11 +1,12 @@
 {
  "PrintNo":"S8162","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-01-10T12:48:59.0368Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-10","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-05","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2024-01-10","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.457","Date":"2024-06-05","Chamber":"ASSEMBLY"},
   {"Text":"HOME RULE REQUEST","Date":"2024-06-05","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-05","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S2271","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-01-19T13:35:58.160281Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2024-01-22"},
   {"Type":"PASSED_SENATE","Date":"2024-03-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-04","Committee":"Judiciary"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-03-25"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-25"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-03-25"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-25"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2023-01-19","Chamber":"SENATE"},
@@ -26,7 +27,8 @@
   {"Text":"SUBSTITUTED FOR A3225","Date":"2024-03-25","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING CAL.366","Date":"2024-03-25","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-03-25","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-03-25","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE"}
  ],
  "Votes":[
   {

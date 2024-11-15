@@ -1,11 +1,12 @@
 {
  "PrintNo":"S8372","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-01-24T09:47:59.267961Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-24","Committee":"Energy And Telecommunications"},
   {"Type":"SENATE_FLOOR","Date":"2024-02-05"},{"Type":"PASSED_SENATE","Date":"2024-05-15"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-16","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2024-01-24","Chamber":"SENATE"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR A8611","Date":"2024-05-23","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.109","Date":"2024-05-23","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-04","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE"}
  ],
  "Votes":[
   {

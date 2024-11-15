@@ -1,11 +1,12 @@
 {
  "PrintNo":"S8373","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-01-24T09:48:10.428612Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2024-01-24T09:48:10.428612Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-31","Committee":"Consumer Protection"},
   {"Type":"SENATE_FLOOR","Date":"2024-02-12"},{"Type":"PASSED_SENATE","Date":"2024-05-15"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-16","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-20"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-20"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-20"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-20"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2024-01-24","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR A9438","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.77","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

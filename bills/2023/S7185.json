@@ -1,11 +1,12 @@
 {
  "PrintNo":"S7185","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-05-18T16:27:01.705813Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Social Services"},
   {"Type":"SENATE_FLOOR","Date":"2024-04-18"},{"Type":"PASSED_SENATE","Date":"2024-05-20"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-20","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2023-05-18","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR A10397","Date":"2024-06-06","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.518","Date":"2024-06-06","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-06","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-06","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE"}
  ],
  "Votes":[
   {

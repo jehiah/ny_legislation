@@ -1,11 +1,12 @@
 {
  "PrintNo":"S485","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-01-04T13:19:52.650948Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-01-04T13:19:52.650948Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2024-03-14"},{"Type":"PASSED_SENATE","Date":"2024-04-09"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-09","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2023-01-04","Chamber":"SENATE"},
@@ -41,7 +42,8 @@
   {"Text":"SUBSTITUTED FOR A573B","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.89","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

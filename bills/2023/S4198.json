@@ -1,11 +1,12 @@
 {
  "PrintNo":"S4198","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-02-06T11:09:42.310952Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-02-06T11:09:42.310952Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-29","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2024-02-12"},{"Type":"PASSED_SENATE","Date":"2024-05-08"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-08","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-13"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-13"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2023-02-06","Chamber":"SENATE"},
@@ -32,7 +33,8 @@
   {"Text":"SUBSTITUTED FOR A4243B","Date":"2024-05-13","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING CAL.117","Date":"2024-05-13","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-13","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-13","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

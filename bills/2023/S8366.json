@@ -1,11 +1,12 @@
 {
  "PrintNo":"S8366","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-01-23T10:10:01.714573Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-23","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-13"},{"Type":"PASSED_SENATE","Date":"2024-05-16"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-16","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2024-01-23","Chamber":"SENATE"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR A7387","Date":"2024-05-23","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.105","Date":"2024-05-23","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-23","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE"}
  ],
  "Votes":[
   {

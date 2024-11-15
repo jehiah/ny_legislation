@@ -1,11 +1,12 @@
 {
  "PrintNo":"S126","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2022-12-28T14:50:09.041325Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Crime Victims, Crime And Correction"},
   {"Type":"SENATE_FLOOR","Date":"2024-02-12"},{"Type":"PASSED_SENATE","Date":"2024-03-06"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-06","Committee":"Correction"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2023-01-04","Chamber":"SENATE"},
@@ -27,7 +28,8 @@
   {"Text":"SUBSTITUTED FOR A586","Date":"2024-05-23","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.90","Date":"2024-05-23","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-23","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE"}
  ],
  "Votes":[
   {

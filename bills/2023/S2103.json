@@ -1,11 +1,12 @@
 {
  "PrintNo":"S2103","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-01-18T14:08:04.205579Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-01-18T14:08:04.205579Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-08","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2024-01-22"},{"Type":"PASSED_SENATE","Date":"2024-04-16"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-16","Committee":"Environmental Conservation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2023-01-18","Chamber":"SENATE"},
@@ -31,7 +32,8 @@
   {"Text":"SUBSTITUTED FOR A6292B","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.163","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-30","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

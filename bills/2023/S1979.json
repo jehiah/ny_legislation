@@ -1,11 +1,12 @@
 {
  "PrintNo":"S1979","Version":"A","Session":2023,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2023-01-17T15:57:31.747088Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2023-01-17T15:57:31.747088Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Commerce, Economic Development And Small Business"},
   {"Type":"SENATE_FLOOR","Date":"2024-04-11"},{"Type":"PASSED_SENATE","Date":"2024-05-22"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-22","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2023-01-17","Chamber":"SENATE"},
@@ -34,7 +35,8 @@
   {"Text":"SUBSTITUTED FOR A6321A","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.102","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

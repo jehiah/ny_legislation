@@ -1,11 +1,12 @@
 {
  "PrintNo":"S940","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-01-09T11:07:43.104311Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-15"},{"Type":"PASSED_SENATE","Date":"2024-05-29"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-29","Committee":"Correction"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2023-01-09","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR A6637","Date":"2024-06-06","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING CAL.310","Date":"2024-06-06","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-06","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-06","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE"}
  ],
  "Votes":[
   {
