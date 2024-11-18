@@ -1,10 +1,11 @@
 {
  "PrintNo":"A5909","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-03-24T10:21:55.391083Z","Status":"PASSED_SENATE",
+ "Published":"2023-03-24T10:21:55.391083Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-07","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-08"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-13"},{"Type":"IN_SENATE_COMM","Date":"2024-05-13","Committee":"Finance"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-18"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2023-03-24","Chamber":"ASSEMBLY"},
@@ -22,7 +23,8 @@
   {"Text":"SUBSTITUTED FOR S2003A","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1559","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-18","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

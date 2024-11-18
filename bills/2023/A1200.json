@@ -1,11 +1,11 @@
 {
  "PrintNo":"A1200","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-01-13T10:57:51.384949Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-03-09","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-22"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-22","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2024-06-04"},
-  {"Type":"PASSED_SENATE","Date":"2024-06-04"}
+  {"Type":"PASSED_SENATE","Date":"2024-06-04"},{"Type":"DELIVERED_TO_GOV","Date":"2024-11-18"}
  ],
  "Actions":[
   {"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2023-01-13","Chamber":"ASSEMBLY"},
@@ -24,7 +24,8 @@
   {"Text":"SUBSTITUTED FOR S413","Date":"2024-06-04","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1551","Date":"2024-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-04","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-18","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A5815","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-03-23T16:04:37.625522Z","Status":"PASSED_SENATE",
+ "Published":"2023-03-23T16:04:37.625522Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-03-26"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-22"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-22","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-18"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2023-03-23","Chamber":"ASSEMBLY"},
@@ -38,7 +39,8 @@
   {"Text":"SUBSTITUTED FOR S6758A","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1649","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-18","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
