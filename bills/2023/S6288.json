@@ -1,11 +1,11 @@
 {
  "PrintNo":"S6288","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-04-11T15:31:19.774169Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Children And Families"},
   {"Type":"SENATE_FLOOR","Date":"2024-03-28"},{"Type":"PASSED_SENATE","Date":"2024-05-06"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-06","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-21"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2024-05-21"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2024-05-21"},{"Type":"DELIVERED_TO_GOV","Date":"2024-11-25"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2023-04-11","Chamber":"SENATE"},
@@ -26,7 +26,8 @@
   {"Text":"SUBSTITUTED FOR A6026","Date":"2024-05-21","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING CAL.425","Date":"2024-05-21","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-05-21","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-25","Chamber":"SENATE"}
  ],
  "Votes":[
   {
