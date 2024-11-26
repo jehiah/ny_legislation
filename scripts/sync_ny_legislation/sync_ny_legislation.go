@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bufio"
 	"context"
 	"crypto/tls"
 	"encoding/json"
@@ -8,6 +9,7 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"strings"
 	"time"
 
 	"github.com/jehiah/nysenateapi"
@@ -138,6 +140,8 @@ func main() {
 	targetDir := flag.String("target-dir", "../..", "Target Directory")
 	timezone := flag.String("tz", "America/New_York", "timezone")
 	updateAll := flag.Bool("update-all", false, "update all")
+	updateOne := flag.String("update-one", "", "update one S1234-2021")
+	updateMultiple := flag.Bool("update-multiple", false, "update multiple (read on stdin)")
 	skipIndexUpdate := flag.Bool("skip-index-update", false, "skip updating year index files and last_sync.json")
 	customAction := flag.Bool("custom-action", false, "run custom action")
 
@@ -181,6 +185,24 @@ func main() {
 		err = s.CustomAction(ctx)
 	case *updateAll:
 		err = s.UpdateAllBills(ctx)
+	case *updateOne != "":
+		printNo, session, _ := strings.Cut(*updateOne, "-")
+		err = s.UpdateOne(ctx, session, printNo)
+	case *updateMultiple:
+		// read lines on stdin
+		scanner := bufio.NewScanner(os.Stdin)
+		for scanner.Scan() {
+			line := strings.TrimSpace(scanner.Text())
+			if line == "" {
+				continue
+			}
+			printNo, session, _ := strings.Cut(line, "-")
+			err = s.UpdateOne(ctx, session, printNo)
+			if err != nil {
+				log.Errorf("%s", err)
+			}
+		}
+		err = scanner.Err()
 	default:
 		err = s.Run()
 	}

@@ -93,3 +93,21 @@ func (s *SyncApp) UpdateAllBills(ctx context.Context) error {
 	}
 	return nil
 }
+
+// UpdateAllBills
+func (s *SyncApp) UpdateOne(ctx context.Context, session, printNo string) error {
+	// get bill
+	bill, err := s.api.GetBill(ctx, session, printNo)
+	if err != nil {
+		return err
+	}
+	if bill == nil {
+		return fmt.Errorf("bill not found %s-%s", printNo, session)
+	}
+	err = s.writeFile(fileName(*bill), bill)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
