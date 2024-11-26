@@ -1,11 +1,12 @@
 {
  "PrintNo":"A7341","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-17T15:30:23.21357Z","Status":"PASSED_SENATE",
+ "Published":"2023-05-17T15:30:23.21357Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-14","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-20"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-20"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-20","Committee":"Children And Families"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2023-05-17","Chamber":"ASSEMBLY"},
@@ -25,7 +26,9 @@
   {"Text":"SUBSTITUTED FOR S6357B","Date":"2024-05-29","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1306","Date":"2024-05-29","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-05-29","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.470","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

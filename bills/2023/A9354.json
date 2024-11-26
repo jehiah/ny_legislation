@@ -1,10 +1,12 @@
 {
  "PrintNo":"A9354","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-03-06T15:51:19.284949Z","Status":"PASSED_SENATE",
+ "Published":"2024-03-06T15:51:19.284949Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},{"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2024-03-06","Chamber":"ASSEMBLY"},
@@ -23,7 +25,10 @@
   {"Text":"SUBSTITUTED FOR S7869B","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1491","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VETOED MEMO.45","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

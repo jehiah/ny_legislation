@@ -1,11 +1,12 @@
 {
  "PrintNo":"S9379","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-05-14T10:52:19.068557Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-05-28"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"},{"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},
+  {"Type":"POCKET_APPROVAL","Date":"2024-11-22"},{"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2024-05-14","Chamber":"SENATE"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR A9712","Date":"2024-05-30","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.197","Date":"2024-05-30","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-05","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"SENATE"},
+  {"Text":"VETOED MEMO.71","Date":"2024-11-22","Chamber":"SENATE"}
  ],
  "Votes":[
   {

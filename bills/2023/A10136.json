@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10136","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-09T11:27:33.558926Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"},{"Type":"IN_SENATE_COMM","Date":"2024-06-07","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2024-05-09","Chamber":"ASSEMBLY"},
@@ -20,7 +21,9 @@
   {"Text":"SUBSTITUTED FOR S9254","Date":"2024-06-07","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1913","Date":"2024-06-07","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.495","Date":"2024-11-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

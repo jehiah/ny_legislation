@@ -1,11 +1,13 @@
 {
  "PrintNo":"A10230","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-15T10:26:06.749735Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Social Services"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2024-05-15","Chamber":"ASSEMBLY"},
@@ -20,7 +22,10 @@
   {"Text":"SUBSTITUTED FOR S9343","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1864","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.46","Date":"2024-11-22","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,10 +1,12 @@
 {
  "PrintNo":"A8276","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-11-27T13:45:25.684636Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},{"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Insurance"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2023-11-27","Chamber":"ASSEMBLY"},
@@ -19,7 +21,10 @@
   {"Text":"SUBSTITUTED FOR S7845","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1256","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.39","Date":"2024-11-22","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

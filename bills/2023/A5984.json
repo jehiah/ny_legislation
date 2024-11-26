@@ -1,10 +1,11 @@
 {
  "PrintNo":"A5984","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-03-28T15:51:01.843076Z","Status":"PASSED_SENATE",
+ "Published":"2023-03-28T15:51:01.843076Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-22"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},{"Type":"IN_SENATE_COMM","Date":"2024-05-23","Committee":"Health"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-03-28","Chamber":"ASSEMBLY"},
@@ -23,7 +24,9 @@
   {"Text":"SUBSTITUTED FOR S7177B","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1351","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.466","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4667","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-21T16:10:02.942607Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-21T16:10:02.942607Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-23","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-04-04"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-04-17"},
   {"Type":"IN_SENATE_COMM","Date":"2024-04-17","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-20"},{"Type":"PASSED_SENATE","Date":"2024-05-20"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-20"},{"Type":"PASSED_SENATE","Date":"2024-05-20"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-25"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2023-02-21","Chamber":"ASSEMBLY"},
@@ -23,7 +24,9 @@
   {"Text":"SUBSTITUTED FOR S932D","Date":"2024-05-20","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.111","Date":"2024-05-20","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-05-20","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-20","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.537","Date":"2024-11-25","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

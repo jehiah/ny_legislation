@@ -1,11 +1,13 @@
 {
  "PrintNo":"A3767","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-07T16:36:04.010986Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-07T16:36:04.010986Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2023-02-07","Chamber":"ASSEMBLY"},
@@ -24,7 +26,10 @@
   {"Text":"SUBSTITUTED FOR S2394B","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1631","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VETOED MEMO.24","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A5730","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-03-23T15:21:59.365489Z","Status":"PASSED_SENATE",
+ "Published":"2023-03-23T15:21:59.365489Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-03","Committee":"Governmental Operations"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-13"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-23","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2023-03-23","Chamber":"ASSEMBLY"},
@@ -21,7 +22,10 @@
   {"Text":"SUBSTITUTED FOR S3249B","Date":"2024-06-07","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.397","Date":"2024-06-07","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.465","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"APPROVAL MEMO.14","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

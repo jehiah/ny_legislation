@@ -1,10 +1,12 @@
 {
  "PrintNo":"A6924","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-05-09T11:37:46.481193Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-06-08","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-21"},{"Type":"IN_SENATE_COMM","Date":"2024-03-21","Committee":"Banks"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2023-05-09","Chamber":"ASSEMBLY"},
@@ -25,7 +27,10 @@
   {"Text":"SUBSTITUTED FOR S5669","Date":"2024-06-03","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1641","Date":"2024-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-03","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.35","Date":"2024-11-22","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

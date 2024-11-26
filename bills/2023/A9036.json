@@ -1,11 +1,13 @@
 {
  "PrintNo":"A9036","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-02-05T10:19:43.351278Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-22"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-23","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2024-02-05","Chamber":"ASSEMBLY"},
@@ -20,7 +22,10 @@
   {"Text":"SUBSTITUTED FOR S8547","Date":"2024-06-03","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.643","Date":"2024-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-03","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.42","Date":"2024-11-22","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

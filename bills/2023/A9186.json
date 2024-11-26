@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9186","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-02-12T10:33:08.625679Z","Status":"PASSED_SENATE",
+ "Published":"2024-02-12T10:33:08.625679Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-12","Committee":"Correction"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-02"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-06"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-06","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2024-02-12","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S5092A","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1271","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.485","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

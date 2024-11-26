@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8410","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-12-13T14:52:04.691309Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Consumer Affairs And Protection"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-23"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-23","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2024-06-06"},
-  {"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"PASSED_SENATE","Date":"2024-06-06"},{"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},
+  {"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2023-12-13","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S7810","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1846","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.480","Date":"2024-11-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

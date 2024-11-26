@@ -1,10 +1,12 @@
 {
  "PrintNo":"A6126","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-04-03T13:19:17.811123Z","Status":"PASSED_SENATE",
+ "Published":"2023-04-03T13:19:17.811123Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},{"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Insurance"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2023-04-03","Chamber":"ASSEMBLY"},
@@ -21,7 +23,10 @@
   {"Text":"SUBSTITUTED FOR S5242A","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.879","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VETOED MEMO.33","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

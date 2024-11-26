@@ -1,10 +1,11 @@
 {
  "PrintNo":"A8864","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-01-18T14:28:33.362336Z","Status":"PASSED_SENATE",
+ "Published":"2024-01-18T14:28:33.362336Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"},{"Type":"IN_SENATE_COMM","Date":"2024-06-07","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2024-01-18","Chamber":"ASSEMBLY"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR S7383A","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.308","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.483","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

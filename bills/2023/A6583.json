@@ -1,11 +1,11 @@
 {
  "PrintNo":"A6583","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-04-19T15:09:23.20011Z","Status":"PASSED_SENATE",
+ "Published":"2023-04-19T15:09:23.20011Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-11","Committee":"Governmental Operations"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-03-21"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-25"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-25","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2024-03-25"},
-  {"Type":"PASSED_SENATE","Date":"2024-03-25"}
+  {"Type":"PASSED_SENATE","Date":"2024-03-25"},{"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2023-04-19","Chamber":"ASSEMBLY"},
@@ -20,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S1480A","Date":"2024-03-25","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.262","Date":"2024-03-25","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-03-25","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-25","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

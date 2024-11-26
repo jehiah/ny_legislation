@@ -1,11 +1,13 @@
 {
  "PrintNo":"A5080","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-03-02T12:20:10.770916Z","Status":"PASSED_SENATE",
+ "Published":"2023-03-02T12:20:10.770916Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-14","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-20"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-20"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-20","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2023-03-02","Chamber":"ASSEMBLY"},
@@ -22,7 +24,10 @@
   {"Text":"SUBSTITUTED FOR S4764A","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1908","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VETOED MEMO.28","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A5576","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-03-16T10:57:10.269801Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-18"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-01-22"},
   {"Type":"IN_SENATE_COMM","Date":"2024-01-22","Committee":"Women's Issues"},
-  {"Type":"SENATE_FLOOR","Date":"2024-01-22"},{"Type":"PASSED_SENATE","Date":"2024-01-22"}
+  {"Type":"SENATE_FLOOR","Date":"2024-01-22"},{"Type":"PASSED_SENATE","Date":"2024-01-22"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-03-16","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S3610","Date":"2024-01-22","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.99","Date":"2024-01-22","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-01-22","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-01-22","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-01-22","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.464","Date":"2024-11-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

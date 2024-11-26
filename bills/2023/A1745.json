@@ -1,11 +1,13 @@
 {
  "PrintNo":"A1745","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-01-20T14:48:47.088007Z","Status":"PASSED_SENATE",
+ "Published":"2023-01-20T14:48:47.088007Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-14","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-20"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-28"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-28","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2023-01-20","Chamber":"ASSEMBLY"},
@@ -23,7 +25,10 @@
   {"Text":"SUBSTITUTED FOR S628A","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.964","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VETOED MEMO.21","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,10 +1,12 @@
 {
  "PrintNo":"A7241","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-15T15:46:33.513854Z","Status":"PASSED_SENATE",
+ "Published":"2023-05-15T15:46:33.513854Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-02"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-06"},{"Type":"IN_SENATE_COMM","Date":"2024-05-06","Committee":"Finance"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"POCKET_APPROVAL","Date":"2024-11-22"},
+  {"Type":"VETOED","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2023-05-15","Chamber":"ASSEMBLY"},
@@ -19,7 +21,10 @@
   {"Text":"SUBSTITUTED FOR S8663","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1584","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VETOED MEMO.36","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"TABLED","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

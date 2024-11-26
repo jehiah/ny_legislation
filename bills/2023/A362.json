@@ -1,10 +1,11 @@
 {
  "PrintNo":"A362","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-01-06T12:41:15.037659Z","Status":"PASSED_SENATE",
+ "Published":"2023-01-06T12:41:15.037659Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},{"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2023-01-06","Chamber":"ASSEMBLY"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR S8714A","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1770","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.459","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -171,7 +174,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"}],
+ "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1485,"Name":"Josh Jensen","Short":"JENSEN"}],
  "Title":"Grants peace officer status to certain security officers employed by Rochester Regional Health",
  "Summary":"Grants peace officer status to certain security officers employed by Rochester Regional Health or its subsidiaries, on or adjacent to the grounds, buildings or property owned, controlled, or administered by Rochester Regional Health.",
  "LawSection":"Criminal Procedure Law","LawCode":"Amd §2.10, CP L",

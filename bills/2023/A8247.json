@@ -1,10 +1,11 @@
 {
  "PrintNo":"A8247","Version":"C","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-11-15T09:33:04.824298Z","Status":"PASSED_SENATE",
+ "Published":"2023-11-15T09:33:04.824298Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-01","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-03-11"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-21"},{"Type":"IN_SENATE_COMM","Date":"2024-03-21","Committee":"Health"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},{"Type":"SIGNED_BY_GOV","Date":"2024-11-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-11-15","Chamber":"ASSEMBLY"},
@@ -22,7 +23,9 @@
   {"Text":"SUBSTITUTED FOR S8470A","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
   {"Text":"3RD READING CAL.454","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"C"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SIGNED CHAP.476","Date":"2024-11-22","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

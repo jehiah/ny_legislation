@@ -1,11 +1,12 @@
 {
  "PrintNo":"A7939","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-08-04T11:39:55.07163Z","Status":"PASSED_SENATE",
+ "Published":"2023-08-04T11:39:55.07163Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-03","Committee":"Consumer Affairs And Protection"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},
   {"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2024-06-05"},
-  {"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"PASSED_SENATE","Date":"2024-06-05"},{"Type":"DELIVERED_TO_GOV","Date":"2024-11-15"},
+  {"Type":"SIGNED_BY_GOV","Date":"2024-11-25"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2023-08-04","Chamber":"ASSEMBLY"},
@@ -28,7 +29,9 @@
   {"Text":"3RD READING CAL.1499","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-11-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.539","Date":"2024-11-25","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
