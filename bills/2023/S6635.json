@@ -1,10 +1,11 @@
 {
  "PrintNo":"S6635","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-05-02T16:04:24.885271Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2024-02-26"},
   {"Type":"PASSED_SENATE","Date":"2024-04-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-04","Committee":"Labor"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2023-05-02","Chamber":"SENATE"},
@@ -26,7 +27,8 @@
   {"Text":"SUBSTITUTED FOR A5745","Date":"2024-05-29","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.157","Date":"2024-05-29","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-05","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {
