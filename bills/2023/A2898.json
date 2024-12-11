@@ -1,10 +1,11 @@
 {
  "PrintNo":"A2898","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-01T09:24:59.931174Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-01T09:24:59.931174Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-24","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-01-31"},{"Type":"IN_SENATE_COMM","Date":"2024-01-31","Committee":"Insurance"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"SIGNED_BY_GOV","Date":"2024-12-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2023-02-01","Chamber":"ASSEMBLY"},
@@ -26,7 +27,10 @@
   {"Text":"SUBSTITUTED FOR S5481A","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1910","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.548","Date":"2024-12-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"APPROVAL MEMO.22","Date":"2024-12-11","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A43","Version":"C","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2022-12-28T14:22:33.20344Z","Status":"PASSED_SENATE",
+ "Published":"2022-12-28T14:22:33.20344Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-02","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-26"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-26","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"SIGNED_BY_GOV","Date":"2024-12-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2023-01-04","Chamber":"ASSEMBLY"},
@@ -24,7 +25,9 @@
   {"Text":"SUBSTITUTED FOR S2279C","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
   {"Text":"3RD READING CAL.1825","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"C"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SIGNED CHAP.547","Date":"2024-12-11","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
