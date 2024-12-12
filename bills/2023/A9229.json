@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9229","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-02-20T13:57:40.573741Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-20","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-02-29"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-04"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-04","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2024-02-20","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S8833","Date":"2024-05-29","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1366","Date":"2024-05-29","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-05-29","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

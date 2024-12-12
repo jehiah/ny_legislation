@@ -1,11 +1,12 @@
 {
  "PrintNo":"A860","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-01-11T10:06:21.921049Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Tourism, Parks, Arts And Sports Development"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-03-26"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-21"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-21","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2023-01-11","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S8895","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1137","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

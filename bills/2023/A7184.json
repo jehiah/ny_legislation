@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7184","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-12T14:17:22.775687Z","Status":"PASSED_SENATE",
+ "Published":"2023-05-12T14:17:22.775687Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-30","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-14"},{"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Health"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-05-12","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S3283A","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.166","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

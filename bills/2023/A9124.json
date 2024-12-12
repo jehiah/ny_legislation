@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9124","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-02-07T15:16:03.178675Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2024-02-07","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S8550","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1044","Date":"2024-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

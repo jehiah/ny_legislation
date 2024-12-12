@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4763","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-23T09:50:22.290712Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-23T09:50:22.290712Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-02-23","Committee":"Correction"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-02-12"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-05"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-05","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2023-02-23","Chamber":"ASSEMBLY"},
@@ -24,7 +25,8 @@
   {"Text":"SUBSTITUTED FOR S4061A","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1191","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

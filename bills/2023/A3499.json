@@ -1,11 +1,12 @@
 {
  "PrintNo":"A3499","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-03T11:42:34.875625Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-03T11:42:34.875625Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-23","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-04-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-06"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-06","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-03"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2023-02-03","Chamber":"ASSEMBLY"},
@@ -23,7 +24,8 @@
   {"Text":"SUBSTITUTED FOR S7553A","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1575","Date":"2024-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

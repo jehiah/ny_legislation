@@ -1,10 +1,11 @@
 {
  "PrintNo":"A4737","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-23T09:42:03.226123Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-23T09:42:03.226123Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-05","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-04-12"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-04-15"},{"Type":"IN_SENATE_COMM","Date":"2024-04-15","Committee":"Codes"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-14"},{"Type":"PASSED_SENATE","Date":"2024-05-14"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-14"},{"Type":"PASSED_SENATE","Date":"2024-05-14"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2023-02-23","Chamber":"ASSEMBLY"},
@@ -21,7 +22,8 @@
   {"Text":"SUBSTITUTED FOR S2376B","Date":"2024-05-14","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.731","Date":"2024-05-14","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-05-14","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-14","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-14","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

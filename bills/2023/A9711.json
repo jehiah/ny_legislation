@@ -1,10 +1,11 @@
 {
  "PrintNo":"A9711","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-04-03T14:47:08.403256Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-07","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-08"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-13"},{"Type":"IN_SENATE_COMM","Date":"2024-05-13","Committee":"Finance"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-16"},{"Type":"PASSED_SENATE","Date":"2024-05-16"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-16"},{"Type":"PASSED_SENATE","Date":"2024-05-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2024-04-03","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S8898","Date":"2024-05-16","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.927","Date":"2024-05-16","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-05-16","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-16","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-16","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

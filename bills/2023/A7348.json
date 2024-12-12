@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7348","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-05-17T16:58:24.781022Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-05-31","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-21"},{"Type":"IN_SENATE_COMM","Date":"2024-03-21","Committee":"Codes"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2023-05-17","Chamber":"ASSEMBLY"},
@@ -25,7 +26,8 @@
   {"Text":"SUBSTITUTED FOR S9745","Date":"2024-06-04","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1737","Date":"2024-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-04","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

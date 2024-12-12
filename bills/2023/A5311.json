@@ -1,11 +1,12 @@
 {
  "PrintNo":"A5311","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-03-07T13:30:26.053166Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Governmental Operations"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-03-07"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-11"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-11","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2024-04-16"},{"Type":"PASSED_SENATE","Date":"2024-04-16"}
+  {"Type":"SENATE_FLOOR","Date":"2024-04-16"},{"Type":"PASSED_SENATE","Date":"2024-04-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2023-03-07","Chamber":"ASSEMBLY"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR S1059","Date":"2024-04-16","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.395","Date":"2024-04-16","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-04-16","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-04-16","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-04-16","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

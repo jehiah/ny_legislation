@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8866","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-01-23T15:31:05.091489Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-23","Committee":"Environmental Conservation"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-02-15"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-12"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-12","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2024-03-20"},{"Type":"PASSED_SENATE","Date":"2024-03-20"}
+  {"Type":"SENATE_FLOOR","Date":"2024-03-20"},{"Type":"PASSED_SENATE","Date":"2024-03-20"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2024-01-23","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S8357","Date":"2024-03-20","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.541","Date":"2024-03-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-03-20","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-20","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-20","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

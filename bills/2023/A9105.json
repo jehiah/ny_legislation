@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9105","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-02-07T14:51:03.883881Z","Status":"PASSED_SENATE",
+ "Published":"2024-02-07T14:51:03.883881Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-30"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2024-02-07","Chamber":"ASSEMBLY"},
@@ -21,7 +22,8 @@
   {"Text":"SUBSTITUTED FOR S7868A","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1180","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A3580","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-03T15:10:52.167864Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-03T15:10:52.167864Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-19","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-04-12"},{"Type":"PASSED_ASSEMBLY","Date":"2024-05-22"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-22","Committee":"Children And Families"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-30"},{"Type":"PASSED_SENATE","Date":"2024-05-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2023-02-03","Chamber":"ASSEMBLY"},
@@ -21,7 +22,8 @@
   {"Text":"SUBSTITUTED FOR S8745","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.930","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

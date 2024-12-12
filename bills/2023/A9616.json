@@ -1,10 +1,11 @@
 {
  "PrintNo":"A9616","Version":"C","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-03-26T09:00:55.088429Z","Status":"PASSED_SENATE",
+ "Published":"2024-03-26T09:00:55.088429Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"},{"Type":"IN_SENATE_COMM","Date":"2024-06-07","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2024-03-26","Chamber":"ASSEMBLY"},
@@ -24,7 +25,8 @@
   {"Text":"SUBSTITUTED FOR S9174B","Date":"2024-06-07","Chamber":"SENATE","Version":"C"},
   {"Text":"3RD READING CAL.1779","Date":"2024-06-07","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE","Version":"C"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"C"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

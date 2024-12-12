@@ -1,11 +1,12 @@
 {
  "PrintNo":"A1080","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-01-13T10:18:07.458769Z","Status":"PASSED_SENATE",
+ "Published":"2023-01-13T10:18:07.458769Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-01-13","Committee":"Governmental Operations"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-02-26"},{"Type":"PASSED_ASSEMBLY","Date":"2024-03-05"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-05","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2024-03-05"},{"Type":"PASSED_SENATE","Date":"2024-03-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-03-05"},{"Type":"PASSED_SENATE","Date":"2024-03-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2023-01-13","Chamber":"ASSEMBLY"},
@@ -43,7 +44,8 @@
   {"Text":"SUBSTITUTED FOR S1218B","Date":"2024-03-05","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.491","Date":"2024-03-05","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-03-05","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-05","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-05","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

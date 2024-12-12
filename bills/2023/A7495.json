@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7495","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2023-05-25T11:39:00.956053Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-01-03","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-14"},{"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Codes"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-05-23"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-23"},{"Type":"PASSED_SENATE","Date":"2024-05-23"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2023-05-25","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S6239","Date":"2024-05-23","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.550","Date":"2024-05-23","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-05-23","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-23","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-23","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

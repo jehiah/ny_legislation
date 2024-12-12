@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8467","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-12-29T09:34:37.604112Z","Status":"PASSED_SENATE",
+ "Published":"2023-12-29T09:34:37.604112Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-02-08","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-02-15"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-02-26"},
   {"Type":"IN_SENATE_COMM","Date":"2024-02-26","Committee":"Alcoholism And Substance Use Disorders"},
-  {"Type":"SENATE_FLOOR","Date":"2024-03-11"},{"Type":"PASSED_SENATE","Date":"2024-03-11"}
+  {"Type":"SENATE_FLOOR","Date":"2024-03-11"},{"Type":"PASSED_SENATE","Date":"2024-03-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-12-29","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S7833A","Date":"2024-03-11","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.412","Date":"2024-03-11","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-03-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-11","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-03-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
