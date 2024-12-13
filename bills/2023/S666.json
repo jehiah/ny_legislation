@@ -1,7 +1,7 @@
 {
- "PrintNo":"S666","Version":"B","Session":2023,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S666","Version":"C","Session":2023,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2023-01-05T15:55:38.003455Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Finance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2024-12-13","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2023-01-05","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2023-05-16","Chamber":"SENATE"},
@@ -10,7 +10,9 @@
   {"Text":"REFERRED TO BANKS","Date":"2024-01-03","Chamber":"SENATE","Version":"A"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2024-04-09","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 666B","Date":"2024-06-04","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 666B","Date":"2024-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2024-12-13","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 666C","Date":"2024-12-13","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -41,7 +43,7 @@
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
  "Title":"Relates to licensing consumer debt collectors",
  "Summary":"Relates to licensing consumer debt collectors; sets minimum standards and regulations; establishes penalties for violations.",
- "LawSection":"Banking Law","LawCode":"Add Art 7 §§295 - 305, amd §§36 & 44, Bank L; amd §3218, add §5022, CPLR",
+ "LawSection":"Banking Law","LawCode":"Add Art 7 §§295 - 306, amd §§36 & 44, Bank L; amd §3218, add §5022, CPLR",
  "ActClause":"AN ACT to amend the banking law and the civil practice law and rules, in relation to licensing consumer debt collectors",
  "PreviousVersions":["S7071-2009","S1439-2011","S219-2013","S190-2015","S7099-2017","S2343-2019","S3121-2021"]
 }
