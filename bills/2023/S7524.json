@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7524","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2023-06-02T16:38:54.881096Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-01-03","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2024-05-16"},
   {"Type":"PASSED_SENATE","Date":"2024-06-03"},{"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Judiciary"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"SIGNED_BY_GOV","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2023-06-02","Chamber":"SENATE"},
@@ -24,7 +25,9 @@
   {"Text":"SUBSTITUTED FOR A10350","Date":"2024-06-05","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.222","Date":"2024-06-05","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-05","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.579","Date":"2024-12-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {

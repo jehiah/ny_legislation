@@ -1,11 +1,12 @@
 {
  "PrintNo":"A6957","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-09T12:02:02.821828Z","Status":"PASSED_SENATE",
+ "Published":"2023-05-09T12:02:02.821828Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-04-16","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-14"},
   {"Type":"IN_SENATE_COMM","Date":"2024-05-14","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"SIGNED_BY_GOV","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2023-05-09","Chamber":"ASSEMBLY"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR S2464B","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1073","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.559","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

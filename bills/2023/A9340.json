@@ -1,10 +1,12 @@
 {
  "PrintNo":"A9340","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-03-06T15:47:07.46464Z","Status":"PASSED_SENATE",
+ "Published":"2024-03-06T15:47:07.46464Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-04"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},{"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"POCKET_APPROVAL","Date":"2024-12-13"},
+  {"Type":"VETOED","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2024-03-06","Chamber":"ASSEMBLY"},
@@ -21,7 +23,10 @@
   {"Text":"SUBSTITUTED FOR S8677B","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1768","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VETOED MEMO.84","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"TABLED","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,11 +1,13 @@
 {
  "PrintNo":"A6811","Version":"C","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-08T13:03:36.234048Z","Status":"PASSED_SENATE",
+ "Published":"2023-05-08T13:03:36.234048Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-03-05"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-06"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-06","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-21"},{"Type":"PASSED_SENATE","Date":"2024-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-21"},{"Type":"PASSED_SENATE","Date":"2024-05-21"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"POCKET_APPROVAL","Date":"2024-12-13"},
+  {"Type":"VETOED","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2023-05-08","Chamber":"ASSEMBLY"},
@@ -27,7 +29,10 @@
   {"Text":"SUBSTITUTED FOR S6809B","Date":"2024-05-21","Chamber":"SENATE","Version":"C"},
   {"Text":"3RD READING CAL.1117","Date":"2024-05-21","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2024-05-21","Chamber":"SENATE","Version":"C"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-21","Chamber":"SENATE","Version":"C"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-21","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"VETOED MEMO.78","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"TABLED","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

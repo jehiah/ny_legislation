@@ -1,10 +1,12 @@
 {
  "PrintNo":"A6244","Version":"C","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-04-03T14:54:09.156313Z","Status":"PASSED_SENATE",
+ "Published":"2023-04-03T14:54:09.156313Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},{"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-06"},{"Type":"PASSED_SENATE","Date":"2024-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"POCKET_APPROVAL","Date":"2024-12-13"},
+  {"Type":"VETOED","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2023-04-03","Chamber":"ASSEMBLY"},
@@ -35,7 +37,10 @@
   {"Text":"SUBSTITUTED FOR S4993C","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
   {"Text":"3RD READING CAL.1131","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"C"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-06","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"VETOED MEMO.77","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"TABLED","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

@@ -1,10 +1,12 @@
 {
  "PrintNo":"A9718","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-04-03T14:32:56.888077Z","Status":"PASSED_SENATE",
+ "Published":"2024-04-03T14:32:56.888077Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},{"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Health"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-04"},{"Type":"PASSED_SENATE","Date":"2024-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"POCKET_APPROVAL","Date":"2024-12-13"},
+  {"Type":"VETOED","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2024-04-03","Chamber":"ASSEMBLY"},
@@ -23,7 +25,10 @@
   {"Text":"SUBSTITUTED FOR S9067A","Date":"2024-06-04","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1000","Date":"2024-06-04","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-04","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VETOED MEMO.86","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"TABLED","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

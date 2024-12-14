@@ -1,10 +1,12 @@
 {
  "PrintNo":"A8862","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-01-18T14:23:21.085725Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-06"},{"Type":"IN_SENATE_COMM","Date":"2024-06-07","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-07"},{"Type":"PASSED_SENATE","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"POCKET_APPROVAL","Date":"2024-12-13"},
+  {"Type":"VETOED","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2024-01-18","Chamber":"ASSEMBLY"},
@@ -19,7 +21,10 @@
   {"Text":"SUBSTITUTED FOR S7840","Date":"2024-06-07","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.82","Date":"2024-06-07","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-07","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-07","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.81","Date":"2024-12-13","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2024-12-13","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

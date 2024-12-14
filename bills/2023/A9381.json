@@ -1,10 +1,12 @@
 {
  "PrintNo":"A9381","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-03-06T16:02:06.081635Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-04"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-04"},{"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"POCKET_APPROVAL","Date":"2024-12-13"},
+  {"Type":"VETOED","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2024-03-06","Chamber":"ASSEMBLY"},
@@ -20,7 +22,10 @@
   {"Text":"SUBSTITUTED FOR S8529","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1582","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.85","Date":"2024-12-13","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2024-12-13","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

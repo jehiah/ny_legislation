@@ -1,11 +1,12 @@
 {
  "PrintNo":"S9785","Session":2023,"Chamber":"SENATE","BillType":"Senate","Published":"2024-05-30T16:08:50.207783Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2024-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2024-06-04"},
   {"Type":"PASSED_SENATE","Date":"2024-06-04"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-04","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2024-06-07"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"SIGNED_BY_GOV","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2024-05-30","Chamber":"SENATE"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR A10411","Date":"2024-06-05","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.472","Date":"2024-06-05","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2024-06-07","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2024-06-07","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.592","Date":"2024-12-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {

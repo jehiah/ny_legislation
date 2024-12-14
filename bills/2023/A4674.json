@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4674","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-22T13:32:36.905875Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-22T13:32:36.905875Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-03-21","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},{"Type":"PASSED_ASSEMBLY","Date":"2024-02-28"},
   {"Type":"IN_SENATE_COMM","Date":"2024-02-28","Committee":"Cities 2"},{"Type":"SENATE_FLOOR","Date":"2024-05-30"},
-  {"Type":"PASSED_SENATE","Date":"2024-05-30"}
+  {"Type":"PASSED_SENATE","Date":"2024-05-30"},{"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},
+  {"Type":"SIGNED_BY_GOV","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2023-02-22","Chamber":"ASSEMBLY"},
@@ -26,7 +27,9 @@
   {"Text":"SUBSTITUTED FOR S5159A","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1024","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-30","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.556","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,10 +1,11 @@
 {
  "PrintNo":"A117","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-01-03T14:13:28.163634Z","Status":"PASSED_SENATE",
+ "Published":"2023-01-03T14:13:28.163634Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2023-01-04","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-01-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-26"},{"Type":"IN_SENATE_COMM","Date":"2024-03-26","Committee":"Health"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-29"},{"Type":"PASSED_SENATE","Date":"2024-05-29"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"SIGNED_BY_GOV","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2023-01-04","Chamber":"ASSEMBLY"},
@@ -23,7 +24,9 @@
   {"Text":"SUBSTITUTED FOR S3230A","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1169","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.554","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

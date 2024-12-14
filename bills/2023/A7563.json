@@ -1,11 +1,12 @@
 {
  "PrintNo":"A7563","Version":"B","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-05-25T12:57:53.362189Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2023-05-25T12:57:53.362189Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-06-03"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-06-03"},{"Type":"IN_SENATE_COMM","Date":"2024-06-03","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-12"},{"Type":"POCKET_APPROVAL","Date":"2024-12-13"},
+  {"Type":"VETOED","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2023-05-25","Chamber":"ASSEMBLY"},
@@ -27,7 +28,9 @@
   {"Text":"3RD READING CAL.1573","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VETOED MEMO.79","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"TABLED","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
