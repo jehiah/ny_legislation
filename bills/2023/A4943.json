@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4943","Version":"A","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2023-02-27T11:09:49.874918Z","Status":"PASSED_SENATE",
+ "Published":"2023-02-27T11:09:49.874918Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-03-05","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-03-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-03-25"},
   {"Type":"IN_SENATE_COMM","Date":"2024-03-25","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2024-05-08"},{"Type":"PASSED_SENATE","Date":"2024-05-08"}
+  {"Type":"SENATE_FLOOR","Date":"2024-05-08"},{"Type":"PASSED_SENATE","Date":"2024-05-08"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-02"},{"Type":"SIGNED_BY_GOV","Date":"2024-12-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2023-02-27","Chamber":"ASSEMBLY"},
@@ -21,7 +22,10 @@
   {"Text":"SUBSTITUTED FOR S4414A","Date":"2024-05-08","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.816","Date":"2024-05-08","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2024-05-08","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-08","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.594","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"APPROVAL MEMO.40","Date":"2024-12-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
