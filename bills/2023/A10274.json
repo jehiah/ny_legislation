@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10274","Session":2023,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-05-16T10:36:15.85239Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2024-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2024-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2024-05-30"},{"Type":"IN_SENATE_COMM","Date":"2024-05-30","Committee":"Education"},
-  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2024-06-05"},{"Type":"PASSED_SENATE","Date":"2024-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2024-12-31"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2024-05-16","Chamber":"ASSEMBLY"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR S9349","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1788","Date":"2024-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2024-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2024-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2024-12-31","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -132,7 +134,7 @@
     {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
     {"ID":657,"Short":"FAHY","Vote":"Aye"},{"ID":574,"Short":"BARCLAY","Vote":"Aye"},
     {"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
-    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":0,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1126,"Short":"NORRIS","Vote":"Aye"},
     {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
@@ -170,7 +172,7 @@
     {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
     {"ID":657,"Short":"FAHY","Vote":"Aye"},{"ID":574,"Short":"BARCLAY","Vote":"Aye"},
     {"ID":494,"Short":"WEINSTEIN","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
-    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":0,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1126,"Short":"NORRIS","Vote":"Aye"},
     {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
