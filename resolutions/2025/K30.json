@@ -1,8 +1,13 @@
 {
  "PrintNo":"K30","Session":2025,"Chamber":"ASSEMBLY","BillType":"Regular","Resolution":true,
- "Published":"2025-01-21T10:37:22.448246Z","Status":"INTRODUCED",
- "Actions":[{"Text":"INTRODUCED","Date":"2025-01-21","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"}],
+ "Published":"2025-01-21T10:37:22.448246Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2025-01-21"}],
+ "Actions":[
+  {"Text":"INTRODUCED","Date":"2025-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"ADOPTED","Date":"2025-01-21","Chamber":"ASSEMBLY"}
+ ],
+ "Sponsors":[
+  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":1125,"Name":"Brian D. Miller","Short":"MILLER"}
+ ],
  "Title":"Commemorating the 50th Anniversary of the Nursing Program at SUNY Polytechnic Institute",
  "LawSection":"Resolutions, Legislative"
 }

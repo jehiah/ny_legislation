@@ -1,14 +1,14 @@
 {
- "PrintNo":"S135","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-19T09:22:14.895128Z",
+ "PrintNo":"S1438","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T15:36:52.734548Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-21"},
   {"Type":"PASSED_SENATE","Date":"2025-01-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Health"}
  ],
  "Actions":[
-  {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-21","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.100","Date":"2025-01-21","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.102","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-21","Chamber":"ASSEMBLY"}
@@ -26,10 +26,10 @@
     {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
     {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
     {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
     {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Nay"},
     {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Nay"},
     {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Nay"},
-    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Nay"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Nay"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Excused"}
    ]
@@ -37,6 +37,7 @@
   {
    "VoteType":"COMMITTEE","Date":"2025-01-21","Chamber":"SENATE","Committee":"Rules",
    "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
     {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
     {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
     {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS","Vote":"Aye"},
@@ -49,7 +50,6 @@
     {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
     {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
     {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Nay"},
     {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Nay"},
     {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Nay"},
@@ -92,6 +92,7 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
     {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
     {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
     {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
@@ -116,7 +117,6 @@
     {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Nay"},
     {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Nay"},
     {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Nay"},
-    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Nay"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Nay"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Nay"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"},
@@ -130,12 +130,17 @@
   }
  ],
  "Sponsors":[
-  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1225,"Name":"John Liu","Short":"LIU"}
+  {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
+  {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
+  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Provides practical support for access to abortion care",
- "Summary":"Provides practical support for access to abortion care including, but not limited to, reimbursement for ground and air transportation, lodging, meals, childcare, translation services, and doula support.",
- "LawSection":"Public Health Law","LawCode":"Amd §2599-bb-1, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to providing practical support for access to abortion care",
- "SameAsPrintNo":"A2137-2025"
+ "Title":"Enacts the New York state abortion clinical training program act",
+ "Summary":"Establishes the New York state abortion clinical training program within the department of health for the purpose of training health care practitioners in the performance of abortion and related reproductive health care services; requires the commissioner of health to submit a report to the governor and the legislature.",
+ "LawSection":"Public Health Law","LawCode":"Add Art 25-AA §§2599-bb-10 - 2599-bb-13, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to enacting the New York state abortion clinical training program act",
+ "PreviousVersions":["S3060-2023"]
 }
