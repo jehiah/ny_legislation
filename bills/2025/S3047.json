@@ -2,7 +2,10 @@
  "PrintNo":"S3047","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T10:24:35.910773Z",
  "Status":"IN_SENATE_COMM","Committee":"Judiciary",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-23","Chamber":"SENATE"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-23","Chamber":"SENATE"},
+  {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2025-01-23","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}

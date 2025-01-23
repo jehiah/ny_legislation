@@ -2,7 +2,10 @@
  "PrintNo":"S3025","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T09:41:35.63238Z",
  "Status":"IN_SENATE_COMM","Committee":"Judiciary",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-23","Chamber":"SENATE"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-23","Chamber":"SENATE"},
+  {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2025-01-23","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":885,"Name":"Robert Ortt","Short":"ORTT"}],
  "Title":"Relates to providing for the recall of a district attorney",
  "Summary":"Provides for the recall of a district attorney.",
