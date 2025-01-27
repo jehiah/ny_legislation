@@ -1,32 +1,30 @@
 {
- "PrintNo":"S2182","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T15:37:48.776429Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
+ "PrintNo":"S1966","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T13:14:22.776111Z",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
  "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-27"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-27"},
   {"Type":"PASSED_SENATE","Date":"2025-01-27"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Corporations, Authorities And Commissions"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Social Services"}
  ],
  "Actions":[
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-15","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-21","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.150","Date":"2025-01-27","Chamber":"SENATE"},
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-14","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-22","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.148","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-01-27","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-27","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
-   "VoteType":"COMMITTEE","Date":"2025-01-21","Chamber":"SENATE","Committee":"Energy And Telecommunications",
+   "VoteType":"COMMITTEE","Date":"2025-01-22","Chamber":"SENATE","Committee":"Social Services",
    "Votes":[
-    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
-    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
     {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
-    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
-    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
-    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
-    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
-    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
-    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"}
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
    ]
   },
   {
@@ -45,13 +43,13 @@
     {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
     {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
-    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
-    {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Aye"},
     {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
     {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
     {"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Aye"},
     {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Excused"}
    ]
   },
@@ -124,10 +122,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
- "Title":"Permits the rendering of an estimated bill from a utility corporation or municipality under certain circumstances",
- "Summary":"Permits the rendering of an estimated bill from a utility corporation or municipality under certain circumstances; requires each utility corporation and municipality within six months to submit to the commission a model procedure for the calculation of estimated bills that incorporates best practices and technology and accounts for any barriers to the use of actual meter readings.",
- "LawSection":"Public Service Law","LawCode":"Amd §39, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to permitting the rendering of an estimated bill from a utility corporation or municipality under certain circumstances",
- "PreviousVersions":["S9469-2021","S1851-2023"]
+ "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
+ "Title":"Requires social services districts to automatically re-enroll eligible persons or households for the low-income home energy assistance program",
+ "Summary":"Requires social services districts to, every heating season, automatically re-enroll persons or households currently receiving assistance through the low-income home energy assistance program, so long as each person or household maintains eligibility.",
+ "LawSection":"Social Services Law","LawCode":"Amd §97, Soc Serv L",
+ "ActClause":"AN ACT to amend the social services law, in relation to requiring social services districts to automatically re-enroll eligible persons or households for the low-income home energy assistance program",
+ "PreviousVersions":["S9578-2021","S2496-2023"]
 }
