@@ -1,8 +1,10 @@
 {
  "PrintNo":"A372","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-02T10:34:06.342066Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Aging"}],
- "Actions":[{"Text":"REFERRED TO AGING","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Aging"}],
+ "Actions":[
+  {"Text":"REFERRED TO AGING","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2025-01-28","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":659,"Name":"Ron Kim","Short":"KIM"},{"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},
   {"ID":896,"Name":"Latrice Walker","Short":"WALKER"}
@@ -10,6 +12,6 @@
  "Title":"Relates to informal caregiver training",
  "Summary":"Relates to informal caregiver training; defines \"person in need of assistance\"; expands who may serve as an \"informal caregiver\".",
  "LawSection":"Elder Law","LawCode":"Amd §206, Eld L",
- "ActClause":"AN ACT to amend the elder law, in relation to informal caregiver training",
+ "ActClause":"AN ACT to amend the elder law, in relation to informal caregiver training","SameAsPrintNo":"S903-2025",
  "PreviousVersions":["A7876-2017","A6597-2019","A6914-2021","A1845-2023"]
 }
