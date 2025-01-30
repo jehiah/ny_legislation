@@ -1,9 +1,20 @@
 {
- "PrintNo":"S187","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-20T09:03:03.637029Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"}],
- "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
+ "PrintNo":"S187","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-20T09:03:03.637029Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 187A","Date":"2025-01-30","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+ ],
  "Title":"Prohibits the sale of certain products that contain regulated perfluoroalkyl and polyfluoroalkyl substances; and provides penalties for violations",
  "Summary":"Prohibits the sale of certain products that contain regulated perfluoroalkyl and polyfluoroalkyl substances; requires manufacturers of products containing PFAS to provide notice of such fact to persons that offer the products for sale or distribution; provides penalties for violations.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §37-0123, amd §§71-3703 & 37-0905, En Con L",

@@ -1,9 +1,16 @@
 {
- "PrintNo":"S1287","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T09:31:08.66868Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"SENATE"}],
- "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
+ "PrintNo":"S1287","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T09:31:08.66868Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1287A","Date":"2025-01-30","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}
+ ],
  "Title":"Establishes the rare disease advisory council",
  "Summary":"Establishes the rare disease advisory council to identify best practices, raise awareness regarding rare diseases, evaluate barriers to access to care, and to make recommendations to the legislature and the governor.",
  "LawSection":"Public Health Law","LawCode":"Add Title 2-F §245, Pub Health L",
