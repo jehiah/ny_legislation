@@ -6,12 +6,12 @@
   {"Type":"ASSEMBLY_FLOOR","Date":"2022-03-17"},{"Type":"PASSED_ASSEMBLY","Date":"2022-03-21"},
   {"Type":"IN_SENATE_COMM","Date":"2022-03-21","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2022-03-30"},
   {"Type":"PASSED_SENATE","Date":"2022-03-30"},{"Type":"DELIVERED_TO_GOV","Date":"2022-12-12"},
-  {"Type":"VETOED","Date":"2022-12-23"}
+  {"Type":"POCKET_APPROVAL","Date":"2022-12-23"},{"Type":"VETOED","Date":"2022-12-23"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2022-01-19","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2022-03-15","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING CAL.493","Date":"2022-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.493","Date":"2022-03-17","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2022-03-21","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2022-03-21","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO FINANCE","Date":"2022-03-21","Chamber":"SENATE"},
@@ -93,14 +93,14 @@
    ]
   },
   {
-   "VoteType":"Favorable","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"Favorable","Date":"2022-03-15","Chamber":"ASSEMBLY","Committee":"ECONOMIC DEVELOPMENT",
    "Votes":[
     {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
     {"ID":551,"Short":"CAHILL","Vote":"Aye"},{"ID":660,"Short":"LALOR","Vote":"Aye"},
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
     {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
     {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":1250,"Short":"SALKA","Vote":"Aye"},
-    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":0,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
     {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
     {"ID":1240,"Short":"DARLING","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
@@ -111,14 +111,14 @@
    ]
   },
   {
-   "VoteType":"","Date":"1969-12-31","Chamber":"ASSEMBLY",
+   "VoteType":"","Date":"2022-03-21","Chamber":"ASSEMBLY","Committee":"ECONOMIC DEVELOPMENT",
    "Votes":[
     {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
     {"ID":551,"Short":"CAHILL","Vote":"Aye"},{"ID":660,"Short":"LALOR","Vote":"Aye"},
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
     {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
     {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":1250,"Short":"SALKA","Vote":"Aye"},
-    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":0,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
     {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
     {"ID":1240,"Short":"DARLING","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
