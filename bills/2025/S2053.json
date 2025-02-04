@@ -1,8 +1,12 @@
 {
- "PrintNo":"S2053","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T10:03:29.289681Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-15","Chamber":"SENATE"}],
+ "PrintNo":"S2053","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T10:03:29.289681Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2053A","Date":"2025-02-03","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}
