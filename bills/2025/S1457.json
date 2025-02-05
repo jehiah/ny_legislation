@@ -1,10 +1,26 @@
 {
- "PrintNo":"S1457","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T09:11:33.896768Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-28","Committee":"Finance"}],
+ "PrintNo":"S1457","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-10T09:11:33.896768Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-01-10","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-28","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-28","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1457A","Date":"2025-02-03","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-01-28","Chamber":"SENATE","Committee":"Aging",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
@@ -14,7 +30,8 @@
  ],
  "Title":"Provides for adjustment of the maximum income threshold for eligibility for SCRIE, DRIE, SCHE and DHE by any increase in the consumer price index",
  "Summary":"Provides for adjustment of the maximum income threshold for eligibility for the senior citizen rent increase exemption (SCRIE), disability rent increase exemption (DRIE), senior citizen homeowners' exemption (SCHE), and disabled homeowners' exemption (DHE) by any increase in the consumer price index (CPI).",
- "LawSection":"Real Property Tax Law","LawCode":"Amd §§467-b, 467-c, 467 & 459-c, RPT L",
- "ActClause":"AN ACT to amend the real property tax law, in relation to increasing the combined household income limit for eligibility for a senior citizen rent increase exemption (SCRIE), disability rent increase exemption (DRIE), senior citizen homeowners' exemption (SCHE), and disabled homeowners' exemption (DHE) on the basis of the consumer price index",
+ "LawSection":"Real Property Tax Law",
+ "LawCode":"Amd §§467-b, 467-c, 467 & 459-c, RPT L; amd Part U §5, Chap 55 of 2014; amd §4, Chap 129 of 2014",
+ "ActClause":"AN ACT to amend the real property tax law, in relation to increasing the combined household income limit for eligibility for a senior citizen rent increase exemption (SCRIE), disability rent increase exemption (DRIE), senior citizen homeowners' exemption (SCHE), and disabled homeowners' exemption (DHE) on the basis of the consumer price index; to amend part U of chapter 55 of the laws of 2014, amending the real property tax law relating to the tax abatement and exemption for rent regulated and rent controlled property occupied by senior citizens, in relation to the effectiveness thereof; and to amend chapter 129 of the laws of 2014, amending the real property tax law relating to the tax abatement and exemption for rent regulated and rent controlled property occupied by persons with disabilities, in relation to the effectiveness thereof",
  "PreviousVersions":["S2925-2007","S1134-2009","S1372-2011","S1218-2013","S3865-2015","S7069-2017","S2363-2019","S2897-2021","S2960-2023"]
 }
