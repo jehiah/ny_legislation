@@ -1,8 +1,12 @@
 {
- "PrintNo":"S2390","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T08:54:29.670098Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Budget And Revenue"}],
- "Actions":[{"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-17","Chamber":"SENATE"}],
+ "PrintNo":"S2390","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-17T08:54:29.670098Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Budget And Revenue"}],
+ "Actions":[
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-17","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2390A","Date":"2025-02-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":439,"Name":"Simcha Felder","Short":"FELDER"}],
  "Title":"Increases the tax exemption amount on clothing and apparel items from one hundred ten dollars to two hundred dollars",
  "Summary":"Increases the tax exemption amount on clothing and apparel items from one hundred ten dollars to two hundred dollars.",

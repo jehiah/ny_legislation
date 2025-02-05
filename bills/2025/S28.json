@@ -1,8 +1,12 @@
 {
- "PrintNo":"S28","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-16T16:05:29.030951Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S28","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-16T16:05:29.030951Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 28A","Date":"2025-02-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
@@ -16,5 +20,5 @@
  "Summary":"Eliminates provisions exempting employees with disabilities from the minimum wage law; provides that laws or minimum wage orders that authorize an employer to pay a wage that is less than the minimum wage are valid provided that under such laws or orders an employee with a disability is paid the same wage as an employee in a comparable position that does not have a disability.",
  "LawSection":"Labor Law","LawCode":"Amd §§651 & 655, Lab L",
  "ActClause":"AN ACT to amend the labor law, in relation to the minimum wage for employees with disabilities",
- "PreviousVersions":["A11290-2017","A7077-2019","S4018-2019","S1828-2021","S3434-2023"]
+ "SameAsPrintNo":"A1006-2025","PreviousVersions":["A11290-2017","A7077-2019","S4018-2019","S1828-2021","S3434-2023"]
 }
