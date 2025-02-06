@@ -1,12 +1,31 @@
 {
  "PrintNo":"S1286","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T09:30:44.533892Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Cities 1"}],
- "Actions":[{"Text":"REFERRED TO CITIES 1","Date":"2025-01-09","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Cities 1"},{"Type":"SENATE_FLOOR","Date":"2025-02-04"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.213","Date":"2025-01-28","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-04","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-01-28","Chamber":"SENATE","Committee":"Cities 1",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Relates to increasing fines for individuals who fail to comply with a stop work order",
  "Summary":"Relates to increasing fines for individuals who fail to comply with a stop work order; increases fines from $6,000 to $10,000 for initial violation and $12,000 to $20,000 for subsequent violations.",
  "LawSection":"New York City Administrative Code","LawCode":"Amd §28-207.2.6, NYC Ad Cd",
  "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to increasing fines for individuals who fail to comply with a stop work order",
- "PreviousVersions":["S6443-2017","S1078-2019","S207-2021","S928-2023"]
+ "SameAsPrintNo":"A4212-2025","PreviousVersions":["S6443-2017","S1078-2019","S207-2021","S928-2023"]
 }
