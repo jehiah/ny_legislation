@@ -1,8 +1,12 @@
 {
- "PrintNo":"A53","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-18T15:25:37.910445Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A53","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-18T15:25:37.910445Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-06","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-02-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 53A","Date":"2025-02-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
@@ -24,5 +28,5 @@
  "Summary":"Allows evidence of a defendant's prior crimes or acts to be admissible in a criminal case for certain purposes including as proof of motive, opportunity, intent, preparation, plan, knowledge, state of mind of the defendant, state of mind of the victim or other party, absence of mistake or accident, identity, modus operandi, or common scheme or plan; requires that the prosecution provide reasonable notice of the general nature of any such evidence it intends to introduce at trial.",
  "LawSection":"Criminal Procedure Law","LawCode":"Add §60.77, CP L",
  "ActClause":"AN ACT to amend the criminal procedure law, in relation to allowing evidence of a defendant's prior crimes or acts to be admissible in a criminal case for certain purposes",
- "PreviousVersions":["A4992-2023"]
+ "SameAsPrintNo":"S4592-2025","PreviousVersions":["A4992-2023"]
 }
