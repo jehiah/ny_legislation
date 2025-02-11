@@ -1,8 +1,12 @@
 {
- "PrintNo":"S3415","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T13:26:41.157959Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2025-01-27","Chamber":"SENATE"}],
+ "PrintNo":"S3415","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-27T13:26:41.157959Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-10","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2025-01-27","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-02-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3415A","Date":"2025-02-10","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -19,7 +23,7 @@
  "Title":"Establishes the universal child care act; repealer; appropriation",
  "Summary":"Establishes the universal child care act to provide for the establishment and funding of universal child care in the state of New York; establishes a universal child care taskforce to help implement universal child care in the state and repeals certain provisions of the social services law relating thereto; establishes the permanent child care workforce pay equity fund; establishes a universal child care public option pilot program to provide universal child care in at least twenty locations throughout the state; makes an appropriation therefor.",
  "LawSection":"Appropriations",
- "LawCode":"Rpld §410 sub 3 ¶(b), amd Soc Serv L, generally; amd §101, add Art 25 §§1220 - 1228, Ed L; add §§99-ss, St Fin L",
+ "LawCode":"Rpld §410 sub 3 ¶(b), amd Soc Serv L, generally; amd §101, add Art 25 §§1220 - 1228, Ed L; add §§97-bbbbb, St Fin L",
  "ActClause":"AN ACT to amend the social services law and the education law, in relation to establishing a universal child care taskforce; to amend the state finance law, in relation to establishing a permanent child care workforce pay equity fund; to amend the education law, in relation to establishing a universal child care public option pilot program; to repeal certain provisions of the social services law relating to the child care availability taskforce; and making an appropriation therefor",
  "PreviousVersions":["S7595-2021","S3245-2023"]
 }
