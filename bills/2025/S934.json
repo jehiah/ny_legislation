@@ -1,0 +1,34 @@
+{
+ "PrintNo":"S934","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T10:38:38.306543Z",
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Internet And Technology"},
+  {"Type":"SENATE_FLOOR","Date":"2025-02-12"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.297","Date":"2025-02-10","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-11","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-12","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-10","Chamber":"SENATE","Committee":"Internet And Technology",
+   "Votes":[
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
+ "Title":"Requires warnings on generative artificial intelligence systems",
+ "Summary":"Requires the owner, licensee or operator of a generative artificial intelligence system to conspicuously display a warning on the system's user interface that is reasonably calculated to consistently apprise the user that the outputs of the generative artificial intelligence system may be inaccurate and/or inappropriate.",
+ "LawSection":"General Business Law","LawCode":"Add §399-zzzzzz, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to requiring warnings on generative artificial intelligence systems",
+ "SameAsPrintNo":"A3411-2025","PreviousVersions":["S9450-2023"]
+}
