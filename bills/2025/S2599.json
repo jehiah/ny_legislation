@@ -1,12 +1,16 @@
 {
- "PrintNo":"S2599","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:27:57.980319Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-21","Chamber":"SENATE"}],
+ "PrintNo":"S2599","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-21T17:27:57.980319Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-21","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-02-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2599A","Date":"2025-02-13","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
- "Title":"Requires bicycles with electric assist and electric scooters be registered with the department of motor vehicles",
- "Summary":"Requires bicycles with electric assist and electric scooters be registered with the department of motor vehicles and have a license plate affixed to such bicycle with electric assist or electric scooter.",
+ "Title":"Relates to enacting \"Priscilla's law\" requiring ebikes and electric scooters to be registered and have license plates",
+ "Summary":"Requires bicycles with electric assist and electric scooters in a city with a population of one million or more be registered with the department of motor vehicles and have a license plate affixed to such bicycle with electric assist or electric scooter.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Add §§1244 & 1290, V & T L",
- "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to requiring bicycles with electric assist and electric scooters be registered with the department of motor vehicles",
- "PreviousVersions":["S9208-2023"]
+ "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to requiring bicycles with electric assist and electric scooters in certain cities be registered with the department of motor vehicles",
+ "SameAsPrintNo":"A339-2025","PreviousVersions":["S9208-2023"]
 }
