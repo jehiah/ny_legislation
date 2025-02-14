@@ -1,11 +1,26 @@
 {
  "PrintNo":"S2390","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-17T08:54:29.670098Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Budget And Revenue"}],
+ "Published":"2025-01-17T08:54:29.670098Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-17","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2025-02-05","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 2390A","Date":"2025-02-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 2390A","Date":"2025-02-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-11","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-11","Version":"A","Chamber":"SENATE","Committee":"Budget And Revenue",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":439,"Name":"Simcha Felder","Short":"FELDER"}],
  "Title":"Increases the tax exemption amount on clothing and apparel items from one hundred ten dollars to two hundred dollars",
