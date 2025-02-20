@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1373","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T12:07:05.628358Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1373","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-09T12:07:05.628358Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1373A","Date":"2025-01-27","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":896,"Name":"Latrice Walker","Short":"WALKER"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
@@ -14,10 +18,12 @@
   {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"},
-  {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"}
+  {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},
+  {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
+  {"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"}
  ],
  "Title":"Increases the amount of residential solar tax credits",
  "Summary":"Increases the amount of residential solar tax credits.","LawSection":"Tax Law","LawCode":"Amd §606, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to residential solar tax credits",
+ "ActClause":"AN ACT to amend the tax law, in relation to residential solar tax credits","SameAsPrintNo":"S2626-2025",
  "PreviousVersions":["A6739-2023"]
 }
