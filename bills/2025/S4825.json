@@ -1,12 +1,16 @@
 {
- "PrintNo":"S4825","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T10:09:52.165292Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-02-13","Chamber":"SENATE"}],
+ "PrintNo":"S4825","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-13T10:09:52.165292Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-13","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO JUDICIARY","Date":"2025-02-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4825A","Date":"2025-02-20","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
- "Title":"Relates to raising the age limitation for judges to seventy-six years of age",
- "Summary":"Relates to raising the age limitation for judges to seventy-six years of age.","LawSection":"Judiciary Law",
- "LawCode":"Amd §23, Judy L",
- "ActClause":"AN ACT to amend the judiciary law, in relation to raising the age limitation for judges to seventy-six years of age",
- "SameAsPrintNo":"A2663-2025","PreviousVersions":["A6917-2019","A3238-2021","A50-2023"]
+ "Title":"Relates to the age limitation for judges",
+ "Summary":"Provides that a judge of a city court outside the city of New York may only serve until the last day of December next after such person shall be seventy-six years of age; makes exceptions for judges already elected or appointed to office.",
+ "LawSection":"Judiciary Law","LawCode":"Amd §23, Judy L",
+ "ActClause":"AN ACT to amend the judiciary law, in relation to the age limitation for judges",
+ "PreviousVersions":["A6917-2019","A3238-2021","A50-2023"]
 }

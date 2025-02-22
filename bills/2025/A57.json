@@ -1,8 +1,12 @@
 {
- "PrintNo":"A57","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-18T15:29:02.218233Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A57","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-18T15:29:02.218233Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-21","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO JUDICIARY","Date":"2025-02-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 57A","Date":"2025-02-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
@@ -10,10 +14,10 @@
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}
  ],
- "Title":"Relates to action arising out of consumer debt",
+ "Title":"Relates to actions arising out of consumer debt",
  "Summary":"Relates to action arising out of consumer debt; defines consumer debt and replaces consumer credit transaction with such term.",
  "LawSection":"Civil Practice Law and Rules",
  "LawCode":"Amd CPLR, generally; amd §§301, 401, 1911 & 2101, NYC Civ Ct Act; amd §212, Judy L; amd §1911, UCCA",
- "ActClause":"AN ACT to amend the civil practice law and rules, the New York city civil court act, the judiciary law and the uniform city court act, in relation to redefining consumer credit transaction to consumer debt",
+ "ActClause":"AN ACT to amend the civil practice law and rules, the New York city civil court act, the judiciary law, the uniform city court act, the uniform district court act and the uniform justice court act, in relation to redefining consumer credit transaction to consumer debt",
  "PreviousVersions":["A5368-2023"]
 }
