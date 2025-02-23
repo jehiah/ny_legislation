@@ -32,6 +32,7 @@ func (s *SyncApp) SyncBills() error {
 		if err != nil {
 			return err
 		}
+		s.AddSameAs(*bill)
 		err = s.writeFile(fileName(*bill), bill)
 		if err != nil {
 			return err
@@ -47,9 +48,6 @@ func (s *SyncApp) LoadBills() error {
 		return err
 	}
 	for _, fn := range files {
-		if filepath.Base(fn) == "index.json" {
-			continue
-		}
 		if strings.Contains(fn, "_raw") {
 			continue
 		}

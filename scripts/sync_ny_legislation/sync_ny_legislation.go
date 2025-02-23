@@ -26,6 +26,7 @@ type SyncApp struct {
 	targetDir string
 
 	billLookup map[string]bool
+	billIndex  map[string]SameAs
 
 	LastSync
 }
@@ -45,14 +46,14 @@ func (s *SyncApp) Load() error {
 	if err != nil {
 		return err
 	}
+	err = s.LoadBillIndex()
+	if err != nil {
+		return err
+	}
 	return nil
 }
 
 func (s *SyncApp) CustomAction(ctx context.Context) error {
-	err := s.LoadBills()
-	if err != nil {
-		return err
-	}
 	// read & re-write each file
 	for f := range s.billLookup {
 		var bill nysenateapi.Bill
@@ -60,11 +61,7 @@ func (s *SyncApp) CustomAction(ctx context.Context) error {
 		if err != nil {
 			return err
 		}
-		err = s.writeFile(f, bill)
-		if err != nil {
-			return err
-		}
-		return nil
+		s.AddSameAs(bill)
 	}
 
 	return nil
@@ -98,10 +95,14 @@ func (s SyncApp) writeFile(fn string, o interface{}) error {
 		return err
 	}
 	defer f.Close()
-
-	b, err := assertjson.MarshalIndentCompact(o, "", " ", 120)
-	if err != nil {
-		return err
+	var b []byte
+	if x, ok := o.([]byte); ok {
+		b = x
+	} else {
+		b, err = assertjson.MarshalIndentCompact(o, "", " ", 120)
+		if err != nil {
+			return err
+		}
 	}
 	_, err = f.Write(b)
 	if err != nil {
@@ -206,6 +207,11 @@ func main() {
 	default:
 		err = s.Run()
 	}
+
+	if err != nil {
+		log.Fatal(err)
+	}
+	err = s.SaveBillIndex()
 	if err != nil {
 		log.Fatal(err)
 	}
