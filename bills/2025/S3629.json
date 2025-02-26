@@ -1,12 +1,38 @@
 {
- "PrintNo":"S3629","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T09:44:28.800266Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-29","Chamber":"SENATE"}],
+ "PrintNo":"S3629","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-29T09:44:28.800266Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-02-26"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-29","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.397","Date":"2025-02-25","Chamber":"SENATE"},
+  {"Text":"AMENDED 3629A","Date":"2025-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-25","Chamber":"SENATE","Committee":"Environmental Conservation",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Prohibits the participation of certain animals in traveling animal acts",
  "Summary":"Prohibits the participation of certain animals in traveling animal acts; prohibits the department of environmental conservation from issuing permits or licenses allowing participation of certain animals in traveling animal acts; excludes certain permanent performing institutions; imposes a civil penalty not to exceed $1000 for a violation.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §11-0541, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the participation of certain animals in traveling animal acts",
- "PreviousVersions":["A8157-2017","S7718-2017","S5408-2019","S4840-2021","S4363-2023"]
+ "SameAsPrintNo":"A5850-2025","PreviousVersions":["A8157-2017","S7718-2017","S5408-2019","S4840-2021","S4363-2023"]
 }

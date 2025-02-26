@@ -1,11 +1,13 @@
 {
- "PrintNo":"S952","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T11:21:46.859055Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-02-12"}],
+ "PrintNo":"S952","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-07T11:21:46.859055Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-02-26"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.344","Date":"2025-02-11","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 952A","Date":"2025-02-26","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,8 +37,8 @@
  ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
  "Title":"Makes rent stabilized dwelling units eligible for certain protections",
- "Summary":"Makes rent stabilized dwelling units eligible for certain protections regarding deposits.",
- "LawSection":"General Obligations Law","LawCode":"Amd §7-108, Gen Ob L",
- "ActClause":"AN ACT to amend the general obligations law, in relation to making rent stabilized dwelling units eligible for certain protections",
+ "Summary":"Requires that the entire amount of a rental deposit or advance be refundable to the tenant upon the tenant's vacating of the premises except for an amount lawfully retained for non-payment of rent or utilities, damage caused by the tenant, or storage costs; requires landlord to provide an itemized statement of damages and to return the balance of the deposit within 14 days; requires that tenant be given the opportunity to inspect the rental premises prior to signing a lease; allows a grantee or assignee of the leased premises to demand that an escrow account be opened.",
+ "LawSection":"General Obligations Law","LawCode":"Amd §7-107, Gen Ob L",
+ "ActClause":"AN ACT to amend the general obligations law, in relation to the liability of a grantee or assignee for deposits made by tenants upon conveyance of rent stabilized dwelling units",
  "PreviousVersions":["S6340-2021","S2088-2023"]
 }
