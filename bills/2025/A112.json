@@ -1,0 +1,39 @@
+{
+ "PrintNo":"A112","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-20T09:54:27.312171Z",
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.23","Date":"2025-02-27","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-02-24","Chamber":"ASSEMBLY","Committee":"INSURANCE",
+   "Votes":[
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Excused"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1474,"Short":"FORREST","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}],
+ "Title":"Repeals section 3403 of the insurance law relating to anti-arson applications",
+ "Summary":"Repeals provisions relating to mandatory anti-arson applications for insurance coverage to insure any building against the peril of fire or explosion.",
+ "LawSection":"Insurance Law","LawCode":"Rpld §3403, Ins L",
+ "ActClause":"AN ACT to repeal certain provisions of the insurance law relating to anti-arson applications",
+ "SameAsPrintNo":"S4157-2025",
+ "PreviousVersions":["A9707-2017","S7767-2017","A1167-2019","A603-2021","A2811-2023","A8831-2023"]
+}

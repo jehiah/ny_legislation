@@ -1,32 +1,38 @@
 {
- "PrintNo":"S3161","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T09:12:28.686289Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Tourism, Parks, Arts And Sports Development",
+ "PrintNo":"S2657","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T12:35:41.741054Z",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
  "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-10"},{"Type":"PASSED_SENATE","Date":"2025-02-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Tourism, Parks, Arts And Sports Development"}
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-02-04"},
+  {"Type":"PASSED_SENATE","Date":"2025-02-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Education"}
  ],
  "Actions":[
-  {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-24","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.281","Date":"2025-02-04","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-02-05","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-10","Chamber":"SENATE"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-01-22","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.210","Date":"2025-01-28","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-02-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-02-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
-   "VoteType":"COMMITTEE","Date":"2025-02-04","Chamber":"SENATE",
-   "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+   "VoteType":"COMMITTEE","Date":"2025-01-28","Chamber":"SENATE","Committee":"Education",
    "Votes":[
-    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
-    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
-    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
-    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
-    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
-    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Excused"}
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
    ]
   },
   {
@@ -67,7 +73,6 @@
     {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
     {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
     {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
-    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
     {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Aye"},
     {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
     {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
@@ -91,6 +96,7 @@
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
     {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Nay"},
     {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"},
     {"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO","Vote":"Excused"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
@@ -99,14 +105,14 @@
   }
  ],
  "Sponsors":[
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
-  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
-  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
-  {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Moves the Amistad Commission from the department of state to the state education department",
- "Summary":"Moves the Amistad Commission from the department of state to the state education department.",
- "LawSection":"Arts and Cultural Affairs Law","LawCode":"Amd §§57.52 & 57.53, Arts & Cul L",
- "ActClause":"AN ACT to amend the arts and cultural affairs law, in relation to the Amistad Commission",
- "SameAsPrintNo":"A5468-2025","PreviousVersions":["S6323-2017","S6445-2019","S1924-2021","S1032-2023"]
+ "Title":"Establishes the bilingual teachers of tomorrow teacher recruitment and retention program",
+ "Summary":"Establishes the bilingual teachers of tomorrow teacher recruitment and retention program to attract and retain bilingual, certified teachers in schools with a bilingual teacher shortage; provides for grants and procedures for applying for such grants and eligibility requirements for fund distribution.",
+ "LawSection":"Education Law","LawCode":"Add §3615, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to establishing the bilingual teachers of tomorrow teacher recruitment and retention program",
+ "SameAsPrintNo":"A334-2025",
+ "PreviousVersions":["S2713-2007","S2543-2009","S1160-2011","S3093-2013","S2867-2015","S2700-2017","S5027-2019","S5433-2021","S3408-2023"]
 }
