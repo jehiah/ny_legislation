@@ -1,12 +1,16 @@
 {
- "PrintNo":"S15","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-16T12:43:35.163491Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S15","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-16T12:43:35.163491Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-27","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-02-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 15A","Date":"2025-02-27","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
  "Title":"Requires nursing homes to designate dedicated storage spaces for the storage of the bodies of deceased persons",
  "Summary":"Requires nursing homes to designate dedicated storage spaces for the storage of the bodies of deceased persons; requires nursing homes to develop and submit plans to the department of health for the designation of such dedicated storage spaces; establishes requirements for such storage spaces.",
  "LawSection":"Public Health Law","LawCode":"Add §2810-a, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to requiring nursing homes to designate dedicated storage spaces for the storage of the bodies of deceased persons",
- "PreviousVersions":["S8159-2021","S3572-2023"]
+ "SameAsPrintNo":"A1365-2025","PreviousVersions":["S8159-2021","S3572-2023"]
 }
