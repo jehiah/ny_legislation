@@ -1,16 +1,23 @@
 {
- "PrintNo":"S1239","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T15:14:45.110751Z",
- "Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Agriculture"}],
- "Actions":[{"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S1239","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T15:14:45.110751Z","Status":"IN_SENATE_COMM","Committee":"Agriculture",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Agriculture"}],
+ "Actions":[
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO AGRICULTURE","Date":"2025-02-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1239A","Date":"2025-02-28","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},
-  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}
+  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"},{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
- "Title":"Prohibits certain food additives and food color additives",
- "Summary":"Prohibits certain food additives and food color additives; provides that in an action to enforce compliance, the recognition by the federal food and drug administration of any of these substances as safe may not be alleged as a defense; establishes requirements for the reporting of GRAS (generally recognized as safe) substances.",
+ "Title":"Enacts the \"food safety and chemical disclosure act\"",
+ "Summary":"Enacts the \"food safety and chemical disclosure act\"; prohibits certain food additives and food color additives; provides that in an action to enforce compliance, the recognition by the federal food and drug administration of any of these substances as safe may not be alleged as a defense; establishes requirements for the reporting of GRAS (generally recognized as safe) substances.",
  "LawSection":"Agriculture and Markets Law",
  "LawCode":"Amd §§199-a, 199-b, 198 & 202-c, add §199-g, Ag & Mkts L; add §915-a, Ed L",
- "ActClause":"AN ACT to amend the agriculture and markets law and the education law, in relation to prohibiting certain food additives and food color additives and to the reporting of GRAS substances",
- "SameAsPrintNo":"A1556-2025","PreviousVersions":["S6055-2023"]
+ "ActClause":"AN ACT to amend the agriculture and markets law and the education law, in relation to enacting the \"food safety and chemical disclosure act\"",
+ "PreviousVersions":["S6055-2023"]
 }
