@@ -1,15 +1,39 @@
 {
  "PrintNo":"A2168","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:33:43.068131Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-06"}],
+ "Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-06"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-02-10"},{"Type":"IN_SENATE_COMM","Date":"2025-02-10","Committee":"Health"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-04","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.8","Date":"2025-02-06","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.8","Date":"2025-02-06","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-02-10","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-02-10","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2025-02-04","Chamber":"ASSEMBLY","Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Excused"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":675,"Short":"STECK","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-02-10","Chamber":"ASSEMBLY","Committee":"HEALTH",
    "Votes":[
     {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
     {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},

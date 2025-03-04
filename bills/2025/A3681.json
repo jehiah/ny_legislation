@@ -1,16 +1,52 @@
 {
  "PrintNo":"A3681","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-29T16:35:25.158851Z","Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-05","Committee":"Racing And Wagering"}],
+ "Published":"2025-01-29T16:35:25.158851Z","Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-05","Committee":"Racing And Wagering"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-02-26"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-26","Committee":"Racing, Gaming And Wagering"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-01-29","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO RACING AND WAGERING","Date":"2025-02-05","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 3681A","Date":"2025-02-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 3681A","Date":"2025-02-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-02-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.20","Date":"2025-02-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-02-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-02-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-02-26","Chamber":"SENATE","Version":"A"}
  ],
- "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-02-11","Chamber":"ASSEMBLY","Committee":"RACING AND WAGERING",
+   "Votes":[
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-02-26","Chamber":"ASSEMBLY","Committee":"RACING AND WAGERING",
+   "Votes":[
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
+ ],
  "Title":"Removes restrictions on the frequency certain authorized organizations may conduct bingo games",
  "Summary":"Removes restrictions on the frequency certain authorized organizations may conduct bingo games.",
  "LawSection":"General Municipal Law","LawCode":"Amd §495-a, Gen Muni L",
  "ActClause":"AN ACT to amend the general municipal law, in relation to removing restrictions on the frequency certain authorized organizations may conduct bingo games",
- "PreviousVersions":["A10069-2023"]
+ "SameAsPrintNo":"S5614-2025","PreviousVersions":["A10069-2023"]
 }

@@ -1,0 +1,48 @@
+{
+ "PrintNo":"A1351","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T11:42:51.853161Z",
+ "Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-03-03"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.28","Date":"2025-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-03","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-02-24","Chamber":"ASSEMBLY","Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":1474,"Short":"FORREST","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
+  {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
+  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1477,"Name":"Amanda Septimo","Short":"SEPTIMO"}
+ ],
+ "Title":"Permits midwives and physician assistants to certify the cause of death on a fetal death certificate",
+ "Summary":"Permits midwives and physician assistants to certify the cause of death on a fetal death certificate if they are in attendance at or after a fetal death.",
+ "LawSection":"Public Health Law","LawCode":"Amd §4161, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to certification of fetal death certificates by a midwife or physician assistant",
+ "SameAsPrintNo":"S5222-2025","PreviousVersions":["A9093-2021","A7390-2023"]
+}

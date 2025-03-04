@@ -1,12 +1,16 @@
 {
- "PrintNo":"S516","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T09:36:52.868035Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S516","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T09:36:52.868035Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-24","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-02-24","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 516A","Date":"2025-02-24","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"}],
  "Title":"Requires motor vehicle repair shops to disclose certain information to customers",
  "Summary":"Requires motor vehicle repair shops to disclose whether parts supplied are under warranty and the estimate for all parts and labor; provides that no work can be done without the consent of the customer; provides for fines for violations of such provisions.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §398-d, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to requiring motor vehicle repair shops to disclose certain information to customers",
- "PreviousVersions":["S9257-2021","S2378-2023"]
+ "SameAsPrintNo":"A1385-2025","PreviousVersions":["S9257-2021","S2378-2023"]
 }

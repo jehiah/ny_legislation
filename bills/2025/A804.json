@@ -1,8 +1,12 @@
 {
- "PrintNo":"A804","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T16:10:40.012549Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A804","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T16:10:40.012549Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-24","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-24","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 804A","Date":"2025-01-24","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
@@ -17,5 +21,5 @@
  "Summary":"Enacts the consumer litigation funding act to promote consumer protections related to consumer litigation funding transactions; provides for contract requirements, including that the contract contain a no penalty provision for the prepayment of the funded amount prior to the settlement of their case; makes related provisions.",
  "LawSection":"General Business Law","LawCode":"Add Art 39-H §§899-ccc - 899-mmm, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to consumer litigation funding",
- "SameAsPrintNo":"S1104-2025","PreviousVersions":["A7655-2023"]
+ "PreviousVersions":["A11257-2017","A6764-2019","A1270-2021","A115-2023"]
 }

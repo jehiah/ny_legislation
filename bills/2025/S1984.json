@@ -1,0 +1,42 @@
+{
+ "PrintNo":"S1984","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T13:32:42.411308Z",
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-03"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-14","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.395","Date":"2025-02-25","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-25","Chamber":"SENATE","Committee":"Environmental Conservation",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+ ],
+ "Title":"Directs the commissioner to publicly publish an annual report on the environmental radiation surveillance program",
+ "Summary":"Directs the commissioner to publicly publish an annual report on the environmental radiation surveillance program and analyze such report showing trends and cumulative impact, as well as notify other relevant agencies if contamination has exceeded EPA standards for maximum amounts of contamination allowed in drinking water or food.",
+ "LawSection":"Environmental Conservation Law","LawCode":"Amd §3-0301, En Con L",
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to directing the commissioner to publicly publish an annual report on the environmental radiation surveillance program",
+ "PreviousVersions":["S5099-2021","S2103-2023"]
+}

@@ -1,7 +1,10 @@
 {
  "PrintNo":"K127","Session":2025,"Chamber":"ASSEMBLY","BillType":"Regular","Resolution":true,
- "Published":"2025-02-24T17:34:59.838941Z","Status":"IN_ASSEMBLY_COMM","Committee":"Calendar",
- "Actions":[{"Text":"REFERRED TO CALENDAR","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "Published":"2025-02-24T17:34:59.838941Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2025-02-25"}],
+ "Actions":[
+  {"Text":"REFERRED TO CALENDAR","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"ADOPTED","Date":"2025-02-25","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},
   {"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
@@ -16,10 +19,10 @@
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":1540,"Name":"Brian Maher","Short":"MAHER"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
-  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
-  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
-  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},
-  {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
+  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
+  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"}
  ],
  "Title":"Memorializing Governor Kathy Hochul to proclaim February 24-March 2, 2025, as Eating Disorders Awareness Week in the State of New York",
  "LawSection":"Resolutions, Legislative"

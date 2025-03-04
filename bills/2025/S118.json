@@ -6,6 +6,20 @@
   {"Text":"REFERRED TO AGING","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-28","Chamber":"SENATE"}
  ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-01-28","Chamber":"SENATE","Committee":"Aging",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
   {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
@@ -15,5 +29,5 @@
  "Summary":"Establishes a dementia and Alzheimer's disease program database.","LawSection":"Elder Law",
  "LawCode":"Add §226, Eld L",
  "ActClause":"AN ACT to amend the elder law, in relation to establishing a dementia and Alzheimer's disease program database",
- "PreviousVersions":["S887-2023"]
+ "SameAsPrintNo":"A4195-2025","PreviousVersions":["S887-2023"]
 }

@@ -1,8 +1,13 @@
 {
- "PrintNo":"S4067","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T14:40:51.659923Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-31","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-31","Chamber":"SENATE"}],
+ "PrintNo":"S4067","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-31T14:40:51.659923Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-24","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-31","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-02-24","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4067A","Date":"2025-02-24","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
   {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},

@@ -1,14 +1,15 @@
 {
- "PrintNo":"A2123","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:20:43.133916Z",
- "Status":"ASSEMBLY_FLOOR",
+ "PrintNo":"A2123","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:20:43.133916Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Governmental Employees"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-24"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-11","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.18","Date":"2025-02-13","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.18","Date":"2025-02-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 2123A","Date":"2025-02-24","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -32,8 +33,9 @@
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
   {"ID":1466,"Name":"Michael Durso","Short":"DURSO"}
  ],
- "Title":"Provides additional credits to children and siblings of deceased New York city sanitation members",
+ "Title":"Enacts the \"Ignazio Giacalone act\" to provide additional credits to children and siblings of deceased New York city sanitation members",
  "Summary":"Provides additional credits to children and siblings of New York city sanitation members who died in the performance of duty as the natural and proximate result of the World Trade Center attack on September 11, 2001.",
  "LawSection":"Civil Service Law","LawCode":"Add §85-d, Civ Serv L",
- "ActClause":"AN ACT to amend the civil service law, in relation to providing additional credits to children and siblings of deceased New York city sanitation members"
+ "ActClause":"AN ACT to amend the civil service law, in relation to providing additional credits to children and siblings of deceased New York city sanitation members",
+ "SameAsPrintNo":"S1165-2025"
 }

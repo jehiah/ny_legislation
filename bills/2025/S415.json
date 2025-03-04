@@ -1,8 +1,12 @@
 {
- "PrintNo":"S415","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T10:48:54.061069Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S415","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-31T10:48:54.061069Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 415A","Date":"2025-01-16","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -12,12 +16,12 @@
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
   {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},
-  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Provides for minimum wage requirements for miscellaneous industry workers",
- "Summary":"Provides for minimum wage requirements for miscellaneous industry workers.","LawSection":"Labor Law",
- "LawCode":"Amd §§196-d, 651, 652 & 653, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to providing for minimum wage requirements for miscellaneous industry workers",
+ "Title":"Provides for minimum wage requirements for miscellaneous industry workers and establishes a one fair wage reimbursement credit",
+ "Summary":"Provides for minimum wage requirements for miscellaneous industry workers;  establishes a one fair wage reimbursement credit.",
+ "LawSection":"Labor Law","LawCode":"Amd §§196-d, 651, 652 & 653, Lab L; add §50, amd §§210-B, 606 & 1511, Tax L",
+ "ActClause":"AN ACT to amend the labor law, in relation to providing for minimum wage requirements for miscellaneous industry workers; and to amend the tax law, in relation to establishing the one fair wage reimbursement credit",
  "PreviousVersions":["S8406-2019","S808-2021","S5567-2023"]
 }

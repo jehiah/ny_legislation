@@ -1,16 +1,25 @@
 {
  "PrintNo":"S820","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T11:56:40.274851Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-13"},
-  {"Type":"PASSED_SENATE","Date":"2025-02-24"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Housing"}
+  {"Type":"PASSED_SENATE","Date":"2025-02-24"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-25"},{"Type":"PASSED_ASSEMBLY","Date":"2025-02-25"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-02-28"},{"Type":"SIGNED_BY_GOV","Date":"2025-02-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.94","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-24","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HOUSING","Date":"2025-02-24","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A5686","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.105","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-02-28","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.99","Date":"2025-02-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

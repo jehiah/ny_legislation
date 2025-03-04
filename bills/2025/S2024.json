@@ -1,8 +1,29 @@
 {
- "PrintNo":"S2024","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T09:17:17.908604Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Cities 1"}],
- "Actions":[{"Text":"REFERRED TO CITIES 1","Date":"2025-01-15","Chamber":"SENATE"}],
+ "PrintNo":"S2024","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T09:17:17.908604Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Cities 1"},{"Type":"SENATE_FLOOR","Date":"2025-02-04"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2025-01-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CITIES 1","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2024A","Date":"2025-01-16","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.214","Date":"2025-01-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-04","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-01-28","Version":"A","Chamber":"SENATE","Committee":"Cities 1",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Nay"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"}],
  "Title":"Authorizes the independent budget office of the city of New York to obtain certain tax data for purposes of evaluation",
  "Summary":"Authorizes the independent budget office of the city of New York to obtain certain tax data for purposes of evaluation.",

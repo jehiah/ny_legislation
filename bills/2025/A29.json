@@ -1,14 +1,16 @@
 {
  "PrintNo":"A29","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-18T15:02:13.567392Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-25","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.22","Date":"2025-02-27","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.22","Date":"2025-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-03","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -26,7 +28,9 @@
  ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"},
-  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"}
+  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":1487,"Name":"William Conrad","Short":"CONRAD"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"}
  ],
  "Title":"Designates the state of New York a purple heart state",
  "Summary":"Designates the state of New York a purple heart state.","LawSection":"State Law",

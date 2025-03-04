@@ -1,8 +1,33 @@
 {
  "PrintNo":"A1502","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T12:14:58.242528Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-10","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-10","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-10","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-06"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-10","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.6","Date":"2025-02-06","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S1548","Date":"2025-02-10","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-02-04","Chamber":"ASSEMBLY","Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Excused"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":675,"Short":"STECK","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
@@ -39,7 +64,9 @@
   {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},{"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},
-  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"}
+  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
+  {"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
  ],
  "Title":"Provides for the restriction of substances in menstrual products",
  "Summary":"Restricts certain substances from being used in menstrual products.","LawSection":"General Business Law",

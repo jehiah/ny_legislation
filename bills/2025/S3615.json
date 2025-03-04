@@ -1,9 +1,26 @@
 {
  "PrintNo":"S3615","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T09:03:19.776096Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-01-29","Chamber":"SENATE"}],
- "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-01-29","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-25","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-25","Chamber":"SENATE","Committee":"Banks",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"}],
  "Title":"Relates to minority depository institutions which apply to establish a home or branch office in an unbanked or underbanked community",
  "Summary":"Relates to minority depository institutions which apply to establish a home or branch office in an unbanked or underbanked community; provides that such institutions shall be entitled to receive deposits from the state comptroller and the commissioner of taxation and finance.",
  "LawSection":"Banking Law","LawCode":"Amd §96-d, Bank L",

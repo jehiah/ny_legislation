@@ -1,12 +1,34 @@
 {
  "PrintNo":"S1806","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T08:46:14.888958Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Crime Victims, Crime And Correction"}],
- "Actions":[{"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-14","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Crime Victims, Crime And Correction"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-03"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-14","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.380","Date":"2025-02-25","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-25","Chamber":"SENATE","Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Prohibits correctional facilities from denying entry to certain peer support advocates based on such advocates' prior history of incarceration",
  "Summary":"Prohibits correctional facilities from denying entry to peer support advocates who are certified or licensed and are participating in the provision of corrections-based substance use disorder treatment and transition services based on such advocates' prior history of incarceration.",
  "LawSection":"Correction Law","LawCode":"Add §138-b, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to prohibiting correctional facilities from blocking entry to peer support advocates based on such advocates' prior history of incarceration",
- "PreviousVersions":["S8624-2023"]
+ "SameAsPrintNo":"A4159-2025","PreviousVersions":["S8624-2023"]
 }

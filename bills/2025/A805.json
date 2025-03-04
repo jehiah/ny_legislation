@@ -1,8 +1,29 @@
 {
  "PrintNo":"A805","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T16:10:54.608103Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.27","Date":"2025-02-27","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-02-25","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Nay"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
@@ -14,5 +35,5 @@
  "Summary":"Relates to requiring gender neutral bathrooms in state-owned buildings; provides that if no single-occupancy bathroom can be designated as gender neutral in a state-owned building, a multiple-occupancy bathroom shall be designated as gender neutral instead; requires state-owned and state-leased buildings to provide adequate notice regarding gender neutral bathrooms.",
  "LawSection":"Public Buildings Law","LawCode":"Amd §145, Pub Bldg L",
  "ActClause":"AN ACT to amend the public buildings law, in relation to requiring gender neutral bathrooms in state-owned buildings",
- "PreviousVersions":["A10652-2021","A523-2023"]
+ "SameAsPrintNo":"S2665-2025","PreviousVersions":["A10652-2021","A523-2023"]
 }

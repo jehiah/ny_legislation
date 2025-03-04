@@ -1,8 +1,32 @@
 {
  "PrintNo":"S1846","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T09:58:35.863612Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-14","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2025-02-24"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-14","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.337","Date":"2025-02-11","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-11","Chamber":"SENATE","Committee":"Energy And Telecommunications",
+   "Votes":[
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}
@@ -11,5 +35,5 @@
  "Summary":"Requires utility companies to reimburse consumers for spoilage of food and medication due to the lack of refrigeration in the event of a power outage lasting seventy-two hours or more.",
  "LawSection":"Public Service Law","LawCode":"Add §77-a, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to requiring utility companies to reimburse consumers in the event of a prolonged power outage",
- "PreviousVersions":["S8523-2017","S8879-2019","S3784-2021","S1623-2023"]
+ "SameAsPrintNo":"A4232-2025","PreviousVersions":["S8523-2017","S8879-2019","S3784-2021","S1623-2023"]
 }

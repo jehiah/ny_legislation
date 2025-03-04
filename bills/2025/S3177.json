@@ -1,12 +1,30 @@
 {
  "PrintNo":"S3177","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T09:34:21.100524Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-01-24","Chamber":"SENATE"}],
- "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],"Title":"Regulates commercial finance licensing",
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-01-24","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-25","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-25","Chamber":"SENATE","Committee":"Banks",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
+ "Title":"Regulates commercial finance licensing",
  "Summary":"Regulates commercial finance licensing; sets forth the application process for such licensing; makes conforming technical changes thereto.",
  "LawSection":"Banking Law",
  "LawCode":"Ren Art 9-A to be Art 9-B, add Art 9-A §§363 - 363-n, amd §§22, 635 & 652-b, Bank L; amd §10-136, NYC Ad Cd",
  "ActClause":"AN ACT to amend the banking law and the administrative code of the city of New York, in relation to regulating commercial finance licensing",
- "PreviousVersions":["S6688-2019","S1061-2021","S1450-2023"]
+ "SameAsPrintNo":"A4889-2025","PreviousVersions":["S6688-2019","S1061-2021","S1450-2023"]
 }

@@ -2,7 +2,10 @@
  "PrintNo":"S4800","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T09:13:11.291307Z",
  "Status":"IN_SENATE_COMM","Committee":"Judiciary",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-02-13","Chamber":"SENATE"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-13","Chamber":"SENATE"},
+  {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2025-02-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"},
   {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},

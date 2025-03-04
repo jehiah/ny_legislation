@@ -1,9 +1,37 @@
 {
  "PrintNo":"S2070","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T10:19:52.565049Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-15","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Veterans, Homeland Security And Military Affairs"},
+  {"Type":"SENATE_FLOOR","Date":"2025-02-10"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.267","Date":"2025-02-04","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-10","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-04","Chamber":"SENATE",
+   "Committee":"Veterans, Homeland Security And Military Affairs",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+ ],
  "Title":"Requires the department of veterans' services to establish and maintain a database of resources available in the state for veterans, members of the uniformed services, and their families",
  "Summary":"Requires the department of veterans' services to establish and maintain, in consultation and collaboration with other state agencies, a searchable database on the department's website providing resources available in the state for veterans, members of the uniformed services, and their families.",
  "LawSection":"Veterans' Service Law","LawCode":"Amd §4, Veterans' Services L",

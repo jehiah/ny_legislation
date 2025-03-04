@@ -1,14 +1,16 @@
 {
  "PrintNo":"A1914","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T11:42:48.418328Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Tourism, Parks, Arts And Sports Development"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-01-14","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-26","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.33","Date":"2025-02-27","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.33","Date":"2025-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-03","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -28,7 +30,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
+ "Sponsors":[
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
+  {"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"}
+ ],
  "Title":"Requires the empire state plaza art commission to examine the historical significance of major rivers in the state of New York in connection with renaming the agency buildings located at the empire state plaza",
  "Summary":"Requires the empire state plaza art commission to examine the historical significance of major rivers in the state of New York in connection with renaming the agency buildings located at the empire state plaza; requires the governor to choose the new agency building names within 60 days after the commission's recommendation.",
  "LawSection":"Arts and Cultural Affairs Law","LawCode":"Amd §4.07, Arts & Cul L",

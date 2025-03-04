@@ -1,13 +1,16 @@
 {
  "PrintNo":"A112","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-20T09:54:27.312171Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-03-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-24","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.23","Date":"2025-02-27","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.23","Date":"2025-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-03","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

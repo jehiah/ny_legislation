@@ -1,10 +1,12 @@
 {
  "PrintNo":"S5101","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-18T16:22:22.292885Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-18","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2025-02-25"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-18","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2025-03-03"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-02-18","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.412","Date":"2025-02-25","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.412","Date":"2025-02-25","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -20,7 +22,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
+ "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Relates to early voting for certain special elections",
  "Summary":"Provides that early voting for any special election held on April 29, 2025 shall begin on April 21, 2025 and end on April 27, 2025; provides that the duration for early voting hours for any special election held on April 29, 2025 shall be equal to or greater than the minimum number of total hours otherwise required.",
  "LawSection":"Election Law","LawCode":"Amd §8-600, El L",

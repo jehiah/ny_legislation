@@ -1,8 +1,25 @@
 {
  "PrintNo":"S419","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T11:23:39.280466Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Cities 1"}],
- "Actions":[{"Text":"REFERRED TO CITIES 1","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-28","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-28","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-01-28","Chamber":"SENATE","Committee":"Cities 1",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"}
@@ -11,5 +28,5 @@
  "Summary":"Requires public utility companies to repair or replace all damaged residential lateral sewer and water pipes where such damage was caused by such public utility company.",
  "LawSection":"New York City Administrative Code","LawCode":"Add §§24-316.1 & 24-532.1, NYC Ad Cd",
  "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to repair or replacement of damaged residential lateral sewer and water pipes",
- "PreviousVersions":["A5254-2019","S4118-2019","S641-2021","S1398-2023"]
+ "SameAsPrintNo":"A1736-2025","PreviousVersions":["A5254-2019","S4118-2019","S641-2021","S1398-2023"]
 }

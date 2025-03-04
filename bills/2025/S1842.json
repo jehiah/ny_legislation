@@ -1,8 +1,27 @@
 {
  "PrintNo":"S1842","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T09:47:47.260399Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Elections"}],
- "Actions":[{"Text":"REFERRED TO ELECTIONS","Date":"2025-01-14","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2025-02-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-14","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.294","Date":"2025-02-10","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-11","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-12","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-10","Chamber":"SENATE","Committee":"Elections",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
@@ -11,5 +30,5 @@
  "Summary":"Relates to split shifts for election inspectors or poll clerks.","LawSection":"Election Law",
  "LawCode":"Amd §3-400, El L",
  "ActClause":"AN ACT to amend the election law, in relation to split shifts for election inspectors or poll clerks",
- "PreviousVersions":["S5934-2017","S2275-2019","S424-2021","S609-2023"]
+ "SameAsPrintNo":"A6138-2025","PreviousVersions":["S5934-2017","S2275-2019","S424-2021","S609-2023"]
 }

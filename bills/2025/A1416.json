@@ -1,11 +1,30 @@
 {
  "PrintNo":"A1416","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T13:09:55.755031Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Election Law",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Election Law"}],
- "Actions":[{"Text":"REFERRED TO ELECTION LAW","Date":"2025-01-09","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-02-25","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-02-25","Chamber":"ASSEMBLY",
+   "Committee":"ELECTION LAW",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL RC","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1547,"Short":"CARROLL P","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Nay"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Nay"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
-  {"ID":457,"Name":"Vivian Cook","Short":"COOK"}
+  {"ID":457,"Name":"Vivian Cook","Short":"COOK"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}
  ],
  "Title":"Requires the state board of elections to develop a program to be administered by all boards of elections to notify voters of certain information where their area has been redistricted",
  "Summary":"Requires the state board of elections to develop a program to be administered by all boards of elections to notify voters of certain information where their area has been redistricted.",

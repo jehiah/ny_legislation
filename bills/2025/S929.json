@@ -1,10 +1,11 @@
 {
  "PrintNo":"S929","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T10:35:42.87485Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-21"},
   {"Type":"PASSED_SENATE","Date":"2025-01-21"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Science And Technology"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Science And Technology"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-01-22"},{"Type":"PASSED_ASSEMBLY","Date":"2025-01-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-08","Chamber":"SENATE"},
@@ -12,7 +13,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.101","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-01-21","Chamber":"SENATE"},
-  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-01-21","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A2141","Date":"2025-01-22","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.60","Date":"2025-01-22","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-01-22","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-01-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -112,8 +117,9 @@
  ],
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
-  {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
+  {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}

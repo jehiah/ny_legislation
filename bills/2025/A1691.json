@@ -1,8 +1,32 @@
 {
  "PrintNo":"A1691","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T09:35:36.021121Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-02-04","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-02-04","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Excused"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":675,"Short":"STECK","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":631,"Name":"Kenneth Blankenbush","Short":"BLANKENBUSH"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
@@ -18,11 +42,12 @@
   {"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
-  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}
  ],
  "Title":"Expands health care services provided by telehealth",
  "Summary":"Expands health care services provided by telehealth to include services delivered through a facility licensed under article twenty-eight of the public health law that is eligible to be designated or has received a designation as a federally qualified health center, including those facilities that are also licensed under article thirty-one or article thirty-two of the mental hygiene law.",
  "LawSection":"Public Health Law","LawCode":"Amd §2999-dd, Pub Health L; amd Part V §7, Chap 57 of 2022",
  "ActClause":"AN ACT to amend the public health law, in relation to expanding health care services provided by telehealth; and to amend part V of chapter 57 of the laws of 2022, amending the public health law and the insurance law relating to reimbursement for commercial and Medicaid services provided via telehealth, in relation to the effectiveness thereof",
- "PreviousVersions":["A7316-2023"]
+ "SameAsPrintNo":"S3359-2025","PreviousVersions":["A7316-2023"]
 }

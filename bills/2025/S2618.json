@@ -1,12 +1,34 @@
 {
  "PrintNo":"S2618","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:38:18.104877Z",
- "Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Racing, Gaming And Wagering"}],
- "Actions":[{"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-01-21","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Racing, Gaming And Wagering"},
+  {"Type":"SENATE_FLOOR","Date":"2025-02-24"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-01-21","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.333","Date":"2025-02-11","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-02-11","Chamber":"SENATE","Committee":"Racing, Gaming And Wagering",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Creates the jockey health insurance reserve fund",
  "Summary":"Creates the jockey health insurance reserve fund for the payment of premiums not yet paid; provides for the return of funds if such reserve fund becomes no longer necessary.",
  "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Amd §221-a, RWB L",
  "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to the creation of the jockey health insurance reserve fund",
- "PreviousVersions":["S9222-2023"]
+ "SameAsPrintNo":"A5921-2025","PreviousVersions":["S9222-2023"]
 }

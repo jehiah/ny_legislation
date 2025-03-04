@@ -1,12 +1,20 @@
 {
- "PrintNo":"S2623","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:39:35.920412Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-21","Chamber":"SENATE"}],
+ "PrintNo":"S2623","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-21T17:39:35.920412Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-24","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-21","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-02-24",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 2623A","Date":"2025-02-24","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
  "Title":"Relates to the employment of veterans with disabilities",
  "Summary":"Relates to the employment of veterans with disabilities program.","LawSection":"Veterans' Service Law",
  "LawCode":"Amd §§4, 13 & 15, Veterans' Services L",
  "ActClause":"AN ACT to amend the veterans' services law, in relation to the employment of veterans with disabilities",
- "PreviousVersions":["S9529-2023"]
+ "SameAsPrintNo":"A4751-2025","PreviousVersions":["S9529-2023"]
 }
