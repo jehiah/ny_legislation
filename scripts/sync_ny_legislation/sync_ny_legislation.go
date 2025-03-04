@@ -61,7 +61,9 @@ func (s *SyncApp) CustomAction(ctx context.Context) error {
 		if err != nil {
 			return err
 		}
-		s.AddSameAs(bill)
+		if !bill.Resolution {
+			s.AddSameAs(bill)
+		}
 	}
 
 	return nil

@@ -32,7 +32,9 @@ func (s *SyncApp) SyncBills() error {
 		if err != nil {
 			return err
 		}
-		s.AddSameAs(*bill)
+		if !bill.Resolution {
+			s.AddSameAs(*bill)
+		}
 		err = s.writeFile(fileName(*bill), bill)
 		if err != nil {
 			return err
