@@ -1,8 +1,12 @@
 {
- "PrintNo":"S4955","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T14:52:17.285426Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-14","Chamber":"SENATE"}],
+ "PrintNo":"S4955","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-14T14:52:17.285426Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-14","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4955A","Date":"2025-03-04","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
@@ -10,9 +14,9 @@
   {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Relates to the functions of the Medicaid inspector general with respect to audit and review of medical assistance program funds and requiring notice of certain investigations",
- "Summary":"Requires the Medicaid inspector general to comply with standards relating to the audit and review of medical assistance program funds; establishes procedures, practices and standards for the adjustment or recovery of a medical assistance payment from recipients; requires notice of certain investigations.",
- "LawSection":"Public Health Law","LawCode":"Amd §§30-a & 32, add §§37 & 38, Pub Health L; amd §363-d, Soc Serv L",
- "ActClause":"AN ACT to amend the public health law and the social services law, in relation to the functions of the Medicaid inspector general with respect to audit and review of medical assistance program funds and requiring notice of certain investigations",
- "PreviousVersions":["S4486-2021","S5329-2023"]
+ "Title":"Relates to the functions of the Medicaid inspector general with respect to audit and review of medical assistance program funds",
+ "Summary":"Requires the Medicaid inspector general to comply with standards relating to the audit and review of medical assistance program funds.",
+ "LawSection":"Public Health Law","LawCode":"Amd §§30-a & 35, add §37, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to the functions of the Medicaid inspector general with respect to audit and review of medical assistance program funds",
+ "SameAsPrintNo":"A1069-2025","PreviousVersions":["S4486-2021","S5329-2023"]
 }

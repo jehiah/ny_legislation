@@ -1,12 +1,16 @@
 {
- "PrintNo":"S3470","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T15:22:12.067379Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Budget And Revenue"}],
- "Actions":[{"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-27","Chamber":"SENATE"}],
+ "PrintNo":"S3470","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-27T15:22:12.067379Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Budget And Revenue"}],
+ "Actions":[
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-27","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3470A","Date":"2025-03-04","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Enacts \"Averyana's law\" to provide a tax credit for the installation of certain smoke alarms",
- "Summary":"Enacts \"Averyana's law\"; provides a tax credit for the purchase and installation of certain smoke alarms which incorporate photoelectric technology including but not limited to: photoelectric detectors; dual photoelectric/ionization detectors; and photoelectric/carbon monoxide detectors.",
+ "Summary":"Enacts \"Averyana's law\"; provides a tax credit for the purchase and installation of certain smoke alarms which incorporate photoelectric technology including but not limited to: photoelectric detectors; and photoelectric/carbon monoxide detectors.",
  "LawSection":"Tax Law","LawCode":"Amd §606, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to enacting \"Averyana's law\"","SameAsPrintNo":"A6110-2025",
+ "ActClause":"AN ACT to amend the tax law, in relation to enacting \"Averyana's law\"",
  "PreviousVersions":["S5249-2017","S166-2019","S2598-2021","S3446-2023"]
 }
