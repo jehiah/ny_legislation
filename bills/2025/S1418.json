@@ -1,8 +1,13 @@
 {
- "PrintNo":"S1418","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T14:42:54.165565Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-09","Chamber":"SENATE"}],
+ "PrintNo":"S1418","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T14:42:54.165565Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1418A","Date":"2025-03-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},
@@ -13,5 +18,5 @@
  "Summary":"Provides for the award of reasonable attorneys' fees in FOIL proceedings if the person is successful and in open meeting proceedings to the successful petitioner and against the public body.",
  "LawSection":"Public Officers Law","LawCode":"Amd §§89 & 107, Pub Off L",
  "ActClause":"AN ACT to amend the public officers law, in relation to the award of reasonable attorneys' fees in certain proceedings",
- "PreviousVersions":["S5801-2023"]
+ "SameAsPrintNo":"A950-2025","PreviousVersions":["S5801-2023"]
 }

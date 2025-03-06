@@ -1,11 +1,19 @@
 {
- "PrintNo":"S1250","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T16:04:03.479605Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S1250","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T16:04:03.479605Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-03-05",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 1250A","Date":"2025-03-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Relates to academic credit for veterans",
- "Summary":"Relates to academic credit for veterans with regard to credit for SUNY and CUNY college credits for courses that were part of the student veterans' military training.",
+ "Summary":"Relates to academic credit for veterans with regard to credit for SUNY and CUNY college credits for courses that were part of the student veterans' military training; defines \"veteran\".",
  "LawSection":"Education Law","LawCode":"Add §6355, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to academic credit for veterans",
  "PreviousVersions":["S6137-2013","S752-2015","S1837-2017","S2997-2019","S2280-2021","S9470-2023"]
