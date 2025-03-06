@@ -1,13 +1,17 @@
 {
- "PrintNo":"S3824","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T10:35:55.593201Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-01-30","Chamber":"SENATE"}],
+ "PrintNo":"S3824","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-30T10:35:55.593201Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2025-03-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3824A","Date":"2025-03-06","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}],
- "Title":"Prohibits secondary schools and colleges from withholding student transcripts for failure to pay tuition",
- "Summary":"Prohibits secondary schools and higher education institutions from withholding student transcripts for failure to pay tuition.",
- "LawSection":"Education Law","LawCode":"Add Art 2-A §20, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to prohibiting secondary schools and colleges from withholding student transcripts for failure to pay tuition",
+ "Title":"Prohibits elementary and secondary schools from withholding student transcripts for failure to pay tuition",
+ "Summary":"Prohibits elementary and secondary schools from withholding student transcripts for failure to pay tuition.",
+ "LawSection":"Education Law","LawCode":"Amd §640, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to prohibiting elementary schools and secondary schools from withholding student transcripts for failure to pay tuition",
  "SameAsPrintNo":"A4885-2025",
  "PreviousVersions":["S8493-2009","S503-2011","S12-2013","S475-2015","S4897-2017","S8697-2017","S6772-2019","S2773-2021","S1916-2023"]
 }
