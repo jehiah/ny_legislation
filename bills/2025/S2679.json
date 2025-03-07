@@ -1,16 +1,23 @@
 {
  "PrintNo":"S2679","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T14:06:16.833852Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-27"},
-  {"Type":"PASSED_SENATE","Date":"2025-02-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Energy"}
+  {"Type":"PASSED_SENATE","Date":"2025-02-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Energy"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-05"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-03-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.162","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENERGY","Date":"2025-02-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENERGY","Date":"2025-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A2579","Date":"2025-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.96","Date":"2025-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-03-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {
