@@ -1,10 +1,12 @@
 {
- "PrintNo":"S1850","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T10:01:28.84852Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Finance"}],
+ "PrintNo":"S1850","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-14T10:01:28.84852Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-14","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-25","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-25","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-03-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1850A","Date":"2025-03-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -36,8 +38,8 @@
   {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Relates to establishing the safe water infrastructure action program",
- "Summary":"Establishes the safe water and infrastructure action program for the purpose of making payments toward the replacement and rehabilitation of certain existing local drinking water, storm water and sanitary sewer systems; applies to any county, city, town, village or public authority drinking water system, storm water system or sanitary sewer system within the state that is not under the maintenance and/or operational jurisdiction of a private entity; does not apply to NYC.",
+ "Summary":"Establishes the safe water and infrastructure action program for the purpose of making payments toward the replacement and rehabilitation of certain existing local drinking water, storm water and sanitary sewer systems; applies to any county, city, town, village or public authority drinking water system, storm water system or sanitary sewer system within the state that is not under the maintenance and/or operational jurisdiction of a private entity.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add Art 78 §78-0101, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to establishing the safe water infrastructure action program",
- "SameAsPrintNo":"A6012-2025","PreviousVersions":["S7551-2015","S3292-2017","S554-2019","S3968-2021","S4350-2023"]
+ "PreviousVersions":["S7551-2015","S3292-2017","S554-2019","S3968-2021","S4350-2023"]
 }
