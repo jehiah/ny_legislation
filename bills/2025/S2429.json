@@ -1,17 +1,22 @@
 {
- "PrintNo":"S2429","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T11:29:10.792109Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-17","Chamber":"SENATE"}],
+ "PrintNo":"S2429","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-17T11:29:10.792109Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-10","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-17","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2429A","Date":"2025-03-10","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
+  {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
  ],
  "Title":"Creates a work opportunity tax credit","Summary":"Creates a work opportunity tax credit.",
  "LawSection":"Tax Law","LawCode":"Add §50, amd §§210-B, 606 & 1511, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to creating a work opportunity tax credit; and providing for the repeal of such provisions upon expiration thereof",
- "SameAsPrintNo":"A4012-2025","PreviousVersions":["S8463-2021","S4833-2023"]
+ "PreviousVersions":["S8463-2021","S4833-2023"]
 }
