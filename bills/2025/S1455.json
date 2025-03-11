@@ -1,8 +1,31 @@
 {
  "PrintNo":"S1455","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T09:10:28.984912Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-10","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-10","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-10","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-10","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-10","Chamber":"SENATE","Committee":"Codes",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Nay"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Nay"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Nay"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
  "Title":"Requires the division of criminal justice services to certify the technological viability of personalized handguns and to establish requirements related to the sale of personalized handguns",
  "Summary":"Enacts the \"safer weapons, safer homes act\"; requires the division of criminal justice services to certify the technological viability of personalized handguns and to establish requirements related to the sale of personalized handguns; defines personalized handgun; requires the division to establish and maintain a roster of all personalized handguns approved for retail sale to the public; requires the division to report to the legislature on the technological viability of personalized handguns.",
