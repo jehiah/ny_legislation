@@ -1,6 +1,9 @@
 module github.com/jehiah/ny_legislation/scripts
 
-go 1.23
+go 1.23.0
+
+toolchain go1.23.4
+
 require (
 	github.com/jehiah/nysenateapi v0.0.0-20240725191713-b5965e56b0b2
 	github.com/sirupsen/logrus v1.9.3
