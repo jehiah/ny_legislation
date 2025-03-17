@@ -1,10 +1,14 @@
 {
- "PrintNo":"S1766","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T14:04:42.421905Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-13","Chamber":"SENATE"}],
+ "PrintNo":"S1766","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T14:04:42.421905Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-17","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-03-17","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1766A","Date":"2025-03-17","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],"Title":"Relates to nondisclosure agreements",
- "Summary":"Provides that a plaintiff shall have up to twenty-one days to consider whether any resolution to a claim involving discrimination shall include the underlying facts of the claim or whether such underlying facts shall be kept confidential.",
+ "Summary":"Provides that a plaintiff shall have up to twenty-one days to consider whether any resolution to a claim involving discrimination, harassment or retaliation shall include the underlying facts of the claim or whether such underlying facts shall be kept confidential.",
  "LawSection":"Civil Practice Law and Rules","LawCode":"Amd §5003-b, CPLR",
  "ActClause":"AN ACT to amend the civil practice law and rules, in relation to nondisclosure agreements related to claims involving discrimination",
  "PreviousVersions":["S8802-2023"]
