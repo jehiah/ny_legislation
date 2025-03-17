@@ -1,12 +1,15 @@
 {
- "PrintNo":"S2457","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T15:40:07.650446Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-17","Chamber":"SENATE"}],
+ "PrintNo":"S2457","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-17T15:40:07.650446Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-17","Committee":"Energy And Telecommunications"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-17","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-17","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2457A","Date":"2025-03-17","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
  "Title":"Establishes the mechanical insulation energy savings program",
- "Summary":"Establishes the mechanical insulation energy savings program providing a grant to localities that have completed a qualified audit and a tax credit to approved private owners.",
+ "Summary":"Establishes the mechanical insulation energy savings program to provide grants for qualified mechanical insulation expenditures to school districts, public hospitals, public housing buildings, and political subdivisions that have completed a qualified audit.",
  "LawSection":"Public Authorities Law","LawCode":"Add §1885, Pub Auth L",
- "ActClause":"AN ACT to amend the public authorities law, in relation to establishing the mechanical insulation energy savings program",
- "SameAsPrintNo":"A3999-2025"
+ "ActClause":"AN ACT to amend the public authorities law, in relation to establishing the mechanical insulation energy savings program"
 }
