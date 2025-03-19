@@ -1,12 +1,16 @@
 {
- "PrintNo":"S4674","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-11T11:13:11.716016Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-02-11","Chamber":"SENATE"}],
+ "PrintNo":"S4674","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-11T11:13:11.716016Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-19","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-02-11","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-03-19","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4674A","Date":"2025-03-19","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Allows domestic insurers to make certain records available by electronic means",
- "Summary":"Allows domestic insurers to make certain records available by electronic means that provides equivalent access to the superintendent.",
+ "Summary":"Allows domestic insurers to make certain records available by electronic means if they are easily accessible from the insurer's principal office in this state and the insurer complies with all applicable state and federal laws and regulations.",
  "LawSection":"Insurance Law","LawCode":"Amd §325, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to allowing domestic insurers to make certain records available by electronic means",
- "PreviousVersions":["S4330-2021","S2801-2023"]
+ "SameAsPrintNo":"A3028-2025","PreviousVersions":["S4330-2021","S2801-2023"]
 }
