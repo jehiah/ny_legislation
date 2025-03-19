@@ -1,8 +1,25 @@
 {
  "PrintNo":"S4871","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T15:01:43.307339Z",
- "Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Disabilities"}],
- "Actions":[{"Text":"REFERRED TO DISABILITIES","Date":"2025-02-13","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO DISABILITIES","Date":"2025-02-13","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-04","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-04","Chamber":"SENATE","Committee":"Disabilities",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
  "Title":"Relates to the duties of the independent developmental disability ombudsperson program",
  "Summary":"Directs the independent developmental disability ombudsperson program to establish a service delivery structure based in New York state that includes a toll-free telephone hotline, an interactive website, and availability of in-person, telephone and email access to ombudsperson program staff or volunteers; to provide assistance for navigating and completing processes; to assist individuals in filing and preparing appeals; to assist individuals with any problems encountered; and to educate individuals on their rights and responsibilities with respect to access to services provided by the office for people with developmental disabilities and care coordination provided by health homes serving individuals with developmental disabilities or services provided by other providers.",

@@ -1,12 +1,33 @@
 {
  "PrintNo":"S4835","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T10:39:20.784155Z",
- "Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Disabilities"}],
- "Actions":[{"Text":"REFERRED TO DISABILITIES","Date":"2025-02-13","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO DISABILITIES","Date":"2025-02-13","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-04","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-04","Chamber":"SENATE","Committee":"Disabilities",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":439,"Name":"Simcha Felder","Short":"FELDER","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
+  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"}
+ ],
  "Title":"Relates to housing navigation services for those with intellectual and developmental disabilities",
  "Summary":"Establishes a curriculum and task force to provide housing navigation services for those with intellectual and developmental disabilities.",
  "LawSection":"Mental Hygiene Law","LawCode":"Add §13.44, amd §5.07, Ment Hyg L; amd §366, Soc Serv L",
  "ActClause":"AN ACT to amend the mental hygiene law and the social services law, in relation to housing navigation services for those with intellectual and developmental disabilities",
- "PreviousVersions":["A10732-2017","S4014-2019","S4469-2021","S3196-2023"]
+ "SameAsPrintNo":"A6751-2025","PreviousVersions":["A10732-2017","S4014-2019","S4469-2021","S3196-2023"]
 }
