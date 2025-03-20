@@ -1,12 +1,16 @@
 {
- "PrintNo":"S5025","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-18T13:18:17.471601Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-18","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2025-02-18","Chamber":"SENATE"}],
+ "PrintNo":"S5025","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-18T13:18:17.471601Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-20","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2025-02-18","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-03-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5025A","Date":"2025-03-20","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
  "Title":"Updates provisions relating to dignity for all students and makes an appropriation therefor",
  "Summary":"Updates provisions relating to dignity for all students including establishing the student suicide prevention act which includes curriculum and teacher training requirements designed to prevent student suicide with a focus on LGBTQ students; makes an appropriation therefor.",
- "LawSection":"Appropriations","LawCode":"Amd §§10, 13, 14, 15, 801-a, 2801 & 3006-a, add Art 2-A §§20 - 24, Ed L",
+ "LawSection":"Appropriations","LawCode":"Amd Ed L, generally",
  "ActClause":"AN ACT to amend the education law, in relation to updating provisions relating to dignity for all students; and making an appropriation therefor",
  "PreviousVersions":["S8380-2023"]
 }
