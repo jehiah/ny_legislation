@@ -3,7 +3,10 @@
  "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Consumer Protection"}],
  "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-25","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
+ "Sponsors":[
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
+  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}
+ ],
  "Title":"Requires businesses that allow automatic renewals, continuous service offers, and automatic subscription renewals to provide notice regarding cancelling such renewals",
  "Summary":"Requires businesses that allow automatic renewals, continuous service offers, and automatic subscription renewals to provide notice regarding cancelling such renewals, services, or subscriptions.",
  "LawSection":"General Business Law","LawCode":"Amd §527-a, Gen Bus L",

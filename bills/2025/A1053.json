@@ -1,16 +1,32 @@
 {
  "PrintNo":"A1053","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-08T10:30:29.65339Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-14","Committee":"Governmental Operations"}],
+ "Published":"2025-01-08T10:30:29.65339Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-03-14","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 1053A","Date":"2025-03-14","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 1053A","Date":"2025-03-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-18","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":675,"Name":"Phil Steck","Short":"STECK"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-03-18","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"}],
  "Title":"Relates to the recall of class B firefighting foam that contains intentionally added PFAS; repealer",
  "Summary":"Relates to the recall of a class B firefighting foam; prohibits the sale or distribution of firefighting personal protective equipment that contains intentionally added PFAS.",
  "LawSection":"General Business Law","LawCode":"Amd §391-u, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to the recall of class B firefighting foam and prohibiting the sale or distribution of firefighting personal protective equipment that contains intentionally added PFAS; and to repeal certain provisions of such law relating thereto",
- "PreviousVersions":["A10510-2023"]
+ "SameAsPrintNo":"S3659-2025","PreviousVersions":["A10510-2023"]
 }
