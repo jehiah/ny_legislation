@@ -1,11 +1,17 @@
 {
- "PrintNo":"A3999","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T15:12:42.337165Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3999","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T15:12:42.337165Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-20","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3999A","Date":"2025-03-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO ENERGY","Date":"2025-03-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"}],
  "Title":"Establishes the mechanical insulation energy savings program",
- "Summary":"Establishes the mechanical insulation energy savings program providing a grant to localities that have completed a qualified audit and a tax credit to approved private owners.",
+ "Summary":"Establishes the mechanical insulation energy savings program to provide grants for qualified mechanical insulation expenditures to school districts, public hospitals, public housing buildings, and political subdivisions that have completed a qualified audit.",
  "LawSection":"Public Authorities Law","LawCode":"Add §1885, Pub Auth L",
  "ActClause":"AN ACT to amend the public authorities law, in relation to establishing the mechanical insulation energy savings program",
  "SameAsPrintNo":"S2457-2025"
