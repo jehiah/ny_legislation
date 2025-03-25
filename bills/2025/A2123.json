@@ -1,19 +1,35 @@
 {
  "PrintNo":"A2123","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-15T15:20:43.133916Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-15T15:20:43.133916Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Governmental Employees"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-24"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Civil Service And Pensions"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-11","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.18","Date":"2025-02-13","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 2123A","Date":"2025-02-24","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 2123A","Date":"2025-02-24","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2025-02-11","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-03-04","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL EMPLOYEES",
    "Votes":[
     {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
     {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
@@ -31,7 +47,9 @@
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
-  {"ID":1466,"Name":"Michael Durso","Short":"DURSO"}
+  {"ID":1466,"Name":"Michael Durso","Short":"DURSO"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
+  {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}
  ],
  "Title":"Enacts the \"Ignazio Giacalone act\" to provide additional credits to children and siblings of deceased New York city sanitation members",
  "Summary":"Provides additional credits to children and siblings of New York city sanitation members who died in the performance of duty as the natural and proximate result of the World Trade Center attack on September 11, 2001.",
