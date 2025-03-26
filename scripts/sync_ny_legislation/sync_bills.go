@@ -22,22 +22,31 @@ func fileName(bill nysenateapi.Bill) string {
 func (s *SyncApp) SyncBills() error {
 	ctx := context.Background()
 	now := time.Now().UTC().Truncate(time.Second)
-	updates, err := s.api.GetBillUpdates(ctx, s.LastSync.Bills, now)
-	if err != nil {
-		return err
-	}
-	for _, billID := range updates.Bills {
-		// get bill
-		bill, err := s.api.GetBill(ctx, fmt.Sprintf("%d", billID.Session), billID.PrintNo)
+	offset := 0
+	for {
+		updates, err := s.api.GetBillUpdates(ctx, s.LastSync.Bills, now, offset)
 		if err != nil {
 			return err
 		}
-		if !bill.Resolution {
-			s.AddSameAs(*bill)
+		offset = updates.OffsetEnd + 1
+
+		if len(updates.Bills) == 0 {
+			break
 		}
-		err = s.writeFile(fileName(*bill), bill)
-		if err != nil {
-			return err
+
+		for _, billID := range updates.Bills {
+			// get bill
+			bill, err := s.api.GetBill(ctx, fmt.Sprintf("%d", billID.Session), billID.PrintNo)
+			if err != nil {
+				return err
+			}
+			if !bill.Resolution {
+				s.AddSameAs(*bill)
+			}
+			err = s.writeFile(fileName(*bill), bill)
+			if err != nil {
+				return err
+			}
 		}
 	}
 	s.LastSync.Bills = now
