@@ -1,8 +1,28 @@
 {
  "PrintNo":"S5265","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-20T11:18:38.45225Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Crime Victims, Crime And Correction"}],
- "Actions":[{"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Crime Victims, Crime And Correction"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-25"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.607","Date":"2025-03-25","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-25","Chamber":"SENATE","Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Requires screening incarcerated individuals for eligibility in the supplemental nutrition assistance program prior to release",
  "Summary":"Requires screening incarcerated individuals for eligibility in the supplemental nutrition assistance program prior to release and assistance in applying for such programs; requires officials to seek waivers from the USDA for eligibility for such program.",

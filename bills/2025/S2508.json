@@ -1,8 +1,28 @@
 {
  "PrintNo":"S2508","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T11:27:25.051196Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Crime Victims, Crime And Correction"}],
- "Actions":[{"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-21","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Crime Victims, Crime And Correction"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-25"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-21","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.605","Date":"2025-03-25","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-25","Chamber":"SENATE","Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Nay"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Nay"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
  "Title":"Relates to conditional release for eligible offenders who complete post-secondary degrees or programs",
  "Summary":"Relates to conditional release for eligible offenders who complete post-secondary degrees or programs; provides release twelve months before the completion of the controlling minimum period of imprisonment for eligible offenders who complete post-secondary degrees or programs.",

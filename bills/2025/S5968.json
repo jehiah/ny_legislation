@@ -1,12 +1,10 @@
 {
- "PrintNo":"S5227","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T16:06:18.748045Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Finance"}],
+ "PrintNo":"S5968","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T11:16:22.815549Z",
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-03-25"}],
  "Actions":[
-  {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-19","Chamber":"SENATE"},
-  {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2025-02-20","Chamber":"SENATE"},
-  {"Text":"OPINION REFERRED TO JUDICIARY","Date":"2025-03-12","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-25","Chamber":"SENATE"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.596","Date":"2025-03-25","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -22,7 +20,6 @@
     {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
     {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
-    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
     {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
     {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
@@ -30,14 +27,15 @@
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
     {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Nay"},
     {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Excused"}
    ]
   }
  ],
- "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"}],
- "Title":"Relates to the Mount Van Hoevenberg Olympic Sports Complex in Essex County",
- "Summary":"Relates to the Mount Van Hoevenberg Olympic Sports Complex in Essex County.",
- "LawSection":"Constitution, Concurrent Resolutions to Amend","LawCode":"Amd Art 14 §1, Constn",
- "ActClause":"Concurrent Resolution of the Senate and Assembly proposing an amendment to section 1 of article 14 of the constitution, in relation to the Mount Van Hoevenberg Olympic Sports Complex in Essex County",
- "PreviousVersions":["S7222-2021","S5540-2023"]
+ "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
+ "Title":"Increases the value of homesteads which are to be exempt from civil judgments",
+ "Summary":"Increases the value of homesteads which are exempt from civil judgments from one hundred fifty thousand to two hundred fifty thousand dollars.",
+ "LawSection":"Civil Practice Law and Rules","LawCode":"Amd §5206, CPLR",
+ "ActClause":"AN ACT to amend the civil practice law and rules, in relation to increasing the value of homesteads which are to be exempt from civil judgments",
+ "PreviousVersions":["S2480-2007","S2161-2009","S1965-2011","S3198-2013","S1588-2015","S3244-2017","S4504-2019","S5040-2021","S6007-2023"]
 }

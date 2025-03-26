@@ -1,8 +1,25 @@
 {
  "PrintNo":"S3795","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T09:26:10.369085Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Crime Victims, Crime And Correction"}],
- "Actions":[{"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-30","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO HIGHER EDUCATION","Date":"2025-03-25","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-25","Chamber":"SENATE","Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Nay"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Nay"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"}],
  "Title":"Relates to prohibiting colleges from asking about an applicant's prior arrests or convictions during the pre-admissions process",
  "Summary":"Relates to college admissions for persons previously convicted of one or more criminal offenses.",
