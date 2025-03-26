@@ -1,12 +1,16 @@
 {
- "PrintNo":"S4468","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-05T14:41:12.014848Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-05","Chamber":"SENATE"}],
+ "PrintNo":"S4468","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-05T14:41:12.014848Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-03-25","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4468A","Date":"2025-03-25","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
- "Title":"Provides family leave to persons recovering from the unintended intrauterine death of a fetus that occurs after the clinical estimate of the twentieth week of gestation",
- "Summary":"Expands the definition of \"family leave\" to include persons recovering from the unintended intrauterine death of a fetus that occurs after the clinical estimate of the twentieth week of gestation.",
+ "Title":"Provides family leave to persons recovering from a stillbirth that occurs after the clinical estimate of the twentieth week of gestation",
+ "Summary":"Expands the definition of \"family leave\" to include persons recovering from a stillbirth that occurs after the clinical estimate of the twentieth week of gestation.",
  "LawSection":"Workers' Compensation Law","LawCode":"Amd §201, Work Comp L",
- "ActClause":"AN ACT to amend the workers' compensation law, in relation to providing family leave to persons recovering from the unintended intrauterine death of a fetus that occurs after the clinical estimate of the twentieth week of gestation",
+ "ActClause":"AN ACT to amend the workers' compensation law, in relation to providing family leave to persons recovering from a stillbirth that occurs after the clinical estimate of the twentieth week of gestation",
  "SameAsPrintNo":"A5319-2025","PreviousVersions":["S9388-2023"]
 }

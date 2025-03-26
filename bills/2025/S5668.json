@@ -1,8 +1,30 @@
 {
  "PrintNo":"S5668","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-27T10:44:03.271591Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-27","Committee":"Internet And Technology"}],
- "Actions":[{"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-02-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-27","Committee":"Internet And Technology"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-17"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-02-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.548","Date":"2025-03-12","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-17","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-12","Chamber":"SENATE","Committee":"Internet And Technology",
+   "Votes":[
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
  "Title":"Relates to liability for misleading, incorrect, contradictory or harmful information provided to a user by a chatbot",
  "Summary":"Imposes liability for misleading, incorrect, contradictory or harmful information to a user by a chatbot that results in financial loss or other demonstrable harm.",

@@ -1,9 +1,32 @@
 {
  "PrintNo":"A541","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:26:24.636088Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-11","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-03-11","Chamber":"ASSEMBLY",
+   "Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+ ],
  "Title":"Relates to developing microgrids in preparation for extreme weather events and other risks to public security",
  "Summary":"Establishes a program to develop microgrids that are capable of providing an uninterrupted supply of power to one or more community outage assets through an extended electric distribution outage.",
  "LawSection":"Public Service Law","LawCode":"Add §66-x, Pub Serv L; add §1020-nn, Pub Auth L",

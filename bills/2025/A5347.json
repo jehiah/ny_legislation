@@ -1,13 +1,17 @@
 {
- "PrintNo":"A5347","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-13T15:34:32.445847Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-13","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-02-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5347","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-13T15:34:32.445847Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-12","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-02-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5347A","Date":"2025-03-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"}],
  "Title":"Relates to air quality in schools and student health",
- "Summary":"Establishes an indoor air quality inspection, measurement and evaluation program; defines terms; makes related provisions.",
+ "Summary":"Authorizes the department of health to establish an indoor air quality inspection, measurement and evaluation program; defines terms; makes related provisions.",
  "LawSection":"Public Health Law",
- "LawCode":"Add Art 25 Title 4-A §§2576 - 2581, amd §3-0301, En Con L; amd §§305 & 3602, Ed L",
+ "LawCode":"Add Art 25 Title 4-A §§2576 - 2576-e, amd §3-0301, En Con L; amd §§305 & 3602, Ed L",
  "ActClause":"AN ACT to amend the public health law, the environmental conservation law and the education law, in relation to air quality in schools and student health",
  "SameAsPrintNo":"S4541-2025"
 }

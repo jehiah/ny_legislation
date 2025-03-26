@@ -1,12 +1,38 @@
 {
  "PrintNo":"S5835","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-03T13:26:15.47118Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-03","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.518","Date":"2025-03-11","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-12","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-11","Chamber":"SENATE","Committee":"Environmental Conservation",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Waives fishing, hunting and trapping license fees for certain first responders",
  "Summary":"Waives fishing, hunting and trapping license fees for certain first responders.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §11-0715, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to waiving fishing, hunting and trapping license fees for certain first responders",
- "PreviousVersions":["S5910-2019","S788-2021","S5942-2023"]
+ "SameAsPrintNo":"A6350-2025","PreviousVersions":["S5910-2019","S788-2021","S5942-2023"]
 }

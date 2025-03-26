@@ -1,8 +1,12 @@
 {
- "PrintNo":"S2165","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T14:28:42.430855Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-15","Chamber":"SENATE"}],
+ "PrintNo":"S2165","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T14:28:42.430855Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-24","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-15","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-03-24","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2165A","Date":"2025-03-24","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
@@ -10,9 +14,9 @@
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Relates to prohibited hospital interference with patient care",
- "Summary":"Prohibits hospital interference with patient care where the practitioner is acting in good faith and within the scope of their practice.",
- "LawSection":"Public Health Law","LawCode":"Add §2832, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to prohibited hospital interference with patient care",
- "PreviousVersions":["S6616-2023"]
+ "Title":"Relates to prohibited hospital interference with patient care and requires examination and emergency treatment of patients; repealer",
+ "Summary":"Prohibits hospital interference with patient care where the practitioner is acting in good faith and within the scope of their practice; defines emergency medical conditions; requires appropriate medical screening and stabilizing treatment of persons in an emergency department, including pregnant persons, or appropriate transfer.",
+ "LawSection":"Public Health Law","LawCode":"Amd §2805-b, rpld §2803-o-1, add §2832, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to prohibited hospital interference with patient care; and to repeal certain provisions of such law relating to required protocols for fetal demise",
+ "SameAsPrintNo":"A1165-2025","PreviousVersions":["S6616-2023"]
 }

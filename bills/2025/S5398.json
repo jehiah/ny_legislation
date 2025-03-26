@@ -1,12 +1,20 @@
 {
- "PrintNo":"S5398","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T10:22:32.244872Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-02-21","Chamber":"SENATE"}],
+ "PrintNo":"S5398","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-21T10:22:32.244872Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-02-21","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-03-11",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 5398A","Date":"2025-03-11","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
  "Title":"Relates to New York state active duty",
  "Summary":"Relates to New York state active duty performed under the authority of the governor of New York state.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §1000, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to military service credit",
- "PreviousVersions":["S8985-2023"]
+ "SameAsPrintNo":"A4057-2025","PreviousVersions":["S8985-2023"]
 }

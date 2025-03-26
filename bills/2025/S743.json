@@ -1,16 +1,21 @@
 {
  "PrintNo":"S743","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T09:34:41.259311Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-13"},
-  {"Type":"PASSED_SENATE","Date":"2025-02-03"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-03","Committee":"Codes"}
+  {"Type":"PASSED_SENATE","Date":"2025-02-03"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-03","Committee":"Codes"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-19"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.18","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-03","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2025-02-03","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2025-02-03","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A437","Date":"2025-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.42","Date":"2025-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-03-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

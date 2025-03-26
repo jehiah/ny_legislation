@@ -1,10 +1,12 @@
 {
  "PrintNo":"S4816","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T09:42:18.468065Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-03-03"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-03-05"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-13","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.436","Date":"2025-03-03","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.436","Date":"2025-03-03","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -26,7 +28,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
+ "Sponsors":[
+  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+ ],
  "Title":"Includes Lyme disease and other tick-borne diseases as occupational diseases for purposes of workers' compensation",
  "Summary":"Includes Lyme disease and other tick-borne diseases as occupational diseases for purposes of workers' compensation; clarifies that disability includes disability caused by Lyme disease or other tick-borne diseases; requires insurance coverage of long term medical care for Lyme disease and other tick borne diseases.",
  "LawSection":"Workers' Compensation Law","LawCode":"Amd §§3 & 201, Work Comp L; amd §§3216, 3221 & 4303, Ins L",

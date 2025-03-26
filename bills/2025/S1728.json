@@ -1,8 +1,29 @@
 {
  "PrintNo":"S1728","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T11:51:39.430071Z",
- "Status":"IN_SENATE_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-13","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Mental Health"},{"Type":"SENATE_FLOOR","Date":"2025-03-11"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.496","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-10","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-11","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-05","Chamber":"SENATE","Committee":"Mental Health",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
@@ -12,5 +33,5 @@
  "Summary":"Provides that court records in a proceeding under articles 77, 78 and 81 of the mental hygiene law shall not be perused, examined, disclosed, taken or copied by any other person than a party, the attorney or counsel of a party, the guardian, the court evaluator or the court examiner except by order of the court.",
  "LawSection":"Mental Hygiene Law","LawCode":"Amd §81.14, Ment Hyg L",
  "ActClause":"AN ACT to amend the mental hygiene law, in relation to disclosure of the records of court proceedings",
- "PreviousVersions":["S7720-2017","S4835-2019","S7044-2021","S9017-2023"]
+ "SameAsPrintNo":"A6804-2025","PreviousVersions":["S7720-2017","S4835-2019","S7044-2021","S9017-2023"]
 }

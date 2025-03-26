@@ -1,8 +1,28 @@
 {
  "PrintNo":"S2384","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T16:15:13.576801Z",
- "Status":"IN_SENATE_COMM","Committee":"Commerce, Economic Development And Small Business",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Commerce, Economic Development And Small Business"}],
- "Actions":[{"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-01-16","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-12","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-12","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-12","Chamber":"SENATE",
+   "Committee":"Commerce, Economic Development And Small Business",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Nay"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Relates to the eligibility criteria for the excelsior jobs program act",
  "Summary":"Requires a business entity in violation of worker protection or environmental laws and regulations to surrender all previous state subsidies issued to such business entity.",

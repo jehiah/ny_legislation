@@ -3,7 +3,10 @@
  "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Civil Service And Pensions"}],
  "Actions":[{"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-12","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
+ "Sponsors":[
+  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"}
+ ],
  "Title":"Prevents outsourcing during a hiring freeze",
  "Summary":"Prevents an agency, department, division, commission, bureau or any other entity under the authority of the executive department from contracting, subcontracting or hiring any third party during a hiring freeze.",
  "LawSection":"Civil Service Law","LawCode":"Add §66, Civ Serv L",

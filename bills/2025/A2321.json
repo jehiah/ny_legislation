@@ -1,11 +1,49 @@
 {
  "PrintNo":"A2321","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T10:44:25.266867Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-16","Chamber":"ASSEMBLY"}],
+ "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-17"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-17","Committee":"Investigations And Government Operations"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-16","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-03-11","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.55","Date":"2025-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-17","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-03-11","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-03-17","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
-  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}
+  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"}
  ],
  "Title":"Relates to requiring agencies to report information about FOIL inquiries to the committee on open government",
  "Summary":"Requires all agencies to submit to the committee on open government a log of all freedom of information law requests for each year in which they received or have pending a request for records; requires the committee on open government to publish, on one webpage, all freedom of information law request logs it receives.",

@@ -1,11 +1,48 @@
 {
  "PrintNo":"A2573","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T13:03:38.103385Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-17","Chamber":"ASSEMBLY"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-17"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-17","Committee":"Finance"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-17","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-03-11","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.56","Date":"2025-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO FINANCE","Date":"2025-03-17","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-03-11","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-03-17","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
-  {"ID":665,"Name":"Steven Otis","Short":"OTIS"}
+  {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
  ],
  "Title":"Requires state agencies to make available all public documents in a digital format on their website",
  "Summary":"Requires state agencies to make available all public documents in a digital format on their website in a manner that allows such documents to be printed; provides that no document required by law to remain confidential shall be deemed a public document.",

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A4278","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-03T15:07:14.630728Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-03","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-03","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4278","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-03T15:07:14.630728Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-19","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-03","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4278A","Date":"2025-03-19","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
@@ -35,11 +39,12 @@
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
-  {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"}
+  {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"},
+  {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}
  ],
  "Title":"Enacts the Empowering People in Rights Enforcement (EMPIRE) Worker Protection Act",
  "Summary":"Enacts the \"Empowering People in Rights Enforcement (EMPIRE) Worker Protection Act\"; relates to the delegation of state enforcement authority to private actors; authorizes an affected employee, whistleblower, representative organization or an organizational deputy to initiate a public enforcement action on behalf of the commissioner for certain provisions of the labor law, or any regulation promulgated thereunder.",
- "LawSection":"Labor Law","LawCode":"Add Art 37 §§1050 - 1053, Lab L",
+ "LawSection":"Labor Law","LawCode":"Add Art 37 §§1150 - 1153, Lab L",
  "ActClause":"AN ACT to amend the labor law, in relation to enacting the \"Empowering People in Rights Enforcement (EMPIRE) Worker Protection Act\"",
  "SameAsPrintNo":"S448-2025","PreviousVersions":["A9012-2023"]
 }

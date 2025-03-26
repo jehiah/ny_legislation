@@ -1,9 +1,9 @@
 {
  "PrintNo":"S3100","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T14:41:41.417166Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-02-25"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-17"}
+  {"Type":"PASSED_SENATE","Date":"2025-03-17"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-17","Committee":"Insurance"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-23","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-17","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-03-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

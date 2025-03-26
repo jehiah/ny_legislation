@@ -1,11 +1,29 @@
 {
  "PrintNo":"A4637","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T12:13:16.160772Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-11","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-03-11","Chamber":"ASSEMBLY",
+   "Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},{"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},
-  {"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"}
+  {"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},{"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"}
  ],
  "Title":"Safeguards cash accounts for people with developmental disabilities in a facility",
  "Summary":"Safeguards cash accounts for people with developmental disabilities in a facility under the control of the commissioner of mental health, the commissioner of the office for people with developmental disabilities and the commissioner of alcoholism and substance abuse services.",

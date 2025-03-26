@@ -1,11 +1,17 @@
 {
  "PrintNo":"A565","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:21:58.408931Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-01-23"}],
+ "Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-01-23"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-03-26"},{"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Health"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-01-21","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.1","Date":"2025-01-23","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.1","Date":"2025-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -37,7 +43,8 @@
   {"ID":659,"Name":"Ron Kim","Short":"KIM"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
-  {"ID":1540,"Name":"Brian Maher","Short":"MAHER"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":1540,"Name":"Brian Maher","Short":"MAHER"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":500,"Name":"William Colton","Short":"COLTON"}
  ],
  "Title":"Relates to prohibiting the establishment of new for-profit hospices",
  "Summary":"Prohibits the establishment of new for-profit hospices or increasing the capacity of existing for-profit hospices.",

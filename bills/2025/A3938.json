@@ -1,8 +1,12 @@
 {
- "PrintNo":"A3938","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T15:00:47.730372Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3938","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T15:00:47.730372Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-12","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3938A","Date":"2025-03-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},
   {"ID":1150,"Name":"John K. Mikulin","Short":"MIKULIN"},{"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"},
@@ -22,11 +26,14 @@
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1566,"Name":"Andrea Bailey","Short":"BAILEY"},
   {"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
-  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}
+  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},
+  {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
+  {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
+  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
  ],
  "Title":"Enacts the Alexander John Smullen Traffic Safety Memorial Law",
  "Summary":"Establishes a memorial sign program to publicly memorialize the victims of fatal vehicle collisions; specifies the contents of the sign.",
- "LawSection":"Highway Law","LawCode":"Add §24, Hway L",
+ "LawSection":"Highway Law","LawCode":"Add §24, Hway L; amd §§1640, 1650 & 1660, V & T L",
  "ActClause":"AN ACT to amend the highway law, in relation to enacting \"Alexander John Smullen Traffic Safety Memorial Law\"",
  "SameAsPrintNo":"S5568-2025","PreviousVersions":["A9748-2023"]
 }

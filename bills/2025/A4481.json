@@ -1,8 +1,12 @@
 {
- "PrintNo":"A4481","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T10:59:22.92498Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4481","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-04T10:59:22.92498Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-26","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4481A","Date":"2025-03-26","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1120,"Name":"Billy Jones","Short":"JONES"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}],
  "Title":"Establishes the New York road salt reduction council and the New York road salt reduction advisory committee",
  "Summary":"Establishes the New York road salt reduction council and the New York road salt reduction advisory committee to provide a mechanism for interagency cooperation and coordination to implement the recommendations of the report of the Adirondack road salt reduction task force.",

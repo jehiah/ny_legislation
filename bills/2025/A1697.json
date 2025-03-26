@@ -1,12 +1,19 @@
 {
- "PrintNo":"A1697","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T09:37:18.289386Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
+ "PrintNo":"A1697","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T09:37:18.289386Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-26","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1697A","Date":"2025-03-26","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+ ],
  "Title":"Relates to farm worker meal and lodging minimum wage credits",
- "Summary":"Relates to farm worker meal, lodging and utilities minimum wage credits.","LawSection":"Labor Law",
- "LawCode":"Amd §673, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to farm worker meal and lodging minimum wage credits",
- "PreviousVersions":["S6907-2017","S5412-2019","A9797-2021","A3364-2023"]
+ "Summary":"Relates to farm worker meal, lodging and utilities minimum wage credits being adjusted for cost of living increases.",
+ "LawSection":"Labor Law","LawCode":"Amd §673, Lab L",
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring farm worker meal and lodging minimum wage credits are adjusted for cost of living increases",
+ "SameAsPrintNo":"S6542-2025","PreviousVersions":["S6907-2017","S5412-2019","A9797-2021","A3364-2023"]
 }

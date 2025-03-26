@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5615","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-18T10:04:16.60369Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-18","Committee":"Cities"}],
- "Actions":[{"Text":"REFERRED TO CITIES","Date":"2025-02-18","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5615","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-18T10:04:16.60369Z","Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-21","Committee":"Cities"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES","Date":"2025-02-18","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CITIES","Date":"2025-03-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5615A","Date":"2025-03-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":896,"Name":"Latrice Walker","Short":"WALKER"},
   {"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},{"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},

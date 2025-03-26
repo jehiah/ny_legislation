@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1172","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:17:32.365523Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1172","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-09T10:17:32.365523Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-14","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-03-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1172A","Date":"2025-03-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
@@ -18,12 +22,13 @@
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
   {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
-  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"}
+  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},
+  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}
  ],
  "Title":"Authorizes the dispensing of abortion medication",
  "Summary":"Authorizes the dispensing of abortion medication under certain conditions; requires insurance policies providing coverage for contraception to provide coverage for abortion medication.",
  "LawSection":"Public Health Law",
- "LawCode":"Add §267-c, Pub Health L; amd §§6527, 6802, 6801, 6902, 6909 & 6951, Ed L; amd §§3216, 3221 & 4303, Ins L",
+ "LawCode":"Add §267-c, Pub Health L; amd §§6527, 6802, 6801, 6902 & 6909, Ed L; amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the public health law, the education law and the insurance law, in relation to the dispensing of abortion medication",
- "SameAsPrintNo":"S2533-2025","PreviousVersions":["A6835-2023"]
+ "PreviousVersions":["A6835-2023"]
 }

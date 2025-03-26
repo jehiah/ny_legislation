@@ -1,17 +1,23 @@
 {
- "PrintNo":"A6012","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-25T15:28:24.100664Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-25","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6012","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-25T15:28:24.100664Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6012A","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},
   {"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
-  {"ID":608,"Name":"Edward Ra","Short":"RA"}
+  {"ID":608,"Name":"Edward Ra","Short":"RA"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
+  {"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"},{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"}
  ],
  "Title":"Relates to establishing the safe water infrastructure action program",
- "Summary":"Establishes the safe water and infrastructure action program for the purpose of making payments toward the replacement and rehabilitation of certain existing local drinking water, storm water and sanitary sewer systems; applies to any county, city, town, village or public authority drinking water system, storm water system or sanitary sewer system within the state that is not under the maintenance and/or operational jurisdiction of a private entity; does not apply to NYC.",
+ "Summary":"Establishes the safe water and infrastructure action program for the purpose of making payments toward the replacement and rehabilitation of certain existing local drinking water, storm water and sanitary sewer systems; applies to any county, city, town, village or public authority drinking water system, storm water system or sanitary sewer system within the state that is not under the maintenance and/or operational jurisdiction of a private entity.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add Art 78 §78-0101, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to establishing the safe water infrastructure action program",
  "SameAsPrintNo":"S1850-2025","PreviousVersions":["A6155-2023"]

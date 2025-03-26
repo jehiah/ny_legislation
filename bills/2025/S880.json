@@ -1,12 +1,20 @@
 {
- "PrintNo":"S880","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T14:45:25.206779Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S880","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-06T14:45:25.206779Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Housing, Construction And Community Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-08","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-25",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 880A","Date":"2025-03-25","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Enacts the housing development fund company self-determination, preservation and affordability act",
  "Summary":"Enacts the housing development fund company self-determination, preservation and affordability act to clarify certain provisions relating to the dissolution and reincorporation of housing development fund companies; provides for tax exemptions and abatements for housing development fund companies.",
- "LawSection":"Private Housing Finance Law","LawCode":"Amd §§573, 576, 577 & 577-b, Priv Hous Fin L",
+ "LawSection":"Private Housing Finance Law","LawCode":"Amd §§576, 577 & 577-b, Priv Hous Fin L",
  "ActClause":"AN ACT to amend the private housing finance law, in relation to enacting the housing development fund company self-determination, preservation and affordability act",
- "SameAsPrintNo":"A2707-2025","PreviousVersions":["S9950-2023"]
+ "PreviousVersions":["S9950-2023"]
 }

@@ -2,7 +2,24 @@
  "PrintNo":"A4159","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-31T14:33:42.569078Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-31","Committee":"Correction"}],
- "Actions":[{"Text":"REFERRED TO CORRECTION","Date":"2025-01-31","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORRECTION","Date":"2025-01-31","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-03-25","Chamber":"ASSEMBLY","Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"}

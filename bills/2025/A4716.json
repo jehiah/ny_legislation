@@ -1,11 +1,16 @@
 {
- "PrintNo":"A4716","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-05T09:37:05.649339Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-05","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-05","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4716","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-05T09:37:05.649339Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-21","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-05","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-03-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4716A","Date":"2025-03-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}],
  "Title":"Requires washing machines to meet certain filtration system requirements",
- "Summary":"Requires washing machines sold after a certain date to contain a microfiber filtration system with a mesh size of not greater than one hundred micrometers.",
+ "Summary":"Requires washing machines sold after a certain date to contain a microfiber filtration system that meets certain specifications.",
  "LawSection":"General Business Law","LawCode":"Add §396-uu, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to requiring washing machines to meet certain filtration system requirements"
+ "ActClause":"AN ACT to amend the general business law, in relation to requiring washing machines to meet certain filtration system requirements",
+ "SameAsPrintNo":"S5605-2025"
 }

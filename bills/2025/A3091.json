@@ -1,8 +1,12 @@
 {
- "PrintNo":"A3091","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-23T12:31:01.895326Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-23","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-23","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3091","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-23T12:31:01.895326Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3091A","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}],
  "Title":"Relates to environmental restoration projects; repealer",
  "Summary":"Relates to the completion and funding of environmental restoration projects.",

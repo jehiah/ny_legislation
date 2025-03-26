@@ -1,8 +1,12 @@
 {
- "PrintNo":"S4672","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-11T11:12:22.975237Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-11","Chamber":"SENATE"}],
+ "PrintNo":"S4672","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-11T11:12:22.975237Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-11","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-26","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4672A","Date":"2025-03-26","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
  "Title":"Requires signage on state highways designating where there are zero-emission charging and refueling stations nearby",
  "Summary":"Requires signage on state highways designating where there is a zero-emission charging and refueling station that is open and available to the public within three miles of an exit or off-ramp.",

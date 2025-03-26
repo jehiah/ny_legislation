@@ -2,8 +2,28 @@
  "PrintNo":"A1979","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T12:23:05.436978Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-03-25","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Absent"},{"ID":1244,"Short":"FALL","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+ ],
  "Title":"Relates to employee representation of state employees designated managerial or confidential",
  "Summary":"Provides notification of employment or promotion of applicable employees to organizations of state employees designated managerial or confidential for purposes of employee representation in determining the terms and conditions of employment.",
  "LawSection":"Civil Service Law","LawCode":"Amd §208, Civ Serv L",

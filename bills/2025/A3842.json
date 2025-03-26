@@ -1,13 +1,20 @@
 {
- "PrintNo":"A3842","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T11:44:21.387893Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"}],
- "Title":"Establishes the insuring our future act",
- "Summary":"Establishes the insuring our future act to implement climate leadership and community protection act targets for insurers; establishes reporting requirements related to such targets; defines communities vulnerable to bluelining; identifies and protects such communities.",
+ "PrintNo":"A3842","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T11:44:21.387893Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3842A","Date":"2025-03-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
+ ],
+ "Title":"Establishes the insure our communities act",
+ "Summary":"Establishes the insure our communities act to implement climate leadership and community protection act targets for insurers; identifies and protects such communities; relates to affordability of insurance rates; assesses covered insurance companies' record of performance at meeting insurance needs; requires covered insurance companies to file statistical reports, including information on insurance coverage in specific assessment areas and disadvantaged communities.",
  "LawSection":"Insurance Law",
- "LawCode":"Add Art 92 §§9201 - 9204, §§2354, 2355 & 215, amd §§107 & 3425, Ins L; amd §102, Fin Serv L",
- "ActClause":"AN ACT to amend the insurance law and the financial services law, in relation to establishing the insuring our future act",
- "PreviousVersions":["A9905-2023"]
+ "LawCode":"Add Art 92 §§9201 - 9203, §§2354 & 215, amd §3425, Ins L; amd §102, Fin Serv L; amd §28-b, Bank L",
+ "ActClause":"AN ACT to amend the insurance law, the financial services law, and the banking law, in relation to establishing the insure our communities act",
+ "SameAsPrintNo":"S186-2025","PreviousVersions":["A9905-2023"]
 }

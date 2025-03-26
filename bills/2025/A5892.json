@@ -1,11 +1,16 @@
 {
- "PrintNo":"A5892","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:47:44.929447Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5892","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-24T09:47:44.929447Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-07","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-03-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5892A","Date":"2025-03-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
- "Title":"Authorizes institutional dispensers to dispense controlled substances for use off premises in an emergency situation",
- "Summary":"Authorizes institutional dispensers to dispense controlled substances for use off its premises in an emergency situation for a period not to exceed twenty-four hours unless a longer time period has been authorized.",
- "LawSection":"Public Health Law","LawCode":"Amd §§3342, 3350 & 3351, Art 33 Title 5 Title Head, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to authorizing institutional dispensers to dispense controlled substances for use off premises in an emergency situation"
+ "Title":"Authorizes practitioners in institutional dispensers to dispense controlled substances as emergency treatment for use off premises",
+ "Summary":"Authorizes practitioners in institutional dispensers to dispense controlled substances as emergency treatment for use off the premises of the institutional dispenser.",
+ "LawSection":"Public Health Law","LawCode":"Amd §3342, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to authorizing institutional dispensers to dispense controlled substances for use off premises in an emergency situation for at least three days",
+ "SameAsPrintNo":"S3416-2025"
 }

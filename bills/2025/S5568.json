@@ -1,15 +1,20 @@
 {
- "PrintNo":"S5568","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-25T10:54:26.782751Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-25","Chamber":"SENATE"}],
+ "PrintNo":"S5568","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-25T10:54:26.782751Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-25","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-11","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5568A","Date":"2025-03-11","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
-  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"}
  ],
  "Title":"Enacts the Alexander John Smullen Traffic Safety Memorial Law",
  "Summary":"Establishes a memorial sign program to publicly memorialize the victims of fatal vehicle collisions; specifies the contents of the sign.",
- "LawSection":"Highway Law","LawCode":"Add §24, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to enacting \"Alexander John Smullen Traffic Safety Memorial Law\"",
+ "LawSection":"Highway Law","LawCode":"Add §24, Hway L; amd §§1640, 1650 & 1660, V & T L",
+ "ActClause":"AN ACT to amend the highway law and the vehicle and traffic law, in relation to enacting \"Alexander John Smullen Traffic Safety Memorial Law\"",
  "SameAsPrintNo":"A3938-2025","PreviousVersions":["A9748-2023"]
 }

@@ -1,12 +1,20 @@
 {
- "PrintNo":"A63","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-20T09:42:58.708913Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Children And Families"}],
- "Actions":[{"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}],
+ "PrintNo":"A63","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-20T09:42:58.708913Z","Status":"IN_ASSEMBLY_COMM","Committee":"Children And Families",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Children And Families"}],
+ "Actions":[
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CHILDREN AND FAMILIES","Date":"2025-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 63A","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},
+  {"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
+ ],
  "Title":"Establishes the child and family well-being program and fund",
  "Summary":"Establishes the child and family well-being program and fund for the distribution of grants to eligible nonprofit community-based providers to respond to children's and families' needs in communities.",
- "LawSection":"Social Services Law","LawCode":"Add §393-a, Soc Serv L; add §97-aaaa, St Fin L",
- "ActClause":"AN ACT to amend the social services law, in relation to establishing the child and family well-being program; to amend the state finance law, in relation to the child and family well-being fund; and providing for the repeal of such provisions upon expiration thereof",
- "PreviousVersions":["A10274-2021","A2801-2023"]
+ "LawSection":"Executive Law","LawCode":"Add Art 19-J §§540 - 545, Exec L; add §97-aaaa, St Fin L",
+ "ActClause":"AN ACT to amend the executive law, in relation to establishing the child and family well-being program; to amend the state finance law, in relation to the child and family well-being fund; and providing for the repeal of such provisions upon expiration thereof",
+ "SameAsPrintNo":"S6431-2025","PreviousVersions":["A10274-2021","A2801-2023"]
 }

@@ -1,9 +1,33 @@
 {
  "PrintNo":"S1373","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T12:38:19.163949Z",
- "Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Agriculture"}],
- "Actions":[{"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-09","Chamber":"SENATE"}],
- "Sponsors":[{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-03-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.573","Date":"2025-03-18","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-18","Chamber":"SENATE","Committee":"Agriculture",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+ ],
  "Title":"Relates to voluntary contributions in support of municipal animal pounds or shelters",
  "Summary":"Relates to voluntary contributions in support of municipal animal pounds or shelters.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd §109, Ag & Mkts L",

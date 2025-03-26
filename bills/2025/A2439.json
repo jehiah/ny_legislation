@@ -1,11 +1,15 @@
 {
- "PrintNo":"A2439","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A2439","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-16T17:05:22.747502Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-03","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-16","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-02-03","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2439A","Date":"2025-02-03","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2439A","Date":"2025-02-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 2439B","Date":"2025-03-04","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-03-06","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 2439C","Date":"2025-03-06","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
@@ -23,11 +27,14 @@
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},
   {"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},
-  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}
+  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
+  {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
+  {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
+  {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"}
  ],
- "Title":"Establishes a reproductive health services training and education grant program",
- "Summary":"Establishes the New York state abortion clinical training program within the department of health for the purpose of training health care practitioners in the performance of abortion and related reproductive health care services; requires the commissioner of health to submit a report to the governor and the legislature.",
- "LawSection":"Public Health Law","LawCode":"Add Art 25-AA §§2599-bb-10 - 2599-bb-13, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to enacting the New York state abortion clinical training program act",
+ "Title":"Establishes a reproductive health services training grant program",
+ "Summary":"Establishes a reproductive health services training and education grant program to train licensed providers and interns or residents who are employed by a hospital or otherwise enrolled in an accredited graduate medical education program in the performance of abortion and related reproductive health services; establishes the reproductive health training and education fund.",
+ "LawSection":"Public Health Law","LawCode":"Add §2807-nn, Pub Health L; add §99-ss, St Fin L",
+ "ActClause":"AN ACT to amend the public health law, in relation to establishing a reproductive health services training grant program; and to amend the state finance law, in relation to establishing the reproductive health training and education fund",
  "PreviousVersions":["A3279-2023","S3060-2023"]
 }

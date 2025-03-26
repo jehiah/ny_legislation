@@ -1,8 +1,29 @@
 {
  "PrintNo":"S3277","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T14:31:01.09526Z",
- "Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Agriculture"}],
- "Actions":[{"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-24","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"}],
+ "Actions":[
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.480","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-04","Chamber":"SENATE","Committee":"Agriculture",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Establishes a process for designating transfer-on-death beneficiaries for farming implements",
  "Summary":"Establishes a process for designating transfer-on-death beneficiaries for farming implements involving filing a document with the commissioner of agriculture and markets.",

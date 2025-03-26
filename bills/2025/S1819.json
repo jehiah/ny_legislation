@@ -1,8 +1,25 @@
 {
  "PrintNo":"S1819","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T09:16:51.402975Z",
- "Status":"IN_SENATE_COMM","Committee":"Alcoholism And Substance Use Disorders",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Alcoholism And Substance Use Disorders"}],
- "Actions":[{"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-01-14","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-12","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-01-14","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO CODES","Date":"2025-03-12","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-12","Chamber":"SENATE","Committee":"Alcoholism And Substance Use Disorders",
+   "Votes":[
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Provides that the results of urine tests conducted pursuant to a judicial diversion program shall be private and confidential",
  "Summary":"Provides that the results of urine tests conducted pursuant to a judicial diversion program shall be private and confidential.",

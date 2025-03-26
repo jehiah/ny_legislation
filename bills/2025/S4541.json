@@ -1,13 +1,17 @@
 {
- "PrintNo":"S4541","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-06T14:15:45.325835Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-06","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-06","Chamber":"SENATE"}],
+ "PrintNo":"S4541","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-06T14:15:45.325835Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-06","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-11","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4541A","Date":"2025-03-11","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Relates to air quality in schools and student health",
- "Summary":"Establishes an indoor air quality inspection, measurement and evaluation program; defines terms; makes related provisions.",
+ "Summary":"Authorizes the department of health to establish an indoor air quality inspection, measurement and evaluation program; defines terms; makes related provisions.",
  "LawSection":"Public Health Law",
- "LawCode":"Add Art 25 Title 4-A §§2576 - 2581, amd §3-0301, En Con L; amd §§305 & 3602, Ed L",
+ "LawCode":"Add Art 25 Title 4-A §§2576 - 2576-e, amd §3-0301, En Con L; amd §§305 & 3602, Ed L",
  "ActClause":"AN ACT to amend the public health law, the environmental conservation law and the education law, in relation to air quality in schools and student health",
  "SameAsPrintNo":"A5347-2025"
 }

@@ -1,9 +1,9 @@
 {
  "PrintNo":"S4925","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T13:06:12.546118Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-03-05"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-17"}
+  {"Type":"PASSED_SENATE","Date":"2025-03-17"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-17","Committee":"Labor"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-14","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-17","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"},
+  {"Text":"REFERRED TO LABOR","Date":"2025-03-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

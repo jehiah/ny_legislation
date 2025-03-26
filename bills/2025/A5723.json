@@ -1,12 +1,16 @@
 {
- "PrintNo":"A5723","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-20T11:17:43.968282Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-20","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-20","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5723","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-20T11:17:43.968282Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5723A","Date":"2025-03-04","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"}],
  "Title":"Relates to the imposition of a surcharge of twenty-five cents on every online delivery sale within the city of New York",
  "Summary":"Imposes a surcharge of twenty-five cents on every online delivery sale where such delivery terminates within the city of New York; deposits funds into a special New York city infrastructure capital fund.",
  "LawSection":"Tax Law","LawCode":"Add Art 29-E §§1299-T - 1299-BB, Tax L; add §99-ss, St Fin L",
  "ActClause":"AN ACT to amend the tax law and the state finance law, in relation to a surcharge on online delivery sales in the city of New York",
- "PreviousVersions":["A6204-2023"]
+ "SameAsPrintNo":"S4193-2025","PreviousVersions":["A6204-2023"]
 }

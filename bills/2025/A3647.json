@@ -1,8 +1,12 @@
 {
- "PrintNo":"A3647","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-29T10:41:13.578807Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-29","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-29","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3647","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-29T10:41:13.578807Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-07","Committee":"Local Governments"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-29","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-03-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3647A","Date":"2025-03-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},
@@ -25,11 +29,14 @@
   {"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},{"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},
   {"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},{"ID":659,"Name":"Ron Kim","Short":"KIM"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
-  {"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"}
+  {"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1485,"Name":"Josh Jensen","Short":"JENSEN"},
+  {"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},
+  {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}
  ],
  "Title":"Enacts the faith-based affordable housing act",
  "Summary":"Enacts the \"faith-based affordable housing act\" for development on residential land; defines terms; provides that each village, town, and city shall allow the construction and occupation of residential buildings on any covered site up to the specified densities; provides that all residential buildings constructed pursuant to this section in a town, village, or city with fewer than one million inhabitants shall set aside twenty percent of the residential floor area for households earning an average of eighty percent of area median income; outlines the densities for New York city; makes related provisions.",
  "LawSection":"General Municipal Law","LawCode":"Add §96-c, Gen Muni L",
  "ActClause":"AN ACT to amend the general municipal law, in relation to enacting the \"faith-based affordable housing act\" and residential development on religious land",
- "PreviousVersions":["A8386-2023"]
+ "SameAsPrintNo":"S3397-2025","PreviousVersions":["A8386-2023"]
 }

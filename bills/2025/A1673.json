@@ -1,9 +1,33 @@
 {
  "PrintNo":"A1673","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T13:07:55.272432Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-10","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-10","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-10","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-11","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-03-11","Chamber":"ASSEMBLY",
+   "Committee":"TRANSPORTATION",
+   "Votes":[
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1466,"Short":"DURSO","Vote":"Nay"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Nay"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"}],
  "Title":"Relates to the payment of restitution by registered and unregistered repair shops",
  "Summary":"Establishes that if financial loss has been made and a registrant or unregistered repair shop fails to comply with an order to pay restitution, the commissioner shall, by order, increase the amount of the penalty assessed.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §398-e, V & T L",

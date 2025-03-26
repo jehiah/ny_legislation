@@ -1,8 +1,12 @@
 {
- "PrintNo":"A340","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-31T12:27:19.773898Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Housing"}],
- "Actions":[{"Text":"REFERRED TO HOUSING","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A340","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-31T12:27:19.773898Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-24","Committee":"Housing"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2025-03-24","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 340A","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
@@ -14,7 +18,7 @@
  ],
  "Title":"Requires manufactured home park owners to provide a written justification for rent increases in excess of three percent of the current rent",
  "Summary":"Requires manufactured home park owners to provide a written justification for rent increases in excess of three percent of the current rent; provides that increases in costs to justify such rent increase for ordinary maintenance or repair to meet the warranty of habitability obligations must be shown to be necessary.",
- "LawSection":"Real Property Law","LawCode":"Amd §233-b, ren §233-b to be §233-c, RP L",
+ "LawSection":"Real Property Law","LawCode":"Amd §233-b, ren §233-b to be §233-d, RP L",
  "ActClause":"AN ACT to amend the real property law, in relation to increases of rent in manufactured home parks",
  "SameAsPrintNo":"S228-2025","PreviousVersions":["A6755-2021","A5704-2023"]
 }

@@ -3,7 +3,11 @@
  "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Governmental Operations"}],
  "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-12","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}],
+ "Sponsors":[
+  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},
+  {"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
+  {"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"}
+ ],
  "Title":"Requires the use of verified accounts and multi-factor authorization before state funds can be distributed digitally",
  "Summary":"Requires the use of verified accounts and multi-factor authorization before state funds can be distributed digitally.",
  "LawSection":"State Technology Law","LawCode":"Add §106-c, St Tech L",

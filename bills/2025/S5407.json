@@ -1,19 +1,38 @@
 {
  "PrintNo":"S5407","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T10:59:08.596046Z",
- "Status":"IN_SENATE_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-02-21","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-02-21","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-05","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-05","Chamber":"SENATE","Committee":"Mental Health",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
-  {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
-  {"ID":1490,"Name":"Dan Stec","Short":"STEC"},{"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1518,"Name":"William Weber","Short":"WEBER"},
-  {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
+  {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
+  {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"},
+  {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"},{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
  "Title":"Relates to the first responder peer support program act",
  "Summary":"Establishes the \"first responder peer support program act\" which supplies peer-to-peer mental health programs to first responders.",
  "LawSection":"Mental Hygiene Law","LawCode":"Add §7.51, Ment Hyg L",
  "ActClause":"AN ACT to amend the mental hygiene law, in relation to the \"First Responder Peer Support Program Act\"",
- "PreviousVersions":["S8610-2019","S6955-2021","S7079-2023"]
+ "SameAsPrintNo":"A7285-2025","PreviousVersions":["S8610-2019","S6955-2021","S7079-2023"]
 }

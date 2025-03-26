@@ -1,8 +1,12 @@
 {
- "PrintNo":"A3457","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T11:48:42.607986Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-27","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3457","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-27T11:48:42.607986Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3457A","Date":"2025-03-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
@@ -14,9 +18,9 @@
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}
  ],
- "Title":"Relates to the eligibility criteria for the digital gaming tax credit",
- "Summary":"Amends the eligibility criteria for game development companies by changing the yearly timeframe structure, lowering the dollar threshold per production, by removing the in-state cost incurred threshold to accurately fit current digital gaming industry models, increasing the amount of the tax credit and extending the time in which to claim the credit.",
- "LawSection":"Tax Law","LawCode":"Amd §§45, 210-b & 606, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to the eligibility criteria for the digital gaming tax credit",
- "PreviousVersions":["A7126-2023"]
+ "Title":"Relates to the period during which the empire state digital gaming tax credit may be claimed, criteria for such tax credit, and allowing a rollover of such credit",
+ "Summary":"Extends the period during which the empire state digital gaming tax credit may be claimed to 01/01/2032; amends the eligibility criteria for game development companies by changing the yearly timeframe structure, lowering the dollar threshold per production, and removing the in-state cost incurred threshold to accurately fit current digital gaming industry models; allows unused credits to be rolled over to the following tax year.",
+ "LawSection":"Tax Law","LawCode":"Amd §§45, 210-B & 606, Tax L",
+ "ActClause":"AN ACT to amend the tax law, in relation to extending the period during which the empire state digital gaming media production tax credit may be claimed, the eligibility criteria for such tax credit, and allowing unused allowable credits to be rolled over to the following tax year",
+ "SameAsPrintNo":"S4715-2025","PreviousVersions":["A7126-2023"]
 }

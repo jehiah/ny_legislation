@@ -1,9 +1,30 @@
 {
  "PrintNo":"S1741","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T12:39:52.350901Z",
- "Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Agriculture"}],
- "Actions":[{"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-13","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-03-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-13","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.574","Date":"2025-03-18","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-18","Chamber":"SENATE","Committee":"Agriculture",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"}],
  "Title":"Relates to the penalty for the abandonment of animals",
  "Summary":"Provides that the penalty for the abandonment of animals is a misdemeanor, punishable by imprisonment for not more than one year, or by a fine of not less than five hundred dollars nor more than one thousand dollars, or by both.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd §355, Ag & Mkts L",

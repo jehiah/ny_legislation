@@ -3,7 +3,10 @@
  "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Governmental Operations"}],
  "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-12","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}],
+ "Sponsors":[
+  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
+  {"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"}
+ ],
  "Title":"Increases security on digital submissions to the state by requiring the use of verified accounts and multi-factor authorization",
  "Summary":"Increases security on digital submissions to the state by requiring the use of verified accounts and multi-factor authorization.",
  "LawSection":"State Technology Law","LawCode":"Add §106-c, St Tech L",

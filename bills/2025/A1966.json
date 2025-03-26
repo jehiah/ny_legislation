@@ -1,8 +1,30 @@
 {
  "PrintNo":"A1966","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T12:04:37.040433Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Agriculture"}],
- "Actions":[{"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-11","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-03-11","Chamber":"ASSEMBLY","Committee":"AGRICULTURE",
+   "Votes":[
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
@@ -11,7 +33,7 @@
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
   {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
-  {"ID":656,"Name":"David DiPietro","Short":"DIPIETRO"}
+  {"ID":656,"Name":"David DiPietro","Short":"DIPIETRO"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
  ],
  "Title":"Includes wildlife animals as those subject to the animal cruelty provisions",
  "Summary":"Includes wildlife animals as those subject to the animal cruelty provisions of the agriculture and markets law.",

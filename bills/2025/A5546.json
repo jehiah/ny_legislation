@@ -1,18 +1,34 @@
 {
  "PrintNo":"A5546","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-14T10:28:44.18592Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Mental Health",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-14","Committee":"Mental Health"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Mental Health"}
  ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-02-14","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-25","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.44","Date":"2025-02-27","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.44","Date":"2025-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-03-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2025-02-25","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-03-04","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
    "Votes":[
     {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
     {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},

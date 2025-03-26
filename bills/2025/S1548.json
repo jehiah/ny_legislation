@@ -1,10 +1,10 @@
 {
  "PrintNo":"S1548","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T14:19:31.987014Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-21"},
   {"Type":"PASSED_SENATE","Date":"2025-01-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Health"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-10"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-01-10","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-21","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A1502","Date":"2025-02-10","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING CAL.6","Date":"2025-02-10","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.6","Date":"2025-02-10","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-03-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -117,7 +119,7 @@
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
-  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Provides for the restriction of substances in menstrual products",
  "Summary":"Restricts certain substances from being used in menstrual products.","LawSection":"General Business Law",

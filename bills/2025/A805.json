@@ -1,14 +1,18 @@
 {
  "PrintNo":"A805","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T16:10:54.608103Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-26"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Investigations And Government Operations"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-25","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.27","Date":"2025-02-27","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.27","Date":"2025-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {

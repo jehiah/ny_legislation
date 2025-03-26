@@ -1,15 +1,19 @@
 {
- "PrintNo":"A2578","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T13:04:45.010514Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-17","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2578","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-17T13:04:45.010514Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-07","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-17","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-03-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2578A","Date":"2025-03-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1152,"Name":"Chris Tague","Short":"TAGUE"},
   {"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},{"ID":1135,"Name":"Angelo J. Morinello","Short":"MORINELLO"},
   {"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"}
  ],
  "Title":"Requires legislators and candidates for member of the legislature to provide a link to their financial disclosure statements on their official state and campaign websites",
- "Summary":"Requires legislators and candidates for members of the legislature to provide a link to their financial disclosure statements on their official state and campaign websites which shall direct website visitors to current and past financial disclosure forms that the legislator has submitted.",
+ "Summary":"Requires legislators and candidates for members of the legislature to provide a link to their financial disclosure statements on their official state and campaign websites which shall direct website visitors to the current financial disclosure form that the legislator has submitted.",
  "LawSection":"Public Officers Law","LawCode":"Amd §73-a, Pub Off L",
  "ActClause":"AN ACT to amend the public officers law, in relation to requiring legislators and candidates for member of the legislature to provide a link to their financial disclosure statements on their official state and campaign websites",
  "PreviousVersions":["A5688-2017","A3824-2019","A3469-2021","A1609-2023"]

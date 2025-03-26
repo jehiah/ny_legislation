@@ -1,14 +1,16 @@
 {
- "PrintNo":"A3004","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A3004","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-22T13:00:20.123262Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-21","Committee":"Ways And Means"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-22","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-02-21","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 3004A","Date":"2025-02-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 3004A","Date":"2025-02-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 3004B","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Title":"CAPITAL PROJECTS BUDGET",
  "Summary":"Makes appropriations for the support of government - Capital Projects Budget.","LawSection":"Budget Bills",
  "ActClause":"AN ACT making appropriations for the support of government CAPITAL PROJECTS BUDGET",
- "SameAsPrintNo":"S3004-2025","PreviousVersions":["A8804-2023"]
+ "PreviousVersions":["A8804-2023"]
 }

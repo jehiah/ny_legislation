@@ -1,8 +1,27 @@
 {
  "PrintNo":"A73","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-20T09:48:28.555156Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-03-25","Chamber":"ASSEMBLY",
+   "Committee":"CONSUMER AFFAIRS AND PROTECTION",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1125,"Short":"MILLER","Vote":"Nay"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},{"ID":1466,"Short":"DURSO","Vote":"Nay"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},{"ID":1244,"Short":"FALL","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
@@ -26,7 +45,10 @@
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
   {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
-  {"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}
+  {"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
+  {"ID":1477,"Name":"Amanda Septimo","Short":"SEPTIMO"},
+  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
+  {"ID":1561,"Name":"Micah Lasher","Short":"LASHER"}
  ],
  "Title":"Relates to labeling requirements for gas stoves",
  "Summary":"Requires the display of certain labels and warnings on gas stoves sold, displayed for sale, or offered for sale at retail to a consumer in this state; authorizes the department of state to adopt regulations regarding the placement and format of such labels; provides for penalties; authorizes the attorney general to enforce such provisions.",

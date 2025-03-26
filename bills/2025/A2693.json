@@ -1,15 +1,33 @@
 {
  "PrintNo":"A2693","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-22T09:17:51.255528Z","Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-19","Committee":"Cities"}],
+ "Published":"2025-01-22T09:17:51.255528Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-01-22","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CITIES","Date":"2025-03-19","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2693A","Date":"2025-03-19","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2693A","Date":"2025-03-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-25","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-03-25","Chamber":"ASSEMBLY",
+   "Committee":"CITIES",
+   "Votes":[
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1528,"Short":"CHANG","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Excused"},{"ID":1244,"Short":"FALL","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1243,"Name":"Simcha Eichenstein","Short":"EICHENSTEIN"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
-  {"ID":1545,"Name":"Sam Berger","Short":"BERGER"}
+  {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
+  {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}
  ],
  "Title":"Prohibits the issuance of tickets to residential occupants for certain violations of the sanitation code",
  "Summary":"Prohibits the issuance of violations or tickets during certain weekend hours to residential occupants for violations of the sanitation department regulations regarding placing trash or garbage out for collection earlier than allowed under the city routing system designated hours.",

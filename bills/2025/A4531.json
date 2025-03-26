@@ -1,8 +1,12 @@
 {
- "PrintNo":"A4531","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T11:39:28.3685Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4531","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-04T11:39:28.3685Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4531A","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1135,"Name":"Angelo J. Morinello","Short":"MORINELLO"}],
  "Title":"Eliminates daylight savings time; repealer","Summary":"Eliminates daylight savings time.",
  "LawSection":"General Construction Law","LawCode":"Amd §52, Gen Con L; amd §66, Pub Serv L; rpld §2-106, NYC Ad Cd",

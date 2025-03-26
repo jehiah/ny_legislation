@@ -1,8 +1,33 @@
 {
- "PrintNo":"A1820","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T10:21:29.127372Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1820","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T10:21:29.127372Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-24"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.62","Date":"2025-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 1820A","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-03-18","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":1127,"Short":"WALSH","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1148,"Short":"SMITH","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},

@@ -1,11 +1,13 @@
 {
- "PrintNo":"S56","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S56","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2024-12-17T15:36:25.726218Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-24","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 56A","Date":"2025-01-13","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 56A","Date":"2025-01-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-24","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 56B","Date":"2025-03-24","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -13,8 +15,7 @@
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
  ],
  "Title":"Establishes a drug checking program",
- "Summary":"Establishes through the department of health a drug checking program to allow individuals to bring drugs or controlled substances and have them tested for contaminants, toxic substances, or hazardous compounds; requires the department to establish public health surveillance of the unregulated drug supply.",
- "LawSection":"Public Health Law","LawCode":"Add §3309-c, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to establishing a drug checking program including requirements for enhanced drug checking service delivery and public health surveillance",
- "SameAsPrintNo":"A808-2025"
+ "Summary":"Establishes through the department of health a drug checking services program to allow individuals to bring drugs or controlled substances and have them tested for contaminants, toxic substances, or hazardous compounds; requires the department to establish public health surveillance of the unregulated drug supply; provides exemptions for participants in the drug checking program from certain controlled substance offenses.",
+ "LawSection":"Public Health Law","LawCode":"Add §507, amd §3305, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to establishing a drug checking program including requirements for enhanced drug checking service delivery and public health surveillance"
 }

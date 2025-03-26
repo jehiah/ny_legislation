@@ -1,12 +1,34 @@
 {
  "PrintNo":"S194","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-20T09:06:20.792825Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.510","Date":"2025-03-11","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-12","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-11","Chamber":"SENATE","Committee":"Consumer Protection",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
  "Title":"Relates to training for school security guards",
  "Summary":"Enacts the \"school security guard training enhancement act\"; provides requirements for a specialized certification for school security guards, including, but not limited to, retired police officers; requires topics including, but not limited to, the role and responsibility of school security officers, school-related laws and liability, security awareness in the educational environment, mediation/conflict resolution, disasters and emergencies and dynamics of student behavior be covered in such training and program; provides that such specialized certification and training program shall be implemented and enforced by the department of state, in consultation with the department of education and the department of criminal justice services, the division of homeland security and emergency services, state police and local law enforcement.",
  "LawSection":"General Business Law","LawCode":"Add Art 7-A §89-x, Gen Bus L; amd §§841 & 841-b, Exec L",
  "ActClause":"AN ACT to amend the general business law and the executive law, in relation to enacting the \"school security guard training enhancement act\"",
- "SameAsPrintNo":"A5079-2025","PreviousVersions":["S4559-2023"]
+ "PreviousVersions":["S4559-2023"]
 }

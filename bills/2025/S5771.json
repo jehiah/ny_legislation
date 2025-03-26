@@ -1,10 +1,28 @@
 {
  "PrintNo":"S5771","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-28T15:23:02.7636Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-28","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Agriculture",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Agriculture"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-28","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO AGRICULTURE","Date":"2025-03-11","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-11","Chamber":"SENATE","Committee":"Consumer Protection",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],"Title":"Enacts the \"farm equipment fair repair act\"",
  "Summary":"Requires original manufacturers of agricultural equipment to make certain documentation, parts, and tools required for the diagnosis, maintenance, or repair of agricultural equipment available, on fair and reasonable terms, to independent repair providers and owners of agricultural equipment manufactured and sold on or after July 1, 2015.",
  "LawSection":"General Business Law","LawCode":"Add Art 33-C §§698 & 698-a, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"farm equipment fair repair act\""
+ "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"farm equipment fair repair act\"",
+ "SameAsPrintNo":"A6601-2025"
 }

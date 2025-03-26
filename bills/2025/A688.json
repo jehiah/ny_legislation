@@ -1,13 +1,32 @@
 {
  "PrintNo":"A688","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T14:27:53.142533Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-18","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-03-18","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
-  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}
+  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
  ],
  "Title":"Provides minimum basic training related to handling emergency situations involving individuals with any physical and/or developmental disability to all firefighters",
  "Summary":"Empowers the office of fire prevention and control to, in coordination with the commissioner of the office for people with developmental disabilities and the chief disability officer, provide minimum basic training related to handling emergency situations involving individuals with any physical and/or developmental disability to all firefighters.",

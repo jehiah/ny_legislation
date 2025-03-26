@@ -1,15 +1,20 @@
 {
- "PrintNo":"A5626","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-18T10:10:11.928133Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-18","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-18","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5626","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-18T10:10:11.928133Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-18","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5626A","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
  ],
- "Title":"Relates to permits and financial security for reclamation for salt mining beneath a lake",
+ "Title":"Relates to permits and financial security for reclamation for salt mining beneath a lake; repealer",
  "Summary":"Relates to permits and financial security for reclamation for salt mining beneath a lake; requires such permits to be subject to environmental quality review procedures; requires financial security to cover any damages directly or indirectly resulting from salt mining activities beneath a lake, including, but not limited to, those resulting from collapse or water contamination.",
- "LawSection":"Environmental Conservation Law","LawCode":"Amd §§23-2711 & 23-2715, En Con L; amd §81, Pub Lds L",
- "ActClause":"AN ACT to amend the environmental conservation law and the public lands law, in relation to permits and financial security for reclamation for salt mining beneath a lake",
+ "LawSection":"Environmental Conservation Law",
+ "LawCode":"Amd §§23-2711 & 23-2715, rpld §23-2711 sub 9, En Con L; amd §81, Pub Lds L",
+ "ActClause":"AN ACT to amend the environmental conservation law and the public lands law, in relation to permits and financial security for reclamation for salt mining beneath a lake; and to repeal certain provisions of the environmental conservation law relating thereto",
  "PreviousVersions":["A8250-2023"]
 }

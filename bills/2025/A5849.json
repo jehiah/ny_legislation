@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5849","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:23:30.605449Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5849","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-24T09:23:30.605449Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5849A","Date":"2025-03-25","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}],
  "Title":"Exempts certain veterans service organizations from taxes on the sales of beer, wine and soda",
  "Summary":"Exempts certain veterans service organizations from taxes on the sales of beer, wine and soda.",

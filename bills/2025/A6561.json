@@ -1,10 +1,16 @@
 {
- "PrintNo":"A6561","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T14:46:09.704154Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-03-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6561","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-06T14:46:09.704154Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-12","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6561A","Date":"2025-03-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
- "Title":"Includes image-guided biopsies under certain insurance coverage for breast cancer screening and provides for mandatory health insurance coverage for lung cancer screening",
- "Summary":"Includes image-guided biopsies under mandatory insurance coverage for breast cancer screening; provides for mandatory health insurance coverage for lung cancer screening; requires that health insurance policies shall provide coverage for lung cancer screening or follow-up diagnostic imaging to assist in the diagnosis of lung cancer; provides that no copayment, coinsurance, or deductible requirement shall be imposed for follow-up screening or diagnostic services for lung cancer screening or follow-up diagnostic imaging and prior authorization for such coverage shall not be required.",
- "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L"
+ "Title":"Includes image-guided biopsies under certain insurance coverage for breast cancer screening",
+ "Summary":"Includes image-guided biopsies under mandatory insurance coverage for breast cancer screening.",
+ "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
+ "ActClause":"AN ACT to amend the insurance law, in relation to including image-guided biopsies under certain insurance coverage for breast cancer screening",
+ "SameAsPrintNo":"S6551-2025"
 }

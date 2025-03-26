@@ -1,8 +1,29 @@
 {
  "PrintNo":"S4713","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-12T09:30:37.088014Z",
- "Status":"IN_SENATE_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-02-12","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Mental Health"},{"Type":"SENATE_FLOOR","Date":"2025-03-11"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-02-12","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.497","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-10","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-11","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-05","Chamber":"SENATE","Committee":"Mental Health",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Allows direct descendants of a patient who has been deceased for a period of fifty years or longer to access such patient's clinical records",
  "Summary":"Allows direct descendants of a patient who has been deceased for a period of fifty years or longer to access such patient's clinical records.",

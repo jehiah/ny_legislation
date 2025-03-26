@@ -1,0 +1,55 @@
+{
+ "PrintNo":"A6769","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-13T16:15:28.9319Z",
+ "Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-13","Committee":"Local Governments"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-20"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-24"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-24","Committee":"Local Government"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.67","Date":"2025-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-03-24","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-03-24","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-24","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-03-18","Chamber":"ASSEMBLY","Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":636,"Short":"FRIEND","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-03-24","Chamber":"ASSEMBLY","Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":636,"Short":"FRIEND","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1120,"Name":"Billy Jones","Short":"JONES"}],
+ "Title":"Relates to municipal cybersecurity incidents or ransomware attacks",
+ "Summary":"Requires all municipal corporations to report cybersecurity incidents and demands of ransom payments to the division of homeland security and emergency services; defines terms; requires that within forty-eight hours of receiving a cybersecurity incident report or notice of a demand for ransom payment, the commissioner of the division for homeland security and emergency services, or their designee, shall provide advice and technical assistance to the municipal corporation reporting such incidents; requires employees of the state who use technology as a part of their official job duties to take annual cybersecurity awareness training.",
+ "LawSection":"General Municipal Law",
+ "LawCode":"Add Art 19-C §§995-a - 995-c, Gen Muni L; add §711-c, Exec L; add §103-f, St Fin L",
+ "ActClause":"AN ACT to amend the general municipal law and the executive law, in relation to requiring municipal cybersecurity incident or ransomeware attack reporting and exempting such reports from freedom of information requirements; and to amend the state technology law, in relation to requiring cybersecurity awareness training"
+}

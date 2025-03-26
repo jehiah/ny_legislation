@@ -1,8 +1,10 @@
 {
  "PrintNo":"S6670","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-19T14:12:22.418832Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-19","Committee":"Budget And Revenue"}],
- "Actions":[{"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-03-19","Chamber":"SENATE"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-19","Committee":"Budget And Revenue"}],
+ "Actions":[
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-03-19","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2025-03-25","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1225,"Name":"John Liu","Short":"LIU"},

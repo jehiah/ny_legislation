@@ -1,11 +1,34 @@
 {
  "PrintNo":"S5935","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T09:49:59.906251Z",
- "Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Racing, Gaming And Wagering"}],
- "Actions":[{"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-03-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Racing, Gaming And Wagering"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.567","Date":"2025-03-18","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-18","Chamber":"SENATE","Committee":"Racing, Gaming And Wagering",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Prohibits online sweepstakes games and revenue from illegal markets",
  "Summary":"Prohibits online sweepstakes games and revenue from illegal markets; sets penalties; provides for enforcement of provisions.",
  "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Add §912, RWB L",
- "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to prohibiting online sweepstakes games and revenue from illegal markets"
+ "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to prohibiting online sweepstakes games and revenue from illegal markets",
+ "SameAsPrintNo":"A6745-2025"
 }

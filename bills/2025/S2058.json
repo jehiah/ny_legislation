@@ -1,10 +1,25 @@
 {
  "PrintNo":"S2058","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T10:06:59.625712Z",
  "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Higher Education"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Higher Education"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-15","Chamber":"SENATE"},
-  {"Text":"REFERENCE CHANGED TO WOMEN'S ISSUES","Date":"2025-02-24","Chamber":"SENATE"}
+  {"Text":"REFERENCE CHANGED TO WOMEN'S ISSUES","Date":"2025-02-24","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO HIGHER EDUCATION","Date":"2025-03-11","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-12","Chamber":"SENATE","Committee":"Women's Issues",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},

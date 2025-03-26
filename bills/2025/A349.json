@@ -1,14 +1,34 @@
 {
  "PrintNo":"A349","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-31T12:31:12.247912Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-11","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-03-11","Chamber":"ASSEMBLY",
+   "Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1544,"Short":"GRAY","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
   {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
-  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
+  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
  "Title":"Establishes the previously owned zero-emission vehicles rebate program",
  "Summary":"Establishes the previously owned zero-emission vehicles rebate program to provide an incentive of an amount up to $2,000 for individuals who purchase used or previously owned zero-emission vehicles.",

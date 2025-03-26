@@ -1,18 +1,22 @@
 {
- "PrintNo":"A654","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T14:45:05.457703Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Housing"}],
- "Actions":[{"Text":"REFERRED TO HOUSING","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A654","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T14:45:05.457703Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-24","Committee":"Housing"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HOUSING","Date":"2025-03-24","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 654A","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
   {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
   {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"}
  ],
- "Title":"Relates to penalties for owners of property who fail to file a proper or timely rent registration statement",
- "Summary":"Relates to penalties for owners of property who fail to file a proper or timely rent registration statement.",
+ "Title":"Increases penalties for owners of rent-regulated property who overcharge tenants",
+ "Summary":"Increases penalties for owners of rent-regulated property who overcharge tenants.",
  "LawSection":"Emergency Tenant Protection Act of 1974",
  "LawCode":"Amd §12, Emerg Ten Prot Act of 1974; amd §26-516, NYC Ad Cd",
- "ActClause":"AN ACT to amend the emergency tenant protection act of nineteen seventy-four and the administrative code of the city of New York, in relation to penalties for owners of property who fail to file a proper or timely rent registration statement",
- "PreviousVersions":["A9192-2015","A523-2017","A738-2019","A2332-2021","A106-2023"]
+ "ActClause":"AN ACT to amend the emergency tenant protection act of nineteen seventy-four, and the administrative code of the city of New York, in relation to increasing penalties for owners of rent-regulated property who overcharge tenants",
+ "SameAsPrintNo":"S467-2025","PreviousVersions":["A9192-2015","A523-2017","A738-2019","A2332-2021","A106-2023"]
 }

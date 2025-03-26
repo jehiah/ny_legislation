@@ -1,12 +1,16 @@
 {
- "PrintNo":"A5079","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T11:10:25.148321Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-02-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5079","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-12T11:10:25.148321Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-13","Committee":"Economic Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2025-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5079A","Date":"2025-03-13","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}],
  "Title":"Relates to training for school security guards",
  "Summary":"Enacts the \"school security guard training enhancement act\"; provides requirements for a specialized certification for school security guards, including, but not limited to, retired police officers; requires topics including, but not limited to, the role and responsibility of school security officers, school-related laws and liability, security awareness in the educational environment, mediation/conflict resolution, disasters and emergencies and dynamics of student behavior be covered in such training and program; provides that such specialized certification and training program shall be implemented and enforced by the department of state, in consultation with the department of education and the department of criminal justice services, the division of homeland security and emergency services, state police and local law enforcement.",
  "LawSection":"General Business Law","LawCode":"Add Art 7-A §89-x, Gen Bus L; amd §§841 & 841-b, Exec L",
  "ActClause":"AN ACT to amend the general business law and the executive law, in relation to enacting the \"school security guard training enhancement act\"",
- "SameAsPrintNo":"S194-2025","PreviousVersions":["A5903-2023"]
+ "PreviousVersions":["A5903-2023"]
 }

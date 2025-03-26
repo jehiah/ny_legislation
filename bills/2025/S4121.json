@@ -3,7 +3,10 @@
  "Status":"IN_SENATE_COMM","Committee":"Codes",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Codes"}],
  "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-02-03","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Sponsors":[
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}
+ ],
  "Title":"Relates to protecting people from civil arrest at certain locations",
  "Summary":"Protects people from civil arrest while within one thousand feet of a sensitive location, unless such civil arrest is supported by a judicial warrant or judicial order authorizing such civil arrest.",
  "LawSection":"Civil Rights Law","LawCode":"Add §29, Civ Rts L",

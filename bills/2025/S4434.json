@@ -1,9 +1,9 @@
 {
  "PrintNo":"S4434","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T16:38:20.727732Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-02-24"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-17"}
+  {"Type":"PASSED_SENATE","Date":"2025-03-17"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-17","Committee":"Education"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-02-04","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-17","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-03-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

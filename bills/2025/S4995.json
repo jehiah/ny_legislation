@@ -1,8 +1,34 @@
 {
  "PrintNo":"S4995","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T16:15:38.969938Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-14","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-14","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.516","Date":"2025-03-11","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-12","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-11","Chamber":"SENATE","Committee":"Environmental Conservation",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
@@ -12,5 +38,5 @@
  "Summary":"Directs DEC to designate a representative for each environmental conservation region of the state to serve as the point of contact for municipalities to aid in the acquisition of resources and funding for water projects.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §15-1109, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to designating water development representatives for each environmental region of the state",
- "PreviousVersions":["S4814-2023"]
+ "SameAsPrintNo":"A6665-2025","PreviousVersions":["S4814-2023"]
 }

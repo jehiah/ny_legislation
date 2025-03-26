@@ -2,12 +2,37 @@
  "PrintNo":"A2447","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T12:17:17.767912Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-17","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-17","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-03-25","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"},{"ID":1244,"Short":"FALL","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1528,"Name":"Lester Chang","Short":"CHANG"},
-  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
+  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
  ],
  "Title":"Requires utilities to notify property owners prior to beginning certain services",
  "Summary":"Requires utilities to notify property owners prior to beginning any non-emergency construction or other work that may interfere with a property owner's ability to use, or access such owner's property; requires notice to include, but not limited to, a description of the work to be performed, the expected duration of such work, the location of such work, any road closures or detours that may occur due to such work, any action that may directly and materially impact the use of such property, and the contact information for the utility performing such work. Such notice may include electronic communications, signage, and written materials; exempts cases where a natural or man-made disaster or state of emergency occurs.",

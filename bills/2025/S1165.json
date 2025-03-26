@@ -1,15 +1,36 @@
 {
  "PrintNo":"S1165","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T11:38:49.033286Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Civil Service And Pensions"}],
+ "Published":"2025-01-08T11:38:49.033286Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-03-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-11","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 1165A","Date":"2025-02-11","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 1165A","Date":"2025-02-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.554","Date":"2025-03-18","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-03-18","Version":"A","Chamber":"SENATE","Committee":"Civil Service And Pensions",
+   "Votes":[
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
-  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
+  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}
  ],
  "Title":"Enacts the \"Ignazio Giacalone act\" to provide additional credits to children and siblings of deceased New York city sanitation members",
  "Summary":"Provides additional credits to children and siblings of New York city sanitation members who died in the performance of duty as the natural and proximate result of the World Trade Center attack on September 11, 2001.",
