@@ -1,13 +1,15 @@
 {
- "PrintNo":"A808","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A808","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-06T16:12:19.91289Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-24","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-27","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-07","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 808A","Date":"2025-03-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 808B","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 808B","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 808C","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
@@ -25,7 +27,8 @@
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"}
  ],
  "Title":"Establishes a drug checking program",
- "Summary":"Establishes through the department of health a drug checking services program to allow individuals to bring drugs or controlled substances and have them tested for contaminants, toxic substances, or hazardous compounds; requires the department to establish public health surveillance of the unregulated drug supply; exempts individuals participating in the drug checking program from certain controlled substance offenses.",
+ "Summary":"Establishes through the department of health a drug checking services program to allow individuals to bring drugs or controlled substances and have them tested for contaminants, toxic substances, or hazardous compounds; requires the department to establish public health surveillance of the unregulated drug supply; provides exemptions for participants in the drug checking program from certain controlled substance offenses.",
  "LawSection":"Public Health Law","LawCode":"Add §507, amd §3305, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to establishing a drug checking program including requirements for enhanced drug checking service delivery and public health surveillance"
+ "ActClause":"AN ACT to amend the public health law, in relation to establishing a drug checking program including requirements for enhanced drug checking service delivery and public health surveillance",
+ "SameAsPrintNo":"S56-2025"
 }
