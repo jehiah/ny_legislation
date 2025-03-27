@@ -1,8 +1,12 @@
 {
- "PrintNo":"S4646","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-10T14:33:52.005585Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-10","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-10","Chamber":"SENATE"}],
+ "PrintNo":"S4646","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-10T14:33:52.005585Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-10","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4646A","Date":"2025-03-27","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},
   {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
@@ -10,7 +14,7 @@
  ],
  "Title":"Relates to multiple violations of the highway construction or maintenance work area photo speed violation monitoring system",
  "Summary":"Suspends the registration of vehicles which have been documented multiple times by a photo speed violation monitoring system for speeding in a highway construction or maintenance work area.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §1180-e, V & T L",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§510, 1180-e & 514, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to suspending the registration of vehicles which have been documented multiple times by a photo speed violation monitoring system for speeding in a highway construction or maintenance work area",
  "SameAsPrintNo":"A4011-2025"
 }
