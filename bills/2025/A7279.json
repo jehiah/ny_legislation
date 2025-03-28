@@ -1,10 +1,14 @@
 {
  "PrintNo":"A7279","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-21T15:08:24.081661Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Tourism, Parks, Arts And Sports Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-21","Committee":"Tourism, Parks, Arts And Sports Development"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-21","Committee":"Tourism, Parks, Arts And Sports Development"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-03-21","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.81","Date":"2025-03-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -27,7 +31,7 @@
  "Sponsors":[
   {"ID":659,"Name":"Ron Kim","Short":"KIM"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
   {"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"},
-  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"}
+  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"}
  ],
  "Title":"Relates to the development and posting of a senior trail guide",
  "Summary":"Relates to the development and posting of a senior trail guide that identifies walking and hiking opportunities for active seniors within the state park system and along public non-motorized multi-use trails within the state.",

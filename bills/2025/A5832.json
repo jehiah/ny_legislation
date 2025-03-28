@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5832","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-20T15:24:01.697728Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-20","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-20","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5832","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-20T15:24:01.697728Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-28","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5832A","Date":"2025-03-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
@@ -10,11 +14,11 @@
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
-  {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"}
+  {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"}
  ],
  "Title":"Enacts the \"PFAS discharge disclosure act\"",
  "Summary":"Enacts the \"PFAS discharge disclosure act\"; requires certain SPDES permit holders to conduct PFAS monitoring and disclose the results from such monitoring.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §17-0833, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to enacting the \"PFAS discharge disclosure act\"",
- "PreviousVersions":["S9525-2021","A3296-2023"]
+ "SameAsPrintNo":"S4574-2025","PreviousVersions":["S9525-2021","A3296-2023"]
 }

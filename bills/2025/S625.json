@@ -1,10 +1,12 @@
 {
- "PrintNo":"S625","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T10:07:16.634865Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Finance"}],
+ "PrintNo":"S625","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-03T10:07:16.634865Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-03","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-03-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 625A","Date":"2025-03-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -25,5 +27,5 @@
  "Summary":"Relates to the timing of annual tax elections and the amount of the required installments.",
  "LawSection":"Tax Law","LawCode":"Amd §§861, 864, 868 & 871, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to the timing of annual tax elections",
- "PreviousVersions":["S8115-2023"]
+ "SameAsPrintNo":"A1989-2025","PreviousVersions":["A8451-2023","A1989-2025"]
 }

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A472","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:07:19.488366Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A472","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T12:07:19.488366Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-28","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 472A","Date":"2025-03-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
   {"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},
@@ -55,5 +59,5 @@
  "Summary":"Establishes the clean fuel standard of 2025; provides such standard is intended to reduce greenhouse gas intensity from the on-road transportation sector, with further reductions to be implemented based upon advances in technology.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §19-0333, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to establishing the \"clean fuel standard of 2025\"",
- "PreviousVersions":["A5262-2019","A862-2021","A964-2023"]
+ "SameAsPrintNo":"S1343-2025","PreviousVersions":["A5262-2019","A862-2021","A964-2023"]
 }
