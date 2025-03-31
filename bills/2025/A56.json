@@ -1,11 +1,12 @@
 {
- "PrintNo":"A56","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-18T15:28:38.48253Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Housing"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-13"}],
+ "PrintNo":"A56","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-18T15:28:38.48253Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Housing"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-25"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-11","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.11","Date":"2025-02-13","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.11","Date":"2025-02-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 56A","Date":"2025-03-25","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,7 +36,9 @@
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
-  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
+  {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
+  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
  ],
  "Title":"Prohibits residential landlords from charging tenants a fee for a dishonored rent check in excess of the actual costs or fees incurred by such landlord as a result thereof",
  "Summary":"Prohibits residential landlords from charging tenants a fee for a dishonored rent check in excess of the actual costs or fees incurred by such landlord as a result thereof, provided such dishonored check fee was included in the initial lease.",

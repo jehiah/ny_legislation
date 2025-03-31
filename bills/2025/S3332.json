@@ -1,12 +1,16 @@
 {
- "PrintNo":"S3332","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T16:20:50.129638Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-01-24","Chamber":"SENATE"}],
+ "PrintNo":"S3332","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T16:20:50.129638Z","Status":"IN_SENATE_COMM","Committee":"Banks",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-31","Committee":"Banks"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-01-24","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2025-03-31","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3332A","Date":"2025-03-31","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Provides for income access services in the state",
  "Summary":"Provides for the licensing and regulation of income access services in the state.",
- "LawSection":"Banking Law","LawCode":"Add Art 9-B §§374-aa - 374-mm, amd §§36, 37, 39 & 44, Bank L",
+ "LawSection":"Banking Law","LawCode":"Add Art 9-B §§374-aa - 374-nn, amd §§36, 37, 39 & 44, Bank L",
  "ActClause":"AN ACT to amend the banking law, in relation to providing for income access services in the state",
- "SameAsPrintNo":"A258-2025","PreviousVersions":["S6778-2021","S916-2023"]
+ "PreviousVersions":["S6778-2021","S916-2023"]
 }

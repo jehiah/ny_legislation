@@ -1,13 +1,21 @@
 {
- "PrintNo":"S1399","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T13:52:17.613433Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-09","Chamber":"SENATE"}],
+ "PrintNo":"S1399","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T13:52:17.613433Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-31","Committee":"Housing, Construction And Community Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-09","Chamber":"SENATE"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-31",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 1399A","Date":"2025-03-31","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],
- "Title":"Establishes the rental improvement fund pilot program to provide capital grants to small landlords to renovate rental units in certain cities",
- "Summary":"Establishes the rental improvement fund pilot program to provide capital grants to small landlords to renovate rental units in certain cities; creates the rental improvement fund.",
+ "Title":"Establishes the vacant rental improvement program",
+ "Summary":"Establishes the vacant rental improvement program to provide grants of up to $75,000 per unit to owners of buildings with five or fewer units.",
  "LawSection":"Private Housing Finance Law",
  "LawCode":"Add Art 33 §§1300 & 1301, Priv Hous Fin L; add §99-ss, St Fin L",
- "ActClause":"AN ACT to amend the private housing finance law and the state finance law, in relation to establishing the rental improvement fund pilot program",
+ "ActClause":"AN ACT to amend the private housing finance law and the state finance law, in relation to establishing the vacant rental improvement program",
  "PreviousVersions":["S8591-2023"]
 }

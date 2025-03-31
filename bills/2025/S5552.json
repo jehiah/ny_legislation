@@ -1,13 +1,17 @@
 {
- "PrintNo":"S5552","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-24T15:18:01.877164Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-24","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2025-02-24","Chamber":"SENATE"}],
+ "PrintNo":"S5552","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-24T15:18:01.877164Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-31","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2025-02-24","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-03-31","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5552A","Date":"2025-03-31","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
  "Title":"Establishes the green accessible transition authority and establishes a for-hire vehicle improvement surcharge; appropriation",
  "Summary":"Establishes the green accessible transition authority to promote the transition of the for-hire vehicle and other state industries to environmentally sustainable practices and increase universal accessibility of for-hire vehicles, paratransit services, and taxi services statewide; establishes a for-hire vehicle improvement surcharge for each for-hire transportation trip conducted in a transportation network company vehicle or by a high-volume for-hire service; makes an appropriation therefor.",
  "LawSection":"Appropriations",
  "LawCode":"Add Art 8 Title 7 §§1750 - 1766, Pub Auth L; add Art 29-E §§1299-aa - 1299-ff, Tax L",
  "ActClause":"AN ACT to amend the public authorities law, in relation to establishing the green accessible transition authority; to amend the tax law, in relation to establishing a for-hire vehicle improvement surcharge; and making an appropriation therefor",
- "SameAsPrintNo":"A6635-2025","PreviousVersions":["S9528-2023"]
+ "PreviousVersions":["S9528-2023"]
 }
