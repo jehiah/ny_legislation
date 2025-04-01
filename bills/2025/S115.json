@@ -1,10 +1,9 @@
 {
- "PrintNo":"S115","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-18T15:23:50.808691Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Tourism, Parks, Arts And Sports Development",
+ "PrintNo":"S115","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-18T15:23:50.808691Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-10"},{"Type":"PASSED_SENATE","Date":"2025-03-03"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-03","Committee":"Tourism, Parks, Arts And Sports Development"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -14,7 +13,10 @@
   {"Text":"PASSED SENATE","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-03-03","Chamber":"ASSEMBLY"},
-  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-03-31","Chamber":"SENATE"}
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-03-31","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 115A","Date":"2025-04-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -109,5 +111,5 @@
  "Summary":"Increases access to resources for culturally diverse arts and culture organizations that advocate for diversity, equity and inclusion, racial and social justice, and cultural preservation.",
  "LawSection":"Arts and Cultural Affairs Law","LawCode":"Amd §§3.01, 3.03, 3.05 & 3.11, Arts & Cul L",
  "ActClause":"AN ACT to amend the arts and cultural affairs law, in relation to increasing access to resources for culturally diverse arts and culture organizations that advocate for diversity, equity and inclusion, racial and social justice, and cultural preservation",
- "PreviousVersions":["S5714-2023"]
+ "SameAsPrintNo":"A2607-2025","PreviousVersions":["S5714-2023"]
 }

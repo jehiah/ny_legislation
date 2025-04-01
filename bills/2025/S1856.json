@@ -1,11 +1,15 @@
 {
- "PrintNo":"S1856","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T10:14:29.982592Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Crime Victims, Crime And Correction"}],
- "Actions":[{"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-14","Chamber":"SENATE"}],
+ "PrintNo":"S1856","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-14T10:14:29.982592Z","Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Crime Victims, Crime And Correction"}],
+ "Actions":[
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-14","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1856A","Date":"2025-04-01","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
  "Title":"Relates to prohibiting county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility",
- "Summary":"Prohibits county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility, but corrections officers or staff may dispense or administer medications used for the emergency treatment of known or suspected opioid overdose.",
+ "Summary":"Prohibits county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility; provides that corrections officers or staff may dispense or administer medications during a medical emergency.",
  "LawSection":"Correction Law","LawCode":"Amd §505, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to prohibiting county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility",
  "SameAsPrintNo":"A3565-2025","PreviousVersions":["S7719-2023"]

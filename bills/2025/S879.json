@@ -1,12 +1,13 @@
 {
- "PrintNo":"S879","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T14:45:06.507178Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"}],
+ "PrintNo":"S879","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-06T14:45:06.507178Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-04-01"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.479","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-05","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 879A","Date":"2025-04-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,5 +30,5 @@
  "Summary":"Establishes the \"garden protection act\", protecting the rights of individuals to cultivate home vegetable gardens, native plant gardens, and/or pollinator gardens.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd Art 2-C Art Head, §31-g, add §31-k, Ag & Mkts L",
  "ActClause":"AN ACT to amend the agriculture and markets law, in relation to establishing the \"garden protection act\"",
- "SameAsPrintNo":"A2122-2025","PreviousVersions":["S9928-2023"]
+ "PreviousVersions":["S9928-2023"]
 }

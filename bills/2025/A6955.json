@@ -1,8 +1,12 @@
 {
- "PrintNo":"A6955","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:17:54.414578Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-03-18","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6955","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-18T13:17:54.414578Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2025-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6955A","Date":"2025-04-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},{"ID":1244,"Name":"Charles Fall","Short":"FALL"},
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":500,"Name":"William Colton","Short":"COLTON"},

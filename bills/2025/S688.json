@@ -1,16 +1,18 @@
 {
  "PrintNo":"S688","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-03T14:22:07.701196Z","Status":"SENATE_FLOOR",
+ "Published":"2025-01-03T14:22:07.701196Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-10"},{"Type":"PASSED_SENATE","Date":"2025-04-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.373","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING (T) 688A","Date":"2025-03-10","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING (T) 688A","Date":"2025-03-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-04-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,8 +31,11 @@
  "Sponsors":[
   {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
+  {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
   {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
-  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Relates to the real property tax exemption for surviving spouses of volunteer firefighters or volunteer ambulance workers killed in the line of duty",
  "Summary":"Amends the real property tax exemption for surviving spouses of volunteer firefighters or volunteer ambulance workers killed in the line of duty to permit continuation of such exemption for volunteer members with service between two and five years.",

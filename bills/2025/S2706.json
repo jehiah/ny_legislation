@@ -1,15 +1,16 @@
 {
- "PrintNo":"S2706","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T15:46:12.459043Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S2706","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-22T15:46:12.459043Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-24"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.327","Date":"2025-02-11","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 2706A","Date":"2025-04-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -37,10 +38,10 @@
   {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
  ],
- "Title":"Prohibits the use of drilling fluids and flowback water from wells, pools or fields on any highway",
- "Summary":"Prohibits the use of drilling fluids and flowback water from wells, pools or fields on any highway for any purpose including but not limited to de-icing or dust suppression.",
+ "Title":"Prohibits the use of drilling fluids, brine and flowback water from wells, pools or fields on any highway",
+ "Summary":"Prohibits the use of drilling fluids, brine and flowback water from wells, pools or fields on any highway for any purpose including but not limited to de-icing or dust suppression.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §23-0305, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the use of drilling fluids and flowback water from wells, pools or fields on any highway",
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the use of drilling fluids, brine and flowback water from wells, pools or fields on any highway",
  "SameAsPrintNo":"A4725-2025",
  "PreviousVersions":["S3333-2013","S48-2015","S575-2017","S1858-2019","S355-2021","S1538-2023"]
 }

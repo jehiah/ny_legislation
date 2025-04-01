@@ -1,11 +1,13 @@
 {
- "PrintNo":"A3565","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A3565","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-28T14:00:59.696607Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-26","Committee":"Correction"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-31","Committee":"Correction"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-28","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2025-03-26","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 3565A","Date":"2025-03-26","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 3565A","Date":"2025-03-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2025-03-31","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 3565B","Date":"2025-03-31","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
@@ -13,8 +15,8 @@
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
  ],
  "Title":"Relates to prohibiting county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility",
- "Summary":"Prohibits county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility, but corrections officers or staff may dispense or administer medications used for the emergency treatment of known or suspected opioid overdose.",
+ "Summary":"Prohibits county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility; provides that corrections officers or staff may dispense or administer medications during a medical emergency.",
  "LawSection":"Correction Law","LawCode":"Amd §505, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to prohibiting county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility",
- "PreviousVersions":["A9703-2023"]
+ "SameAsPrintNo":"S1856-2025","PreviousVersions":["A9703-2023"]
 }

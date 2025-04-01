@@ -1,10 +1,18 @@
 {
  "PrintNo":"A6768","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-13T12:26:22.452887Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-13","Committee":"Corporations, Authorities And Commissions"}],
+ "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-13","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-27"},{"Type":"PASSED_ASSEMBLY","Date":"2025-04-01"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Energy And Telecommunications"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-13","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.80","Date":"2025-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-04-01","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -27,7 +35,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"}],
+ "Sponsors":[{"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Relates to requiring the display of a notice of responsibilities to protect underground facilities",
  "Summary":"Provides any entity which leases excavation equipment to the public with the telephone number of the system and a sample or model notice informing lessees of excavation equipment of the system and their responsibilities relating to the protection of underground facilities.",
  "LawSection":"Public Service Law","LawCode":"Amd §119-b, Pub Serv L; amd §761, Gen Bus L",

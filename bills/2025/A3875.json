@@ -1,11 +1,13 @@
 {
  "PrintNo":"A3875","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T11:58:41.701871Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Codes"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-27"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-11","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.74","Date":"2025-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S3876","Date":"2025-04-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2119","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:19:28.809237Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Correction"}],
- "Actions":[{"Text":"REFERRED TO CORRECTION","Date":"2025-01-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2119","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:19:28.809237Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-28","Committee":"Correction"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORRECTION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2025-03-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2119A","Date":"2025-03-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
@@ -21,8 +25,8 @@
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}
  ],
  "Title":"Expands who may visit local correctional facilities",
- "Summary":"Expands who may visit local correctional facilities to include accompanying staff of legislative members and members of the department of corrections and community supervision requested by a legislative member.",
+ "Summary":"Expands who may visit local correctional facilities to include persons and accompanying staff of the chief executive officer of a county, members of a county legislative body, mayor of the city of New York, New York city public advocate, New York city comptroller, and members of the New York city council.",
  "LawSection":"Correction Law","LawCode":"Amd §500-j, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to who may visit local correctional facilities",
- "PreviousVersions":["S9580-2021","A6487-2023"]
+ "SameAsPrintNo":"S1892-2025","PreviousVersions":["S9580-2021","A6487-2023"]
 }

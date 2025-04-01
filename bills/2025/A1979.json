@@ -1,10 +1,15 @@
 {
  "PrintNo":"A1979","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T12:23:05.436978Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Governmental Employees"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Governmental Employees"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.72","Date":"2025-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S1724","Date":"2025-04-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

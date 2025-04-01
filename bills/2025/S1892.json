@@ -1,16 +1,17 @@
 {
- "PrintNo":"S1892","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S1892","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-14T11:02:49.816181Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-24"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.260","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-10","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING 1892A","Date":"2025-03-24","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 1892A","Date":"2025-03-24","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 1892B","Date":"2025-04-01","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -28,8 +29,8 @@
  ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Expands who may visit local correctional facilities",
- "Summary":"Expands who may visit local correctional facilities to include accompanying staff of legislative members and members of the department of corrections and community supervision requested by a legislative member.",
+ "Summary":"Expands who may visit local correctional facilities to include persons and accompanying staff of the chief executive officer of a county, members of a county legislative body, mayor of the city of New York, New York city public advocate, New York city comptroller, and members of the New York city council.",
  "LawSection":"Correction Law","LawCode":"Amd §500-j, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to who may visit local correctional facilities",
- "PreviousVersions":["S9580-2021","S181-2023"]
+ "SameAsPrintNo":"A2119-2025","PreviousVersions":["S9580-2021","S181-2023"]
 }

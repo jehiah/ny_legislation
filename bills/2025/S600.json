@@ -1,15 +1,16 @@
 {
- "PrintNo":"S600","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T15:33:46.338082Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S600","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T15:33:46.338082Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-20"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.563","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 600A","Date":"2025-04-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -31,5 +32,5 @@
  "LawSection":"General Municipal Law",
  "LawCode":"Amd §239-c, Gen Muni L; amd §§27 & 81, Gen City L; amd §§267 & 271, Town L; amd §§7-712 & 7-718, Vil L",
  "ActClause":"AN ACT to amend the general municipal law, the general city law, the town law, and the village law, in relation to requiring certain municipal planning boards and zoning boards of appeals to receive environmentally conscious planning training",
- "SameAsPrintNo":"A476-2025","PreviousVersions":["S8931-2023"]
+ "PreviousVersions":["S8931-2023"]
 }

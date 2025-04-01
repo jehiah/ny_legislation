@@ -1,11 +1,12 @@
 {
- "PrintNo":"A3404","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T11:18:06.036551Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"}],
+ "PrintNo":"A3404","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-27T11:18:06.036551Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-01"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-24","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.39","Date":"2025-02-27","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.39","Date":"2025-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 3404A","Date":"2025-04-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -41,5 +42,5 @@
  "Summary":"Requires hospitals to permit an interpreter to remain with a deaf, hard of hearing or nonverbal patient during admission to a hospital until appropriate hospital staff is assigned to interpret.",
  "LawSection":"Public Health Law","LawCode":"Amd §2805-r, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to treatment of deaf, hard of hearing and nonverbal individuals during admission to a hospital",
- "PreviousVersions":["A10328-2023"]
+ "SameAsPrintNo":"S6223-2025","PreviousVersions":["A10328-2023"]
 }

@@ -1,15 +1,17 @@
 {
  "PrintNo":"S190","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-20T09:04:07.224554Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-20"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-20"},{"Type":"PASSED_SENATE","Date":"2025-04-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.562","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-01","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -28,9 +30,11 @@
  "Sponsors":[
   {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
-  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
+  {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Establishes the payment of certain volunteer firefighter and volunteer ambulance worker death benefits shall be within ninety days of the filing of application to receive such death benefit",
  "Summary":"Establishes the payment of certain volunteer firefighter and volunteer ambulance worker death benefits shall be within ninety days of the filing of application to receive such death benefit.",

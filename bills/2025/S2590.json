@@ -1,12 +1,17 @@
 {
  "PrintNo":"S2590","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:21:51.60373Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
+  {"Type":"PASSED_SENATE","Date":"2025-04-01"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.451","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-05","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-01","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -30,7 +35,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Sponsors":[
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+ ],
  "Title":"Requires nonpublic schools provide and maintain on-site automatic external defibrillators on school grounds",
  "Summary":"Requires nonpublic schools provide and maintain on-site automatic external defibrillator (AED) equipment on school grounds and assure that AED equipment is available for off-site curricular events, extracurricular events or school-sponsored athletic events.",
  "LawSection":"Education Law","LawCode":"Add §917-a, Ed L",

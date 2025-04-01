@@ -1,15 +1,17 @@
 {
  "PrintNo":"S1787","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T15:14:50.036669Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-05"}
+  {"Type":"SENATE_FLOOR","Date":"2025-02-05"},{"Type":"PASSED_SENATE","Date":"2025-04-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.245","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-04","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-05","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-01","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -27,10 +29,13 @@
  ],
  "Sponsors":[
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
-  {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
-  {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
-  {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},
+  {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
+  {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
+  {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1518,"Name":"William Weber","Short":"WEBER"},
   {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
  "Title":"Relates to a state flag for raising awareness of veteran suicide",

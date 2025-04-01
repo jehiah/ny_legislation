@@ -1,8 +1,12 @@
 {
- "PrintNo":"A3698","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T10:48:27.354616Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Real Property Taxation"}],
- "Actions":[{"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3698","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T10:48:27.354616Z","Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-27","Committee":"Real Property Taxation"}],
+ "Actions":[
+  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2025-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3698A","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},

@@ -1,12 +1,16 @@
 {
- "PrintNo":"A4899","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-10T13:32:49.888375Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-10","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-10","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4899","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-10T13:32:49.888375Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-10","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4899A","Date":"2025-04-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}],
  "Title":"Requires a lethality assessment in incidents of domestic violence",
  "Summary":"Requires law enforcement officers to conduct a lethality assessment as part of the standardized domestic incident report form when responding to incidents of domestic violence.",
  "LawSection":"Executive Law","LawCode":"Amd §§646, 837, 214-b & 840, Exec L; amd §654-a, Gen Bus L",
  "ActClause":"AN ACT to amend the executive law and the general business law, in relation to requiring a lethality assessment in incidents of domestic violence",
- "SameAsPrintNo":"S2280-2025","PreviousVersions":["A9892-2023"]
+ "PreviousVersions":["A9892-2023"]
 }

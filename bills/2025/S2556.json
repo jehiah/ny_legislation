@@ -1,15 +1,17 @@
 {
  "PrintNo":"S2556","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T15:14:26.959826Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-04"}
+  {"Type":"SENATE_FLOOR","Date":"2025-02-04"},{"Type":"PASSED_SENATE","Date":"2025-04-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.201","Date":"2025-01-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-03","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-04","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-04","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-01","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -26,7 +28,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
+ "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Relates to disposals and contracts for disposal of property",
  "Summary":"Provides for requirements for disposals and contracts for disposal of property.",
  "LawSection":"Public Authorities Law","LawCode":"Amd §2897, Pub Auth L",

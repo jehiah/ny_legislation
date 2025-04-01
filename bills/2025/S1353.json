@@ -1,10 +1,12 @@
 {
- "PrintNo":"S1353","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T11:37:27.913768Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-28","Committee":"Judiciary"}],
+ "PrintNo":"S1353","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T11:37:27.913768Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-09","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO JUDICIARY","Date":"2025-01-28","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO JUDICIARY","Date":"2025-01-28","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1353A","Date":"2025-04-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,5 +32,5 @@
  "Summary":"Prohibits creditors from enforcing a consumer debt incurred as a result of fraud, duress, intimidation, threat, force, identity theft, exploitation of the debtor's personal information or similar economic abuse perpetrated against a debtor; establishes a right of action by the debtor for relief against creditors for violations; makes related provisions.",
  "LawSection":"General Business Law","LawCode":"Add Art 29-HHH §§604-aa - 604-cc, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to establishing a right of action for claims arising out of coerced debts",
- "PreviousVersions":["A10667-2021","S2278-2023"]
+ "SameAsPrintNo":"A3038-2025","PreviousVersions":["A10667-2021","S2278-2023"]
 }
