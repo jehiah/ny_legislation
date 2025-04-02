@@ -1,9 +1,27 @@
 {
- "PrintNo":"A5835","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-21T16:27:59.286671Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Libraries And Education Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-21","Committee":"Libraries And Education Technology"}],
- "Actions":[{"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-02-21","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"}],
+ "PrintNo":"A5835","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-21T16:27:59.286671Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-02-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5835A","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-04-02","Chamber":"ASSEMBLY",
+   "Committee":"LIBRARIES AND EDUCATION TECHNOLOGY",
+   "Votes":[
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}],
  "Title":"Establishes the libraries literacy education guidance act",
  "Summary":"Directs the state librarian to provide guidance regarding evidence-based practices for literacy education to certain libraries.",
  "LawSection":"Education Law","LawCode":"Add §286, Ed L",

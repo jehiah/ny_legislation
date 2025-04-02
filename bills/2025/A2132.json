@@ -1,11 +1,27 @@
 {
  "PrintNo":"A2132","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-15T15:25:53.007344Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-28","Committee":"Correction"}],
+ "Published":"2025-01-15T15:25:53.007344Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2025-03-28","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2132A","Date":"2025-03-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2132A","Date":"2025-03-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-04-02","Chamber":"ASSEMBLY",
+   "Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},

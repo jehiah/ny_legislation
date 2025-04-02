@@ -1,12 +1,14 @@
 {
- "PrintNo":"S598","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S598","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-02T15:32:48.554856Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Finance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-02-13","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 598A","Date":"2025-02-13","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 598A","Date":"2025-02-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-04-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 598B","Date":"2025-04-02","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -36,8 +38,8 @@
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
  ],
  "Title":"Establishes a state frontotemporal degeneration registry",
- "Summary":"Establishes a state frontotemporal degeneration registry; designates frontotemporal degeneration and related dementias as diseases required to be reported in the state; establishes a frontotemporal degeneration registry advisory committee to assist in the development and implementation of the registry; allows a patient to opt out of participation in the registry; requires annual reports to the legislature and governor on the incidents and prevalence of frontotemporal degeneration in the state by county; requires the department of health to create and maintain a webpage.",
- "LawSection":"Public Health Law","LawCode":"Add Art 2 Title 9 §§269-a - 269-d, Pub Health L",
+ "Summary":"Establishes a state frontotemporal degeneration registry; defines terms; requires every physician, nurse practitioner, nurse physician assistant and general hospital that diagnoses or is treating a patient diagnosed with an FTD disorder to give notice to the department; requires certain information to be confidential; sets forth the duties of the commissioner of health; requires the department of health to create and maintain a webpage.",
+ "LawSection":"Public Health Law","LawCode":"Add Art 20-C §§2015 - 2019, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to establishing a state frontotemporal degeneration registry",
- "PreviousVersions":["S7874-2023"]
+ "SameAsPrintNo":"A1985-2025","PreviousVersions":["S7874-2023"]
 }

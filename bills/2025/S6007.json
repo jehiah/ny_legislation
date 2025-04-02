@@ -1,12 +1,16 @@
 {
- "PrintNo":"S6007","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-25T16:08:13.263652Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-04","Chamber":"SENATE"}],
+ "PrintNo":"S6007","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-25T16:08:13.263652Z","Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Procurement And Contracts"}],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO PROCUREMENT AND CONTRACTS","Date":"2025-04-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6007A","Date":"2025-04-02","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1552,"Name":"April Baskin","Short":"BASKIN"}],
  "Title":"Exempts certain business enterprise subcontractors who seek to do work with not-for-profit corporations from certain requirements",
  "Summary":"Authorizes certain business enterprise subcontractors who seek to do work with not-for-profit corporations to receive MWBE certification if certain criteria is met; imposes a $50,001 limit on the provision of such services or work; makes related provisions.",
  "LawSection":"Executive Law","LawCode":"Amd §314, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to exempting certain business enterprise subcontractors who seek to do work with not-for-profit corporations from certain requirements",
- "SameAsPrintNo":"A5348-2025","PreviousVersions":["S6566-2023"]
+ "PreviousVersions":["S6566-2023"]
 }

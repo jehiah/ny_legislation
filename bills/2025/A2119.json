@@ -5,7 +5,22 @@
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2025-03-28","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2119A","Date":"2025-03-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2119A","Date":"2025-03-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-04-02","Chamber":"ASSEMBLY","Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},

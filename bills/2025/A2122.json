@@ -1,10 +1,12 @@
 {
- "PrintNo":"A2122","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:20:23.156989Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Aging"}],
+ "PrintNo":"A2122","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:20:23.156989Z","Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Agriculture"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-01-15","Chamber":"ASSEMBLY"},
-  {"Text":"REFERENCE CHANGED TO AGRICULTURE","Date":"2025-01-29","Chamber":"ASSEMBLY"}
+  {"Text":"REFERENCE CHANGED TO AGRICULTURE","Date":"2025-01-29","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO AGRICULTURE","Date":"2025-04-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2122A","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}],"Title":"Establishes the garden protection act",
  "Summary":"Establishes the \"garden protection act\", protecting the rights of individuals to cultivate home vegetable gardens, native plant gardens, and/or pollinator gardens.",

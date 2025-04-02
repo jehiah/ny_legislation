@@ -1,14 +1,16 @@
 {
- "PrintNo":"A1985","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-14T12:31:42.918612Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Codes"}],
+ "PrintNo":"A1985","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T12:31:42.918612Z","Status":"IN_ASSEMBLY_COMM","Committee":"People With Disabilities",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"People With Disabilities"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-14","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-02-12","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 1985A","Date":"2025-02-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-14","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 1985B","Date":"2025-03-14","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-18","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-18","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO PEOPLE WITH DISABILITIES","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 1985C","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -39,5 +41,5 @@
  "Summary":"Establishes a state frontotemporal degeneration registry; defines terms; requires every physician, nurse practitioner, nurse physician assistant and general hospital that diagnoses or is treating a patient diagnosed with an FTD disorder to give notice to the department; requires certain information to be confidential; sets forth the duties of the commissioner of health; requires the department of health to create and maintain a webpage.",
  "LawSection":"Public Health Law","LawCode":"Add Art 20-C §§2015 - 2019, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to establishing a state frontotemporal degeneration registry",
- "PreviousVersions":["A9938-2023"]
+ "SameAsPrintNo":"S598-2025","PreviousVersions":["A9938-2023"]
 }

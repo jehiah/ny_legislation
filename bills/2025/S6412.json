@@ -1,11 +1,15 @@
 {
- "PrintNo":"S6412","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-13T11:11:22.73525Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-13","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-13","Chamber":"SENATE"}],
+ "PrintNo":"S6412","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-13T11:11:22.73525Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Energy And Telecommunications"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6412A","Date":"2025-04-01","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA"}],
  "Title":"Enacts the \"ratepayer disclosure and transparency act\"",
- "Summary":"Enacts the \"ratepayer disclosure and transparency act\" which requires an annual report that includes the estimated or actual ratepayer costs and benefits of any mandated state energy program to the governor and legislature including any New York climate leadership and community protection act compliance costs.",
+ "Summary":"Enacts the \"ratepayer disclosure and transparency act\" which requires a monthly report that includes the estimated or actual ratepayer costs and benefits of any mandated state energy program to the governor and legislature including any New York climate leadership and community protection act compliance costs.",
  "LawSection":"Public Service Law","LawCode":"Add §28, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to enacting the \"ratepayer disclosure and transparency act\"",
  "SameAsPrintNo":"A6152-2025","PreviousVersions":["A6892-2015","A4408-2017","A4163-2019","A5518-2021","A7263-2023"]
