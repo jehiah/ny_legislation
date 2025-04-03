@@ -1,12 +1,17 @@
 {
  "PrintNo":"S4132","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T09:53:45.7091Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"},
+  {"Type":"PASSED_SENATE","Date":"2025-04-03"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.530","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-12","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-03","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-03","Chamber":"SENATE"}
  ],
  "Votes":[
   {

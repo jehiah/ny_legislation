@@ -1,15 +1,17 @@
 {
  "PrintNo":"S4995","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T16:15:38.969938Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-13"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-13"},{"Type":"PASSED_SENATE","Date":"2025-04-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.516","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-12","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-03","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-03","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -32,7 +34,8 @@
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
-  {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}
+  {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Designates water development representatives for each environmental region of the state",
  "Summary":"Directs DEC to designate a representative for each environmental conservation region of the state to serve as the point of contact for municipalities to aid in the acquisition of resources and funding for water projects.",

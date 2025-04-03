@@ -1,15 +1,17 @@
 {
  "PrintNo":"S3260","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T13:24:07.138343Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-20"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-20"},{"Type":"PASSED_SENATE","Date":"2025-04-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.579","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-03","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-03","Chamber":"SENATE"}
  ],
  "Votes":[
   {

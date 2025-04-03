@@ -1,8 +1,12 @@
 {
- "PrintNo":"S1228","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T14:49:39.65632Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S1228","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T14:49:39.65632Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-03","Committee":"Consumer Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-04-03","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1228A","Date":"2025-04-03","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"}],
  "Title":"Relates to requiring advertisements to disclose the use of a synthetic performer",
  "Summary":"Requires advertisements to disclose the use of a synthetic performer; imposes a $1,000 civil penalty for a first violation and a $5,000 penalty for any subsequent violation.",

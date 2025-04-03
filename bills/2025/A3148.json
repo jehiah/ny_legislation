@@ -1,18 +1,23 @@
 {
- "PrintNo":"A3148","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-23T14:11:10.284867Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-23","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-23","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3148","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-23T14:11:10.284867Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-31","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3148A","Date":"2025-03-31","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
-  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"}
  ],
  "Title":"Relates to cost sharing fees for outpatient treatment at a substance use treatment program",
- "Summary":"Provides that for a substance use disorder outpatient treatment episode of care by a provider licensed, certified or otherwise authorized by the office of addiction services and supports, an insured shall only be responsible for a cost sharing fee not to exceed five hundred dollars.",
+ "Summary":"Provides that for a substance use disorder outpatient treatment episode of care by a provider licensed, certified or otherwise authorized by the office of addiction services and supports, an insured shall only be responsible for a cost sharing fee not to exceed two hundred fifty dollars.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to certain cost sharing fees for outpatient treatment at a substance use treatment program",
- "PreviousVersions":["A9341-2023"]
+ "SameAsPrintNo":"S1763-2025","PreviousVersions":["A9341-2023"]
 }
