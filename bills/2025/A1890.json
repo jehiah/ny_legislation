@@ -1,12 +1,38 @@
 {
  "PrintNo":"A1890","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T11:20:41.34911Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Housing"}],
- "Actions":[{"Text":"REFERRED TO HOUSING","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Housing"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-03"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.89","Date":"2025-04-03","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-04-02","Chamber":"ASSEMBLY","Committee":"HOUSING",
+   "Votes":[
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1528,"Short":"CHANG","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},
+    {"ID":1461,"Short":"BROWN K","Vote":"Nay"},{"ID":0,"Short":"BROWN EA","Vote":"Nay"},
+    {"ID":1540,"Short":"MAHER","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1482,"Short":"KELLES","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
-  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"}
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
  "Title":"Enacts the low impact landscaping rights act",
  "Summary":"Enacts the low impact landscaping rights act, preventing homeowners' associations from adopting or enforcing any rules or regulations that would effectively prohibit, or impose unreasonable limitations on, the installation or maintenance of low impact landscaping.",

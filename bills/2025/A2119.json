@@ -1,12 +1,16 @@
 {
  "PrintNo":"A2119","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-15T15:19:28.809237Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-28","Committee":"Correction"}],
+ "Published":"2025-01-15T15:19:28.809237Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-28","Committee":"Correction"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-03"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2025-03-28","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 2119A","Date":"2025-03-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.90","Date":"2025-04-03","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

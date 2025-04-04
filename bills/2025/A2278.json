@@ -1,10 +1,14 @@
 {
  "PrintNo":"A2278","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T10:48:48.057478Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Higher Education"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Higher Education"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-03"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-16","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.91","Date":"2025-04-03","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,12 +1,16 @@
 {
  "PrintNo":"A6581","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:52:49.560432Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-27","Committee":"Environmental Conservation"}],
+ "Published":"2025-03-06T14:52:49.560432Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-27","Committee":"Environmental Conservation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-03"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-27","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6581A","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.94","Date":"2025-04-03","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,7 +34,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
+ "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"}],
  "Title":"Excludes amphibians and reptiles from the definition of small game; repealer",
  "Summary":"Excludes certain amphibians and reptiles from the definition of small game and makes conforming changes.",
  "LawSection":"Environmental Conservation Law",

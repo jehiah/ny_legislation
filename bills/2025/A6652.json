@@ -1,12 +1,15 @@
 {
  "PrintNo":"A6652","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T15:15:47.7261Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Insurance"}],
+ "Published":"2025-03-06T15:15:47.7261Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-03"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-03-10","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6652A","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.95","Date":"2025-04-03","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

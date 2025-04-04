@@ -1,11 +1,13 @@
 {
- "PrintNo":"A2074","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A2074","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-15T16:00:43.790044Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-03","Committee":"Governmental Operations"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-03","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-02-03","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2074A","Date":"2025-02-03","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2074A","Date":"2025-02-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-04-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 2074B","Date":"2025-04-03","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
@@ -24,7 +26,7 @@
   {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":1120,"Name":"Billy Jones","Short":"JONES"}
  ],
  "Title":"Relates to the sealing of certain claims against law enforcement officers",
- "Summary":"Provides for the sealing of unfounded, unsubstantiated and exonerated claims made against law enforcement officers; requires such claims to be redacted from disciplinary records.",
+ "Summary":"Provides for the sealing of unfounded, exonerated, and pending claims made against law enforcement officers; requires such claims to be redacted from disciplinary records.",
  "LawSection":"Executive Law","LawCode":"Add §845-f, Exec L; amd §89, Pub Off L",
  "ActClause":"AN ACT to amend the executive law and the public officers law, in relation to the sealing of certain claims against law enforcement officers",
  "SameAsPrintNo":"S4117-2025"

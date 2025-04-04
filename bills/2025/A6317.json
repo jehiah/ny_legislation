@@ -1,10 +1,14 @@
 {
  "PrintNo":"A6317","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-04T10:33:46.960309Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Environmental Conservation"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Environmental Conservation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-03"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-04","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.93","Date":"2025-04-03","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -28,7 +32,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1244,"Name":"Charles Fall","Short":"FALL"},{"ID":500,"Name":"William Colton","Short":"COLTON"}],
+ "Sponsors":[
+  {"ID":1244,"Name":"Charles Fall","Short":"FALL"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
+ ],
  "Title":"Extends the moratorium on the issuance of environmental safety certificates for facilities and routes for the transportation of liquefied natural or petroleum gas",
  "Summary":"Extends the moratorium on the issuance of certificates of environmental safety for the siting of facilities and certification of routes for the transportation of liquefied natural or petroleum gas.",
  "LawSection":"Environmental Conservation","LawCode":"Amd §6, Chap 395 of 1978",
