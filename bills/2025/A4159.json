@@ -1,10 +1,15 @@
 {
- "PrintNo":"A4159","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-31T14:33:42.569078Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-31","Committee":"Correction"}],
+ "PrintNo":"A4159","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-31T14:33:42.569078Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-31","Committee":"Correction"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-02"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-31","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.75","Date":"2025-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 4159A","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -22,7 +27,8 @@
  ],
  "Sponsors":[
   {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
-  {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"}
+  {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}
  ],
  "Title":"Prohibits correctional facilities from denying entry to certain peer support advocates based on such advocates' prior history of incarceration",
  "Summary":"Prohibits correctional facilities from denying entry to peer support advocates who are certified or licensed and are participating in the provision of corrections-based substance use disorder treatment and transition services based on such advocates' prior history of incarceration.",

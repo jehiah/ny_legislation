@@ -1,8 +1,12 @@
 {
- "PrintNo":"A6545","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T14:31:33.770907Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-03-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6545","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-06T14:31:33.770907Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-07","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-04-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6545A","Date":"2025-04-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
@@ -16,8 +20,8 @@
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":1529,"Name":"Samuel Pirozzolo","Short":"PIROZZOLO"}
  ],
- "Title":"Imposes liability for damages caused by a chatbot impersonating licensed professionals",
- "Summary":"Imposes liability for damages caused by a chatbot impersonating licensed professionals or giving any medical or psychological advice.",
+ "Title":"Imposes liability for damages caused by a chatbot impersonating certain licensed professionals",
+ "Summary":"Imposes liability for damages caused by a chatbot impersonating licensed professionals.",
  "LawSection":"General Business Law","LawCode":"Add §390-f, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to imposing liability for damages caused by a chatbot impersonating licensed professionals"
+ "ActClause":"AN ACT to amend the general business law, in relation to imposing liability for damages caused by a chatbot impersonating certain licensed professionals"
 }
