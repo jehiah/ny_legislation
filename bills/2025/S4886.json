@@ -1,8 +1,12 @@
 {
- "PrintNo":"S4886","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T15:36:05.253141Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-13","Chamber":"SENATE"}],
+ "PrintNo":"S4886","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-13T15:36:05.253141Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-07","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-07","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4886A","Date":"2025-04-07","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],
  "Title":"Prohibits the disclosure of individualized fare payment data by the metropolitan commuter transportation authority and the New York city transit authority",
  "Summary":"Prohibits the disclosure of individualized fare payment data by the metropolitan commuter transportation authority and the New York city transit authority for the purpose of maintaining customer privacy; provides certain exceptions when such data can be disclosed.",
