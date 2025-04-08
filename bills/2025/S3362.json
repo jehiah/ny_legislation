@@ -1,8 +1,11 @@
 {
  "PrintNo":"S3362","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T11:34:13.398449Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-04-08"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.654","Date":"2025-04-08","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Repeals section 3372 of the public health law",
  "Summary":"Repeals provisions requiring reporting of a patient's drug use.","LawSection":"Public Health Law",

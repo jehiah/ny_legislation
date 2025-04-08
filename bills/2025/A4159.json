@@ -1,15 +1,19 @@
 {
  "PrintNo":"A4159","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-31T14:33:42.569078Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-31T14:33:42.569078Z","Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-31","Committee":"Correction"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-02"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-02"},{"Type":"PASSED_ASSEMBLY","Date":"2025-04-08"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Crime Victims, Crime And Correction"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-31","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.75","Date":"2025-03-27","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 4159A","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 4159A","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-04-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-04-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-04-08","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

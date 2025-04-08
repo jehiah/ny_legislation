@@ -1,8 +1,12 @@
 {
- "PrintNo":"S3596","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-28T15:24:50.758441Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-28","Committee":"Elections"}],
- "Actions":[{"Text":"REFERRED TO ELECTIONS","Date":"2025-01-28","Chamber":"SENATE"}],
+ "PrintNo":"S3596","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-28T15:24:50.758441Z","Status":"IN_SENATE_COMM","Committee":"Elections",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Elections"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-28","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ELECTIONS","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3596A","Date":"2025-04-08","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Warns voters about New York's closed primary system on voter registration forms",
  "Summary":"Provides voters with a warning about New York's closed primary system on voter registration forms.",

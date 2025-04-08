@@ -2,10 +2,30 @@
  "PrintNo":"A7633","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-02T11:35:14.347094Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-04-02","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-04-02","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-04-08","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-04-08","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":635,"Short":"PALMESANO","Vote":"Excused"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}],
  "Title":"Relates to electric charging station fee transparency",
  "Summary":"Directs the department of public service to promulgate rules and regulations to establish fee transparency standards for electric vehicle charging stations.",
  "LawSection":"Public Service Law","LawCode":"Add §66-x, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to electric vehicle charging station fee transparency"
+ "ActClause":"AN ACT to amend the public service law, in relation to electric vehicle charging station fee transparency",
+ "SameAsPrintNo":"S7260-2025"
 }

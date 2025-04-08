@@ -1,12 +1,27 @@
 {
  "PrintNo":"S2429","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-17T11:29:10.792109Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-10","Committee":"Investigations And Government Operations"}],
+ "Published":"2025-01-17T11:29:10.792109Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-07","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-17","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-10","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 2429A","Date":"2025-03-10","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 2429A","Date":"2025-03-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-07","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-07","Version":"A","Chamber":"SENATE",
+   "Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},

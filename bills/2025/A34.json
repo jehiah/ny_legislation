@@ -1,14 +1,21 @@
 {
  "PrintNo":"A34","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-18T15:14:28.750636Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-07","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-07"}],
+ "Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-07","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-04-08"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Transportation"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-01-28","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-04-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-04-07","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.136","Date":"2025-04-07","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.136","Date":"2025-04-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.136","Date":"2025-04-07","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-04-08","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-04-08","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-08","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -144,7 +151,7 @@
   {"ID":1243,"Name":"Simcha Eichenstein","Short":"EICHENSTEIN"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
   {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
-  {"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"}
+  {"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Provides that the thruway authority shall issue permits for ambulances and fire vehicles for toll exemptions",
  "Summary":"Provides that the thruway authority shall issue permits for ambulances and fire vehicles exempting such vehicles from paying tolls on the thruway when engaged in an emergency operation.",

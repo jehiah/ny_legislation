@@ -1,8 +1,11 @@
 {
  "PrintNo":"S5989","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T13:57:47.417716Z",
- "Status":"IN_SENATE_COMM","Committee":"Libraries",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Libraries"}],
- "Actions":[{"Text":"REFERRED TO LIBRARIES","Date":"2025-03-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-04-08"}],
+ "Actions":[
+  {"Text":"REFERRED TO LIBRARIES","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.651","Date":"2025-04-08","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],"Title":"Relates to library cards for minors",
  "Summary":"Requires the board of regents to establish a method by which a parent may request a library card for their minor on the school registration form.",
  "LawSection":"Education Law","LawCode":"Amd §3205, Ed L",

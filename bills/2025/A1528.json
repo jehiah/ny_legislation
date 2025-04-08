@@ -2,7 +2,30 @@
  "PrintNo":"A1528","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T12:26:03.503075Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-10","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-10","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-10","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN TRANSPORTATION","Date":"2025-04-02","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-04-02","Chamber":"ASSEMBLY","Committee":"TRANSPORTATION",
+   "Votes":[
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Nay"},{"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},
+    {"ID":1466,"Short":"DURSO","Vote":"Nay"},{"ID":1464,"Short":"GIGLIO","Vote":"Nay"},
+    {"ID":1536,"Short":"SLATER","Vote":"Nay"},{"ID":1543,"Short":"BENDETT","Vote":"Nay"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Nay"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1544,"Name":"Scott Gray","Short":"GRAY"},{"ID":631,"Name":"Kenneth Blankenbush","Short":"BLANKENBUSH"},
   {"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},{"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},
@@ -11,7 +34,8 @@
   {"ID":1527,"Name":"Michael Novakhov","Short":"NOVAKHOV"},{"ID":1566,"Name":"Andrea Bailey","Short":"BAILEY"},
   {"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"},{"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"},
-  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
+  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
+  {"ID":1570,"Name":"Andrew Molitor","Short":"MOLITOR"}
  ],
  "Title":"Relates to the issue of non-commercial drivers' licenses and learners' permits in counties which contain in whole or in part boundary land; repealer",
  "Summary":"Relates to the issue of non-commercial drivers' licenses and learners' permits in counties which contain in whole or in part boundary land.",

@@ -1,8 +1,28 @@
 {
  "PrintNo":"S3877","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T13:31:17.394106Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Cities 1"}],
- "Actions":[{"Text":"REFERRED TO CITIES 1","Date":"2025-01-30","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Housing, Construction And Community Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2025-01-30","Chamber":"SENATE"},
+  {
+   "Text":"REPORTED AND COMMITTED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-04-08",
+   "Chamber":"SENATE"
+  }
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-08","Chamber":"SENATE","Committee":"Cities 1",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},

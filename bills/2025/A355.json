@@ -1,12 +1,7 @@
 {
- "PrintNo":"A355","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-31T12:14:35.352585Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-18"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-03-18"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-18","Committee":"Investigations And Government Operations"}
- ],
+ "PrintNo":"A355","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-31T12:14:35.352585Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-08"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2025-02-05","Chamber":"ASSEMBLY"},
@@ -20,7 +15,11 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.108","Date":"2025-03-18","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-03-18","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-03-18","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-18","Chamber":"SENATE","Version":"B"}
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-18","Chamber":"SENATE","Version":"B"},
+  {"Text":"RECALLED FROM SENATE","Date":"2025-04-08","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE","Version":"B"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-04-08","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 355C","Date":"2025-04-08","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -158,8 +157,8 @@
   {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
  ],
  "Title":"Provides for a partial exemption from taxation of certain residential real property transferred by a governmental entity, nonprofit housing organization, land bank or community land trust to low-income household",
- "Summary":"Provides a tax exemption for residential real property transferred to a low-income household or community land trust; sets forth conditions for the discontinuance of such exemption.",
+ "Summary":"Provides for a partial exemption from taxation of certain residential real property transferred by a governmental entity, nonprofit housing organization, land bank or community land trust to low-income households; sets forth conditions for the discontinuance of such exemption.",
  "LawSection":"Real Property Tax Law","LawCode":"Add §457-a, RPT L",
- "ActClause":"AN ACT to amend the real property tax law, in relation to a tax exemption for residential real property transferred to a low-income household or community land trust",
- "PreviousVersions":["A6176-2023"]
+ "ActClause":"AN ACT to amend the real property tax law, in relation to partially exempting from taxation certain residential real property transferred to low-income households",
+ "SameAsPrintNo":"S1718-2025","PreviousVersions":["A6176-2023"]
 }

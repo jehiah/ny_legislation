@@ -1,9 +1,29 @@
 {
  "PrintNo":"S3884","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T13:54:47.563078Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Cities 1"}],
- "Actions":[{"Text":"REFERRED TO CITIES 1","Date":"2025-01-30","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}],
+ "Status":"IN_SENATE_COMM","Committee":"Social Services",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Social Services"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO SOCIAL SERVICES","Date":"2025-04-08","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-08","Chamber":"SENATE","Committee":"Cities 1",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},
+  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}
+ ],
  "Title":"Requires the Department of Homeless Services to notify the affected community board prior to locating transitional housing for the homeless",
  "Summary":"Relates to requiring the Department of Homeless Services to notify the affected community board prior to locating transitional housing for the homeless; requires written notification sixty days before the department enters into a contractual arrangement with a transitional housing provider or otherwise finalizes its decision to use or expand a location as transitional housing.",
  "LawSection":"New York City Administrative Code","LawCode":"Add §21-324.1, NYC Ad Cd",

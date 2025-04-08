@@ -1,8 +1,27 @@
 {
  "PrintNo":"S6848","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-25T14:10:04.027613Z",
- "Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Agriculture"}],
- "Actions":[{"Text":"REFERRED TO AGRICULTURE","Date":"2025-03-25","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-04-08"}],
+ "Actions":[
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-03-25","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.644","Date":"2025-04-08","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-08","Chamber":"SENATE","Committee":"Agriculture",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}],
  "Title":"Provides for the expansion of regional farmers' markets",
  "Summary":"Directs the department of agriculture and markets to increase the number of regional farmers' markets for the direct marketing of foods and produce produced in the state.",

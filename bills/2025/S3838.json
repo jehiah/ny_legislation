@@ -1,8 +1,11 @@
 {
  "PrintNo":"S3838","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T10:57:29.906555Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-04-08"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.657","Date":"2025-04-08","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
  "Title":"Requires medical records to be made available to patients in an electronic format through a web portal",
  "Summary":"Requires medical records to be made available to patients in an electronic format through a web portal and in a format that allows patients to save records to their own device.",

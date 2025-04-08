@@ -1,12 +1,38 @@
 {
  "PrintNo":"S6274","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-07T15:08:19.044836Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-07","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-07","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-07","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-08"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.626","Date":"2025-04-07","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-08","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-07","Chamber":"SENATE",
+   "Committee":"Housing, Construction And Community Development",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
  "Title":"Relates to preferences under the affordable home ownership development program for veterans with service-related disabilities",
  "Summary":"Relates to preferences under the affordable home ownership development program for veterans with service-related disabilities; defines \"veteran with a service-related disability\".",
  "LawSection":"Private Housing Finance Law","LawCode":"Amd §§1111 & 1112, Priv Hous Fin L",
  "ActClause":"AN ACT to amend the private housing finance law, in relation to preferences under the affordable home ownership development program for veterans with service-related disabilities",
- "PreviousVersions":["S6525-2023"]
+ "SameAsPrintNo":"A7755-2025","PreviousVersions":["S6525-2023"]
 }

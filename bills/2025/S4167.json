@@ -1,8 +1,11 @@
 {
  "PrintNo":"S4167","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T11:08:43.524835Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-03","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-04-08"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.658","Date":"2025-04-08","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Relates to medicaid eligibility for youth leaving court ordered placement",
  "Summary":"Provides that youth leaving court ordered placement (foster care) shall be presumptive eligible for medicaid.",

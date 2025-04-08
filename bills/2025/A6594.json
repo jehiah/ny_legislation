@@ -3,7 +3,10 @@
  "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Education"}],
  "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-03-06","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}],
+ "Sponsors":[
+  {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}
+ ],
  "Title":"Provides school preference when a student is applying to the same public elementary or middle school as a sibling",
  "Summary":"Provides that in a city with a population of one million or more, where a student is applying to attend a public elementary or middle school and such student has a sibling who already attends such school, such student whose application is pending shall be given preference for admission.",
  "LawSection":"Education Law","LawCode":"Add §3203-a, Ed L",

@@ -1,12 +1,16 @@
 {
- "PrintNo":"S6744","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-21T14:49:45.458526Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-21","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-21","Chamber":"SENATE"}],
+ "PrintNo":"S6744","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-21T14:49:45.458526Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-21","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6744A","Date":"2025-04-08","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}],
  "Title":"Permits dentists to administer influenza and COVID vaccinations and vaccinations related to a public health emergency",
- "Summary":"Permits dentists to administer influenza and COVID vaccinations and vaccinations related to a declared public health emergency.",
+ "Summary":"Permits dentists to administer influenza and COVID vaccinations and vaccinations related to a declared public health emergency; requires dentists to report such vaccinations.",
  "LawSection":"Education Law","LawCode":"Amd §6601, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to permitting dentists to administer influenza and COVID vaccinations and vaccinations related to a public health emergency",
- "SameAsPrintNo":"A3894-2025","PreviousVersions":["S7356-2023"]
+ "PreviousVersions":["S7356-2023"]
 }

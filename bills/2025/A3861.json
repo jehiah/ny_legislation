@@ -3,7 +3,11 @@
  "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Transportation"}],
  "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"}],"Title":"Relates to abandoned vehicles",
+ "Sponsors":[
+  {"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
+  {"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},{"ID":1527,"Name":"Michael Novakhov","Short":"NOVAKHOV"}
+ ],
+ "Title":"Relates to abandoned vehicles",
  "Summary":"Increases the dollar value of abandoned vehicles which may be seized by a local authority.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §1224, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to abandoned vehicles",
