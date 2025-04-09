@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3026","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T09:41:51.622498Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-03-20"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-08"}
+  {"Type":"PASSED_SENATE","Date":"2025-04-08"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Agriculture"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-23","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -102,7 +104,8 @@
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
   {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
-  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}
+  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Restricts the performance of surgical devocalization procedures on dogs and cats",
  "Summary":"Restricts the performance of surgical devocalization procedures on dogs and cats; prohibited for reasons of convenience in keeping or handling a dog or cat.",

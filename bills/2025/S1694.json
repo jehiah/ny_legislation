@@ -1,8 +1,11 @@
 {
  "PrintNo":"S1694","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T11:05:43.323237Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-13","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-04-09"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-13","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.676","Date":"2025-04-09","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Prohibits recording of the entrance of a school ground",
  "Summary":"Prohibits recording of the entrance or exit of a school ground or the entrance  or exit to a property that contains school grounds within its boundaries.",

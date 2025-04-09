@@ -1,9 +1,9 @@
 {
  "PrintNo":"S3807","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T09:43:50.374213Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-02-24"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-08"}
+  {"Type":"PASSED_SENATE","Date":"2025-04-08"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Judiciary"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-30","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

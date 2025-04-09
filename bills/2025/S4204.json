@@ -1,13 +1,18 @@
 {
  "PrintNo":"S4204","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T13:18:06.039259Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"},
+  {"Type":"PASSED_SENATE","Date":"2025-04-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-11","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.531","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-12","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {

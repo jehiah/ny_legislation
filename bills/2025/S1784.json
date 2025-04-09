@@ -1,9 +1,10 @@
 {
  "PrintNo":"S1784","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T15:13:31.697496Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-03-20"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-08"}
+  {"Type":"PASSED_SENATE","Date":"2025-04-08"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Agriculture"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-13","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -99,7 +101,7 @@
  ],
  "Sponsors":[
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to the inspection of certain vacated property for abandoned animals",
  "Summary":"Relates to the inspection of property that has been vacated for abandoned animals; requires property owners and lessors to inspect such property within three days and to immediately notify the appropriate authorities when such person finds an animal which appears to be abandoned.",

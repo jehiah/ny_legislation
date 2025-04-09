@@ -1,8 +1,10 @@
 {
  "PrintNo":"S7000","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-28T10:54:00.676519Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-28","Chamber":"SENATE"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-28","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2025-04-09","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Requires the forfeiture of benefits to be paid pursuant to a service awards program to volunteer firefighters who have been convicted of certain crimes",
  "Summary":"Requires the forfeiture of benefits to be paid pursuant to a service awards program to volunteer firefighters who have been convicted of felonies committed against a volunteer fire department, volunteer fire company, fire district, or fire protection district.",

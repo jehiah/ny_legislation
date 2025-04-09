@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3735","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T14:39:35.171757Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-02-24"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-08"}
+  {"Type":"PASSED_SENATE","Date":"2025-04-08"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-29","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-04-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -103,7 +105,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
+ "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Empowers the commissioner of education to declare a disaster has substantially impacted a school board or school budget election and to allow school boards to set an additional day for voting",
  "Summary":"Empowers the commissioner of education to declare a disaster has substantially impacted an annual meeting and election and to allow school boards to set an additional day for voting if less than eight percent of registered voters cast ballots as a direct consequence of a disaster.",
  "LawSection":"Education Law","LawCode":"Add §2022-a, Ed L",

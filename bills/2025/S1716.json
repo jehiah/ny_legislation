@@ -1,12 +1,16 @@
 {
- "PrintNo":"S1716","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T11:39:15.974998Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"}],
+ "PrintNo":"S1716","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T11:39:15.974998Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-09","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1716A","Date":"2025-04-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"}],
  "Title":"Relates to community health assessment reporting",
- "Summary":"Requires every municipality to submit to the department of health a community health assessment in alignment with the state health improvement plan cycle and no more frequently than every six years; removes requirement of a community health assessment no more frequently that every two years.",
+ "Summary":"Relates to the frequency of submission of community health assessment reporting; requires a report no more frequently than every six years.",
  "LawSection":"Public Health Law","LawCode":"Amd §602-a, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to community health assessment reporting",
- "PreviousVersions":["S9650-2023"]
+ "SameAsPrintNo":"A6177-2025","PreviousVersions":["S9650-2023"]
 }

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4153","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T10:31:53.920178Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-04-08"}
+  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-04-08"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Consumer Affairs And Protection"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-03","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-04-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -97,7 +99,8 @@
  ],
  "Sponsors":[
   {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
-  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"}
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to prohibiting retail establishments from refusing to accept payment in cash",
  "Summary":"Prohibits retail establishments including food-service establishments from refusing to accept payment in cash; provides a civil penalty will be assessed for such actions.",

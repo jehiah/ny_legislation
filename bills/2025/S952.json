@@ -1,13 +1,14 @@
 {
- "PrintNo":"S952","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S952","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-07T11:21:46.859055Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-02-26"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-04-09"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.344","Date":"2025-02-11","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING (T) 952A","Date":"2025-02-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING (T) 952A","Date":"2025-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 952B","Date":"2025-04-09","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -40,5 +41,5 @@
  "Summary":"Requires that the entire amount of a rental deposit or advance be refundable to the tenant upon the tenant's vacating of the premises except for an amount lawfully retained for non-payment of rent or utilities, damage caused by the tenant, or storage costs; requires landlord to provide an itemized statement of damages and to return the balance of the deposit within 14 days; requires that tenant be given the opportunity to inspect the rental premises prior to signing a lease; allows a grantee or assignee of the leased premises to demand that an escrow account be opened.",
  "LawSection":"General Obligations Law","LawCode":"Amd §7-107, Gen Ob L",
  "ActClause":"AN ACT to amend the general obligations law, in relation to the liability of a grantee or assignee for deposits made by tenants upon conveyance of rent stabilized dwelling units",
- "PreviousVersions":["S6340-2021","S2088-2023"]
+ "SameAsPrintNo":"A6423-2025","PreviousVersions":["S6340-2021","S2088-2023"]
 }

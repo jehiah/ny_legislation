@@ -1,12 +1,16 @@
 {
- "PrintNo":"S6976","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T15:44:52.310275Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-27","Chamber":"SENATE"}],
+ "PrintNo":"S6976","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-27T15:44:52.310275Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-09","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6976A","Date":"2025-04-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Establishes the New York road salt reduction council and the New York road salt reduction advisory committee",
  "Summary":"Establishes the New York road salt reduction council and the New York road salt reduction advisory committee to provide a mechanism for interagency cooperation and coordination to implement the recommendations of the report of the Adirondack road salt reduction task force.",
  "LawSection":"Transportation Law","LawCode":"Add Art 23 §§500 - 503, Transp L",
  "ActClause":"AN ACT to amend the transportation law, in relation to establishing the New York road salt reduction council and the New York road salt reduction advisory committee",
- "PreviousVersions":["S9658-2023"]
+ "SameAsPrintNo":"A4481-2025","PreviousVersions":["S9658-2023"]
 }

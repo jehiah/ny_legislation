@@ -1,9 +1,9 @@
 {
  "PrintNo":"S1652","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T09:53:05.286329Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-02-03"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-08"}
+  {"Type":"PASSED_SENATE","Date":"2025-04-08"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-13","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-01-28","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2025-04-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -102,8 +103,9 @@
   }
  ],
  "Sponsors":[
-  {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Authorizes a court to direct filing of non-family offense order of protection with the computerized registry for such orders and warrants",
  "Summary":"Authorizes a court issuing a non-family offense temporary order of protection or an order of protection to direct that such order be filed with the computerized registry for orders of protection and warrants, if it is necessary to fulfill the purposes of such order; directs the superintendent of state police to include such orders on computerized registry.",

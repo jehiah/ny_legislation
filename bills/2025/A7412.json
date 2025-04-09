@@ -1,14 +1,21 @@
 {
  "PrintNo":"A7412","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-25T16:59:39.441782Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-07","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-07"}],
+ "Status":"IN_SENATE_COMM","Committee":"Commerce, Economic Development And Small Business",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-07","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-04-09"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-09","Committee":"Commerce, Economic Development And Small Business"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-02","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-04-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-04-07","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.145","Date":"2025-04-07","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.145","Date":"2025-04-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.145","Date":"2025-04-07","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-04-09","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-04-09","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-04-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,12 +1,17 @@
 {
  "PrintNo":"S4466","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-05T14:40:40.23216Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-03-27"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-03-27"},
+  {"Type":"PASSED_SENATE","Date":"2025-04-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.617","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-26","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -28,7 +33,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
+ "Sponsors":[
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"}
+ ],
  "Title":"Relates to the display of religious items on dwellings",
  "Summary":"Prohibits a property owner from enforcing or adopting a restriction that prohibits one or more religious items from being displayed or affixed on any entry door or entry doorframe of a dwelling.",
  "LawSection":"Civil Rights Law","LawCode":"Add §79-r, Civ Rts L",

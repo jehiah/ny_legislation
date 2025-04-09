@@ -1,8 +1,12 @@
 {
- "PrintNo":"S6124","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-05T14:22:57.784023Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"SENATE"}],
+ "PrintNo":"S6124","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-05T14:22:57.784023Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-09","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6124A","Date":"2025-04-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
   {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
@@ -11,5 +15,5 @@
  "Summary":"Prohibits insurance companies from discriminating based on genetic predisposition including refusing to issue or renew, charging any increased rate, or restricting any length of coverage; prohibits insurers from requiring genetic testing.",
  "LawSection":"Insurance Law","LawCode":"Rpld & add §2615, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to prohibiting insurance companies from discriminating based on genetic predisposition; and to repeal certain provisions of such law relating thereto",
- "SameAsPrintNo":"A3229-2025","PreviousVersions":["A9837-2021","S5415-2023"]
+ "PreviousVersions":["A9837-2021","S5415-2023"]
 }

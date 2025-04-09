@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3629","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-29T09:44:28.800266Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-29T09:44:28.800266Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-04-08"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-04-08"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-29","Chamber":"SENATE"},
@@ -12,7 +13,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2025-04-08","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -102,7 +104,8 @@
  ],
  "Sponsors":[
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
-  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}
+  {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Prohibits the participation of certain animals in traveling animal acts",
  "Summary":"Prohibits the participation of certain animals in traveling animal acts; prohibits the department of environmental conservation from issuing permits or licenses allowing participation of certain animals in traveling animal acts; excludes certain permanent performing institutions; imposes a civil penalty not to exceed $1000 for a violation.",

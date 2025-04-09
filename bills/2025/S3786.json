@@ -1,8 +1,16 @@
 {
  "PrintNo":"S3786","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T09:00:53.609097Z",
- "Status":"IN_SENATE_COMM","Committee":"New York City Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"New York City Education"}],
- "Actions":[{"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-01-30","Chamber":"SENATE"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"New York City Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-09"},{"Type":"PASSED_SENATE","Date":"2025-04-09"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.674","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-09","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":439,"Name":"Simcha Felder","Short":"FELDER"}],
  "Title":"Includes remedial services, homework or childcare as the transportation responsibility of the city school district located in a city having a population of one million or more",
  "Summary":"Includes remedial services, homework or childcare as the transportation responsibility of the city school district located in a city having a population of one million or more.",

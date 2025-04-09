@@ -1,8 +1,11 @@
 {
  "PrintNo":"S2444","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T14:14:39.40772Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-17","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-04-09"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-17","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.677","Date":"2025-04-09","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],"Title":"Relates to the right to breast feed",
  "Summary":"Makes certain terms gender neutral in provisions regarding the right to breast feed.",
  "LawSection":"Civil Rights Law","LawCode":"Amd §79-e, Civ Rts L",

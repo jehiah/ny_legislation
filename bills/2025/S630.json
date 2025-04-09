@@ -1,9 +1,9 @@
 {
  "PrintNo":"S630","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T10:09:03.816479Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-02-26"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-08"}
+  {"Type":"PASSED_SENATE","Date":"2025-04-08"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-26","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2025-04-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -103,7 +104,7 @@
  ],
  "Sponsors":[
   {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Requires victims be notified of right to make a victim impact statement and allows them to personally appear at parole hearings and make such a statement",
  "Summary":"Requires the district attorney to notify victims by letter of the final disposition of the case within sixty days of such disposition in cases where such final disposition includes a conviction; provides such letter shall also notify victims of their right to make a victim impact statement; allows them to personally appear at parole hearings and make such a statement.",

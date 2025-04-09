@@ -1,9 +1,10 @@
 {
  "PrintNo":"S2481","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T10:00:26.154107Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-04-08"}
+  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-04-08"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Energy"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-21","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ENERGY","Date":"2025-04-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -97,7 +99,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
+ "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Requires the New York state energy research and development authority conduct a study on the feasibility, storing and transferring of hydrogen energy to residential and commercial structures",
  "Summary":"Requires the New York state energy research and development authority conduct a study on the feasibility, storing and transferring of hydrogen energy to residential and commercial structures in cities and towns with a population greater than twenty thousand.",
  "LawSection":"Public Authorities",
