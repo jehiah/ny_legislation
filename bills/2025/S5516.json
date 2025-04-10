@@ -1,8 +1,12 @@
 {
- "PrintNo":"S5516","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-24T10:58:56.107244Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-24","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-24","Chamber":"SENATE"}],
+ "PrintNo":"S5516","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-24T10:58:56.107244Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-24","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5516A","Date":"2025-04-10","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
