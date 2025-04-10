@@ -1,11 +1,26 @@
 {
  "PrintNo":"S1100","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T10:07:58.560246Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-04-09"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-04-10"}],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.650","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-04-09","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-08","Chamber":"SENATE","Committee":"Libraries",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},

@@ -1,8 +1,12 @@
 {
- "PrintNo":"S1280","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T09:26:12.240894Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-09","Chamber":"SENATE"}],
+ "PrintNo":"S1280","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T09:26:12.240894Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Consumer Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-04-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1280A","Date":"2025-04-10","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -17,9 +21,9 @@
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},
   {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Relates to labeling requirements for gas stoves",
+ "Title":"Relates to labeling requirements for new gas stoves",
  "Summary":"Requires the display of certain labels and warnings on gas stoves sold, displayed for sale, or offered for sale at retail to a consumer in this state; authorizes the department of state to adopt regulations regarding the placement and format of such labels; provides for penalties; authorizes the attorney general to enforce such provisions.",
  "LawSection":"General Business Law","LawCode":"Add §322-d, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to labeling requirements for gas stoves",
- "PreviousVersions":["S9105-2023"]
+ "SameAsPrintNo":"A73-2025","PreviousVersions":["S9105-2023"]
 }

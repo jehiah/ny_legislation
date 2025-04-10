@@ -1,12 +1,13 @@
 {
- "PrintNo":"A852","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T12:15:47.567097Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-03"}],
+ "PrintNo":"A852","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T12:15:47.567097Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-10"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-02-24","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-04-02","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.83","Date":"2025-04-03","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.83","Date":"2025-04-03","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 852A","Date":"2025-04-10","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -54,8 +55,8 @@
   {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Requires bicycles advertised for sale or resale in New York state to have an identifying serial number and for such serial number to be posted in any advertisement for such bicycle",
- "Summary":"Requires bicycles advertised for sale or resale in New York state to have an identifying serial number in legible boldfaced figures in one of certain specified areas on the bicycle; requires advertisements for bicycles to clearly and conspicuously include such bicycles identifying serial number.",
+ "Summary":"Requires bicycles advertised for sale or resale in New York state to have an identifying serial number in legible boldfaced figures in one of certain specified areas on the bicycle; requires advertisements for bicycles to clearly and conspicuously include such bicycles identifying serial number; exempts online marketplaces from placing identifying serial numbers on bicycles.",
  "LawSection":"General Business Law","LawCode":"Amd §391-c, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to requiring bicycles advertised for sale or resale in New York state to have an identifying serial number",
- "SameAsPrintNo":"S1541-2025","PreviousVersions":["A4076-2023"]
+ "PreviousVersions":["A4076-2023"]
 }

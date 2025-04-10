@@ -1,11 +1,26 @@
 {
  "PrintNo":"S5989","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T13:57:47.417716Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-04-09"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-04-10"}],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.651","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-04-09","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-08","Chamber":"SENATE","Committee":"Libraries",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],"Title":"Relates to library cards for minors",
  "Summary":"Requires the board of regents to establish a method by which a parent may request a library card for their minor on the school registration form.",
