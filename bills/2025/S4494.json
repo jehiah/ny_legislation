@@ -1,8 +1,13 @@
 {
- "PrintNo":"S4494","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-05T15:49:17.162604Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-02-05","Chamber":"SENATE"}],
+ "PrintNo":"S4494","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-05T15:49:17.162604Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-11","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-11","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4494A","Date":"2025-04-11","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Extends certain provisions relating to an occupancy tax in the city of Port Jervis",
  "Summary":"Extends certain provisions relating to an occupancy tax for hotels and motels in the city of Port Jervis.",
