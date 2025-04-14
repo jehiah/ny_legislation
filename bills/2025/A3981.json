@@ -1,8 +1,12 @@
 {
- "PrintNo":"A3981","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T15:06:54.906143Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3981","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T15:06:54.906143Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-28","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3981A","Date":"2025-03-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
@@ -18,12 +22,14 @@
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
-  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"}
+  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
+  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
+  {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"}
  ],
  "Title":"Relates to procedures relating to driving while ability impaired by drugs",
  "Summary":"Alters the definition of \"drug\" in the vehicle and traffic law to include any substance or combination of substances that impair, to any extent, physical or mental abilities; defines impairment and intoxication; provides that refusal to submit to a breath test and/or oral/bodily fluid test shall be a traffic infraction; makes related provisions.",
  "LawSection":"Vehicle and Traffic Law",
- "LawCode":"Amd §§114-a, 1194 & 1193, ren §119-b to be §119-c, add §§119-b & 120-a, V & T L",
+ "LawCode":"Amd §§114-a, 1194, 1193 & 1192, ren §119-b to be §119-c, add §§119-b & 120-a, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to procedures relating to driving while ability impaired by drugs",
  "SameAsPrintNo":"S6485-2025","PreviousVersions":["A9554-2021","A174-2023"]
 }

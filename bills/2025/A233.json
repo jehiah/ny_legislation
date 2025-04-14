@@ -1,11 +1,13 @@
 {
- "PrintNo":"A233","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A233","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2024-12-31T11:05:57.49793Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-03","Committee":"Education"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-14","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-04-03","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 233A","Date":"2025-04-03","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 233A","Date":"2025-04-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-04-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 233B","Date":"2025-04-14","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
@@ -19,5 +21,5 @@
  "Summary":"Relates to establishing a task force on safety in school transportation to review and promote such safety.",
  "LawSection":"Education Law","LawCode":"Add §3639, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to establishing a task force on safety in school transportation; and providing for the repeal of such provisions upon expiration thereof",
- "SameAsPrintNo":"S3071-2025","PreviousVersions":["S6687-2015","S4683-2017","S2482-2019","S652-2021","A7459-2023"]
+ "PreviousVersions":["S6687-2015","S4683-2017","S2482-2019","S652-2021","A7459-2023"]
 }

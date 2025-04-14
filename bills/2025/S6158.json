@@ -1,8 +1,12 @@
 {
- "PrintNo":"S6158","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-05T16:04:16.333863Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-05","Chamber":"SENATE"}],
+ "PrintNo":"S6158","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-05T16:04:16.333863Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-14","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6158A","Date":"2025-04-14","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"}],
  "Title":"Relates to radio-frequency identification (RFID) tags",
  "Summary":"Relates to radio-frequency identification (RFID) tags and the registration of motor vehicles.",
