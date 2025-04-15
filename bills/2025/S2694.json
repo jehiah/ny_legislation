@@ -1,8 +1,12 @@
 {
- "PrintNo":"S2694","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T15:05:29.231843Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-22","Chamber":"SENATE"}],
+ "PrintNo":"S2694","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-22T15:05:29.231843Z","Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-15","Committee":"Procurement And Contracts"}],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-22","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO PROCUREMENT AND CONTRACTS","Date":"2025-04-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2694A","Date":"2025-04-15","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
@@ -12,5 +16,5 @@
  "Summary":"Requires certain state owned and operated parking facilities to install and maintain charging stations for plug-in electric vehicles.",
  "LawSection":"Executive Law","LawCode":"Add §201-b, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to requiring certain state owned and operated parking facilities to install and maintain charging stations for plug-in electric vehicles",
- "PreviousVersions":["S5909-2017","S2274-2019","S370-2021","S1535-2023"]
+ "SameAsPrintNo":"A4642-2025","PreviousVersions":["S5909-2017","S2274-2019","S370-2021","S1535-2023"]
 }

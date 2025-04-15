@@ -1,10 +1,12 @@
 {
- "PrintNo":"S3827","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T10:36:46.131087Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-12","Committee":"Education"}],
+ "PrintNo":"S3827","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-30T10:36:46.131087Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-15","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-30","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO EDUCATION","Date":"2025-03-12","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO EDUCATION","Date":"2025-03-12","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-04-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3827A","Date":"2025-04-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -25,8 +27,8 @@
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
  ],
  "Title":"Relates to banning the use of biometric identifying technology in schools",
- "Summary":"Prohibits the use of biometric identifying technology in schools for any reason other than specified purposes.",
+ "Summary":"Prohibits the use of biometric identifying technology in schools for any reason other than certain specified purposes; adds fingerprint identification of teachers, administrators and students for the purpose of securely logging into a digital device for academic and administrative purpose to allowable purposes.",
  "LawSection":"State Technology Law","LawCode":"Amd §106-b, St Tech L",
  "ActClause":"AN ACT to amend the state technology law, in relation to banning the use of biometric identifying technology in schools",
- "SameAsPrintNo":"A6720-2025","PreviousVersions":["S7944-2023"]
+ "PreviousVersions":["S7944-2023"]
 }

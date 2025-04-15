@@ -1,8 +1,12 @@
 {
- "PrintNo":"S2705","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T15:45:27.421674Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-01-22","Chamber":"SENATE"}],
+ "PrintNo":"S2705","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-22T15:45:27.421674Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-15","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-01-22","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-04-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2705A","Date":"2025-04-15","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
   {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -15,7 +19,7 @@
  ],
  "Title":"Enacts the student suicide prevention act",
  "Summary":"Enacts the student suicide prevention act; requires the governing board or body of every local educational agency serving students in grades seven to twelve, to adopt policies, procedures and guidelines on student suicide prevention, intervention and postvention for students in such grades.",
- "LawSection":"Education Law","LawCode":"Add Art 2-A §§20 - 24, Ed L",
+ "LawSection":"Education Law","LawCode":"Add Art 2-A §§20 - 24, amd §§11, 12, 13, 15, 16 & 2801, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to enacting the student suicide prevention act",
  "PreviousVersions":["S7138-2019","S82-2021","S1537-2023"]
 }
