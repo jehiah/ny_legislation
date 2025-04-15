@@ -1,15 +1,16 @@
 {
- "PrintNo":"S6600","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-18T10:21:21.450448Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S6600","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-18T10:21:21.450448Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-18","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.627","Date":"2025-04-07","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-09","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 6600A","Date":"2025-04-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -31,9 +32,9 @@
   }
  ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}],
- "Title":"Requires the inspection of non-fireproof buildings and compliance with the New York city housing maintenance code and the New York city construction codes",
- "Summary":"Requires the inspection of non-fireproof buildings every three years; requires compliance with the New York city housing maintenance code and the New York city construction codes; requires those dwellings not in compliance with such code at the time of inspection to make repairs or improvements necessary to comply with such standards within six months of such inspection, or a lien shall be placed upon the dwelling.",
+ "Title":"Requires the inspection of certain non-fireproof buildings and compliance with the New York city housing maintenance code and the New York city construction codes",
+ "Summary":"Requires the inspection of non-fireproof buildings in a city having a population of one million or more every three years; requires compliance with the New York city housing maintenance code and the New York city construction codes; requires those dwellings not in compliance with such code at the time of inspection to make repairs or improvements necessary to comply with such standards within six months of such inspection, or a lien shall be placed upon the dwelling.",
  "LawSection":"Multiple Dwelling Law","LawCode":"Add §140-a, Mult Dwell L",
- "ActClause":"AN ACT to amend the multiple dwelling law, in relation to requiring the inspection of non-fireproof buildings and compliance with the New York city housing maintenance code and the New York city construction codes",
+ "ActClause":"AN ACT to amend the multiple dwelling law, in relation to requiring the inspection of certain non-fireproof buildings and compliance with the New York city housing maintenance code and the New York city construction codes",
  "PreviousVersions":["S6089-2021","S333-2023"]
 }

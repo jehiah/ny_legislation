@@ -1,8 +1,12 @@
 {
  "PrintNo":"S7285","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-08T14:33:37.898496Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-04-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-15","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-04-15"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-04-15","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.683","Date":"2025-04-15","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],
  "Title":"Relates to the applicability of the residential redevelopment inhibited property exemption",
  "Summary":"Relates to expanding the applicability of the residential redevelopment inhibited property exemption to all cities, town, or villages in the state.",

@@ -1,12 +1,13 @@
 {
- "PrintNo":"S3071","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T13:30:26.753408Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"}],
+ "PrintNo":"S3071","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-23T13:30:26.753408Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-04-15"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-23","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.452","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-05","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 3071A","Date":"2025-04-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -39,5 +40,5 @@
  "Summary":"Relates to establishing a task force on safety in school transportation to review and promote such safety.",
  "LawSection":"Education Law","LawCode":"Add §3639, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to establishing a task force on safety in school transportation; and providing for the repeal of such provisions upon expiration thereof",
- "PreviousVersions":["S6687-2015","S4683-2017","S2482-2019","S652-2021","S1448-2023"]
+ "SameAsPrintNo":"A233-2025","PreviousVersions":["S6687-2015","S4683-2017","S2482-2019","S652-2021","S1448-2023"]
 }

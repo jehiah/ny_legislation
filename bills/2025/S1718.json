@@ -1,13 +1,15 @@
 {
  "PrintNo":"S1718","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-13T11:40:11.378221Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-07","Committee":"Local Government"}],
+ "Published":"2025-01-13T11:40:11.378221Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-15","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-04-15"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 1718A","Date":"2025-02-10","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2025-04-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 1718B","Date":"2025-04-07","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 1718B","Date":"2025-04-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-04-15","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.682","Date":"2025-04-15","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Provides for a partial exemption from taxation of certain residential real property transferred by a governmental entity, nonprofit housing organization, land bank or community land trust to low-income households",
