@@ -1,12 +1,16 @@
 {
- "PrintNo":"S7078","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-01T09:55:13.817006Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-01","Chamber":"SENATE"}],
+ "PrintNo":"S7078","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-01T09:55:13.817006Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-16","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7078A","Date":"2025-04-16","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Authorizes the town of Patterson to impose a hotel and motel tax",
  "Summary":"Authorizes the town of Patterson, in the county of Putnam, to impose a hotel and motel tax.",
  "LawSection":"Tax Law","LawCode":"Add §1202-zz-2, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to authorizing the town of Patterson to impose a hotel and motel tax; and providing for the repeal of such provisions upon expiration thereof",
- "SameAsPrintNo":"A7854-2025"
+ "ActClause":"AN ACT to amend the tax law, in relation to authorizing the town of Patterson to impose a hotel and motel tax; and providing for the repeal of such provisions upon expiration thereof"
 }
