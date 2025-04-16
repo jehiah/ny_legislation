@@ -1,8 +1,12 @@
 {
- "PrintNo":"S3820","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T10:33:47.460188Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"SENATE"}],
+ "PrintNo":"S3820","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-30T10:33:47.460188Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-16","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-04-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3820A","Date":"2025-04-16","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
   {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
@@ -16,5 +20,5 @@
  "Summary":"Requires health insurance policies include coverage for anesthesia for the entire duration of a procedure for which a licensed medical practitioner has issued an order for such anesthesia.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to requiring health insurance policies include coverage for anesthesia for the duration of a medical procedure",
- "PreviousVersions":["S9957-2023"]
+ "SameAsPrintNo":"A7562-2025","PreviousVersions":["S9957-2023"]
 }
