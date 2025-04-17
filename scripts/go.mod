@@ -2,8 +2,6 @@ module github.com/jehiah/ny_legislation/scripts
 
 go 1.23.0
 
-toolchain go1.23.4
-
 require (
 	github.com/jehiah/nysenateapi v0.0.0-20250326194339-401ee69ffacc
 	github.com/sirupsen/logrus v1.9.3
@@ -12,7 +10,7 @@ require (
 )
 
 require (
-	cloud.google.com/go v0.120.0 // indirect
+	cloud.google.com/go v0.120.1 // indirect
 	github.com/bool64/shared v0.1.5 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/iancoleman/orderedmap v0.3.0 // indirect
@@ -23,7 +21,7 @@ require (
 	github.com/stretchr/testify v1.10.0 // indirect
 	github.com/yudai/gojsondiff v1.0.0 // indirect
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
-	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
+	golang.org/x/net v0.39.0 // indirect
+	golang.org/x/sys v0.32.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
