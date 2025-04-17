@@ -1,8 +1,12 @@
 {
- "PrintNo":"S7121","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-01T15:20:15.855726Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Cities 1"}],
- "Actions":[{"Text":"REFERRED TO CITIES 1","Date":"2025-04-01","Chamber":"SENATE"}],
+ "PrintNo":"S7121","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-01T15:20:15.855726Z","Status":"IN_SENATE_COMM","Committee":"Cities 1",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-17","Committee":"Cities 1"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CITIES 1","Date":"2025-04-17","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7121A","Date":"2025-04-17","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"}],
  "Title":"Authorizes the city of New York to discontinue the use as parkland and alienate certain land within Flushing Meadows Corona Park",
  "Summary":"Authorizes the city of New York to discontinue the use as parkland and alienate certain land within Flushing Meadows Corona Park.",

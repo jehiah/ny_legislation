@@ -1,11 +1,15 @@
 {
- "PrintNo":"A6409","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-04T11:17:42.931439Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-03-04","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6409","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-04T11:17:42.931439Z","Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-17","Committee":"Banks"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2025-04-17","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6409A","Date":"2025-04-17","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"}],"Title":"Enacts the \"bank of Rochester act\"",
  "Summary":"Establishes the bank of Rochester, including provisions related to definitions; sponsors and corporate structure; powers and restrictions; governance; charter requirements; financial and operations frameworks; transparency and financial reporting; insurance; deposits; policy mandates; ethics and financial disclosure; inconsistency with other laws; and owners not to be considered bank holding companies.",
  "LawSection":"Banking Law","LawCode":"Amd §2, add Art 3-C §§156 - 156-l, Bank L; amd §98, St Fin L",
  "ActClause":"AN ACT to amend the banking law and the state finance law, in relation to enacting the \"bank of Rochester act\"",
- "SameAsPrintNo":"S1708-2025","PreviousVersions":["A10134-2023"]
+ "PreviousVersions":["A10134-2023"]
 }

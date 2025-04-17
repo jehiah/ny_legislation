@@ -1,11 +1,15 @@
 {
- "PrintNo":"A2163","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:29:46.131446Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2163","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:29:46.131446Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-04","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-04","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2163A","Date":"2025-04-04","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1120,"Name":"Billy Jones","Short":"JONES"}],"Title":"Relates to vintage snowmobile registrations",
- "Summary":"Relates to vintage snowmobile registrations.","LawSection":"Vehicle and Traffic Law",
- "LawCode":"Amd §2222, V & T L; amd §21.07, Pks & Rec L",
+ "Summary":"Relates to vintage snowmobile registrations for snowmobiles manufactured more than thirty years prior.",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §2222, V & T L; amd §21.07, Pks & Rec L",
  "ActClause":"AN ACT to amend the vehicle and traffic law and the parks, recreation and historic preservation law, in relation to vintage snowmobile registrations",
- "PreviousVersions":["A7405-2019","A856-2021","A1839-2023"]
+ "SameAsPrintNo":"S7200-2025","PreviousVersions":["A7405-2019","A856-2021","A1839-2023"]
 }

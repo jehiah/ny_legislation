@@ -1,10 +1,12 @@
 {
- "PrintNo":"A2101","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:10:25.662348Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Corporations, Authorities And Commissions"}],
+ "PrintNo":"A2101","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:10:25.662348Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-17","Committee":"Energy"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-15","Chamber":"ASSEMBLY"},
-  {"Text":"REFERENCE CHANGED TO ENERGY","Date":"2025-03-21","Chamber":"ASSEMBLY"}
+  {"Text":"REFERENCE CHANGED TO ENERGY","Date":"2025-03-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2025-04-17","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2101A","Date":"2025-04-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
@@ -23,9 +25,9 @@
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},
   {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}
  ],
- "Title":"Relates to establishing the green affordable pre-electrification program",
- "Summary":"Establishes the green affordable pre-electrification program to assist owners and tenants in residential properties in curing structural and building code defects which render the properties ineligible for climate change adaptation and resiliency project grants.",
- "LawSection":"Public Authorities Law","LawCode":"Add §1872-b, Pub Auth L",
- "ActClause":"AN ACT to amend the public authorities law, in relation to establishing the green affordable pre-electrification program",
- "SameAsPrintNo":"S3315-2025","PreviousVersions":["A9170-2023"]
+ "Title":"Establishes the green affordable pre-electrification program",
+ "Summary":"Establishes the green affordable pre-electrification program to assist owners and tenants in residential properties in curing structural and building code defects which render the properties ineligible for improvements or projects relating to energy savings, green-house gas emissions reductions, climate change adaptation and resiliency project grants; establishes the energy efficiency and electrification interagency coordination group to coordinate between certain energy efficiency programs.",
+ "LawSection":"Private Housing Finance Law","LawCode":"Add Art 33 §§1300 - 1304, Priv Hous Fin L",
+ "ActClause":"AN ACT to amend the private housing finance law, in relation to establishing the green affordable pre-electrification program and the energy efficiency and electrification interagency coordination group",
+ "PreviousVersions":["A9170-2023"]
 }
