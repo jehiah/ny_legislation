@@ -1,11 +1,13 @@
 {
- "PrintNo":"A6781","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A6781","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-03-14T09:58:38.258516Z","Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Cities"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-17","Committee":"Cities"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-03-14","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CITIES","Date":"2025-04-02","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 6781A","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 6781A","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CITIES","Date":"2025-04-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 6781B","Date":"2025-04-17","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
@@ -17,6 +19,6 @@
  "Title":"Authorizes the city of New York to discontinue the use as parkland and alienate certain land within Flushing Meadows Corona Park",
  "Summary":"Authorizes the city of New York to discontinue the use as parkland and alienate certain land within Flushing Meadows Corona Park.",
  "LawSection":"Parks",
- "ActClause":"AN ACT authorizing the city of New York to discontinue certain parkland in Flushing Meadows Corona Park in the borough of Queens currently consisting of asphalt parking lots to allow for a new development with at least twenty acres of parkland",
- "PreviousVersions":["A5688-2023"]
+ "ActClause":"AN ACT authorizing the discontinuance of certain parkland in Flushing Meadows Corona Park in the borough of Queens",
+ "SameAsPrintNo":"S7121-2025","PreviousVersions":["A5688-2023"]
 }
