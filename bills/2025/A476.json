@@ -1,13 +1,17 @@
 {
- "PrintNo":"A476","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:08:59.20804Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A476","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T12:08:59.20804Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-21","Committee":"Local Governments"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-04-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 476A","Date":"2025-04-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}],
  "Title":"Requires certain municipal planning boards and zoning boards of appeals to receive environmentally conscious planning training",
  "Summary":"Requires certain municipal planning boards and zoning boards of appeals to receive at least one hour of environmentally conscious planning training annually.",
  "LawSection":"General Municipal Law",
  "LawCode":"Amd §239-c, Gen Muni L; amd §§27 & 81, Gen City L; amd §§267 & 271, Town L; amd §§7-712 & 7-718, Vil L",
  "ActClause":"AN ACT to amend the general municipal law, the general city law, the town law, and the village law, in relation to requiring certain municipal planning boards and zoning boards of appeals to receive environmentally conscious planning training",
- "PreviousVersions":["A10239-2023"]
+ "SameAsPrintNo":"S600-2025","PreviousVersions":["A10239-2023"]
 }

@@ -1,10 +1,13 @@
 {
- "PrintNo":"A1248","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:51:48.032481Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Codes"}],
+ "PrintNo":"A1248","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-09T10:51:48.032481Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-21","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-02","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-04-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1248A","Date":"2025-04-21","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -19,6 +22,31 @@
     {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
     {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
     {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-04-02","Chamber":"ASSEMBLY",
+   "Committee":"CODES",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Excused"},{"ID":1244,"Short":"FALL","Vote":"Absent"}
    ]
   }
  ],
@@ -35,11 +63,11 @@
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":1528,"Name":"Lester Chang","Short":"CHANG"},{"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"},
   {"ID":1529,"Name":"Samuel Pirozzolo","Short":"PIROZZOLO"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
-  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
- "Title":"Prohibits the sale of xylazine",
- "Summary":"Prohibits the knowing sale of xylazine to persons under the age of 21 and without proof of the intended use for institutional, veterinary, or scientific purposes.",
+ "Title":"Prohibits the sale of xylazine above a certain weight",
+ "Summary":"Prohibits the knowing sale of xylazine above a certain weight to persons under the age of 21 and without proof of the intended use for institutional, veterinary, or scientific purposes.",
  "LawSection":"General Business Law","LawCode":"Add §392-k, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the sale of xylazine",
+ "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the sale of xylazine above a certain weight",
  "PreviousVersions":["A6506-2023"]
 }
