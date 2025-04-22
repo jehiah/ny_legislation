@@ -1,12 +1,16 @@
 {
- "PrintNo":"S291","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-24T10:22:55.120857Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S291","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-24T10:22:55.120857Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-22","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-22","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 291A","Date":"2025-04-22","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}],
  "Title":"Designates a portion of the state highway system as the Trooper Edward L. Cunningham Memorial Bridge",
  "Summary":"Designates a portion of the state highway system in Nassau county as the \"Trooper Edward L. Cunningham Memorial Bridge\".",
  "LawSection":"Highway Law","LawCode":"Add §344-r, Hway L",
  "ActClause":"AN ACT to amend the highway law, in relation to designating a portion of the state highway system as the \"Trooper Edward L. Cunningham Memorial Bridge\"",
- "PreviousVersions":["S8928-2021","S7015-2023"]
+ "SameAsPrintNo":"A4370-2025","PreviousVersions":["S8928-2021","S7015-2023"]
 }

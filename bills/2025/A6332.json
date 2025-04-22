@@ -1,11 +1,12 @@
 {
- "PrintNo":"A6332","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-04T10:38:34.721717Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-13"}],
+ "PrintNo":"A6332","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-04T10:38:34.721717Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-22"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-03-04","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-03-11","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.59","Date":"2025-03-13","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.59","Date":"2025-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 6332A","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,10 +30,10 @@
   {"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},
-  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
+  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":500,"Name":"William Colton","Short":"COLTON"}
  ],
  "Title":"Requires court clerk to mail disposition of criminal felony trial to any crime victim not present at time defendant sentenced or acquitted after completion of trial",
- "Summary":"Requires that following the acquittal after trial or the sentencing of any defendant for a felony, the clerk of the court, or such clerk's designee, shall mail a written summary of the disposition of such felony to any victim who was not present at the time that the defendant was sentenced or acquitted after trial.",
+ "Summary":"Requires that following the acquittal after trial or the sentencing of any defendant for a felony, the district attorney, or their designee, shall mail a written summary of the disposition of such felony to any victim who was not present at the time that the defendant was sentenced or acquitted after trial.",
  "LawSection":"Criminal Procedure Law","LawCode":"Amd §380.50, CP L",
  "ActClause":"AN ACT to amend the criminal procedure law, in relation to notifying certain crime victims of the disposition of criminal trial",
  "PreviousVersions":["A5550-2007","A1293-2009","A1856-2011","A2937-2013","A3765-2015","A3779-2017","A4587-2019","A2524-2021","A1332-2023"]
