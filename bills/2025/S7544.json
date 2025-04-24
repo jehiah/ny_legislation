@@ -1,17 +1,21 @@
 {
- "PrintNo":"S7544","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-22T14:21:05.069987Z",
- "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-22","Committee":"Women's Issues"}],
- "Actions":[{"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-04-22","Chamber":"SENATE"}],
+ "PrintNo":"S7544","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-22T14:21:05.069987Z","Status":"IN_SENATE_COMM","Committee":"Women's Issues",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Women's Issues"}],
+ "Actions":[
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-04-22","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WOMEN'S ISSUES","Date":"2025-04-23","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7544A","Date":"2025-04-23","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
   {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}
  ],
- "Title":"Requires the advisory council on maternal mortality and morbidity to undertake a review of the cesarean births at hospitals in the state",
- "Summary":"Requires the advisory council on maternal mortality and morbidity to undertake a review of the cesarean births at hospitals in the state; requires two licensed midwives to be on the advisory council.",
- "LawSection":"Public Health Law","LawCode":"Amd §2509, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to requiring the advisory council on maternal mortality and morbidity to undertake a review of the cesarean births at hospitals in the state",
- "PreviousVersions":["S8866-2021","S5517-2023"]
+ "Title":"Establishes the cesarean births review board",
+ "Summary":"Establishes the cesarean births review board; provides such board shall be comprised of multidisciplinary experts to review the rate of cesarean births at hospitals in the state; provides reporting requirements.",
+ "LawSection":"Public Health Law","LawCode":"Add §2500-n, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to establishing the cesarean births review board",
+ "SameAsPrintNo":"A1541-2025","PreviousVersions":["S8866-2021","S5517-2023"]
 }

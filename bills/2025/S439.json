@@ -1,11 +1,16 @@
 {
- "PrintNo":"S439","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S439","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2024-12-31T11:56:17.00319Z","Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Crime Victims, Crime And Correction"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Crime Victims, Crime And Correction"}],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-23","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 439A","Date":"2025-01-23","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 439A","Date":"2025-01-23","Chamber":"SENATE","Version":"A"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-04-23","Chamber":"SENATE",
+   "Version":"A"
+  },
+  {"Text":"PRINT NUMBER 439B","Date":"2025-04-23","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
@@ -16,9 +21,9 @@
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
  ],
- "Title":"Enacts \"the prison minimum wage act\" relating to payment for labor performed by incarcerated individuals",
+ "Title":"Enacts \"the prison wage act\" relating to payment for labor performed by incarcerated individuals",
  "Summary":"Enacts \"the prison minimum wage act\" relating to payment for labor performed by incarcerated individuals.",
  "LawSection":"Correction Law","LawCode":"Amd §§170, 171, 177, 178, 184, 186, 187 & 200, Cor L",
- "ActClause":"AN ACT to amend the correction law, in relation to enacting \"the prison minimum wage act\"",
+ "ActClause":"AN ACT to amend the correction law, in relation to enacting \"the prison wage act\"",
  "SameAsPrintNo":"A3596-2025","PreviousVersions":["A11317-2017","S3138-2019","S287-2021","S2345-2023"]
 }
