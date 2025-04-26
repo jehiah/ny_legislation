@@ -3,7 +3,10 @@
  "Status":"IN_SENATE_COMM","Committee":"Insurance",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Insurance"}],
  "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-22","Chamber":"SENATE"}],
- "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
+ "Sponsors":[
+  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}
+ ],
  "Title":"Prohibits the retrospective denial of payment for substance use disorder treatment services",
  "Summary":"Prohibits the retrospective denial of payment for substance use disorder treatment services if an insured was covered for such services at the time treatment was initiated; requires insurers to notify a treatment provider when an insured has lost coverage based on termination of the insured's employment.",
  "LawSection":"Insurance Law","LawCode":"Add §3246, Ins L",

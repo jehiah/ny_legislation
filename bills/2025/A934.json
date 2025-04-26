@@ -1,8 +1,12 @@
 {
- "PrintNo":"A934","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T15:08:59.253845Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A934","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T15:08:59.253845Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-25","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-04-25","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 934A","Date":"2025-04-25","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
@@ -10,7 +14,7 @@
  ],
  "Title":"Relates to peremptory challenges where there are two or more defendants",
  "Summary":"Provides that if there is a tie when there is an even number of defendants, a peremptory challenge must be allowed.",
- "LawSection":"Criminal Procedure Law","LawCode":"Amd §270.25, CP L",
+ "LawSection":"Criminal Procedure Law","LawCode":"Amd §§270.25 & 360.30, CP L",
  "ActClause":"AN ACT to amend the criminal procedure law, in relation to peremptory challenges",
- "SameAsPrintNo":"S6735-2025","PreviousVersions":["A10670-2023"]
+ "PreviousVersions":["A10670-2023"]
 }

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1461","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T13:14:51.860098Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1461","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-09T13:14:51.860098Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-25","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-04-25","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1461A","Date":"2025-04-25","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
@@ -24,7 +28,7 @@
  ],
  "Title":"Relates to the use of psychotropic medications in nursing homes and adult care facilities",
  "Summary":"Relates to the use of antipsychotic medications in nursing homes; imposes limits as to time and documentation; requires informed consent under certain circumstances.",
- "LawSection":"Public Health Law","LawCode":"Add §280-d, Pub Health L",
+ "LawSection":"Public Health Law","LawCode":"Add §280-e, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to the use of psychotropic medications in nursing homes and adult care facilities",
- "SameAsPrintNo":"S893-2025","PreviousVersions":["A7351-2015","A5332-2017","A1033-2019","A5841-2021","A7467-2023"]
+ "PreviousVersions":["A7351-2015","A5332-2017","A1033-2019","A5841-2021","A7467-2023"]
 }

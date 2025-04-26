@@ -1,11 +1,20 @@
 {
- "PrintNo":"A2093","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:07:55.522472Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2093","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:07:55.522472Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-25","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-04-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2093A","Date":"2025-04-07","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-04-25","Chamber":"ASSEMBLY",
+   "Version":"A"
+  },
+  {"Text":"PRINT NUMBER 2093B","Date":"2025-04-25","Chamber":"ASSEMBLY","Version":"B"}
+ ],
  "Sponsors":[{"ID":1244,"Name":"Charles Fall","Short":"FALL"}],
  "Title":"Enacts the \"consumer protection and automotive transparency act\"",
- "Summary":"Enacts the consumer protection and automotive transparency act mandating transparency in automotive labeling relating to materials used in automobiles.",
+ "Summary":"Enacts the consumer protection and automotive transparency act mandating transparency in automotive labeling relating to materials used in motor vehicles.",
  "LawSection":"General Business Law","LawCode":"Add §198-d, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"consumer protection and automotive transparency act\"",
  "PreviousVersions":["A9040-2023"]
