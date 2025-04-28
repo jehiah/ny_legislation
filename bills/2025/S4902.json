@@ -1,8 +1,14 @@
 {
  "PrintNo":"S4902","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T10:08:47.827281Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-14","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-14","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.706","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Requires cell towers to be equipped with a back-up power source in case of a power outage",
  "Summary":"Requires cell towers to be equipped with a back-up power source in case of a power outage.",

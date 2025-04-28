@@ -1,8 +1,28 @@
 {
  "PrintNo":"S374","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T11:36:28.534112Z",
- "Status":"IN_SENATE_COMM","Committee":"Ethics And Internal Governance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Ethics And Internal Governance"}],
- "Actions":[{"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Ethics And Internal Governance"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.700","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE","Committee":"Ethics And Internal Governance",
+   "Votes":[
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Nay"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
@@ -14,5 +34,5 @@
  "Summary":"Requires registration and the disclosure of information relating to lobbying for the nomination or confirmation of persons to state office.",
  "LawSection":"Legislative Law","LawCode":"Amd §§1-a, 1-c, 1-e, 1-h, 1-j & 1-k, Leg L",
  "ActClause":"AN ACT to amend the legislative law, in relation to lobbying for the confirmation of persons to state office",
- "PreviousVersions":["S4152-2023","S7883-2023"]
+ "SameAsPrintNo":"A7456-2025","PreviousVersions":["S4152-2023","S7883-2023"]
 }

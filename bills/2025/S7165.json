@@ -1,15 +1,20 @@
 {
  "PrintNo":"S7165","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-03T10:06:43.362183Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Energy And Telecommunications"}],
+ "Published":"2025-04-03T10:06:43.362183Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-04-03","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 7165A","Date":"2025-04-08","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 7165A","Date":"2025-04-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.711","Date":"2025-04-28","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
  "Title":"Authorizes the public service commission to consider non-economic loss suffered by consumers when determining penalties",
  "Summary":"Authorizes the public service commission to consider non-economic loss suffered by consumers, including pain and suffering or mental anguish, when determining penalties against a public utility company, corporation or person or a combination gas and electric corporation.",
  "LawSection":"Public Service Law","LawCode":"Amd §§25 & 25-a, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to authorizing consideration of non-economic loss suffered by consumers when determining penalties"
+ "ActClause":"AN ACT to amend the public service law, in relation to authorizing consideration of non-economic loss suffered by consumers when determining penalties",
+ "SameAsPrintNo":"A8025-2025"
 }

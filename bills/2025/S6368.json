@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6368","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-11T15:45:16.688006Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-11","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-11","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.697","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Requires that in the event a complaint made to local code enforcement results in the issuance of a compliance order, the complainant shall also be provided a copy of such order",
  "Summary":"Requires that when a complaint is made to local code enforcement of a violation of the uniform fire prevention and building code which results in the issuance of a compliance order, the complainant shall also be provided a copy of such order.",

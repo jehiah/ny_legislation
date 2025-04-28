@@ -1,8 +1,14 @@
 {
  "PrintNo":"S1551","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T14:20:51.368622Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-10","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-10","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.704","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
   {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},

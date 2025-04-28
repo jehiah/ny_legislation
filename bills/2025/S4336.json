@@ -1,8 +1,14 @@
 {
  "PrintNo":"S4336","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T10:20:18.352388Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.705","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
  "Title":"Requires gas and electric utilities to make available to landlords upon request information concerning gas and electric charges incurred for residential premises",
  "Summary":"Requires gas and electric utilities to make available to landlords or lessors, upon request of prospective tenants or lessees, information concerning gas and electric charges incurred for residential rental premises.",

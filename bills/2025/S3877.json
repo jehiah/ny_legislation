@@ -1,13 +1,17 @@
 {
  "PrintNo":"S3877","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T13:31:17.394106Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Housing, Construction And Community Development"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2025-01-30","Chamber":"SENATE"},
   {
    "Text":"REPORTED AND COMMITTED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-04-08",
    "Chamber":"SENATE"
-  }
+  },
+  {"Text":"1ST REPORT CAL.695","Date":"2025-04-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

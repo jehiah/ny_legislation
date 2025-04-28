@@ -1,8 +1,10 @@
 {
  "PrintNo":"S4321","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T10:00:28.741449Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-04","Chamber":"SENATE"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-04","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"}],
  "Title":"Enacts the \"protect our pedestrians (POP) act\"",
  "Summary":"Permits the villages of Upper Brookville, Flower Hill, East Hampton, Westbury, Saddle Rock and Southampton located in Nassau and Suffolk county to adopt local laws to implement a demonstration program imposing monetary liability not to exceed fifty dollars on the owner of a vehicle for failure of an operator to comply with stop signs; permits such villages to install and operate stop sign photo violation monitoring systems as part of such demonstration program.",

@@ -1,11 +1,13 @@
 {
- "PrintNo":"A6490","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A6490","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-03-05T13:48:54.439355Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-07","Committee":"Education"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-23","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-03-05","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2025-04-07","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 6490A","Date":"2025-04-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 6490A","Date":"2025-04-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-04-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 6490B","Date":"2025-04-23","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
@@ -18,11 +20,13 @@
   {"ID":608,"Name":"Edward Ra","Short":"RA"},{"ID":1125,"Name":"Brian D. Miller","Short":"MILLER"},
   {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
   {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
-  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1548,"Name":"Emerita Torres","Short":"TORRES"}
+  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},
+  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1556,"Name":"Daniel Norber","Short":"NORBER"},
+  {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"}
  ],
  "Title":"Requires instruction in arts and music education to be incorporated into curriculums for all public school students",
  "Summary":"Requires instruction in arts and music education to be incorporated into curriculums for all public school students; requires school districts to ensure that appropriately certified teachers are providing such education; authorizes rules and regulations consistent with such provisions.",
  "LawSection":"Education Law","LawCode":"Add §819, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to adding arts and music education into the curriculum for public school students",
- "PreviousVersions":["A9660-2019","A1788-2021","A1502-2023"]
+ "SameAsPrintNo":"S6318-2025","PreviousVersions":["A9660-2019","A1788-2021","A1502-2023"]
 }

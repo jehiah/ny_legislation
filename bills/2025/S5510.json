@@ -1,8 +1,14 @@
 {
  "PrintNo":"S5510","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-24T09:36:23.073211Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-24","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-24","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-24","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.707","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
  "Title":"Requires the New York state energy research and development authority to develop recommendations regarding the establishment of microgrids",
  "Summary":"Requires the New York state energy research and development authority to develop recommendations regarding the establishment of microgrids.",

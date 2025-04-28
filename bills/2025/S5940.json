@@ -1,8 +1,14 @@
 {
  "PrintNo":"S5940","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T09:51:58.158514Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.696","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Permits unvented attics and unvented enclosed rafter assemblies to be sealed with air-impermeable insulation in order to help attain building decarbonization goals",
  "Summary":"Permits unvented attics and unvented enclosed rafter assemblies to be sealed with air-impermeable insulation in order to help attain building decarbonization goals.",

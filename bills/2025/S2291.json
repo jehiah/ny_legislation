@@ -1,8 +1,14 @@
 {
  "PrintNo":"S2291","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:55:10.550768Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-16","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.694","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Expands the applicability of the assessment exemption for living quarters for parent or grandparent",
  "Summary":"Expands the applicability of the assessment exemption for living quarters for parent or grandparent to include living quarters constructed or reconstructed before the effective date of the section providing such exemption.",

@@ -1,12 +1,19 @@
 {
  "PrintNo":"S6971","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T15:43:23.444595Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.698","Date":"2025-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
  "Title":"Relates to actions upon a subordinate bond or note",
  "Summary":"Relates to actions upon a subordinate bond or note; provides a statute of limitations for such actions.",
  "LawSection":"Real Property Actions and Proceedings Law",
  "LawCode":"Amd §§1302, 1302-a, 1311 & 1321, RPAP L; amd §§213, 203, 205-a & 3012-b, R3408, add §213-e, CPLR",
- "ActClause":"AN ACT to amend the real property actions and proceedings law and the civil practice law and rules, in relation to actions upon a subordinate bond or note"
+ "ActClause":"AN ACT to amend the real property actions and proceedings law and the civil practice law and rules, in relation to actions upon a subordinate bond or note",
+ "SameAsPrintNo":"A7546-2025"
 }

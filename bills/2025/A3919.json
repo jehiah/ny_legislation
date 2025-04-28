@@ -1,16 +1,20 @@
 {
- "PrintNo":"A3919","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T12:15:54.274265Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3919","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T12:15:54.274265Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-28","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3919A","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"}
  ],
- "Title":"Establishes a medical loss ratio for dental insurance",
- "Summary":"Establishes a medical loss ratio for dental insurance of not less than 82% for calendar year 2026 and thereafter.",
+ "Title":"Establishes a requirement for information related to specialized dental benefit plans",
+ "Summary":"Requires insurers and corporations that issue, sell, renew or offer a specialized dental benefits plan policy or contract to report annually on data related to such dental benefits plan policies.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3231 & 4308, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to establishing a medical loss ratio for dental insurance",
- "SameAsPrintNo":"S6254-2025","PreviousVersions":["A7852-2023"]
+ "ActClause":"AN ACT to amend the insurance law, in relation to establishing a requirement for information related to specialized dental benefit plans",
+ "PreviousVersions":["A7852-2023"]
 }
