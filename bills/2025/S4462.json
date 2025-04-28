@@ -1,20 +1,23 @@
 {
- "PrintNo":"S4462","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S4462","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-02-05T14:09:48.674593Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-24","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-28","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-02-24","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 4462A","Date":"2025-02-24","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 4462A","Date":"2025-02-24","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-04-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 4462B","Date":"2025-04-28","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"},
-  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"}
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
+  {"ID":1490,"Name":"Dan Stec","Short":"STEC"}
  ],
  "Title":"Authorizes Medicaid coverage for the complex care assistant program",
- "Summary":"Establish a program for specific individuals to become complex care assistants and provide private duty nursing services to certain Medicaid enrollees.",
+ "Summary":"Establishes a program for specific individuals to become complex care assistants and provide private duty nursing services to certain Medicaid enrollees.",
  "LawSection":"Social Services Law","LawCode":"Add §365-q, Soc Serv L",
  "ActClause":"AN ACT to amend the social services law, in relation to authorizing Medicaid coverage for complex care assistant services",
  "SameAsPrintNo":"A464-2025","PreviousVersions":["A9034-2023","S8599-2023"]

@@ -1,10 +1,12 @@
 {
- "PrintNo":"A1006","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T15:44:07.019426Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Ways And Means"}],
+ "PrintNo":"A1006","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T15:44:07.019426Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-28","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-18","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1006A","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -53,5 +55,5 @@
  "Summary":"Eliminates provisions exempting employees with disabilities from the minimum wage law; provides that laws or minimum wage orders that authorize an employer to pay a wage that is less than the minimum wage are valid provided that under such laws or orders an employee with a disability is paid the same wage as an employee in a comparable position that does not have a disability.",
  "LawSection":"Labor Law","LawCode":"Amd §§651 & 655, Lab L",
  "ActClause":"AN ACT to amend the labor law, in relation to the minimum wage for employees with disabilities",
- "PreviousVersions":["A11290-2017","A7077-2019","A3103-2021","A4347-2023"]
+ "SameAsPrintNo":"S28-2025","PreviousVersions":["A11290-2017","A7077-2019","A3103-2021","A4347-2023"]
 }
