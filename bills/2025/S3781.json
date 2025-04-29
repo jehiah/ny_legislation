@@ -1,8 +1,28 @@
 {
  "PrintNo":"S3781","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T08:59:24.795432Z",
- "Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Children And Families"}],
- "Actions":[{"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Children And Families"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.725","Date":"2025-04-29","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE","Committee":"Children And Families",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}

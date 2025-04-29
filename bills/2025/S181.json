@@ -1,8 +1,27 @@
 {
  "PrintNo":"S181","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-19T15:16:43.608791Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Social Services"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.731","Date":"2025-04-29","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},

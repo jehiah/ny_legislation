@@ -1,8 +1,28 @@
 {
  "PrintNo":"S5242","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-20T09:37:36.713838Z",
- "Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Children And Families"}],
- "Actions":[{"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Children And Families"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.726","Date":"2025-04-29","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE","Committee":"Children And Families",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"}],
  "Title":"Relates to collecting data regarding alternative living arrangements for children who are at a substantial risk of maltreatment",
  "Summary":"Relates to collecting data regarding alternative living arrangements for children who are at a substantial risk of maltreatment.",

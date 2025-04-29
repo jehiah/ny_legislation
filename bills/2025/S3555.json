@@ -1,11 +1,25 @@
 {
  "PrintNo":"S3555","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-28T11:35:18.777084Z","Status":"IN_SENATE_COMM","Committee":"Aging",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Aging"}],
+ "Published":"2025-01-28T11:35:18.777084Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-01-28","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO AGING","Date":"2025-03-25","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 3555A","Date":"2025-03-25","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 3555A","Date":"2025-03-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Version":"A","Chamber":"SENATE","Committee":"Aging",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Relates to establishing the expanded pharmaceutical insurance coverage panel",

@@ -1,13 +1,34 @@
 {
  "PrintNo":"S683","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-03T13:53:45.59744Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Local Government"}],
+ "Published":"2025-01-03T13:53:45.59744Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2025-02-28","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 683A","Date":"2025-02-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 683A","Date":"2025-02-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.719","Date":"2025-04-29","Chamber":"SENATE","Version":"A"}
  ],
- "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Version":"A","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+ ],
  "Title":"Establishes a real property tax exemption for surviving spouses of police officers killed in the line of duty",
  "Summary":"Establishes a real property tax exemption for the primary residences of surviving spouses of police officers killed in the line of duty.",
  "LawSection":"Real Property Tax Law","LawCode":"Add §471, RPT L",
