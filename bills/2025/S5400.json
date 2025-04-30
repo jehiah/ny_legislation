@@ -1,15 +1,17 @@
 {
  "PrintNo":"S5400","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T10:23:06.427663Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-10"},{"Type":"PASSED_SENATE","Date":"2025-04-30"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-02-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.665","Date":"2025-04-08","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-09","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -26,7 +28,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
+ "Sponsors":[
+  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}
+ ],
  "Title":"Exempts operators of law enforcement and fire department vessels from laws which regulate vessels on the navigable waters of the state while responding to emergencies",
  "Summary":"Exempts operators of law enforcement and fire department vessels from laws which regulate vessels on the navigable waters of the state while such operators are in the course of responding to emergencies.",
  "LawSection":"Navigation Law","LawCode":"Add §39-c, Nav L",

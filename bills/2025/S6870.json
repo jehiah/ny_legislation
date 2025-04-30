@@ -1,12 +1,17 @@
 {
  "PrintNo":"S6870","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-25T15:31:01.98707Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-04-10"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-04-10"},
+  {"Type":"PASSED_SENATE","Date":"2025-04-30"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.652","Date":"2025-04-08","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-09","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,8 +1,12 @@
 {
  "PrintNo":"S1746","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T12:52:17.497689Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-04-30"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.885","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Provides for the review of policies and practices pertaining to emerging infectious disease outbreaks in correctional facilities",
  "Summary":"Provides for the review of policies and practices pertaining to infectious disease outbreaks in correctional facilities, including the treatment and prevention of the disease among incarcerated individuals and staff.",

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4574","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-07T14:03:33.828537Z","Status":"PASSED_SENATE",
+ "Published":"2025-02-07T14:03:33.828537Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-08"},{"Type":"PASSED_SENATE","Date":"2025-04-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-08"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-07","Chamber":"SENATE"},
@@ -14,7 +15,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-07","Chamber":"SENATE","Version":"A"},
   {"Text":"AMENDED ON THIRD READING 4574B","Date":"2025-04-08","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-04-22","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -101,7 +103,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
+ "Sponsors":[
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
+ ],
  "Title":"Enacts the \"PFAS discharge disclosure act\"",
  "Summary":"Enacts the \"PFAS discharge disclosure act\"; requires certain SPDES permit holders to conduct PFAS monitoring and disclose the results from such monitoring.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §17-0833, En Con L",

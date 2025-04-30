@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7220","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-04T14:18:32.305839Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-04","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-04","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.908","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Relates to continuing education requirements for landscape architects",
  "Summary":"Relates to continuing education requirements for landscape architects; provides that adjustments to such requirements may be granted for health reasons, active duty, or other good cause; limits the number of credit hours that may carry over to the next registration period.",

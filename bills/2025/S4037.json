@@ -1,12 +1,16 @@
 {
- "PrintNo":"S4037","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T11:06:48.569907Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-31","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-01-31","Chamber":"SENATE"}],
+ "PrintNo":"S4037","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-31T11:06:48.569907Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-01-31","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4037A","Date":"2025-04-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to the compulsory age for full time instruction from six to five years of age and certain exceptions for minor children",
  "Summary":"Relates to the compulsory age for full time instruction from six to five years of age and certain exceptions for minor children.",
  "LawSection":"Education Law","LawCode":"Amd §§2 & 3205, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to the compulsory age for full time instruction and certain related exceptions",
- "SameAsPrintNo":"A323-2025","PreviousVersions":["A9722-2015","A100-2017","A500-2019","S7528-2021","S3573-2023"]
+ "PreviousVersions":["A9722-2015","A100-2017","A500-2019","S7528-2021","S3573-2023"]
 }

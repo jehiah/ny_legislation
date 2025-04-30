@@ -1,8 +1,12 @@
 {
  "PrintNo":"S5812","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-03T11:42:28.999712Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-03-03","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-04-30"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.894","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Prohibits approved providers of child health insurance coverage from discriminating against health care providers not participating in the insurer's network",
  "Summary":"Prohibits approved organizations providing coverage under the child health insurance plan from discriminating against health care providers which do not participate in the organization's health care network.",

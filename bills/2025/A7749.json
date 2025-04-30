@@ -1,8 +1,30 @@
 {
  "PrintNo":"A7749","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-08T13:27:05.666357Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Tourism, Parks, Arts And Sports Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Tourism, Parks, Arts And Sports Development"}],
- "Actions":[{"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-04-08","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-04-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-30","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-04-30","Chamber":"ASSEMBLY",
+   "Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "Votes":[
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1120,"Short":"JONES","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Excused"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Excused"},{"ID":1244,"Short":"FALL","Vote":"Excused"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":659,"Name":"Ron Kim","Short":"KIM"}],
  "Title":"Requires the Office of Parks, Recreation and Historic Preservation to establish standards for the closing of trails on the Empire state trail",
  "Summary":"Requires the Office of Parks, Recreation and Historic Preservation to establish standards for the closing of segments of trails on the Empire state trail, and provide notice of such closings to the public.",

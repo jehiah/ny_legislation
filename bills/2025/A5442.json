@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5442","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-14T09:34:58.503489Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-14","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-02-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5442","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-14T09:34:58.503489Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2025-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5442A","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
@@ -12,5 +16,6 @@
  "Title":"Enacts the \"rate hike notice act\"",
  "Summary":"Enacts the \"rate hike notice act\" which requires utilities in the state of New York to provide notice of a proposed rate hike to a customer via text, email and via such customer's monthly billing statement.",
  "LawSection":"Public Service Law","LawCode":"Amd §66, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to enacting the \"rate hike notice act\""
+ "ActClause":"AN ACT to amend the public service law, in relation to enacting the \"rate hike notice act\"",
+ "SameAsPrintNo":"S5553-2025"
 }

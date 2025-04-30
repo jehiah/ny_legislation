@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6891","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-26T10:34:40.558253Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-26","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-26","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.906","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}

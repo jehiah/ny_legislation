@@ -1,12 +1,39 @@
 {
  "PrintNo":"A1354","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T11:43:55.092721Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-09","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-30","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-04-30","Chamber":"ASSEMBLY",
+   "Committee":"ENVIRONMENTAL CONSERVATION",
+   "Votes":[
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":625,"Short":"BARRETT","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":1536,"Short":"SLATER","Vote":"Nay"},{"ID":1566,"Short":"BAILEY","Vote":"Nay"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
-  {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"}
+  {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
  "Title":"Prohibits the idling of any passenger vehicle for more than 3 consecutive minutes",
  "Summary":"Prohibits the idling of any passenger vehicle, with certain exceptions, for more than 3 consecutive minutes; establishes the first violation is a warning and subsequent violations of such section are traffic infractions punishable by a fine of $150.",

@@ -1,8 +1,29 @@
 {
  "PrintNo":"S7624","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T14:07:44.109464Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-23","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-23","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.881","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE","Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Extends provisions relating to the imposition of an occupancy tax on the village of Mount Kisco until September 1, 2027",
  "Summary":"Extends provisions relating to the imposition of an occupancy tax on the village of Mount Kisco until September 1, 2027.",

@@ -1,10 +1,11 @@
 {
  "PrintNo":"A6869","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-14T16:31:18.950718Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-01"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-04-02"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Investigations And Government Operations"}
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-30"},{"Type":"PASSED_SENATE","Date":"2025-04-30"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-14","Chamber":"ASSEMBLY"},
@@ -16,7 +17,11 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.133","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-04-02","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-04-02","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-02","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-02","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S7320","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.691","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"}
  ],
  "Votes":[
   {

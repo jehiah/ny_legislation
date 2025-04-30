@@ -1,11 +1,15 @@
 {
- "PrintNo":"S7633","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-24T11:02:58.267594Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-24","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-04-24","Chamber":"SENATE"}],
+ "PrintNo":"S7633","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-24T11:02:58.267594Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-24","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO JUDICIARY","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7633A","Date":"2025-04-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to actions and proceedings seeking an abatement of rent based on violations of the housing maintenance code",
  "Summary":"Relates to actions and proceedings seeking an abatement of rent based on violations of the housing maintenance code, applicable housing standards, the building code, or the health code.",
  "LawSection":"New York City Civil Court Act","LawCode":"Amd §110, NYC Civ Ct Act",
- "ActClause":"AN ACT to amend the New York city civil court act, in relation to actions and proceedings seeking an abatement of rent based on violations of the housing maintenance code"
+ "ActClause":"AN ACT to amend the New York city civil court act, in relation to actions and proceedings seeking an abatement of rent based on violations of the housing maintenance code or the warranty of habitability"
 }

@@ -1,8 +1,32 @@
 {
  "PrintNo":"S896","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T15:11:53.680139Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Veterans, Homeland Security And Military Affairs"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.739","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE",
+   "Committee":"Veterans, Homeland Security And Military Affairs",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
  "Title":"Relates to the establishment of local comprehensive emergency management plans",
  "Summary":"Requires the inclusion of local and municipal animal shelters, a society for the prevention of cruelty to animals and veterinary services when establishing local comprehensive emergency management plans; requires that information to the public include the communication accommodation needs of persons with vision or hearing impairments and information on which temporary housing and other necessary facilities are designated as animal-friendly.",

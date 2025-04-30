@@ -1,13 +1,40 @@
 {
  "PrintNo":"A4550","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-04T11:51:52.136574Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-18","Committee":"Labor"}],
+ "Published":"2025-02-04T11:51:52.136574Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-04","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-04-18","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 4550A","Date":"2025-04-18","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 4550A","Date":"2025-04-18","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-04-30","Chamber":"ASSEMBLY",
+   "Committee":"LABOR",
+   "Votes":[
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Nay"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},
+  {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":500,"Name":"William Colton","Short":"COLTON"}
+ ],
  "Title":"Requires the department of labor to study the long-term impact of artificial intelligence on the state workforce",
  "Summary":"Requires the department of labor to study the long-term impact of artificial intelligence on the state workforce including but not limited to job performance, productivity, training, education requirements, privacy and security; prohibits any state entity from using artificial intelligence in any way that would result in the displacement of any currently employed worker or loss of position, including partial displacement such as a reduction in the hours of non-overtime work, wages or employment benefits, or results in the impairment of existing collective bargaining agreements.",
  "LawSection":"Labor Law","LawCode":"Add §12-a, Lab L",

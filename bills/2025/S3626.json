@@ -1,8 +1,29 @@
 {
  "PrintNo":"S3626","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T09:22:22.124298Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-29","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-29","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.811","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE","Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}],
  "Title":"Extends the authorization for the county of Schoharie to impose a county recording tax on obligation secured by a mortgage on real property",
  "Summary":"Extends the authorization for the county of Schoharie to impose a county recording tax on obligation secured by a mortgage on real property.",

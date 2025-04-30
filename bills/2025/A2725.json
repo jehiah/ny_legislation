@@ -1,12 +1,41 @@
 {
- "PrintNo":"A2725","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-22T09:28:27.345867Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-22","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-22","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
- "Title":"Requires first aid materials in certain workplaces to include opioid antagonist",
- "Summary":"Requires workplaces to provide opioid antagonist where first aid kits are required by OSHA.",
+ "PrintNo":"A2725","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-22T09:28:27.345867Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-22","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-04-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2725A","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-04-30","Chamber":"ASSEMBLY","Committee":"LABOR",
+   "Votes":[
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
+  {"ID":500,"Name":"William Colton","Short":"COLTON"}
+ ],
+ "Title":"Requires employers to include an opioid antagonist where first aid kits are required by federal law",
+ "Summary":"Requires employers to include an opioid antagonist where first aid kits are required by federal law.",
  "LawSection":"Labor Law","LawCode":"Add §27-f, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to requiring first aid materials in certain workplaces to include opioid antagonist",
- "SameAsPrintNo":"S5922-2025"
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to include an opioid antagonist in first aid supplies required by federal law"
 }

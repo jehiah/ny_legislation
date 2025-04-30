@@ -1,15 +1,45 @@
 {
- "PrintNo":"A3279","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T10:39:22.276557Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-01-27","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3279","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-27T10:39:22.276557Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2025-04-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3279A","Date":"2025-04-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-04-30","Chamber":"ASSEMBLY",
+   "Committee":"BANKS",
+   "Votes":[
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"},{"ID":1548,"Short":"TORRES","Vote":"Excused"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
-  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
+  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1254,"Name":"Patrick Burke","Short":"BURKE"},
+  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Establishes the New York state cryptocurrency and blockchain study task force",
  "Summary":"Establishes the New York state cryptocurrency and blockchain study task force to provide the governor and the legislature with information on the effects of the widespread use of cryptocurrencies and other forms of digital currencies and their ancillary systems, including but not limited to blockchain technology, in the state.",
  "LawSection":"Financial Services",
  "ActClause":"AN ACT in relation to establishing the New York state cryptocurrency and blockchain study task force; and providing for the repeal of such provisions upon expiration thereof",
- "SameAsPrintNo":"S4728-2025","PreviousVersions":["A9275-2021","A9507-2023","A954-2023"]
+ "PreviousVersions":["A9275-2021","A9507-2023","A954-2023"]
 }

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A7496","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-28T14:30:35.464257Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-28","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-03-28","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7496","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-28T14:30:35.464257Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-03-28","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7496A","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
@@ -37,5 +41,5 @@
  "Summary":"Establishes the healthy and safe students act; requires comprehensive sexuality instruction for students in grades K-12 which includes a model curricula for comprehensive sexuality education and at a minimum conforms to the content and scope of national sexuality education standards.",
  "LawSection":"Education Law","LawCode":"Add §804-e, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to establishing the healthy and safe students act",
- "SameAsPrintNo":"S6901-2025","PreviousVersions":["A10517-2017","A6512-2019","A6616-2021","A4604-2023"]
+ "PreviousVersions":["A10517-2017","A6512-2019","A6616-2021","A4604-2023"]
 }

@@ -1,8 +1,32 @@
 {
  "PrintNo":"S5246","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-20T10:04:09.847502Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-02-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Veterans, Homeland Security And Military Affairs"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-02-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.742","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE",
+   "Committee":"Veterans, Homeland Security And Military Affairs",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"}],
  "Title":"Expands the definition of veteran to include members of the commissioned corps of the national oceanic and atmospheric administration and the commissioned corps of the public health service",
  "Summary":"Expands the definition of veteran to include members of the commissioned corps of the NOAA and the commissioned corps of the public health service; expands access to certain benefits to those who served in the commissioned corps of the NOAA and the commissioned corps of the public health service.",

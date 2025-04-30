@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6745","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-21T14:49:59.004641Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-21","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-21","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-21","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-21","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.905","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}],
  "Title":"Relates to reporting requirements of SUNY and CUNY",
  "Summary":"Relates to reporting requirements of SUNY and CUNY; relates to financial information and identifying vendor information of each contract; relates to a list of all foundation and state university employees by campus, department and location including salaries, job titles and descriptions.",

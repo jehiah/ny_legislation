@@ -1,8 +1,12 @@
 {
  "PrintNo":"S1425","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T14:46:52.99769Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-04-30"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.884","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
   {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}
@@ -10,6 +14,6 @@
  "Title":"Relates to airport noise studies",
  "Summary":"Relates to establishing a uniform metric for measuring noise impacts that will be used by airports for the purpose of noise exposure maps and noise compatibility programs.",
  "LawSection":"Public Health Law","LawCode":"Add Art 13 Title 14 §§1389-hh - 1389-jj, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to airport noise studies",
+ "ActClause":"AN ACT to amend the public health law, in relation to airport noise studies","SameAsPrintNo":"A7946-2025",
  "PreviousVersions":["A11277-2017","S6676-2019","S934-2021","S4504-2023"]
 }
