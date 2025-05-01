@@ -1,11 +1,32 @@
 {
  "PrintNo":"A2538","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-17T12:57:54.719751Z","Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Social Services"}],
+ "Published":"2025-01-17T12:57:54.719751Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Social Services"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-01"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-17","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO SOCIAL SERVICES","Date":"2025-04-11","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2538A","Date":"2025-04-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2538A","Date":"2025-04-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.110","Date":"2025-05-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-04-29","Chamber":"ASSEMBLY","Committee":"SOCIAL SERVICES",
+   "Votes":[
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":636,"Short":"FRIEND","Vote":"Nay"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"}],
  "Title":"Provides that applicants or recipients for SNAP benefits shall not be subjected to finger imaging as a requirement of the supplemental nutrition assistance program",

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7636","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-24T14:00:51.698757Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-24","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-24","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-24","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-01"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-24","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.911","Date":"2025-05-01","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
  "Title":"Authorizes certain health care professionals licensed to practice in other jurisdictions to practice in this state in connection with the Milan Cortina Winter Olympic Games sliding sports competitions",
  "Summary":"Authorizes certain health care professionals licensed to practice in other jurisdictions to practice in this state in connection with the Milan Cortina Winter Olympic Games sliding sports competitions, Lake Placid 2026.",

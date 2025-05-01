@@ -1,8 +1,32 @@
 {
  "PrintNo":"A6004","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-25T15:25:54.696553Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-25","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-28","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-04-28","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":1465,"Short":"GANDOLFO","Vote":"Nay"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},{"ID":1540,"Short":"MAHER","Vote":"Nay"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Nay"},{"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
@@ -22,7 +46,7 @@
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
-  {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"}
+  {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
  ],
  "Title":"Requires public notice and public engagement when a general hospital seeks to close entirely or a unit that provides maternity, mental health or substance use care",
  "Summary":"Requires public notice and public engagement when a general hospital seeks to close entirely or a unit that provides maternity, mental health or substance use care.",

@@ -1,14 +1,19 @@
 {
- "PrintNo":"S4881","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T15:34:36.543418Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-13","Chamber":"SENATE"}],
+ "PrintNo":"S4881","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-13T15:34:36.543418Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4881A","Date":"2025-04-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
  ],
  "Title":"Requires contractors and subcontractors performing construction work for covered renewable energy systems to use apprenticeship agreements",
- "Summary":"Requires contractors and subcontractors performing construction work for covered renewable energy systems to use apprenticeship agreements with pre-apprenticeship direct entry providers registered with the department of labor.",
+ "Summary":"Requires contractors and subcontractors performing construction work for covered renewable energy systems to use apprenticeship agreements; requires thermal energy networks to require contractors and subcontractors to use pre-apprenticeship direct entry providers registered with the department of labor.",
  "LawSection":"Labor Law","LawCode":"Amd §224-d, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to requiring contractors and subcontractors performing construction work for covered renewable energy systems to use apprenticeship agreements"
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring contractors and subcontractors performing construction work for covered renewable energy systems to use apprenticeship agreements",
+ "SameAsPrintNo":"A2730-2025"
 }

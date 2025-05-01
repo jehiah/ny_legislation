@@ -1,12 +1,20 @@
 {
- "PrintNo":"S2122","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T13:36:12.203733Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"}],
+ "PrintNo":"S2122","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T13:36:12.203733Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Housing, Construction And Community Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-01",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 2122A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Authorizes municipalities and the department of financial services to seek civil penalties for violations of the duty to maintain a foreclosed property",
- "Summary":"Authorizes municipalities and the department of financial services to seek civil penalties for violations of the duty to maintain a foreclosed property in an amount of up to $500 per day for each day such violation persists after the judgement of foreclosure has been issued.",
+ "Summary":"Authorizes municipalities and the department of financial services to seek civil penalties for violations of the duty to maintain a foreclosed property in an amount of up to $650 per day for each day such violation persists after the judgement of foreclosure has been issued.",
  "LawSection":"Real Property Actions and Proceedings Law","LawCode":"Amd §1307, RPAP L",
  "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to authorizing municipalities and the department of financial services to seek civil penalties for violations of the duty to maintain a foreclosed property",
- "SameAsPrintNo":"A8083-2025","PreviousVersions":["A5890-2023"]
+ "PreviousVersions":["A5890-2023"]
 }

@@ -1,12 +1,16 @@
 {
- "PrintNo":"S6254","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-07T11:25:23.35023Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-07","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-03-07","Chamber":"SENATE"}],
+ "PrintNo":"S6254","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-07T11:25:23.35023Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-03-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6254A","Date":"2025-04-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
- "Title":"Establishes a medical loss ratio for dental insurance",
- "Summary":"Establishes a medical loss ratio for dental insurance of not less than 82% for calendar year 2026 and thereafter.",
+ "Title":"Establishes a requirement for information related to specialized dental benefit plans",
+ "Summary":"Requires insurers and corporations that issue, sell, renew or offer a specialized dental benefits plan policy or contract to report annually on data related to such dental benefits plan policies.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3231 & 4308, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to establishing a medical loss ratio for dental insurance",
- "PreviousVersions":["S7013-2023"]
+ "ActClause":"AN ACT to amend the insurance law, in relation to establishing a requirement for information related to specialized dental benefit plans",
+ "SameAsPrintNo":"A3919-2025","PreviousVersions":["S7013-2023"]
 }

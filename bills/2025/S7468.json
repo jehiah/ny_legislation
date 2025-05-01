@@ -1,11 +1,13 @@
 {
- "PrintNo":"S7468","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-17T10:43:56.944305Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-17","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-04-30"}],
+ "PrintNo":"S7468","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-17T10:43:56.944305Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-17","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-17","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.778","Date":"2025-04-29","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"AMENDED 7468A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,7 +37,7 @@
  ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to expanding the available jurisdiction for issuing information subpoenas",
- "Summary":"Allows for the issuance of information subpoenas on behalf of small claims judgment creditors effective beyond the jurisdictional boundaries of the county where the court is located and adjoining counties.",
+ "Summary":"Allows for the issuance of information subpoenas on behalf of small claims judgment creditors to be effective anywhere in the state.",
  "LawSection":"New York City Civil Court Act",
  "LawCode":"Amd §1812, NYC Civ Ct Act; amd §1812, UCCA; amd §1812, UDCA; amd §1812, UJCA",
  "ActClause":"AN ACT to amend the New York city civil court act, the uniform city court act, the uniform district court act and the uniform justice court act, in relation to expanding the available jurisdiction for issuing information subpoenas",

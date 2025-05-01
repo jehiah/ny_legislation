@@ -1,11 +1,13 @@
 {
- "PrintNo":"A2620","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-21T10:13:53.991576Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Ways And Means"}],
+ "PrintNo":"A2620","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-21T10:13:53.991576Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-01","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-21","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-08","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2620A","Date":"2025-05-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -81,11 +83,12 @@
   {"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
-  {"ID":659,"Name":"Ron Kim","Short":"KIM"}
+  {"ID":659,"Name":"Ron Kim","Short":"KIM"},{"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"},
+  {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}
  ],
  "Title":"Relates to procedures required for the custodial interrogation of children",
  "Summary":"Amends procedures required for the custodial interrogation of children to provide additional protections and for taking juveniles and sixteen and seventeen year olds into custody.",
  "LawSection":"Family Court Act","LawCode":"Amd §§305.2 & 724, Fam Ct Act; amd §§140.20, 140.27 & 140.40, CP L",
  "ActClause":"AN ACT to amend the family court act and the criminal procedure law, in relation to the custodial interrogation of juveniles by law enforcement",
- "SameAsPrintNo":"S878-2025","PreviousVersions":["A6982-2019","A5891-2021","A8923-2023"]
+ "PreviousVersions":["A6982-2019","A5891-2021","A8923-2023"]
 }

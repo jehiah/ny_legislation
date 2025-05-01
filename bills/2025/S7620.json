@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7620","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T13:07:10.683056Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-23","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-01"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-23","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.909","Date":"2025-05-01","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
  "Title":"Authorizes certain health care professionals licensed or certified by a foreign government or another state or territory to provide services in the state in connection with the 2025 Ryder Cup; provides for repeal",
  "Summary":"Authorizes a person who is licensed or certified as a physician, physician's assistant, massage therapist, physical therapist, chiropractor, dentist, optometrist, nurse, nurse practitioner, emergency medical technician, podiatrist or athletic trainer by a foreign government to provide professional services in this state to the team athletes, coaches, staff and delegations from such foreign government, in connection with the 2025 Ryder Cup; authorizes a person who is licensed or certified as a physician, physician's assistant, massage therapist, physical therapist, chiropractor, dentist, optometrist, nurse, nurse practitioner, emergency medical technician, podiatrist or athletic trainer in another state or territory, who is good standing in such state or territory and has been appointed by the PGA of America to provide professional services at an event in this state sanctioned by the PGA of America to provide professional services to team athletes, coaches, staff and delegations from such state or territory registered to train at a location in this state or to compete in an event conducted under the sanction of the PGA of America in this state, in relation to the 2025 Ryder Cup; provides for the repeal of such provisions upon expiration thereof.",

@@ -1,12 +1,16 @@
 {
- "PrintNo":"S5922","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T09:31:50.930939Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-03-04","Chamber":"SENATE"}],
+ "PrintNo":"S5922","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-04T09:31:50.930939Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5922A","Date":"2025-04-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
- "Title":"Requires first aid materials in certain workplaces to include opioid antagonist",
- "Summary":"Requires workplaces to provide opioid antagonist where first aid kits are required by OSHA.",
+ "Title":"Requires employers to include an opioid antagonist where first aid kits are required by federal law",
+ "Summary":"Requires employers to include an opioid antagonist where first aid kits are required by federal law.",
  "LawSection":"Labor Law","LawCode":"Add §27-f, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to requiring first aid materials in certain workplaces to include opioid antagonist",
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to include an opioid antagonist in first aid supplies required by federal law",
  "SameAsPrintNo":"A2725-2025"
 }

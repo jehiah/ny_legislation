@@ -1,9 +1,30 @@
 {
  "PrintNo":"A6918","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:12:32.602574Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-18","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-30","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-04-30","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":468,"Short":"RAMOS","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1484,"Short":"GALLAHAN","Vote":"Nay"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Nay"},{"ID":1555,"Short":"O'PHARROW","Vote":"Nay"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Excused"},{"ID":1542,"Short":"BEEPHAN","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}],
  "Title":"Authorizes the town of Copake to establish community preservation funds and to impose a real estate transfer tax with revenues to be deposited into the fund",
  "Summary":"Authorizes the town of Copake to establish community preservation funds and to impose a real estate transfer tax with revenues to be deposited into the community preservation fund; provides for the repeal of certain provisions upon expiration thereof.",
  "LawSection":"Town Law","LawCode":"Add §64-l, Town L; add Art 31-J §§1450-a - 1450-o, Tax L",

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7623","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T14:07:23.629122Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-23","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-01"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-23","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.910","Date":"2025-05-01","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}],
  "Title":"Authorizes certain medical professionals certified by a foreign government or another state or territory to provide medical services during the FIFA Club World Cup 2025 and the FIFA World Cup 26",
  "Summary":"Authorizes any person who is licensed or certified as a physician, physician's assistant, massage therapist, physical therapist, chiropractor, dentist, optometrist, nurse, nurse practitioner, emergency medical technician, podiatrist or athletic trainer by a foreign government or another state or territory to provide medical services during the FIFA Club World Cup 2025 and the FIFA World Cup 26.",

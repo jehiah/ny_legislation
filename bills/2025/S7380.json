@@ -1,12 +1,15 @@
 {
- "PrintNo":"S7380","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-11T15:07:16.690723Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-11","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-11","Chamber":"SENATE"}],
+ "PrintNo":"S7380","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-11T15:07:16.690723Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-11","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7380A","Date":"2025-04-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}],
- "Title":"Designates a portion of the state highway system as the Major Andrew D. Byers Memorial Highway",
- "Summary":"Designates a portion of the state highway system as the \"Major Andrew D. Byers Memorial Highway\" on state route 324 in the town of Clarence.",
+ "Title":"Dedicates a portion of the state highway system to Major Andrew D. Byers",
+ "Summary":"Dedicates a portion of the state highway system to \"Major Andrew D. Byers\" on state route 324 in the town of Clarence.",
  "LawSection":"Highway Law","LawCode":"Add §345-d, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to designating a portion of the state highway system as the \"Major Andrew D. Byers Memorial Highway\"",
- "SameAsPrintNo":"A7888-2025"
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to \"Major Andrew D. Byers\""
 }

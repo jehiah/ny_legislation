@@ -1,12 +1,13 @@
 {
  "PrintNo":"A2725","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-22T09:28:27.345867Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Labor"}],
+ "Published":"2025-01-22T09:28:27.345867Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Labor"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-01"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-22","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-04-22","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 2725A","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.111","Date":"2025-05-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -37,5 +38,6 @@
  "Title":"Requires employers to include an opioid antagonist where first aid kits are required by federal law",
  "Summary":"Requires employers to include an opioid antagonist where first aid kits are required by federal law.",
  "LawSection":"Labor Law","LawCode":"Add §27-f, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to include an opioid antagonist in first aid supplies required by federal law"
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to include an opioid antagonist in first aid supplies required by federal law",
+ "SameAsPrintNo":"S5922-2025"
 }

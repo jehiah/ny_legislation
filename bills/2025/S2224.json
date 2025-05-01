@@ -1,8 +1,12 @@
 {
- "PrintNo":"S2224","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T09:16:18.130329Z",
- "Status":"IN_SENATE_COMM","Committee":"Ethics And Internal Governance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Ethics And Internal Governance"}],
- "Actions":[{"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-01-16","Chamber":"SENATE"}],
+ "PrintNo":"S2224","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-16T09:16:18.130329Z","Status":"IN_SENATE_COMM","Committee":"Ethics And Internal Governance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Ethics And Internal Governance"}],
+ "Actions":[
+  {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2224A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],
  "Title":"Relates to reporting requirements on small nonprofits",
  "Summary":"Relates to reporting requirements on small nonprofits which lobby before the government.",

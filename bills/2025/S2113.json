@@ -1,12 +1,16 @@
 {
- "PrintNo":"S2113","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T11:38:56.562995Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-15","Chamber":"SENATE"}],
+ "PrintNo":"S2113","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T11:38:56.562995Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2113A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Relates to Medicaid accountable care organizations",
  "Summary":"Allows for Medicaid accountable care organizations to purchase experience-rated health insurance for their members.",
  "LawSection":"Insurance Law","LawCode":"Amd §§4235, 3231 & 4317, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to allowing for Medicaid accountable care organizations to purchase experience-rated health insurance for their members",
- "PreviousVersions":["S9622-2023"]
+ "SameAsPrintNo":"A6522-2025","PreviousVersions":["S9622-2023"]
 }
