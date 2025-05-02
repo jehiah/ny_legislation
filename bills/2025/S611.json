@@ -1,12 +1,16 @@
 {
- "PrintNo":"S611","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T16:08:11.676919Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S611","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T16:08:11.676919Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-02","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 611A","Date":"2025-05-02","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Provides for victim statements at the sentencing of a defendant for a misdemeanor",
- "Summary":"Enacts Emma's Law, providing for victim statements at the sentencing of a defendant for a misdemeanor.",
+ "Summary":"Provides for victim statements at the sentencing of a defendant for certain misdemeanors.",
  "LawSection":"Criminal Procedure Law","LawCode":"Amd §380.50, CP L",
  "ActClause":"AN ACT to amend the criminal procedure law, in relation to victim statements at the sentencing of a defendant for a misdemeanor",
- "PreviousVersions":["S8761-2021","S1901-2023"]
+ "SameAsPrintNo":"A2138-2025","PreviousVersions":["S8761-2021","S1901-2023"]
 }

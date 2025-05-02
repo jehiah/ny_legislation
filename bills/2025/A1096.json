@@ -1,11 +1,16 @@
 {
- "PrintNo":"A1096","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A1096","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-08T10:36:52.776758Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-06","Committee":"Consumer Affairs And Protection"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-02","Committee":"Consumer Affairs And Protection"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-06","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 1096A","Date":"2025-02-06","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 1096A","Date":"2025-02-06","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-02","Chamber":"ASSEMBLY",
+   "Version":"A"
+  },
+  {"Text":"PRINT NUMBER 1096B","Date":"2025-05-02","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
@@ -17,5 +22,5 @@
  "Summary":"Requires the clear and conspicuous disclosure of pricing changes for online grocery delivery and online pick-up services; imposes a fine of not more than one hundred dollars for the first offense and not more than two hundred fifty dollars for a second and each subsequent offense for violations.",
  "LawSection":"General Business Law","LawCode":"Add Art 38-C §§840 & 841, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to the disclosure of pricing changes for online grocery delivery and online pick-up services",
- "SameAsPrintNo":"S4433-2025","PreviousVersions":["A9194-2023"]
+ "PreviousVersions":["A9194-2023"]
 }
