@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4030","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T10:58:32.062974Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-31","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-04-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-31","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-22","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -98,7 +100,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
+ "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Relates to emissions of toxic air contaminants",
  "Summary":"Directs the department of environmental conservation to promulgate air quality standards for emissions of certain toxic air contaminants.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §19-0330, En Con L",

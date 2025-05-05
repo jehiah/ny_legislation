@@ -1,10 +1,10 @@
 {
  "PrintNo":"S2706","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-22T15:46:12.459043Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Published":"2025-01-22T15:46:12.459043Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2025-04-01"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Codes"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-22","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"AMENDED ON THIRD READING (T) 2706A","Date":"2025-04-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-04-22","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A4725A","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.100","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -107,7 +109,8 @@
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
   {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Prohibits the use of drilling fluids, brine and flowback water from wells, pools or fields on any highway",
  "Summary":"Prohibits the use of drilling fluids, brine and flowback water from wells, pools or fields on any highway for any purpose including but not limited to de-icing or dust suppression.",

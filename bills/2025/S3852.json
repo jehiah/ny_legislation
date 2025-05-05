@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3852","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-30T11:28:11.521687Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-30T11:28:11.521687Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-10"},{"Type":"PASSED_SENATE","Date":"2025-04-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-10"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-30","Chamber":"SENATE"},
@@ -12,7 +13,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING 3852A","Date":"2025-03-10","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-04-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -99,7 +101,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Sponsors":[
+  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+ ],
  "Title":"Prohibits the sale of playground surfacing materials that contain PFAS, PAHs or more than ninety parts per million of lead; and provides penalties for violations",
  "Summary":"Prohibits the sale of playground surfacing materials that contain PFAS, PAHs or more than ninety parts per million of lead on and after January 1, 2027; requires manufacturers of playground surfacing materials that contain PFAS, PAHs or more than ninety parts per million of lead to provide notice of such fact to distributors and retailers of such materials; provides penalties for violations.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §37-0123, amd §71-3703, En Con L",

@@ -1,14 +1,16 @@
 {
  "PrintNo":"A8089","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-24T18:13:27.941169Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-24","Committee":"Veterans' Affairs"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-01"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-04-24","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-04-28","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.120","Date":"2025-05-01","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.120","Date":"2025-05-01","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -31,5 +33,6 @@
  "Title":"Establishes a New York state veterans' and service member law book",
  "Summary":"Establishes a New York state veterans' and service member law book of a compilation of all state statutes governing the rights, privileges, benefits and services afforded to veterans, service members and their families.",
  "LawSection":"Veterans' Service Law","LawCode":"Amd §4, Veterans' Services L",
- "ActClause":"AN ACT to amend the veterans' services law, in relation to establishing a New York state veterans' and service member law book"
+ "ActClause":"AN ACT to amend the veterans' services law, in relation to establishing a New York state veterans' and service member law book",
+ "SameAsPrintNo":"S7765-2025"
 }
