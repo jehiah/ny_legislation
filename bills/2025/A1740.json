@@ -1,8 +1,26 @@
 {
  "PrintNo":"A1740","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T09:49:07.435401Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-06","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-06","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
@@ -16,5 +34,5 @@
  "Summary":"Provides access to menstrual products in toilet facilities in public buildings determined to be opened to the public; requires reporting.",
  "LawSection":"Public Buildings Law","LawCode":"Add §148, Pub Bldg L",
  "ActClause":"AN ACT to amend the public buildings law, in relation to providing access to menstrual products in toilet facilities in certain public buildings",
- "SameAsPrintNo":"S3866-2025","PreviousVersions":["A4071-2023"]
+ "PreviousVersions":["A4071-2023"]
 }

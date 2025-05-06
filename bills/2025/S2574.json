@@ -4,7 +4,22 @@
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Elections"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-21","Chamber":"SENATE"},
-  {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2025-03-13","Chamber":"SENATE"}
+  {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"DEFEATED IN ELECTIONS","Date":"2025-05-06","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-06","Chamber":"SENATE","Committee":"Elections",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Nay"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Nay"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Nay"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Nay"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":885,"Name":"Robert Ortt","Short":"ORTT"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},

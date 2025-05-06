@@ -1,10 +1,32 @@
 {
  "PrintNo":"S460","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T13:46:54.656392Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Education"}],
+ "Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2025-03-19","Chamber":"SENATE"}
+  {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2025-03-19","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO CODES","Date":"2025-05-06","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-06","Chamber":"SENATE","Committee":"Education",
+   "Votes":[
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Nay"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Nay"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Nay"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Nay"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Nay"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}],
  "Title":"Prohibits the commissioner from promulgating any rules or regulations which prevent schools from disallowing biological male students at birth to participate on a team organized for females",

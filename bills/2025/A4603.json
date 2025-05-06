@@ -1,8 +1,26 @@
 {
  "PrintNo":"A4603","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T12:04:15.436161Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Correction"}],
- "Actions":[{"Text":"REFERRED TO CORRECTION","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORRECTION","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-06","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-06","Chamber":"ASSEMBLY",
+   "Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Nay"},{"ID":1544,"Short":"GRAY","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":896,"Name":"Latrice Walker","Short":"WALKER"},
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},

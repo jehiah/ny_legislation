@@ -1,8 +1,26 @@
 {
  "PrintNo":"A3273","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T10:36:28.490549Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-27","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-06","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-06","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
  "Title":"Enacts the \"New York State Resident Experience Act of 2025\"",
  "Summary":"Requires state agencies to measure, collect, report, and utilize metrics relating to the experience of residents interacting with agencies to improve provision of services to the people of the state, and to provide a biannual report to the governor and legislature.",

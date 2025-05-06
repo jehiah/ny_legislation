@@ -1,10 +1,28 @@
 {
  "PrintNo":"A2657","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-21T10:29:13.919863Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Corporations, Authorities And Commissions"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-21","Chamber":"ASSEMBLY"},
-  {"Text":"REFERENCE CHANGED TO ENERGY","Date":"2025-03-21","Chamber":"ASSEMBLY"}
+  {"Text":"REFERENCE CHANGED TO ENERGY","Date":"2025-03-21","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-06","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-06","Chamber":"ASSEMBLY",
+   "Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1544,"Short":"GRAY","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},

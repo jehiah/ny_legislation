@@ -1,8 +1,14 @@
 {
  "PrintNo":"S2396","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T08:57:00.489197Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-17","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Social Services"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-06"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-17","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.954","Date":"2025-05-06","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"}],
  "Title":"Creates caseload standards for adult protective services workers",
  "Summary":"Creates caseload standards for adult protective services workers such that such workers have no more than thirty cases at any time.",

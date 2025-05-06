@@ -1,8 +1,29 @@
 {
- "PrintNo":"A4628","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T11:54:49.331976Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4628","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-04T11:54:49.331976Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4628A","Date":"2025-05-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-06","Chamber":"ASSEMBLY",
+   "Committee":"CONSUMER AFFAIRS AND PROTECTION",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1125,"Short":"MILLER","Vote":"Nay"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},
+    {"ID":1466,"Short":"DURSO","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
@@ -14,7 +35,7 @@
  ],
  "Title":"Requires certain motion picture theaters to provide scheduled showings of motion pictures with open motion picture captioning",
  "Summary":"Requires a motion picture theater that offers more than ten motion picture showings per week to provide scheduled showings of motion pictures with open motion picture captioning such that at least one quarter of all showings of a motion picture with four or more showings during a one-week time period shall have open motion picture captioning; provides exceptions and penalties for violations.",
- "LawSection":"General Business Law","LawCode":"Add Art 44-B §§1450 - 1454, Gen Bus L",
+ "LawSection":"General Business Law","LawCode":"Add Art 44-B §§1450 - 1453, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to requiring certain motion picture theaters to provide scheduled showings of motion pictures with open motion picture captioning",
- "SameAsPrintNo":"S2269-2025","PreviousVersions":["A9947-2023"]
+ "PreviousVersions":["A9947-2023"]
 }

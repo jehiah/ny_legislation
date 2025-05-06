@@ -1,12 +1,16 @@
 {
- "PrintNo":"A616","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T14:22:24.937829Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A616","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T14:22:24.937829Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-10","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 616A","Date":"2025-04-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}],
  "Title":"Authorizes a residential parking system in the village of Sleepy Hollow in the county of Westchester",
  "Summary":"Authorizes a residential parking system in the village of Sleepy Hollow in the county of Westchester.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Add §1640-t, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to a residential parking system in the village of Sleepy Hollow in the county of Westchester",
- "PreviousVersions":["A10058-2023"]
+ "SameAsPrintNo":"S7775-2025","PreviousVersions":["A10058-2023"]
 }

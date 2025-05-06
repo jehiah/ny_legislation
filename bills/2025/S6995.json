@@ -1,8 +1,25 @@
 {
  "PrintNo":"S6995","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-28T10:45:50.041121Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Elections"}],
- "Actions":[{"Text":"REFERRED TO ELECTIONS","Date":"2025-03-28","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2025-05-06"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2025-03-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.962","Date":"2025-05-06","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-06","Chamber":"SENATE","Committee":"Elections",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
  "Title":"Relates to voting by mail and early voting",
  "Summary":"Amends early voting provisions; provides that an application for an absentee ballot that does not provide a reason that the applicant is entitled to such a ballot shall be processed as an application for an early mail ballot.",

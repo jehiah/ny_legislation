@@ -1,12 +1,14 @@
 {
- "PrintNo":"S878","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S878","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-06T14:45:05.204621Z","Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CHILDREN AND FAMILIES","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 878A","Date":"2025-02-03","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO CODES","Date":"2025-04-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO CODES","Date":"2025-04-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 878B","Date":"2025-05-06","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -44,5 +46,5 @@
  "Summary":"Amends procedures required for the custodial interrogation of children to provide additional protections and for taking juveniles and sixteen and seventeen year olds into custody.",
  "LawSection":"Family Court Act","LawCode":"Amd §§305.2 & 724, Fam Ct Act; amd §§140.20, 140.27 & 140.40, CP L",
  "ActClause":"AN ACT to amend the family court act and the criminal procedure law, in relation to the custodial interrogation of juveniles by law enforcement",
- "PreviousVersions":["A6982-2019","S4980-2019","S2800-2021","S1099-2023"]
+ "SameAsPrintNo":"A2620-2025","PreviousVersions":["A6982-2019","S4980-2019","S2800-2021","S1099-2023"]
 }

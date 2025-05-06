@@ -1,11 +1,15 @@
 {
- "PrintNo":"A7828","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T14:55:49.131819Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Housing"}],
- "Actions":[{"Text":"REFERRED TO HOUSING","Date":"2025-04-11","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7828","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-11T14:55:49.131819Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Housing"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING","Date":"2025-04-11","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2025-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7828A","Date":"2025-05-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1548,"Name":"Emerita Torres","Short":"TORRES"}],
  "Title":"Creates an affordable housing insurance relief fund program",
- "Summary":"Creates an affordable housing insurance relief fund program to provide grants to eligible projects for housing insurance premiums.",
+ "Summary":"Creates an affordable housing insurance relief fund program to provide grants to eligible projects for reasonable and necessary commercial insurance expenses.",
  "LawSection":"Private Housing Finance Law","LawCode":"Add Art 33 §§1301 - 1308, Priv Hous Fin L",
  "ActClause":"AN ACT to amend the private housing finance law, in relation to creating an affordable housing insurance relief fund program; and providing for the repeal of such provisions upon expiration thereof"
 }

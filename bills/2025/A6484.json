@@ -1,15 +1,19 @@
 {
- "PrintNo":"A6484","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-05T13:47:02.078941Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-05","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6484","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-05T13:47:02.078941Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6484A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
-  {"ID":675,"Name":"Phil Steck","Short":"STECK"}
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"}
  ],
- "Title":"Provides that no policy of group accident, group health or group accident and health shall impose copayments for physical or occupational therapy greater than copays for similar services provided by a physician",
- "Summary":"Provides that no policy of group accident, group health or group accident and health shall impose copayments for physical or occupational therapy greater than the copay for similar services provided by a physician.",
+ "Title":"Relates to copayment and coinsurance charged for physical and occupational therapy services",
+ "Summary":"Provides that any copayment or coinsurance amount charged by an insurer to the insured for services rendered by a physical therapist or an occupational therapist shall not be more than twenty-five percent greater than the copayment or coinsurance amount imposed for an office visit to a licensed primary care physician or osteopath for the same or a similar diagnosed condition.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 4235, 4301 & 4322, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to physical therapy services","SameAsPrintNo":"S5045-2025",
+ "ActClause":"AN ACT to amend the insurance law, in relation to physical and occupational therapy services",
  "PreviousVersions":["A8171-2009","A187-2011","A1666-2013","A1063-2015","A569-2017","A405-2019","A594-2021","A6345-2023"]
 }

@@ -1,21 +1,41 @@
 {
  "PrintNo":"A7892","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T15:11:37.698799Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-05"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Corporations, Authorities And Commissions"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-11","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-04-29","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.117","Date":"2025-05-01","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-05","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO SENATE","Date":"2025-05-05","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2025-04-29","Chamber":"ASSEMBLY",
    "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-05-05","Chamber":"ASSEMBLY","Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
    "Votes":[
     {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},

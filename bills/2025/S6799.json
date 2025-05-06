@@ -1,8 +1,25 @@
 {
  "PrintNo":"S6799","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-24T14:10:56.0563Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-24","Committee":"Elections"}],
- "Actions":[{"Text":"REFERRED TO ELECTIONS","Date":"2025-03-24","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-24","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2025-05-06"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2025-03-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.961","Date":"2025-05-06","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-06","Chamber":"SENATE","Committee":"Elections",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Prohibits a court from bifurcating certain primary elections",
  "Summary":"Prohibits a court from bifurcating the primary elections for members of the state and county committees and assembly district leaders and associate district leaders and all other party positions to be elected and all nominations for public office required to be made at a primary election in such year, except presidential primaries.",

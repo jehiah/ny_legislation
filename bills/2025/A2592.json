@@ -1,15 +1,35 @@
 {
- "PrintNo":"A2592","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-21T10:01:29.671139Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Correction"}],
- "Actions":[{"Text":"REFERRED TO CORRECTION","Date":"2025-01-21","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2592","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-21T10:01:29.671139Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORRECTION","Date":"2025-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2025-05-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2592A","Date":"2025-05-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-06","Chamber":"ASSEMBLY",
+   "Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Nay"},{"ID":1544,"Short":"GRAY","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"}
  ],
  "Title":"Relates to commissaries and canteens at correctional institutions",
- "Summary":"Relates to commissaries and canteens at correctional institutions; provides that items for sale at a commissary or canteen shall be sold for no more than a certain percentage over the purchase price; provides that money placed into an incarcerated individual's commissary or canteen account or fund shall only be used for purchasing items or goods.",
+ "Summary":"Relates to commissaries and canteens at correctional institutions; provides that items for sale at a commissary or canteen shall be sold for no more than a certain percentage over the purchase price; provides that the department of corrections and community supervisions shall publish on its website the price list for all commissary items for sale at each institution as of June 1, 2025 and on an annual basis thereafter.",
  "LawSection":"Correction Law","LawCode":"Amd §26, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to commissaries or canteens in correctional institutions",
- "SameAsPrintNo":"S1692-2025","PreviousVersions":["A6088-2019","A1413-2021","A5134-2023"]
+ "PreviousVersions":["A6088-2019","A1413-2021","A5134-2023"]
 }

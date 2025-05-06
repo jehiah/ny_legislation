@@ -1,8 +1,24 @@
 {
  "PrintNo":"A6347","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-04T10:44:03.563278Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Science And Technology"}],
- "Actions":[{"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-03-04","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-06","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-06","Chamber":"ASSEMBLY",
+   "Committee":"SCIENCE AND TECHNOLOGY",
+   "Votes":[
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Relates to requiring governmental entities to implement multifactor authentication for local and remote network access",
  "Summary":"Requires governmental entities to, whenever possible and feasible, consider implementing multifactor authentication for local and remote network access; requires public websites to encrypt all exchanges and to comply with privacy standards.",
