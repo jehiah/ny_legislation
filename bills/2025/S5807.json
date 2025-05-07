@@ -1,12 +1,16 @@
 {
- "PrintNo":"S5807","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-03T11:19:09.980082Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-03-03","Chamber":"SENATE"}],
+ "PrintNo":"S5807","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-03T11:19:09.980082Z","Status":"IN_SENATE_COMM","Committee":"Social Services",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-07","Committee":"Social Services"}],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-03-03","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO SOCIAL SERVICES","Date":"2025-05-07","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5807A","Date":"2025-05-07","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}],
  "Title":"Requires any website or mobile application associated with an electronic benefit transfer system to be offered in the twelve most common non-English languages",
- "Summary":"Requires any website or mobile application associated with an electronic benefit transfer system to be offered in the ten most common non-English languages.",
+ "Summary":"Requires any website or mobile application associated with an electronic benefit transfer system to be offered in the twelve most common non-English languages spoken by limited-English proficient individuals in the state, based on data in the most recent American Community Survey published by the United States Census Bureau.",
  "LawSection":"Social Services Law","LawCode":"Amd §21-a, Soc Serv L",
  "ActClause":"AN ACT to amend the social services law, in relation to requiring any website or mobile application associated with an electronic benefit transfer system to be offered in the twelve most common non-English languages",
- "PreviousVersions":["S8917-2023"]
+ "SameAsPrintNo":"A2332-2025","PreviousVersions":["S8917-2023"]
 }

@@ -1,11 +1,15 @@
 {
- "PrintNo":"A5886","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:44:42.445109Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5886","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-24T09:44:42.445109Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5886A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"}],
  "Title":"Prohibits unfair residential real estate service agreements",
- "Summary":"Prohibits unfair residential real estate service agreements which are certain service agreements which are not to be performed within one year following the time such agreement is entered into.",
+ "Summary":"Prohibits unfair residential real estate service agreements which are certain service agreements which are not to be performed within two years following the time such agreement is entered into.",
  "LawSection":"General Business Law","LawCode":"Add Art 36-E §§778-aaa - 778-eee, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to prohibiting unfair residential real estate service agreements",
  "SameAsPrintNo":"S6361-2025"

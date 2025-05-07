@@ -1,12 +1,13 @@
 {
- "PrintNo":"S4867","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T14:16:53.881242Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-03-26"}],
+ "PrintNo":"S4867","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-13T14:16:53.881242Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-05-07"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.583","Date":"2025-03-24","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-25","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-26","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-26","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 4867A","Date":"2025-05-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -34,5 +35,5 @@
  "Summary":"Prohibits the application of fail-first or step therapy protocols to coverage for the diagnosis and treatment of serious mental health conditions; defines serious mental health condition.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to prohibiting the application of fail-first or step therapy protocols to coverage for the diagnosis and treatment of serious mental health conditions",
- "SameAsPrintNo":"A7522-2025","PreviousVersions":["S6688-2023"]
+ "PreviousVersions":["S6688-2023"]
 }
