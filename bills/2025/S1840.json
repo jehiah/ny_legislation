@@ -1,8 +1,12 @@
 {
- "PrintNo":"S1840","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T09:46:45.515952Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-14","Chamber":"SENATE"}],
+ "PrintNo":"S1840","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-14T09:46:45.515952Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-14","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-05-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1840A","Date":"2025-05-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Amends the Uniform Commercial Code to provide for emerging technologies",
  "Summary":"Incorporates the 2022 Uniform Law Commission recommended amendments to the Uniform Commercial Code to provide for emerging technologies; addresses emerging technologies, providing updated rules for commercial transactions involving virtual currencies, distributed ledger technologies (including blockchain), artificial intelligence, and other technological developments.",
