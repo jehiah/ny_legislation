@@ -1,7 +1,11 @@
 {
  "PrintNo":"A3009","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-22T13:06:37.259729Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-08","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"}],
+ "Published":"2025-01-22T13:06:37.259729Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-08","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-08"},{"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Finance"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-08"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-22","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-02-21","Chamber":"ASSEMBLY"},
@@ -13,7 +17,14 @@
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"REPORTED","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"RULES REPORT CAL.184","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.184","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.184","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REFERRED TO FINANCE","Date":"2025-05-08","Chamber":"SENATE","Version":"C"},
+  {"Text":"SUBSTITUTED FOR S3009C","Date":"2025-05-08","Chamber":"SENATE","Version":"C"},
+  {"Text":"3RD READING CAL.974","Date":"2025-05-08","Chamber":"SENATE","Version":"C"},
+  {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2025-05-08","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

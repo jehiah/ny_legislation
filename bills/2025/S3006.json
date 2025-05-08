@@ -1,7 +1,12 @@
 {
  "PrintNo":"S3006","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-22T13:36:36.057403Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-08"}],
+ "Published":"2025-01-22T13:36:36.057403Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-08"},
+  {"Type":"PASSED_SENATE","Date":"2025-05-08"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-08","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-08"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2025-02-21","Chamber":"SENATE"},
@@ -11,7 +16,15 @@
   {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2025-05-07","Chamber":"SENATE","Version":"B"},
   {"Text":"PRINT NUMBER 3006C","Date":"2025-05-07","Chamber":"SENATE","Version":"C"},
   {"Text":"ORDERED TO THIRD READING CAL.973","Date":"2025-05-08","Chamber":"SENATE","Version":"C"},
-  {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2025-05-08","Chamber":"SENATE","Version":"C"}
+  {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2025-05-08","Chamber":"SENATE","Version":"C"},
+  {"Text":"PASSED SENATE","Date":"2025-05-08","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-08","Chamber":"SENATE","Version":"C"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SUBSTITUTED FOR A3006C","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.183","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

@@ -1,11 +1,20 @@
 {
  "PrintNo":"S3001","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-22T13:30:27.370981Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-07","Committee":"Finance"}],
+ "Published":"2025-01-22T13:30:27.370981Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-08"},
+  {"Type":"PASSED_SENATE","Date":"2025-05-08"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-08","Committee":"Ways And Means"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-05-07","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 3001A","Date":"2025-05-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 3001A","Date":"2025-05-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.970","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Title":"LEGISLATURE AND JUDICIARY BUDGET",
  "Summary":"Makes appropriations for the support of government - Legislature and Judiciary Budget.",
