@@ -1,16 +1,18 @@
 {
- "PrintNo":"A1417","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A1417","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-09T13:10:07.228047Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-13","Committee":"Housing"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Housing"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2025-03-13","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 1417A","Date":"2025-03-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 1417A","Date":"2025-03-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HOUSING","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 1417B","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
- "Title":"Prohibits landlords from using algorithmic devices to set the amount of rent to charge a residential tenant",
- "Summary":"Prohibits landlords from using, or contracting for the use of, algorithmic devices to set the amount of rent to charge a residential tenant; imposes additional disclosure requirements regarding a landlord's collection and use of a tenant's personal information.",
- "LawSection":"General Business Law","LawCode":"Add §344, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the use of algorithmic pricing by a landlord for the purpose of determining the amount of rent to charge a residential tenant",
+ "Title":"Relates to the use of algorithmic pricing by landlords for the purpose of determining the amount of rent to charge a residential tenant",
+ "Summary":"Prohibits a person or entity from knowingly or with reckless disregard facilitate an agreement between or among two or more residential rental property owners or managers to not compete with respect to residential rental dwelling units, including by operating or licensing a software, data analytics service, or algorithmic device that performs a coordinating function on behalf of or between and among such residential rental property owners or managers.",
+ "LawSection":"General Business Law","LawCode":"Add §340-b, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to the use of algorithmic pricing by a landlord for the purpose of determining the amount of rent to charge a residential tenant",
  "PreviousVersions":["A10020-2023"]
 }

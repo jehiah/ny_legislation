@@ -1,8 +1,12 @@
 {
- "PrintNo":"S3001","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T13:30:27.370981Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2025-01-22","Chamber":"SENATE"}],
+ "PrintNo":"S3001","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-22T13:30:27.370981Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-07","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2025-01-22","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-05-07","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3001A","Date":"2025-05-07","Chamber":"SENATE","Version":"A"}
+ ],
  "Title":"LEGISLATURE AND JUDICIARY BUDGET",
  "Summary":"Makes appropriations for the support of government - Legislature and Judiciary Budget.",
  "LawSection":"Budget Bills",

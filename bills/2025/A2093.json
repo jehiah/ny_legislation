@@ -1,7 +1,7 @@
 {
- "PrintNo":"A2093","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-15T15:07:55.522472Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Codes"}],
+ "PrintNo":"A2093","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:07:55.522472Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Consumer Affairs And Protection"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-04-07","Chamber":"ASSEMBLY"},
@@ -11,7 +11,12 @@
    "Version":"A"
   },
   {"Text":"PRINT NUMBER 2093B","Date":"2025-04-25","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-06","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-06","Chamber":"ASSEMBLY","Version":"B"},
+  {
+   "Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-07","Chamber":"ASSEMBLY",
+   "Version":"B"
+  },
+  {"Text":"PRINT NUMBER 2093C","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -29,7 +34,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1244,"Name":"Charles Fall","Short":"FALL"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"}],
+ "Sponsors":[
+  {"ID":1244,"Name":"Charles Fall","Short":"FALL"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
+  {"ID":1531,"Name":"Alex Bores","Short":"BORES"}
+ ],
  "Title":"Enacts the \"consumer protection and automotive transparency act\"",
  "Summary":"Enacts the consumer protection and automotive transparency act mandating transparency in automotive labeling relating to materials used in motor vehicles.",
  "LawSection":"General Business Law","LawCode":"Add §198-d, Gen Bus L",

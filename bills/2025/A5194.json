@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5194","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T12:10:11.076009Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5194","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-12T12:10:11.076009Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5194A","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
@@ -12,9 +16,9 @@
   {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"}
  ],
- "Title":"Relates to including diagnosis of asthma or other respiratory diseases for which rescue inhaler treatment is prescribed in the statewide immunization information system",
- "Summary":"Relates to including diagnosis of asthma or other respiratory diseases for which rescue inhaler treatment is prescribed in the statewide immunization information system.",
+ "Title":"Relates to including rescue inhaler prescriptions for asthma and other chronic respiratory diseases for individuals under age nineteen in the statewide immunization information system",
+ "Summary":"Relates to including rescue inhaler prescriptions for asthma and other chronic respiratory diseases for individuals under age nineteen in the statewide immunization information system.",
  "LawSection":"Public Health Law","LawCode":"Amd §2168, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to including diagnosis of asthma or other respiratory diseases for which rescue inhaler treatment is prescribed in the statewide immunization information system",
- "PreviousVersions":["A10085-2019","A2431-2021","A6594-2023"]
+ "ActClause":"AN ACT to amend the public health law, in relation to including rescue inhaler prescriptions for asthma and other chronic respiratory diseases for individuals under age nineteen in the statewide immunization information system",
+ "SameAsPrintNo":"S3964-2025","PreviousVersions":["A10085-2019","A2431-2021","A6594-2023"]
 }

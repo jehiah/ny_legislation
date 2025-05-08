@@ -1,11 +1,13 @@
 {
- "PrintNo":"A654","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A654","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-06T14:45:05.457703Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-24","Committee":"Housing"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Housing"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HOUSING","Date":"2025-03-24","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 654A","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 654A","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 654B","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
@@ -18,5 +20,5 @@
  "LawSection":"Emergency Tenant Protection Act of 1974",
  "LawCode":"Amd §12, Emerg Ten Prot Act of 1974; amd §26-516, NYC Ad Cd",
  "ActClause":"AN ACT to amend the emergency tenant protection act of nineteen seventy-four, and the administrative code of the city of New York, in relation to increasing penalties for owners of rent-regulated property who overcharge tenants",
- "PreviousVersions":["A9192-2015","A523-2017","A738-2019","A2332-2021","A106-2023"]
+ "SameAsPrintNo":"S467-2025","PreviousVersions":["A9192-2015","A523-2017","A738-2019","A2332-2021","A106-2023"]
 }

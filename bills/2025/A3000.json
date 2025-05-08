@@ -1,16 +1,20 @@
 {
- "PrintNo":"A3000","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A3000","Version":"D","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-22T12:54:24.572465Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Ways And Means"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-22","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-02-21","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 3000A","Date":"2025-02-21","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 3000B","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 3000B","Date":"2025-03-10","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 3000C","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PRINT NUMBER 3000D","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"D"}
  ],
  "Title":"STATE OPERATIONS BUDGET",
  "Summary":"Makes appropriations for the support of government - State Operations Budget.","LawSection":"Budget Bills",
  "ActClause":"AN ACT making appropriations for the support of government STATE OPERATIONS BUDGET",
- "PreviousVersions":["A8800-2023","S8300-2023"]
+ "SameAsPrintNo":"S3000-2025","PreviousVersions":["A8800-2023","S8300-2023"]
 }
