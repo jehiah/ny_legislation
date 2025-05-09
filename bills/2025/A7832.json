@@ -1,10 +1,14 @@
 {
  "PrintNo":"A7832","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T14:57:04.133035Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Higher Education"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Higher Education"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-11","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.132","Date":"2025-05-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -27,8 +31,8 @@
   }
  ],
  "Sponsors":[
-  {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
-  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+  {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
  ],
  "Title":"Relates to physical therapist assistants",
  "Summary":"Provides that supervision by a licensed physical therapist of a physical therapist assistant shall be continuous but shall not require the physical presence of the licensed physical therapist at the time and place where services are being performed; requires a licensed physical therapist to be available for consultation with the physical therapist assistant or the patient within a reasonable amount of time.",

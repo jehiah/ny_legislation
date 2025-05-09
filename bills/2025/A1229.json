@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1229","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:43:40.581367Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1229","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-09T10:43:40.581367Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-09","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1229A","Date":"2025-05-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
@@ -19,5 +23,5 @@
  "Summary":"Protects canids by requiring animals which could be coyotes or wolves be submitted for a DNA test to determine genetic makeup.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §11-0541, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to protecting wolves",
- "SameAsPrintNo":"S5402-2025","PreviousVersions":["A8295-2023"]
+ "PreviousVersions":["A8295-2023"]
 }

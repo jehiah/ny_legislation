@@ -1,10 +1,14 @@
 {
  "PrintNo":"A1892","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T11:22:17.846698Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Transportation"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Transportation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-14","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.125","Date":"2025-05-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2598","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-21T10:04:12.778567Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-21","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2598","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-21T10:04:12.778567Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2598A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},
@@ -32,8 +36,8 @@
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"}
  ],
  "Title":"Establishes Eid al-Fitr and Eid al-Adha as school holidays",
- "Summary":"Establishes Eid al-Fitr and Eid al-Adha as school holidays, with dates established by religious law and tradition.",
+ "Summary":"Establishes Eid al-Fitr and Eid al-Adha as school holidays, with dates established by religious law and tradition; allows for school districts and municipalities with a population of less than fifty thousand to opt into the recognition of such holidays.",
  "LawSection":"Education Law","LawCode":"Amd §§3604 & 3635, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to establishing Eid al-Fitr and Eid al-Adha as school holidays",
- "PreviousVersions":["A11350-2017","A2768-2019","A1835-2021","A3068-2023"]
+ "SameAsPrintNo":"S7805-2025","PreviousVersions":["A11350-2017","A2768-2019","A1835-2021","A3068-2023"]
 }
