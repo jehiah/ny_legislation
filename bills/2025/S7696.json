@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7696","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-30T14:04:12.671899Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-04-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.995","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to service by former housing court judges of the New York city civil court as judicial hearing officers",
  "Summary":"Provides that any person who has served as a state-paid judge or justice of a court of the unified court system or as a housing judge of the housing portion of the civil court of the city of New York, but who no longer holds any of such offices, may apply to be designated as a judicial hearing officer.",

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S3036","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T10:11:02.184236Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-23","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-23","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.988","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}

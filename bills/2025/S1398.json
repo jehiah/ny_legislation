@@ -1,12 +1,20 @@
 {
- "PrintNo":"S1398","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T13:51:48.244397Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-09","Chamber":"SENATE"}],
+ "PrintNo":"S1398","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T13:51:48.244397Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-09","Chamber":"SENATE"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-31",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 1398A","Date":"2025-03-31","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-12","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],
- "Title":"Establishes the infill housing pilot program in the city of Buffalo",
- "Summary":"Establishes the infill housing pilot program in the city of Buffalo which shall provide capital subsidies for the purpose of building two thousand one- to two- family housing units.",
+ "Title":"Establishes the block by block homeownership program",
+ "Summary":"Establishes the block by block homeownership program to provide capital subsidies for the purpose of constructing, preserving, and rehabilitating one- to two- family dwellings throughout the state, outside of NYC.",
  "LawSection":"Private Housing Finance Law","LawCode":"Add Art 33 §§1300 & 1301, Priv Hous Fin L",
- "ActClause":"AN ACT to amend the private housing finance law, in relation to establishing the infill housing pilot program in the city of Buffalo",
+ "ActClause":"AN ACT to amend the private housing finance law, in relation to establishing the block by block homeownership program",
  "SameAsPrintNo":"A6290-2025","PreviousVersions":["S8585-2023"]
 }

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7279","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-08T11:46:28.236595Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-04-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.993","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
  "Title":"Authorizes certified school psychologists to participate in the certification of certain persons as intellectually disabled or developmentally disabled",
  "Summary":"Authorizes certified school psychologists to participate in the certification of certain persons as intellectually disabled or developmentally disabled; makes technical corrections to language.",

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A3575","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-28T14:06:26.083046Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-28","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-28","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3575","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-28T14:06:26.083046Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-12","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-28","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3575A","Date":"2025-05-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},
@@ -14,11 +18,12 @@
   {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
-  {"ID":1477,"Name":"Amanda Septimo","Short":"SEPTIMO"}
+  {"ID":1477,"Name":"Amanda Septimo","Short":"SEPTIMO"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
+  {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"}
  ],
  "Title":"Establishes an indirect source review for certain warehouse operations",
  "Summary":"Establishes an indirect source review for heavy distribution warehouse operations; requires the department of environmental conservation to conduct a study regarding zero-emissions zones.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §19-0333, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to establishing an indirect source review for certain warehouse operations",
- "PreviousVersions":["A9799-2021","A1718-2023"]
+ "SameAsPrintNo":"S1180-2025","PreviousVersions":["A9799-2021","A1718-2023"]
 }

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S3661","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T11:16:14.370883Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-29","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-29","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.989","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],"Title":"Relates to class actions",
  "Summary":"Eliminates the restriction on class actions involving a penalty or minimum recovery; adds language expressly permitting class actions against governmental entities.",
  "LawSection":"Civil Practice Law and Rules","LawCode":"Amd §§901 & 902, RR908 & 909, CPLR",

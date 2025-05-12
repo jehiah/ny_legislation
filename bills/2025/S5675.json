@@ -1,12 +1,18 @@
 {
  "PrintNo":"S5675","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-27T10:46:28.341616Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-27","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-02-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-27","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-12"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-02-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.980","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"}],
  "Title":"Requiring a petition in a summary proceeding to recover possession of real property in Schenectady to allege proof of compliance with local laws requiring rental residential property registration and licensure",
  "Summary":"Requires a petition in a summary proceeding to recover possession of real property in the city of Schenectady to allege proof of compliance with local laws requiring rental residential property registration and licensure.",
  "LawSection":"Real Property Actions and Proceedings Law","LawCode":"Amd §741, RPAP L",
  "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to requiring a petition in a summary proceeding to recover possession of real property in the city of Schenectady to allege proof of compliance with local laws requiring rental residential property registration and licensure",
- "PreviousVersions":["S7547-2023"]
+ "SameAsPrintNo":"A7653-2025","PreviousVersions":["S7547-2023"]
 }

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S2117","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T11:40:36.014425Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-12"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.977","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to prosecution by the department of financial services and municipalities of certain violations regarding residential real property",
  "Summary":"Relates to prosecution by the department of financial services (DFS) and municipalities of certain violations regarding residential real property by mortgage lenders and similar entities; directs DFS to promulgate standards of review of whether to prosecute such violations; requires deference to municipalities where both the municipality and DFS are authorized to prosecute such a violation; directs payments of civil penalties issued pursuant to such violations to be paid to DFS if DFS is the prosecuting entity.",

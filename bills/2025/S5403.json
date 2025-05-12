@@ -1,8 +1,11 @@
 {
  "PrintNo":"S5403","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T10:24:22.762467Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 2",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Cities 2"}],
- "Actions":[{"Text":"REFERRED TO CITIES 2","Date":"2025-02-21","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Cities 2"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 2","Date":"2025-02-21","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.998","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],
  "Title":"Facilitates the marketing of any issue of serial bonds or notes of the city of Buffalo issued on or before a certain date",
  "Summary":"Facilitates the marketing of any issue of serial bonds or notes of the city of Buffalo issued on or before June 30, 2026.",

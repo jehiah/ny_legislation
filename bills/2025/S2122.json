@@ -1,15 +1,18 @@
 {
  "PrintNo":"S2122","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-15T13:36:12.203733Z","Status":"IN_SENATE_COMM",
- "Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Housing, Construction And Community Development"}],
+ "Published":"2025-01-15T13:36:12.203733Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"},
   {
    "Text":"AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-01",
    "Chamber":"SENATE"
   },
-  {"Text":"PRINT NUMBER 2122A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 2122A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.978","Date":"2025-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Authorizes municipalities and the department of financial services to seek civil penalties for violations of the duty to maintain a foreclosed property",

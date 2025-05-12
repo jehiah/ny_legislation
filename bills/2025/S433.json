@@ -1,8 +1,11 @@
 {
  "PrintNo":"S433","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T11:28:27.353228Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 2",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Cities 2"}],
- "Actions":[{"Text":"REFERRED TO CITIES 2","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Cities 2"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 2","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.997","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS"}],
  "Title":"Relates to bonds and notes of the city of Yonkers",
  "Summary":"Extends certain provisions relating to bonds and notes of the city of Yonkers until June 30, 2026.",

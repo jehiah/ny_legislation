@@ -1,11 +1,12 @@
 {
  "PrintNo":"S3849","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T11:06:51.114683Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Judiciary"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2025-01-30","Chamber":"SENATE"},
-  {"Text":"OPINION REFERRED TO JUDICIARY","Date":"2025-02-05","Chamber":"SENATE"}
+  {"Text":"OPINION REFERRED TO JUDICIARY","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.990","Date":"2025-05-12","Chamber":"SENATE"}
  ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},

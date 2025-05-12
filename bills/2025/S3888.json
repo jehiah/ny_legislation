@@ -1,8 +1,11 @@
 {
  "PrintNo":"S3888","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T13:56:19.221375Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.991","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Relates to the determination of damages in a civil action arising from personal injury or wrongful death",
  "Summary":"Relates to the determination of damages in a civil action arising from personal injury or wrongful death; provides that damages shall not be reduced because of age, race, creed, color, national origin, citizenship or immigration status, sexual orientation, gender identity or expression, military status, sex, disability, predisposing genetic characteristics, familial status, marital status, or status as a victim of domestic violence; provides that damages shall not be based on statistical tables unless agreed to by all parties.",

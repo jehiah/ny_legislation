@@ -1,8 +1,12 @@
 {
- "PrintNo":"S5990","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T13:58:02.796307Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-03-04","Chamber":"SENATE"}],
+ "PrintNo":"S5990","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-04T13:58:02.796307Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-05-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5990A","Date":"2025-05-12","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
@@ -10,6 +14,5 @@
  "Title":"Relates to mandatory employer disclosures regarding employee compensation and benefits",
  "Summary":"Relates to mandatory employer disclosures regarding employee compensation and benefits, including any non-salary or non-wage compensation and benefits.",
  "LawSection":"Labor Law","LawCode":"Amd §194-b, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to disclose information about benefits and other compensation, including bonuses, stock options, and commissions",
- "SameAsPrintNo":"A5906-2025"
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to disclose information about benefits and other compensation, including bonuses, stock options, and commissions"
 }

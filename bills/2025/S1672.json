@@ -1,8 +1,12 @@
 {
- "PrintNo":"S1672","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T10:29:18.330029Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-01-13","Chamber":"SENATE"}],
+ "PrintNo":"S1672","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T10:29:18.330029Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-01-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1672A","Date":"2025-05-12","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"},
@@ -11,11 +15,10 @@
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
   {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
   {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
-  {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
  "Title":"Relates to certain construction projects",
  "Summary":"Defines the term \"construction projects\" to mean the construction, reconstruction, rehabilitation or improvement of any school building where a district receives any apportionment for capital outlays, debt service, or building aid and the school building is sited within the Long Island region; provides that each contract involving the award of a construction project shall require the use of a project labor agreement for all contractors and subcontractors on such project.",
  "LawSection":"Education Law","LawCode":"Amd §3602, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to certain construction projects",
- "SameAsPrintNo":"A756-2025"
+ "ActClause":"AN ACT to amend the education law, in relation to certain construction projects"
 }

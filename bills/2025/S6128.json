@@ -1,8 +1,11 @@
 {
  "PrintNo":"S6128","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-05T14:24:20.013378Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-03-05","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.992","Date":"2025-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to the use of writings and objects to refresh recollection",
  "Summary":"Relates to when an adverse party is entitled to production of a writing, object, or other material a witness has used to refresh the witness' recollection.",
