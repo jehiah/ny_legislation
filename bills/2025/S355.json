@@ -1,13 +1,14 @@
 {
- "PrintNo":"S355","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T09:49:45.741382Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"}],
+ "PrintNo":"S355","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-30T09:49:45.741382Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.743","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 355A","Date":"2025-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -64,8 +65,8 @@
   {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}
  ],
  "Title":"Provides for program eligibility for plans comparable to Medicare part D",
- "Summary":"Relates to program eligibility for plans comparable to Medicare part D.","LawSection":"Elder Law",
- "LawCode":"Amd §242, Eld L",
- "ActClause":"AN ACT to amend the elder law, in relation to program eligibility for plans comparable to Medicare part D",
- "PreviousVersions":["S6695-2019","S2535-2021","S966-2023"]
+ "Summary":"Relates to program eligibility for plans comparable to Medicare part D; provides for analysis of health plans by the department of health to determine whether such health plans meet or exceed the Medicare part D standard; requires the department of health, in consultation with the department of financial services, to notify prescription drug insurers of the provisions of this act.",
+ "LawSection":"Elder Law","LawCode":"Amd §§242 & 241, Eld L; add §280-e, Pub Health L",
+ "ActClause":"AN ACT to amend the elder law, in relation to program eligibility for health plans comparable to Medicare part D; and to amend the public health law, in relation to assessment of prescription drug coverage by health plans",
+ "SameAsPrintNo":"A8226-2025","PreviousVersions":["S6695-2019","S2535-2021","S966-2023"]
 }

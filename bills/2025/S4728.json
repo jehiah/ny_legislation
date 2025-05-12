@@ -1,10 +1,7 @@
 {
- "PrintNo":"S4728","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-12T10:08:11.480693Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2025-03-03"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-28"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-28","Committee":"Banks"}
- ],
+ "PrintNo":"S4728","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-12T10:08:11.480693Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.391","Date":"2025-02-25","Chamber":"SENATE"},
@@ -14,7 +11,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-28","Chamber":"SENATE"},
   {"Text":"REFERRED TO BANKS","Date":"2025-04-28","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-12","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-05-12","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-12","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 4728A","Date":"2025-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -105,5 +104,5 @@
  "Summary":"Establishes the New York state cryptocurrency and blockchain study task force to provide the governor and the legislature with information on the effects of the widespread use of cryptocurrencies and other forms of digital currencies and their ancillary systems, including but not limited to blockchain technology, in the state.",
  "LawSection":"Financial Services",
  "ActClause":"AN ACT in relation to establishing the New York state cryptocurrency and blockchain study task force; and providing for the repeal of such provisions upon expiration thereof",
- "PreviousVersions":["S8343-2021","S1891-2023","S8136-2023"]
+ "SameAsPrintNo":"A3279-2025","PreviousVersions":["S8343-2021","S1891-2023","S8136-2023"]
 }

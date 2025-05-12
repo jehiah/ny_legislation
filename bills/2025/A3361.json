@@ -1,14 +1,18 @@
 {
  "PrintNo":"A3361","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T11:05:40.192362Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Science And Technology"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-12"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Internet And Technology"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-01-27","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.126","Date":"2025-05-08","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.126","Date":"2025-05-08","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-05-12","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -22,7 +26,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"}],
+ "Sponsors":[{"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}],
  "Title":"Creates a temporary state commission to study and investigate how to regulate artificial intelligence, robotics and automation",
  "Summary":"Creates a temporary state commission to study and investigate how to regulate artificial intelligence, robotics and automation; repeals such commission.",
  "LawSection":"State Technology",
