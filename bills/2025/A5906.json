@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5906","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:52:51.134197Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5906","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-24T09:52:51.134197Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5906A","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
@@ -10,10 +14,12 @@
   {"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
-  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
+  {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"}
  ],
  "Title":"Relates to mandatory employer disclosures regarding employee compensation and benefits",
  "Summary":"Relates to mandatory employer disclosures regarding employee compensation and benefits, including any non-salary or non-wage compensation and benefits.",
  "LawSection":"Labor Law","LawCode":"Amd §194-b, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to disclose information about benefits and other compensation, including bonuses, stock options, and commissions"
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to disclose information about benefits and other compensation, including bonuses, stock options, and commissions",
+ "SameAsPrintNo":"S5990-2025"
 }

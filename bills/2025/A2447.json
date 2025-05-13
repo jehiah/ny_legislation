@@ -1,6 +1,6 @@
 {
- "PrintNo":"A2447","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-17T12:17:17.767912Z","Status":"ASSEMBLY_FLOOR",
+ "PrintNo":"A2447","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T12:17:17.767912Z",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-01"}
@@ -9,7 +9,8 @@
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-17","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.73","Date":"2025-03-27","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 2447A","Date":"2025-04-01","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 2447A","Date":"2025-04-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND BY RESTORING TO ORIGINAL PRINT 2447","Date":"2025-05-13","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -37,11 +38,12 @@
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1528,"Name":"Lester Chang","Short":"CHANG"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
-  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
+  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":500,"Name":"William Colton","Short":"COLTON"}
  ],
  "Title":"Requires utilities to notify property owners prior to beginning certain services",
- "Summary":"Requires utilities to notify property owners prior to beginning any non-emergency construction or other work that may interfere with a property owner's ability to use, or access such owner's property; requires notice to include, but not limited to, a description of the work to be performed, the expected duration of such work, the location of such work, any road closures or detours that may occur due to such work, any action that may directly and materially impact the use of such property, and the contact information for the utility performing such work. Such notice may include electronic communications, signage, and written materials; exempts cases where a natural or man-made disaster or state of emergency occurs.",
+ "Summary":"Requires utilities to notify property owners prior to beginning any non-emergency construction or other work that may interfere with a property owner's ability to use, or access such owner's property; requires notice to include, but not limited to, a description of the work to be performed, the expected duration of such work, the location of such work, any road closures or detours that may occur due to such work, any action that may directly and materially impact the use of such property, and the contact information for the utility performing such work; provides notice may include electronic communications, signage, and written materials; exempts cases where a natural or man-made disaster or state of emergency occurs.",
  "LawSection":"Public Service Law","LawCode":"Add §119-e, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to requiring corporations and municipalities to notify property owners prior to beginning certain services",
- "PreviousVersions":["A7515-2023"]
+ "SameAsPrintNo":"S1848-2025","PreviousVersions":["A7515-2023"]
 }

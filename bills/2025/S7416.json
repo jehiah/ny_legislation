@@ -1,12 +1,13 @@
 {
- "PrintNo":"S7416","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-15T13:53:14.228558Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-15","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"}],
+ "PrintNo":"S7416","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-15T13:53:14.228558Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-15","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-13"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-15","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.776","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 7416A","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -39,6 +40,5 @@
  "Summary":"Enacts provisions for the execution of electronic wills including attestation, revocation and filing.",
  "LawSection":"Estates, Powers and Trusts Law",
  "LawCode":"Add Art 3 Part 6 §§3-6.1 - 3-6.9, amd §§1-2.19 & 3-2.1, EPT L; amd §307, St Tech L",
- "ActClause":"AN ACT to amend the estates, powers and trusts law and the state technology law, in relation to electronic wills",
- "SameAsPrintNo":"A7856-2025"
+ "ActClause":"AN ACT to amend the estates, powers and trusts law and the state technology law, in relation to electronic wills"
 }
