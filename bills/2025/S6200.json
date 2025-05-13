@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6200","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-06T12:11:27.708942Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-06","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1099","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Relates to requiring utility companies maintain a toll free number for reporting service outages",
  "Summary":"Requires utility companies maintain a toll free number for consumers to call to report service outages which shall be made available 24 hours a day, 7 days a week.",

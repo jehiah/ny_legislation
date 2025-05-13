@@ -1,8 +1,25 @@
 {
  "PrintNo":"S6481","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-14T14:11:03.945359Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-14","Committee":"Crime Victims, Crime And Correction"}],
- "Actions":[{"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-03-14","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Children And Families",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Children And Families"}],
+ "Actions":[
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-03-14","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO CHILDREN AND FAMILIES","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-13","Chamber":"SENATE","Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Relates to commencing a study on the relationship between the corrections system and the child welfare system",
  "Summary":"Relates to commencing a study on the relationship between the corrections system and the child welfare system.",

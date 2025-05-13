@@ -1,8 +1,30 @@
 {
  "PrintNo":"A5468","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-14T09:50:48.176232Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Tourism, Parks, Arts And Sports Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-14","Committee":"Tourism, Parks, Arts And Sports Development"}],
- "Actions":[{"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-02-14","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-13","Chamber":"ASSEMBLY",
+   "Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "Votes":[
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S648","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T11:20:53.14924Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Procurement And Contracts"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1007","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],
  "Title":"Adds employee-owned enterprises to the list of preferred contractors for public contracts in the state",
  "Summary":"Adds employee-owned enterprises and worker cooperatives to the list of preferred contractors for public contracts in the state; authorizes such enterprises and cooperatives to make certain purchases from centralized contracts for commodities, subject to conditions of the office of general services; authorizes the comptroller to conduct certain audits of employee-owned enterprises and worker cooperatives.",

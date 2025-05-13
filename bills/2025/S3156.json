@@ -1,8 +1,14 @@
 {
  "PrintNo":"S3156","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T16:15:01.272579Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-23","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-23","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1069","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Makes certain exceptions for violations pertaining to certain mufflers and exhaust systems",
  "Summary":"Excepts violations pertaining to mufflers and exhaust systems for cars, motorcycle exhaust devices without internal baffles and motorcycle exhaust devices that are intentionally designed to allow for the internal baffling to be fully or partially removed or interchangeable from having a summons not issued or having a summons dismissed if the violation is corrected.",

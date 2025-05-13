@@ -1,15 +1,19 @@
 {
  "PrintNo":"S6976","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-27T15:44:52.310275Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-09","Committee":"Transportation"}],
+ "Published":"2025-03-27T15:44:52.310275Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-09","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-09","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 6976A","Date":"2025-04-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6976A","Date":"2025-04-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1074","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Establishes the New York road salt reduction council and the New York road salt reduction advisory committee",
  "Summary":"Establishes the New York road salt reduction council and the New York road salt reduction advisory committee to provide a mechanism for interagency cooperation and coordination to implement the recommendations of the report of the Adirondack road salt reduction task force.",

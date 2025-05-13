@@ -1,8 +1,14 @@
 {
  "PrintNo":"S982","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T12:33:36.994024Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1050","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Adds Fishkill Creek to the definition of inland waterways",
  "Summary":"Adds Fishkill Creek in Dutchess County to the definition of inland waterways.","LawSection":"Executive Law",

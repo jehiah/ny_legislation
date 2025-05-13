@@ -1,8 +1,14 @@
 {
  "PrintNo":"S1336","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T11:15:21.804171Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-09","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1025","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
  "Title":"Relates to enacting the \"N.Y. state digital equity plan act\"",
  "Summary":"Relates to enacting the \"N.Y. state digital equity plan act\"; requires the division of broadband access to develop a state digital equity plan to increase broadband access to underserved populations by January 1, 2027.",

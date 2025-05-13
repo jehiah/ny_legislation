@@ -1,12 +1,16 @@
 {
  "PrintNo":"S2110","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-15T11:30:07.298229Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Transportation"}],
+ "Published":"2025-01-15T11:30:07.298229Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-15","Chamber":"SENATE"},
   {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2025-03-14","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 2110A","Date":"2025-04-30","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 2110A","Date":"2025-04-30","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1067","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}],
  "Title":"Dedicates a portion of the state highway system to \"Trooper Jill E. Mattice\"",

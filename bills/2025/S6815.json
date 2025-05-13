@@ -1,9 +1,15 @@
 {
  "PrintNo":"S6815","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-25T09:21:56.845517Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-25","Chamber":"SENATE"}],
- "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-25","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1073","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Relates to bus lane restrictions in New York city",
  "Summary":"Provides that it shall be a defense to any prosecution for a violation of a bus lane restriction pursuant to a bus rapid transit program when an employee of the metropolitan transportation authority is performing authorized duties on behalf of such authority and is operating an authorized employer motor vehicle in the bus lane at the time of the violation and conducting lawful business or providing service to an official metropolitan transportation authority vehicle or personnel while in a bus lane.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §1111-c, V & T L",

@@ -1,11 +1,15 @@
 {
  "PrintNo":"S6360","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-11T15:11:19.22592Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Environmental Conservation"}],
+ "Published":"2025-03-11T15:11:19.22592Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-08","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 6360A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6360A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1055","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},

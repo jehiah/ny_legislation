@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6227","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-06T15:39:15.791129Z",
- "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Women's Issues"}],
- "Actions":[{"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-03-06","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Women's Issues"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-03-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1004","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
  "Title":"Provides that the commissioner of education may promulgate rules and regulations for a health education curriculum to include menstrual disorders",
  "Summary":"Provides that the commissioner of education may promulgate rules and regulations for a health education curriculum to include menstrual disorders, including but not limited to, endometriosis.",

@@ -4,7 +4,22 @@
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Crime Victims, Crime And Correction"}],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-22","Chamber":"SENATE"},
-  {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2025-03-14","Chamber":"SENATE"}
+  {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2025-03-14","Chamber":"SENATE"},
+  {"Text":"DEFEATED IN CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-13","Chamber":"SENATE","Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Nay"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Nay"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Nay"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Nay"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1490,"Name":"Dan Stec","Short":"STEC"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S3294","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T15:01:06.572819Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-24","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-13"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1084","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Relating to medical use of cannabis, to the effectiveness thereof and to the controlled substances therapeutic research act; repealer",
  "Summary":"Relates to the medical use of cannabis; relates to the effectiveness thereof; relates to the controlled substances therapeutic research act.",

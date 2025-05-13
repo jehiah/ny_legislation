@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6393","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-13T10:05:36.063926Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-13","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-13","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-13","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1056","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
  "Title":"Expands recycling of electronic products",
  "Summary":"Expands the public education and outreach program required to be developed by manufacturers of electronics and electronic waste collection sites.",

@@ -1,12 +1,33 @@
 {
  "PrintNo":"A3470","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T11:49:31.937817Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-27","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-13","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":1127,"Short":"WALSH","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"}],
  "Title":"Relates to notice to be provided prior to a foreclosure action by a homeowners' association",
  "Summary":"Requires notice to be provided ninety days prior to commencement of a foreclosure action by a homeowners' association or condominium board to enforce a lien for unpaid common charges, assessments, fines or fees.",
  "LawSection":"Real Property Law","LawCode":"Amd §339-aa, RP L; add Art 20-A §2010, RPAP L",
  "ActClause":"AN ACT to amend the real property law and the real property actions and proceedings law, in relation to the foreclosure of liens for unpaid assessments due to a homeowners' association or condominium board",
- "PreviousVersions":["A9780-2023"]
+ "SameAsPrintNo":"S7413-2025","PreviousVersions":["A9780-2023"]
 }

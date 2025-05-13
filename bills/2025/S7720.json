@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7720","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-01T14:04:27.38194Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-01","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1078","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"}],
  "Title":"Authorizes the issuance of \"Blue Star Mother\" and \"Blue Star Family\" distinctive license plates and establishes the \"blue star mothers and families fund\"",
  "Summary":"Authorizes the issuance of \"Blue Star Mother\" and \"Blue Star Family\" distinctive license plates for parents and family members of active duty service members; establishes the \"blue star mothers and families support fund\".",

@@ -1,12 +1,33 @@
 {
  "PrintNo":"A174","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-23T12:03:08.981018Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-13","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":1127,"Short":"WALSH","Vote":"Nay"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1148,"Short":"SMITH","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
   {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},
-  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"}
  ],
  "Title":"Prohibits rent minimums in mortgages",
  "Summary":"Prohibits rent minimums in all mortgages regardless of when issued.","LawSection":"Real Property Law",

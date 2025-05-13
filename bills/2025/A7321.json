@@ -5,9 +5,30 @@
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-07","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 7321A","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 7321A","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-05-13","Chamber":"ASSEMBLY","Committee":"INSURANCE",
+   "Votes":[
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"}],
  "Title":"Requires health insurers to provide coverage for speech therapy for stuttering",
  "Summary":"Requires health insurers to provide coverage for speech therapy for stuttering.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",

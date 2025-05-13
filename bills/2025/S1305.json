@@ -1,15 +1,23 @@
 {
- "PrintNo":"S1305","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T10:01:55.588545Z",
- "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Women's Issues"}],
- "Actions":[{"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-01-09","Chamber":"SENATE"}],
+ "PrintNo":"S1305","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T10:01:55.588545Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Women's Issues"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO WOMEN'S ISSUES","Date":"2025-05-08","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1305A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1002","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to hospital care for mastectomy, lumpectomy, and lymph node dissection patients",
- "Summary":"Requires mastectomy surgery, lymph node dissection or lumpectomy counseling include information on going breastless or flat.",
+ "Summary":"Requires that general hospitals that provide mastectomy surgery, lymph node dissection or lumpectomy provide information to such patients concerning options for breast reconstruction.",
  "LawSection":"Public Health Law","LawCode":"Amd §2803-o, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to hospital care for mastectomy, lumpectomy, and lymph node dissection patients",
- "SameAsPrintNo":"A4591-2025","PreviousVersions":["A8642-2021","S8232-2021","S6866-2023"]
+ "PreviousVersions":["A8642-2021","S8232-2021","S6866-2023"]
 }

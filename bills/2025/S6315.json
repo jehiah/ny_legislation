@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6315","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-10T11:07:10.163806Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-10","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-10","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-10","Committee":"Procurement And Contracts"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-10","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1009","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],
  "Title":"Establishes expanded construction mentorship opportunities for small and minority and women-owned business enterprises",
  "Summary":"Establishes expanded construction mentorship opportunities for small and minority and women-owned business enterprises.",

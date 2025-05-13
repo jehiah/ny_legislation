@@ -1,11 +1,16 @@
 {
- "PrintNo":"S3356","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T11:31:08.90387Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"}],
+ "PrintNo":"S3356","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-27T11:31:08.90387Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-13"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3356A","Date":"2025-05-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1085","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],"Title":"Enacts the lab services accessibility act",
  "Summary":"Enacts the lab services accessibility act.","LawSection":"Public Health Law",
  "LawCode":"Amd §§585 & 586, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to enacting the lab services accessibility act",
- "PreviousVersions":["S9344-2023"]
+ "SameAsPrintNo":"A482-2025","PreviousVersions":["S9344-2023"]
 }

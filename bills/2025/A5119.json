@@ -1,12 +1,40 @@
 {
- "PrintNo":"A5119","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T11:26:58.914473Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5119","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-12T11:26:58.914473Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-08","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5119A","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-13","Chamber":"ASSEMBLY",
+   "Committee":"ENVIRONMENTAL CONSERVATION",
+   "Votes":[
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":625,"Short":"BARRETT","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":1536,"Short":"SLATER","Vote":"Nay"},{"ID":1566,"Short":"BAILEY","Vote":"Nay"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},{"ID":1248,"Short":"SMULLEN","Vote":"Excused"},
+    {"ID":665,"Short":"OTIS","Vote":"Excused"},{"ID":1487,"Short":"CONRAD","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"}],
- "Title":"Relates to requiring certain figures in solid waste removal contracts and invoices",
- "Summary":"Relates to requiring certain figures in solid waste removal estimates and final invoices including the total tare weight of the waste removal project; includes graduated penalties for offenses.",
- "LawSection":"Environmental Conservation Law","LawCode":"Add §§27-0111 & 71-2731, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to solid waste removal",
- "SameAsPrintNo":"S6316-2025","PreviousVersions":["A10719-2023"]
+ "Title":"Relates to solid waste removal invoices and directs certain penalties and fines related to such invoices to be deposited into the environmental protection fund",
+ "Summary":"Requires any waste hauler providing waste removal services to provide to customers certain estimated costs and invoices; includes penalties for initial and subsequent violations; requires moneys collected from penalties and fines to be deposited into the environmental protection fund.",
+ "LawSection":"General Business Law","LawCode":"Add §392-k, Gen Bus L; amd §92-s, St Fin L",
+ "ActClause":"AN ACT to amend the general business law and the state finance law, in relation to solid waste removal invoices and directing penalties and fines related to such invoices to be deposited into the environmental protection fund",
+ "PreviousVersions":["A10719-2023"]
 }

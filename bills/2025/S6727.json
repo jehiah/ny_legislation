@@ -1,8 +1,28 @@
 {
  "PrintNo":"S6727","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-20T15:50:53.332306Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-20","Committee":"Crime Victims, Crime And Correction"}],
- "Actions":[{"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-03-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-20","Committee":"Crime Victims, Crime And Correction"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-03-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1035","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-13","Chamber":"SENATE","Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
   {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}

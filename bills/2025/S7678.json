@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7678","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-29T09:52:27.127464Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-29","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1077","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Establishes a school speed zone camera demonstration program in the city of White Plains",
  "Summary":"Establishes a school speed zone camera demonstration program in the city of White Plains; repeals authorization of program December 31, 2030.",

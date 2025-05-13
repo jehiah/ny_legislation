@@ -1,8 +1,11 @@
 {
  "PrintNo":"S20","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-16T16:02:46.106333Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-13"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1079","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1490,"Name":"Dan Stec","Short":"STEC"}],
  "Title":"Relates to allowing health care professionals to perform services at the Ironman Lake Placid",
  "Summary":"Allows out of state health care professionals to perform services at the Ironman Lake Placid 2025.",

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7702","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-30T16:16:08.071113Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1020","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}],
  "Title":"Extends certain provisions of law relating to publishers or manufacturers providing printed instructional materials for college students with disabilities",
  "Summary":"Extends certain provisions of law relating to publishers or manufacturers providing printed instructional materials for college students with disabilities.",

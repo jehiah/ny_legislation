@@ -1,12 +1,22 @@
 {
  "PrintNo":"S7001","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-28T10:54:14.949209Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-28","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Procurement And Contracts"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1011","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
+ "Sponsors":[
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}
+ ],
  "Title":"Relates to contracts between state agencies and not-for-profit organizations; repeals a provision of the state finance law relating thereto",
  "Summary":"Relates to provisions governing contracting between state agencies and not-for-profit organizations including new, renewal, and extension contracts and advance payments and interest for such contracts; repeals provisions relating to interest payments.",
  "LawSection":"State Finance Law",
  "LawCode":"Amd §§179-q, 179-s, 179-u, 179-v, 179-z, 179-aa, 179-ee & 179-f, rpld §179-v sub 7, St Fin L",
- "ActClause":"AN ACT to amend the state finance law, in relation to contracting between state agencies and not-for-profit organizations; and to repeal subdivision 7 of section 179-v of such law relating thereto"
+ "ActClause":"AN ACT to amend the state finance law, in relation to contracting between state agencies and not-for-profit organizations; and to repeal subdivision 7 of section 179-v of such law relating thereto",
+ "SameAsPrintNo":"A7616-2025"
 }

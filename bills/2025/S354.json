@@ -1,8 +1,11 @@
 {
  "PrintNo":"S354","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T09:49:20.48572Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-13"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1080","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Expands the healthcare services provided by telehealth",
  "Summary":"Expands the healthcare services provided by telehealth.","LawSection":"Public Health Law",

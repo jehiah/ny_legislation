@@ -1,11 +1,18 @@
 {
- "PrintNo":"S5440","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T13:12:26.563478Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-21","Chamber":"SENATE"}],
+ "PrintNo":"S5440","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-21T13:12:26.563478Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-07","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-21","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-07","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5440A","Date":"2025-05-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1053","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"}],"Title":"Prohibits leaded aviation gasoline",
  "Summary":"Prohibits an airport operator or aviation retail establishment from selling, distributing, or otherwise making available leaded aviation gasoline to consumers on or after January first, two thousand thirty-one.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add Art 19 Title 13 §§19-1301 - 19-1305, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting leaded aviation gasoline",
- "SameAsPrintNo":"A4043-2025"
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting leaded aviation gasoline"
 }

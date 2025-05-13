@@ -2,7 +2,30 @@
  "PrintNo":"A5405","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-13T15:46:29.943192Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-13","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-02-13","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-02-13","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2025-05-13","Chamber":"ASSEMBLY","Committee":"ECONOMIC DEVELOPMENT",
+   "Votes":[
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}],
  "Title":"Relates to void provisions in construction contracts",
  "Summary":"Voids provisions in construction contracts requiring retainage as expressly provided for by section seven hundred fifty-six-c of the general business law in an amount exceeding five percent of the contract sum.",

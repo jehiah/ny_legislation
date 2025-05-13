@@ -1,11 +1,15 @@
 {
  "PrintNo":"S1059","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-07T15:10:32.368231Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Environmental Conservation"}],
+ "Published":"2025-01-07T15:10:32.368231Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-08","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 1059A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 1059A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1051","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},

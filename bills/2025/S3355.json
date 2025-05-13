@@ -1,11 +1,16 @@
 {
- "PrintNo":"S3355","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T11:30:54.171085Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"}],
+ "PrintNo":"S3355","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-27T11:30:54.171085Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3355A","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Includes digital health care service platforms in the definition of temporary health care services agency",
- "Summary":"Includes digital health care service platforms in the definition of temporary health care services agency; includes the connection of health care personnel to services at a health care entity in the term assign.",
- "LawSection":"Public Health Law","LawCode":"Amd §2999-ii, Pub Health L","SameAsPrintNo":"A4179-2025",
+ "Summary":"Includes digital health care service platforms in the definition of temporary health care services agency.",
+ "LawSection":"Public Health Law","LawCode":"Amd §§2999-ii, 2999-jj & 2999-kk, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to including digital health care service platforms in the definition of temporary health care services agency",
  "PreviousVersions":["S9314-2023"]
 }

@@ -1,11 +1,15 @@
 {
  "PrintNo":"S4857","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-13T11:59:20.142046Z","Status":"IN_SENATE_COMM","Committee":"Ethics And Internal Governance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-24","Committee":"Ethics And Internal Governance"}],
+ "Published":"2025-02-13T11:59:20.142046Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-24","Committee":"Ethics And Internal Governance"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-02-13","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-04-24","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 4857A","Date":"2025-04-24","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 4857A","Date":"2025-04-24","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1024","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
