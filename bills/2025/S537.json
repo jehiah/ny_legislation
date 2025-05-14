@@ -1,8 +1,28 @@
 {
  "PrintNo":"S537","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T10:44:03.588821Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-14"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1103","Date":"2025-05-14","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-14","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"}],
  "Title":"Authorizes the county of Nassau assessor to accept an application for a real property tax exemption from Gurdwara Guru Tegh Bahadur Sahib, Inc.",
  "Summary":"Authorizes the county of Nassau assessor to accept an application for a real property tax exemption from Gurdwara Guru Tegh Bahadur Sahib, Inc. for all of the 2023 general taxes and all of the 2022-2023 school taxes.",

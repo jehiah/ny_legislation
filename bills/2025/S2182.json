@@ -1,11 +1,7 @@
 {
- "PrintNo":"S2182","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T15:37:48.776429Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-27"},
-  {"Type":"PASSED_SENATE","Date":"2025-01-27"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Corporations, Authorities And Commissions"}
- ],
+ "PrintNo":"S2182","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T15:37:48.776429Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-04-28"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-15","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-21","Chamber":"SENATE"},
@@ -14,7 +10,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-27","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-04-28","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-04-28","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-04-28","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 2182A","Date":"2025-04-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -128,11 +126,11 @@
  ],
  "Sponsors":[
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Permits the rendering of an estimated bill from a utility corporation or municipality under certain circumstances",
- "Summary":"Permits the rendering of an estimated bill from a utility corporation or municipality under certain circumstances; requires each utility corporation and municipality within six months to submit to the commission a model procedure for the calculation of estimated bills that incorporates best practices and technology and accounts for any barriers to the use of actual meter readings.",
+ "Summary":"Permits the rendering of an estimated bill from a utility corporation or municipality under certain circumstances; requires each utility corporation and municipality within six months to submit to the commission a model for the calculation of and procedures for estimated bills that incorporates best practices and technology and accounts for any barriers to the use of actual meter readings.",
  "LawSection":"Public Service Law","LawCode":"Amd §39, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to permitting the rendering of an estimated bill from a utility corporation or municipality under certain circumstances",
- "PreviousVersions":["S9469-2021","S1851-2023"]
+ "SameAsPrintNo":"A5969-2025","PreviousVersions":["S9469-2021","S1851-2023"]
 }

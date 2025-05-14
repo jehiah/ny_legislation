@@ -1,8 +1,11 @@
 {
  "PrintNo":"S4519","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-06T11:47:40.052265Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-06","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-06","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-06","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1118","Date":"2025-05-14","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
  "Title":"Relates to awards to employees who prevail in actions on kick-back claims",
  "Summary":"Relates to awards to employees who prevail in actions on kick-back claims; provides that such employees shall be entitled to the full amount of what was received, liquidated damages, attorney's fees and prejudgment interest.",

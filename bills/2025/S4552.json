@@ -1,12 +1,16 @@
 {
- "PrintNo":"S4552","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-06T15:10:55.621487Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-06","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-06","Chamber":"SENATE"}],
+ "PrintNo":"S4552","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-06T15:10:55.621487Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-06","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4552A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"}],
  "Title":"Prohibits the sale of kratom to individuals under the age of twenty-one",
  "Summary":"Prohibits the sale of kratom to individuals under the age of twenty-one; imposes a civil penalty of not more than five hundred dollars for the sale or provision of kratom to any person under the age of twenty-one.",
  "LawSection":"Public Health Law","LawCode":"Amd Art 13-F Art Head, §1399-aa, add Art 13-F §1399-mmm, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to the prohibition of the sale of kratom to individuals under the age of twenty-one",
- "SameAsPrintNo":"A2340-2025","PreviousVersions":["A8249-2019","A294-2021","A4376-2023"]
+ "PreviousVersions":["A8249-2019","A294-2021","A4376-2023"]
 }

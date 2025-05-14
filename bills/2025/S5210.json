@@ -1,8 +1,16 @@
 {
- "PrintNo":"S5210","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T15:12:04.373886Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-19","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-02-19","Chamber":"SENATE"}],
+ "PrintNo":"S5210","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-19T15:12:04.373886Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-02-19","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-05-14",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 5210A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
  "Title":"Provides for reimbursement for certain insurance premiums for certain members of the naval militia, New York air, army national guard, and New York guard",
  "Summary":"Provides for reimbursement for certain insurance premiums for certain members of the naval militia, New York air, army national guard, and New York guard.",

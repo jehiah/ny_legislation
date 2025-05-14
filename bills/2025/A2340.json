@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2340","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T10:52:15.240925Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-16","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2340","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-16T10:52:15.240925Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-16","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2340A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},
@@ -19,5 +23,5 @@
  "Summary":"Prohibits the sale of kratom to individuals under the age of twenty-one; imposes a civil penalty of not more than five hundred dollars for the sale or provision of kratom to any person under the age of twenty-one.",
  "LawSection":"Public Health Law","LawCode":"Amd Art 13-F Art Head, §1399-aa, add Art 13-F §1399-mmm, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to the prohibition of the sale of kratom to individuals under the age of twenty-one",
- "SameAsPrintNo":"S4552-2025","PreviousVersions":["A8249-2019","A294-2021","A4376-2023"]
+ "PreviousVersions":["A8249-2019","A294-2021","A4376-2023"]
 }

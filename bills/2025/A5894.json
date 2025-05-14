@@ -1,12 +1,15 @@
 {
- "PrintNo":"A5894","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:48:14.32648Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5894","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-24T09:48:14.32648Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5894A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}],
  "Title":"Defines mental health practitioners with diagnostic authority",
- "Summary":"Defines mental health practitioners with diagnostic authority for the purposes of providing services under the workers' compensation law.",
+ "Summary":"Defines mental health practitioners with diagnostic authority for the purposes of providing services under the workers' compensation law; includes such practitioners as providers.",
  "LawSection":"Workers' Compensation Law","LawCode":"Amd §13-b, Work Comp L",
- "ActClause":"AN ACT to amend the workers' compensation law, in relation to defining mental health practitioners with diagnostic authority",
- "SameAsPrintNo":"S6912-2025"
+ "ActClause":"AN ACT to amend the workers' compensation law, in relation to defining mental health practitioners with diagnostic authority"
 }

@@ -1,11 +1,15 @@
 {
- "PrintNo":"A6277","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-03T16:35:43.32082Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-03","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-03","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6277","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-03T16:35:43.32082Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Economic Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6277A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"}],"Title":"Establishes a brand owner's license",
  "Summary":"Allows a person with a federal basic permit to apply to the liquor authority for a brand owner's license; establishes a fee therefor.",
- "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§17 & 66, add §61-c, ABC L",
+ "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§17, 66 & 103, add §61-c, ABC L",
  "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to establishing a brand owner's license",
- "SameAsPrintNo":"S567-2025","PreviousVersions":["A9107-2023"]
+ "PreviousVersions":["A9107-2023"]
 }

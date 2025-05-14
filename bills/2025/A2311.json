@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2311","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T11:01:29.392789Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-16","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2311","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-16T11:01:29.392789Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-16","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2311A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
@@ -15,10 +19,14 @@
   {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
-  {"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}
+  {"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1556,"Name":"Daniel Norber","Short":"NORBER"},
+  {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
+  {"ID":1540,"Name":"Brian Maher","Short":"MAHER"},{"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},
+  {"ID":1475,"Name":"Michael Tannousis","Short":"TANNOUSIS"},{"ID":1152,"Name":"Chris Tague","Short":"TAGUE"}
  ],
  "Title":"Relates to prohibiting charges for the issuance of a certificate of still birth or fetal death",
- "Summary":"Prohibits charging a fee for the issuance of a certificate of still birth or fetal death.",
+ "Summary":"Prohibits charging a fee for the issuance of a certificate of still birth or pregnancy loss.",
  "LawSection":"Public Health Law","LawCode":"Amd §§4160-a & 4160, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to prohibiting charges for the issuance of a certificate of still birth or fetal death",
  "SameAsPrintNo":"S1807-2025","PreviousVersions":["A9896-2023"]

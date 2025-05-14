@@ -1,8 +1,12 @@
 {
- "PrintNo":"S5402","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T10:23:49.408383Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-21","Chamber":"SENATE"}],
+ "PrintNo":"S5402","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-21T10:23:49.408383Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-21","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5402A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},

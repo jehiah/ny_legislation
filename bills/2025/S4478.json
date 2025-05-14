@@ -1,8 +1,11 @@
 {
  "PrintNo":"S4478","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-05T15:20:33.803193Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-05","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1116","Date":"2025-05-14","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Requires the department of labor to provide a document on workplace rights to any minor seeking working papers",
  "Summary":"Requires the department of labor to provide a document on workplace rights to any minor seeking working papers and to make such document available in other languages and to school officials who issue working papers.",

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S162","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-19T12:51:09.048072Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1109","Date":"2025-05-14","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"}

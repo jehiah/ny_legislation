@@ -1,8 +1,11 @@
 {
  "PrintNo":"S3584","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-28T14:38:17.20362Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-28","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-28","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-28","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1114","Date":"2025-05-14","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
  "Title":"Relates to submission requirements for reports of independent medical examinations",
  "Summary":"Requires reports of independent medical examinations to be submitted by electronic filing; requires such report to additionally be mailed to the claimant unless the claimant opts out.",

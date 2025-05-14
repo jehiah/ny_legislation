@@ -1,8 +1,11 @@
 {
  "PrintNo":"S2499","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T10:53:37.412219Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-21","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-21","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1112","Date":"2025-05-14","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},

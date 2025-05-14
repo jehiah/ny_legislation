@@ -1,14 +1,19 @@
 {
  "PrintNo":"A1191","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:25:19.04645Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-30"}],
+ "Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-30"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-14"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-01-28","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-04-29","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-04-30","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.156","Date":"2025-04-30","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.156","Date":"2025-04-30","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.156","Date":"2025-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-14","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

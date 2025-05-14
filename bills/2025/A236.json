@@ -1,16 +1,21 @@
 {
- "PrintNo":"A236","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-31T11:06:58.374106Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A236","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-31T11:06:58.374106Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 236A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
   {"ID":457,"Name":"Vivian Cook","Short":"COOK"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
-  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"}
+  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1125,"Name":"Brian D. Miller","Short":"MILLER"}
  ],
  "Title":"Relates to the license requirements for the practice of respiratory therapy",
- "Summary":"Relates to the license requirements for the practice of respiratory therapy.","LawSection":"Education Law",
- "LawCode":"Amd §§8504 & 8513, Ed L",
+ "Summary":"Relates to the license requirements for the practice of respiratory therapy; requires additional education.",
+ "LawSection":"Education Law","LawCode":"Amd §§8504 & 8510, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to the license requirements for the practice of respiratory therapy",
  "SameAsPrintNo":"S6329-2025","PreviousVersions":["A10798-2017","A7304-2019","A1358-2021","A201-2023"]
 }

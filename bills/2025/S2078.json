@@ -1,8 +1,11 @@
 {
  "PrintNo":"S2078","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T10:31:45.157168Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-15","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1110","Date":"2025-05-14","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Requires or allows licensing entities to suspend business licenses for certain businesses that are charged or convicted of wage theft",
  "Summary":"Requires or allows licensing entities to suspend business licenses for certain businesses that are charged or convicted of wage theft; establishes reporting requirements for wage theft convictions.",

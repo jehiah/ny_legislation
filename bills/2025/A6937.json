@@ -1,10 +1,14 @@
 {
- "PrintNo":"A6937","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:16:40.904726Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Racing And Wagering"}],
- "Actions":[{"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-03-18","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6937","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-18T13:16:40.904726Z","Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Racing And Wagering"}],
+ "Actions":[
+  {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO RACING AND WAGERING","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6937A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"}],"Title":"Prohibits reversable withdrawals",
- "Summary":"Requires all withdrawal transactions made through a service provided by an entity licensed under the racing, pari-mutuel wagering and breeding law to be irreversible by the withdrawing consumer, the licensee or another at the consumer's request.",
- "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Add §1368, RWB L",
+ "Summary":"Requires all withdrawal transactions made through a service provided by a mobile sports wagering licensee to be irreversible by the withdrawing consumer, the licensee or another at the consumer's request.",
+ "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Amd §1367-a, RWB L",
  "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to prohibiting reversible withdrawals"
 }

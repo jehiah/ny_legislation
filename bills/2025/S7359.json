@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7359","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-10T15:38:36.657486Z",
- "Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Agriculture"}],
- "Actions":[{"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-10","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"}],
+ "Actions":[
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-10","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1123","Date":"2025-05-14","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Establishes a New York native plants designation within the New York state grown and certified program",
  "Summary":"Directs the commissioner of agriculture and markets, acting by and through the department of economic development, in cooperation with the department of environmental conservation, to establish a New York native plants designation within the New York state grown and certified program, for certain native plants grown, cultivated, harvested, or distributed by nurseries, plant farms, garden centers, and other horticultural vendors in the state.",

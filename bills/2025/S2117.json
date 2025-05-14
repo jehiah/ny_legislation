@@ -3,15 +3,36 @@
  "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-12"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.977","Date":"2025-05-12","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.977","Date":"2025-05-12","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-13","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-12","Chamber":"SENATE",
+   "Committee":"Housing, Construction And Community Development",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to prosecution by the department of financial services and municipalities of certain violations regarding residential real property",
  "Summary":"Relates to prosecution by the department of financial services (DFS) and municipalities of certain violations regarding residential real property by mortgage lenders and similar entities; directs DFS to promulgate standards of review of whether to prosecute such violations; requires deference to municipalities where both the municipality and DFS are authorized to prosecute such a violation; directs payments of civil penalties issued pursuant to such violations to be paid to DFS if DFS is the prosecuting entity.",
  "LawSection":"Real Property Actions and Proceedings Law","LawCode":"Add §1360, RPAP L",
- "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to prosecution by the department of financial services and municipalities of certain violations regarding residential real properties"
+ "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to prosecution by the department of financial services and municipalities of certain violations regarding residential real properties",
+ "SameAsPrintNo":"A8403-2025"
 }
