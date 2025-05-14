@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5031","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-11T12:15:52.380898Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-11","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-02-11","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5031","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-11T12:15:52.380898Z","Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Banks"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-02-11","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5031A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},
   {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
@@ -16,5 +20,5 @@
  "Summary":"Establishes standards for the closure of bank accounts in the state of New York to include providing notice of closure and the return of funds to account owners.",
  "LawSection":"Banking Law","LawCode":"Add §9-ii, Bank L",
  "ActClause":"AN ACT to amend the banking law, in relation to establishing criteria for the closure of banking accounts in the state of New York",
- "SameAsPrintNo":"S4603-2025","PreviousVersions":["A9210-2023"]
+ "PreviousVersions":["A9210-2023"]
 }
