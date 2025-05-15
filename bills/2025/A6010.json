@@ -1,8 +1,12 @@
 {
- "PrintNo":"A6010","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-25T15:27:45.794146Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-02-25","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6010","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-25T15:27:45.794146Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6010A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
@@ -11,7 +15,7 @@
  ],
  "Title":"Relates to unfair claim settlement practices",
  "Summary":"Relates to claim settlement practices when an insurer refuses to pay or is delaying payment of a settlement; provides a policyholder a private right of action against such insurer doing business in the state who has refused or delayed payment of an insurance claim.",
- "LawSection":"Insurance Law","LawCode":"Add §2601-a, amd §§3425 & 2601, Ins L",
+ "LawSection":"Insurance Law","LawCode":"Add §2601-a, amd §3425, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to unfair claim settlement practices",
- "PreviousVersions":["A7285-2021","A7139-2023"]
+ "SameAsPrintNo":"S166-2025","PreviousVersions":["A7285-2021","A7139-2023"]
 }

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2619","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-21T10:13:18.075177Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Housing"}],
- "Actions":[{"Text":"REFERRED TO HOUSING","Date":"2025-01-21","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2619","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-21T10:13:18.075177Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Housing"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING","Date":"2025-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HOUSING","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2619A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
@@ -22,9 +26,9 @@
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},
   {"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
- "Title":"Limits the amount of rent increases for residential ground lease cooperative apartment buildings and establishes certain rights upon the expiration of such leases",
- "Summary":"Limits the amount of rent increases for residential ground lease cooperative apartment buildings; establishes certain rights upon the expiration of such leases.",
+ "Title":"Establishes certain rights upon the expiration of ground lease residential cooperative apartment buildings",
+ "Summary":"Establishes certain rights upon the expiration of ground lease residential cooperative apartment buildings.",
  "LawSection":"Real Property Law","LawCode":"Add §233-c, RP L",
- "ActClause":"AN ACT to amend the real property law, in relation to limiting the amount of rent increases for residential ground lease cooperative apartment buildings and establishing certain rights upon expiration of such leases",
- "SameAsPrintNo":"S2433-2025","PreviousVersions":["A5031-2023"]
+ "ActClause":"AN ACT to amend the real property law, the emergency tenant protection act of nineteen seventy-four, and the administrative code of the city of New York, in relation to establishing certain rights upon expiration of leases for ground lease residential cooperative apartment buildings",
+ "PreviousVersions":["A5031-2023"]
 }

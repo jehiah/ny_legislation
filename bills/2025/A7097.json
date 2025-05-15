@@ -1,12 +1,16 @@
 {
- "PrintNo":"A7097","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-20T16:08:43.242452Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-20","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-03-20","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7097","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-20T16:08:43.242452Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7097A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"}],
- "Title":"Includes public employment in wage payment provisions",
- "Summary":"Includes public employment within the definition of \"employer\" for purposes of wage payment provisions.",
- "LawSection":"Labor Law","LawCode":"Amd §190, Lab L",
+ "Title":"Relates to the definition of employer for purposes of wage payment provisions",
+ "Summary":"Relates to the definition of employer for purposes of wage payment provisions.","LawSection":"Labor Law",
+ "LawCode":"Amd §190, Lab L",
  "ActClause":"AN ACT to amend the labor law, in relation to including public employment in wage payment provisions",
- "SameAsPrintNo":"S6108-2025","PreviousVersions":["A6820-2015","A802-2017","A3284-2019","A6829-2021","A1924-2023"]
+ "PreviousVersions":["A6820-2015","A802-2017","A3284-2019","A6829-2021","A1924-2023"]
 }

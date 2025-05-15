@@ -1,11 +1,13 @@
 {
- "PrintNo":"A3687","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A3687","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-30T10:43:38.236035Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-28","Committee":"Insurance"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-04-28","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 3687A","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 3687A","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 3687B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
@@ -13,8 +15,8 @@
   {"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"}
  ],
  "Title":"Relates to addressing non-covered dental services",
- "Summary":"Addresses non-covered dental services by requiring all contracts for dental services issued to include a disclosure stating that a participating provider may charge their normal fee for services that are not covered; requires a cost estimate to be provided.",
- "LawSection":"Insurance Law","LawCode":"Amd §§4224 & 4303, Ins L",
+ "Summary":"Addresses non-covered dental services by requiring all policies providing coverage of and all contracts for dental services issued to include a disclosure stating that a participating provider may charge their normal fee for services that are not covered; requires a cost estimate to be provided.",
+ "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to addressing non-covered dental services",
  "PreviousVersions":["A7862-2023"]
 }

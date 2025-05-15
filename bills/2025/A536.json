@@ -1,8 +1,12 @@
 {
- "PrintNo":"A536","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:23:54.223726Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A536","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T12:23:54.223726Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 536A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1477,"Name":"Amanda Septimo","Short":"SEPTIMO"},{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},
@@ -14,5 +18,5 @@
  "Summary":"Relates to summaries of readable and understandable insurance policies which shall include the limits of insurance, the term of the policy, the amount of  premium and the amount of deductibles and a statement.",
  "LawSection":"Insurance Law","LawCode":"Amd §3102, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to summaries of readable and understandable insurance policies",
- "SameAsPrintNo":"S3241-2025","PreviousVersions":["A9927-2021","A2741-2023"]
+ "PreviousVersions":["A9927-2021","A2741-2023"]
 }

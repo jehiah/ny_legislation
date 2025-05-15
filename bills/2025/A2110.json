@@ -1,11 +1,13 @@
 {
- "PrintNo":"A2110","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A2110","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-15T15:14:24.716977Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-01-16","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2110A","Date":"2025-01-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2110A","Date":"2025-01-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 2110B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"},
@@ -13,7 +15,7 @@
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}
  ],
  "Title":"Expands the definition of mental health care provider for purposes of certain sex offenses committed during a treatment session, consultation, interview, or examination",
- "Summary":"Expands the definition of mental health care provider to include behavior analysts, mental health practitioners and other mental health professionals for purposes of certain sex offenses committed during a treatment session, consultation, interview, or examination.",
+ "Summary":"Expands the definition of mental health care provider to include licensed psychoanalysts, creative arts therapists and behavior analysts for purposes of certain sex offenses committed during a treatment session, consultation, interview, or examination.",
  "LawSection":"Penal Law","LawCode":"Amd §130.00, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to expanding the definition of mental health care provider for purposes of certain sex offenses",
  "SameAsPrintNo":"S1543-2025"

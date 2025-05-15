@@ -1,12 +1,16 @@
 {
- "PrintNo":"A8079","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-24T16:08:21.714062Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-24","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-04-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8079","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-24T16:08:21.714062Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-04-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8079A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"}],
- "Title":"Relates to authorizing an occupancy tax in the village of Medina",
- "Summary":"Relates to authorizing an occupancy tax in the village of Medina in Orleans county not to exceed two percent of the per diem rental rate for each room; provides for the repeal of such provisions upon the expiration thereof.",
- "LawSection":"Tax Law","LawCode":"Add §1202-z-5, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to authorizing an occupancy tax in the village of Medina; and providing for the repeal of such provisions upon expiration thereof",
- "SameAsPrintNo":"S7542-2025","PreviousVersions":["A6537-2019","A9767-2021","A6671-2023"]
+ "Title":"Amends chapter 530 of the laws of 2024, amending the tax law relating to authorizing an occupancy tax in the village of Medina, in relation to the effectiveness thereof",
+ "Summary":"Extends the authority of the village of Medina to impose an occupancy tax.","LawSection":"Tax Law",
+ "LawCode":"Amd §2, Chap 530 of 2024",
+ "ActClause":"AN ACT to amend chapter 530 of the laws of 2024 amending the tax law relating to authorizing an occupancy tax in the village of Medina, in relation to the effectiveness thereof",
+ "PreviousVersions":["A6537-2019","A9767-2021","A6671-2023"]
 }
