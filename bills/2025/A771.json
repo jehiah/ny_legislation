@@ -1,11 +1,16 @@
 {
- "PrintNo":"A771","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T16:01:59.892032Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A771","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T16:01:59.892032Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 771A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":457,"Name":"Vivian Cook","Short":"COOK"}],
  "Title":"Requires insurance coverage for early egg and peanut allergen introduction dietary supplements for infants at no cost",
  "Summary":"Requires insurance coverage for early egg and peanut allergen introduction dietary supplements for infants at no cost.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L; amd §365-a, Soc Serv L",
- "ActClause":"AN ACT to amend the insurance law and the social services law, in relation to requiring coverage for early egg and peanut allergen introduction dietary supplements"
+ "ActClause":"AN ACT to amend the insurance law and the social services law, in relation to requiring coverage for early egg and peanut allergen introduction dietary supplements",
+ "SameAsPrintNo":"S7915-2025"
 }

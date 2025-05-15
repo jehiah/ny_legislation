@@ -1,10 +1,33 @@
 {
  "PrintNo":"S3486","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T15:54:45.522336Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-13"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-15"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1087","Date":"2025-05-13","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1087","Date":"2025-05-13","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-13","Chamber":"SENATE","Committee":"Health",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Nay"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Nay"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Nay"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Nay"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Nay"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},

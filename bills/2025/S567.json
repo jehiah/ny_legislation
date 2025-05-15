@@ -1,15 +1,16 @@
 {
- "PrintNo":"S567","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T13:33:40.467839Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S567","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T13:33:40.467839Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-05"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.242","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-04","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-05","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 567A","Date":"2025-05-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,7 +28,7 @@
  ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],"Title":"Establishes a brand owner's license",
  "Summary":"Allows a person with a federal basic permit to apply to the liquor authority for a brand owner's license; establishes a fee therefor.",
- "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§17 & 66, add §61-c, ABC L",
+ "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§17, 66 & 103, add §61-c, ABC L",
  "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to establishing a brand owner's license",
- "PreviousVersions":["S6765-2023"]
+ "SameAsPrintNo":"A6277-2025","PreviousVersions":["S6765-2023"]
 }

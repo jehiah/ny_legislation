@@ -1,16 +1,20 @@
 {
  "PrintNo":"A1241","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-09T10:49:14.452969Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-09T10:49:14.452969Z","Status":"IN_SENATE_COMM","Committee":"Elections",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-20","Committee":"Election Law"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-27"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-27"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-15"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Elections"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ELECTION LAW","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ELECTION LAW","Date":"2025-03-20","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 1241A","Date":"2025-03-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.70","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.70","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ELECTIONS","Date":"2025-05-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -37,7 +41,7 @@
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1531,"Name":"Alex Bores","Short":"BORES"},
-  {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}
+  {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"}
  ],
  "Title":"Relates to furnishing money or entertainment to induce attendance at polls; repealer",
  "Summary":"Repeals provisions criminalizing the furnishing of items with a nominal value to induce attendance at polls.",

@@ -1,10 +1,14 @@
 {
  "PrintNo":"A6634","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T15:10:38.861393Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Tourism, Parks, Arts And Sports Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Tourism, Parks, Arts And Sports Development"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Tourism, Parks, Arts And Sports Development"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-03-06","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.158","Date":"2025-05-15","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

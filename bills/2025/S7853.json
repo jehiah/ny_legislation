@@ -1,11 +1,15 @@
 {
- "PrintNo":"S7853","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T14:52:59.620002Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-05-09","Chamber":"SENATE"}],
+ "PrintNo":"S7853","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-09T14:52:59.620002Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-05-09","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7853A","Date":"2025-05-15","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to qualifications to hold the position of assistant village engineer in the village of Croton-on-Hudson",
  "Summary":"Permits the village of Croton-on-Hudson to allow the office of assistant village engineer of such village to be held by a person who is not a resident of such village, provided that such person resides within Westchester county or an adjoining county within the state of New York.",
- "LawSection":"Village Law","LawCode":"Amd §3-300, Vil l; amd §3, Pub Off L",
+ "LawSection":"Village Law","LawCode":"Amd §3-300, Vil L; amd §3, Pub Off L",
  "ActClause":"AN ACT to amend the village law and the public officers law, in relation to qualifications to hold the position of assistant village engineer in the village of Croton-on-Hudson"
 }

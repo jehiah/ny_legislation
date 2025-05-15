@@ -3,11 +3,27 @@
  "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Ethics And Internal Governance"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-01-15","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1021","Date":"2025-05-13","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1021","Date":"2025-05-13","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-13","Chamber":"SENATE","Committee":"Ethics And Internal Governance",
+   "Votes":[
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Nay"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to the term \"reportable business relationship\" as it relates to certain employees of the state university of New York and the city university of New York",

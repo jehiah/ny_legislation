@@ -1,9 +1,9 @@
 {
  "PrintNo":"A1191","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:25:19.04645Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-30"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-14"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-14"},{"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Finance"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -13,7 +13,8 @@
   {"Text":"RULES REPORT CAL.156","Date":"2025-04-30","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.156","Date":"2025-04-30","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-14","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO SENATE","Date":"2025-05-14","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO FINANCE","Date":"2025-05-14","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -116,6 +117,55 @@
     {"ID":662,"Short":"MCDONALD","Vote":"Excused"},{"ID":673,"Short":"SOLAGES","Vote":"Excused"},
     {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":1089,"Short":"HYNDMAN","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"","Date":"2025-05-14","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":608,"Short":"RA","Vote":"Nay"},{"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":1127,"Short":"WALSH","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Nay"},{"ID":1464,"Short":"GIGLIO","Vote":"Nay"},
+    {"ID":574,"Short":"BARCLAY","Vote":"Nay"},{"ID":589,"Short":"HAWLEY","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":608,"Short":"RA","Vote":"Nay"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Nay"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":1148,"Short":"SMITH","Vote":"Nay"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":474,"Short":"LAVINE","Vote":"Excused"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Excused"},{"ID":534,"Short":"BENEDETTO","Vote":"Excused"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Excused"},{"ID":673,"Short":"SOLAGES","Vote":"Excused"},
+    {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":1089,"Short":"HYNDMAN","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
@@ -126,7 +176,7 @@
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
-  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
+  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
  ],
  "Title":"Requires the division of criminal justice services to certify the technological viability of personalized handguns and to establish requirements related to the sale of personalized handguns",
  "Summary":"Enacts the \"safer weapons, safer homes act\"; requires the division of criminal justice services to certify the technological viability of personalized handguns and to establish requirements related to the sale of personalized handguns; defines personalized handgun; requires the division to establish and maintain a roster of all personalized handguns approved for retail sale to the public; requires the division to report to the legislature on the technological viability of personalized handguns.",

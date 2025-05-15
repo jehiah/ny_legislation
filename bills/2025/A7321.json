@@ -1,12 +1,15 @@
 {
  "PrintNo":"A7321","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-25T16:05:40.271795Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Insurance"}],
+ "Published":"2025-03-25T16:05:40.271795Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-07","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 7321A","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.160","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,7 +31,13 @@
    ]
   }
  ],
- "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"}],
+ "Sponsors":[
+  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
+  {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
+  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
+  {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"}
+ ],
  "Title":"Requires health insurers to provide coverage for speech therapy for stuttering",
  "Summary":"Requires health insurers to provide coverage for speech therapy for stuttering.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",

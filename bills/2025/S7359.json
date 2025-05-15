@@ -1,10 +1,26 @@
 {
  "PrintNo":"S7359","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-10T15:38:36.657486Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-05-15"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-10","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1123","Date":"2025-05-14","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1123","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-15","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-14","Chamber":"SENATE","Committee":"Agriculture",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Establishes a New York native plants designation within the New York state grown and certified program",

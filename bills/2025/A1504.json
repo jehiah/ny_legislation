@@ -1,12 +1,16 @@
 {
- "PrintNo":"A1504","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T12:15:40.127679Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-10","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-10","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1504","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-10T12:15:40.127679Z","Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Social Services"}],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-10","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO SOCIAL SERVICES","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1504A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}],
  "Title":"Removes the requirement that rent arrears be repaid",
- "Summary":"Removes the requirement that rent arrears be repaid; forgives any outstanding repayment agreements for rent arrears.",
+ "Summary":"Removes the requirement that rent arrears be repaid for social services districts located in a municipality with a population of five million or more.",
  "LawSection":"Social Services Law","LawCode":"Amd §131-w, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to removing the requirement that rent arrears be repaid",
- "PreviousVersions":["A7048-2021","A5514-2023"]
+ "ActClause":"AN ACT to amend the social services law, in relation to removing the requirement that rent arrears be repaid for social services districts located in a municipality with a population of five million or more",
+ "SameAsPrintNo":"S1458-2025","PreviousVersions":["A7048-2021","A5514-2023"]
 }

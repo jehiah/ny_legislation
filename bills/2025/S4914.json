@@ -3,13 +3,29 @@
  "Published":"2025-02-14T11:27:01.918286Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Children And Families"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-13"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO CHILDREN AND FAMILIES","Date":"2025-05-05","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 4914A","Date":"2025-05-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"1ST REPORT CAL.1005","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
+  {"Text":"1ST REPORT CAL.1005","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-13","Version":"A","Chamber":"SENATE","Committee":"Children And Families",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Nay"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},

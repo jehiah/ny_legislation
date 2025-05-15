@@ -1,10 +1,13 @@
 {
  "PrintNo":"A3280","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T10:39:41.867838Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Insurance"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-27","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.150","Date":"2025-05-15","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,8 +1,12 @@
 {
- "PrintNo":"S1271","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T09:10:55.044477Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-09","Chamber":"SENATE"}],
+ "PrintNo":"S1271","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T09:10:55.044477Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1271A","Date":"2025-05-15","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}
@@ -11,5 +15,5 @@
  "Summary":"Relates to requiring a licensed massage therapist to display such licensed massage therapist's license when practicing and the required contents of such license, including at a minimum the licensee's name, license number and a non-removable photograph of such licensee.",
  "LawSection":"Education Law","LawCode":"Amd §§7802 & 7804, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to requiring a licensed massage therapist to display such licensed massage therapist's license when practicing and the required contents of such license",
- "SameAsPrintNo":"A3882-2025","PreviousVersions":["S8192-2017","S3097-2019","S375-2021","S1961-2023"]
+ "PreviousVersions":["S8192-2017","S3097-2019","S375-2021","S1961-2023"]
 }
