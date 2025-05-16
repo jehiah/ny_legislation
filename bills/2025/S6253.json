@@ -1,8 +1,12 @@
 {
- "PrintNo":"S6253","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-07T11:25:08.037027Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-07","Committee":"Elections"}],
- "Actions":[{"Text":"REFERRED TO ELECTIONS","Date":"2025-03-07","Chamber":"SENATE"}],
+ "PrintNo":"S6253","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-07T11:25:08.037027Z","Status":"IN_SENATE_COMM","Committee":"Elections",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-16","Committee":"Elections"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2025-03-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ELECTIONS","Date":"2025-05-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6253A","Date":"2025-05-16","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Requires state and county boards of elections to post sample ballots online at least twelve days prior to the first day of early voting",
  "Summary":"Requires state and county boards of elections to post sample ballots online at least twelve days prior to the first day of early voting; requires such ballots to be posted in a searchable database.",

@@ -1,14 +1,19 @@
 {
- "PrintNo":"A7053","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-20T15:35:18.959504Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-20","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-20","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7053","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-20T15:35:18.959504Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7053A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
-  {"ID":500,"Name":"William Colton","Short":"COLTON"}
+  {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
+  {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
  ],
- "Title":"Relates to the disposition of scholarships declined by a student or revoked; provides for the granting of such scholarship to the next most qualified student",
- "Summary":"Provides that a scholarship for academic excellence that is declined by a student or is revoked for any reason shall be granted to the next most qualified student.",
+ "Title":"Relates to scholarships for academic excellence",
+ "Summary":"Provides that a scholarship for academic excellence that is declined by a student prior to the end of their high school program the scholarship shall be granted to the next most qualified student, if practicable.",
  "LawSection":"Education Law","LawCode":"Amd §605-a, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to scholarships for academic excellence",
  "PreviousVersions":["A377-2007","A1602-2009","A2191-2011","A2811-2013","A3764-2015","A3634-2017","A2958-2019","A6827-2021","A1956-2023"]

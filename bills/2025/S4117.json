@@ -1,11 +1,13 @@
 {
- "PrintNo":"S4117","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S4117","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-02-03T09:31:32.169562Z","Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-04","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-16","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-04-04","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 4117A","Date":"2025-04-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 4117A","Date":"2025-04-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-16","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 4117B","Date":"2025-05-16","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
@@ -15,5 +17,6 @@
  "Title":"Relates to the sealing of certain claims against law enforcement officers",
  "Summary":"Provides for the sealing of unfounded, exonerated, and pending claims made against law enforcement officers; requires such claims to be redacted from disciplinary records.",
  "LawSection":"Executive Law","LawCode":"Add §845-f, Exec L; amd §89, Pub Off L",
- "ActClause":"AN ACT to amend the executive law and the public officers law, in relation to the sealing of certain claims against law enforcement officers"
+ "ActClause":"AN ACT to amend the executive law and the public officers law, in relation to the sealing of certain claims against law enforcement officers",
+ "SameAsPrintNo":"A2074-2025"
 }

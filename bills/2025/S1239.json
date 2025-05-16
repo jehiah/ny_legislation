@@ -10,6 +10,21 @@
   {"Text":"PRINT NUMBER 1239B","Date":"2025-04-28","Chamber":"SENATE","Version":"B"},
   {"Text":"REPORTED AND COMMITTED TO HEALTH","Date":"2025-05-14","Chamber":"SENATE","Version":"B"}
  ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-14","Version":"B","Chamber":"SENATE","Committee":"Agriculture",
+   "Votes":[
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},
   {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
@@ -24,5 +39,5 @@
  "LawSection":"Agriculture and Markets Law",
  "LawCode":"Amd §§199-a, 199-b, 198 & 202-c, add §199-g, Ag & Mkts L; add §915-a, Ed L",
  "ActClause":"AN ACT to amend the agriculture and markets law and the education law, in relation to enacting the \"food safety and chemical disclosure act\"",
- "SameAsPrintNo":"A1556-2025","PreviousVersions":["S6055-2023"]
+ "PreviousVersions":["S6055-2023"]
 }

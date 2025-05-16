@@ -1,11 +1,13 @@
 {
- "PrintNo":"A3575","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A3575","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-28T14:06:26.083046Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-12","Committee":"Environmental Conservation"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-28","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-12","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 3575A","Date":"2025-05-12","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 3575A","Date":"2025-05-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 3575B","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
@@ -25,5 +27,5 @@
  "Summary":"Establishes an indirect source review for heavy distribution warehouse operations; requires the department of environmental conservation to conduct a study regarding zero-emissions zones.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §19-0333, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to establishing an indirect source review for certain warehouse operations",
- "SameAsPrintNo":"S1180-2025","PreviousVersions":["A9799-2021","A1718-2023"]
+ "PreviousVersions":["A9799-2021","A1718-2023"]
 }

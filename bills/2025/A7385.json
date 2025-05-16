@@ -1,14 +1,19 @@
 {
- "PrintNo":"A7385","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-25T16:51:03.336069Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-03-25","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7385","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-25T16:51:03.336069Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7385A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},
   {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"}
  ],
  "Title":"Relates to the Rochester school facilities modernization program act",
  "Summary":"Authorizes an additional $125 million for Phase 3 of the Rochester school facilities modernization program; extends phase 3 of the Rochester school facilities modernization program to 2033.",
- "LawSection":"Education","LawCode":"Amd §§4, 5 & 21, Chap 416 of 2007",
- "ActClause":"AN ACT to amend chapter 416 of the laws of 2007, establishing the city of Rochester and the board of education of the city school district of the city of Rochester school facilities modernization program act, in relation to granting further authority to the RJSCB to modernize educational facilities in the city of Rochester"
+ "LawSection":"Education","LawCode":"Amd §§4, 5, 6 & 21, Chap 416 of 2007",
+ "ActClause":"AN ACT to amend chapter 416 of the laws of 2007, establishing the city of Rochester and the board of education of the city school district of the city of Rochester school facilities modernization program act, in relation to granting further authority to the RJSCB to modernize educational facilities in the city of Rochester",
+ "SameAsPrintNo":"S7157-2025"
 }

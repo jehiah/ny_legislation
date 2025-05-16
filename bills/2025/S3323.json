@@ -1,12 +1,16 @@
 {
- "PrintNo":"S3323","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T16:09:06.707331Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-24","Chamber":"SENATE"}],
+ "PrintNo":"S3323","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T16:09:06.707331Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-16","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-24","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3323A","Date":"2025-05-16","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
- "Title":"Requires insurance policies to provide coverage for transvaginal ultrasounds during pregnancy",
+ "Title":"Enacts the \"Eli Parker Levitt Law\"",
  "Summary":"Requires insurance policies to provide coverage for transvaginal ultrasounds during pregnancy.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to requiring insurance policies to provide coverage for transvaginal ultrasounds during pregnancy",
- "SameAsPrintNo":"A3280-2025","PreviousVersions":["S7146-2021","S5579-2023"]
+ "ActClause":"AN ACT to amend the insurance law, in relation to enacting the Eli Parker Levitt law",
+ "PreviousVersions":["S7146-2021","S5579-2023"]
 }

@@ -1,11 +1,13 @@
 {
- "PrintNo":"A3938","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A3938","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-30T15:00:47.730372Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-12","Committee":"Transportation"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-12","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 3938A","Date":"2025-03-12","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 3938A","Date":"2025-03-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 3938B","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},
@@ -33,8 +35,8 @@
   {"ID":1120,"Name":"Billy Jones","Short":"JONES"},{"ID":1148,"Name":"Doug Smith","Short":"SMITH"}
  ],
  "Title":"Enacts the Alexander John Smullen Traffic Safety Memorial Law",
- "Summary":"Establishes a memorial sign program to publicly memorialize the victims of fatal vehicle collisions; specifies the contents of the sign.",
- "LawSection":"Highway Law","LawCode":"Add §24, Hway L; amd §§1640, 1650 & 1660, V & T L",
+ "Summary":"Authorizes the department of transportation to establish and implement a state memorial sign program to memorialize persons who died due to injuries sustained in a fatal motor vehicle crash on state highways.",
+ "LawSection":"Transportation Law","LawCode":"Amd §14, Transp L",
  "ActClause":"AN ACT to amend the highway law, in relation to enacting \"Alexander John Smullen Traffic Safety Memorial Law\"",
  "SameAsPrintNo":"S5568-2025","PreviousVersions":["A9748-2023"]
 }

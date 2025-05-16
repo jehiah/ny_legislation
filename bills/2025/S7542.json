@@ -1,8 +1,13 @@
 {
- "PrintNo":"S7542","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-22T14:20:28.808326Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-22","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-22","Chamber":"SENATE"}],
+ "PrintNo":"S7542","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-22T14:20:28.808326Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-16","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-22","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7542A","Date":"2025-05-16","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":885,"Name":"Robert Ortt","Short":"ORTT"}],
  "Title":"Relates to authorizing an occupancy tax in the village of Medina",
  "Summary":"Relates to authorizing an occupancy tax in the village of Medina in Orleans county not to exceed two percent of the per diem rental rate for each room; provides for the repeal of such provisions upon the expiration thereof.",

@@ -1,11 +1,17 @@
 {
  "PrintNo":"A8113","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-30T13:55:56.082695Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Aging"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"}],
+ "Status":"IN_SENATE_COMM","Committee":"Aging",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Aging"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-12"},{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Aging"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-04-30","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.134","Date":"2025-05-08","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.134","Date":"2025-05-08","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO AGING","Date":"2025-05-12","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -27,9 +33,32 @@
     {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
     {"ID":468,"Short":"RAMOS","Vote":"Excused"},{"ID":656,"Short":"DIPIETRO","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"","Date":"2025-05-12","Chamber":"ASSEMBLY","Committee":"AGING",
+   "Votes":[
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Excused"},{"ID":656,"Short":"DIPIETRO","Vote":"Excused"}
+   ]
   }
  ],
- "Sponsors":[{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"}],
+ "Sponsors":[
+  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+ ],
  "Title":"Extends provisions of the long term care ombudsman to assisted living facilities",
  "Summary":"Extends provisions of the long term care ombudsman access to assisted living facilities for two years from December 31, 2025 until December 31, 2027.",
  "LawSection":"Elder","LawCode":"Amd §5, Chap 462 of 2015",

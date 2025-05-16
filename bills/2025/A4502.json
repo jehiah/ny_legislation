@@ -1,16 +1,23 @@
 {
- "PrintNo":"A4502","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T11:05:02.006596Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4502","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-04T11:05:02.006596Z","Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Social Services"}],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO SOCIAL SERVICES","Date":"2025-05-08","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4502A","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO SOCIAL SERVICES","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 4502B","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"B"}
+ ],
  "Sponsors":[
   {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},
   {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
-  {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
+  {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"}
  ],
- "Title":"Allows college coursework to be credited as a work activity which may be used toward fulfilling the employment requirements for public assistance benefits",
- "Summary":"Allows college coursework to be credited as a work activity which may be used toward fulfilling the employment requirements for public assistance benefits under certain conditions.",
- "LawSection":"Social Services Law","LawCode":"Amd §336-a, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to access to a college education by public assistance recipients who are subject to work participation requirements",
- "SameAsPrintNo":"S4257-2025","PreviousVersions":["A8586-2015","A974-2017","A1918-2019","A3416-2021","A3253-2023"]
+ "Title":"Relates to access to educational activities by public assistance recipients who are subject to work participation requirements",
+ "Summary":"Relates to access to educational activities by public assistance recipients who are subject to work participation requirements; allows homework expected or required by an educational institution to count towards satisfaction of the work activity requirements for public assistance benefits for participants engaged in certain educational or training activities.",
+ "LawSection":"Social Services Law","LawCode":"Amd §§336-a & 336, Soc Serv L",
+ "ActClause":"AN ACT to amend the social services law, in relation to access to educational activities by public assistance recipients who are subject to work participation requirements",
+ "PreviousVersions":["A8586-2015","A974-2017","A1918-2019","A3416-2021","A3253-2023"]
 }
