@@ -1,8 +1,12 @@
 {
- "PrintNo":"A6327","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-04T10:36:49.93237Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-03-04","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6327","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-04T10:36:49.93237Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2025-05-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6327A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},
@@ -15,6 +19,6 @@
  "Title":"Authorizes existing building projects to continue when the fossil fuel ban takes effect",
  "Summary":"Authorizes existing building projects to continue when the fossil fuel ban takes effect.",
  "LawSection":"Energy Law","LawCode":"Amd §11-104, Energy L",
- "ActClause":"AN ACT to amend the energy law, in relation to authorizing existing building projects to continue when the fossil fuel ban takes effect",
- "SameAsPrintNo":"S685-2025","PreviousVersions":["A10477-2023"]
+ "ActClause":"AN ACT relating to authorizing existing building projects to continue when the fossil fuel ban takes effect",
+ "PreviousVersions":["A10477-2023"]
 }

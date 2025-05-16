@@ -1,12 +1,16 @@
 {
- "PrintNo":"A7971","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-16T15:16:51.730338Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-16","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-04-16","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7971","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-16T15:16:51.730338Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Governmental Employees"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-04-16","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7971A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
  "Title":"Allows for certain participants in World Trade Center rescue, recovery, or cleanup operations to be eligible for disability benefits",
  "Summary":"Allows for participants in World Trade Center rescue, recovery, or cleanup operations who were not members of a New York state retirement system at the time of such participation but who are now currently active members in such retirement systems to be eligible for disability benefits.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §§605 & 507, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to making certain participants in World Trade Center rescue, recovery, or cleanup operations eligible for disability benefits",
- "SameAsPrintNo":"S7831-2025","PreviousVersions":["A9113-2023"]
+ "PreviousVersions":["A9113-2023"]
 }
