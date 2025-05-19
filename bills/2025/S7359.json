@@ -1,11 +1,12 @@
 {
- "PrintNo":"S7359","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-10T15:38:36.657486Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S7359","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-10T15:38:36.657486Z","Status":"SENATE_FLOOR",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-05-15"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1123","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-15","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"AMENDED (T) 7359A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -22,9 +23,9 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
- "Title":"Establishes a New York native plants designation within the New York state grown and certified program",
- "Summary":"Directs the commissioner of agriculture and markets, acting by and through the department of economic development, in cooperation with the department of environmental conservation, to establish a New York native plants designation within the New York state grown and certified program, for certain native plants grown, cultivated, harvested, or distributed by nurseries, plant farms, garden centers, and other horticultural vendors in the state.",
+ "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],"Title":"Establishes a New York native plants designation",
+ "Summary":"Directs the commissioner of agriculture and markets, acting by and through the department of economic development, in cooperation with the department of environmental conservation, to establish a New York native plants designation, and offer seals or logos identifying native plants as grown in New York state and certified for their quality, for product labeling, advertising, and displays.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd §16, Ag & Mkts L",
- "ActClause":"AN ACT to amend the agriculture and markets law, in relation to establishing a New York native plants designation within the New York state grown and certified program"
+ "ActClause":"AN ACT to amend the agriculture and markets law, in relation to establishing a New York native plants designation",
+ "SameAsPrintNo":"A7964-2025"
 }

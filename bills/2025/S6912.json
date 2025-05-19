@@ -1,11 +1,16 @@
 {
- "PrintNo":"S6912","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-26T15:34:56.958858Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-03-26","Chamber":"SENATE"}],
+ "PrintNo":"S6912","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-26T15:34:56.958858Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-03-26","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6912A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
  "Title":"Defines mental health practitioners with diagnostic authority",
- "Summary":"Defines mental health practitioners with diagnostic authority for the purposes of providing services under the workers' compensation law.",
+ "Summary":"Defines mental health practitioners with diagnostic authority for the purposes of providing services under the workers' compensation law; includes such practitioners as providers.",
  "LawSection":"Workers' Compensation Law","LawCode":"Amd §13-b, Work Comp L",
- "ActClause":"AN ACT to amend the workers' compensation law, in relation to defining mental health practitioners with diagnostic authority"
+ "ActClause":"AN ACT to amend the workers' compensation law, in relation to defining mental health practitioners with diagnostic authority",
+ "SameAsPrintNo":"A5894-2025"
 }

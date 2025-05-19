@@ -1,13 +1,17 @@
 {
  "PrintNo":"S1335","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T11:05:40.534698Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Energy And Telecommunications"}],
+ "Published":"2025-01-09T11:05:40.534698Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-08","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 1335A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 1335B","Date":"2025-05-15","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 1335B","Date":"2025-05-15","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.1137","Date":"2025-05-19","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
  "Title":"Relates to the municipal sustainable energy loan program",

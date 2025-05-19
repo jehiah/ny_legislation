@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5341","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-13T15:32:28.998725Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-13","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-02-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5341","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-13T15:32:28.998725Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Economic Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-02-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5341A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
   {"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
@@ -28,8 +32,8 @@
   {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"}
  ],
  "Title":"Relates to the restriction on certain facilities being located within a certain distance from cannabis storefronts",
- "Summary":"Restricts cannabis storefronts and premises from being located within 500 feet from child day care centers, public parks and playgrounds; specifies that schools, child day care centers and houses of worship located in a mixed use building shall be included in the restrictions on the locating of cannabis storefronts and premises in relation to such facilities.",
- "LawSection":"Cannabis Law","LawCode":"Amd §§72 & 77, Cannabis L; amd §409, Ed L; amd §390, Soc Serv L",
- "ActClause":"AN ACT to amend the cannabis law, the education law and the social services law, in relation to restricting cannabis storefronts from being located within a certain distance from child day care centers, public parks and playgrounds and specifying that cannabis storefronts shall be restricted from locating within a certain distance from schools, child day care centers and houses of worship located in a mixed use building",
+ "Summary":"Restricts cannabis storefronts and premises from being located within 500 feet from a school and two hundred feet of a house of worship.",
+ "LawSection":"Cannabis Law","LawCode":"Amd §§72 & 77, Cannabis L",
+ "ActClause":"AN ACT to amend the cannabis law, in relation to further restricting cannabis storefronts from being located within five hundred feet of a school and two hundred feet of a house of worship if they are located in a mixed use building",
  "SameAsPrintNo":"S7275-2025"
 }

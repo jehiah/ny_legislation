@@ -1,16 +1,34 @@
 {
  "PrintNo":"S6822","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-25T09:24:10.858845Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Consumer Protection"}],
+ "Published":"2025-03-25T09:24:10.858845Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-04-25","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 6822A","Date":"2025-04-25","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6822A","Date":"2025-04-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1132","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-19","Version":"A","Chamber":"SENATE","Committee":"Consumer Protection",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"}],
  "Title":"Prohibits contracts for the purchase or financing of a dog or cat from online websites from including provisions allowing repossession of the animal",
  "Summary":"Prohibits contracts for the purchase or financing of a dog or cat from online websites from including provisions allowing repossession of the animal.",
  "LawSection":"General Business Law","LawCode":"Amd §753-e, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to prohibiting certain contracts for the purchase or financing of a dog or cat from including provisions allowing repossession of the animal",
- "PreviousVersions":["S9019-2023"]
+ "SameAsPrintNo":"A1672-2025","PreviousVersions":["S9019-2023"]
 }

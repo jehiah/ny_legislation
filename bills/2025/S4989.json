@@ -1,9 +1,12 @@
 {
  "PrintNo":"S4989","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T16:13:34.554563Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-14","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
+ "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Consumer Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-14","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO CONSUMER PROTECTION","Date":"2025-05-19","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Requires utility service providers to disclose planned rate increases to consumers within a certain amount of time",
  "Summary":"Requires utility service providers to disclose planned rate increases to consumers within thirty but no less than seven days before a planned price increase takes effect; requires utility providers to provide contact information and a mechanism to cancel service completely.",
  "LawSection":"Public Service Law","LawCode":"Add §28, Pub Serv L; add §399-ww, Gen Bus L; amd §1020-cc, Pub Auth L",

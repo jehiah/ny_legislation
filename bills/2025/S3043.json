@@ -1,11 +1,22 @@
 {
- "PrintNo":"S3043","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T10:23:14.740876Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-23","Chamber":"SENATE"}],
+ "PrintNo":"S3043","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-23T10:23:14.740876Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-31","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-19"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-23","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-31",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 3043A","Date":"2025-03-31","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1126","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to compliance by New York city marshals with filing requirement regarding service of a notice of eviction",
- "Summary":"Requires New York city marshals to complete an electronic filing within twenty-four hours of service of a notice of eviction.",
+ "Summary":"Requires New York city marshals to complete an electronic filing within one business day of service of a notice of eviction.",
  "LawSection":"Real Property Actions and Proceedings Law","LawCode":"Amd §749-a, RPAP L",
  "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to compliance by New York city marshals with filing requirement regarding service of a notice of eviction"
 }
