@@ -1,12 +1,13 @@
 {
- "PrintNo":"S7457","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-16T16:10:01.051095Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-16","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"}],
+ "PrintNo":"S7457","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-16T16:10:01.051095Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-16","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-04-16","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.898","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 7457A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -32,5 +33,6 @@
  "Title":"Permits the use of cremation or natural organic reduction as the method of disposition for certain decedents",
  "Summary":"Permits a chief fiscal officer of a county or a public administrator, when having the right to control the disposition of the remains of a decedent and acting reasonably and in good faith, to, without civil liability, select cremation or natural organic reduction as the method of disposition for such decedent where the financial resources of such decedent are limited and such disposition is selected with the reasonable belief that the method is consistent with the religious practices of the decedent.",
  "LawSection":"Public Health Law","LawCode":"Amd §4201, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to permitting the use of cremation or natural organic reduction as the method of disposition for certain decedents"
+ "ActClause":"AN ACT to amend the public health law, in relation to permitting the use of cremation or natural organic reduction as the method of disposition for certain decedents",
+ "SameAsPrintNo":"A7894-2025"
 }

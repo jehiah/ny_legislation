@@ -1,12 +1,13 @@
 {
- "PrintNo":"S5313","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-20T14:33:05.467886Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-03-05"}],
+ "PrintNo":"S5313","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-20T14:33:05.467886Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-20","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.425","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-04","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-05","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 5313A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,9 +31,9 @@
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
   {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}
  ],
- "Title":"Relates to addressing non-covered dental services by prohibiting certain entities from setting fees or requiring approval fees for services not covered under a person's dental plan",
- "Summary":"Addresses non-covered dental services by prohibiting insurers from including in a contract or agreement with a dentist requirements to set fees or require approval fees for services not covered under a person's dental plan; prohibits medical expense indemnity corporations, dental expense indemnity corporations and health service corporations from including in a contract or agreement with a dentist requirements to set fees or require approval fees for services not covered under a person's dental plan.",
- "LawSection":"Insurance Law","LawCode":"Amd §§4224 & 4303, Ins L",
+ "Title":"Relates to addressing non-covered dental services",
+ "Summary":"Addresses non-covered dental services by requiring all policies providing coverage of and all contracts for dental services issued to include a disclosure stating that a participating provider may charge their normal fee for services that are not covered; requires a cost estimate to be provided.",
+ "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to addressing non-covered dental services",
- "PreviousVersions":["S7577-2023"]
+ "SameAsPrintNo":"A3687-2025","PreviousVersions":["S7577-2023"]
 }

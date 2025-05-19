@@ -1,12 +1,13 @@
 {
- "PrintNo":"S6895","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-26T13:47:39.49961Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-05-07"}],
+ "PrintNo":"S6895","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-26T13:47:39.49961Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-26","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.925","Date":"2025-05-05","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-06","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-07","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-07","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 6895A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,7 +30,7 @@
  "Sponsors":[{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"}],
  "Title":"Relates to high deductible health plans and health savings accounts",
  "Summary":"Relates to cost sharing requirements for high deductible health plans and health savings accounts.",
- "LawSection":"Insurance Law","LawCode":"Amd §1124, Ins L",
+ "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to high deductible health plans and health savings accounts",
  "SameAsPrintNo":"A5367-2025"
 }

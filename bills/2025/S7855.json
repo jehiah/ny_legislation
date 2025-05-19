@@ -1,8 +1,12 @@
 {
- "PrintNo":"S7855","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T14:54:10.433922Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-05-09","Chamber":"SENATE"}],
+ "PrintNo":"S7855","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-09T14:54:10.433922Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-05-09","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7855A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"}],
  "Title":"Authorizes a survey regarding instruction on the Asian American, Native Hawaiians and Pacific Islander history within the state; establishes an advisory committee",
  "Summary":"Authorizes the commissioner of education to conduct a survey regarding instruction on Asian American, Native Hawaiians and Pacific Islander history within the state; establishes an Asian American, Native Hawaiians and Pacific Islander history advisory committee; provides for the repeal of such provisions upon the expiration thereof.",

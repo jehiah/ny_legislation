@@ -1,15 +1,16 @@
 {
- "PrintNo":"S6927","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T09:18:27.529043Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S6927","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-27T09:18:27.529043Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-01"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.866","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 6927A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,5 +30,6 @@
  "Title":"Makes a technical change to the tax law; extends the city of Newburgh occupancy tax",
  "Summary":"Makes a technical change to the tax law; authorizes the imposition of an occupancy tax in the city of Newburgh, in relation of the effectiveness thereof.",
  "LawSection":"Tax Law","LawCode":"Ren §1202-hh to be §1202-hh-3, Tax L; amd §2, Chap 418 of 2022",
- "ActClause":"AN ACT to amend the tax law, in relation to making technical changes; and to amend chapter 418 of the laws of 2022, relating to authorizing the city of Newburgh to impose a hotel and motel tax, in relation to extending the effectiveness thereof"
+ "ActClause":"AN ACT to amend the tax law, in relation to making technical changes; and to amend chapter 418 of the laws of 2022, relating to authorizing the city of Newburgh to impose a hotel and motel tax, in relation to extending the effectiveness thereof",
+ "SameAsPrintNo":"A7320-2025"
 }

@@ -1,12 +1,13 @@
 {
- "PrintNo":"S7287","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-08T14:34:08.6813Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-05-07"}],
+ "PrintNo":"S7287","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-08T14:34:08.6813Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-04-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.927","Date":"2025-05-05","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-06","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-07","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-07","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 7287A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,7 +29,7 @@
  ],
  "Sponsors":[{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"}],
  "Title":"Clarifies the provision of donate life registration to certain insured persons",
- "Summary":"Clarifies the provision of donate life registration to certain insured persons.",
+ "Summary":"Provides that every insurance polucy delivered or issued for delivery in New York which provides major medical or similar comprehensive-type covereage shall provide space on any enrollment, renewal or initial online portal process forms so that the insured or applicant for insurance shall register or decline registration in the donate life registry.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3221, 3216 & 4306, Ins L; amd §4408, Pub Health L",
  "ActClause":"AN ACT to amend the insurance law and the public health law, in relation to clarifying the provision of donate life registration to certain insured persons",
  "SameAsPrintNo":"A7906-2025"

@@ -1,12 +1,17 @@
 {
- "PrintNo":"S6471","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-14T13:45:19.932202Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-14","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-14","Chamber":"SENATE"}],
+ "PrintNo":"S6471","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-14T13:45:19.932202Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-14","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6471A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Relates to the use of automated decision tools by landlords for making housing decisions",
  "Summary":"Relates to the use of automated decision tools by landlords for making housing decisions; sets conditions and rules for use of such tools.",
  "LawSection":"Real Property Law","LawCode":"Add §227-g, RP L",
- "ActClause":"AN ACT to amend the real property law, in relation to the use of automated decision tools to make housing decisions",
- "PreviousVersions":["S7735-2023"]
+ "ActClause":"AN ACT to amend the real property law, in relation to the use of automated housing decision making tools to make housing decisions",
+ "SameAsPrintNo":"A3125-2025","PreviousVersions":["S7735-2023"]
 }

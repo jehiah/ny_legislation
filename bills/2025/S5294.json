@@ -1,12 +1,13 @@
 {
- "PrintNo":"S5294","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-20T14:15:48.651353Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"}],
+ "PrintNo":"S5294","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-20T14:15:48.651353Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-20","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.893","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 5294A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -36,7 +37,7 @@
   {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Requires hospitals to develop a violence prevention program",
- "Summary":"Requires hospitals to establish a violence prevention program consistent with the Centers for Medicare and Medicaid Services conditions of participation regarding emergency events and the workplace violence standards of any accrediting organization by the Centers for Medicare and Medicaid Services under which such hospital maintains accreditation.",
+ "Summary":"Requires hospitals to establish a violence prevention program which includes a workplace safety and security assessment and develop a safety and security plan that addresses identified workplace violence threats or hazards.",
  "LawSection":"Public Health Law","LawCode":"Add §2832, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to requiring hospitals to develop a violence prevention program",
  "SameAsPrintNo":"A203-2025","PreviousVersions":["S8355-2017","S1907-2019","S8834-2021","S4909-2023"]

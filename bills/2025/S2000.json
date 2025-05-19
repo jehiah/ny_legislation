@@ -1,10 +1,7 @@
 {
- "PrintNo":"S2000","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T14:22:35.570703Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-02-05"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-18"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Insurance"}
- ],
+ "PrintNo":"S2000","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-14T14:22:35.570703Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.235","Date":"2025-02-03","Chamber":"SENATE"},
@@ -14,7 +11,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-18","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-19","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-05-19","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 2000A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -110,7 +109,7 @@
  ],
  "Title":"Relates to mandatory health insurance coverage for follow-up screening or diagnostic services for lung cancer",
  "Summary":"Requires that health insurance policies shall provide coverage for follow-up screening or diagnostic services for lung cancer; provides that no patient cost sharing shall be imposed for follow-up screening or diagnostic services for lung cancer.",
- "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L; amd §365-a, Soc Serv L",
- "ActClause":"AN ACT to amend the insurance law and the social services law, in relation to mandatory health insurance coverage for follow-up screening or diagnostic services for lung cancer",
- "PreviousVersions":["S8553-2023"]
+ "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
+ "ActClause":"AN ACT to amend the insurance law, in relation to mandatory health insurance coverage for follow-up screening or diagnostic services for lung cancer",
+ "SameAsPrintNo":"A1195-2025","PreviousVersions":["S8553-2023"]
 }

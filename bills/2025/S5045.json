@@ -1,12 +1,13 @@
 {
- "PrintNo":"S5045","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-18T14:14:13.89557Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-18","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-03-26"}],
+ "PrintNo":"S5045","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-18T14:14:13.89557Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-18","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-18","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.584","Date":"2025-03-24","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-25","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-26","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-26","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 5045A","Date":"2025-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -33,9 +34,10 @@
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"}
  ],
- "Title":"Provides that no policy of group accident, group health or group accident and health shall impose copayments for physical or occupational therapy greater than copays for similar services provided by a physician",
- "Summary":"Provides that no policy of group accident, group health or group accident and health shall impose copayments for physical or occupational therapy greater than the copay for similar services provided by a physician.",
+ "Title":"Relates to copayment and coinsurance charged for physical and occupational therapy services",
+ "Summary":"Provides that any copayment or coinsurance amount charged by an insurer to the insured for services rendered by a physical therapist or an occupational therapist shall not be more than twenty-five percent greater than the copayment or coinsurance amount imposed for an office visit to a licensed primary care physician or osteopath for the same or a similar diagnosed condition.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 4235, 4301 & 4322, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to physical therapy services","SameAsPrintNo":"A6484-2025",
+ "ActClause":"AN ACT to amend the insurance law, in relation to physical and occupational therapy services",
+ "SameAsPrintNo":"A6484-2025",
  "PreviousVersions":["S4321-2009","S4870-2011","S2319-2013","S28-2015","S5764-2017","S3751-2019","S3562-2021","S1470-2023"]
 }
