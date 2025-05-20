@@ -1,11 +1,13 @@
 {
- "PrintNo":"A54","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A54","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2024-12-18T15:26:49.251082Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Economic Development"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Economic Development"}],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2025-04-30","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 54A","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 54A","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 54B","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
@@ -17,9 +19,9 @@
   {"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
  ],
- "Title":"Prohibits the production, sale and use of adhesive-based rodent traps",
- "Summary":"Prohibits the importation, manufacture, sale, distribution and use of glue traps, glue boards, and other adhesive-based rodent traps.",
- "LawSection":"General Business Law","LawCode":"Add §399-tt, Gen Bus L",
+ "Title":"Prohibits the use of adhesive-based rodent traps in state-owned or state-leased buildings",
+ "Summary":"Prohibits the use of adhesive-based rodent traps in state-owned or state-leased buildings.",
+ "LawSection":"Public Buildings Law","LawCode":"Add §148, Pub Bldg L",
  "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the production, sale and use of adhesive-based rodent traps",
  "SameAsPrintNo":"S3046-2025","PreviousVersions":["A10052-2021","A4785-2023"]
 }
