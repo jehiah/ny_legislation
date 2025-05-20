@@ -2,10 +2,29 @@
  "PrintNo":"A4534","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T11:40:52.269462Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Children And Families",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Children And Families"}],
- "Actions":[{"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN CHILDREN AND FAMILIES","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"CHILDREN AND FAMILIES",
+   "Votes":[
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Nay"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},{"ID":1485,"Short":"JENSEN","Vote":"Nay"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1561,"Short":"LASHER","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1485,"Name":"Josh Jensen","Short":"JENSEN"},{"ID":1568,"Name":"Paula Bologna","Short":"BOLOGNA"},
-  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"}
+  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1556,"Name":"Daniel Norber","Short":"NORBER"}
  ],
  "Title":"Relates to the establishment of a non-traditional hours model",
  "Summary":"Relates to the establishment of a non-traditional hours model; provides that the office of children and family services shall: create a non-traditional hours model within a year, publish its findings on its website, and conduct a review of child care providers and centers that use such model.",

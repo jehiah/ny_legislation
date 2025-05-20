@@ -1,9 +1,12 @@
 {
  "PrintNo":"S7859","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T14:56:34.156661Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-05-09","Chamber":"SENATE"}],
- "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-09","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Relates to the authority of certain existing assisted living programs to expand capacity by nine or fewer beds under an expedited process",
  "Summary":"Authorizes certain existing assisted living programs to expand capacity by nine or fewer beds under an expedited process.",
  "LawSection":"Social Services Law","LawCode":"Amd §461-l, Soc Serv L",

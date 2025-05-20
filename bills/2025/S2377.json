@@ -1,8 +1,14 @@
 {
  "PrintNo":"S2377","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T16:13:30.937789Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-16","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1183","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"}],
  "Title":"Prohibits the formation of a subsidiary of a public authority without prior approval of the legislature",
  "Summary":"Prohibits the formation of a subsidiary of a public authority without prior approval of the legislature; allows the formation of a subsidiary of a public authority without prior approval of the legislature if such public authority files a written notice sixty days prior to the organization of such subsidiary with the governor and the legislature.",

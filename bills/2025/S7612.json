@@ -1,10 +1,30 @@
 {
  "PrintNo":"S7612","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T11:10:14.044431Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-04-23","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Social Services"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-04-23","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1170","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-20","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],"Title":"Establishes a co-shelter toolkit",
  "Summary":"Establishes a co-shelter toolkit of best practices, resources, case studies and other information deemed helpful to inform and encourage the implementation and sustenance of co-shelter models for victims of domestic violence and people experiencing homelessness with companion animals; makes related provisions.",
  "LawSection":"Social Services Law","LawCode":"Add §459-bb, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to establishing a statewide co-shelter toolkit"
+ "ActClause":"AN ACT to amend the social services law, in relation to establishing a statewide co-shelter toolkit",
+ "SameAsPrintNo":"A8375-2025"
 }

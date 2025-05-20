@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6991","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T16:07:11.76904Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1187","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"}],
  "Title":"Relates to the court approval process for the sale, mortgage and lease of real property of a religious corporation",
  "Summary":"Relates to the court approval process for the sale, mortgage and lease of real property of the Greek Orthodox Archdiocese of America.",

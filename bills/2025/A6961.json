@@ -2,7 +2,23 @@
  "PrintNo":"A6961","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:19:19.912833Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Libraries And Education Technology",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Libraries And Education Technology"}],
- "Actions":[{"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-03-18","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"LIBRARIES AND EDUCATION TECHNOLOGY",
+   "Votes":[
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"},{"ID":608,"Name":"Edward Ra","Short":"RA"}],
  "Title":"Authorizes the creation of a study to examine public library aid formulas and library construction formulas",
  "Summary":"Authorizes the creation of a study to examine public library aid formulas and library construction formulas and the criteria to be used for such study.",

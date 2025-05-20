@@ -1,11 +1,32 @@
 {
  "PrintNo":"A7964","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-16T15:15:26.594278Z","Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Agriculture"}],
+ "Published":"2025-04-16T15:15:26.594278Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-16","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO AGRICULTURE","Date":"2025-05-13","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 7964A","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 7964A","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"AGRICULTURE",
+   "Votes":[
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
  "Title":"Establishes a New York native plants designation",

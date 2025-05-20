@@ -1,8 +1,12 @@
 {
- "PrintNo":"S5539","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-24T14:22:34.212145Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-24","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-02-24","Chamber":"SENATE"}],
+ "PrintNo":"S5539","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-24T14:22:34.212145Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-02-24","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5539A","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1552,"Name":"April Baskin","Short":"BASKIN"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
   {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
@@ -14,7 +18,6 @@
  ],
  "Title":"Requires schools safety plans to include a cardiac emergency response plan",
  "Summary":"Requires schools safety plans to include a cardiac emergency response plan that addresses the use of appropriate personnel and measures to respond to incidents involving any individual experiencing sudden cardiac arrest or similar life-threating emergency on any school site owned or operated by a school or at a location of a school sponsored event.",
- "LawSection":"Education Law","LawCode":"Amd §2801-a, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to requiring schools safety plans to include a cardiac emergency response plan",
- "SameAsPrintNo":"A785-2025"
+ "LawSection":"Education Law","LawCode":"Amd §§917 & 2801-a, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to requiring schools safety plans to include a cardiac emergency response plan"
 }

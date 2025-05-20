@@ -2,7 +2,26 @@
  "PrintNo":"A2553","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T13:01:54.907046Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-01-17","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-01-17","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN ENERGY","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1544,"Short":"GRAY","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":656,"Name":"David DiPietro","Short":"DIPIETRO"}],
  "Title":"Relates to prohibiting the location of wind turbines on Lake Erie",
  "Summary":"Prohibits the location and construction of wind turbines on Lake Erie.","LawSection":"Public Service Law",

@@ -1,14 +1,35 @@
 {
  "PrintNo":"A2497","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T12:38:43.342569Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-17","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-17","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"SOCIAL SERVICES",
+   "Votes":[
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":636,"Short":"FRIEND","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1555,"Short":"O'PHARROW","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1540,"Name":"Brian Maher","Short":"MAHER"},
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},
   {"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"},{"ID":900,"Name":"Erik Dilan","Short":"DILAN"},
-  {"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
+  {"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"}
  ],
  "Title":"Establishes a fiscal cliff task force to conduct a study on fiscal cliffs in the state's public assistance programs and to make recommendations related thereto",
  "Summary":"Establishes a fiscal cliff task force to conduct a study on fiscal cliffs in the state's public assistance programs and to make recommendations related thereto.",

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7685","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-29T16:07:00.211782Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Cities 1"}],
- "Actions":[{"Text":"REFERRED TO CITIES 1","Date":"2025-04-29","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Cities 1"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1197","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"}],
  "Title":"Relates to increasing the amount of the childcare center tax abatement for certain properties in a city having a population of one million or more",
  "Summary":"Relates to increasing the amount of the childcare center tax abatement for certain properties in a city having a population of one million or more for abatements taken in a tax year commencing on or after July first, two thousand twenty-five; provides that no such childcare center tax abatement shall be authorized for any tax year commencing on or after July first, two thousand thirty-two; extends the deadline for application for such childcare center tax abatement to March fifteenth, two thousand twenty-seven.",

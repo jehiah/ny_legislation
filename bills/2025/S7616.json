@@ -1,13 +1,20 @@
 {
  "PrintNo":"S7616","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-23T11:11:19.828602Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-28","Committee":"Higher Education"}],
+ "Published":"2025-04-23T11:11:19.828602Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-28","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-23","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-04-28","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 7616A","Date":"2025-04-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 7616A","Date":"2025-04-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1181","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
  ],
- "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"}],
+ "Sponsors":[
+  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
+  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"}
+ ],
  "Title":"Authorizes the lease of certain lands of state university of New York at Stony Brook for the purpose of building undergraduate student, graduate student, faculty and staff housing",
  "Summary":"Directs the state university trustees, without any public bidding, to lease and otherwise contract to make a portion of the lands of SUNY Stony Brook on its campus to the Stony Brook Housing Development Corp. for the purpose of building undergraduate student, graduate student, faculty and staff housing; limits such lease to a period not exceeding 100 years.",
  "LawSection":"Education",

@@ -1,4 +1,31 @@
 {
  "PrintNo":"A8410","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-14T13:38:33.066346Z",
- "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"}]
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"}],
+ "Title":"Relates to the annual reporting obligations of the New York state energy research and development authority",
+ "Summary":"Increases the number of entities to whom the New York state energy research and development authority must submit an annual report; requires the report to include a brief summary of all proceeds collected and administered by the authority pursuant to an order of the public service commission or pursuant to regulation, including, but not limited to, assessments, fees, taxes, transfers, corporate income or surcharges imposed on energy consumers or power generators.",
+ "LawSection":"Public Authorities Law","LawCode":"Amd §1867, Pub Auth L",
+ "ActClause":"AN ACT to amend the public authorities law, in relation to the annual reporting obligations of the New York state energy research and development authority",
+ "SameAsPrintNo":"S8019-2025"
 }

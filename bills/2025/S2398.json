@@ -1,12 +1,16 @@
 {
  "PrintNo":"S2398","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T09:16:25.054403Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-17","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-17","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1250","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},
   {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
+  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
  ],
  "Title":"Requires genetic testing results only be received by patients and health care providers providing direct care while health insurance companies only receive a record that the genetic testing was performed",
  "Summary":"Requires genetic testing results only be received by patients and health care providers providing direct care while health insurance companies only receive a record that the genetic testing was performed; provides insurers cannot require access to genetic testing results and cannot take adverse action against someone for not providing genetic testing results.",

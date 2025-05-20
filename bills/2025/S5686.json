@@ -1,8 +1,28 @@
 {
  "PrintNo":"S5686","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-27T15:12:40.784003Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-27","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-27","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1151","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-20","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA"}],
  "Title":"Extends the time period for the conveyance of lands for the establishment of the Gateway National Recreation Area",
  "Summary":"Extends the time period for the conveyance of lands for the establishment of the Gateway National Recreation Area until June 30, 2027.",

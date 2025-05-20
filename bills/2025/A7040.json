@@ -1,12 +1,38 @@
 {
- "PrintNo":"A7040","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-20T15:41:38.006892Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-20","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-20","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7040","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-20T15:41:38.006892Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2025-05-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7040A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"ECONOMIC DEVELOPMENT",
+   "Votes":[
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Excused"},
+    {"ID":1561,"Short":"LASHER","Vote":"Excused"},{"ID":0,"Short":"BROWN","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}],
  "Title":"Authorizes private membership establishments to have certain licenses for sale of alcohol",
- "Summary":"Authorizes private membership establishments to have certain licenses for sale of alcohol for consumption on premises; establishes a private membership establishment must include one hundred or more members.",
- "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§3, 64 & 106, ABC L",
- "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to authorizing private membership establishments to have certain licenses for sale of alcohol",
- "SameAsPrintNo":"S652-2025","PreviousVersions":["A10381-2023","A7617-2023"]
+ "Summary":"Authorizes private membership establishments to have certain licenses for sale of alcohol for consumption on premises.",
+ "LawSection":"Alcoholic Beverage Control Law","LawCode":"Add §64-f, amd §§110-b & 17, ABC L",
+ "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to establishing a license to sell liquor on premises commonly known as a for-profit club",
+ "PreviousVersions":["A10381-2023","A7617-2023"]
 }

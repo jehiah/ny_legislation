@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7440","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-16T11:46:22.035222Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-16","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-04-16","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-16","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-16","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1206","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Authorizes the vacating of an arbitration award on the basis of arbitrator disregard of the law",
  "Summary":"Authorizes the vacating of an arbitration award on the basis of arbitrator disregard of the law.",

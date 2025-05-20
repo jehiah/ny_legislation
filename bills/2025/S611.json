@@ -1,11 +1,12 @@
 {
  "PrintNo":"S611","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-02T16:08:11.676919Z","Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-02","Committee":"Codes"}],
+ "Published":"2025-01-02T16:08:11.676919Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-02","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-02","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 611A","Date":"2025-05-02","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 611A","Date":"2025-05-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1248","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Provides for victim statements at the sentencing of a defendant for a misdemeanor",

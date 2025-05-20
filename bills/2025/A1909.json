@@ -2,7 +2,30 @@
  "PrintNo":"A1909","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T11:41:38.080345Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN ECONOMIC DEVELOPMENT","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"ECONOMIC DEVELOPMENT",
+   "Votes":[
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Excused"},
+    {"ID":1561,"Short":"LASHER","Vote":"Excused"},{"ID":0,"Short":"BROWN","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
   {"ID":1152,"Name":"Chris Tague","Short":"TAGUE"},{"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"},

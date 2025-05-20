@@ -1,8 +1,14 @@
 {
  "PrintNo":"S5727","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-28T11:16:59.037135Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-02-28","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-02-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1176","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}

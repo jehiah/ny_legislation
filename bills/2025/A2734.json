@@ -1,8 +1,27 @@
 {
  "PrintNo":"A2734","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-22T09:31:23.781414Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-22","Committee":"Cities"}],
- "Actions":[{"Text":"REFERRED TO CITIES","Date":"2025-01-22","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES","Date":"2025-01-22","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"CITIES",
+   "Votes":[
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Excused"},{"ID":1469,"Short":"MAMDANI","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"}],
  "Title":"Facilitates the marketing of any issue of serial bonds or notes of the city of Buffalo issued on or before a certain date",
  "Summary":"Facilitates the marketing of any issue of serial bonds or notes of the city of Buffalo issued on or before June 30, 2026.",

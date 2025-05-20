@@ -1,7 +1,7 @@
 {
  "PrintNo":"A1556","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-10T12:37:04.338684Z","Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Agriculture"}],
+ "Published":"2025-01-10T12:37:04.338684Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-10","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO AGRICULTURE","Date":"2025-03-03","Chamber":"ASSEMBLY"},
@@ -9,7 +9,27 @@
   {"Text":"AMEND AND RECOMMIT TO AGRICULTURE","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 1556B","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"AMEND (T) AND RECOMMIT TO AGRICULTURE","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"PRINT NUMBER 1556C","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"PRINT NUMBER 1556C","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"AGRICULTURE",
+   "Votes":[
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
@@ -28,11 +48,12 @@
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
   {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
-  {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"}
+  {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1152,"Name":"Chris Tague","Short":"TAGUE"},
+  {"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"}
  ],
  "Title":"Enacts the \"food safety and chemical disclosure act\"",
  "Summary":"Enacts the \"food safety and chemical disclosure act\"; prohibits certain food additives and food color additives; provides that in an action to enforce compliance, the recognition by the federal food and drug administration of any of these substances as safe may not be alleged as a defense; establishes requirements for the reporting of GRAS (generally recognized as safe) substances.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd §§199-a, 199-b, 198 & 202-c, add §199-g, Ag & Mkts L",
  "ActClause":"AN ACT to amend the agriculture and markets law, in relation to enacting the \"food safety and chemical disclosure act\"",
- "PreviousVersions":["A6424-2023"]
+ "SameAsPrintNo":"S1239-2025","PreviousVersions":["A6424-2023"]
 }

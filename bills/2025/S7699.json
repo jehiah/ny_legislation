@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7699","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-30T14:04:59.41826Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1239","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Designates a portion of the state highway system as the Jack Barletta Memorial Highway",
  "Summary":"Designates a portion of the state highway system as the \"Jack Barletta Memorial Highway\" on state route 208 in the county of Orange.",

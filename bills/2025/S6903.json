@@ -1,12 +1,36 @@
 {
- "PrintNo":"S6903","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-26T14:48:43.856604Z",
- "Status":"IN_SENATE_COMM","Committee":"Cultural Affairs, Tourism, Parks And Recreation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}],
- "Actions":[{"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-03-26","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],
- "Title":"Designates the Scajaquada heritage area and establishes the Scajaquada heritage area commission",
- "Summary":"Designates the Scajaquada heritage area as a state designated heritage area; establishes the Scajaquada heritage area commission to undertake all necessary actions to facilitate the creation of the Scajaquada heritage area, complete a management plan to ensure the long-term preservation and maintenance of such heritage area, and provide for the implementation and sustainability of undertaking recommendations of the completed management plan.",
- "LawSection":"Parks, Recreation and Historic Preservation Law",
- "LawCode":"Amd §35.03, add Art 41 §§41.01 - 41.19, Pks & Rec L",
- "ActClause":"AN ACT to amend the parks, recreation and historic preservation law, in relation to designating the Scajaquada heritage area and establishing the Scajaquada heritage area commission; and providing for the repeal of certain provisions upon expiration thereof"
+ "PrintNo":"S6903","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-26T14:48:43.856604Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-03-26","Chamber":"SENATE"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-05-14",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 6903A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1227","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-20","Version":"A","Chamber":"SENATE",
+   "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],"Title":"Designates the Scajaquada heritage area",
+ "Summary":"Designates the Scajaquada heritage area as a state designated heritage area.",
+ "LawSection":"Parks, Recreation and Historic Preservation Law","LawCode":"Amd §35.03, Pks & Rec L",
+ "ActClause":"AN ACT to amend the parks, recreation and historic preservation law, in relation to designating the Scajaquada heritage area"
 }

@@ -1,12 +1,32 @@
 {
  "PrintNo":"S624","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T09:34:00.372447Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1142","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-20","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Authorizes the village of Greenwood Lake, county of Orange to allow golf carts on certain streets",
  "Summary":"Authorizes the village of Greenwood Lake, county of Orange to allow golf carts on certain streets under the exclusive control and jurisdiction of such village.",
  "LawSection":"Village Law","LawCode":"Add §6-634, Vil L",
  "ActClause":"AN ACT to amend the village law, in relation to authorizing the village of Greenwood Lake, county of Orange to allow golf carts on certain streets",
- "PreviousVersions":["S8513-2023"]
+ "SameAsPrintNo":"A7487-2025","PreviousVersions":["S8513-2023"]
 }

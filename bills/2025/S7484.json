@@ -1,8 +1,12 @@
 {
- "PrintNo":"S7484","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-17T12:49:27.933024Z",
- "Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-17","Committee":"Disabilities"}],
- "Actions":[{"Text":"REFERRED TO DISABILITIES","Date":"2025-04-17","Chamber":"SENATE"}],
+ "PrintNo":"S7484","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-17T12:49:27.933024Z","Status":"IN_SENATE_COMM","Committee":"Disabilities",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Disabilities"}],
+ "Actions":[
+  {"Text":"REFERRED TO DISABILITIES","Date":"2025-04-17","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO DISABILITIES","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7484A","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Establishes a statewide residential families committee",
  "Summary":"Establishes a statewide residential families committee within the developmental disabilities advisory council.",

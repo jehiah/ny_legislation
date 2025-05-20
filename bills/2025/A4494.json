@@ -2,7 +2,22 @@
  "PrintNo":"A4494","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T11:03:19.503991Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"People With Disabilities",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"People With Disabilities"}],
- "Actions":[{"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN PEOPLE WITH DISABILITIES","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"PEOPLE WITH DISABILITIES",
+   "Votes":[
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Nay"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},{"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"}],
  "Title":"Enacts the \"employment first choice act\" to ensure that an individual with developmental disabilities in a nonintegrated setting shall have the right to remain in such a setting under certain circumstances",
  "Summary":"Enacts the \"employment first choice act\" to ensure that an individual with developmental disabilities in a nonintegrated setting shall have the right to remain in such a setting under certain circumstances.",

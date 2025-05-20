@@ -1,11 +1,32 @@
 {
  "PrintNo":"A6484","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-05T13:47:02.078941Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Insurance"}],
+ "Published":"2025-03-05T13:47:02.078941Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-05","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 6484A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 6484A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"INSURANCE",
+   "Votes":[
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
@@ -16,5 +37,6 @@
  "Summary":"Provides that any copayment or coinsurance amount charged by an insurer to the insured for services rendered by a physical therapist or an occupational therapist shall not be more than twenty-five percent greater than the copayment or coinsurance amount imposed for an office visit to a licensed primary care physician or osteopath for the same or a similar diagnosed condition.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 4235, 4301 & 4322, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to physical and occupational therapy services",
+ "SameAsPrintNo":"S5045-2025",
  "PreviousVersions":["A8171-2009","A187-2011","A1666-2013","A1063-2015","A569-2017","A405-2019","A594-2021","A6345-2023"]
 }

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6087","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-05T11:07:01.35826Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-05","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1186","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
  "Title":"Prohibits the New York state environmental facilities corporation from entering into contracts, leases or other agreements with entities that are not compliant with the MWBE requirements",
  "Summary":"Prohibits the New York state environmental facilities corporation from entering into contracts, leases or other agreements with entities that are not compliant with the requirements of article five-A of the general municipal law regarding participation by minority- and women-owned businesses.",

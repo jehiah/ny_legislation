@@ -1,8 +1,14 @@
 {
  "PrintNo":"S2264","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:27:13.852526Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Civil Service And Pensions"}],
- "Actions":[{"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-01-16","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1163","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}

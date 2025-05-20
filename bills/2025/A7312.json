@@ -1,11 +1,30 @@
 {
  "PrintNo":"A7312","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-25T16:02:02.975679Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-25","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
  "Title":"Authorizes the commissioner of general services to transfer and convey certain lands in the town of Wilton, county of Saratoga, to the Veterans and Community Housing Coalition",
  "Summary":"Authorizes the commissioner of general services to transfer and convey certain lands in the town of Wilton, county of Saratoga, to the Veterans and Community Housing Coalition.",
  "LawSection":"Saratoga County",
- "ActClause":"AN ACT authorizing the commissioner of general services to transfer and convey certain lands in the town of Wilton, county of Saratoga, to the Veterans and Community Housing Coalition; and providing for the repeal of certain provisions upon expiration thereof"
+ "ActClause":"AN ACT authorizing the commissioner of general services to transfer and convey certain lands in the town of Wilton, county of Saratoga, to the Veterans and Community Housing Coalition; and providing for the repeal of certain provisions upon expiration thereof",
+ "SameAsPrintNo":"S7139-2025"
 }

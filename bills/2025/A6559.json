@@ -1,17 +1,37 @@
 {
  "PrintNo":"A6559","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:45:02.460654Z","Status":"IN_ASSEMBLY_COMM","Committee":"Veterans' Affairs",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Veterans' Affairs"}],
+ "Published":"2025-03-06T14:45:02.460654Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO VETERANS' AFFAIRS","Date":"2025-05-05","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6559A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO VETERANS' AFFAIRS","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 6559B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 6559B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-19","Chamber":"ASSEMBLY",
+   "Committee":"VETERANS' AFFAIRS",
+   "Votes":[
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":534,"Name":"Michael Benedetto","Short":"BENEDETTO"}],
  "Title":"Establishes a veterans' bill of rights",
  "Summary":"Establishes a veterans' bill of rights; provides sample language for such bill of rights; requires the department of veterans' services to establish and distribute a veterans' bill of rights and to make such bill of rights available on the department's website.",
  "LawSection":"Veterans' Service Law","LawCode":"Add §29-e, Veterans' Services L",
- "ActClause":"AN ACT to amend the veterans' services law, in relation to the establishing a veterans' bill of rights"
+ "ActClause":"AN ACT to amend the veterans' services law, in relation to the establishing a veterans' bill of rights",
+ "SameAsPrintNo":"S7708-2025"
 }

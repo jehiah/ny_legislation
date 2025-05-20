@@ -1,8 +1,11 @@
 {
  "PrintNo":"S825","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T12:14:40.579249Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1190","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S4473","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-05T14:43:07.879573Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-05","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1194","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}

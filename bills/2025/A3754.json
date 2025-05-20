@@ -1,12 +1,16 @@
 {
- "PrintNo":"A3754","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T11:22:19.657012Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3754","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T11:22:19.657012Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3754A","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1120,"Name":"Billy Jones","Short":"JONES"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"}],
  "Title":"Requires events held by the state or on state property which include alcohol to include alcohol produced within the state",
  "Summary":"Requires events held by the state or on state property which include alcohol to include alcohol produced within the state.",
- "LawSection":"State Finance Law","LawCode":"Add §163-e, St Fin L; add §148, Pub Bldg L; add §3.27, Pks & Rec L",
+ "LawSection":"State Finance Law","LawCode":"Add §163-e, St Fin L",
  "ActClause":"AN ACT to amend the state finance law, the public buildings law, and the parks, recreation and historic preservation law, in relation to requiring events held by the state or on state property which include alcohol to include alcohol produced within the state",
  "SameAsPrintNo":"S1158-2025","PreviousVersions":["A7629-2023"]
 }

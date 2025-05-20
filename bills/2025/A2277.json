@@ -1,12 +1,16 @@
 {
- "PrintNo":"A2277","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T10:48:19.694681Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-01-16","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2277","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-16T10:48:19.694681Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-01-16","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2277A","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
  "Title":"Relates to the electrification of the Manhattan Cruise Terminal",
  "Summary":"Directs the New York City Economic Development Corporation to immediately commence any proceedings, processes, stakeholder engagement, or capital projects necessary for the installation of shore power capability at the Manhattan Cruise Terminal; provides for the repeal of such provisions upon the expiration thereof.",
  "LawSection":"Energy",
  "ActClause":"AN ACT in relation to the electrification of the Manhattan Cruise Terminal; and providing for the repeal of such provisions upon expiration thereof",
- "PreviousVersions":["A9319-2023"]
+ "SameAsPrintNo":"S3663-2025","PreviousVersions":["A9319-2023"]
 }

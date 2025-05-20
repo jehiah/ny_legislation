@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6952","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T11:26:51.222041Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1236","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],
  "Title":"Designates a portion of the state highway system as the \"Port Authority Police Officers Arthur M. Ansert Jr. and William J. Leahy Memorial Bridge\"",
  "Summary":"Designates a portion of the state highway system including the bridge on the South Service Road, between Federal Circle and Perimeter Road Overpass, crossing over the Van Wyck Expressway in Jamaica as the \"Port Authority Police Officers Arthur M. Ansert Jr. and William J. Leahy Memorial Bridge\".",

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7362","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-11T09:52:24.076013Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-11","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-11","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-11","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-11","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1238","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Designates a portion of the state highway system as the \"John F. McArdle Memorial Highway\"",
  "Summary":"Designates a portion of the state highway system constituting state route three hundred one from Belden Road to Gypsy Trail Road in the town of Carmel, county of Putman, as the \"John F. McArdle Memorial Highway\".",

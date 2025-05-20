@@ -1,8 +1,11 @@
 {
  "PrintNo":"S4323","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T10:01:06.27973Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-02-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-02-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1171","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],"Title":"Enacts the uniform special deposits act",
  "Summary":"Enacts the uniform special deposits act to provide for special deposits in the state of New York in a manner uniform to other jurisdictions.",
  "LawSection":"Banking Law","LawCode":"Add Art 13-F §§680 - 680-p, Bank L",

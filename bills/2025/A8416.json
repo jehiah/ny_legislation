@@ -1,8 +1,27 @@
 {
  "PrintNo":"A8416","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-15T10:26:26.996905Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Cities"}],
- "Actions":[{"Text":"REFERRED TO CITIES","Date":"2025-05-15","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"CITIES",
+   "Votes":[
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Excused"},{"ID":1469,"Short":"MAMDANI","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1254,"Name":"Patrick Burke","Short":"BURKE"}],
  "Title":"Extends certain provisions relating to the sale, issuance and refund of bonds and notes of New York city",
  "Summary":"Extends certain provisions relating to the sale of bonds and notes of the city of New York, the issuance of bonds or notes with variable rates of interest, interest rate exchange agreements of the city of New York, the refunding of bonds, and the down payment for projects financed by bonds; extends the New York state financial emergency act for the city of New York; makes further amendments relating to the effectiveness thereof.",

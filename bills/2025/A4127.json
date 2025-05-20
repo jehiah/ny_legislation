@@ -1,12 +1,33 @@
 {
- "PrintNo":"A4127","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-31T14:19:53.327385Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-31","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-01-31","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4127","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-31T14:19:53.327385Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-01-31","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2025-05-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4127A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}],
- "Title":"Authorizes and directs the public service commission to conduct a study on the deployment of energy interconnection processes into the electrical grid",
- "Summary":"Authorizes and directs the public service commission to conduct a study on the deployment of energy interconnection processes into the electrical grid to meet the state's renewable energy goals set out under the climate leadership and community protection act; directs the public service commission to submit a report on its findings one year after the effective date.",
+ "Title":"Authorizes and directs the department of public service to conduct a study on the deployment of energy interconnection processes into the electrical grid",
+ "Summary":"Authorizes and directs the department of public service to conduct a study on the deployment of energy interconnection processes into the electrical grid to meet the state's renewable energy goals; directs the department of public service to submit a report on its findings one year after the effective date.",
  "LawSection":"Public Services",
- "ActClause":"AN ACT to authorize and direct the public service commission to conduct a study on the deployment of energy interconnection processes into the electrical grid",
- "SameAsPrintNo":"S1227-2025","PreviousVersions":["A10365-2023"]
+ "ActClause":"AN ACT to authorize and direct the department of public service to conduct a study on the deployment of energy interconnection processes into the electrical grid",
+ "PreviousVersions":["A10365-2023"]
 }

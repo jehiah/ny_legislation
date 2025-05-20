@@ -1,12 +1,37 @@
 {
  "PrintNo":"A6691","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-07T16:35:03.524262Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-06","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"ECONOMIC DEVELOPMENT",
+   "Votes":[
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Excused"},
+    {"ID":1561,"Short":"LASHER","Vote":"Excused"},{"ID":0,"Short":"BROWN","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}],
  "Title":"Ensures that the provisions governing liquor licenses are consistent with respect to public interest factors",
  "Summary":"Ensures that the provisions governing liquor licenses are consistent with respect to public interest factors.",
  "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§64, 64-a, 64-b & 64-c, ABC L",
  "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to making the provisions governing the various on-premises liquor licenses consistent with respect to public interest factors that may be considered by the state liquor authority when evaluating the merits of a license application",
+ "SameAsPrintNo":"S7407-2025",
  "PreviousVersions":["A10736-2011","A2064-2013","A5682-2015","A1300-2017","A7462-2019","A3143-2021","A3231-2023"]
 }

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S5772","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-28T15:47:35.406346Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-02-28","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1203","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Establishes the right to inspection of residential real properties",
  "Summary":"Establishes the right to inspection of residential real properties, condominium units, and cooperative apartments.",

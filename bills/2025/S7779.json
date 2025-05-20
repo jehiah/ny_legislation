@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7779","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-06T14:15:11.45137Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-06","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1242","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Creates a distinctive license plate for veterans honoring Borinqueneers",
  "Summary":"Creates a distinctive license plate for veterans honoring Borinqueneers; defines \"veteran\" as a person who is a resident of this state, who served in the armed forces of the United States, and was honorably discharged from the armed forces, or has a qualifying condition, as defined in section one of the veterans' services law, and has received a discharge other than bad conduct or dishonorable from such service, or is a discharged LGBT veteran, as defined in section one of the veterans' services law, and has received a discharge other than bad conduct or dishonorable from such service.",

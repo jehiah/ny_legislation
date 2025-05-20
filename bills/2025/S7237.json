@@ -1,15 +1,20 @@
 {
  "PrintNo":"S7237","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-04T15:50:54.713758Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Civil Service And Pensions"}],
+ "Published":"2025-04-04T15:50:54.713758Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-04","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-08","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 7237A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 7237A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1165","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Requires the department of civil service to allow municipalities to post municipal employment positions on the department of civil service's state jobs website",
  "Summary":"Requires the department of civil service to allow municipalities to post municipal employment positions on the department of civil service's state jobs website; requires such municipal employment opportunities to be posted in a format searchable by municipality and employment position type.",
  "LawSection":"Civil Service Law","LawCode":"Amd §59-d, Civ Serv L",
- "ActClause":"AN ACT to amend the civil service law, in relation to requiring the department of civil service to allow municipalities to post municipal employment positions on the department of civil service's state jobs website"
+ "ActClause":"AN ACT to amend the civil service law, in relation to requiring the department of civil service to allow municipalities to post municipal employment positions on the department of civil service's state jobs website",
+ "SameAsPrintNo":"A8023-2025"
 }

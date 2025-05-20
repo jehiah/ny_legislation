@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7835","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T11:41:16.607854Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-09","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-09","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1243","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Dedicates a portion of the state highway system in the village of Unionville as the \"Appalachian Trail Highway\"",
  "Summary":"Dedicates a portion of state highway 284 in the village of Unionville as the \"Appalachian Trail Highway\".",

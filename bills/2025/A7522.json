@@ -1,8 +1,12 @@
 {
- "PrintNo":"A7522","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-01T08:45:21.955083Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-04-01","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7522","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-01T08:45:21.955083Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7522A","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},
   {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
@@ -12,5 +16,5 @@
  "Summary":"Prohibits the application of fail-first or step therapy protocols to coverage for the diagnosis and treatment of serious mental health conditions; defines serious mental health condition.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to prohibiting the application of fail-first or step therapy protocols to coverage for the diagnosis and treatment of serious mental health conditions",
- "PreviousVersions":["A7522-2023"]
+ "SameAsPrintNo":"S4867-2025","PreviousVersions":["A7522-2023"]
 }

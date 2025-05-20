@@ -1,12 +1,32 @@
 {
  "PrintNo":"A8271","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-07T20:07:26.582349Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Children And Families"}],
- "Actions":[{"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-05-07","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"CHILDREN AND FAMILIES",
+   "Votes":[
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}],
  "Title":"Relates to the right to counsel in certain family court proceedings",
  "Summary":"Relates to the right to counsel in certain family court proceedings regarding violations of orders of child support and to establish paternity or parentage in the family court.",
  "LawSection":"Family Court Act","LawCode":"Amd §§249, 262, 453, 522 & 524, Fam Ct Act",
  "ActClause":"AN ACT to amend the family court act, in relation to the right to counsel in proceedings regarding violations of orders of child support and to establish paternity or parentage in the family court",
- "PreviousVersions":["S9696-2023"]
+ "SameAsPrintNo":"S8197-2025","PreviousVersions":["S9696-2023"]
 }

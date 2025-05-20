@@ -2,7 +2,33 @@
  "PrintNo":"A7590","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-01T14:19:44.423764Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-04-01","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN EDUCATION","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"EDUCATION",
+   "Votes":[
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1528,"Short":"CHANG","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":1540,"Short":"MAHER","Vote":"Nay"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1258,"Short":"SAYEGH","Vote":"Excused"},
+    {"ID":1460,"Short":"CLARK","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"}],
  "Title":"Relates to healthy school meals",
  "Summary":"Relates to purchases of food products for school meals from New York state farmers, growers, producers or processors; prohibits sale of school foods containing certain synthetic color additives; establishes a \"healthy kitchens, healthy schools program\" to provide grants for kitchen upgrades; prohibits school meals from containing more than 25 grams of added sugars per day, in aggregate.",

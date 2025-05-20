@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7204","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-03T16:11:53.265491Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-03","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-03","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-03","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1188","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
  "Title":"Exempts the Caughdenoy Volunteer Fire Department, Inc. from the forty-five percent limit on non-resident members",
  "Summary":"Exempts the Caughdenoy Volunteer Fire Department, Inc., within the town of Central Square, Oswego county from the forty-five percent limit on non-resident members.",

@@ -1,11 +1,12 @@
 {
  "PrintNo":"S3355","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-27T11:30:54.171085Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Health"}],
+ "Published":"2025-01-27T11:30:54.171085Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-13","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 3355A","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 3355A","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1259","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Includes digital health care service platforms in the definition of temporary health care services agency",

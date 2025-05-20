@@ -1,8 +1,11 @@
 {
  "PrintNo":"S4424","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T15:58:42.710595Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1192","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
  "Title":"Enacts the anti-waiver of employment rights act",
  "Summary":"Enacts the \"anti-waiver of employment rights act\" to invalidate any express or implied contractual provision waiving or otherwise limiting any employee's substantive or procedural rights, remedies, or claim.",

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7434","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-16T11:44:21.842103Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-16","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-04-16","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-16","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-16","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1205","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to actions for illegal and improper practices of commercial towing companies",
  "Summary":"Authorizes a lien against personal and real property of the owner of a commercial towing company for illegal and improper practices; creates personal liability for members of an LLC and certain corporate shareholders.",

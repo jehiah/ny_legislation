@@ -1,16 +1,36 @@
 {
- "PrintNo":"A3126","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-23T14:02:11.590773Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-23","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-23","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3126","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-23T14:02:11.590773Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3126A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
  ],
  "Title":"Requires that in the event a complaint made to local code enforcement results in the issuance of a compliance order, the complainant shall also be provided a copy of such order",
- "Summary":"Requires that when a complaint is made to local code enforcement of a violation of the uniform fire prevention and building code which results in the issuance of a compliance order, the complainant shall also be provided a copy of such order.",
+ "Summary":"Requires that when a complaint is made to local code enforcement of a violation of the uniform fire prevention and building code or a local code which results in the issuance of a compliance order, the complainant shall also be provided a copy of such order.",
  "LawSection":"Executive Law","LawCode":"Amd §§381 & 382, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to requiring that when a complaint is made to local code enforcement of a violation of the uniform fire prevention and building code which results in the issuance of a compliance order, the complainant shall also be provided a copy of such order",
- "SameAsPrintNo":"S6368-2025","PreviousVersions":["A4963-2023"]
+ "ActClause":"AN ACT to amend the executive law, in relation to requiring that when a complaint is made to local code enforcement of a violation of the uniform fire prevention and building code or local building codes which results in the issuance of a compliance order, the complainant shall also be provided a copy of such order",
+ "PreviousVersions":["A4963-2023"]
 }

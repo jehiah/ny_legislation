@@ -1,8 +1,25 @@
 {
  "PrintNo":"S7028","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-28T15:58:40.473576Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-28","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-28","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-20","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"}],
  "Title":"Enacts the \"city of Little Falls fiscal recovery act\" authorizing the city of Little Falls, in the county of Herkimer, to finance certain deficits by the issuance of bonds",
  "Summary":"Authorizes the city of Little Falls, in the county of Herkimer, to issue serial bonds in an aggregate principal amount not to exceed three million four hundred thousand dollars for the purpose of liquidating deficits in its general, golf, and water funds expected at the close of its fiscal year ending December 31, 2025; provides that the state comptroller shall first review and confirm the existence of deficits before the city of Little Falls shall issue any such bonds; requires that the city of Little Falls prepare quarterly budget reports, quarterly trial balances and a three-year financial plan.",

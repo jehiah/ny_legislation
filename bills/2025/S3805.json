@@ -1,8 +1,11 @@
 {
  "PrintNo":"S3805","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T09:43:16.595818Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-30","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to payment for rapid whole genome sequencing",
  "Summary":"Directs the commissioner of social services to authorize the payment of medical assistance funds for rapid whole genome sequencing for persons under twenty-one years of age under certain medical circumstances.",

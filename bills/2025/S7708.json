@@ -1,10 +1,20 @@
 {
- "PrintNo":"S7708","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-01T10:04:07.385912Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-05-01","Chamber":"SENATE"}],
+ "PrintNo":"S7708","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-01T10:04:07.385912Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-05-01","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-05-20",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 7708A","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Establishes a veterans' bill of rights",
  "Summary":"Establishes a veterans' bill of rights; provides sample language for such bill of rights; requires the department of veterans' services to establish and distribute a veterans' bill of rights and to make such bill of rights available on the departments website.",
- "LawSection":"Veterans' Service Law","LawCode":"Add §29-e, Veterans' Services L"
+ "LawSection":"Veterans' Service Law","LawCode":"Add §29-e, Veterans' Services L",
+ "ActClause":"AN ACT to amend the veterans' services law, in relation to the establishing a veterans' bill of rights",
+ "SameAsPrintNo":"A6559-2025"
 }

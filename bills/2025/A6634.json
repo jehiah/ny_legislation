@@ -1,18 +1,38 @@
 {
  "PrintNo":"A6634","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T15:10:38.861393Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Cultural Affairs, Tourism, Parks And Recreation",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Tourism, Parks, Arts And Sports Development"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-19"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.158","Date":"2025-05-15","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.158","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-05-19","Chamber":"SENATE"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2025-05-13","Chamber":"ASSEMBLY","Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "Votes":[
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-05-19","Chamber":"ASSEMBLY","Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
    "Votes":[
     {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
     {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},

@@ -1,13 +1,31 @@
 {
  "PrintNo":"S4257","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T14:56:09.800548Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-02-03","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Social Services"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1169","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-20","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
  "Title":"Allows college coursework to be credited as a work activity which may be used toward fulfilling the employment requirements for public assistance benefits",
  "Summary":"Allows college coursework to be credited as a work activity which may be used toward fulfilling the employment requirements for public assistance benefits under certain conditions.",
  "LawSection":"Social Services Law","LawCode":"Amd §336-a, Soc Serv L",
  "ActClause":"AN ACT to amend the social services law, in relation to access to a college education by public assistance recipients who are subject to work participation requirements",
- "SameAsPrintNo":"A4502-2025",
  "PreviousVersions":["S2478-2007","S2162-2009","S1062-2011","S621-2013","S2861-2015","S2698-2017","S4870-2019","S5286-2021","S6696-2023"]
 }

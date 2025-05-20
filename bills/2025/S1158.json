@@ -1,12 +1,16 @@
 {
- "PrintNo":"S1158","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T11:25:30.826203Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S1158","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T11:25:30.826203Z","Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Procurement And Contracts"}],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO PROCUREMENT AND CONTRACTS","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1158A","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Requires events held by the state or on state property which include alcohol to include alcohol produced within the state",
  "Summary":"Requires events held by the state or on state property which include alcohol to include alcohol produced within the state.",
- "LawSection":"State Finance Law","LawCode":"Add §163-e, St Fin L; add §148, Pub Bldg L; add §3.27, Pks & Rec L",
- "ActClause":"AN ACT to amend the state finance law, the public buildings law, and the parks, recreation and historic preservation law, in relation to requiring events held by the state or on state property which include alcohol to include alcohol produced within the state",
+ "LawSection":"State Finance Law","LawCode":"Add §163-e, St Fin L",
+ "ActClause":"AN ACT to amend the state finance law, in relation to requiring events held by the state or on state property which include alcohol to include alcohol produced within the state",
  "SameAsPrintNo":"A3754-2025","PreviousVersions":["S9151-2023"]
 }

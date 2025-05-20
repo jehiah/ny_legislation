@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7002","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-28T10:54:29.173621Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-28","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1237","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}],
  "Title":"Designates a portion of the state highway system as the \"General Colin Powell Thruway\"",
  "Summary":"Designates a portion of interstate eighty-seven as the \"General Colin Powell Thruway\".",
