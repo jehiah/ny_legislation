@@ -1,8 +1,12 @@
 {
- "PrintNo":"S7500","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-21T09:18:08.7702Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-21","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-21","Chamber":"SENATE"}],
+ "PrintNo":"S7500","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-21T09:18:08.7702Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-21","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7500A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to adjudications and owner liability for a violation of traffic-control signal indications in the city of Peekskill",
  "Summary":"Relates to adjudications and owner liability for a violation of traffic-control signal indications in the city of Peekskill.",

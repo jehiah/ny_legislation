@@ -1,10 +1,12 @@
 {
- "PrintNo":"S3883","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T13:54:29.844877Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Finance"}],
+ "PrintNo":"S3883","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-30T13:54:29.844877Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-30","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-13","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3883A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,8 +30,8 @@
  ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to dispensing certain controlled substances for use by a person with a substance use disorder",
- "Summary":"Relates to dispensing certain controlled substances for use by a person with a substance use disorder during certain emergency medical treatment, for use in maintenance or detoxification treatment, or to relieve acute withdrawal symptoms.",
+ "Summary":"Relates to dispensing certain controlled substances for use by a person with a substance use disorder during certain emergency medical treatment, or to relieve acute withdrawal symptoms.",
  "LawSection":"Public Health Law","LawCode":"Amd §3351, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to dispensing certain controlled substances for use by a person with a substance use disorder",
- "SameAsPrintNo":"A5432-2025","PreviousVersions":["S9926-2023"]
+ "PreviousVersions":["S9926-2023"]
 }

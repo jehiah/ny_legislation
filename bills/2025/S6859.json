@@ -1,15 +1,16 @@
 {
- "PrintNo":"S6859","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-25T14:36:08.582587Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S6859","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-25T14:36:08.582587Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-01"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.865","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 6859A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,7 +28,8 @@
  ],
  "Sponsors":[{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
  "Title":"Makes a technical change to the tax law; extends the village of Nyack occupancy tax",
- "Summary":"Makes a technical change to the tax law; amends provisions relating to authorizing the imposition of an occupancy tax in the village of Nyack, in relation of the effectiveness thereof.",
+ "Summary":"Makes a technical change to the tax law; extends the authorization of the village of Nyack to impose an occupancy tax.",
  "LawSection":"Tax Law","LawCode":"Ren §1202-hh to be §1202-hh-2, Tax L; amd §2, Chap 469 of 2022",
- "ActClause":"AN ACT to amend the tax law, in relation to making technical changes; and to amend chapter 469 of the laws of 2022, relating to authorizing the imposition of an occupancy tax in the village of Nyack, in relation to extending the effectiveness thereof"
+ "ActClause":"AN ACT to amend the tax law, in relation to making technical changes; and to amend chapter 469 of the laws of 2022, relating to authorizing the imposition of an occupancy tax in the village of Nyack, in relation to extending the effectiveness thereof",
+ "SameAsPrintNo":"A7323-2025"
 }

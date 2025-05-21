@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5090","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T11:13:12.542839Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5090","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-12T11:13:12.542839Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-21","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5090A","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"}],
  "Title":"Prohibits certain persons from receiving compensation for legal fees, consulting, or other work performed for an industrial development agency or an economic assistance corporation",
  "Summary":"Prohibits certain persons from receiving compensation for legal fees, consulting, or other work performed for an industrial development agency, an economic assistance corporation or state or local authority.",

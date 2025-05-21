@@ -1,13 +1,16 @@
 {
- "PrintNo":"S7668","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-28T15:04:29.371469Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S7668","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-28T15:04:29.371469Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-28","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-19"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-04-28","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1135","Date":"2025-05-19","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1135","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"AMENDED 7668A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,5 +31,5 @@
  "Summary":"Prohibits the knowing sale of xylazine above a certain weight to persons under the age of 21 and without proof of the intended use for institutional, veterinary, or scientific purposes.",
  "LawSection":"General Business Law","LawCode":"Add §392-k, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the sale of xylazine above a certain weight",
- "SameAsPrintNo":"A1248-2025","PreviousVersions":["S6084-2023"]
+ "PreviousVersions":["S6084-2023"]
 }
