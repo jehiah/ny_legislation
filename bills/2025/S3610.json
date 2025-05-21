@@ -1,8 +1,27 @@
 {
  "PrintNo":"S3610","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T08:57:20.176252Z",
- "Status":"IN_SENATE_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-29","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Mental Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-21"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-29","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1269","Date":"2025-05-21","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-21","Chamber":"SENATE","Committee":"Mental Health",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},

@@ -1,5 +1,5 @@
 {
- "PrintNo":"A1001","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A1001","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-07T15:42:54.599034Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Ways And Means"}],
  "Actions":[
@@ -8,7 +8,8 @@
   {"Text":"PRINT NUMBER 1001A","Date":"2025-02-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 1001B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 1001B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMENDED BY RESTORING TO PREVIOUS PRINT 1001A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,11 +36,11 @@
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
-  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
  ],
  "Title":"Implements automatic market rate increases for child care assistance",
- "Summary":"Implements automatic rate increases for child care assistance such that assistance will be equal to the applicable payment rate established by the department in regulations, in accordance with the market-rate survey or an approved alternative methodology.",
+ "Summary":"Implements automatic market rate increases for child care assistance such that assistance will be equal to the applicable payment rate established by the department.",
  "LawSection":"Social Services Law","LawCode":"Amd §410-x, Soc Serv L",
  "ActClause":"AN ACT to amend the social services law, in relation to implementing automatic market rate increases for child care assistance",
- "PreviousVersions":["A10596-2021","A2019-2023"]
+ "SameAsPrintNo":"S4472-2025","PreviousVersions":["A10596-2021","A2019-2023"]
 }

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S3367","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T11:46:45.064935Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Local Government"},
   {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-05-15"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-27","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-15","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A2318","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.205","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-21","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -65,7 +70,6 @@
     {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
     {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Aye"},
     {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"},
-    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
     {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
     {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
@@ -90,6 +94,7 @@
     {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS","Vote":"Excused"},
     {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Excused"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Excused"},
     {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Excused"}

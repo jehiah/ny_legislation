@@ -1,10 +1,11 @@
 {
  "PrintNo":"S181","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-19T15:16:43.608791Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Social Services"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_SENATE","Date":"2025-05-14"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Social Services"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Social Services"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-08","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-05-14","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A5311","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.219","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-21","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

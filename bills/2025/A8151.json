@@ -1,11 +1,18 @@
 {
  "PrintNo":"A8151","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-02T11:50:36.568554Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-02","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"}],
+ "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-02","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-20"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Energy And Telecommunications"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-05-02","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.138","Date":"2025-05-08","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.138","Date":"2025-05-08","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-20","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -21,11 +28,25 @@
     {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
     {"ID":635,"Short":"PALMESANO","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
   {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
-  {"ID":1564,"Name":"Paula Kay","Short":"KAY"}
+  {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"}
  ],
  "Title":"Relates to proposed rate changes for gas and electric service",
  "Summary":"Requires respective changes to service and delivery charges for gas or electric service to be included in the information regarding average proposed rate changes required to be published by the public service commission in certain instances.",

@@ -1,12 +1,16 @@
 {
- "PrintNo":"A1921","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T11:46:57.555088Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1921","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T11:46:57.555088Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-21","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1921A","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}],
- "Title":"Provides insurance coverage for chronic pain",
- "Summary":"Provides outpatient insurance coverage for non-opioid treatment of chronic pain including complementary and integrative treatments.",
+ "Title":"Provides outpatient insurance coverage for non-opioid treatment of chronic pain",
+ "Summary":"Provides outpatient insurance coverage for non-opioid treatment of chronic pain including complementary and integrative treatments and non-opioid drugs.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to providing insurance coverage for chronic pain",
- "SameAsPrintNo":"S3185-2025","PreviousVersions":["A9716-2023"]
+ "ActClause":"AN ACT to amend the insurance law, in relation to providing insurance coverage for non-opioid treatment of chronic pain",
+ "PreviousVersions":["A9716-2023"]
 }

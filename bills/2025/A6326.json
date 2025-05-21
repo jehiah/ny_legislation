@@ -1,12 +1,15 @@
 {
  "PrintNo":"A6326","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-04T10:36:31.404158Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
+ "Published":"2025-03-04T10:36:31.404158Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-03-04","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2025-05-14","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6326A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.223","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.223","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -22,6 +25,35 @@
     {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
     {"ID":1469,"Short":"MAMDANI","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-05-21","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":1469,"Short":"MAMDANI","Vote":"Excused"},
+    {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":540,"Short":"PAULIN","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
@@ -31,7 +63,8 @@
   {"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
   {"ID":1466,"Name":"Michael Durso","Short":"DURSO"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
-  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Requires gas and electric corporations to provide forty-five days' notice to customers whenever there is a service rate or charge increase",
  "Summary":"Requires gas and electric corporations to provide forty-five days' notice to customers whenever there is a service rate or charge increase.",

@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8071","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T17:40:23.830956Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-05-15","Chamber":"SENATE"}],
+ "PrintNo":"S8071","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T17:40:23.830956Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8071A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Enacts the avoiding vexatious overuse of impleading to delay (AVOID) act",
  "Summary":"Enacts the \"avoiding vexatious overuse of impleading to delay (AVOID) act\" which relates to time frames for certain court filings.",

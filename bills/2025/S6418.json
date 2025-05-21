@@ -1,11 +1,18 @@
 {
  "PrintNo":"S6418","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-13T11:38:15.799216Z",
- "Status":"IN_SENATE_COMM","Committee":"Commerce, Economic Development And Small Business",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-13","Committee":"Commerce, Economic Development And Small Business"}],
- "Actions":[{"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-03-13","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-13","Committee":"Commerce, Economic Development And Small Business"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-21"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1275","Date":"2025-05-21","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Provides for a license to sell liquor at retail for consumption on certain premises",
  "Summary":"Provides for a license to sell liquor at retail for consumption on certain premises.",
  "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §64, ABC L",
- "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to providing for a license to sell liquor at retail for consumption on certain premises"
+ "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to providing for a license to sell liquor at retail for consumption on certain premises",
+ "SameAsPrintNo":"A7579-2025"
 }

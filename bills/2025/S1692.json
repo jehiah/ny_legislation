@@ -1,15 +1,16 @@
 {
- "PrintNo":"S1692","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T10:54:45.106726Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S1692","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T10:54:45.106726Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-03"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-14"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.379","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1692A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,10 +28,11 @@
  ],
  "Sponsors":[
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
-  {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}
+  {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
+  {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}
  ],
  "Title":"Relates to commissaries and canteens at correctional institutions",
- "Summary":"Relates to commissaries and canteens at correctional institutions; provides that items for sale at a commissary or canteen shall be sold for no more than a certain percentage over the purchase price; provides that money placed into an incarcerated individual's commissary or canteen account or fund shall only be used for purchasing items or goods.",
+ "Summary":"Relates to commissaries and canteens at correctional institutions; provides that items for sale at a commissary or canteen shall be sold for no more than a certain percentage over the purchase price; provides that the department of corrections and community supervisions shall publish on its website the price list for all commissary items for sale at each institution as of June 1, 2025 and on an annual basis thereafter.",
  "LawSection":"Correction Law","LawCode":"Amd §26, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to commissaries or canteens in correctional institutions",
  "SameAsPrintNo":"A2592-2025","PreviousVersions":["S3473-2019","S1051-2021","S1744-2023"]

@@ -1,13 +1,15 @@
 {
- "PrintNo":"S7314","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7314","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-04-09T15:39:30.049593Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-16","Committee":"Civil Service And Pensions"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-09","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 7314A","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-16","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 7314B","Date":"2025-05-16","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 7314B","Date":"2025-05-16","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 7314C","Date":"2025-05-20","Chamber":"SENATE","Version":"C"}
  ],
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
@@ -16,5 +18,6 @@
  "Title":"Permits surviving spouses of certain retirement plan members to retain certain benefits upon remarriage",
  "Summary":"Permits surviving spouses of NYC police pension fund members to retain accidental death benefits upon remarriage.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §501, R & SS L; amd §13-209, NYC Ad Cd",
- "ActClause":"AN ACT to amend the retirement and social security law and the administrative code of the city of New York, in relation to permit surviving spouses of certain retirement plan members to retain certain benefits upon remarriage"
+ "ActClause":"AN ACT to amend the retirement and social security law and the administrative code of the city of New York, in relation to permit surviving spouses of certain retirement plan members to retain certain benefits upon remarriage",
+ "SameAsPrintNo":"A7949-2025"
 }

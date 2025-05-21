@@ -1,14 +1,18 @@
 {
- "PrintNo":"S694","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T14:24:05.508392Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Crime Victims, Crime And Correction"}],
- "Actions":[{"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S694","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-03T14:24:05.508392Z","Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Crime Victims, Crime And Correction"}],
+ "Actions":[
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 694A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
   {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA"}
  ],
- "Title":"Relates to prohibiting civilian drone use within 1000 ft of a correctional facility",
- "Summary":"Relates to prohibiting civilian drone use within 1000 feet of a correctional facility except when in use under the Federal Aviation Administration's authorization.",
+ "Title":"Relates to prohibiting civilian drone use within 500 ft of a correctional facility",
+ "Summary":"Relates to prohibiting civilian drone use within 500 feet of a correctional facility except when in use under the Federal Aviation Administration's authorization.",
  "LawSection":"Correction Law","LawCode":"Add §608, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to civilian drone use near a correctional facility",
  "SameAsPrintNo":"A615-2025","PreviousVersions":["S6222-2015","S2125-2017","S1380-2019","S2660-2021","S4481-2023"]

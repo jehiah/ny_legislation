@@ -1,14 +1,22 @@
 {
  "PrintNo":"A6559","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:45:02.460654Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"}],
+ "Published":"2025-03-06T14:45:02.460654Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO VETERANS' AFFAIRS","Date":"2025-05-05","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6559A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO VETERANS' AFFAIRS","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 6559B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.225","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.225","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -25,6 +33,36 @@
     {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
     {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
     {"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-05-21","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":540,"Short":"PAULIN","Vote":"Excused"},{"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
    ]
   }
  ],

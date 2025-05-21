@@ -1,12 +1,16 @@
 {
- "PrintNo":"S7918","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-14T09:44:00.649759Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-05-14","Chamber":"SENATE"}],
+ "PrintNo":"S7918","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-14T09:44:00.649759Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7918A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
- "Title":"Prohibits health insurers, including medical assistance programs, from imposing arbitrary time caps on reimbursement for anesthesia services",
- "Summary":"Prohibits any insurer issuing a policy of hospital, medical, or surgical expense insurance or a medical assistance program from denying payment for anesthesia services solely because the duration of care exceeded a pre-set time limit.",
- "LawSection":"Insurance Law","LawCode":"Add §3246, Ins L; add §365-q, Soc Serv L",
- "ActClause":"AN ACT to amend the insurance law and the social services law, in relation to prohibiting health insurers, including medical assistance programs, from imposing arbitrary time caps on reimbursement for anesthesia services",
+ "Title":"Relates to reimbursement for anesthesia services",
+ "Summary":"Relates to reimbursement for anesthesia services; provides that an insurer may use a time related reimbursement methodology for anesthesia services if such methodology is based upon criteria established by an independent organization.",
+ "LawSection":"Insurance Law","LawCode":"Add §§3246 & 4331, Ins L; add §365-q, Soc Serv L",
+ "ActClause":"AN ACT to amend the insurance law and the social services law, in relation to reimbursement for anesthesia services",
  "SameAsPrintNo":"A5375-2025"
 }

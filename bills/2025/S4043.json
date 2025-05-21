@@ -1,12 +1,16 @@
 {
- "PrintNo":"S4043","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T11:09:40.483915Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-31","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-31","Chamber":"SENATE"}],
+ "PrintNo":"S4043","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-31T11:09:40.483915Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-31","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4043A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Authorizes the Bedford Hills Fire District to file an application for exemption from school and real property taxes",
  "Summary":"Authorizes the Bedford Hills Fire District to file an application for exemption from school and real property taxes for the 2022-2023 assessment years.",
  "LawSection":"Real Property Taxation",
  "ActClause":"AN ACT in relation to authorizing the Bedford Hills Fire District to file an application for exemption from school taxes and real property taxes",
- "SameAsPrintNo":"A46-2025","PreviousVersions":["A10722-2023"]
+ "PreviousVersions":["A10722-2023"]
 }

@@ -1,11 +1,33 @@
 {
  "PrintNo":"A7053","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-20T15:35:18.959504Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Higher Education"}],
+ "Published":"2025-03-20T15:35:18.959504Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-20","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-16","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 7053A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 7053A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"HIGHER EDUCATION",
+   "Votes":[
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Excused"},
+    {"ID":1257,"Short":"REYES","Vote":"Excused"},{"ID":1555,"Short":"O'PHARROW","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
@@ -13,8 +35,9 @@
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
  ],
  "Title":"Relates to scholarships for academic excellence",
- "Summary":"Provides that a scholarship for academic excellence that is declined by a student prior to the end of their high school program the scholarship shall be granted to the next most qualified student, if practicable.",
+ "Summary":"Provides that a scholarship for academic excellence that is declined by a student prior to the end of their high school program shall be granted to the next most qualified student, if practicable.",
  "LawSection":"Education Law","LawCode":"Amd §605-a, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to scholarships for academic excellence",
+ "SameAsPrintNo":"S7580-2025",
  "PreviousVersions":["A377-2007","A1602-2009","A2191-2011","A2811-2013","A3764-2015","A3634-2017","A2958-2019","A6827-2021","A1956-2023"]
 }

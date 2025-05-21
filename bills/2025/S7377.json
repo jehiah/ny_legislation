@@ -1,16 +1,30 @@
 {
  "PrintNo":"S7377","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-11T15:06:16.552742Z","Status":"IN_SENATE_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-17","Committee":"Mental Health"}],
+ "Published":"2025-04-11T15:06:16.552742Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-04-11","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO MENTAL HEALTH","Date":"2025-04-17","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 7377A","Date":"2025-04-17","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 7377A","Date":"2025-04-17","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-21","Version":"A","Chamber":"SENATE","Committee":"Mental Health",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Relates to the establishment of mental health clubhouses",
  "Summary":"Relates to the establishment of mental health clubhouses pursuant to a statewide implementation plan developed by the department of health and office of mental health.",
  "LawSection":"Public Health Law","LawCode":"Add Art 29-L §§2999-nn - 2999-qq, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to the establishment of mental health clubhouses",
- "SameAsPrintNo":"A4878-2025"
+ "ActClause":"AN ACT to amend the public health law, in relation to the establishment of mental health clubhouses"
 }

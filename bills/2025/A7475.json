@@ -1,15 +1,31 @@
 {
  "PrintNo":"A7475","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-28T14:00:36.560336Z","Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Racing And Wagering"}],
+ "Published":"2025-03-28T14:00:36.560336Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-03-28","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO RACING AND WAGERING","Date":"2025-05-16","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 7475A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 7475A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"RACING AND WAGERING",
+   "Votes":[
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
-  {"ID":1564,"Name":"Paula Kay","Short":"KAY"}
+  {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Relates to electronic bell jar vending machines",
  "Summary":"Relates to authorizing and regulating the use of electronic bell jar vending machines.",

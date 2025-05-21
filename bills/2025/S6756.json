@@ -1,15 +1,18 @@
 {
  "PrintNo":"S6756","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-24T09:54:32.976141Z","Status":"IN_SENATE_COMM",
- "Committee":"Commerce, Economic Development And Small Business",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Commerce, Economic Development And Small Business"}],
+ "Published":"2025-03-24T09:54:32.976141Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Commerce, Economic Development And Small Business"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-21"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-03-24","Chamber":"SENATE"},
   {
    "Text":"AMEND AND RECOMMIT TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-03-25",
    "Chamber":"SENATE"
   },
-  {"Text":"PRINT NUMBER 6756A","Date":"2025-03-25","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6756A","Date":"2025-03-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1276","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
