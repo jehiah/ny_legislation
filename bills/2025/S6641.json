@@ -1,9 +1,10 @@
 {
  "PrintNo":"S6641","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-19T10:29:33.174052Z","Status":"PASSED_SENATE",
+ "Published":"2025-03-19T10:29:33.174052Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-07","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-08"},{"Type":"PASSED_SENATE","Date":"2025-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-08"},{"Type":"PASSED_SENATE","Date":"2025-05-21"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Governmental Employees"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-19","Chamber":"SENATE"},
@@ -13,7 +14,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-07","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -101,5 +103,5 @@
  "Summary":"Increases certain special accidental death benefits for state and local retirement system members.",
  "LawSection":"General Municipal Law","LawCode":"Amd §208-f, Gen Muni L; amd §361-a, R & SS L",
  "ActClause":"AN ACT to amend the general municipal law and the retirement and social security law, in relation to increasing the special accidental death benefit of certain deceased members",
- "PreviousVersions":["S9076-2023"]
+ "SameAsPrintNo":"A8655-2025","PreviousVersions":["S9076-2023"]
 }
