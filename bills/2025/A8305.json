@@ -1,9 +1,31 @@
 {
  "PrintNo":"A8305","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-12T17:17:16.720311Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-12","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-05-12","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}],"Title":"Relates to expenses in matrimonial actions",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}],
+ "Title":"Relates to expenses in matrimonial actions",
  "Summary":"Relates to expenses in matrimonial actions; establishes there is a rebuttable presumption that certain itemized bills or invoices shall be admissible in evidence.",
  "LawSection":"Civil Practice Law and Rules","LawCode":"Add R4533-c, CPLR",
  "ActClause":"AN ACT to amend the civil practice law and rules, in relation to expenses in matrimonial actions"

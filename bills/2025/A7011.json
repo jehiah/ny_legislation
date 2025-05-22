@@ -1,8 +1,12 @@
 {
- "PrintNo":"A7011","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:33:46.958443Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-03-18","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7011","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-18T13:33:46.958443Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7011A","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
@@ -18,11 +22,13 @@
   {"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1540,"Name":"Brian Maher","Short":"MAHER"},
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
-  {"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"}
+  {"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
+  {"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"}
  ],
- "Title":"Allows individuals to register in the  donate life registry  through mandatory electronic tax filings",
- "Summary":"Allows individuals to register in the \"donate life registry\" on any mandatory electronic tax filing.",
+ "Title":"Allows individuals to register in the donate life registry through mandatory personal income tax electronic tax filings",
+ "Summary":"Allows individuals to register in the \"donate life registry\" on any mandatory electronic personal income tax filing.",
  "LawSection":"Public Health Law","LawCode":"Amd §4310, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to allowing individuals to register in the \"donate life registry\" through mandatory electronic tax filings",
- "SameAsPrintNo":"S7331-2025"
+ "ActClause":"AN ACT to amend the public health law, in relation to allowing individuals to register in the \"donate life registry\" through mandatory electronic personal income tax filings"
 }

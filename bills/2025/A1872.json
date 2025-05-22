@@ -1,17 +1,22 @@
 {
- "PrintNo":"A1872","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T11:05:12.453167Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1872","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T11:05:12.453167Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1872A","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
   {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
-  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"}
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"},
+  {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"}
  ],
  "Title":"Categorizes the assault of certain employees of the New York city department of buildings or the New York city department of housing preservation and development as a class D felony",
  "Summary":"Categorizes the assault of certain employees of the New York city department of buildings or the New York city department of housing preservation and development as a class D felony.",
  "LawSection":"Penal Law","LawCode":"Amd §120.05, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to categorizing the assault of certain employees of the New York city department of buildings or the New York city department of housing preservation and development as a class D felony",
- "SameAsPrintNo":"S5110-2025","PreviousVersions":["A8177-2023"]
+ "PreviousVersions":["A8177-2023"]
 }

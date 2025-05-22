@@ -1,10 +1,9 @@
 {
- "PrintNo":"S4433","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T16:28:33.1441Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "PrintNo":"S4433","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-04T16:28:33.1441Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-02-25"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Consumer Affairs And Protection"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-04","Chamber":"SENATE"},
@@ -13,7 +12,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-25","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-25","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 4433A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -105,5 +108,5 @@
  "Summary":"Requires the clear and conspicuous disclosure of pricing changes for online grocery delivery and online pick-up services; imposes a fine of not more than one hundred dollars for the first offense and not more than two hundred fifty dollars for a second and each subsequent offense for violations.",
  "LawSection":"General Business Law","LawCode":"Add Art 38-C §§840 & 841, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to the disclosure of pricing changes for online grocery delivery and online pick-up services",
- "PreviousVersions":["S9277-2023"]
+ "SameAsPrintNo":"A1096-2025","PreviousVersions":["S9277-2023"]
 }

@@ -1,10 +1,9 @@
 {
- "PrintNo":"S488","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T14:23:58.894969Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "PrintNo":"S488","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-31T14:23:58.894969Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-04"},{"Type":"PASSED_SENATE","Date":"2025-02-25"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Consumer Affairs And Protection"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -13,7 +12,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-25","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-25","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 488A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -105,5 +108,5 @@
  "Summary":"Enacts the manufacturer disclosure and transparency act requiring prescription drug manufacturers to notify the attorney general of arrangements between pharmaceutical manufacturers resulting in the delay of the introduction of generic medications.",
  "LawSection":"General Business Law","LawCode":"Add §396-rrr, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to requiring prescription drug manufacturers to notify the attorney general of arrangements between pharmaceutical manufacturers resulting in the delay of the introduction of generic drugs",
- "SameAsPrintNo":"A2289-2025","PreviousVersions":["S5169-2019","S398-2021","S3518-2023"]
+ "PreviousVersions":["S5169-2019","S398-2021","S3518-2023"]
 }

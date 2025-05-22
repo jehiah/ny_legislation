@@ -1,7 +1,10 @@
 {
  "PrintNo":"K565","Session":2025,"Chamber":"ASSEMBLY","BillType":"Regular","Resolution":true,
- "Published":"2025-05-21T10:46:58.717232Z","Status":"INTRODUCED",
- "Actions":[{"Text":"INTRODUCED","Date":"2025-05-21","Chamber":"ASSEMBLY"}],
+ "Published":"2025-05-21T10:46:58.717232Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2025-05-21"}],
+ "Actions":[
+  {"Text":"INTRODUCED","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"ADOPTED","Date":"2025-05-21","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
   {"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"},
@@ -10,10 +13,10 @@
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
-  {"ID":608,"Name":"Edward Ra","Short":"RA"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
-  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
-  {"ID":1152,"Name":"Chris Tague","Short":"TAGUE"},{"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"},
-  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":608,"Name":"Edward Ra","Short":"RA"},
+  {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1152,"Name":"Chris Tague","Short":"TAGUE"},
+  {"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Commemorating the 125th Anniversary of Local Union No. 3 of the International Brotherhood of Electrical Workers",
  "LawSection":"Resolutions, Legislative"

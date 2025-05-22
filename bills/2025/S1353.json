@@ -1,10 +1,7 @@
 {
- "PrintNo":"S1353","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T11:37:27.913768Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-13"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Codes"}
- ],
+ "PrintNo":"S1353","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T11:37:27.913768Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO JUDICIARY","Date":"2025-01-28","Chamber":"SENATE"},
@@ -15,7 +12,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 1353B","Date":"2025-05-22","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -129,8 +130,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Establishes a right of action for claims arising out of coerced debts",
- "Summary":"Prohibits creditors from enforcing a consumer debt incurred as a result of fraud, duress, intimidation, threat, force, identity theft, exploitation of the debtor's personal information or similar economic abuse perpetrated against a debtor; establishes a right of action by the debtor for relief against creditors for violations; makes related provisions.",
- "LawSection":"General Business Law","LawCode":"Add Art 29-HHH §§604-aa - 604-cc, Gen Bus L",
+ "Summary":"Prohibits creditors from enforcing a consumer debt incurred as a result of fraud, duress, intimidation, threat, force, identity theft, exploitation of thedebtor's personal information or similar economic abuse perpetrated against a debtor; establishes a right of action by the debtor for relief against creditors for violations; makes related provisions.",
+ "LawSection":"General Business Law","LawCode":"Add Art 29-HHH §§604-aa - 604-dd, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to establishing a right of action for claims arising out of coerced debts",
  "SameAsPrintNo":"A3038-2025","PreviousVersions":["A10667-2021","S2278-2023"]
 }

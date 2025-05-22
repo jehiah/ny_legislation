@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8076","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T17:41:51.455667Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-05-15","Chamber":"SENATE"}],
+ "PrintNo":"S8076","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T17:41:51.455667Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-22","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8076A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}

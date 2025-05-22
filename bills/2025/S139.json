@@ -1,12 +1,16 @@
 {
- "PrintNo":"S139","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-19T09:23:37.34348Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S139","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-19T09:23:37.34348Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-22","Committee":"Consumer Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 139A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to insurance requirements for third-party food delivery services",
- "Summary":"Requires a delivery network company to ensure that, during the delivery available period, if it applies, and during the delivery service period, primary automobile liability insurance is in place that recognizes that the driver is a delivery network driver or that does not exclude coverage for use of a personal vehicle to provide deliveries.",
- "LawSection":"General Business Law","LawCode":"Amd §391-v, Gen Bus L; add §3459-a, amd §3455, Ins L",
- "ActClause":"AN ACT to amend the general business law and the insurance law, in relation to insurance requirements for third-party food delivery service",
- "SameAsPrintNo":"A1823-2025","PreviousVersions":["S6760-2023"]
+ "Summary":"Requires bicycle delivery contractors to provide personal injury liability insurance to compensate persons injured by a bicycle delivery worker and to provide notice to delivery workers that the contractor provides personal injury liability insurance; authorizes the superintendent of financial services to promulgate rules and regulations.",
+ "LawSection":"General Business Law","LawCode":"Add §2354, Ins L",
+ "ActClause":"AN ACT to amend the insurance law, in relation to bicycle delivery worker insurance personal injury liability insurance",
+ "PreviousVersions":["S6760-2023"]
 }

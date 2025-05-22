@@ -1,14 +1,18 @@
 {
  "PrintNo":"A5134","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T11:38:39.0923Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Transportation",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-22"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-22","Committee":"Transportation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-12","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.129","Date":"2025-05-08","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.129","Date":"2025-05-08","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-22","Chamber":"SENATE"}
  ],
  "Votes":[
   {

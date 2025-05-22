@@ -1,9 +1,9 @@
 {
  "PrintNo":"S4188","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-03T12:56:43.148692Z","Status":"PASSED_SENATE",
+ "Published":"2025-02-03T12:56:43.148692Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-21"}
+  {"Type":"PASSED_SENATE","Date":"2025-05-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-03","Chamber":"SENATE"},
@@ -18,7 +18,8 @@
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING 4188A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

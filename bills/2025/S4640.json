@@ -1,12 +1,30 @@
 {
  "PrintNo":"S4640","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-10T14:31:48.143201Z","Status":"IN_SENATE_COMM",
- "Committee":"Alcoholism And Substance Use Disorders",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Alcoholism And Substance Use Disorders"}],
+ "Published":"2025-02-10T14:31:48.143201Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Alcoholism And Substance Use Disorders"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-22"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-05-06","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 4640A","Date":"2025-05-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 4640A","Date":"2025-05-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1279","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-22","Version":"A","Chamber":"SENATE",
+   "Committee":"Alcoholism And Substance Use Disorders",
+   "Votes":[
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Relates to onsite overdose response services and requires certain locations and venues to maintain a supply of opioid antagonists",

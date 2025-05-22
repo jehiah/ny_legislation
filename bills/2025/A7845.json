@@ -1,9 +1,35 @@
 {
  "PrintNo":"A7845","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T15:00:32.533789Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-04-11","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-04-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-19","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-19","Chamber":"ASSEMBLY","Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}
+ ],
  "Title":"Relates to establishing a state amyotrophic lateral sclerosis (ALS) and motor neuron disease (MND) registry",
  "Summary":"Requires the department of health to establish a registry for the collection of information on the incidence and prevalence of amyotrophic lateral sclerosis (ALS) and motor neuron disease (MND) in the state; requires that every physician, nurse practitioner, physician assistant and general hospital that diagnoses or treats a patient diagnosed with ALS or MND give notice to the department of cases of ALS or MND coming under their care; requires that patients diagnosed with ALS or MND be provided with written and verbal notice regarding the collection of information and patient data on ALS and MND and provides a method for patients to opt out of the collection of data; provides for duties of the department and the commissioner of health in relation thereto.",
  "LawSection":"Public Health Law","LawCode":"Add Art 20-C §§2020 - 2024, Pub Health L",

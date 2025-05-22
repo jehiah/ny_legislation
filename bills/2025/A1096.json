@@ -1,7 +1,11 @@
 {
  "PrintNo":"A1096","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-08T10:36:52.776758Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"}],
+ "Published":"2025-01-08T10:36:52.776758Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-20"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Consumer Protection"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-06","Chamber":"ASSEMBLY"},
@@ -13,7 +17,10 @@
   {"Text":"PRINT NUMBER 1096B","Date":"2025-05-02","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-06","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"ADVANCED TO THIRD READING CAL.143","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ADVANCED TO THIRD READING CAL.143","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-20","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -53,6 +60,30 @@
     {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
     {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"}
    ]
+  },
+  {
+   "VoteType":"","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"}
+   ]
   }
  ],
  "Sponsors":[
@@ -65,5 +96,5 @@
  "Summary":"Requires the clear and conspicuous disclosure of pricing changes for online grocery delivery and online pick-up services; imposes a fine of not more than one hundred dollars for the first offense and not more than two hundred fifty dollars for a second and each subsequent offense for violations.",
  "LawSection":"General Business Law","LawCode":"Add Art 38-C §§840 & 841, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to the disclosure of pricing changes for online grocery delivery and online pick-up services",
- "PreviousVersions":["A9194-2023"]
+ "SameAsPrintNo":"S4433-2025","PreviousVersions":["A9194-2023"]
 }

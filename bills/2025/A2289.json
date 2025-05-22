@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2289","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T10:52:27.854134Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-16","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2289","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-16T10:52:27.854134Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-16","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2289A","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},
@@ -22,5 +26,5 @@
  "Summary":"Enacts the manufacturer disclosure and transparency act requiring prescription drug manufacturers to notify the attorney general of arrangements between pharmaceutical manufacturers resulting in the delay of the introduction of generic medications.",
  "LawSection":"General Business Law","LawCode":"Add §396-rrr, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to requiring prescription drug manufacturers to notify the attorney general of arrangements between pharmaceutical manufacturers resulting in the delay of the introduction of generic drugs",
- "SameAsPrintNo":"S488-2025","PreviousVersions":["A7196-2019","A8824-2021","A895-2023"]
+ "PreviousVersions":["A7196-2019","A8824-2021","A895-2023"]
 }

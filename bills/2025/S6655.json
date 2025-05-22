@@ -1,10 +1,12 @@
 {
  "PrintNo":"S6655","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-19T10:57:49.870233Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-19","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-19","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-03-19","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1160","Date":"2025-05-20","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1160","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -27,7 +29,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"}],
+ "Sponsors":[
+  {"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"},
+  {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"}
+ ],
  "Title":"Allows students attending agricultural learning events to be counted as in attendance at school",
  "Summary":"Allows students attending agricultural learning events to be counted as in attendance at school; defines \"agricultural learning events\" as including FFA events and 4-H programs.",
  "LawSection":"Education Law","LawCode":"Add §3207-b, Ed L",

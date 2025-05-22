@@ -1,8 +1,12 @@
 {
- "PrintNo":"S894","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T15:03:04.292821Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S894","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-06T15:03:04.292821Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-22","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 894A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"}
  ],
@@ -10,5 +14,5 @@
  "Summary":"Requires school districts to establish a language assistance program for limited English proficient parents of students; requires record keeping and annual reporting; permits districts to jointly establish such programs.",
  "LawSection":"Education Law","LawCode":"Amd §305, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to requiring public school districts to provide language assistance to limited English proficient parents of students",
- "SameAsPrintNo":"A4516-2025","PreviousVersions":["S8634-2017","S1697-2019","S635-2021","S463-2023"]
+ "PreviousVersions":["S8634-2017","S1697-2019","S635-2021","S463-2023"]
 }

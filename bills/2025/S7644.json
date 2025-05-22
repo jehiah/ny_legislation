@@ -1,12 +1,16 @@
 {
- "PrintNo":"S7644","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-24T16:25:47.906982Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-24","Committee":"Budget And Revenue"}],
- "Actions":[{"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-04-24","Chamber":"SENATE"}],
+ "PrintNo":"S7644","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-24T16:25:47.906982Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-22","Committee":"Budget And Revenue"}],
+ "Actions":[
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-04-24","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7644A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],
- "Title":"Creates the \"Paid-In Act\"; exempts used books from sales use taxes",
- "Summary":"Exempts used books from sales use taxes including second-hand purchases.","LawSection":"Tax Law",
- "LawCode":"Amd §1115, Tax L",
+ "Title":"Creates the \"Paid-In Act\"; exempts used books from sales use taxes, up to one hundred dollars per item",
+ "Summary":"Exempts used books from sales use taxes including second-hand purchases, up to one hundred dollars per item.",
+ "LawSection":"Tax Law","LawCode":"Amd §1115, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to exempting used books from the collection sales and use taxes",
  "SameAsPrintNo":"A7958-2025"
 }
