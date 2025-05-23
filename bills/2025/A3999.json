@@ -1,13 +1,14 @@
 {
- "PrintNo":"A3999","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T15:12:42.337165Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-20","Committee":"Corporations, Authorities And Commissions"}],
+ "PrintNo":"A3999","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T15:12:42.337165Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Energy"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-20","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 3999A","Date":"2025-03-20","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERENCE CHANGED TO ENERGY","Date":"2025-03-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERENCE CHANGED TO ENERGY","Date":"2025-03-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 3999B","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"}],
  "Title":"Establishes the mechanical insulation energy savings program",

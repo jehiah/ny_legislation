@@ -1,8 +1,12 @@
 {
- "PrintNo":"A6935","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:15:54.309665Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-03-18","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6935","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-18T13:15:54.309665Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6935A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"}],
  "Title":"Relates to requiring Medicaid to cover a wearable medical device to treat certain forms of cancer",
  "Summary":"Requires Medicaid to cover a wearable medical device that uses low-intensity, alternating electric fields delivered to the tumor site to treat glioblastoma and other cancers as recommended by medical and scientific evidence.",

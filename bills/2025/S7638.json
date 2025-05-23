@@ -1,8 +1,12 @@
 {
- "PrintNo":"S7638","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-24T16:23:39.697603Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-24","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-04-24","Chamber":"SENATE"}],
+ "PrintNo":"S7638","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-24T16:23:39.697603Z","Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-22","Committee":"Procurement And Contracts"}],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-04-24","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO PROCUREMENT AND CONTRACTS","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7638A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
@@ -14,8 +18,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Provides that certain purchase contracts to purchase food can be awarded to a qualified bidder who complies with certain standards when such bid is not more than 10% higher than the lowest responsible bidder",
- "Summary":"Provides that certain purchase contracts to purchase food can be awarded to a qualified bidder who fulfills certain values based procurement standards when such bid is not more than 10% higher than the lowest responsible bidder and when the bidder makes publicly available data on where such bidder sources their food items; sets forth the criteria for values based procurement standards to include local economies, environmental sustainability, racial equity, valued workforce, animal welfare, and nutrition.",
+ "Summary":"Provides that certain purchase contracts to purchase food can be awarded to a qualified bidder who fulfills certain values based procurement standards when such bid is not more than 10% higher than the lowest responsible bidder and when the bidder makes publicly available data on where such bidder sources their food items; sets forth the criteria for values based procurement standards to include local economies, environmental resilience, racial equity, valued workforce, valued agricultural sector, animal welfare, and nutrition.",
  "LawSection":"General Municipal Law","LawCode":"Amd §103, Gen Muni L",
  "ActClause":"AN ACT to amend the general municipal law, in relation to the awarding of certain purchase contracts to purchase food",
- "SameAsPrintNo":"A8091-2025","PreviousVersions":["S6955-2023"]
+ "PreviousVersions":["S6955-2023"]
 }

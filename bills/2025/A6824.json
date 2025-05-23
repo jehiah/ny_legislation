@@ -1,15 +1,19 @@
 {
- "PrintNo":"A6824","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-14T10:15:00.95752Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-14","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6824","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-14T10:15:00.95752Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Local Governments"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6824A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
  "Title":"Provides for eye and tissue donation",
  "Summary":"Provides for eye and tissue donation; requires coroners to develop a protocol for making referrals of deaths that fall under their jurisdiction and occur outside of a hospital including calling the federally designated organ procurement organization for donor registry verification and a donor suitability determination.",
- "LawSection":"County Law","LawCode":"Amd §671, County L",
+ "LawSection":"County Law","LawCode":"Amd §§671 & 674-a, County L",
  "ActClause":"AN ACT to amend the county law, in relation to eye and tissue donation",
  "PreviousVersions":["A10046-2017","A6582-2019","A6010-2021","A10620-2023"]
 }

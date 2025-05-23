@@ -1,7 +1,7 @@
 {
  "PrintNo":"A808","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-06T16:12:19.91289Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-27","Committee":"Health"}],
+ "Published":"2025-01-06T16:12:19.91289Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-07","Chamber":"ASSEMBLY"},
@@ -9,7 +9,29 @@
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 808B","Date":"2025-03-24","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"PRINT NUMBER 808C","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"PRINT NUMBER 808C","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-19","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":1465,"Short":"GANDOLFO","Vote":"Nay"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},{"ID":1544,"Short":"GRAY","Vote":"Nay"},
+    {"ID":1540,"Short":"MAHER","Vote":"Nay"},{"ID":1536,"Short":"SLATER","Vote":"Nay"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
@@ -24,7 +46,7 @@
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":534,"Name":"Michael Benedetto","Short":"BENEDETTO"},
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
-  {"ID":1531,"Name":"Alex Bores","Short":"BORES"}
+  {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Establishes a drug checking program",
  "Summary":"Establishes through the department of health a drug checking services program to allow individuals to bring drugs or controlled substances and have them tested for contaminants, toxic substances, or hazardous compounds; requires the department to establish public health surveillance of the unregulated drug supply; provides exemptions for participants in the drug checking program from certain controlled substance offenses.",

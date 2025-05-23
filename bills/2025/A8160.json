@@ -1,17 +1,21 @@
 {
- "PrintNo":"A8160","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-02T16:42:25.292796Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-02","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-02","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8160","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-02T16:42:25.292796Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-02","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8160A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
- "Title":"Directs state agencies to adopt a sustainability and decarbonization program",
- "Summary":"Directs state agencies to adopt a sustainability and decarbonization program; establishes a GreenNY council which will develop sustainable procurement specifications, issue operational directives and guidance for construction, issue a waste diversion plan template for agencies and provide agencies with information on reducing use of toxic substances; requires agencies to reduce greenhouse gas emissions.",
- "LawSection":"Environmental Conservation",
- "ActClause":"AN ACT in relation to directing state agencies to adopt a sustainability and decarbonization program",
- "SameAsPrintNo":"S6931-2025","PreviousVersions":["A4931-2023"]
+ "Title":"Directs state agencies to adopt a waste diversion plan",
+ "Summary":"Directs state agencies to adopt a waste diversion plan.","LawSection":"Environmental Conservation Law",
+ "LawCode":"Add §27-0111, En Con L",
+ "ActClause":"AN ACT to amend the environmental conservation law; in relation to directing state agencies to adopt a waste diversion plan",
+ "PreviousVersions":["A4931-2023"]
 }

@@ -1,13 +1,18 @@
 {
- "PrintNo":"S7555","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-22T15:00:36.77689Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-22","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-22","Chamber":"SENATE"}],
+ "PrintNo":"S7555","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-22T15:00:36.77689Z","Status":"IN_SENATE_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-23","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-22","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-23","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7555A","Date":"2025-05-23","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}],
  "Title":"Renames the \"West Islip Exempt Firemen's Benevolent Association\" to the \"West Islip Exempt Firefighter's Benevolent Association\"",
  "Summary":"Renames the \"West Islip Exempt Firemen's Benevolent Association\" to the \"West Islip Exempt Firefighter's Benevolent Association\"; changes such association's purpose.",
  "LawSection":"Volunteer and Exempt Firefighters' Benevolent Assoc., Inc.",
  "LawCode":"Amd §§1, 2, 3 & 7, Chap 187 of 1960",
  "ActClause":"AN ACT to amend chapter 187 of the laws of 1960 incorporating the West Islip Exempt Firemen's Benevolent Association, in relation to its purpose and the use of foreign fire insurance premium taxes",
- "SameAsPrintNo":"A6231-2025","PreviousVersions":["A10005-2023"]
+ "PreviousVersions":["A10005-2023"]
 }

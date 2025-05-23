@@ -1,10 +1,11 @@
 {
  "PrintNo":"A5572","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-14T15:24:25.850291Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-25"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-02-26"},{"Type":"IN_SENATE_COMM","Date":"2025-02-26","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-17"},{"Type":"PASSED_SENATE","Date":"2025-03-17"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-17"},{"Type":"PASSED_SENATE","Date":"2025-03-17"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-05-23"},{"Type":"SIGNED_BY_GOV","Date":"2025-05-23"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-14","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S814","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.88","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-17","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.128","Date":"2025-05-23","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

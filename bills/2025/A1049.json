@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1049","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-08T10:29:27.922561Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1049","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-08T10:29:27.922561Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1049A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
@@ -17,5 +21,5 @@
  "Summary":"Requires school districts to have diversity, equity and inclusion officers to develop methods to diversify the personnel of the school district and to recommend changes to district policies and practices to reduce racial disparities in hiring school district employees, particularly teachers; requires boards of education to annually report information regarding such policies and practices to the department of education; requires the department of education to annually report such information to the legislature.",
  "LawSection":"Education Law","LawCode":"Amd Ed L, generally",
  "ActClause":"AN ACT to amend the education law, in relation to school district diversity, equity and inclusion officers",
- "PreviousVersions":["A6204-2021","A4012-2023"]
+ "SameAsPrintNo":"S5088-2025","PreviousVersions":["A6204-2021","A4012-2023"]
 }
