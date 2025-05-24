@@ -1,13 +1,17 @@
 {
- "PrintNo":"A4759","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-06T10:37:37.844483Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-06","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4759","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-06T10:37:37.844483Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4759A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"}],
  "Title":"Relating to medical use of cannabis, to the effectiveness thereof and to the controlled substances therapeutic research act; repealer",
- "Summary":"Relates to the medical use of cannabis; relates to the effectiveness thereof; relates to the controlled substances therapeutic research act.",
+ "Summary":"Relates to the medical use of cannabis; repeals controlled substances therapeutic research act.",
  "LawSection":"Cannabis Law",
- "LawCode":"Amd §§3, 30, 31, 32, 34, 37, 41 & 42, add §32-a, Cannabis L; rpld Art 33-A, Pub Health L; amd §12, Chap 90 of 2014",
- "ActClause":"AN ACT to amend the cannabis law, in relation to medical use cannabis; to amend chapter 90 of the laws of 2014 amending the public health law, the tax law, the state finance law, the general business law, the penal law and the criminal procedure law relating to medical use of marihuana, in relation to the effectiveness thereof; and to repeal article 33-A of the public health law relating to the controlled substances therapeutic research act",
- "SameAsPrintNo":"S3294-2025","PreviousVersions":["A7826-2023"]
+ "LawCode":"Amd §§3, 30, 31, 32, 34, 37, 41 & 42, add §32-a, Cannabis L; rpld Art 33-A, Pub Health L",
+ "ActClause":"AN ACT to amend the cannabis law, in relation to medical use cannabis; and to repeal article 33-A of the public health law relating to the controlled substances therapeutic research act",
+ "PreviousVersions":["A7826-2023"]
 }

@@ -1,11 +1,13 @@
 {
- "PrintNo":"S5381","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S5381","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-02-21T09:35:49.416551Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-09","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-21","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-04-09","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 5381A","Date":"2025-04-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 5381A","Date":"2025-04-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 5381B","Date":"2025-05-20","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -16,5 +18,5 @@
  "Summary":"Requires every food establishment to label all prepackaged food with a written notification on the package or on a label attached to the package identifying any ingredient with which a product is made that constitutes a major food allergen.",
  "LawSection":"Public Health Law","LawCode":"Add §1357, Pub Health L; add §199-g, Ag & Mkts L",
  "ActClause":"AN ACT to amend the public health law and the agriculture and markets law, in relation to requiring allergen labeling for prepackaged foods",
- "PreviousVersions":["S6820-2023"]
+ "SameAsPrintNo":"A6558-2025","PreviousVersions":["S6820-2023"]
 }

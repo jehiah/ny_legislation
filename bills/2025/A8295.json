@@ -1,11 +1,18 @@
 {
- "PrintNo":"A8295","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-12T17:10:53.454539Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-12","Committee":"Science And Technology"}],
- "Actions":[{"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-05-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8295","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-12T17:10:53.454539Z","Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Science And Technology"}],
+ "Actions":[
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO SCIENCE AND TECHNOLOGY","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8295A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO SCIENCE AND TECHNOLOGY","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 8295B","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"B"}
+ ],
  "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Relates to automated decision-making by government agencies",
  "Summary":"Regulates automated decision-making by government agencies; requires agencies to conduct impact assessments; requires disclosure of automated decision-making tools utilized by governmental agencies.",
- "LawSection":"State Technology Law","LawCode":"Add Art 5 §§501 - 504, §103-f, St Tech L",
- "ActClause":"AN ACT to amend the state technology law, in relation to automated decision-making by government agencies"
+ "LawSection":"State Technology Law",
+ "LawCode":"Add Art 5 §§501 - 504, §103-f, St Tech L; amd §§2510, 2588 & 3013, add §115, Ed L; amd §80, Civ Serv L",
+ "ActClause":"AN ACT to amend the state technology law, the education law and the civil service law, in relation to automated decision-making by government agencies"
 }
