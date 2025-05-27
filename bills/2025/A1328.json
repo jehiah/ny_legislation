@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1328","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T11:27:30.228427Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-01-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1328","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-09T11:27:30.228427Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Economic Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1328A","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},
   {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":1477,"Name":"Amanda Septimo","Short":"SEPTIMO"},
@@ -14,11 +18,11 @@
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},
   {"ID":457,"Name":"Vivian Cook","Short":"COOK"},{"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},
-  {"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"}
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
  ],
  "Title":"Establishes supermarket wine licenses",
  "Summary":"Establishes supermarket wine licenses to sell from the licensed premises wine in sealed containers for consumption off such premises.",
- "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§3, 75, 83, 100 & 102, add §79-e, ABC L",
+ "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§3, 75, 83, 100, 102 & 63, add §79-e, ABC L",
  "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to establishing supermarket wine licenses",
- "SameAsPrintNo":"S1279-2025","PreviousVersions":["A6989-2023"]
+ "PreviousVersions":["A6989-2023"]
 }

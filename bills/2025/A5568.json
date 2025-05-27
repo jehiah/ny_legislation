@@ -1,12 +1,16 @@
 {
- "PrintNo":"A5568","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-14T10:34:08.384501Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-14","Committee":"Cities"}],
- "Actions":[{"Text":"REFERRED TO CITIES","Date":"2025-02-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5568","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-14T10:34:08.384501Z","Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Cities"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES","Date":"2025-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CITIES","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5568A","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}],
  "Title":"Relates to enacting the \"New York city small business rent stabilization act\"",
  "Summary":"Enacts the \"New York city small business rent stabilization act\" instituting a commercial rent control system in the city of New York; creates the commercial rent guidelines board.",
- "LawSection":"New York City Administrative Code","LawCode":"Add Title 22 Chap 14 §§22-1401 - 22-1413, NYC Ad Cd",
+ "LawSection":"New York City Administrative Code","LawCode":"Add Title 22 Chap 15 §§22-1501 - 22-1513, NYC Ad Cd",
  "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to enacting the \"New York city small business rent stabilization act\"",
  "PreviousVersions":["A10281-2019","A1192-2021","A4255-2023"]
 }

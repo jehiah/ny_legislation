@@ -1,13 +1,18 @@
 {
- "PrintNo":"A3280","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T10:39:41.867838Z",
- "Status":"ASSEMBLY_FLOOR",
+ "PrintNo":"A3280","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-27T10:39:41.867838Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-19"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"},{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Insurance"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-27","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.150","Date":"2025-05-15","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.150","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING (T) 3280A","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -40,9 +45,9 @@
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
   {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"}
  ],
- "Title":"Requires insurance policies to provide coverage for transvaginal ultrasounds during pregnancy",
+ "Title":"Enacts the \"Eli Parker Levitt Law\"",
  "Summary":"Requires insurance policies to provide coverage for transvaginal ultrasounds during pregnancy.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to requiring insurance policies to provide coverage for transvaginal ultrasounds during pregnancy",
- "PreviousVersions":["A7741-2021","A6042-2023"]
+ "SameAsPrintNo":"S3323-2025","PreviousVersions":["A7741-2021","A6042-2023"]
 }

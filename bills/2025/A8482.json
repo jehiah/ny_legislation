@@ -1,13 +1,19 @@
 {
  "PrintNo":"A8482","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-16T17:57:01.528308Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"}],
+ "Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"},{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Labor"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-05-16","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-21","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.255","Date":"2025-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.255","Date":"2025-05-21","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.255","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO LABOR","Date":"2025-05-27","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -68,7 +74,8 @@
  ],
  "Sponsors":[
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
-  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Prohibits insurance carriers and employers from withholding certain benefits from injured workers based on attachment to the labor market",
  "Summary":"Prohibits insurance carriers and employers from withholding certain benefits from injured workers based on a claim that such workers have voluntarily withdrawn from the labor market by not seeking alternate employment that their injury or illness does not preclude them from performing.",

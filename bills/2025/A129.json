@@ -1,13 +1,37 @@
 {
  "PrintNo":"A129","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-23T11:40:07.225413Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Education"}],
+ "Published":"2024-12-23T11:40:07.225413Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2025-02-13","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 129A","Date":"2025-02-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 129B","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 129B","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-27","Chamber":"ASSEMBLY","Committee":"EDUCATION",
+   "Votes":[
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1089,"Short":"HYNDMAN","Vote":"Excused"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
@@ -25,5 +49,5 @@
  "LawSection":"Education Law",
  "LawCode":"Amd Ed L, generally; amd §§2 & 803, Cor L; amd §§9-151, 21-408, 21-703, 21-902.1, 21-924 & 9-137, NYC Ad Cd; amd §58, Civ Serv L; amd §532-d, Exec L; amd §42, Lab L; amd §3.23, Pks & Rec L; amd §§335, 335-a, 336 & 336-a, Soc Serv L; amd §§97-hhh & 97-jjjj, St Fin L",
  "ActClause":"AN ACT to amend the education law, the correction law, the administrative code of the city of New York, the civil service law, the executive law, the labor law, the parks, recreation and historic preservation law, the social services law and the state finance law, in relation to changing the name of the general education development diploma to the Excelsior diploma",
- "PreviousVersions":["A9555-2023"]
+ "SameAsPrintNo":"S5067-2025","PreviousVersions":["A9555-2023"]
 }

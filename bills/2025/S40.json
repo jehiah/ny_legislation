@@ -1,16 +1,20 @@
 {
- "PrintNo":"S40","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-17T12:11:43.031113Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S40","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-17T12:11:43.031113Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 40A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"},
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
  ],
- "Title":"Designates a portion of the state highway system as the \"War Dog Memorial Highway\"",
- "Summary":"Designates a portion of the state highway system in the village of Herkimer, county of Herkimer, as the \"War Dog Memorial Highway\".",
- "LawSection":"Highway Law","LawCode":"Add §344-r, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to designating a portion of the state highway system as the \"War Dog Memorial Highway\"",
+ "Title":"Dedicates a portion of the state highway system to War Dogs",
+ "Summary":"Dedicates a portion of the state highway system to War Dogs.","LawSection":"Highway Law",
+ "LawCode":"Add §344-r, Hway L",
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to War Dogs",
  "SameAsPrintNo":"A2647-2025","PreviousVersions":["S3037-2023"]
 }

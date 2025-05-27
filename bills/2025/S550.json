@@ -1,11 +1,7 @@
 {
- "PrintNo":"S550","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T11:29:53.345534Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Children And Families",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-15"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-19"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Children And Families"}
- ],
+ "PrintNo":"S550","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T11:29:53.345534Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-21","Chamber":"SENATE"},
@@ -14,7 +10,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-19","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-19","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-05-19","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 550A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -137,7 +137,7 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to the administration of the statewide central register of child abuse and maltreatment",
- "Summary":"Requires a caller making a report of suspected child abuse or maltreatment to the central registry to leave their name and contact information; prohibits the office of children and family services from releasing information identifying a person who made such a report.",
+ "Summary":"Requires a caller making a report of suspected child abuse or maltreatment to the central register to leave their name and contact information; prohibits the office of children and family services from releasing information identifying a person who made such a report.",
  "LawSection":"Social Services Law","LawCode":"Amd §422, Soc Serv L",
  "ActClause":"AN ACT to amend the social services law, in relation to the administration of the statewide central register of child abuse and maltreatment",
  "SameAsPrintNo":"A66-2025","PreviousVersions":["S7326-2021","S902-2023"]

@@ -1,13 +1,14 @@
 {
- "PrintNo":"S1222","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T14:45:44.787464Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "PrintNo":"S1222","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T14:45:44.787464Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
  "Actions":[
   {"Text":"REFERRED TO DISABILITIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1213","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1222A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -59,8 +60,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to a review of reimbursement adequacy for early intervention services",
- "Summary":"Directs the commissioner of health to do a comprehensive assessment of the existing methodology used to determine payment for early intervention screenings, evaluations, services and service coordination; directs recommendations on reimbursement methodology as well as needs under the program.",
+ "Summary":"Directs the commissioner of health to contract with an independent entity to conduct a comprehensive assessment of the existing methodology used to determine payment for early intervention screenings, evaluations, services and service coordination; directs recommendations on reimbursement methodology as well as needs under the program.",
  "LawSection":"Public Health Law","LawCode":"Add §2557-a, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to a review and recommendations of reimbursement adequacy and other matters relating to early intervention",
- "PreviousVersions":["S5676-2021","S1198-2023"]
+ "SameAsPrintNo":"A283-2025","PreviousVersions":["S5676-2021","S1198-2023"]
 }

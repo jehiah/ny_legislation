@@ -1,13 +1,14 @@
 {
- "PrintNo":"S1849","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T10:01:00.505636Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"}],
+ "PrintNo":"S1849","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-14T10:01:00.505636Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.527","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-12","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1849A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -70,5 +71,5 @@
  "Summary":"Requires more specific data reporting by the chief administrator to include information relating to all courts in the unified court system, including town and village courts.",
  "LawSection":"Judiciary Law","LawCode":"Amd §212, Judy L",
  "ActClause":"AN ACT to amend the judiciary law, in relation to requiring data reporting by the chief administrator to delineate specific information relating to all courts in the unified court system, including town and village courts",
- "SameAsPrintNo":"A3499-2025","PreviousVersions":["S6210-2023"]
+ "PreviousVersions":["S6210-2023"]
 }

@@ -1,11 +1,13 @@
 {
- "PrintNo":"A86","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A86","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2024-12-20T09:55:53.50686Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-21","Committee":"Housing"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Housing"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HOUSING","Date":"2025-03-21","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 86A","Date":"2025-03-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 86A","Date":"2025-03-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HOUSING","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 86B","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
@@ -16,8 +18,9 @@
  ],
  "Title":"Relates to surcharges for the installation or use of certain appliances in housing accommodations subject to rent control and rent stabilization",
  "Summary":"Prohibits the imposition of any surcharge for the installation or use of a tenant-installed appliance where the tenant pays for electric utility service, under rent control, and rent stabilization laws.",
- "LawSection":"New York City Administrative Code","LawCode":"Add §§26-416.1 & 26-512.1, NYC Ad Cd",
- "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to surcharges for the installation or use of certain appliances in housing accommodations subject to rent control or rent stabilization",
+ "LawSection":"New York City Administrative Code",
+ "LawCode":"Add §§26-416.1, amd §26-512, NYC Ad Cd; amd §6, Emerg Ten Prot Act of 1974; amd §4, Emerg Hous Rent Cont L",
+ "ActClause":"AN ACT to amend the administrative code of the city of New York, the emergency tenant protection act of nineteen seventy-four and the emergency housing rent control law, in relation to surcharges for the installation or use of certain appliances in housing accommodations subject to rent control or rent stabilization",
  "SameAsPrintNo":"S6718-2025",
  "PreviousVersions":["A555-2013","A1795-2015","A1093-2017","A3170-2019","A1436-2021","A689-2023"]
 }

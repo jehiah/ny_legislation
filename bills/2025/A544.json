@@ -1,13 +1,14 @@
 {
- "PrintNo":"A544","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A544","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-06T12:27:33.877585Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-28","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-13"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-28","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-02-28","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 544A","Date":"2025-02-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2025-03-11","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.54","Date":"2025-03-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.54","Date":"2025-03-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 544B","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -38,5 +39,5 @@
  "Summary":"Requires police officers to take temporary custody of firearms for not less than one hundred twenty hours when responding to reports of family violence.",
  "LawSection":"Criminal Procedure Law","LawCode":"Amd §140.10, CP L",
  "ActClause":"AN ACT to amend the criminal procedure law, in relation to requiring police officers to take temporary custody of firearms when responding to reports of family violence",
- "PreviousVersions":["A5455-2021","A2413-2023"]
+ "SameAsPrintNo":"S1985-2025","PreviousVersions":["A5455-2021","A2413-2023"]
 }

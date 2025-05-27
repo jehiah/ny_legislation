@@ -1,7 +1,10 @@
 {
  "PrintNo":"A1248","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-09T10:51:48.032481Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-22"}],
+ "Published":"2025-01-09T10:51:48.032481Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-22"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"},
@@ -21,7 +24,9 @@
   {"Text":"RECALLED FROM SENATE","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 1248B","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 1248B","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -235,7 +240,8 @@
   {"ID":1528,"Name":"Lester Chang","Short":"CHANG"},{"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"},
   {"ID":1529,"Name":"Samuel Pirozzolo","Short":"PIROZZOLO"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
-  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
  ],
  "Title":"Prohibits the sale of xylazine above a certain weight",
  "Summary":"Prohibits the knowing sale of xylazine above a certain weight to persons under the age of 21 and without proof of the intended use for institutional, veterinary, or scientific purposes.",

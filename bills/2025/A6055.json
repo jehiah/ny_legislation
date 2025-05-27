@@ -1,8 +1,12 @@
 {
- "PrintNo":"A6055","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-26T12:14:17.729752Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-26","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-02-26","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6055","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-26T12:14:17.729752Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6055A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},

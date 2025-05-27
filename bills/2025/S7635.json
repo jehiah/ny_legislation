@@ -1,14 +1,31 @@
 {
- "PrintNo":"S7635","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-24T11:03:30.944177Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "PrintNo":"S7635","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-24T11:03:30.944177Z","Status":"IN_SENATE_COMM","Committee":"Finance",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-24","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7635A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-27","Chamber":"SENATE","Committee":"Civil Service And Pensions",
+   "Votes":[
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"}],
  "Title":"Relates to the retirement of state, county and municipal 911 operators and dispatchers",
  "Summary":"Establishes an optional twenty-five year retirement plan for certain public safety dispatchers, public safety telecommunicators, 911 operators, communications officers, police communication technicians, emergency services operators and emergency services dispatchers employed by the state, or a county or municipal emergency services department.",
- "LawSection":"Retirement and Social Security Law","LawCode":"Add §89-y, amd §§445, 603 & 604, R & SS L",
- "ActClause":"AN ACT to amend the retirement and social security law, in relation to the retirement of state, county and municipal 911 operators and dispatchers"
+ "LawSection":"Retirement and Social Security Law","LawCode":"Add §89-z, amd §§445, 603 & 604, R & SS L",
+ "ActClause":"AN ACT to amend the retirement and social security law, in relation to the retirement of state, county and municipal 911 operators and dispatchers",
+ "SameAsPrintNo":"A8259-2025"
 }

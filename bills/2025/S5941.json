@@ -1,8 +1,12 @@
 {
- "PrintNo":"S5941","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T09:52:20.22651Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-03-04","Chamber":"SENATE"}],
+ "PrintNo":"S5941","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-04T09:52:20.22651Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5941A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},
@@ -13,6 +17,7 @@
  ],
  "Title":"Requires peer-to-peer car sharing programs provide certain insurance coverage",
  "Summary":"Requires peer-to-peer car sharing programs provide insurance coverage in amounts equal to the financial responsibility requirements set forth in section three hundred eleven of the vehicle and traffic law; removes requirements relating to requiring additional insurance coverage.",
- "LawSection":"General Business Law","LawCode":"Amd §901, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to requiring peer-to-peer car sharing programs provide certain insurance coverage"
+ "LawSection":"General Business Law","LawCode":"Amd §§901 & 905, Gen Bus L; amd §2131, Ins L",
+ "ActClause":"AN ACT to amend the general business law and the insurance law, in relation to requiring peer-to-peer car sharing programs provide certain insurance coverage",
+ "SameAsPrintNo":"A6576-2025"
 }

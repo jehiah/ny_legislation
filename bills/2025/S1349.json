@@ -1,10 +1,7 @@
 {
- "PrintNo":"S1349","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T11:36:04.59194Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-05-08"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-22"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Education"}
- ],
+ "PrintNo":"S1349","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T11:36:04.59194Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-04-25","Chamber":"SENATE"},
@@ -16,7 +13,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO EDUCATION","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 1349B","Date":"2025-05-27","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -108,8 +107,8 @@
  ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Requires school districts to provide information regarding water safety and swimming certification to certain parents or students upon enrollment",
- "Summary":"Requires school districts to provide information regarding water safety and swimming certification to certain parents or students upon enrollment; defines \"water safety\".",
- "LawSection":"Education Law","LawCode":"Add §926, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to requiring school districts to provide information regarding water safety and swimming certification to certain parents or students upon enrollment",
- "PreviousVersions":["S9311-2023"]
+ "Summary":"Requires school districts to provide information regarding water safety and swimming certification to certain parents or students upon enrollment; relates to promoting public awareness of the dangers of fatal and non-fatal drowning.",
+ "LawSection":"Education Law","LawCode":"Add §926, Ed L; amd §207, Pub Health L",
+ "ActClause":"AN ACT to amend the education law, in relation to requiring school districts to provide information regarding water safety and swimming certification to certain parents or students upon enrollment; and to amend the public health law, in relation to promoting public awareness of the dangers of fatal and non-fatal drowning",
+ "SameAsPrintNo":"A3515-2025","PreviousVersions":["S9311-2023"]
 }

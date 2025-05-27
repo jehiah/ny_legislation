@@ -1,9 +1,9 @@
 {
- "PrintNo":"S4906","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T10:10:19.245907Z",
- "Status":"PASSED_SENATE",
+ "PrintNo":"S4906","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-14T10:10:19.245907Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-10"},{"Type":"PASSED_SENATE","Date":"2025-05-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-14","Chamber":"SENATE"},
@@ -11,7 +11,12 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-04-09","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-22","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 4906A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

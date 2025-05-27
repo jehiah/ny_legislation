@@ -1,15 +1,16 @@
 {
- "PrintNo":"S2317","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T13:03:37.961172Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S2317","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-16T13:03:37.961172Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-16","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1146","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 2317A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,9 +31,10 @@
   {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Relates to preventing certain elected officials from being a member of an agency; repealer",
- "Summary":"Prevents certain elected officials from being a member of an agency.","LawSection":"General Municipal Law",
- "LawCode":"Rpld §856 sub 4, amd §856, Gen Muni L",
- "ActClause":"AN ACT to amend the general municipal law, in relation to preventing certain elected officials from being a member of an agency; and to repeal subdivision 4 of section 856 of such law relating thereto",
- "SameAsPrintNo":"A931-2025","PreviousVersions":["S4678-2019","S1769-2021","S1716-2023"]
+ "Title":"Relates to preventing certain elected officials from being a member of an agency or industrial development authority; repealer",
+ "Summary":"Prevents certain elected officials from being a member of an agency or industrial development authority.",
+ "LawSection":"General Municipal Law",
+ "LawCode":"Rpld §856 sub 4, amd §856, Gen Muni L; amd §§1952 & 2304, Pub Auth L",
+ "ActClause":"AN ACT to amend the general municipal law and the public authorities law, in relation to preventing certain elected officials from being a member of an agency or industrial development authority; and to repeal subdivision 4 of section 856 of the general municipal law relating thereto",
+ "PreviousVersions":["S4678-2019","S1769-2021","S1716-2023"]
 }

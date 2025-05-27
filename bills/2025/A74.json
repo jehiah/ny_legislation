@@ -1,12 +1,13 @@
 {
  "PrintNo":"A74","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-20T09:48:56.51807Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Ways And Means"}],
+ "Published":"2024-12-20T09:48:56.51807Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-02-25","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-15","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 74A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 74A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -18,6 +19,35 @@
     {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
     {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
     {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-27","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Excused"},{"ID":896,"Short":"WALKER","Vote":"Excused"},
+    {"ID":900,"Short":"DILAN","Vote":"Absent"}
    ]
   }
  ],
@@ -38,7 +68,8 @@
   {"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
   {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":534,"Name":"Michael Benedetto","Short":"BENEDETTO"},
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
-  {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}
+  {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
+  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"}
  ],
  "Title":"Establishes a real property tax exemption for veterans with a 100 percent service connected disability",
  "Summary":"Establishes a real property tax exemption for the primary residence of veterans with a 100 percent service connected disability.",

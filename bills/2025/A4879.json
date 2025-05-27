@@ -1,8 +1,12 @@
 {
- "PrintNo":"A4879","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-07T16:00:58.019098Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-07","Committee":"Correction"}],
- "Actions":[{"Text":"REFERRED TO CORRECTION","Date":"2025-02-07","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4879","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-07T16:00:58.019098Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Correction"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORRECTION","Date":"2025-02-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4879A","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
@@ -34,7 +38,7 @@
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}
  ],
  "Title":"Relates to the health, safety and human rights of incarcerated pregnant individuals, incarcerated birthing parents of children and their children",
- "Summary":"Relates to the health, safety and human rights of incarcerated pregnant individuals, incarcerated birthing parents and their children.",
+ "Summary":"Relates to the health, safety and human rights of incarcerated pregnant individuals, incarcerated birthing parents and their children; requires the commissioner of corrections and community supervision to establish rules and regulations relating to conditions in institutions and correctional facilities and the treatment and care of birthing parents in such institutions and facilities.",
  "LawSection":"Correction Law","LawCode":"Amd §§611 & 2, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to promoting the health, safety, and human rights of incarcerated pregnant individuals, incarcerated birthing parents of children and their children",
  "SameAsPrintNo":"S4583-2025","PreviousVersions":["A7630-2023"]

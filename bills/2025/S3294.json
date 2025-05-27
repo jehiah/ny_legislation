@@ -1,10 +1,7 @@
 {
- "PrintNo":"S3294","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T15:01:06.572819Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-15"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-19"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Health"}
- ],
+ "PrintNo":"S3294","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T15:01:06.572819Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1084","Date":"2025-05-13","Chamber":"SENATE"},
@@ -14,7 +11,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-19","Chamber":"SENATE"},
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-19","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 3294A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -104,10 +103,10 @@
   }
  ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
- "Title":"Relating to medical use of cannabis, to the effectiveness thereof and to the controlled substances therapeutic research act; repealer",
- "Summary":"Relates to the medical use of cannabis; relates to the effectiveness thereof; relates to the controlled substances therapeutic research act.",
+ "Title":"Relating to medical use of cannabis and to the controlled substances therapeutic research act; repealer",
+ "Summary":"Relates to the medical use of cannabis; repeals controlled substances therapeutic research act.",
  "LawSection":"Cannabis Law",
- "LawCode":"Amd §§3, 30, 31, 32, 34, 37, 41 & 42, add §32-a, Cannabis L; rpld Art 33-A, Pub Health L; amd §12, Chap 90 of 2014",
- "ActClause":"AN ACT to amend the cannabis law, in relation to medical use cannabis; to amend chapter 90 of the laws of 2014 amending the public health law, the tax law, the state finance law, the general business law, the penal law and the criminal procedure law relating to medical use of marihuana, in relation to the effectiveness thereof; and to repeal article 33-A of the public health law relating to the controlled substances therapeutic research act",
- "PreviousVersions":["S4169-2021","S2566-2023"]
+ "LawCode":"Amd §§3, 30, 31, 32, 34, 37, 41 & 42, add §32-a, Cannabis L; rpld Art 33-A, Pub Health L",
+ "ActClause":"AN ACT to amend the cannabis law, in relation to medical use cannabis; and to repeal article 33-A of the public health law relating to the controlled substances therapeutic research act",
+ "SameAsPrintNo":"A4759-2025","PreviousVersions":["S4169-2021","S2566-2023"]
 }
