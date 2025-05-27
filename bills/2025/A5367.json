@@ -1,12 +1,20 @@
 {
  "PrintNo":"A5367","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-13T15:37:47.43132Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
+ "Published":"2025-02-13T15:37:47.43132Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-27"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-13","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-16","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 5367A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.266","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.266","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,7 +36,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
+ "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}],
  "Title":"Relates to high deductible health plans and health savings accounts",
  "Summary":"Relates to cost sharing requirements for high deductible health plans and health savings accounts.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",

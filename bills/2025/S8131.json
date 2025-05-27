@@ -1,11 +1,35 @@
 {
  "PrintNo":"S8131","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T18:59:13.849606Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-05-15","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1302","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-27","Chamber":"SENATE","Committee":"Labor",
+   "Votes":[
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
  "Title":"Relates to payment of certain awards for disability",
  "Summary":"Includes the unaccrued portion of a non-schedule award in the amounts to be payable to and for the benefit of certain persons where a claimant was entitled to death benefits at the time of death.",
  "LawSection":"Workers' Compensation Law","LawCode":"Amd §15, Work Comp L",
- "ActClause":"AN ACT to amend the workers' compensation law, in relation to payment of certain awards for disability"
+ "ActClause":"AN ACT to amend the workers' compensation law, in relation to payment of certain awards for disability",
+ "SameAsPrintNo":"A8480-2025"
 }

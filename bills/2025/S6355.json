@@ -1,9 +1,15 @@
 {
  "PrintNo":"S6355","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-11T14:32:21.599223Z",
- "Status":"IN_SENATE_COMM","Committee":"New York City Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"New York City Education"}],
- "Actions":[{"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-03-11","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"New York City Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-03-11","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1307","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Relates to the qualifications to serve as a member of the citywide council on English language learners and of the citywide council on high schools",
  "Summary":"Allows parents of a child who has ever received services through an English as a second language program to serve as a member of the citywide council on English language learners and of the citywide council on high schools even if the child is no longer enrolled.",
  "LawSection":"Education Law","LawCode":"Amd §2590-b, Ed L",

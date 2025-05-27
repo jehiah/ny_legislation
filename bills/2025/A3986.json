@@ -1,12 +1,20 @@
 {
  "PrintNo":"A3986","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T15:08:23.525122Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
+ "Published":"2025-01-30T15:08:23.525122Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-27"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-16","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 3986A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.263","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.263","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

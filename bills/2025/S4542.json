@@ -1,8 +1,14 @@
 {
  "PrintNo":"S4542","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-06T14:16:01.274366Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-06","Committee":"Civil Service And Pensions"}],
- "Actions":[{"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-06","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-06","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1311","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Authorizes Justin Finkle to take the competitive civil service examination for the position of police officer and be placed on the eligible list for employment as a police officer for the Albany county sheriff",
  "Summary":"Authorizes Justin Finkle to take the competitive civil service examination for the position of police officer and be placed on the eligible list for employment as a full-time police officer for the Albany county sheriff's office; requires that Justin Finkle be otherwise subject to the merit and fitness provisions of the civil service law applicable to full-time police officers.",

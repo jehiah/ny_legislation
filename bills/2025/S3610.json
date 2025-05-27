@@ -1,13 +1,14 @@
 {
- "PrintNo":"S3610","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T08:57:20.176252Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S3610","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-29T08:57:20.176252Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Mental Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-29","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1269","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"AMENDED (T) 3610A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -32,9 +33,9 @@
   {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"},{"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Creates the rural suicide prevention council",
- "Summary":"Creates the twelve member rural suicide prevention council to examine the causes of rural suicides or attempts and to make recommendations for rural suicide reduction.",
- "LawSection":"Mental Hygiene Law","LawCode":"Add §7.48, Ment Hyg L",
- "ActClause":"AN ACT to amend the mental hygiene law, in relation to creating the rural suicide prevention council",
- "PreviousVersions":["S5453-2021","S3587-2023"]
+ "Title":"Establishes the rural suicide prevention council",
+ "Summary":"Establishes the rural suicide prevention council to identify barriers to mental health and substance use treatment and prevention services and other policies, practices, resources, services, and potential legislation that aim to reduce death by suicide and suicide attempts and acknowledge the demographic and cultural differences in rural communities; makes related provisions.",
+ "LawSection":"Mental Hygiene Law","LawCode":"Add §7.49, Ment Hyg L",
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing the rural suicide prevention council; and providing for the repeal of such provisions upon expiration thereof",
+ "SameAsPrintNo":"A8434-2025","PreviousVersions":["S5453-2021","S3587-2023"]
 }

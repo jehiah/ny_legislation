@@ -1,8 +1,25 @@
 {
  "PrintNo":"S6719","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-20T15:48:43.448615Z",
- "Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-20","Committee":"Disabilities"}],
- "Actions":[{"Text":"REFERRED TO DISABILITIES","Date":"2025-03-20","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO DISABILITIES","Date":"2025-03-20","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO NEW YORK CITY EDUCATION","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO EDUCATION","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE","Committee":"Disabilities",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Provides for determinations of appropriate educational programs for certain students in N.Y. city",
  "Summary":"Relates to determinations of appropriate educational programs for certain students in a school district in a city having a population of one million or more.",

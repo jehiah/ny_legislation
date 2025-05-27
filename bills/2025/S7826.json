@@ -1,11 +1,15 @@
 {
  "PrintNo":"S7826","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T11:25:38.162034Z",
- "Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Disabilities"}],
- "Actions":[{"Text":"REFERRED TO DISABILITIES","Date":"2025-05-09","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Disabilities"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
+ "Actions":[
+  {"Text":"REFERRED TO DISABILITIES","Date":"2025-05-09","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1293","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Directs school districts to establish parent advisory councils on special education",
  "Summary":"Directs school districts to establish parent advisory councils on special education to advise on matters that pertain to the education and safety of students with disabilities, and meet regularly with school officials to participate in the planning, development, and evaluation of the school district's special education programs.",
- "LawSection":"Education Law",
- "ActClause":"AN ACT to amend the education law, in relation to directing school districts to establish parent advisory councils on special education"
+ "LawSection":"Education Law","LawCode":"Amd §4402, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to directing school districts to establish parent advisory councils on special education",
+ "SameAsPrintNo":"A8633-2025"
 }

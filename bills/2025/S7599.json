@@ -3,7 +3,10 @@
  "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Internet And Technology"}],
  "Actions":[{"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-04-23","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
+ "Sponsors":[
+  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+ ],
  "Title":"Relates to automated decision-making by government agencies",
  "Summary":"Regulates automated decision-making by government agencies; requires agencies to conduct impact assessments; requires disclosure to the legislature of automated decision-making systems utilized by governmental agencies.",
  "LawSection":"State Technology Law","LawCode":"Add Art 5 §§501 - 504, St Tech L",

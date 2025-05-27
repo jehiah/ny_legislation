@@ -6,7 +6,21 @@
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-20","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-02","Chamber":"SENATE"}
  ],
- "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-02","Chamber":"SENATE","Committee":"Civil Service And Pensions",
+   "Votes":[
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to procedures to be followed in appointing a hearing officer for removal and disciplinary action against certain public employees",
  "Summary":"Provides procedures to be followed in appointing a hearing officer for removal and disciplinary action against certain public employees not in the service of the city of New York, including the fees to be paid for such hearing officer; provides for suspension, with pay, pending the determination.",
  "LawSection":"Civil Service Law","LawCode":"Amd §75, Civ Serv L",

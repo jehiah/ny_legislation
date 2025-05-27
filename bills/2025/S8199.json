@@ -1,8 +1,11 @@
 {
  "PrintNo":"S8199","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-20T12:21:09.43918Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-05-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1289","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],
  "Title":"Directs the department of financial services to conduct a study on the banking development district program and to make recommendations to improve such program",
  "Summary":"Directs the department of financial services to conduct a study on the banking development district program and to make recommendations to improve such program.",

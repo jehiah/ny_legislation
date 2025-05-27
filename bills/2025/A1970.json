@@ -1,10 +1,21 @@
 {
- "PrintNo":"A1970","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T12:05:29.63987Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Codes"}],
+ "PrintNo":"A1970","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T12:05:29.63987Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-27"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-14","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-08","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-04-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1970A","Date":"2025-04-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.258","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.258","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -24,6 +35,35 @@
     {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
     {"ID":1258,"Short":"SAYEGH","Vote":"Excused"},{"ID":1482,"Short":"KELLES","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Excused"},{"ID":1482,"Short":"KELLES","Vote":"Excused"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Excused"},{"ID":1257,"Short":"REYES","Vote":"Absent"}
+   ]
   }
  ],
  "Sponsors":[
@@ -34,8 +74,8 @@
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"}
  ],
  "Title":"Relates to the collection and reporting of sexual offense evidence on the statewide electronic tracking system",
- "Summary":"Requires the collection and reporting of sexual offense evidence on the statewide electronic tracking system within three days of permission to release the evidence by the alleged sexual offense victim; relates to additional rules and guidelines.",
+ "Summary":"Requires the collection and reporting of sexual offense evidence on the statewide electronic tracking system within seven days of permission to release the evidence by the alleged sexual offense victim; relates to additional rules and guidelines.",
  "LawSection":"Public Health Law","LawCode":"Amd §2805-i, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to collecting and reporting sexual offense evidence on the statewide electronic tracking system",
- "PreviousVersions":["A10317-2023"]
+ "SameAsPrintNo":"S5225-2025","PreviousVersions":["A10317-2023"]
 }

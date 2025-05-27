@@ -1,10 +1,13 @@
 {
  "PrintNo":"A8153","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-02T15:08:02.450564Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-27"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-02","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-06","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.275","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.275","Date":"2025-05-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -25,5 +28,6 @@
  "Title":"Extends certain provision of law relating to value limitations for certain emergency contracts for public works or the purchase of supplies",
  "Summary":"Extends certain provisions of law relating to value limitations for certain emergency contracts for public works or the purchase of supplies.",
  "LawSection":"Public Buildings","LawCode":"Amd §3, Chap 674 of 1993",
- "ActClause":"AN ACT to amend chapter 674 of the laws of 1993, amending the public buildings law relating to value limitations on contracts, in relation to extending such provisions thereof"
+ "ActClause":"AN ACT to amend chapter 674 of the laws of 1993, amending the public buildings law relating to value limitations on contracts, in relation to extending such provisions thereof",
+ "SameAsPrintNo":"S8230-2025"
 }

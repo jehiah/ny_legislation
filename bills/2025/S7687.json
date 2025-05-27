@@ -1,11 +1,17 @@
 {
- "PrintNo":"S7687","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-29T16:07:25.528377Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-29","Chamber":"SENATE"}],
+ "PrintNo":"S7687","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-29T16:07:25.528377Z","Status":"IN_SENATE_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7687A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"}],
  "Title":"Authorizes the dormitory authority to provide financing to SB Clinical Practice Management Plan, Inc. for the construction of facilities",
  "Summary":"Authorizes the dormitory authority to provide financing to SB Clinical Practice Management Plan, Inc. for the construction of facilities.",
  "LawSection":"Public Authorities Law","LawCode":"Amd §§1676 & 1680, Pub Auth L",
- "ActClause":"AN ACT to amend the public authorities law, in relation to authorizing the dormitory authority to provide financing to SB Clinical Practice Management Plan, Inc. for the construction of facilities"
+ "ActClause":"AN ACT to amend the public authorities law, in relation to authorizing the dormitory authority to provide financing to SB Clinical Practice Management Plan, Inc. for the construction of facilities",
+ "SameAsPrintNo":"A8374-2025"
 }

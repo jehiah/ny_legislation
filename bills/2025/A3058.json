@@ -1,11 +1,16 @@
 {
- "PrintNo":"A3058","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-23T12:12:05.600948Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-23","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-23","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3058","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-23T12:12:05.600948Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3058A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
-  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
  ],
  "Title":"Promotes consumer choice by requiring manufacturers of digital electronic equipment to provide retail sellers with a one through ten repair score that will be displayed to consumers at point of sale",
  "Summary":"Promotes consumer choice by requiring manufacturers of digital electronic equipment to provide retail sellers with a one through ten repair score that will be displayed to consumers at point of sale.",

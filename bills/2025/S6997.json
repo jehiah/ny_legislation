@@ -1,10 +1,12 @@
 {
- "PrintNo":"S6997","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-28T10:53:16.036001Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Finance"}],
+ "PrintNo":"S6997","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-28T10:53:16.036001Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-28","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-13","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6997A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,7 +37,8 @@
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}
  ],
  "Title":"Relates to enforcement of pole attachment safety and quality",
- "Summary":"Relates to enforcement of pole attachment safety and quality.","LawSection":"Public Service Law",
- "LawCode":"Add §119-e, Pub Serv L; add §109-e, Gen Muni L",
- "ActClause":"AN ACT to amend the public service law and the general municipal law, in relation to enforcement of pole attachment safety and quality"
+ "Summary":"Relates to enforcement of pole attachment safety and quality and utility pole and attachment identification.",
+ "LawSection":"Public Service Law","LawCode":"Add §119-e, Pub Serv L; add §109-e, Gen Muni L",
+ "ActClause":"AN ACT to amend the public service law and the general municipal law, in relation to enforcement of pole attachment safety and quality",
+ "SameAsPrintNo":"A7544-2025"
 }

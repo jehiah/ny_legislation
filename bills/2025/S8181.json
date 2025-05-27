@@ -1,8 +1,14 @@
 {
  "PrintNo":"S8181","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-19T15:49:50.310916Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Civil Service And Pensions"}],
- "Actions":[{"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-19","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1313","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Extends the September 11th worker protection task force act",
  "Summary":"Extends the effectiveness of the September 11th worker protection task force act.",

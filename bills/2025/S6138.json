@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6138","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-05T14:37:57.792293Z",
- "Status":"IN_SENATE_COMM","Committee":"New York City Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"New York City Education"}],
- "Actions":[{"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-03-05","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-05","Committee":"New York City Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-03-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1306","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
  "Title":"Enacts the New York city Caribbean steel pan educational music program act",
  "Summary":"Enacts the \"New York city Caribbean steel pan educational music program act\"; requires community school boards in the city of New York to authorize, where reasonable, the use of school grounds in the summer months for use by any steel pan music organization to practice for the Labor Day Parade (West Indian Carnival).",

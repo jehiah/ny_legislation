@@ -1,16 +1,40 @@
 {
  "PrintNo":"S5623","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-26T09:21:24.418869Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-26","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-26","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-26","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-26","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1296","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-27","Chamber":"SENATE","Committee":"Labor",
+   "Votes":[
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},
   {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
+  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to the right to unemployment benefits based on employment with certain educational institutions; repealer",
  "Summary":"Relates to the right to unemployment benefits based on employment with certain educational institutions, including the state university of New York, the city university of New York and public community colleges; clarifies the meaning of certain terms relating to such rights to unemployment benefits.",

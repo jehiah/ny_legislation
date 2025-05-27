@@ -1,11 +1,14 @@
 {
  "PrintNo":"A7694","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-04T17:22:50.947483Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-27"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-04-04","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-30","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-22","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.273","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.273","Date":"2025-05-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -76,5 +79,5 @@
  "Summary":"Extends provisions relating to self-employment assistance programs and other matters.","LawSection":"Labor",
  "LawCode":"Amd §10, Chap 413 of 2003",
  "ActClause":"AN ACT to amend chapter 413 of the laws of 2003 amending the labor law relating to the self-employment assistance program and other matters, in relation to extending the effectiveness thereof",
- "PreviousVersions":["A6551-2023"]
+ "SameAsPrintNo":"S8231-2025","PreviousVersions":["A6551-2023"]
 }

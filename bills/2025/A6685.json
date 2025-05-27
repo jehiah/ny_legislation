@@ -1,8 +1,32 @@
 {
  "PrintNo":"A6685","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-07T16:33:31.519848Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-07","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-07","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-27"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.267","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.267","Date":"2025-05-27","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":636,"Short":"FRIEND","Vote":"Excused"},{"ID":1555,"Short":"O'PHARROW","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Relates to the filling of vacancies for elective offices in villages with November elections",
  "Summary":"Relates to the filling of vacancies for elective offices in villages with November elections; provides such vacancies shall be filled in accordance with subdivision one of section forty-two of the public officers law.",

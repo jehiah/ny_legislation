@@ -1,10 +1,12 @@
 {
- "PrintNo":"S7378","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-11T15:06:26.735382Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Finance"}],
+ "PrintNo":"S7378","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-11T15:06:26.735382Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-11","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7378A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -23,6 +25,7 @@
  "Sponsors":[{"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Establishes an optional twenty-five year retirement plan for certain employees of the New York Power Authority",
  "Summary":"Establishes an optional twenty-five year retirement plan for employees of the New York Power Authority who are a member of the public employee organization certified or recognized to represent employees of such authority.",
- "LawSection":"Retirement and Social Security Law","LawCode":"Add §89-y, amd §§445, 603, 503 & 604, R & SS L",
- "ActClause":"AN ACT to amend the retirement and social security law, in relation to establishing an optional twenty-five year retirement plan for certain employees of the New York Power Authority"
+ "LawSection":"Retirement and Social Security Law","LawCode":"Add §89-z, amd §§445, 603, 503 & 604, R & SS L",
+ "ActClause":"AN ACT to amend the retirement and social security law, in relation to establishing an optional twenty-five year retirement plan for certain employees of the New York Power Authority",
+ "SameAsPrintNo":"A7975-2025"
 }

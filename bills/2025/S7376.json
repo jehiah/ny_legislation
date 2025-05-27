@@ -1,15 +1,20 @@
 {
  "PrintNo":"S7376","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-11T15:05:54.157867Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Civil Service And Pensions"}],
+ "Published":"2025-04-11T15:05:54.157867Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-11","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-08","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 7376A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 7376A","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1312","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"}],
- "Title":"Authorizes the town/village of East Rochester, county of Monroe, to appoint Karol Hughes to the position of full-time police officer",
- "Summary":"Authorizes the town/village of East Rochester, county of Monroe, to appoint Karol Hughes to the position of full-time police officer.",
+ "Title":"Authorizes Karol Hughes, a part-time police officer, with the town/village of East Rochester police department to take the civil service examination",
+ "Summary":"Authorizes Karol Hughes, a part-time police officer, with the town/village of East Rochester police department to take the civil service examination and be eligible for appointment as a full time police officer for the town/village of East Rochester.",
  "LawSection":"Monroe County",
- "ActClause":"AN ACT in relation to authorizing the town/village of East Rochester, county of Monroe to hire Karol Hughes to fill a full-time competitive position with the town/village of East Rochester police department"
+ "ActClause":"AN ACT in relation to authorizing Karol Hughes to take the competitive civil service examination for the position of police officer and be placed on the eligible list for employment as a full-time police officer for the town/village of East Rochester",
+ "SameAsPrintNo":"A6609-2025"
 }

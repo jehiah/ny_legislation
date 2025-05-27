@@ -1,10 +1,13 @@
 {
  "PrintNo":"A2384","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T11:04:29.909147Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-27"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-16","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.259","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.259","Date":"2025-05-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -34,7 +37,8 @@
   {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
   {"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
-  {"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+  {"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
  ],
  "Title":"Requires insurers to provide insurance coverage for rare diseases, life-threatening conditions or diseases, degenerative and disabling conditions, or diagnoses involving medically fragile children",
  "Summary":"Requires insurers to provide insurance coverage for treatment of rare diseases, life-threatening conditions or diseases, degenerative and disabling conditions, or diagnoses involving medically fragile children, by a provider of the patient's choice.",

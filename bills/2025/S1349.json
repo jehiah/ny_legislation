@@ -1,9 +1,9 @@
 {
  "PrintNo":"S1349","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T11:36:04.59194Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-09T11:36:04.59194Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-05-08"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-22"}
+  {"Type":"PASSED_SENATE","Date":"2025-05-22"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Education"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-09","Chamber":"SENATE"},
@@ -13,7 +13,10 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-07","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-08","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

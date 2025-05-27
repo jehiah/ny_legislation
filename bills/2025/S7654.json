@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7654","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-25T11:27:16.93239Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-04-25","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-04-25","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1288","Date":"2025-05-27","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],
  "Title":"Authorizes the superintendent of financial services to oversee and regulate car dealer transactions with consumers",
  "Summary":"Authorizes the superintendent of financial services to oversee and regulate car dealer transactions with consumers; requires motor vehicle retail installment contracts to include an itemized listing of all costs related to the purchase of a motor vehicle and disclosure of the prohibition of conditional delivery; requires motor vehicle dealers to provide credit applicants with copies of all credit application documents; prohibits the conditional delivery of a motor vehicle.",
