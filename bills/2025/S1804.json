@@ -1,15 +1,19 @@
 {
- "PrintNo":"S1804","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T16:55:08.545364Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-13","Chamber":"SENATE"}],
+ "PrintNo":"S1804","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T16:55:08.545364Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-13","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1804A","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
  ],
- "Title":"Requires insurance coverage for inhalers at no cost",
- "Summary":"Requires insurance coverage for inhalers at no cost.","LawSection":"Insurance Law",
- "LawCode":"Amd §§3216, 3221 & 4303, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to requiring coverage of asthma inhalers at no cost",
- "PreviousVersions":["S9906-2023"]
+ "Title":"Requires insurance coverage for certain inhalers at no cost",
+ "Summary":"Requires insurance coverage for one rescue and one maintenance inhaler at no cost.",
+ "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
+ "ActClause":"AN ACT to amend the insurance law, in relation to requiring coverage of certain asthma inhalers at no cost",
+ "SameAsPrintNo":"A128-2025","PreviousVersions":["S9906-2023"]
 }

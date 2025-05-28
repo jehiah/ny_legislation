@@ -1,16 +1,24 @@
 {
  "PrintNo":"S120","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-18T15:38:20.16756Z","Status":"SENATE_FLOOR",
+ "Published":"2024-12-18T15:38:20.16756Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2025-01-27"}
+  {"Type":"SENATE_FLOOR","Date":"2025-01-27"},{"Type":"PASSED_SENATE","Date":"2025-05-28"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Corporations, Authorities And Commissions"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.132","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"AMENDED 120A","Date":"2025-01-22","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2025-01-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-01-27","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-01-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
+  {
+   "Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Version":"A"
+  }
  ],
  "Votes":[
   {
@@ -28,10 +36,13 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
+ "Sponsors":[
+  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}
+ ],
  "Title":"Prohibits termination of electricity or heat service during forecasts of extreme temperatures",
  "Summary":"Prohibits termination of electricity or heat service during forecasts of more than ninety-five degrees or less than thirty-two degrees.",
  "LawSection":"Public Service Law","LawCode":"Amd §32, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to prohibiting termination of residential utility service during forecasts of extreme temperature",
- "PreviousVersions":["S7982-2023"]
+ "SameAsPrintNo":"A5786-2025","PreviousVersions":["S7982-2023"]
 }

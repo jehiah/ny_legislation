@@ -1,15 +1,17 @@
 {
  "PrintNo":"S3261","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T13:24:33.492689Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-19"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-19"},{"Type":"PASSED_SENATE","Date":"2025-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.551","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-18","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-19","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-19","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -30,5 +32,5 @@
  "Summary":"Authorizes distributors of cannabis products to file electronic returns annually instead of quarterly.",
  "LawSection":"Tax Law","LawCode":"Amd §495, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to authorizing distributors of cannabis products to file annual returns electronically",
- "SameAsPrintNo":"A5496-2025","PreviousVersions":["S9359-2023"]
+ "PreviousVersions":["S9359-2023"]
 }

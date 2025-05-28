@@ -1,15 +1,19 @@
 {
  "PrintNo":"S119","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-18T15:26:13.149615Z",
- "Status":"SENATE_FLOOR",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-03"}
+  {"Type":"SENATE_FLOOR","Date":"2025-02-03"},{"Type":"PASSED_SENATE","Date":"2025-05-28"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.165","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-01-28","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-03","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

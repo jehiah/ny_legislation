@@ -1,7 +1,11 @@
 {
  "PrintNo":"S598","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-02T15:32:48.554856Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "Published":"2025-01-02T15:32:48.554856Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"},
+  {"Type":"PASSED_SENATE","Date":"2025-05-28"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-21","Chamber":"SENATE"},
@@ -11,7 +15,10 @@
   {"Text":"PRINT NUMBER 598B","Date":"2025-04-02","Chamber":"SENATE","Version":"B"},
   {"Text":"1ST REPORT CAL.1210","Date":"2025-05-20","Chamber":"SENATE","Version":"B"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE","Version":"B"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"B"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

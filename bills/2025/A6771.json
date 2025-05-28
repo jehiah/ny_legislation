@@ -1,8 +1,12 @@
 {
- "PrintNo":"A6771","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-13T16:53:47.626174Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-13","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6771","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-13T16:53:47.626174Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6771A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},
@@ -21,5 +25,5 @@
  "Summary":"Defines the practice of certified registered nurse anesthetist; requires collaboration with a licensed physician qualified to determine the need for anesthesia services; requires licensing; defines qualifications.",
  "LawSection":"Education Law","LawCode":"Add Art 139-A §§6920 - 6927, amd §§6903 & 6904, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to creating the profession of nurse anesthetist",
- "PreviousVersions":["A7268-2021","A6958-2023"]
+ "SameAsPrintNo":"S357-2025","PreviousVersions":["A7268-2021","A6958-2023"]
 }

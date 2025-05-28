@@ -1,10 +1,34 @@
 {
  "PrintNo":"S5403","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T10:24:22.762467Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Cities 2"},{"Type":"SENATE_FLOOR","Date":"2025-05-12"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Cities 2"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"},
+  {"Type":"PASSED_SENATE","Date":"2025-05-28"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CITIES 2","Date":"2025-02-21","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.998","Date":"2025-05-12","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.998","Date":"2025-05-12","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-13","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"HOME RULE REQUEST","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-12","Chamber":"SENATE","Committee":"Cities 2",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],
  "Title":"Facilitates the marketing of any issue of serial bonds or notes of the city of Buffalo issued on or before a certain date",

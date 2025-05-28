@@ -1,9 +1,9 @@
 {
  "PrintNo":"S2224","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-16T09:16:18.130329Z","Status":"SENATE_FLOOR",
+ "Published":"2025-01-16T09:16:18.130329Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Ethics And Internal Governance"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-15"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-01-16","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"PRINT NUMBER 2224A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1022","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

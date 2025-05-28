@@ -1,13 +1,19 @@
 {
  "PrintNo":"S360","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T10:26:27.644363Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"},
+  {"Type":"PASSED_SENATE","Date":"2025-05-28"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Health"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.744","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -58,7 +64,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
+ "Sponsors":[
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
+  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}
+ ],
  "Title":"Relates to expanding the health department's review of correctional health services",
  "Summary":"Expands the health department's review of correctional health services by including a biennial study of health care staffing at facilities operated by the department of corrections and community supervision.",
  "LawSection":"Public Health Law","LawCode":"Amd §206, Pub Health L",

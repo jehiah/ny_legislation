@@ -1,10 +1,9 @@
 {
- "PrintNo":"S7525","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-21T12:48:05.851565Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "PrintNo":"S7525","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-21T12:48:05.851565Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-21","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_SENATE","Date":"2025-05-27"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Ways And Means"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-21","Chamber":"SENATE"},
@@ -15,7 +14,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-27","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 7525A","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,7 +1,11 @@
 {
  "PrintNo":"S1418","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T14:42:54.165565Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "Published":"2025-01-09T14:42:54.165565Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"},
+  {"Type":"PASSED_SENATE","Date":"2025-05-28"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Governmental Operations"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-05","Chamber":"SENATE"},
@@ -9,7 +13,10 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-07","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1214","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

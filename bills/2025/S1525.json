@@ -1,12 +1,19 @@
 {
  "PrintNo":"S1525","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T11:22:56.222009Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-01-27"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-01-27"},
+  {"Type":"PASSED_SENATE","Date":"2025-05-28"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Governmental Operations"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.112","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-01-22","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-01-27","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-01-27","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,7 +1,7 @@
 {
- "PrintNo":"A1001","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A1001","Version":"D","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-07T15:42:54.599034Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-21","Committee":"Ways And Means"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CHILDREN AND FAMILIES","Date":"2025-02-07","Chamber":"ASSEMBLY"},
@@ -11,7 +11,9 @@
   {"Text":"PRINT NUMBER 1001B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"AMENDED BY RESTORING TO PREVIOUS PRINT 1001A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 1001C","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"PRINT NUMBER 1001C","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PRINT NUMBER 1001D","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"D"}
  ],
  "Votes":[
   {
@@ -44,5 +46,5 @@
  "Summary":"Implements automatic market rate increases for child care assistance such that assistance will be equal to the applicable payment rate established by the department.",
  "LawSection":"Social Services Law","LawCode":"Amd §410-x, Soc Serv L",
  "ActClause":"AN ACT to amend the social services law, in relation to implementing automatic market rate increases for child care assistance",
- "SameAsPrintNo":"S4472-2025","PreviousVersions":["A10596-2021","A2019-2023"]
+ "PreviousVersions":["A10596-2021","A2019-2023"]
 }
