@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7332","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-10T11:44:43.30405Z",
- "Status":"IN_SENATE_COMM","Committee":"Commerce, Economic Development And Small Business",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Commerce, Economic Development And Small Business"}],
- "Actions":[{"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-04-10","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Commerce, Economic Development And Small Business"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-04-10","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1366","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
  "Title":"Relates to the provision of regulatory information to small businesses",
  "Summary":"Relates to the provision of regulatory information to small businesses through the establishment of a small business regulatory nexus by certain agencies.",

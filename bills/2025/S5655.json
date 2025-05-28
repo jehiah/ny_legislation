@@ -1,8 +1,14 @@
 {
  "PrintNo":"S5655","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-26T14:29:32.050164Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-26","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-26","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-26","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-26","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1412","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
  "Title":"Relates to void provisions in construction contracts",
  "Summary":"Voids provisions in construction contracts requiring retainage as expressly provided for by section seven hundred fifty-six-c of the general business law in an amount exceeding five percent of the contract sum.",

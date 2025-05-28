@@ -1,11 +1,33 @@
 {
  "PrintNo":"A7885","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T15:09:55.573805Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-04-11","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-04-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"}],
  "Title":"Authorizes the town justice of the town of Montour to be a nonresident of such town",
  "Summary":"Authorizes the town justice of the town of Montour, county of Schuyler, to be a nonresident of such town.",
  "LawSection":"Town Law","LawCode":"Amd §23, Town L; amd §3, Pub Off L",
- "ActClause":"AN ACT to amend the town law and the public officers law, in relation to authorizing the town justice of the town of Montour, county of Schuyler, to be a nonresident of such town"
+ "ActClause":"AN ACT to amend the town law and the public officers law, in relation to authorizing the town justice of the town of Montour, county of Schuyler, to be a nonresident of such town",
+ "SameAsPrintNo":"S7412-2025"
 }

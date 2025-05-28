@@ -1,8 +1,14 @@
 {
  "PrintNo":"S2611","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:35:38.323698Z",
- "Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Racing, Gaming And Wagering"}],
- "Actions":[{"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-01-21","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Racing, Gaming And Wagering"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-01-21","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1327","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Relates to participation in games of bingo by minors",
  "Summary":"Permits participation in games of bingo by minors who are accompanied by an adult.",

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6970","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T14:27:44.403184Z",
- "Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Racing, Gaming And Wagering"}],
- "Actions":[{"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-03-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Racing, Gaming And Wagering"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1330","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Relates to unsold instant lottery game tickets",
  "Summary":"Requires the return of unsold instant lottery game tickets to the division of the lottery when a licensed agent goes out of business, sells their business or if their license is suspended or revoked.",

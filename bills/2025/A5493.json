@@ -1,15 +1,21 @@
 {
- "PrintNo":"A5493","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-14T10:13:07.924302Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-14","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5493","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-14T10:13:07.924302Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5493A","Date":"2025-05-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 5493B","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"}
+ ],
  "Sponsors":[
   {"ID":1466,"Name":"Michael Durso","Short":"DURSO"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
  ],
- "Title":"Designates a portion of the state highway system as \"Charlie Bunger Sr. Way\"",
- "Summary":"Designates a portion of the state highway system as \"Charlie Bunger Sr. Way\" in the village of Babylon, county of Suffolk.",
+ "Title":"Dedicates a portion of the state highway system to Charlie Bunger Sr.",
+ "Summary":"Dedicates a portion of the state highway system to Charlie Bunger Sr. in the village of Babylon, county of Suffolk.",
  "LawSection":"Highway Law","LawCode":"Add §344-r, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to designating a portion of the state highway system as \"Charlie Bunger Sr. Way\"",
- "SameAsPrintNo":"S4615-2025","PreviousVersions":["A7844-2023"]
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Charlie Bunger Sr.",
+ "PreviousVersions":["A7844-2023"]
 }

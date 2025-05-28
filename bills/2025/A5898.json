@@ -1,8 +1,26 @@
 {
  "PrintNo":"A5898","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:50:13.943248Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1544,"Name":"Scott Gray","Short":"GRAY"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1531,"Name":"Alex Bores","Short":"BORES"},
@@ -12,7 +30,8 @@
   {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
   {"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
-  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}
+  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Permits an eligible retirement system member to receive, in lieu of an ordinary death benefit, a death benefit such member would otherwise be entitled to receive",
  "Summary":"Permits an eligible retirement system member to receive, in lieu of an ordinary death benefit, a death benefit such member would otherwise be entitled to receive provided such member is a state-paid judge or justice of the unified court system or a housing judge of the civil court of the city of New York.",

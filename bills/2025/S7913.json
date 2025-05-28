@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7913","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-13T15:53:42.572055Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-05-13","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-13","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1393","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Relates to improper practices relating to staff membership or professional privileges of a physician and such physician's board certification",
  "Summary":"Relates to improper practices relating to staff membership or professional privileges of a physician and such physician's board certification.",

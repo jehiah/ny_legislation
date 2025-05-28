@@ -1,15 +1,35 @@
 {
  "PrintNo":"A4006","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T15:20:29.361097Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Local Governments"}],
+ "Published":"2025-01-30T15:20:29.361097Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-05-19","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 4006A","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 4006A","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"}],
  "Title":"Relates to the use of certain moneys received by the Bohemia volunteer firefighter's association, and modernization of certain language",
  "Summary":"Relates to the use of moneys received from foreign fire insurance companies by the Bohemia Volunteer Firefighter's Benevolent Association, and to modernization of certain language by making such language gender neutral.",
  "LawSection":"Firefighters' Benevolent Association","LawCode":"Amd §§1, 2, 6 & 7, Chap 45 of 1963",
- "ActClause":"AN ACT to amend chapter 45 of the laws of 1963 relating to incorporating the Bohemia Volunteer Firemen's Benevolent Association, and providing for its powers and duties, in relation to the use of certain moneys received by such benevolent association and modernization of certain language"
+ "ActClause":"AN ACT to amend chapter 45 of the laws of 1963 relating to incorporating the Bohemia Volunteer Firemen's Benevolent Association, and providing for its powers and duties, in relation to the use of certain moneys received by such benevolent association and modernization of certain language",
+ "SameAsPrintNo":"S7162-2025"
 }

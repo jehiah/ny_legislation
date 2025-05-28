@@ -1,10 +1,11 @@
 {
  "PrintNo":"S1001","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T13:11:13.983692Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-12","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-12","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1341","Date":"2025-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

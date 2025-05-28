@@ -1,8 +1,11 @@
 {
  "PrintNo":"S8186","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-20T10:02:56.447632Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-05-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1426","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"}],
  "Title":"Provides that a foreign corporation's application for authority to do business in this state constitutes consent to jurisdiction of the courts of this state",
  "Summary":"Provides that a foreign corporation's application for authority to do business in this state constitutes consent to jurisdiction of the courts of this state and a surrender of such application constitutes withdrawal of such consent.",

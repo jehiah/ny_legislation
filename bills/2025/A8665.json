@@ -1,8 +1,35 @@
 {
  "PrintNo":"A8665","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-23T18:47:54.166791Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2025-05-23","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"BANKS",
+   "Votes":[
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"},{"ID":1503,"Short":"TAPIA","Vote":"Excused"},
+    {"ID":1548,"Short":"TORRES","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"}],
  "Title":"Relates to minority depository institutions which apply to establish a home or branch office in an unbanked or underbanked community",
  "Summary":"Relates to minority depository institutions which apply to establish a home or branch office in an unbanked or underbanked community; provides that such institutions shall be entitled to receive deposits from the state comptroller and the commissioner of taxation and finance.",

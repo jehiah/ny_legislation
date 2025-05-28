@@ -1,8 +1,13 @@
 {
- "PrintNo":"A7900","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T15:14:01.176636Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-11","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7900","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-11T15:14:01.176636Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-11","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7900A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"}],
  "Title":"Prohibits the disclosure of individualized fare payment data by the metropolitan commuter transportation authority and the New York city transit authority",
  "Summary":"Prohibits the disclosure of individualized fare payment data by the metropolitan commuter transportation authority and the New York city transit authority for the purpose of maintaining customer privacy; provides certain exceptions when such data can be disclosed.",

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4871","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T15:01:43.307339Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO DISABILITIES","Date":"2025-02-13","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-04","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1355","Date":"2025-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -25,5 +26,5 @@
  "Summary":"Directs the independent developmental disability ombudsperson program to establish a service delivery structure based in New York state that includes a toll-free telephone hotline, an interactive website, and availability of in-person, telephone and email access to ombudsperson program staff or volunteers; to provide assistance for navigating and completing processes; to assist individuals in filing and preparing appeals; to assist individuals with any problems encountered; and to educate individuals on their rights and responsibilities with respect to access to services provided by the office for people with developmental disabilities and care coordination provided by health homes serving individuals with developmental disabilities or services provided by other providers.",
  "LawSection":"Mental Hygiene Law","LawCode":"Amd §33.28, Ment Hyg L",
  "ActClause":"AN ACT to amend the mental hygiene law, in relation to the duties of the independent developmental disability ombudsperson program",
- "PreviousVersions":["S8326-2021","S3108-2023"]
+ "SameAsPrintNo":"A7465-2025","PreviousVersions":["S8326-2021","S3108-2023"]
 }

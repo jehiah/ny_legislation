@@ -2,7 +2,27 @@
  "PrintNo":"A4633","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T12:12:27.756987Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN LOCAL GOVERNMENTS","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1484,"Short":"GALLAHAN","Vote":"Nay"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"}],
  "Title":"Requires municipalities which receive 4 or more emergency medical calls in 30 day period for an individual to report such calls to the local social services district",
  "Summary":"Requires any municipality which receives and responds to 4 or more calls for emergency medical service for an individual to report the circumstances of such calls to the local social services district and the office of the medicaid inspector general.",

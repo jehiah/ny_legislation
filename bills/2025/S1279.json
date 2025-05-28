@@ -1,8 +1,13 @@
 {
- "PrintNo":"S1279","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T09:26:06.086171Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-09","Chamber":"SENATE"}],
+ "PrintNo":"S1279","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T09:26:06.086171Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-09","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1279A","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":439,"Name":"Simcha Felder","Short":"FELDER"},
@@ -11,7 +16,7 @@
  ],
  "Title":"Establishes supermarket wine licenses",
  "Summary":"Establishes supermarket wine licenses to sell from the licensed premises wine in sealed containers for consumption off such premises.",
- "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§3, 75, 83, 100 & 102, add §79-e, ABC L",
+ "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§3, 75, 83, 100, 102 & 63, add §79-e, ABC L",
  "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to establishing supermarket wine licenses",
- "PreviousVersions":["S6786-2023"]
+ "SameAsPrintNo":"A1328-2025","PreviousVersions":["S6786-2023"]
 }

@@ -2,7 +2,24 @@
  "PrintNo":"A6450","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-05T09:01:53.747413Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-05","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-03-05","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN GOVERNMENTAL EMPLOYEES","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1566,"Name":"Andrea Bailey","Short":"BAILEY"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
   {"ID":1568,"Name":"Paula Bologna","Short":"BOLOGNA"}

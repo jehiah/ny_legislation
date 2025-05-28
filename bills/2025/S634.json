@@ -1,16 +1,18 @@
 {
- "PrintNo":"S634","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S634","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-03T10:10:36.960343Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Insurance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-04-25","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 634A","Date":"2025-04-25","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 634A","Date":"2025-04-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 634B","Date":"2025-05-14","Chamber":"SENATE","Version":"B"}
  ],
- "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"}],
- "Title":"Requires certain health insurance policies to provide coverage for diabetes screening for people having a body mass index of 23 or greater",
- "Summary":"Requires certain health insurance policies to provide coverage for diabetes screening for people having a body mass index of 23 or greater.",
+ "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
+ "Title":"Requires certain health insurance policies to provide coverage for diabetes and prediabetes screening",
+ "Summary":"Requires certain health insurance policies to provide coverage for diabetes and prediabetes screening.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to requiring certain health insurance policies to provide coverage for diabetes screening for people having a body mass index of 23 or greater",
+ "ActClause":"AN ACT to amend the insurance law, in relation to requiring certain health insurance policies to provide coverage for diabetes and prediabetes screening",
  "SameAsPrintNo":"A1206-2025","PreviousVersions":["S9372-2023"]
 }

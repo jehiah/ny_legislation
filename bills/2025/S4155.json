@@ -1,8 +1,14 @@
 {
  "PrintNo":"S4155","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T10:32:42.877442Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-02-03","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Procurement And Contracts"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1397","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},

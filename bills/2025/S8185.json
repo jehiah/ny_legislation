@@ -1,9 +1,12 @@
 {
  "PrintNo":"S8185","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-19T16:38:53.573857Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-05-19","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1425","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}],
  "Title":"Prohibits certain entities from negotiating any contracts or settlements releasing such entities from liability for a tortious or potentially tortious act within thirty days of such act",
  "Summary":"Prohibits persons, firms, or corporations whose interests are adverse to that of a person who received personal injuries or death as a result of an action by such person, firm or corporation from negotiating any contracts or settlements releasing such person, firm or corporation from liability for the tortious or potentially tortious act within thirty days of such act.",
  "LawSection":"Civil Practice Law and Rules","LawCode":"Add §5003-c, CPLR",

@@ -1,12 +1,17 @@
 {
- "PrintNo":"A4880","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-07T16:26:40.008311Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-06","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-02-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4880","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-07T16:26:40.008311Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4880A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
-  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"}
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
+  {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"}
  ],
  "Title":"Establishes confirmatory adoptions providing for the adoption of children born as a result of assisted reproduction and allows courts to grant custody and support of children from more than two parents; repealer",
  "Summary":"Establishes confirmatory adoptions providing for the adoption of children born as a result of assisted reproduction; allows for more than two persons to be named parents of a child; establishes presumed parentage and provides for the challenge and adjudication thereof; repeals certain provisions of the domestic relations law and the family court act relating thereto.",

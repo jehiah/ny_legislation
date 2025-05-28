@@ -1,11 +1,13 @@
 {
- "PrintNo":"S5402","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S5402","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-02-21T10:23:49.408383Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Environmental Conservation"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-21","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 5402A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 5402A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 5402B","Date":"2025-05-28","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
@@ -15,8 +17,8 @@
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Protects wolves",
- "Summary":"Protects canids by requiring animals which could be coyotes or wolves be submitted for a DNA test to determine genetic makeup.",
+ "Summary":"Protects canids by requiring animals which could be coyotes or wolves be submitted for a genetic test to determine genetic makeup; provides for the repeal of such provisions upon the expiration thereof.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §11-0541, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to protecting wolves",
- "PreviousVersions":["S7927-2023"]
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to protecting wolves; and providing for the repeal of such provisions upon expiration thereof",
+ "SameAsPrintNo":"A1229-2025","PreviousVersions":["S7927-2023"]
 }

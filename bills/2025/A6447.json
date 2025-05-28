@@ -2,7 +2,24 @@
  "PrintNo":"A6447","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-05T08:59:43.668844Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-05","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-03-05","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN GOVERNMENTAL EMPLOYEES","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":670,"Short":"SANTABARBARA","Vote":"Nay"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
   {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1509,"Name":"Eric Brown","Short":"BROWN E"},
@@ -12,7 +29,7 @@
   {"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"},{"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"},
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1152,"Name":"Chris Tague","Short":"TAGUE"},
   {"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},{"ID":608,"Name":"Edward Ra","Short":"RA"},
-  {"ID":1148,"Name":"Doug Smith","Short":"SMITH"}
+  {"ID":1148,"Name":"Doug Smith","Short":"SMITH"},{"ID":500,"Name":"William Colton","Short":"COLTON"}
  ],
  "Title":"Allows retired state police officers to serve as police officers for local police departments without diminution of retirement benefits",
  "Summary":"Allows retired state police officers to serve as police officers for local police departments without diminution of retirement benefits; empowers the superintendent of state police to approve such service.",

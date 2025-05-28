@@ -1,8 +1,11 @@
 {
  "PrintNo":"S8118","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T18:43:16.212002Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-05-15","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1422","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
  "Title":"Prohibits utility service terminations in multiple dwellings",
  "Summary":"Prohibits utility service terminations in multiple dwellings; authorizes utility companies to seek a lien against such multiple dwelling for the amount of unpaid utility bills.",

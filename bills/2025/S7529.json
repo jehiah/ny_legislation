@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7529","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-21T16:46:44.098626Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-21","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-06","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1363","Date":"2025-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -25,5 +26,5 @@
  "Summary":"Relates to the eligibility of New York city transit authority employees for performance of duty disability retirement.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §607-b, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to the eligibility of New York city transit authority employees for performance of duty disability retirement",
- "PreviousVersions":["S8760-2019","S7174-2021","S7075-2023"]
+ "SameAsPrintNo":"A8499-2025","PreviousVersions":["S8760-2019","S7174-2021","S7075-2023"]
 }

@@ -1,9 +1,18 @@
 {
  "PrintNo":"S4289","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T16:07:52.939169Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-03","Chamber":"SENATE"}],
- "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1375","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
+ "Sponsors":[
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+ ],
  "Title":"Extends DEC's authority to regulate management of crabs, and prohibits the taking of horseshoe crabs for commercial and biomedical purposes",
  "Summary":"Extends DEC's authority to regulate management of crabs to 12/31/2027; prohibits the taking of horseshoe crabs for commercial and biomedical purposes.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §13-0331, En Con L",

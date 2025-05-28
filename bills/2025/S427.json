@@ -1,13 +1,17 @@
 {
  "PrintNo":"S427","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T11:26:51.017247Z",
- "Status":"IN_SENATE_COMM","Committee":"Commerce, Economic Development And Small Business",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Commerce, Economic Development And Small Business"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Commerce, Economic Development And Small Business"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {
    "Text":"REPORTED AND COMMITTED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-04-29",
    "Chamber":"SENATE"
-  }
+  },
+  {"Text":"1ST REPORT CAL.1365","Date":"2025-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

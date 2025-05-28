@@ -1,8 +1,33 @@
 {
  "PrintNo":"A8571","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-20T17:56:06.919378Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Housing"}],
- "Actions":[{"Text":"REFERRED TO HOUSING","Date":"2025-05-20","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"HOUSING",
+   "Votes":[
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1461,"Short":"BROWN K","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":0,"Short":"BROWN EA","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1540,"Short":"MAHER","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
  "Title":"Relates to the powers of the New York state housing finance agency",
  "Summary":"Extends certain powers of the New York state housing finance agency.","LawSection":"Public Authorities Law",

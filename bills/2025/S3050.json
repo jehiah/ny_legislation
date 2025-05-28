@@ -1,8 +1,11 @@
 {
  "PrintNo":"S3050","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T11:26:36.532207Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-23","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-23","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1387","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1490,"Name":"Dan Stec","Short":"STEC"}],
  "Title":"Authorizes an expedited application review process for certain health care professionals licensed to practice in other jurisdictions to practice in this state in connection with Double H Ranch",
  "Summary":"Authorizes an expedited application review process for certain health care professionals licensed to practice in other jurisdictions to practice in this state in connection with Double H Ranch; provides such application fee shall be waived.",

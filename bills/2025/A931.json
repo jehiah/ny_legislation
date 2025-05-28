@@ -1,8 +1,12 @@
 {
- "PrintNo":"A931","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T15:07:07.377351Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A931","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T15:07:07.377351Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Local Governments"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 931A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":457,"Name":"Vivian Cook","Short":"COOK"},
@@ -12,9 +16,10 @@
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"}
  ],
- "Title":"Relates to preventing certain elected officials from being a member of an agency; repealer",
- "Summary":"Prevents certain elected officials from being a member of an agency.","LawSection":"General Municipal Law",
- "LawCode":"Rpld §856 sub 4, amd §856, Gen Muni L",
+ "Title":"Relates to preventing certain elected officials from being a member of an agency or industrial development authority; repealer",
+ "Summary":"Prevents certain elected officials from being a member of an agency or industrial development authority.",
+ "LawSection":"General Municipal Law",
+ "LawCode":"Rpld §856 sub 4, amd §856, Gen Muni L; amd §§1952 & 2304, Pub Auth L",
  "ActClause":"AN ACT to amend the general municipal law, in relation to preventing certain elected officials from being a member of an agency; and to repeal subdivision 4 of section 856 of such law relating thereto",
  "PreviousVersions":["A7235-2019","A1308-2021","A255-2023"]
 }

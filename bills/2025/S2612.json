@@ -1,11 +1,15 @@
 {
  "PrintNo":"S2612","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-21T17:35:50.757485Z","Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-22","Committee":"Racing, Gaming And Wagering"}],
+ "Published":"2025-01-21T17:35:50.757485Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-22","Committee":"Racing, Gaming And Wagering"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO RACING, GAMING AND WAGERING","Date":"2025-04-22","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 2612A","Date":"2025-04-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 2612A","Date":"2025-04-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1328","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Relates to horsemen's health, welfare, pension and administrative benefits for harness racing licensees in the absence of contractual obligations",

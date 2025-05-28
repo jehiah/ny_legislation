@@ -1,8 +1,11 @@
 {
  "PrintNo":"S8176","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-19T15:40:24.808689Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-05-19","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1424","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"}],
  "Title":"Relates to the time-limit for appeals in all categories of family court cases",
  "Summary":"Relates to the time limit for appeals in all categories of family court cases and the filing of objections to support magistrate determinations in child support, paternity and parentage proceedings in family court.",

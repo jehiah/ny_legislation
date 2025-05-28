@@ -1,8 +1,25 @@
 {
  "PrintNo":"S7700","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-30T16:15:39.99769Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Elections"}],
- "Actions":[{"Text":"REFERRED TO ELECTIONS","Date":"2025-04-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1335","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-28","Chamber":"SENATE","Committee":"Elections",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Relates to the designation and nomination of candidates for village office in village elections conducted on the day of the general election",
  "Summary":"Relates to the designation and nomination of candidates for village office in village elections conducted on the day of the general election.",

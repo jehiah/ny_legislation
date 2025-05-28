@@ -1,8 +1,14 @@
 {
  "PrintNo":"S6985","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T15:54:48.107493Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-03-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1414","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Provides for requirements for the rental of helmets",
  "Summary":"Requires every person, corporation, association or partnership who rents helmets or provides helmets to customers as part of their business to ensure that such helmets are undamaged.",

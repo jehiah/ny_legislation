@@ -1,12 +1,17 @@
 {
  "PrintNo":"S7821","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T11:24:03.795838Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-09","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-09","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1417","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Prohibits the sale of children's products, mattresses and upholstered furniture containing fiberglass unless they contain a prominent label",
  "Summary":"Prohibits the sale of children's products, mattresses and upholstered furniture containing fiberglass unless they contain a prominent label; defines children's product; prohibits custom upholsterers from repairing or restoring any children's product, mattress or furniture with parts that contain fiberglass; provides remedies for violations.",
  "LawSection":"General Business Law","LawCode":"Add §399-iii, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the sale of children's products, mattresses and upholstered furniture containing fiberglass unless they contain a prominent label",
- "SameAsPrintNo":"A7912-2025"
+ "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the sale of children's products, mattresses and upholstered furniture containing fiberglass unless they contain a prominent label"
 }

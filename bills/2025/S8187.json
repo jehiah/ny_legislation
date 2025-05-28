@@ -1,8 +1,11 @@
 {
  "PrintNo":"S8187","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-20T10:05:14.161811Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-05-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1427","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Extends the effectiveness of article 19-b of the real property actions and proceedings law providing for special proceedings to convey title to abandoned commercial and industrial real property",
  "Summary":"Extends the effectiveness of provisions providing for special proceedings to convey title to abandoned commercial and industrial real property to a city, town, or village.",

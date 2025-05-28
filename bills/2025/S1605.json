@@ -1,8 +1,14 @@
 {
  "PrintNo":"S1605","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T16:24:36.599543Z",
- "Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"Racing, Gaming And Wagering"}],
- "Actions":[{"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-01-10","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"Racing, Gaming And Wagering"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-01-10","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1326","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"}],
  "Title":"Relates to the internet sale of raffle tickets","Summary":"Relates to the internet sale of raffle tickets.",
  "LawSection":"General Municipal Law","LawCode":"Amd §§189 & 190-a, Gen Muni L",

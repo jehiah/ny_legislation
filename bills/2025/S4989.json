@@ -1,10 +1,14 @@
 {
  "PrintNo":"S4989","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T16:13:34.554563Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Consumer Protection"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-14","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO CONSUMER PROTECTION","Date":"2025-05-19","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO CONSUMER PROTECTION","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1410","Date":"2025-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

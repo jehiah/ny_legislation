@@ -1,8 +1,11 @@
 {
  "PrintNo":"S8138","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T19:24:27.931795Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-05-15","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1394","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"}],
  "Title":"Relates to studying the adequacy of applied behavioral analysis provider networks",
  "Summary":"Directs the commissioner of health to make publicly available on the department of health website a report concerning access to applied behavior analysis for enrolled children diagnosed with autism spectrum disorder.",

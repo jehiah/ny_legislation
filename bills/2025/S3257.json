@@ -1,8 +1,14 @@
 {
  "PrintNo":"S3257","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T13:23:11.57436Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-24","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Procurement And Contracts"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1396","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"}],
  "Title":"Relates to preferred source status for entities that provide employment to certain persons",
  "Summary":"Includes entities that provide employment or services to formerly incarcerated persons in the preferred source exemption for purposes of state purchasing.",

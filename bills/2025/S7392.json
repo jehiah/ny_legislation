@@ -1,12 +1,16 @@
 {
- "PrintNo":"S7392","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-14T13:19:28.286174Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-14","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-14","Chamber":"SENATE"}],
+ "PrintNo":"S7392","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-14T13:19:28.286174Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-14","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7392A","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Provides for the sale of salvaged airbags; repealer",
  "Summary":"Provides for the sale of salvaged airbags; allows for the sale of non-deployed recycled airbags in New York, provided that such airbags meet required safety standards.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Rpld §398-d sub 6 ¶(e), §415-c, add §415-c, V & T L",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Rpld & add §415-c, amd §398-d, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to the sale of salvaged airbags; and to repeal certain provisions of such law relating thereto",
- "PreviousVersions":["S8513-2021","S9496-2023"]
+ "SameAsPrintNo":"A8379-2025","PreviousVersions":["S8513-2021","S9496-2023"]
 }

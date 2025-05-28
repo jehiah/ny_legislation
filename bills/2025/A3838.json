@@ -1,16 +1,34 @@
 {
- "PrintNo":"A3838","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T11:43:10.639016Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-29","Committee":"Governmental Employees"}],
+ "PrintNo":"A3838","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T11:43:10.639016Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2025-04-29","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 3838A","Date":"2025-04-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 3838A","Date":"2025-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 3838B","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1120,"Name":"Billy Jones","Short":"JONES"}],
  "Title":"Relates to procedures and other matters related to the receipt or discontinuation of certain benefits",
  "Summary":"Requires that all procedures and other matters related to the receipt or discontinuation of benefits available under section two hundred seven-c of the general municipal law shall be subject, upon request of the affected employee, to a de novo evidentiary hearing.",
  "LawSection":"General Municipal Law","LawCode":"Amd §207-c, Gen Muni L",
  "ActClause":"AN ACT to amend the general municipal law, in relation to procedures and other matters related to the receipt or discontinuation of certain benefits",
- "PreviousVersions":["A7579-2023"]
+ "SameAsPrintNo":"S5026-2025","PreviousVersions":["A7579-2023"]
 }

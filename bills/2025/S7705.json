@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7705","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-30T16:16:53.046231Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-04-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1392","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
  "Title":"Relates to Medicaid reimbursement rates for private duty nursing",
  "Summary":"Relates to Medicaid reimbursement rates for private duty nursing; requires DOH to publish a private duty rate schedule.",
