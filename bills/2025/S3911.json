@@ -1,12 +1,17 @@
 {
- "PrintNo":"S3911","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T14:52:41.715617Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-30","Chamber":"SENATE"}],
+ "PrintNo":"S3911","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-30T14:52:41.715617Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3911A","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
- "Title":"Relates to eco-friendly alternative utensils and condiments",
- "Summary":"Prohibits public food service establishments operating in the state from providing single-use plastic utensils or condiments to any customer which are not eco-friendly alternative utensils and condiments, except upon, and in accordance with, the express request of that customer.",
- "LawSection":"Environmental Conservation Law","LawCode":"Add Art 27 Title 34 §§27-3401 & 27-3403, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to eco-friendly alternative utensils and condiments",
+ "Title":"Relates to food service item waste reduction",
+ "Summary":"Prohibits public food service establishments operating in the state from providing excess food service items including utensils, condiments, napkins and extra containers, to any customer except upon, and in accordance with, the express request of that customer.",
+ "LawSection":"Environmental Conservation Law",
+ "LawCode":"Add Art 27 Title 34 §§27-3401 - 27-3407, En Con L; amd §92-s, St Fin L",
+ "ActClause":"AN ACT to amend the environmental conservation law and the state finance law, in relation to food service item waste reduction",
  "SameAsPrintNo":"A6949-2025"
 }

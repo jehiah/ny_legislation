@@ -1,12 +1,15 @@
 {
- "PrintNo":"S5226","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T16:06:02.66259Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-19","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-19","Chamber":"SENATE"}],
+ "PrintNo":"S5226","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-19T16:06:02.66259Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Consumer Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-19","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5226A","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
- "Title":"Sets standards for advertising affordable housing",
- "Summary":"Sets standards for advertising affordable and deeply affordable housing.",
- "LawSection":"General Business Law","LawCode":"Add §350-a-1, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to setting standards for advertising affordable housing",
- "SameAsPrintNo":"A7380-2025"
+ "Title":"Sets standards for advertising deeply affordable housing",
+ "Summary":"Sets standards for advertising deeply affordable housing.","LawSection":"General Business Law",
+ "LawCode":"Add §350-a-1, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to setting standards for advertising deeply affordable housing"
 }
