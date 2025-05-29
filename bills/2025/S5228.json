@@ -1,8 +1,12 @@
 {
  "PrintNo":"S5228","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T16:06:34.421028Z",
- "Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-19","Committee":"Children And Families"}],
- "Actions":[{"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-19","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-19","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1491","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1225,"Name":"John Liu","Short":"LIU"}],
  "Title":"Directs the office of children and family services to establish a center for fatherhood initiatives",
  "Summary":"Directs the office of children and family services to establish a center for fatherhood initiatives to issue grants to any and all initiatives regarding the promotion and advancement of fatherhood, including but not limited to all marginalized fatherhood groups to help expand opportunities to improve parenting knowledge, attitudes, and self-efficacy.",

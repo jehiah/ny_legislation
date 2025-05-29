@@ -1,8 +1,12 @@
 {
  "PrintNo":"S680","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T13:52:24.707419Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1462","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
  "Title":"Relates to the timing of emergency public safety alerts in the event of a disaster",
  "Summary":"Provides that any system for warning populations who are or may be endangered and for rapid and effective communication for any New York emergency alert notification shall occur within thirty minutes, or as soon as practicable thereafter.",

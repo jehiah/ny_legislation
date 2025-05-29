@@ -1,8 +1,12 @@
 {
  "PrintNo":"S7546","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-22T14:22:22.042209Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-22","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-04-22","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-04-22","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1503","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"}],
  "Title":"Requires the district attorney to mail disposition of criminal felony trial to any crime victim not present at time defendant sentenced or acquitted after completion of trial",
  "Summary":"Requires that following the acquittal after trial or the sentencing of any defendant for a felony, the district attorney, or their designee, shall mail a written summary of the disposition of such felony to any victim who was not present at the time that the defendant was sentenced or acquitted after trial.",

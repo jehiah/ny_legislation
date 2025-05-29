@@ -1,13 +1,19 @@
 {
  "PrintNo":"A6918","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-18T13:12:32.602574Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules 6918a",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules 6918a"}],
+ "Published":"2025-03-18T13:12:32.602574Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules 6918a"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-18","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-30","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-13","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-27","Chamber":"ASSEMBLY"},
-  {"Text":"AMEND AND RECOMMIT TO RULES 6918A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMEND AND RECOMMIT TO RULES 6918A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.332","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.332","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -97,11 +103,71 @@
     {"ID":1089,"Short":"HYNDMAN","Vote":"Excused"},{"ID":896,"Short":"WALKER","Vote":"Excused"},
     {"ID":900,"Short":"DILAN","Vote":"Absent"}
    ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-05-29","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":574,"Short":"BARCLAY","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":468,"Short":"RAMOS","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1484,"Short":"GALLAHAN","Vote":"Nay"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Nay"},{"ID":1555,"Short":"O'PHARROW","Vote":"Nay"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},{"ID":1127,"Short":"WALSH","Vote":"Nay"},
+    {"ID":468,"Short":"RAMOS","Vote":"Nay"},{"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Nay"},{"ID":1464,"Short":"GIGLIO","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Excused"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Excused"},{"ID":1089,"Short":"HYNDMAN","Vote":"Excused"},
+    {"ID":896,"Short":"WALKER","Vote":"Excused"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":474,"Short":"LAVINE","Vote":"Excused"},{"ID":655,"Short":"DAVILA","Vote":"Excused"},
+    {"ID":669,"Short":"ROZIC","Vote":"Excused"},{"ID":900,"Short":"DILAN","Vote":"Absent"}
+   ]
   }
  ],
  "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}],
  "Title":"Authorizes the town of Copake to establish community preservation funds and to impose a real estate transfer tax with revenues to be deposited into the fund",
  "Summary":"Authorizes the town of Copake to establish community preservation funds and to impose a real estate transfer tax with revenues to be deposited into the community preservation fund; provides for the repeal of certain provisions upon expiration thereof.",
- "LawSection":"Town Law","LawCode":"Add §64-l, Town L; add Art 31-J §§1450-a - 1450-o, Tax L",
- "ActClause":"AN ACT to amend the town law, in relation to authorizing the town of Copake to establish community preservation funds; to amend the tax law, in relation to authorizing the town of Copake to impose a real estate transfer tax with revenues therefrom to be deposited in said community preservation fund; and providing for the repeal of certain provisions of the tax law upon expiration thereof"
+ "LawSection":"Town Law","LawCode":"Add §64-l, Town L; add Art 31-J §§1450-a - 1450-p, Tax L",
+ "ActClause":"AN ACT to amend the town law, in relation to authorizing the town of Copake to establish community preservation funds; to amend the tax law, in relation to authorizing the town of Copake to impose a real estate transfer tax with revenues therefrom to be deposited in said community preservation fund; and providing for the repeal of certain provisions of the tax law upon expiration thereof",
+ "SameAsPrintNo":"S6664-2025"
 }

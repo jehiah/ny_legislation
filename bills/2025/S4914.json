@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4914","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-14T11:27:01.918286Z","Status":"PASSED_SENATE",
+ "Published":"2025-02-14T11:27:01.918286Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Children And Families"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-19"},{"Type":"PASSED_SENATE","Date":"2025-05-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-19"},{"Type":"PASSED_SENATE","Date":"2025-05-22"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-14","Chamber":"SENATE"},
@@ -14,7 +15,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
   {"Text":"AMENDED ON THIRD READING 4914B","Date":"2025-05-19","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-05-22","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -105,7 +107,8 @@
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
   {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
-  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+  {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
  ],
  "Title":"Protects individuals who provide or receive legally protected health activity from criminal or civil liability or professional sanctions imposed by jurisdictions outside the state; repealer",
  "Summary":"Protects individuals who provide or receive legally protected health activity, including reproductive health care and gender-affirming care, from criminal or civil liability or professional sanctions imposed by jurisdictions outside the state.",

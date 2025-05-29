@@ -1,8 +1,12 @@
 {
  "PrintNo":"S5221","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T15:50:24.413798Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-19","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-19","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-19","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1490","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
  "Title":"Extends limitations on the shift between classes of taxable property in the town of Orangetown, County of Rockland",
  "Summary":"Extends limitations on the shift between classes of taxable property in the town of Orangetown, County of Rockland for the 2025--2026 assessment rolls.",

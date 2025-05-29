@@ -1,12 +1,18 @@
 {
  "PrintNo":"S7974","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T11:27:17.54739Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Internet And Technology"}],
- "Actions":[{"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-05-15","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Internet And Technology"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1512","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
  "Title":"Relates to recovery of online accounts for mobile telephones",
  "Summary":"Requires that businesses that provide consumers with online accounts to access services accounts for mobile telephones using proper identification if the business has a physical presence in this state.",
  "LawSection":"General Business Law","LawCode":"Add §394-i, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to recovery of online accounts for mobile telephones",
- "PreviousVersions":["S9241-2021","S6323-2023"]
+ "SameAsPrintNo":"A8598-2025","PreviousVersions":["S9241-2021","S6323-2023"]
 }

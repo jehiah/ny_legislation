@@ -1,8 +1,12 @@
 {
- "PrintNo":"A8043","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-22T15:55:41.377858Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8043","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-22T15:55:41.377858Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8043A","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
@@ -10,7 +14,7 @@
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}
  ],
  "Title":"Prohibits octopus farming",
- "Summary":"Provides that no person shall engage in the aquaculture of any species of octopus in the state for the purpose of human consumption; provides no business entity shall sell, possess, or transport any species of octopus in the state that is the result or product of aquaculture; makes related provisions.",
+ "Summary":"Provides that no person shall engage in the aquaculture of any species of octopus in the state for the purpose of human consumption.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §13-0316-a, amd §71-0925, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to octopus farming",
  "SameAsPrintNo":"S7421-2025"

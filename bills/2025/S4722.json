@@ -1,9 +1,9 @@
 {
- "PrintNo":"S4722","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-12T10:04:52.645282Z",
- "Status":"PASSED_SENATE",
+ "PrintNo":"S4722","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-12T10:04:52.645282Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-10"},{"Type":"PASSED_SENATE","Date":"2025-04-29"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-02-12","Chamber":"SENATE"},
@@ -11,7 +11,13 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-04-09","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-29","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-29","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-04-29","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 4722A","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A1914","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -96,9 +102,9 @@
   }
  ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
- "Title":"Requires the empire state plaza art commission to provide recommendations to the governor on renaming the agency buildings located at the empire state plaza",
- "Summary":"Requires the empire state plaza art commission to provide recommendations to the governor on renaming the agency buildings located at the empire state plaza; establishes considerations to include places, persons and matters of significance to the state that reflect state values; requires the governor to choose the new agency building names within 60 days after the commission's recommendation.",
+ "Title":"Requires the empire state plaza art commission to examine the historical significance of major rivers in the state of New York in connection with renaming the agency buildings located at the empire state plaza",
+ "Summary":"Requires the empire state plaza art commission to examine the historical significance of major rivers in the state of New York in connection with renaming the agency buildings located at the empire state plaza; requires the governor to choose the new agency building names within 60 days after the commission's recommendation.",
  "LawSection":"Arts and Cultural Affairs Law","LawCode":"Amd §4.07, Arts & Cul L",
  "ActClause":"AN ACT to amend the arts and cultural affairs law, in relation to renaming agency building one, agency building two, agency building three and agency building four, located at the empire state plaza",
- "PreviousVersions":["S8722-2023"]
+ "SameAsPrintNo":"A1914-2025","PreviousVersions":["S8722-2023"]
 }

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S5500","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T15:54:54.740572Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Internet And Technology"}],
- "Actions":[{"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-02-21","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Internet And Technology"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-02-21","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1508","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to peer-to-peer mobile payment service security",
  "Summary":"Directs every peer-to-peer mobile service to require users to create a personal identification code associated with the user's account that is required to be used when certain actions are taken and to require users to set a monetary amount for intended transfers above which the use of a personal identification number will be required to authenticate the user's identity.",

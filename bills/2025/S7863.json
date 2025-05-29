@@ -1,17 +1,20 @@
 {
- "PrintNo":"S7863","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-12T11:25:29.084443Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S7863","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-12T11:25:29.084443Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-12","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1382","Date":"2025-05-28","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1382","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"AMENDED 7863A","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],
  "Title":"Extends the authority of the department of environmental conservation to manage American eel",
- "Summary":"Extends the authority of the department of environmental conservation to manage American eel from 2025 to 2028.",
+ "Summary":"Extends the authority of the department of environmental conservation to manage American eel from 2025 to 2026.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §13-0339-a, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to extending the authority of the department of environmental conservation to manage the American eel"
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to extending the authority of the department of environmental conservation to manage the American eel",
+ "SameAsPrintNo":"A8654-2025"
 }

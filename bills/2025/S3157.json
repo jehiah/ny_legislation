@@ -1,9 +1,16 @@
 {
  "PrintNo":"S3157","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T16:15:17.346271Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-23","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-23","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1478","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
+ "Sponsors":[
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
+ ],
  "Title":"Authorizes dental hygienists to provide such services in collaboration with a licensed dentist",
  "Summary":"Authorizes a licensed dental hygienist, collaborative practice to provide services without supervision in collaboration with a licensed dentist under a collaborative practice agreement.",
  "LawSection":"Education Law","LawCode":"Amd §6606, Ed L",

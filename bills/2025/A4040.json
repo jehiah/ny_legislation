@@ -1,11 +1,51 @@
 {
  "PrintNo":"A4040","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T15:34:30.86409Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-26","Committee":"Governmental Operations"}],
+ "Published":"2025-01-30T15:34:30.86409Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-02-26","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 4040A","Date":"2025-02-26","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 4040A","Date":"2025-02-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-04-02","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Nay"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},
+    {"ID":1556,"Short":"NORBER","Vote":"Nay"},{"ID":1135,"Short":"MORINELLO","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},{"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},
@@ -19,7 +59,8 @@
   {"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},
   {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
   {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
-  {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"}
+  {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
+  {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
  ],
  "Title":"Codifies the disparate impact standard in the human rights law",
  "Summary":"Codifies the disparate impact standard in the human rights law; provides that in cases of alleged housing discrimination, an unlawful discriminatory practice may be established by a practice's discriminatory effect.",

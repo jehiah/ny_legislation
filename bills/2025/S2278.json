@@ -1,8 +1,12 @@
 {
  "PrintNo":"S2278","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:41:37.945411Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-16","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1476","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
   {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}

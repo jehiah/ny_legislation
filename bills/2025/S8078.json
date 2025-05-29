@@ -1,8 +1,15 @@
 {
  "PrintNo":"S8078","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T17:48:59.157504Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-15","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1453","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to the standards for openable windows in residential units",
  "Summary":"Requires openable windows in residential units to comply with certain mechanical ventilation standards.",

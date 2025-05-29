@@ -1,14 +1,16 @@
 {
- "PrintNo":"S4472","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S4472","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-02-05T14:42:36.065105Z","Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Children And Families"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Children And Families"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO SOCIAL SERVICES","Date":"2025-02-07","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 4472A","Date":"2025-02-07","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERENCE CHANGED TO CHILDREN AND FAMILIES","Date":"2025-03-14","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO CHILDREN AND FAMILIES","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 4472B","Date":"2025-05-21","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 4472B","Date":"2025-05-21","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CHILDREN AND FAMILIES","Date":"2025-05-29","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 4472C","Date":"2025-05-29","Chamber":"SENATE","Version":"C"}
  ],
  "Sponsors":[
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -18,6 +20,6 @@
  "Title":"Implements automatic market rate increases for child care assistance",
  "Summary":"Implements automatic market rate increases for child care assistance such that assistance will be equal to the applicable payment rate established by the department.",
  "LawSection":"Social Services Law","LawCode":"Amd §410-x, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to implementing a cost estimation model and automatic market rate increases for child care assistance",
- "PreviousVersions":["A10596-2021","S3070-2023"]
+ "ActClause":"AN ACT to amend the social services law, in relation to implementing automatic market rate increases for child care assistance",
+ "SameAsPrintNo":"A1001-2025","PreviousVersions":["A10596-2021","S3070-2023"]
 }

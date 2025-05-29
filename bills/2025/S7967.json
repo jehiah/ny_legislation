@@ -1,11 +1,16 @@
 {
  "PrintNo":"S7967","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T09:34:14.217957Z",
- "Status":"IN_SENATE_COMM","Committee":"Libraries",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Libraries"}],
- "Actions":[{"Text":"REFERRED TO LIBRARIES","Date":"2025-05-15","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO LIBRARIES","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1506","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"}],
  "Title":"Includes the Island Park Public Library as an eligible library for the financing of projects through the dormitory authority",
  "Summary":"Includes the Island Park Public Library as an eligible library for the financing of projects through the dormitory authority.",
  "LawSection":"Public Authorities","LawCode":"Amd §5, Chap 672 of 1993",
- "ActClause":"AN ACT to amend chapter 672 of the laws of 1993, amending the public authorities law relating to the construction and financing of facilities for certain public libraries, in relation to including the Island Park Public Library"
+ "ActClause":"AN ACT to amend chapter 672 of the laws of 1993, amending the public authorities law relating to the construction and financing of facilities for certain public libraries, in relation to including the Island Park Public Library",
+ "SameAsPrintNo":"A8650-2025"
 }

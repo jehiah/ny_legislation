@@ -2,10 +2,39 @@
  "PrintNo":"A4804","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-06T11:05:38.387464Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-06","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-06","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-06","Chamber":"ASSEMBLY"},
+  {
+   "Text":"HELD FOR CONSIDERATION IN CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-28",
+   "Chamber":"ASSEMBLY"
+  }
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"},{"ID":1244,"Short":"FALL","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":1509,"Name":"Eric Brown","Short":"BROWN E"},
-  {"ID":1135,"Name":"Angelo J. Morinello","Short":"MORINELLO"},{"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"}
+  {"ID":1135,"Name":"Angelo J. Morinello","Short":"MORINELLO"},{"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},
+  {"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},{"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"},
+  {"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"}
  ],
  "Title":"Requires the office of renewable energy siting to develop standards and conditions for the siting of certain large scale renewable energy systems",
  "Summary":"Requires the office of renewable energy siting to develop standards and conditions for the siting of certain large scale renewable energy systems; requires approval of municipalities to such siting plans.",

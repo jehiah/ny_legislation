@@ -1,10 +1,11 @@
 {
  "PrintNo":"S596","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T15:31:26.241974Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Procurement And Contracts"},
   {"Type":"SENATE_FLOOR","Date":"2025-03-20"},{"Type":"PASSED_SENATE","Date":"2025-05-13"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Governmental Operations"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-08","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-13","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A2296","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.298","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

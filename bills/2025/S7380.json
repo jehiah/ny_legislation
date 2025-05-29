@@ -1,15 +1,18 @@
 {
- "PrintNo":"S7380","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7380","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-04-11T15:07:16.690723Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-27"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-11","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-30","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 7380A","Date":"2025-04-30","Chamber":"SENATE","Version":"A"},
-  {"Text":"1ST REPORT CAL.1320","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
+  {"Text":"1ST REPORT CAL.1320","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED (T) 7380B","Date":"2025-05-29","Chamber":"SENATE","Version":"B"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-29","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -33,7 +36,8 @@
  ],
  "Sponsors":[{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}],
  "Title":"Dedicates a portion of the state highway system to Major Andrew D. Byers",
- "Summary":"Dedicates a portion of the state highway system to \"Major Andrew D. Byers\" on state route 324 in the town of Clarence.",
+ "Summary":"Dedicates a portion of the state highway system to Major Andrew D. Byers on state route 324 in the town of Clarence.",
  "LawSection":"Highway Law","LawCode":"Add §345-d, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to \"Major Andrew D. Byers\""
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Major Andrew D. Byers",
+ "SameAsPrintNo":"A7888-2025"
 }

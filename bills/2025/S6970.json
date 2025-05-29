@@ -3,11 +3,26 @@
  "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Racing, Gaming And Wagering"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-03-27","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1330","Date":"2025-05-28","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1330","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-28","Chamber":"SENATE","Committee":"Racing, Gaming And Wagering",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Relates to unsold instant lottery game tickets",

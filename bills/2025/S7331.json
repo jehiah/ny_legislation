@@ -1,17 +1,20 @@
 {
- "PrintNo":"S7331","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-10T11:44:28.045349Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-28"}],
+ "PrintNo":"S7331","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-10T11:44:28.045349Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-04-10","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1391","Date":"2025-05-28","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1391","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"AMENDED (T) 7331A","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
  ],
- "Title":"Allows individuals to register in the  donate life registry  through mandatory electronic tax filings",
- "Summary":"Allows individuals to register in the \"donate life registry\" on any mandatory electronic tax filing.",
+ "Title":"Allows individuals to register in the donate life registry through mandatory personal income tax electronic tax filings",
+ "Summary":"Allows individuals to register in the \"donate life registry\" on any mandatory electronic personal income tax filing.",
  "LawSection":"Public Health Law","LawCode":"Amd §4310, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to allowing individuals to register in the \"donate life registry\" through mandatory electronic tax filings"
+ "ActClause":"AN ACT to amend the public health law, in relation to allowing individuals to register in the \"donate life registry\" through mandatory electronic personal income tax filings",
+ "SameAsPrintNo":"A7011-2025"
 }

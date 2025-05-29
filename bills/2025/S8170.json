@@ -1,8 +1,15 @@
 {
  "PrintNo":"S8170","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-16T16:30:56.208515Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-16","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-16","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-16","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-16","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1454","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}],
  "Title":"Extends certain deadlines related to a tax abatement for certain alterations and improvements to multiple dwellings",
  "Summary":"Extends certain deadlines related to a tax abatement for certain alterations and improvements to multiple dwellings.",

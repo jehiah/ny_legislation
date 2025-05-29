@@ -1,10 +1,12 @@
 {
  "PrintNo":"S4929","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T13:08:12.01329Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-14","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1488","Date":"2025-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -20,7 +22,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
+ "Sponsors":[
+  {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
+ ],
  "Title":"Relates to caregiver requirements for certain day care homes",
  "Summary":"Requires one caregiver for every two children under eighteen months of age in group family day care homes and family day care homes.",
  "LawSection":"Social Services Law","LawCode":"Amd §390, Soc Serv L",

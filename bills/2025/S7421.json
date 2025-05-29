@@ -1,10 +1,16 @@
 {
- "PrintNo":"S7421","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-15T15:58:12.984355Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-15","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-15","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],"Title":"Prohibits octopus farming",
- "Summary":"Provides that no person shall engage in the aquaculture of any species of octopus in the state for the purpose of human consumption; provides no business entity shall sell, possess, or transport any species of octopus in the state that is the result or product of aquaculture; makes related provisions.",
+ "PrintNo":"S7421","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-15T15:58:12.984355Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7421A","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
+ "Title":"Prohibits octopus farming",
+ "Summary":"Provides that no person shall engage in the aquaculture of any species of octopus in the state for the purpose of human consumption.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §13-0316-a, amd §71-0925, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to octopus farming"
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to octopus farming",
+ "SameAsPrintNo":"A8043-2025"
 }

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S6744","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-21T14:49:45.458526Z","Status":"PASSED_SENATE",
+ "Published":"2025-03-21T14:49:45.458526Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Higher Education"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-05"},{"Type":"PASSED_SENATE","Date":"2025-05-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-05"},{"Type":"PASSED_SENATE","Date":"2025-05-22"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Higher Education"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-21","Chamber":"SENATE"},
@@ -13,7 +14,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -98,7 +100,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}],
+ "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Permits dentists to administer influenza and COVID vaccinations and vaccinations related to a public health emergency",
  "Summary":"Permits dentists to administer influenza and COVID vaccinations and vaccinations related to a declared public health emergency; requires dentists to report such vaccinations.",
  "LawSection":"Education Law","LawCode":"Amd §6601, Ed L",

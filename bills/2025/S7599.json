@@ -1,8 +1,14 @@
 {
  "PrintNo":"S7599","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T09:54:44.769855Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Internet And Technology"}],
- "Actions":[{"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-04-23","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Internet And Technology"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-04-23","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1510","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}

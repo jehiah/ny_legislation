@@ -1,10 +1,12 @@
 {
  "PrintNo":"S5339","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-20T15:41:50.855222Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-20","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1492","Date":"2025-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

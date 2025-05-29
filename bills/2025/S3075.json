@@ -1,11 +1,29 @@
 {
  "PrintNo":"S3075","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T13:31:53.74923Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-23","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-23","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-28","Chamber":"SENATE","Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to the sale of private-label liquor at retail for consumption off the premises",
  "Summary":"Authorizes the sale of private-label liquor at retail for consumption off the premises by certain licensed distillers; requires the labels of such private-label liquors to indicate that the distiller is licensed in New York state; requires reporting.",
  "LawSection":"Alcoholic Beverage Control Law","LawCode":"Add §106-c, ABC L",
- "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to the sale of private-label liquor at retail for consumption off the premises"
+ "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to the sale of private-label liquor at retail for consumption off the premises",
+ "SameAsPrintNo":"A8062-2025"
 }

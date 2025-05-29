@@ -1,10 +1,12 @@
 {
- "PrintNo":"S3285","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T14:58:17.093549Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Finance"}],
+ "PrintNo":"S3285","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T14:58:17.093549Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-24","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3285A","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -31,8 +33,9 @@
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}
  ],
- "Title":"Creates a department of health education and outreach program on reproductive health services",
- "Summary":"Creates a department of health education and outreach program on reproductive health services for consumers, patients, educators, and health care providers related to reproductive health services available in New York state including, but not limited to: access to family planning services such as contraceptives and pregnancy testing, testing and treatment for sexually transmitted infections; makes related provisions.",
- "LawSection":"Public Health Law","LawCode":"Add §2599-bb-2, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to the creation of a department of health education and outreach program on reproductive health services"
+ "Title":"Creates a women's and reproductive health services education and outreach program",
+ "Summary":"Creates a women's and reproductive health services education and outreach program within the department of health for education and outreach for consumers, patients, educators, and health care providers related to women's and reproductive health services available in New York state; provides certain authorizations to the commissioner of health in accordance with such program; directs the department of health to ensure confidentiality of providers and individuals.",
+ "LawSection":"Public Health Law","LawCode":"Amd §266, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to the creation of a department of health education and outreach program on reproductive health services",
+ "SameAsPrintNo":"A2581-2025"
 }

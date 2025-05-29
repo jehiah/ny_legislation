@@ -1,8 +1,26 @@
 {
- "PrintNo":"A8595","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-22T11:54:35.833428Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Science And Technology"}],
- "Actions":[{"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-05-22","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8595","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-22T11:54:35.833428Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO SCIENCE AND TECHNOLOGY","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8595A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-29","Chamber":"ASSEMBLY",
+   "Committee":"SCIENCE AND TECHNOLOGY",
+   "Votes":[
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Enacts the \"New York artificial intelligence transparency for journalism act\"",
  "Summary":"Enacts the \"New York artificial intelligence transparency for journalism act\"; requires developers of generative artificial intelligence systems or services to post certain information on the developer's website regarding video, audio, text and data from a covered publication used to train the generative artificial intelligence system or service; grants journalism providers authority to request a subpoena requiring developers to comply with posting such information.",

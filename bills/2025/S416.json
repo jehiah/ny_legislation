@@ -1,8 +1,12 @@
 {
  "PrintNo":"S416","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T11:22:02.326232Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1460","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},

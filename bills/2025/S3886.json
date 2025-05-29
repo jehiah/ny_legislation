@@ -1,8 +1,12 @@
 {
  "PrintNo":"S3886","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T13:55:30.819745Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-30","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1484","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"}],"Title":"Protects tenants displaced due to fire",
  "Summary":"Provides that any tenant who is evicted or otherwise removed from a dwelling unit as a result of a vacate order issued by any governmental agency or department due to fire shall be entitled to a suitable accommodation; defines suitable accommodation; makes related provisions.",
  "LawSection":"New York City Administrative Code","LawCode":"Add §26-307, NYC Ad Cd",

@@ -1,8 +1,25 @@
 {
  "PrintNo":"S8197","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-20T11:11:56.562247Z",
- "Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Children And Families"}],
- "Actions":[{"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-05-20","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-29","Chamber":"SENATE","Committee":"Children And Families",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"}],
  "Title":"Relates to the right to counsel in certain family court proceedings",
  "Summary":"Relates to the right to counsel in certain family court proceedings regarding violations of orders of child support and to establish paternity or parentage in the family court.",

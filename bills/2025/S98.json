@@ -1,15 +1,16 @@
 {
- "PrintNo":"S98","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-18T14:36:34.049184Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S98","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-18T14:36:34.049184Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-03"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.401","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 98A","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,8 +30,8 @@
  ],
  "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
  "Title":"Requires electric corporations build make-ready infrastructure",
- "Summary":"Requires electric corporations build make-ready infrastructure to facilitate the charging of electric vehicles.",
+ "Summary":"Requires electric corporations build make-ready infrastructure to facilitate the charging of electric public serving fleet vehicles.",
  "LawSection":"Public Service Law","LawCode":"Add §66-x, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to building make-ready electrical infrastructure for the charging of electric vehicles",
+ "ActClause":"AN ACT to amend the public service law, in relation to building make-ready electrical infrastructure for the charging of electric vehicles for public serving fleet vehicles",
  "SameAsPrintNo":"A491-2025","PreviousVersions":["S9114-2023"]
 }

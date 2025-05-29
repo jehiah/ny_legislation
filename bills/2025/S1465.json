@@ -1,8 +1,12 @@
 {
  "PrintNo":"S1465","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T09:31:49.36674Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-10","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-10","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1473","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},

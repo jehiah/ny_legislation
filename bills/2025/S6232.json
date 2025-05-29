@@ -1,10 +1,12 @@
 {
  "PrintNo":"S6232","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-07T09:17:18.657734Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-03-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1496","Date":"2025-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

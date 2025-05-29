@@ -1,12 +1,16 @@
 {
- "PrintNo":"A491","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:03:53.332415Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
+ "PrintNo":"A491","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T12:03:53.332415Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 491A","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}],
  "Title":"Requires electric corporations build make-ready infrastructure",
- "Summary":"Requires electric corporations build make-ready infrastructure to facilitate the charging of electric vehicles.",
+ "Summary":"Requires electric corporations build make-ready infrastructure to facilitate the charging of electric public serving fleet vehicles.",
  "LawSection":"Public Service Law","LawCode":"Add §66-x, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to building make-ready electrical infrastructure for the charging of electric vehicles",
+ "ActClause":"AN ACT to amend the public service law, in relation to building make-ready electrical infrastructure for the charging of electric vehicles for public serving fleet vehicles",
  "SameAsPrintNo":"S98-2025","PreviousVersions":["A10383-2023"]
 }

@@ -1,14 +1,16 @@
 {
  "PrintNo":"S56","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-17T15:36:25.726218Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"}],
+ "Published":"2024-12-17T15:36:25.726218Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 56A","Date":"2025-01-13","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-24","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 56B","Date":"2025-03-24","Chamber":"SENATE","Version":"B"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE","Version":"B"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.1456","Date":"2025-05-29","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

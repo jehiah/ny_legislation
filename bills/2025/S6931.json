@@ -1,12 +1,16 @@
 {
- "PrintNo":"S6931","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T09:19:37.929383Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Procurement And Contracts"}],
- "Actions":[{"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-27","Chamber":"SENATE"}],
+ "PrintNo":"S6931","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-27T09:19:37.929383Z","Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Procurement And Contracts"}],
+ "Actions":[
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO PROCUREMENT AND CONTRACTS","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6931A","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
- "Title":"Directs state agencies to adopt a sustainability and decarbonization program",
- "Summary":"Directs state agencies to adopt a sustainability and decarbonization program; establishes a GreenNY council which will develop sustainable procurement specifications, issue operational directives and guidance for construction, issue a waste diversion plan template for agencies and provide agencies with information on reducing use of toxic substances; requires agencies to reduce greenhouse gas emissions.",
- "LawSection":"Environmental Conservation",
- "ActClause":"AN ACT in relation to directing state agencies to adopt a sustainability and decarbonization program",
- "PreviousVersions":["S5180-2023"]
+ "Title":"Directs state agencies to adopt a waste diversion plan",
+ "Summary":"Directs state agencies to adopt a waste diversion plan.","LawSection":"Environmental Conservation Law",
+ "LawCode":"Add §27-0111, En Con L",
+ "ActClause":"AN ACT to amend the environmental conservation law; in relation to directing state agencies to adopt a waste diversion plan",
+ "SameAsPrintNo":"A8160-2025","PreviousVersions":["S5180-2023"]
 }

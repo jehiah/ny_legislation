@@ -1,9 +1,15 @@
 {
  "PrintNo":"S5593","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-25T12:31:11.804182Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-25","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-25","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1515","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Relates to periods suspending the operation of certain rate, charge or other changes by utilities, and provisions permitting utilities to retroactively recover revenues they would have earned during such periods",
  "Summary":"Provides that subsequent requests for an extension of a suspension period for certain rate, charge or other changes by utilities shall require approval by the public service commission and shall be valid for one month, after which the commission shall review and determine the necessity of a further extension; provides limitations on retroactive rate recovery by utilities.",
  "LawSection":"Public Service Law","LawCode":"Amd §66, add §66-z, Pub Serv L",

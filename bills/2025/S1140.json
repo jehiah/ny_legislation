@@ -1,8 +1,14 @@
 {
- "PrintNo":"S1140","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T11:08:48.895446Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Budget And Revenue"}],
- "Actions":[{"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S1140","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T11:08:48.895446Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1140A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.1466","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
@@ -12,5 +18,5 @@
  "Summary":"Establishes a tax on noise from non-essential helicopter and seaplane flights in cities with a population of one million or more.",
  "LawSection":"Tax Law","LawCode":"Add Art 12-B §§289-g - 289-o, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to establishing a tax on noise emissions from non-essential helicopter and seaplane flights in cities with a population of one million or more",
- "SameAsPrintNo":"A5891-2025","PreviousVersions":["S7216-2023"]
+ "PreviousVersions":["S7216-2023"]
 }

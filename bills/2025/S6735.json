@@ -1,12 +1,18 @@
 {
- "PrintNo":"S6735","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-21T10:02:42.041948Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-21","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-03-21","Chamber":"SENATE"}],
+ "PrintNo":"S6735","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-21T10:02:42.041948Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-03-21","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6735A","Date":"2025-05-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.1498","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to peremptory challenges where there are two or more defendants",
  "Summary":"Provides that if there is a tie when there is an even number of defendants, a peremptory challenge must be allowed.",
- "LawSection":"Criminal Procedure Law","LawCode":"Amd §270.25, CP L",
+ "LawSection":"Criminal Procedure Law","LawCode":"Amd §§270.25 & 360.30, CP L",
  "ActClause":"AN ACT to amend the criminal procedure law, in relation to peremptory challenges",
- "PreviousVersions":["A10670-2023"]
+ "SameAsPrintNo":"A934-2025","PreviousVersions":["A10670-2023"]
 }

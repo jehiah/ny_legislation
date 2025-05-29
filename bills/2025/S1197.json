@@ -1,8 +1,12 @@
 {
  "PrintNo":"S1197","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T13:26:28.176425Z",
- "Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Disabilities"}],
- "Actions":[{"Text":"REFERRED TO DISABILITIES","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO DISABILITIES","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1468","Date":"2025-05-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
