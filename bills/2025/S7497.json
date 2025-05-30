@@ -1,12 +1,17 @@
 {
- "PrintNo":"S7497","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-21T09:16:56.031835Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-21","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-21","Chamber":"SENATE"}],
+ "PrintNo":"S7497","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-21T09:16:56.031835Z","Status":"IN_SENATE_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-30","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-21","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7497A","Date":"2025-05-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"}],
- "Title":"Establishes the city of Dunkirk interim finance authority",
- "Summary":"Establishes the city of Dunkirk interim finance authority; provides for its functions, powers and duties.",
- "LawSection":"Public Authorities Law","LawCode":"Add Art 10-D Title 1-A §§3750 - 3772, Pub Auth L",
- "ActClause":"AN ACT to amend the public authorities law, in relation to establishing the city of Dunkirk interim finance authority",
- "SameAsPrintNo":"A8019-2025"
+ "Title":"Establishes the city of Dunkirk interim finance authority; repealer",
+ "Summary":"Establishes the city of Dunkirk interim finance authority; provides for its functions, powers and duties; repeals the city of Dunkirk fiscal recovery act.",
+ "LawSection":"Public Authorities Law",
+ "LawCode":"Add Art 10-D Title 1-A §§3750 - 3772, Pub Auth L; rpld Part DD, Chap 56 of 2024",
+ "ActClause":"AN ACT to amend the public authorities law, in relation to establishing the city of Dunkirk interim finance authority; and to repeal the city of Dunkirk fiscal recovery act"
 }

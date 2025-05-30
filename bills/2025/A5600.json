@@ -1,18 +1,43 @@
 {
- "PrintNo":"A5600","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-18T09:58:42.697287Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-18","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-02-18","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5600","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-18T09:58:42.697287Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules 5600a",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-30","Committee":"Rules 5600a"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-02-18","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO RULES 5600A","Date":"2025-05-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"INSURANCE",
+   "Votes":[
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
-  {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
+  {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
+  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}
  ],
  "Title":"Relates to certain voidable transfers affecting a federal home loan bank",
  "Summary":"Relates to certain voidable transfers affecting a federal home loan bank including injunctions and the conduct of delinquency proceedings against insurers domiciled in this state.",
  "LawSection":"Insurance Law","LawCode":"Amd §§7425, 7419 & 7409, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to certain voidable transfers affecting a federal home loan bank",
- "SameAsPrintNo":"S5347-2025","PreviousVersions":["A8040-2019","A3573-2021","A4925-2023"]
+ "PreviousVersions":["A8040-2019","A3573-2021","A4925-2023"]
 }

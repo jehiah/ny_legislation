@@ -1,16 +1,20 @@
 {
- "PrintNo":"A4179","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-31T14:35:22.663557Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-31","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-31","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4179","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-31T14:35:22.663557Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-30","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-31","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4179A","Date":"2025-05-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
  ],
  "Title":"Includes digital health care service platforms in the definition of temporary health care services agency",
- "Summary":"Includes digital health care service platforms in the definition of temporary health care services agency; includes the connection of health care personnel to services at a health care entity in the term assign.",
- "LawSection":"Public Health Law","LawCode":"Amd §2999-ii, Pub Health L",
+ "Summary":"Includes digital health care service platforms in the definition of temporary health care services agency.",
+ "LawSection":"Public Health Law","LawCode":"Amd §§2999-ii, 2999-jj & 2999-kk, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to including digital health care service platforms in the definition of temporary health care services agency",
- "PreviousVersions":["A9867-2023"]
+ "SameAsPrintNo":"S3355-2025","PreviousVersions":["A9867-2023"]
 }

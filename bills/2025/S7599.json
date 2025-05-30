@@ -1,20 +1,37 @@
 {
- "PrintNo":"S7599","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T09:54:44.769855Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S7599","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-23T09:54:44.769855Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Internet And Technology"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-04-23","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1510","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1510","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"AMENDED (T) 7599A","Date":"2025-05-30","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-27","Chamber":"SENATE","Committee":"Internet And Technology",
+   "Votes":[
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
  ],
  "Title":"Relates to automated decision-making by government agencies",
- "Summary":"Regulates automated decision-making by government agencies; requires agencies to conduct impact assessments; requires disclosure to the legislature of automated decision-making systems utilized by governmental agencies.",
- "LawSection":"State Technology Law","LawCode":"Add Art 5 §§501 - 504, St Tech L",
- "ActClause":"AN ACT to amend the state technology law, in relation to automated decision-making by government agencies"
+ "Summary":"Regulates automated decision-making by government agencies; requires agencies to conduct impact assessments; requires disclosure of automated decision-making tools utilized by governmental agencies.",
+ "LawSection":"State Technology Law",
+ "LawCode":"Add Art 5 §§501 - 504, §103-f, St Tech L; amd §§2510, 2588 & 3013, add §115, Ed L; amd §80, Civ Serv L",
+ "ActClause":"AN ACT to amend the state technology law, the education law and the civil service law, in relation to automated decision-making by government agencies",
+ "SameAsPrintNo":"A8295-2025"
 }

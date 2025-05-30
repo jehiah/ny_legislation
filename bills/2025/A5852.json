@@ -1,13 +1,13 @@
 {
  "PrintNo":"A5852","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-24T09:24:38.263404Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Codes"}],
+ "Published":"2025-02-24T09:24:38.263404Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-24","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-14","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 5852A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -23,6 +23,30 @@
     {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
     {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Excused"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Absent"}
+   ]
   }
  ],
  "Sponsors":[
@@ -34,5 +58,6 @@
  "Title":"Requires manufacturers or distributers of kratom within the state to include a warning label; prohibits labeling of kratom products as all natural",
  "Summary":"Requires manufacturers of kratom products within the state to have a warning label that the product has not been approved by the federal food and drug administration and the products' side effects; prohibits labeling of kratom products as all natural.",
  "LawSection":"General Business Law","LawCode":"Add §398-g, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, relating to regulating the sale of kratom products"
+ "ActClause":"AN ACT to amend the general business law, relating to regulating the sale of kratom products",
+ "SameAsPrintNo":"S8285-2025"
 }

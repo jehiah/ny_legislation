@@ -1,10 +1,12 @@
 {
- "PrintNo":"A5254","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T12:27:40.728063Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Ways And Means"}],
+ "PrintNo":"A5254","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-12T12:27:40.728063Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-30","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-12","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5254A","Date":"2025-05-30","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -38,6 +40,6 @@
  "Title":"Enacts the \"New York open water data act\"",
  "Summary":"Enacts the \"New York open water data act\"; directs certain agencies, under the leadership of conveners, to identify and integrate key water data sets; provides duties and an annual plan for data to be researched and reported.",
  "LawSection":"Environmental Conservation",
- "ActClause":"AN ACT in relation to enacting the \"New York open water data act\"","SameAsPrintNo":"S1211-2025",
+ "ActClause":"AN ACT in relation to enacting the \"New York open water data act\"",
  "PreviousVersions":["S9520-2021","A3299-2023"]
 }

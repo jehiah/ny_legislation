@@ -1,11 +1,12 @@
 {
- "PrintNo":"A8067","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-23T15:53:00.757181Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-23","Committee":"Banks"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-01"}],
+ "PrintNo":"A8067","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-23T15:53:00.757181Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-23","Committee":"Banks"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-04-23","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-04-30","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.118","Date":"2025-05-01","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.118","Date":"2025-05-01","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING (T) 8067A","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -32,10 +33,10 @@
  ],
  "Sponsors":[
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
-  {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"}
+  {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"}
  ],
- "Title":"Requires private nonprofit postsecondary providers of higher education which service student loans to submit an annual report relating to student loan services provided",
- "Summary":"Requires private nonprofit postsecondary providers of higher education which service student loans to submit an annual report relating to student loan services provided.",
- "LawSection":"Financial Services Law","LawCode":"Amd §902, Fin Serv L",
- "ActClause":"AN ACT to amend the financial services law, in relation to requiring private nonprofit postsecondary providers of higher education which service student loans to submit an annual report relating to student loan services provided"
+ "Title":"Relates to an exemption from the licensing requirements for servicers of student loans",
+ "Summary":"Relates to an exemption from the licensing requirements for servicers of student loans.",
+ "LawSection":"Banking Law","LawCode":"Amd §711, Bank L",
+ "ActClause":"AN ACT to amend the banking law, in relation to an exemption from the licensing requirements for servicers of student loans"
 }
