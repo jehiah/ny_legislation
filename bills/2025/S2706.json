@@ -1,10 +1,10 @@
 {
  "PrintNo":"S2706","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-22T15:46:12.459043Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-22T15:46:12.459043Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2025-04-01"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-28"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-22","Chamber":"SENATE"},
@@ -16,7 +16,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO CODES","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"SUBSTITUTED FOR A4725A","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.100","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.100","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTION RECONSIDERED","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

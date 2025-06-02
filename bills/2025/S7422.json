@@ -1,10 +1,12 @@
 {
- "PrintNo":"S7422","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-15T15:58:26.421901Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Finance"}],
+ "PrintNo":"S7422","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-15T15:58:26.421901Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-02","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-15","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-06-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7422A","Date":"2025-06-02","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,8 +30,8 @@
  ],
  "Sponsors":[{"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS"}],
  "Title":"Relates to traffic-control signal photo violation-monitoring devices at certain intersections in the county of Westchester",
- "Summary":"Authorizes MOU between Westchester County and state DOT for traffic-control signal photo violation-monitoring devices at certain intersections in the county of Westchester.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§1111-g & 1803, V & T L",
+ "Summary":"Authorizes additional traffic-control signal photo violation-monitoring devices at no more than one intersection located on the Saw Mill River parkway within the village of Pleasantville, county of Westchester, upon approval from the state department of transportation.",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §1111-g, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to the operation of traffic-control signal photo violation-monitoring devices in certain intersections in the county of Westchester",
  "SameAsPrintNo":"A8029-2025"
 }

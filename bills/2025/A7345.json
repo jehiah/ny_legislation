@@ -1,9 +1,16 @@
 {
- "PrintNo":"A7345","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-25T16:31:07.257067Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}],
+ "PrintNo":"A7345","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-25T16:31:07.257067Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-30","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7345A","Date":"2025-05-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
+  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}
+ ],
  "Title":"Grants peace officer status to certain security officers employed by Highland Hospital",
  "Summary":"Grants peace officer status to certain security officers employed by Highland Hospital; provides such peace officers are not authorized to carry, possess, repair or dispose of a firearm.",
  "LawSection":"Criminal Procedure Law","LawCode":"Amd §2.10, CP L",

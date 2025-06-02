@@ -1,8 +1,37 @@
 {
- "PrintNo":"A3595","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-28T14:19:55.223974Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-28","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-01-28","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3595","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-28T14:19:55.223974Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-02","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-01-28","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-06-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3595A","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-27","Chamber":"ASSEMBLY",
+   "Committee":"EDUCATION",
+   "Votes":[
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1089,"Short":"HYNDMAN","Vote":"Excused"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
   {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},{"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},
@@ -12,5 +41,5 @@
  "Summary":"Authorizes and directs the commissioner of education to conduct a study on the number of children who are caregivers and how being a caregiver impacts their education.",
  "LawSection":"Education",
  "ActClause":"AN ACT authorizing and directing the commissioner of education to conduct a study on the number of children who are caregivers and how being a caregiver impacts their education",
- "SameAsPrintNo":"S6273-2025","PreviousVersions":["A10480-2017","A2557-2019","A5849-2021","A9010-2023"]
+ "PreviousVersions":["A10480-2017","A2557-2019","A5849-2021","A9010-2023"]
 }

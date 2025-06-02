@@ -1,13 +1,38 @@
 {
  "PrintNo":"A756","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-06T15:57:09.090626Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Education"}],
+ "Published":"2025-01-06T15:57:09.090626Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-13","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 756A","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 756B","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 756B","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-27","Chamber":"ASSEMBLY",
+   "Committee":"EDUCATION",
+   "Votes":[
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1528,"Short":"CHANG","Vote":"Nay"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1089,"Short":"HYNDMAN","Vote":"Excused"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1466,"Name":"Michael Durso","Short":"DURSO"},
@@ -23,7 +48,7 @@
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
   {"ID":1148,"Name":"Doug Smith","Short":"SMITH"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
-  {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"}
+  {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"}
  ],
  "Title":"Relates to certain construction projects",
  "Summary":"Defines the term \"construction projects\" to mean the construction, reconstruction, rehabilitation or improvement of any school building where a district receives any apportionment for debt service or building aid and the school building is sited within the Long Island region; provides that each contract involving the award of a construction project shall require the use of a project labor agreement for all contractors and subcontractors on such project.",

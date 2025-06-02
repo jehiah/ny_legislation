@@ -1,12 +1,16 @@
 {
- "PrintNo":"S5742","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-28T12:36:25.590835Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-28","Chamber":"SENATE"}],
+ "PrintNo":"S5742","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-28T12:36:25.590835Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-02","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-28","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5742A","Date":"2025-06-02","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Enacts the \"age-friendly health system enhancement act\"",
- "Summary":"Establishes an age-friendly health system technical assistance center to provide assistance in relation to age-friendly health systems; and relates to hospital performance data.",
+ "Summary":"Establishes an age-friendly health system technical assistance center to provide assistance in relation to age-friendly health systems; relates to hospital performance data.",
  "LawSection":"Public Health Law","LawCode":"Amd §§206 & 2995-b, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to establishing a center for technical assistance relating to age-friendly health systems; and in relation to hospital performance data",
- "SameAsPrintNo":"A1988-2025","PreviousVersions":["S8651-2023"]
+ "PreviousVersions":["S8651-2023"]
 }

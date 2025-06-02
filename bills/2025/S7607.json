@@ -1,15 +1,18 @@
 {
- "PrintNo":"S7607","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7607","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-04-23T10:52:18.685292Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Transportation"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-02","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-23","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-01","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 7607A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 7607A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 7607B","Date":"2025-06-02","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"}],
  "Title":"Dedicates a portion of the state highway system to \"Lt. Gary A. Scott\"",
- "Summary":"Dedicates a portion of the state highway system to \"Lt. Gary A. Scott\" in the town of LeRoy, county of Genesee.",
+ "Summary":"Dedicates a portion of the state highway system to Lt. Gary A. Scott in the town of LeRoy, county of Genesee.",
  "LawSection":"Highway Law","LawCode":"Add §344-r, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to \"Lt. Gary A. Scott\""
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to \"Lt. Gary A. Scott\"",
+ "SameAsPrintNo":"A8340-2025"
 }

@@ -1,10 +1,12 @@
 {
- "PrintNo":"S8115","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T18:42:29.95248Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Internet And Technology"}],
+ "PrintNo":"S8115","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T18:42:29.95248Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-02","Committee":"Internet And Technology"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO INTERNET AND TECHNOLOGY","Date":"2025-05-27","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO INTERNET AND TECHNOLOGY","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2025-06-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8115A","Date":"2025-06-02","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -21,8 +23,9 @@
   }
  ],
  "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],
- "Title":"Relates to the use of automated decision tools by banks for the purposes of making lending decisions",
- "Summary":"Relates to the use of automated decision tools by banks for the purposes of making lending decisions; allows loan applicants to consent to or opt out of such use.",
+ "Title":"Relates to the use of automated lending decision-making tools by banks for the purposes of making lending decisions",
+ "Summary":"Relates to the use of automated lending decision-making tools by banks for the purposes of making lending decisions; allows loan applicants to consent to or opt out of such use.",
  "LawSection":"Banking Law","LawCode":"Add §103-a, Bank L",
- "ActClause":"AN ACT to amend the banking law, in relation to the use of automated decision tools to make lending decisions"
+ "ActClause":"AN ACT to amend the banking law, in relation to the use of automated lending decision-making tools to make lending decisions",
+ "SameAsPrintNo":"A773-2025"
 }

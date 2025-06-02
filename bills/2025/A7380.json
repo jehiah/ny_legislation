@@ -1,12 +1,15 @@
 {
- "PrintNo":"A7380","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-25T16:49:02.721399Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Housing"}],
- "Actions":[{"Text":"REFERRED TO HOUSING","Date":"2025-03-25","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7380","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-25T16:49:02.721399Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-02","Committee":"Housing"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HOUSING","Date":"2025-06-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7380A","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"}],
  "Title":"Sets standards for advertising affordable housing",
  "Summary":"Sets standards for advertising affordable and deeply affordable housing.",
  "LawSection":"General Business Law","LawCode":"Add §350-a-1, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to setting standards for advertising affordable housing",
- "SameAsPrintNo":"S5226-2025"
+ "ActClause":"AN ACT to amend the general business law, in relation to setting standards for advertising affordable housing"
 }

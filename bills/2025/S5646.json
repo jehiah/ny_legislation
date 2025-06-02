@@ -1,12 +1,16 @@
 {
- "PrintNo":"S5646","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-26T13:13:45.315287Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-26","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-26","Chamber":"SENATE"}],
+ "PrintNo":"S5646","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-26T13:13:45.315287Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-02","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-26","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5646A","Date":"2025-06-02","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"}],
  "Title":"Authorizes the city of Mt. Vernon to establish a school speed zone demonstration program",
  "Summary":"Authorizes the city of Mt. Vernon to establish a school speed zone demonstration program; authorizes installation in no more than twenty school speed zones in such city.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Add §1180-h, V & T L; amd §87, Pub Off L",
  "ActClause":"AN ACT to amend the vehicle and traffic law and the public officers law, in relation to authorizing the city of Mt. Vernon to establish a school speed zone demonstration program; and providing for the repeal of such provisions upon expiration thereof",
- "PreviousVersions":["S9752-2023"]
+ "SameAsPrintNo":"A8446-2025","PreviousVersions":["S9752-2023"]
 }

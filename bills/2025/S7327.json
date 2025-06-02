@@ -1,9 +1,16 @@
 {
- "PrintNo":"S7327","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-10T10:16:16.682212Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-04-10","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
+ "PrintNo":"S7327","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-10T10:16:16.682212Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-02","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-04-10","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7327A","Date":"2025-06-02","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
+  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}
+ ],
  "Title":"Grants peace officer status to certain security officers employed by Highland Hospital",
  "Summary":"Grants peace officer status to certain security officers employed by Highland Hospital; provides such peace officers are not authorized to carry, possess, repair or dispose of a firearm.",
  "LawSection":"Criminal Procedure Law","LawCode":"Amd §2.10, CP L",
