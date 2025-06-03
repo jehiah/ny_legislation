@@ -1,14 +1,19 @@
 {
- "PrintNo":"A3973","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T15:00:40.038664Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3973","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T15:00:40.038664Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-02","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-06-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3973A","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
-  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
  ],
  "Title":"Relates to prescription drug formulary coverage for interchangeable biologics and biosimilars",
  "Summary":"Relates to prescription drug formulary coverage for interchangeable biologics and biosimilars.",
  "LawSection":"Insurance Law","LawCode":"Amd §§4903, 3242 & 4329, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to prescription drug formulary coverage for interchangeable biologics and biosimilars",
- "SameAsPrintNo":"S3485-2025","PreviousVersions":["A9055-2023"]
+ "PreviousVersions":["A9055-2023"]
 }

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A975","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T15:33:08.523589Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A975","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T15:33:08.523589Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-02","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 975A","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
@@ -15,9 +19,9 @@
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"}
  ],
- "Title":"Suspends the registration of a vehicle which has been documented five times within a twelve month period by a photo violation monitoring device for failure to comply with traffic-control indications",
- "Summary":"Suspends the registration of a vehicle which has been documented five times within a twelve month period by a photo violation monitoring device for failure of an operator thereof to comply with traffic-control indications for a period of six months.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Add §1118, V & T L",
+ "Title":"Suspends the registration of a vehicle which has been documented five times within an eighteen month period by a photo violation monitoring device for failure to comply with traffic-control indications",
+ "Summary":"Suspends the registration of a vehicle which has been documented five times within an eighteen month period by a photo violation monitoring device for failure of an operator thereof to comply with traffic-control indications for a period of ninety days.",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§510 & 514, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to suspending the registration of a vehicle which has been documented five times by a photo violation monitoring device for failure of an operator thereof to comply with traffic-control indications",
- "SameAsPrintNo":"S5775-2025","PreviousVersions":["A9800-2015","S7985-2017","S3668-2019","S1190-2021","A7621-2023"]
+ "PreviousVersions":["A9800-2015","S7985-2017","S3668-2019","S1190-2021","A7621-2023"]
 }

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A8234","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-05T17:49:45.772742Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-05-05","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8234","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-05T17:49:45.772742Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-03","Committee":"Local Governments"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8234A","Date":"2025-06-03","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"}],
  "Title":"Relates to the purposes of the Brockport Exempt Volunteer Firefighters' Benevolent Association, Inc.",
  "Summary":"Changes the name of the Brockport Exempt Volunteer Firemen's Benevolent Association, Inc.; expands the use of foreign fire insurance premium taxes by such organization.",

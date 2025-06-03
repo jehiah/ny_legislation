@@ -1,11 +1,13 @@
 {
- "PrintNo":"S2681","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S2681","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-22T14:24:20.772635Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-17","Committee":"Finance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-03","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-04-17","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 2681A","Date":"2025-04-17","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 2681A","Date":"2025-04-17","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-06-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 2681B","Date":"2025-06-03","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
@@ -14,11 +16,13 @@
   {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
   {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"},
+  {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
  ],
  "Title":"Directs the superintendent of state police develop a critical incident policy for members of the state police",
  "Summary":"Requires the superintendent of state police to develop, maintain and disseminate to all members of the division of state police a critical incident leave policy requiring critical incident paid leave for any members directly involved in a critical incident; prohibits such superintendent from taking any punitive administrative action against any member of the division of state police granted critical incident leave solely on the basis of the provision of such leave.",
  "LawSection":"Executive Law","LawCode":"Add §214-j, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to the development of a critical incident policy for members of the division of state police"
+ "ActClause":"AN ACT to amend the executive law, in relation to the development of a critical incident policy for members of the division of state police",
+ "SameAsPrintNo":"A6452-2025"
 }

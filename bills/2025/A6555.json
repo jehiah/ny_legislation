@@ -1,11 +1,26 @@
 {
  "PrintNo":"A6555","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:35:22.10645Z","Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Racing And Wagering"}],
+ "Published":"2025-03-06T14:35:22.10645Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO RACING AND WAGERING","Date":"2025-05-14","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 6555A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 6555A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"RACING AND WAGERING",
+   "Votes":[
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
@@ -18,7 +33,8 @@
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
-  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"}
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},
+  {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"}
  ],
  "Title":"Requires the state to keep state lottery winners' identities anonymous",
  "Summary":"Requires the state to keep state lottery winners' identities anonymous to the general public if requested by the lottery winner.",

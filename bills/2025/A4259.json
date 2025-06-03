@@ -1,11 +1,15 @@
 {
- "PrintNo":"A4259","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-31T15:30:04.594682Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-31","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-31","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4259","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-31T15:30:04.594682Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-03","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-31","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4259A","Date":"2025-06-03","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],"Title":"Relates to the hiring of consultants",
- "Summary":"Authorizes the superintendent of financial services to hire a consultant to assist with reviewing any rate or form filing submitted to the superintendent.",
+ "Summary":"Authorizes the superintendent of financial services to hire an actuary to assist with reviewing any rate or form filing submitted to the superintendent.",
  "LawSection":"Insurance Law","LawCode":"Add §303, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to the hiring of consultants","SameAsPrintNo":"S5321-2025",
+ "ActClause":"AN ACT to amend the insurance law, in relation to the hiring of actuaries; and providing for the repeal of such provisions upon expiration thereof",
  "PreviousVersions":["A10308-2023"]
 }

@@ -1,10 +1,12 @@
 {
- "PrintNo":"S7730","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-02T10:47:40.933305Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Finance"}],
+ "PrintNo":"S7730","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-02T10:47:40.933305Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-03","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-05-02","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-13","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-13","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2025-06-03","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7730A","Date":"2025-06-03","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -21,8 +23,8 @@
   }
  ],
  "Sponsors":[{"ID":1552,"Name":"April Baskin","Short":"BASKIN"}],
- "Title":"Requires state contracts with construction firms reserve five percent of such contract to discretionary spending towards small businesses",
- "Summary":"Requires state contracts with construction firms reserve five percent of such contract to discretionary spending towards small businesses located near the construction site; defines what qualifies as discretionary spending.",
+ "Title":"Requires state contracts with construction firms reserve a percent of such contract to soft cost spending towards small businesses",
+ "Summary":"Requires state contracts with construction firms reserve a percent of such contract to soft cost spending towards small businesses located near the construction site; defines what qualifies as soft cost spending.",
  "LawSection":"State Finance Law","LawCode":"Add §136-e, St Fin L",
- "ActClause":"AN ACT to amend the state finance law, in relation to requiring construction contracts entered into by the state include a provision on the spending of discretionary funding"
+ "ActClause":"AN ACT to amend the state finance law, in relation to requiring construction contracts entered into by the state include a provision on the spending of soft cost funding"
 }

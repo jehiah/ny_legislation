@@ -1,12 +1,16 @@
 {
- "PrintNo":"A3379","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T11:09:24.371968Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-27","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3379","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-27T11:09:24.371968Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-03","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3379A","Date":"2025-06-03","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"}],
  "Title":"Relates to providing notice to school districts and nonpublic schools located in N.Y. City of certain construction projects",
- "Summary":"Relates to providing notice to school districts and nonpublic schools located in a city with a population of one million or more of certain construction projects; requires county superintendents to provide written notice to such school districts and nonpublic schools of certain construction projects undertaken within three hundred feet of a building of such school districts or nonpublic schools.",
- "LawSection":"Highway Law","LawCode":"Amd §102, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to providing notice to school districts and nonpublic schools located in a city with a population of one million or more of certain construction projects",
- "SameAsPrintNo":"S1186-2025","PreviousVersions":["S7239-2015","S3678-2017","S3079-2019","S3834-2021","A6512-2023"]
+ "Summary":"Relates to providing notice to school districts and nonpublic schools located in New York city of certain construction projects; requires the New York city department of transportation to provide written notice to such school districts and nonpublic schools of certain construction projects undertaken within three hundred feet of a building of such school districts or nonpublic schools.",
+ "LawSection":"Highway Law","LawCode":"Add §19-101.5, NYC Ad Cd",
+ "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to requiring the New York city department of transportation to provide notice to schools of certain construction projects",
+ "PreviousVersions":["S7239-2015","S3678-2017","S3079-2019","S3834-2021","A6512-2023"]
 }
