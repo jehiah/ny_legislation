@@ -1,10 +1,9 @@
 {
- "PrintNo":"S2706","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-22T15:46:12.459043Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "PrintNo":"S2706","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-22T15:46:12.459043Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-22","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-01"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Codes"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-22","Chamber":"SENATE"},
@@ -18,7 +17,11 @@
   {"Text":"SUBSTITUTED FOR A4725A","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING CAL.100","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"SUBSTITUTION RECONSIDERED","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 2706B","Date":"2025-06-04","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -114,10 +117,10 @@
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Prohibits the use of drilling fluids, brine and flowback water from wells, pools or fields on any highway",
- "Summary":"Prohibits the use of drilling fluids, brine and flowback water from wells, pools or fields on any highway for any purpose including but not limited to de-icing or dust suppression.",
+ "Title":"Prohibits the use of drilling fluids, brine and flowback water from gas or oil wells, pools, or fields on any highway",
+ "Summary":"Prohibits the use of drilling fluids, brine and flowback water from gas or oil wells, pools, or fields on any highway for any purpose including but not limited to de-icing or dust suppression.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §23-0305, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the use of drilling fluids, brine and flowback water from wells, pools or fields on any highway",
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the use of drilling fluids, brine and flowback water from gas or oil wells, pools, or fields on any highway",
  "SameAsPrintNo":"A4725-2025",
  "PreviousVersions":["S3333-2013","S48-2015","S575-2017","S1858-2019","S355-2021","S1538-2023"]
 }

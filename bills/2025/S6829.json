@@ -1,9 +1,9 @@
 {
- "PrintNo":"S6829","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S6829","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-03-25T10:05:58.539377Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-25","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"PRINT NUMBER 6829A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1234","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 6829B","Date":"2025-06-04","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -34,8 +35,9 @@
   }
  ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
- "Title":"Dedicates a portion of the state highway system to \"CW2 and New York State Trooper John M. Grassia III\"",
- "Summary":"Dedicates exit 25-A on I-90 to \"CW2 and New York State Trooper John M. Grassia III\".",
- "LawSection":"Highway Law","LawCode":"Add §345-d, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to \"CW2 and New York State Trooper John M. Grassia III\""
+ "Title":"Dedicates a portion of the state highway system to CW2 John M. Grassia III",
+ "Summary":"Dedicates a bridge on I-88 in the town of Rotterdam to CW2 John M. Grassia III.","LawSection":"Highway Law",
+ "LawCode":"Add §345-d, Hway L",
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to CW2 John M. Grassia III",
+ "SameAsPrintNo":"A6188-2025"
 }

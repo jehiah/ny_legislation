@@ -1,10 +1,7 @@
 {
- "PrintNo":"A7618","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-01T14:45:15.099127Z","Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Elections"}
- ],
+ "PrintNo":"A7618","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-01T14:45:15.099127Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTION LAW","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ELECTION LAW","Date":"2025-05-13","Chamber":"ASSEMBLY"},
@@ -16,7 +13,10 @@
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"RECALLED FROM SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RECALLED FROM SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 7618B","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -99,5 +99,5 @@
  "Summary":"Requires the board of elections in a city with a population of one million or more to notify by mail state and county party committees and certain elected officials prior to a change of polling place.",
  "LawSection":"Election Law","LawCode":"Amd §4-104, El L",
  "ActClause":"AN ACT to amend the election law, in relation to requiring boards of elections to provide certain notices prior to a change of polling place",
- "PreviousVersions":["S9802-2023"]
+ "SameAsPrintNo":"S4274-2025","PreviousVersions":["S9802-2023"]
 }

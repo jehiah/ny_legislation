@@ -1,7 +1,7 @@
 {
  "PrintNo":"A6188","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-26T13:10:12.911287Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-30","Committee":"Transportation"}],
+ "Published":"2025-02-26T13:10:12.911287Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-26","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-24","Chamber":"ASSEMBLY"},
@@ -9,11 +9,34 @@
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 6188B","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-30","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"PRINT NUMBER 6188C","Date":"2025-05-30","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"PRINT NUMBER 6188C","Date":"2025-05-30","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-06-04","Chamber":"ASSEMBLY",
+   "Committee":"TRANSPORTATION",
+   "Votes":[
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Excused"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Excused"},{"ID":1536,"Short":"SLATER","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}],
  "Title":"Dedicates a portion of the state highway system to CW2 John M. Grassia III",
  "Summary":"Dedicates a bridge on I-88 in the town of Rotterdam to CW2 John M. Grassia III.","LawSection":"Highway Law",
  "LawCode":"Add §345-d, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to CW2 John M. Grassia III"
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to CW2 John M. Grassia III",
+ "SameAsPrintNo":"S6829-2025"
 }

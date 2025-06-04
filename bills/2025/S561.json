@@ -1,10 +1,7 @@
 {
- "PrintNo":"S561","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T12:48:59.430978Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-13"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Aging"}
- ],
+ "PrintNo":"S561","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T12:48:59.430978Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-03","Chamber":"SENATE"},
@@ -13,7 +10,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-13","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO AGING","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO AGING","Date":"2025-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 561A","Date":"2025-06-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -137,5 +138,5 @@
  "Summary":"Requires certain agencies and individuals to provide notice regarding the rent increase exemption for low income elderly persons and persons with disabilities programs to tenants upon the occurrence of certain events.",
  "LawSection":"New York City Administrative Code","LawCode":"Add §26-605.2, NYC Ad Cd; amd §§467-b & 467-c, RPT L",
  "ActClause":"AN ACT to amend the administrative code of the city of New York and the real property tax law, in relation to notice regarding the rent increase exemption for low income elderly persons and persons with disabilities programs",
- "PreviousVersions":["S6210-2019","S512-2021","S429-2023"]
+ "SameAsPrintNo":"A1863-2025","PreviousVersions":["S6210-2019","S512-2021","S429-2023"]
 }
