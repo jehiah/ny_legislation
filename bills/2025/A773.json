@@ -1,12 +1,14 @@
 {
- "PrintNo":"A773","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A773","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-06T16:02:23.320236Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-02","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO BANKS","Date":"2025-05-22","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 773A","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 773B","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -31,10 +33,9 @@
    ]
   }
  ],
- "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
+ "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1561,"Name":"Micah Lasher","Short":"LASHER"}],
  "Title":"Relates to the use of automated lending decision-making tools by banks for the purposes of making lending decisions",
  "Summary":"Relates to the use of automated lending decision-making tools by banks for the purposes of making lending decisions; allows loan applicants to consent to or opt out of such use.",
  "LawSection":"Banking Law","LawCode":"Add §103-a, Bank L",
- "ActClause":"AN ACT to amend the banking law, in relation to the use of automated lending decision-making tools to make lending decisions",
- "SameAsPrintNo":"S8115-2025"
+ "ActClause":"AN ACT to amend the banking law, in relation to the use of automated lending decision-making tools to make lending decisions"
 }

@@ -1,11 +1,35 @@
 {
  "PrintNo":"A617","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-06T14:22:52.262617Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-21","Committee":"Governmental Operations"}],
+ "Published":"2025-01-06T14:22:52.262617Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 617A","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 617A","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.373","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.373","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-27","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},

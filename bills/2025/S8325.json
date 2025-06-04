@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8325","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-02T16:12:41.566787Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-02","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-06-02","Chamber":"SENATE"}],
+ "PrintNo":"S8325","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-06-02T16:12:41.566787Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-03","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-06-02","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO RULES","Date":"2025-06-03","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8325A","Date":"2025-06-03","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],
  "Title":"Provides guidelines, corrective actions, and transparency, and to reconfigure the composition of committees of professional conduct within the office of professional medical conduct",
  "Summary":"Provides guidelines, corrective actions, and transparency, and reconfigures the composition of committees of professional conduct within the office of professional medical conduct; adds penalties for certain sexual misconduct-related violations by medical professionals.",

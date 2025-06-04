@@ -1,8 +1,14 @@
 {
- "PrintNo":"S8135","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T19:15:26.506162Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Civil Service And Pensions"}],
- "Actions":[{"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"}],
+ "PrintNo":"S8135","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T19:15:26.506162Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Civil Service And Pensions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-29","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8135A","Date":"2025-04-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 8135B","Date":"2025-06-04","Chamber":"SENATE","Version":"B"}
+ ],
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
   {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"}

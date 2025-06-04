@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8140","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T19:24:56.259063Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Civil Service And Pensions"}],
- "Actions":[{"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"}],
+ "PrintNo":"S8140","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T19:24:56.259063Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Civil Service And Pensions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8140A","Date":"2025-06-04","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Relates to the transfer of reserves between public employee retirement systems of the state",
  "Summary":"Provides for transfers from the MTA police retirement program to certain other retirement systems or funds.",

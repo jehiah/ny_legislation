@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2139","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:28:16.127995Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2139","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:28:16.127995Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-30","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-05-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2139A","Date":"2025-05-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},
   {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
@@ -12,11 +16,13 @@
   {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"},
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
-  {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"}
+  {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
+  {"ID":1487,"Name":"William Conrad","Short":"CONRAD"}
  ],
- "Title":"Enacts the \"Honoring Our Pledge to Eliminate Anti-Semitism (HOPE) act\"",
- "Summary":"Requires state agencies and courts to take into consideration the International Holocaust Remembrance Alliance's definition and contemporary examples of anti-Semitism when reviewing, investigating, or deciding whether there has been a violation of any non-criminal or criminal law, rule, or policy prohibiting discriminatory acts.",
+ "Title":"Enacts the \"Honoring Our Pledge to Eliminate Antisemitism (HOPE) act\"",
+ "Summary":"Requires state agencies and courts to take into consideration the International Holocaust Remembrance Alliance's definition and contemporary examples of antisemitism when reviewing, investigating, or deciding whether there has been a violation of any non-criminal or criminal law, rule, or policy prohibiting discriminatory acts.",
  "LawSection":"Civil Rights Law","LawCode":"Add §79-r, Civ Rts L",
- "ActClause":"AN ACT to amend the civil rights law, in relation to enacting the \"Honoring Our Pledge to Eliminate Anti-Semitism (HOPE) act\"",
+ "ActClause":"AN ACT to amend the civil rights law, in relation to enacting the \"Honoring Our Pledge to Eliminate Antisemitism (HOPE) act\"",
  "SameAsPrintNo":"S7034-2025"
 }

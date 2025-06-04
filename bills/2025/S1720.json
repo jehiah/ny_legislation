@@ -1,9 +1,10 @@
 {
  "PrintNo":"S1720","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T11:40:53.615932Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-21"},
-  {"Type":"PASSED_SENATE","Date":"2025-01-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Health"}
+  {"Type":"PASSED_SENATE","Date":"2025-01-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Health"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-01-13","Chamber":"SENATE"},
@@ -11,7 +12,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.106","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-01-21","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2025-01-21","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A2698","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.379","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

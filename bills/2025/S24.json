@@ -1,8 +1,10 @@
 {
  "PrintNo":"S24","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-16T16:03:52.362913Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2025-06-04","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
   {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
