@@ -1,14 +1,15 @@
 {
  "PrintNo":"A3938","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T15:00:47.730372Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}],
+ "Published":"2025-01-30T15:00:47.730372Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-12","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 3938A","Date":"2025-03-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 3938B","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -28,6 +29,43 @@
     {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
     {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},
     {"ID":1116,"Short":"WILLIAMS","Vote":"Excused"},{"ID":1557,"Short":"BURROUGHS","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-04","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1127,"Short":"WALSH","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1116,"Short":"WILLIAMS","Vote":"Excused"},
+    {"ID":468,"Short":"RAMOS","Vote":"Excused"},{"ID":1557,"Short":"BURROUGHS","Vote":"Absent"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Absent"}
    ]
   }
  ],
@@ -58,7 +96,14 @@
   {"ID":1125,"Name":"Brian D. Miller","Short":"MILLER"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
-  {"ID":608,"Name":"Edward Ra","Short":"RA"}
+  {"ID":608,"Name":"Edward Ra","Short":"RA"},{"ID":1540,"Name":"Brian Maher","Short":"MAHER"},
+  {"ID":1528,"Name":"Lester Chang","Short":"CHANG"},{"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},
+  {"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
+  {"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"},{"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"},
+  {"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},{"ID":1529,"Name":"Samuel Pirozzolo","Short":"PIROZZOLO"},
+  {"ID":636,"Name":"Christopher Friend","Short":"FRIEND"},{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},
+  {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},{"ID":1556,"Name":"Daniel Norber","Short":"NORBER"},
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
  ],
  "Title":"Enacts the Alexander John Smullen Traffic Safety Memorial Law",
  "Summary":"Authorizes the department of transportation to establish and implement a state memorial sign program to memorialize persons who died due to injuries sustained in a fatal motor vehicle crash on state highways.",

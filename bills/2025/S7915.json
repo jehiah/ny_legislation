@@ -1,9 +1,30 @@
 {
  "PrintNo":"S7915","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-14T09:42:58.953954Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-05-14","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-28","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-28","Chamber":"SENATE","Committee":"Insurance",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Requires insurance coverage for early egg and peanut allergen introduction dietary supplements for infants at no cost",
  "Summary":"Requires insurance coverage for early egg and peanut allergen introduction dietary supplements for infants at no cost.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L; amd §365-a, Soc Serv L",

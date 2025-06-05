@@ -1,10 +1,14 @@
 {
  "PrintNo":"J1017","Session":2025,"Chamber":"SENATE","BillType":"Regular and Joint","Resolution":true,
- "Published":"2025-05-14T13:59:45.278041Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2025-05-14","Chamber":"SENATE"}],
+ "Published":"2025-05-14T13:59:45.278041Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"REPORTED TO CALENDAR FOR CONSIDERATION","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"ADOPTED","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":885,"Name":"Robert Ortt","Short":"ORTT"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
-  {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"}
+  {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"},{"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"}
  ],
  "Title":"Commemorating the 250th Anniversary of the United States Army","LawSection":"Resolutions, Legislative"
 }

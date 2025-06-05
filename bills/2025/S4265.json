@@ -1,8 +1,12 @@
 {
- "PrintNo":"S4265","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T15:09:49.257295Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-02-03","Chamber":"SENATE"}],
+ "PrintNo":"S4265","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-03T15:09:49.257295Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-05","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-03","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4265A","Date":"2025-06-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
@@ -19,7 +23,7 @@
  ],
  "Title":"Requires the disclosure of lead-based paint test reports in real estate transactions",
  "Summary":"Requires the disclosure of lead-based paint test reports in real estate transactions.",
- "LawSection":"Real Property Law","LawCode":"Add Art 16 §§520 - 524, §235-aa, amd §462, RP L",
+ "LawSection":"Real Property Law","LawCode":"Add Art 17 §§530 - 534, §235-aa, amd §462, RP L",
  "ActClause":"AN ACT to amend the real property law, in relation to requiring the disclosure of lead-based paint test reports in real estate transactions",
- "SameAsPrintNo":"A1529-2025","PreviousVersions":["S8830-2019","S2142-2021","S2353-2023"]
+ "PreviousVersions":["S8830-2019","S2142-2021","S2353-2023"]
 }

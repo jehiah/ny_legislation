@@ -1,16 +1,22 @@
 {
- "PrintNo":"S2269","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:28:39.507268Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-16","Chamber":"SENATE"}],
+ "PrintNo":"S2269","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-16T10:28:39.507268Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Consumer Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2269A","Date":"2025-05-15","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
-  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
+  {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Requires certain motion picture theaters to provide scheduled showings of motion pictures with open motion picture captioning",
  "Summary":"Requires a motion picture theater that offers more than ten motion picture showings per week to provide scheduled showings of motion pictures with open motion picture captioning such that at least one quarter of all showings of a motion picture with four or more showings during a one-week time period shall have open motion picture captioning; provides exceptions and penalties for violations.",
- "LawSection":"General Business Law","LawCode":"Add Art 44-B §§1450 - 1454, Gen Bus L",
+ "LawSection":"General Business Law","LawCode":"Add Art 44-B §§1450 - 1453, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to requiring certain motion picture theaters to provide scheduled showings of motion pictures with open motion picture captioning",
  "SameAsPrintNo":"A4628-2025","PreviousVersions":["S8961-2023"]
 }

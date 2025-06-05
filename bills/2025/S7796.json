@@ -1,12 +1,16 @@
 {
- "PrintNo":"S7796","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-06T15:49:00.984825Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-06","Chamber":"SENATE"}],
+ "PrintNo":"S7796","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-06T15:49:00.984825Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-05","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-06","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7796A","Date":"2025-06-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA"}],
- "Title":"Repeals provisions exempting Yates county assistant district attorneys and assistant public defenders from the residency requirement; repealer",
- "Summary":"Repeals provisions exempting Yates county assistant district attorneys and assistant public defenders from the requirement to reside in Yates county.",
- "LawSection":"Public Officers Law","LawCode":"Rpld §3 subs 38 & 38-a, Pub Off L",
- "ActClause":"AN ACT to repeal subdivisions 38 and 38-a of section 3 of the public officers law, relating to exempting Yates county assistant district attorneys and assistant public defenders from the requirement to reside in Yates county",
- "SameAsPrintNo":"A8180-2025"
+ "Title":"Permits Yates county assistant district attorneys and assistant public defenders to reside in Chemung county",
+ "Summary":"Permits Yates county assistant district attorneys and assistant public defenders to reside in Chemung county.",
+ "LawSection":"Public Officers Law","LawCode":"Amd §3, Pub Off L",
+ "ActClause":"AN ACT to amend the public officers law, permitting Yates county assistant district attorneys and assistant public defenders to reside in Chemung county"
 }

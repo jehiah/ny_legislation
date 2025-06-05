@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2128","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:24:53.959617Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2128","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:24:53.959617Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2128A","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
@@ -29,5 +33,5 @@
  "LawSection":"Public Health Law",
  "LawCode":"Amd §§1399-aa, 1399-ee, 1399-ff, 1399-gg, 1399-hh, 1399-ii, 1399-ii-1, 1399-ll & 1399-mm-1, Pub Health L; amd §1183, Tax L",
  "ActClause":"AN ACT to amend the public health law and the tax law, in relation to prohibiting the storage of flavored vapor products near where vapor or tobacco products are sold at retail or wholesale",
- "SameAsPrintNo":"S5196-2025","PreviousVersions":["A9110-2023"]
+ "PreviousVersions":["A9110-2023"]
 }

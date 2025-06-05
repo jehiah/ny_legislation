@@ -1,12 +1,33 @@
 {
  "PrintNo":"A5574","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-18T09:46:13.19219Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-18","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-18","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-18","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-06-05","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":636,"Short":"FRIEND","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":574,"Name":"William A. Barclay","Short":"BARCLAY"}],
  "Title":"Reestablishes the office of coroner in the county of Oswego and removing the powers and duties of coroners from the district attorney in such county and allows Oswego County to appoint a coroner",
  "Summary":"Reestablishes the office of coroner in the county of Oswego; removes the powers and duties of coroners from the district attorney in such county; allows Oswego County to appoint a coroner.",
  "LawSection":"County Law","LawCode":"Amd §400, County L",
  "ActClause":"AN ACT to amend the county law, in relation to reestablishing the office of coroner in the county of Oswego and removing the powers and duties of coroners from the district attorney in such county and allowing Oswego county to appoint a coroner",
- "PreviousVersions":["A10050-2023"]
+ "SameAsPrintNo":"S8305-2025","PreviousVersions":["A10050-2023"]
 }

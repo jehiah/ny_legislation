@@ -1,7 +1,10 @@
 {
  "PrintNo":"A4725","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-05T09:41:35.731902Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"}],
+ "Published":"2025-02-05T09:41:35.731902Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-05"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-05","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-27","Chamber":"ASSEMBLY"},
@@ -12,7 +15,9 @@
   {"Text":"SUBSTITUTED BY S2706A","Date":"2025-04-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"SUBSTITUTION RECONSIDERED","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RESTORED TO THIRD READING","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING (T) 4725B","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING (T) 4725B","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
