@@ -1,12 +1,19 @@
 {
- "PrintNo":"A5424","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-14T09:27:55.696148Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-14","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-14","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}],
+ "PrintNo":"A5424","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-14T09:27:55.696148Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Local Governments"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5424A","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
+  {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"}
+ ],
  "Title":"Establishes the Terry Cooper autopsy accountability act",
  "Summary":"Establishes the Terry Cooper autopsy accountability act requiring autopsy reports to include all photographs of the body, microscopic slides, and post-mortem x-rays taken by, at the direction of, or reviewed by the person performing the autopsy.",
- "LawSection":"County Law","LawCode":"Amd §677, County L",
+ "LawSection":"County Law","LawCode":"Amd §§674 & 677, County L",
  "ActClause":"AN ACT to amend the county law, in relation to requiring autopsy reports to include photographs, microscopic slides, and post-mortem x-rays taken by, at the direction of, or reviewed by the person performing the autopsy",
  "SameAsPrintNo":"S2510-2025","PreviousVersions":["S9315-2023"]
 }

@@ -1,15 +1,19 @@
 {
  "PrintNo":"A7321","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-25T16:05:40.271795Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-03-25T16:05:40.271795Z","Status":"IN_SENATE_COMM","Committee":"Rules",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-07","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 7321A","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.160","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.160","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -39,7 +43,8 @@
   {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},
-  {"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"}
+  {"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},
+  {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"}
  ],
  "Title":"Requires health insurers to provide coverage for speech therapy for stuttering",
  "Summary":"Requires health insurers to provide coverage for speech therapy for stuttering.",

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1647","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T12:58:18.118279Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-10","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-10","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1647","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-10T12:58:18.118279Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-10","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1647A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
@@ -21,5 +25,5 @@
  "Summary":"Decriminalizes the possession of buprenorphine from certain crimes.","LawSection":"Penal Law",
  "LawCode":"Amd §220.00, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to decriminalizing the possession of buprenorphine",
- "SameAsPrintNo":"S2331-2025","PreviousVersions":["A4013-2023"]
+ "PreviousVersions":["A4013-2023"]
 }

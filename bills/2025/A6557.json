@@ -2,7 +2,36 @@
  "PrintNo":"A6557","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T14:35:52.154888Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-06","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN WAYS AND MEANS","Date":"2025-06-06","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-06-06","Chamber":"ASSEMBLY","Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Nay"},{"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},
+    {"ID":500,"Short":"COLTON","Vote":"Nay"},{"ID":589,"Short":"HAWLEY","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Nay"},{"ID":1127,"Short":"WALSH","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1248,"Short":"SMULLEN","Vote":"Nay"},
+    {"ID":669,"Short":"ROZIC","Vote":"Nay"},{"ID":1464,"Short":"GIGLIO","Vote":"Nay"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Nay"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Nay"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1509,"Name":"Eric Brown","Short":"BROWN E"},{"ID":1528,"Name":"Lester Chang","Short":"CHANG"}],
  "Title":"Enacts the \"October 7th remembrance and education act of 2025\"",
  "Summary":"Establishes October 7th as October 7th remembrance day to honor the victims of the October 7, 2023 attacks; declares October seventh as a holiday for students in the public schools of the city of New York; requires the chancellor of the New York city school district to provide instruction of awareness of the October seventh remembrance day to students and professional development training to teachers; requires the division of human rights to establish a statewide campaign for antisemistism prevention; makes related provisions.",

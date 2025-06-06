@@ -1,15 +1,74 @@
 {
- "PrintNo":"A7856","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T15:08:21.137782Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-04-11","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7856","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-11T15:08:21.137782Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-11","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7856A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.456","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.456","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-04","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":1127,"Short":"WALSH","Vote":"Nay"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1545,"Short":"BERGER","Vote":"Nay"},{"ID":1148,"Short":"SMITH","Vote":"Excused"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-06-06","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":574,"Short":"BARCLAY","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":1127,"Short":"WALSH","Vote":"Nay"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1545,"Short":"BERGER","Vote":"Nay"},{"ID":1485,"Short":"JENSEN","Vote":"Nay"},
+    {"ID":1148,"Short":"SMITH","Vote":"Excused"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Excused"},
+    {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":519,"Short":"GLICK","Vote":"Excused"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Excused"},{"ID":1148,"Short":"SMITH","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},
-  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
+  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}
  ],
  "Title":"Relates to enacting provisions for the execution of electronic wills",
  "Summary":"Enacts provisions for the execution of electronic wills including attestation, revocation and filing.",
  "LawSection":"Estates, Powers and Trusts Law",
  "LawCode":"Add Art 3 Part 6 §§3-6.1 - 3-6.9, amd §§1-2.19 & 3-2.1, EPT L; amd §307, St Tech L",
- "ActClause":"AN ACT to amend the estates, powers and trusts law and the state technology law, in relation to electronic wills"
+ "ActClause":"AN ACT to amend the estates, powers and trusts law and the state technology law, in relation to electronic wills",
+ "SameAsPrintNo":"S7416-2025"
 }

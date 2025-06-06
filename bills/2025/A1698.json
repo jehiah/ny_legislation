@@ -1,10 +1,14 @@
 {
  "PrintNo":"A1698","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T09:37:37.345968Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Codes"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-14","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.417","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.417","Date":"2025-06-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -23,6 +27,77 @@
     {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
     {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-05","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-06-06","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Excused"},
+    {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":519,"Short":"GLICK","Vote":"Excused"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Excused"},{"ID":1148,"Short":"SMITH","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
@@ -33,5 +108,5 @@
  "Summary":"Requires state or municipal officials to attempt to identify and notify the owners of a deceased dog or cat recovered on public roads.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Add §377-b, Ag & Mkts L",
  "ActClause":"AN ACT to amend the agriculture and markets law, in relation to the recovery of a deceased dog or cat on public roads",
- "SameAsPrintNo":"S6573-2025","PreviousVersions":["A6239-2023"]
+ "PreviousVersions":["A6239-2023"]
 }

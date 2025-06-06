@@ -1,14 +1,16 @@
 {
- "PrintNo":"S704","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T14:39:49.327972Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S704","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-03T14:39:49.327972Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1407","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 704A","Date":"2025-06-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -26,8 +28,8 @@
  ],
  "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],
  "Title":"Enacts the New York gift certificate scam prevention act",
- "Summary":"Enacts the \"New York gift certificate scam prevention act\" to require certain packaging security and record-keeping requirements for gift certificates by sellers of gift certificates.",
+ "Summary":"Enacts the \"New York gift certificate scam prevention act\" to require certain sale, security and record-keeping requirements for gift certificates by sellers of gift certificates.",
  "LawSection":"General Business Law","LawCode":"Amd §396-i, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"New York gift certificate scam prevention act\"",
- "SameAsPrintNo":"A7916-2025","PreviousVersions":["S9900-2023"]
+ "PreviousVersions":["S9900-2023"]
 }

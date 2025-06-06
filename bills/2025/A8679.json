@@ -1,10 +1,59 @@
 {
  "PrintNo":"A8679","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-28T17:44:51.484577Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-06-05","Chamber":"ASSEMBLY",
+   "Committee":"CITIES",
+   "Votes":[
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1528,"Short":"CHANG","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-06","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1528,"Short":"CHANG","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1127,"Short":"WALSH","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1254,"Name":"Patrick Burke","Short":"BURKE"}],
  "Title":"Extends the effectiveness of certain provisions of the coordinated construction act for lower Manhattan relating to joint bidding on contracts for public work projects",

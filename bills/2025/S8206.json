@@ -1,11 +1,12 @@
 {
- "PrintNo":"S8206","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-21T10:30:59.495698Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"}],
+ "PrintNo":"S8206","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-21T10:30:59.495698Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.1573","Date":"2025-06-04","Chamber":"SENATE"}
+  {"Text":"ORDERED TO THIRD READING CAL.1573","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 8206A","Date":"2025-06-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -40,5 +41,5 @@
  "Summary":"Extends authorization for certain health care professionals licensed to practice in other jurisdictions to practice in this state in connection with an event sanctioned by the New York Road Runners.",
  "LawSection":"Public Health","LawCode":"Amd Chap 192 of 2011",
  "ActClause":"AN ACT to amend chapter 192 of the laws of 2011, relating to authorizing certain health care professionals licensed to practice in other jurisdictions to practice in this state in connection with an event sanctioned by New York Road Runners, in relation to extending the provisions thereof",
- "PreviousVersions":["S9004-2023"]
+ "SameAsPrintNo":"A8481-2025","PreviousVersions":["S9004-2023"]
 }

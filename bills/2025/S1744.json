@@ -1,11 +1,12 @@
 {
- "PrintNo":"S1744","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T12:51:34.25552Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"}],
+ "PrintNo":"S1744","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T12:51:34.25552Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-06"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.1524","Date":"2025-06-04","Chamber":"SENATE"}
+  {"Text":"ORDERED TO THIRD READING CAL.1524","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1744A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -42,6 +43,5 @@
  "Title":"Imposes certain requirements on institutions housing a defendant due to mental disease or defect prior to the discharge of such defendant",
  "Summary":"Requires each appropriate institution housing a defendant due to mental disease or defect to assign a critical time intervention care management team to the defendant and make a single point of access referral for the defendant prior to such defendant's discharge.",
  "LawSection":"Criminal Procedure Law","LawCode":"Amd §730.40, CP L",
- "ActClause":"AN ACT to amend the criminal procedure law, in relation to cases terminated due to mental disease or defect",
- "SameAsPrintNo":"A2440-2025"
+ "ActClause":"AN ACT to amend the criminal procedure law, in relation to cases terminated due to mental disease or defect"
 }

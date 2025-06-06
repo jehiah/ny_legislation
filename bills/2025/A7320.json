@@ -1,15 +1,43 @@
 {
  "PrintNo":"A7320","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-25T16:05:26.730774Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Ways And Means"}],
+ "Published":"2025-03-25T16:05:26.730774Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-15","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 7320A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 7320A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-06","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}],
  "Title":"Makes a technical change to the tax law; extends the city of Newburgh occupancy tax",
  "Summary":"Makes a technical change to the tax law; authorizes the imposition of an occupancy tax in the city of Newburgh, in relation of the effectiveness thereof.",
  "LawSection":"Tax Law","LawCode":"Ren §1202-hh to be §1202-hh-3, Tax L; amd §2, Chap 418 of 2022",
- "ActClause":"AN ACT to amend the tax law, in relation to making technical changes; and to amend chapter 418 of the laws of 2022, relating to authorizing the city of Newburgh to impose a hotel and motel tax, in relation to extending the effectiveness thereof"
+ "ActClause":"AN ACT to amend the tax law, in relation to making technical changes; and to amend chapter 418 of the laws of 2022, relating to authorizing the city of Newburgh to impose a hotel and motel tax, in relation to extending the effectiveness thereof",
+ "SameAsPrintNo":"S6927-2025"
 }

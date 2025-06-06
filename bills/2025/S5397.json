@@ -1,10 +1,9 @@
 {
- "PrintNo":"S5397","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T10:22:16.413569Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Veterans' Affairs",
+ "PrintNo":"S5397","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-21T10:22:16.413569Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-21","Committee":"Veterans, Homeland Security And Military Affairs"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-10"},{"Type":"PASSED_SENATE","Date":"2025-03-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-12","Committee":"Veterans' Affairs"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-02-21","Chamber":"SENATE"},
@@ -13,7 +12,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-03-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 5397A","Date":"2025-06-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -107,8 +110,7 @@
  ],
  "Title":"Relates to certificates of honorable separation from or service in the armed forces of the United States",
  "Summary":"Relates to certificates of honorable separation from or service in the armed forces of the United States; provides that such certificates shall be forwarded to the appropriate local veterans' service agency within 60 days of receipt.",
- "LawSection":"Veterans' Service Law",
- "LawCode":"Amd §4, Veterans' Services L; amd §250, Mil L; amd §79-g, Civ Rts L",
- "ActClause":"AN ACT to amend the veterans' services law, the military law and the civil rights law, in relation to certificates of honorable separation from or service in the armed forces of the United States",
+ "LawSection":"Veterans' Service Law","LawCode":"Amd §4, Veterans' Services L",
+ "ActClause":"AN ACT to amend the veterans' services law, in relation to certificates of honorable separation from or service in the armed forces of the United States",
  "SameAsPrintNo":"A4649-2025","PreviousVersions":["S8792-2019","S8567-2021","S5416-2023"]
 }

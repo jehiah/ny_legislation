@@ -1,8 +1,12 @@
 {
- "PrintNo":"S441","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T11:57:21.802511Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Elections"}],
- "Actions":[{"Text":"REFERRED TO ELECTIONS","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S441","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-31T11:57:21.802511Z","Status":"IN_SENATE_COMM","Committee":"Elections",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Elections"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ELECTIONS","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 441A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"}],
  "Title":"Includes certain persons of Middle Eastern and North African heritage and speakers of Haitian Creole as language minorities",
  "Summary":"Includes certain persons of Middle Eastern and North African heritage and speakers of Haitian Creole as language minorities.",

@@ -1,10 +1,12 @@
 {
- "PrintNo":"S7973","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T11:27:00.484202Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Finance"}],
+ "PrintNo":"S7973","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T11:27:00.484202Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7973A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -22,7 +24,7 @@
  ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Provides earnings limitations for retired police officers employed part-time by certain municipalities",
- "Summary":"Provides earnings limitations for retired police officers employed part-time by municipalities with a population of less than 15,000; permits such officer to work up to five hundred twenty hours in any consecutive six-month period, with no suspension or diminution of retirement allowance; establishes villages or towns shall report such hours and salary earned on a monthly basis and shall contribute a percentage of the officer's excess earnings to the New York state and local police and fire retirement system.",
+ "Summary":"Provides earnings limitations for retired police officers employed part-time by municipalities with a population of less than 7,500; permits such officer to work up to five hundred twenty hours in any consecutive six-month period, with no suspension or diminution of retirement allowance; establishes villages or towns shall report such hours and salary earned on a monthly basis and shall contribute a percentage of the officer's excess earnings to the New York state and local police and fire retirement system.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §212, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to calculating the earnings limitations for retired police officers employed part-time by certain municipalities",
  "PreviousVersions":["S4905-2023"]

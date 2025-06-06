@@ -1,10 +1,11 @@
 {
  "PrintNo":"A5352","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-13T15:33:16.736608Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Codes"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-13","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -21,6 +22,32 @@
     {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
     {"ID":1561,"Short":"LASHER","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"CODES",
+   "Votes":[
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":1561,"Short":"LASHER","Vote":"Excused"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Absent"}
+   ]
   }
  ],
  "Sponsors":[
@@ -34,6 +61,5 @@
  "Title":"Directs the office of children and family services to establish an outdoor, nature-based child care program",
  "Summary":"Directs the office of children and family services to establish an outdoor, nature-based child care program to allow for the operation of licensed outdoor, nature-based child care classrooms which provide early learning services for preschool or school-age children in an outdoor space and that employ a curriculum with nature to teach enrolled children.",
  "LawSection":"Social Services Law","LawCode":"Amd §390, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to outdoor, nature-based child care",
- "SameAsPrintNo":"S6550-2025"
+ "ActClause":"AN ACT to amend the social services law, in relation to outdoor, nature-based child care"
 }

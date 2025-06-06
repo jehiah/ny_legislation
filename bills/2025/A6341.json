@@ -1,13 +1,15 @@
 {
- "PrintNo":"A6341","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A6341","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-03-04T10:42:12.765149Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-02","Committee":"Governmental Operations"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-04","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-03-27","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6341A","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 6341B","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 6341B","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 6341C","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[
   {"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},
@@ -24,5 +26,5 @@
  "Summary":"Requires the collection of certain demographic information by state agencies, boards, departments and commissions.",
  "LawSection":"Executive Law","LawCode":"Amd §170-e, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to requiring the collection of certain demographic information by state agencies, boards, departments and commissions",
- "PreviousVersions":["A10245-2023"]
+ "SameAsPrintNo":"S7664-2025","PreviousVersions":["A10245-2023"]
 }

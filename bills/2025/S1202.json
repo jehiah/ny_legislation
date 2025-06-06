@@ -1,10 +1,7 @@
 {
- "PrintNo":"S1202","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T13:49:13.017094Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2025-02-04"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Aging"}
- ],
+ "PrintNo":"S1202","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T13:49:13.017094Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2025-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.195","Date":"2025-01-28","Chamber":"SENATE"},
@@ -12,7 +9,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-11","Chamber":"SENATE"},
-  {"Text":"REFERRED TO AGING","Date":"2025-03-11","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO AGING","Date":"2025-03-11","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1202A","Date":"2025-06-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -105,5 +106,5 @@
  "Summary":"Establishes the interagency elder justice task force consisting of representatives of state agencies whose work involves elder justice to create greater collaboration and develop overarching strategies, systems, and programs with a goal of protecting older adults from abuse and mistreatment.",
  "LawSection":"Elder Law","LawCode":"Add §226, Eld L",
  "ActClause":"AN ACT to amend the elder law, in relation to establishing the interagency elder justice task force; and providing for the repeal of such provisions upon expiration thereof",
- "PreviousVersions":["S9138-2023"]
+ "SameAsPrintNo":"A7277-2025","PreviousVersions":["S9138-2023"]
 }

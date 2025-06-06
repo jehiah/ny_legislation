@@ -1,12 +1,13 @@
 {
  "PrintNo":"A8023","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-22T15:48:29.604861Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Ways And Means"}],
+ "Published":"2025-04-22T15:48:29.604861Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-04-22","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-13","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 8023A","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -21,9 +22,49 @@
     {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
     {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-06","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"}
+   ]
   }
  ],
- "Sponsors":[{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}],
+ "Sponsors":[
+  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
+  {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},
+  {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"},
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},
+  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
+  {"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+ ],
  "Title":"Requires the department of civil service to allow municipalities to post municipal employment positions on the department of civil service's state jobs website",
  "Summary":"Requires the department of civil service to allow municipalities to post municipal employment positions on the department of civil service's state jobs website; requires such municipal employment opportunities to be posted in a format searchable by municipality and employment position type.",
  "LawSection":"Civil Service Law","LawCode":"Amd §59-d, Civ Serv L",

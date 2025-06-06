@@ -1,11 +1,44 @@
 {
- "PrintNo":"A8651","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-22T14:38:08.955677Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Housing"}],
- "Actions":[{"Text":"REFERRED TO HOUSING","Date":"2025-05-22","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"}],
- "Title":"Relates to the amount of taxes paid by a cooperative",
- "Summary":"Provides that in a city having a population of one million or more the amount of real estate taxes to be paid by a cooperative shall be the lesser of five per centum of the annual shelter rent or carrying charges of such rehabilitation project or an amount as set forth in a regulatory agreement to which the cooperative is a party.",
+ "PrintNo":"A8651","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-22T14:38:08.955677Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2025-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8651A","Date":"2025-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-06","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
+ "Title":"Relates to the tax exemption of a mutual redevelopment company",
+ "Summary":"Relates to the extension of a tax exemption for a mutual redevelopment company in a city having a population of one million or more persons.",
  "LawSection":"Private Housing Finance Law","LawCode":"Amd §125, Priv Hous Fin L",
- "ActClause":"AN ACT to amend the private housing finance law, in relation to the amount of taxes paid by a cooperative"
+ "ActClause":"AN ACT to amend the private housing finance law, in relation to the amount of taxes paid by a cooperative",
+ "SameAsPrintNo":"S7780-2025"
 }

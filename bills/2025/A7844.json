@@ -1,15 +1,32 @@
 {
- "PrintNo":"A7844","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T15:00:17.179576Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "PrintNo":"A7844","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-11T15:00:17.179576Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-04-11","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7844A","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-06-05","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"}],
  "Title":"Authorizes the town justice of the town of West Almond, county of Allegany, to be a nonresident of such town",
  "Summary":"Authorizes the town justice of the town of West Almond, county of Allegany, to be a nonresident of such town, so long as such person resides in Allegany county.",
- "LawSection":"Public Officers Law","LawCode":"Amd §3, Pub Off L",
+ "LawSection":"Town Law","LawCode":"Amd §23, Town L; §3, Pub Off L",
  "ActClause":"AN ACT to amend the public officers law, in relation to authorizing the town justice of the town of West Almond, county of Allegany, to be a nonresident of such town",
  "SameAsPrintNo":"S5691-2025"
 }

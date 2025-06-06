@@ -1,12 +1,15 @@
 {
- "PrintNo":"S1649","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T09:52:03.127372Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Elections"}],
- "Actions":[{"Text":"REFERRED TO ELECTIONS","Date":"2025-01-13","Chamber":"SENATE"}],
+ "PrintNo":"S1649","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T09:52:03.127372Z","Status":"IN_SENATE_COMM","Committee":"Elections",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Elections"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-13","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ELECTIONS","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1649A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"}],
- "Title":"Relates to primary election voting ballots in the city of New York",
- "Summary":"Relates to the order of candidate and delegate names on primary ballots in the city of New York and provides for a rotation of names in subsequent elections.",
- "LawSection":"Election Law","LawCode":"Amd §7-116, El L",
- "ActClause":"AN ACT to amend the election law, in relation to primary election voting ballots in the city of New York",
- "SameAsPrintNo":"A7858-2025"
+ "Title":"Relates to primary election voting ballots in cities with a population of one million or more as of the latest federal decennial census",
+ "Summary":"Relates to the order of candidate and delegate names on primary ballots in cities with a population of one million or more as of the latest federal decennial census and provides for a rotation of names in subsequent elections.",
+ "LawSection":"Election Law","LawCode":"Amd §§7-116 & 7-118, El L",
+ "ActClause":"AN ACT to amend the election law, in relation to primary election voting ballots in cities with a population of one million or more as of the latest federal decennial census"
 }

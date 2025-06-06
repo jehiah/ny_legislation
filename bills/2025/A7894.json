@@ -1,17 +1,40 @@
 {
- "PrintNo":"A7894","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-11T15:12:29.785562Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Health"}],
+ "PrintNo":"A7894","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-11T15:12:29.785562Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules 7894c",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules 7894c"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-04-11","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-05-02","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 7894A","Date":"2025-05-02","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 7894B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 7894B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO RULES 7894C","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-27","Chamber":"ASSEMBLY","Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":675,"Name":"Phil Steck","Short":"STECK"}],
  "Title":"Permits the use of cremation or natural organic reduction as the method of disposition for certain decedents",
  "Summary":"Permits a chief fiscal officer of a county or a public administrator, when having the right to control the disposition of the remains of a decedent and acting reasonably and in good faith, to, without civil liability, select cremation or natural organic reduction as the method of disposition for such decedent where the financial resources of such decedent are limited and such disposition is selected with the reasonable belief that the method is consistent with the religious practices of the decedent.",
  "LawSection":"Public Health Law","LawCode":"Amd §4201, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to the selection of the method of disposition of remains of a decedent by a chief fiscal officer of a county or a public administrator"
+ "ActClause":"AN ACT to amend the public health law, in relation to the selection of the method of disposition of remains of a decedent by a chief fiscal officer of a county or a public administrator",
+ "SameAsPrintNo":"S7457-2025"
 }

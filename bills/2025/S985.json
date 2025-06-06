@@ -1,12 +1,16 @@
 {
- "PrintNo":"S985","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T12:34:55.984939Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Budget And Revenue"}],
- "Actions":[{"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S985","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-07T12:34:55.984939Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Budget And Revenue"}],
+ "Actions":[
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO BUDGET AND REVENUE","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 985A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"}],
- "Title":"Exempts from the payment of sales tax the purchase of oral hygiene products",
+ "Title":"Exempts the purchase of certain oral hygiene products from the payment of sales tax",
  "Summary":"Exempts oral hygiene products from the payment of sales tax.","LawSection":"Tax Law",
  "LawCode":"Amd §1115, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to exempting from the payment of sales tax the purchase of oral hygiene products",
- "SameAsPrintNo":"A2444-2025","PreviousVersions":["S8349-2023"]
+ "PreviousVersions":["S8349-2023"]
 }

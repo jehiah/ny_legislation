@@ -1,11 +1,15 @@
 {
- "PrintNo":"S8288","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-30T10:01:40.357986Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-30","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-05-30","Chamber":"SENATE"}],
+ "PrintNo":"S8288","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-30T10:01:40.357986Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-05","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-05-30","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8288A","Date":"2025-06-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"}],
- "Title":"Provides for not-for-profit community organizations to use rooms within a public school at a nominal fee",
- "Summary":"Provides for not-for-profit community organizations to use rooms within a public school for meetings and events at a nominal fee.",
- "LawSection":"Education Law","LawCode":"Amd §414, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to providing for not-for-profit community organizations to use rooms within a public school at a nominal fee"
+ "Title":"Provides for the use of rooms within a public school at a reasonable rate",
+ "Summary":"Provides for the use of rooms within a public school at a reasonable rate.","LawSection":"Education Law",
+ "LawCode":"Amd §414, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to providing for the use of rooms within a public school at a reasonable rate"
 }

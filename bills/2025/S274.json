@@ -1,10 +1,9 @@
 {
- "PrintNo":"S274","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-23T14:29:43.434614Z","Status":"IN_ASSEMBLY_COMM","Committee":"Veterans' Affairs",
+ "PrintNo":"S274","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-23T14:29:43.434614Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-19","Committee":"Veterans, Homeland Security And Military Affairs"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_SENATE","Date":"2025-05-20"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Veterans' Affairs"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-06"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"},
@@ -18,7 +17,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 274B","Date":"2025-06-06","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -105,9 +108,9 @@
   }
  ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
- "Title":"Establishes the \"Vets to Vollies\" program",
- "Summary":"Establishes the \"Vets to Vollies\" program which encourages veterans or discharged military personnel to join their local fire department and emergency medical service agency.",
- "LawSection":"Veterans' Service Law","LawCode":"Add §29-e, Veterans' Services L",
+ "Title":"Establishes voluntary opportunities for veterans",
+ "Summary":"Requires the department of veterans' services to provide information on the department's website on volunteer opportunities available to veterans and to post relevant application forms that a qualified veteran can use to apply for volunteer opportunities.",
+ "LawSection":"Veterans' Service Law","LawCode":"Amd §§4 & 15, Veterans' Services L",
  "ActClause":"AN ACT to amend the veterans' services law, in relation to establishing the \"Vets to Vollies\" program",
- "SameAsPrintNo":"A5253-2025","PreviousVersions":["S8111-2023"]
+ "SameAsPrintNo":"A8485-2025","PreviousVersions":["S8111-2023"]
 }

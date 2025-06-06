@@ -1,12 +1,22 @@
 {
  "PrintNo":"A3698","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T10:48:27.354616Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Ways And Means"}],
+ "Published":"2025-01-30T10:48:27.354616Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2025-03-27","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 3698A","Date":"2025-03-27","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.426","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.426","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -19,12 +29,85 @@
     {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
     {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-04","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Excused"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-06-06","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":574,"Short":"BARCLAY","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Excused"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":519,"Short":"GLICK","Vote":"Excused"},{"ID":570,"Short":"MAGNARELLI","Vote":"Excused"},
+    {"ID":1148,"Short":"SMITH","Vote":"Excused"},{"ID":570,"Short":"MAGNARELLI","Vote":"Absent"}
+   ]
   }
  ],
  "Sponsors":[
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},
-  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
+  {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"}
  ],
  "Title":"Relates to exemptions from real property taxes for senior citizens",
  "Summary":"Authorizes localities to provide for an additional real property tax exemption for senior citizens who meet the income eligibility limits and other criteria to the extent of sixty-five percent of the assessed valuation of such real property.",

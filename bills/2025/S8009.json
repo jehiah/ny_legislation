@@ -1,11 +1,16 @@
 {
- "PrintNo":"S8009","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T12:37:34.608744Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-05-15","Chamber":"SENATE"}],
+ "PrintNo":"S8009","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T12:37:34.608744Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8009A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"}],
  "Title":"Relates to authorizing the village of Malverne to alienate and discontinue the use of certain parklands",
  "Summary":"Authorizes the village of Malverne to alienate and discontinue the use of certain parklands and to develop new parkland or capital improvements to existing parks within the village.",
  "LawSection":"Parks",
- "ActClause":"AN ACT in relation to authorizing the village of Malverne to alienate and discontinue the use of certain parklands"
+ "ActClause":"AN ACT in relation to authorizing the village of Malverne to alienate and discontinue the use of certain parklands",
+ "SameAsPrintNo":"A8557-2025"
 }

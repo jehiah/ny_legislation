@@ -1,15 +1,33 @@
 {
- "PrintNo":"S6626","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-18T15:44:52.071634Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Finance"}],
+ "PrintNo":"S6626","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-18T15:44:52.071634Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-05","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-03-18","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-21","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6626A","Date":"2025-06-05","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-21","Chamber":"SENATE",
+   "Committee":"Commerce, Economic Development And Small Business",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Establishes a public online registry of vacant commercial storefronts",
  "Summary":"Establishes a public online registry of vacant commercial storefronts; provides information to current and prospective small business owners seeking to purchase or lease a vacant storefront for a small business location.",
  "LawSection":"Economic Development Law","LawCode":"Amd §134, Ec Dev L",
- "ActClause":"AN ACT to amend the economic development law, in relation to establishing a public online registry of vacant commercial storefronts",
- "SameAsPrintNo":"A7556-2025"
+ "ActClause":"AN ACT to amend the economic development law, in relation to establishing a public online registry of vacant commercial storefronts"
 }

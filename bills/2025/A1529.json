@@ -1,14 +1,15 @@
 {
- "PrintNo":"A1529","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T12:26:40.457765Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"}],
+ "PrintNo":"A1529","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-10T12:26:40.457765Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-10","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-29","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.292","Date":"2025-05-29","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.292","Date":"2025-05-29","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.292","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 1529A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -118,11 +119,12 @@
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},
   {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
-  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
+  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}
  ],
  "Title":"Requires the disclosure of lead-based paint test reports in real estate transactions",
  "Summary":"Requires the disclosure of lead-based paint test reports in real estate transactions.",
- "LawSection":"Real Property Law","LawCode":"Add Art 16 §§520 - 524, §235-aa, amd §462, RP L",
+ "LawSection":"Real Property Law","LawCode":"Add Art 17 §§530 - 534, §235-aa, amd §462, RP L",
  "ActClause":"AN ACT to amend the real property law, in relation to requiring the disclosure of lead-based paint test reports in real estate transactions",
- "PreviousVersions":["S8830-2019","A6608-2021","A4820-2023"]
+ "SameAsPrintNo":"S4265-2025","PreviousVersions":["S8830-2019","A6608-2021","A4820-2023"]
 }
