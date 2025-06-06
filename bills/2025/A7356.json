@@ -1,12 +1,15 @@
 {
- "PrintNo":"A7356","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-25T16:33:21.319908Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-03-25","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7356","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-25T16:33:21.319908Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7356A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}],
  "Title":"Relates to staffing standards for employees performing emergency medical services in the 911 system in a city with a population of over one million people",
  "Summary":"Sets minimum staffing standards for employees performing emergency medical services in the 911 system in a city with a population of over one million people.",
  "LawSection":"Public Health Law","LawCode":"Amd §3005-a, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to staffing standards for employees performing emergency medical services in the 911 system in a city with a population of over one million people",
- "SameAsPrintNo":"S6698-2025"
+ "ActClause":"AN ACT to amend the public health law, in relation to staffing standards for employees performing emergency medical services in the 911 system in a city with a population of over one million people"
 }

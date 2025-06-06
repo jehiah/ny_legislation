@@ -1,11 +1,12 @@
 {
- "PrintNo":"A8680","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-28T17:45:22.874903Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"}],
+ "PrintNo":"A8680","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-28T17:45:22.874903Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules 8680a",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules 8680a"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO RULES 8680A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -56,9 +57,8 @@
   }
  ],
  "Sponsors":[{"ID":1254,"Name":"Patrick Burke","Short":"BURKE"}],
- "Title":"Requires cities that fluoridate public water supplies to issue a determination and publish a notice in local newspapers and on the city's website prior to discontinuing such fluoridation",
+ "Title":"Requires cities that fluoridate public water supplies to comply with certain provisions of law and publish a notice prior to discontinuing such fluoridation",
  "Summary":"Requires cities that fluoridate public water supplies to issue a determination to discontinue fluoridation, including justification for the discontinuance, and to publish a notice in local newspapers and on the city's website at least ninety days prior to discontinuing such fluoridation.",
  "LawSection":"General City Law","LawCode":"Add §18-e, Gen City L",
- "ActClause":"AN ACT to amend the general city law, in relation to requiring additional notice prior to the discontinuance of drinking water fluoridation",
- "SameAsPrintNo":"S8283-2025"
+ "ActClause":"AN ACT to amend the general city law, in relation to requiring additional notice prior to the discontinuance of drinking water fluoridation"
 }

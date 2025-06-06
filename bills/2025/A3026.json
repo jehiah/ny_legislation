@@ -1,8 +1,12 @@
 {
- "PrintNo":"A3026","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-23T11:58:30.414336Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-23","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-23","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3026","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-23T11:58:30.414336Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3026A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
@@ -15,5 +19,5 @@
  "Summary":"Provides for the disposition of certain fees and penalties; directs such fees to a conservation enforcement account in the state conservation fund.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd En Con L, generally; amd §83, St Fin L",
  "ActClause":"AN ACT to amend the environmental conservation law and the state finance law, in relation to the disposition of certain fees and penalties",
- "PreviousVersions":["A8213-2023"]
+ "SameAsPrintNo":"S4033-2025","PreviousVersions":["A8213-2023"]
 }

@@ -1,12 +1,16 @@
 {
- "PrintNo":"S6981","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T15:53:39.387618Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-03-27","Chamber":"SENATE"}],
+ "PrintNo":"S6981","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-27T15:53:39.387618Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6981A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Relates to state aid for home health care to meet community need",
  "Summary":"Provides for state aid for home health care and hospice services to meet community need.",
  "LawSection":"Public Health Law","LawCode":"Amd §3615, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to state aid for home health care to meet community need",
- "PreviousVersions":["A7568-2023"]
+ "SameAsPrintNo":"A1493-2025","PreviousVersions":["A7568-2023"]
 }

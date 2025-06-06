@@ -1,11 +1,13 @@
 {
- "PrintNo":"A1962","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A1962","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-14T12:03:16.363555Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-29","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-01-29","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 1962A","Date":"2025-01-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 1962A","Date":"2025-01-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 1962B","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
@@ -32,11 +34,11 @@
   {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},
   {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},
-  {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"}
+  {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":534,"Name":"Michael Benedetto","Short":"BENEDETTO"}
  ],
- "Title":"Enacts \"Francesco's law; repealer\"",
- "Summary":"Enacts \"Francesco's law\" which establishes violations for the failure to safely store rifles, shotguns, and firearms in the presence of a minor or a prohibited person; repeals certain provisions relating thereto.",
- "LawSection":"Penal Law","LawCode":"Amd §265.45, add §§265.51, - 265.53, rpld §265.46, Pen L",
- "ActClause":"AN ACT to amend the penal law, in relation to enacting \"Francesco's law\"; and providing for the repeal of certain provisions of the penal law relating to safely storing rifles, shotguns, and firearms",
- "SameAsPrintNo":"S3385-2025","PreviousVersions":["A10451-2023"]
+ "Title":"Enacts \"Francesco's law\"; repealer",
+ "Summary":"Enacts \"Francesco's law\" which establishes violations for the failure to safely store rifles, shotguns, and firearms in the presence of a minor or a prohibited person; requires the office of gun violence prevention to collect and analyze statistical and other information and data with respect to injuries or deaths of minors resulting from failure to safely store a firearm, rifle, or shotgun.",
+ "LawSection":"Penal Law","LawCode":"Amd §§265.45 & 400.00, add §265.51, rpld §265.46, Pen L; amd §837-y, Exec L",
+ "ActClause":"AN ACT to amend the penal law, in relation to enacting \"Francesco's law\"; to amend the executive law, in relation to annual reports by the New York state office of gun violence prevention; and providing for the repeal of certain provisions of the penal law relating to safely storing rifles, shotguns, and firearms",
+ "PreviousVersions":["A10451-2023"]
 }

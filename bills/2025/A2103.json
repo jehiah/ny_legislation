@@ -1,13 +1,17 @@
 {
- "PrintNo":"A2103","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:10:48.586298Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2103","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:10:48.586298Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2103A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
  "Title":"Relates to extended producer responsibility for carpet",
- "Summary":"Limits liability of producers, representative organizations and retailers for antitrust, restraint of trade, or unfair trade practices arising from actions undertaken in accordance with a carpet collection program.",
+ "Summary":"Limits liability of producers, representative organizations and retailers for antitrust, restraint of trade, or unfair trade practices arising from the performance of an action required to be undertaken under certain law or a producer plan.",
  "LawSection":"Environmental Conservation Law",
  "LawCode":"Amd Art 27 Title 33 Title Head, ren §27-3319 to be §27-3321, add §27-3319, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to extended producer responsibility for carpet",
- "PreviousVersions":["A10604-2023"]
+ "SameAsPrintNo":"S2097-2025","PreviousVersions":["A10604-2023"]
 }
