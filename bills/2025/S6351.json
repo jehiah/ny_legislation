@@ -1,12 +1,29 @@
 {
- "PrintNo":"S6351","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S6351","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-03-11T14:29:55.754658Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Finance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-07","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO RACING, GAMING AND WAGERING","Date":"2025-05-23","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 6351A","Date":"2025-05-23","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-06-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 6351B","Date":"2025-06-07","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-28","Version":"A","Chamber":"SENATE",
+   "Committee":"Racing, Gaming And Wagering",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
@@ -15,8 +32,10 @@
   {"ID":1490,"Name":"Dan Stec","Short":"STEC"},{"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"}
  ],
  "Title":"Relates to electronic bell jar vending machines",
- "Summary":"Relates to authorizing and regulating the use of electronic bell jar vending machines.",
+ "Summary":"Relates to authorizing and regulating the use of electronic bell jar vending machines; requires responsible placement and operation of electronic bell jar vending machines; allows for geographic considerations for such machine placement.",
  "LawSection":"General Municipal Law",
  "LawCode":"Amd §§186, 188-a, 189, 189-a, 195-c, 195-n, 195-o & 195-q, Gen Muni L",
- "ActClause":"AN ACT to amend the general municipal law, in relation to electronic bell jar games"
+ "ActClause":"AN ACT to amend the general municipal law, in relation to electronic bell jar games",
+ "SameAsPrintNo":"A7475-2025",
+ "PreviousVersions":["A10199-2011","A4669-2013","A932-2015","A2303-2017","A4697-2019","A1425-2021","A4813-2023"]
 }

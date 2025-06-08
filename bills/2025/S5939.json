@@ -1,8 +1,14 @@
 {
- "PrintNo":"S5939","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T09:51:40.115183Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-03-04","Chamber":"SENATE"}],
+ "PrintNo":"S5939","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-04T09:51:40.115183Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-08","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-04","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5939A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 5939B","Date":"2025-06-08","Chamber":"SENATE","Version":"B"}
+ ],
  "Sponsors":[
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
@@ -10,11 +16,12 @@
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
   {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
-  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}
+  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
+  {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}
  ],
  "Title":"Relates to payments by a pharmacy benefit manager to participating pharmacies",
  "Summary":"Requires a pharmacy benefit manager to pay a participating pharmacy at minimum at the national average drug acquisition cost (NADAC) rate, or at the pharmacy acquisition cost rate if greater or there is not a NADAC rate, plus a professional dispensing fee that is at minimum the professional dispensing fee paid under the state medical assistance program.",
  "LawSection":"Public Health Law","LawCode":"Amd §280-a, Pub Health; amd §2911, Ins L",
  "ActClause":"AN ACT to amend the public health law and the insurance law, in relation to payments by pharmacy benefit managers to participating pharmacies",
- "SameAsPrintNo":"A5882-2025","PreviousVersions":["S9570-2023"]
+ "PreviousVersions":["S9570-2023"]
 }

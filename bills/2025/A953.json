@@ -1,8 +1,38 @@
 {
- "PrintNo":"A953","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T15:13:14.308593Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A953","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T15:13:14.308593Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-29","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-31",
+   "Chamber":"ASSEMBLY"
+  },
+  {"Text":"PRINT NUMBER 953A","Date":"2025-03-31","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-08","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-04-29","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"},{"ID":1244,"Short":"FALL","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
@@ -15,9 +45,9 @@
   {"ID":1477,"Name":"Amanda Septimo","Short":"SEPTIMO"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"}
  ],
- "Title":"Relates to the termination of certain utility services",
- "Summary":"Prohibits utility corporations from imposing late fees, interest, or penalties during an investigation by the commission; allows retroactive late fees, interest, or penalties if a determination is made in favor of such utility corporation; prohibits utility services from being terminated during an investigation by the commission; requires utility corporations to notify customers of investigations; requires notice to the general public.",
- "LawSection":"Public Service Law","LawCode":"Amd §2, add §§54, 77-a & 85-a, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to termination of certain utility services",
+ "Title":"Relates to the termination of certain utility services and to reports on investigatory proceedings relating to gas, electric, and steam service",
+ "Summary":"Prohibits utility corporations from imposing late fees, interest, or penalties during an investigation by the commission; allows retroactive late fees, interest, or penalties if a determination is made in favor of such utility corporation; prohibits utility services from being terminated during an investigation by the commission; requires utility corporations to notify customers of investigations; requires notice to the general public; requires the public service commission to prepare reports on investigatory proceedings relating to gas, electric, and steam service.",
+ "LawSection":"Public Service Law","LawCode":"Amd §2, add §§54, 77-a, 85-a & 16-a, Pub Serv L",
+ "ActClause":"AN ACT to amend the public service law, in relation to termination of certain utility services and to reports on investigatory proceedings relating to gas, electric, and steam service",
  "SameAsPrintNo":"S904-2025","PreviousVersions":["A7537-2023"]
 }

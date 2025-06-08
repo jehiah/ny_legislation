@@ -1,8 +1,13 @@
 {
- "PrintNo":"A8227","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-05T17:42:17.720922Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-05","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8227","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-05T17:42:17.720922Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-21","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8227A","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-08","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}],
  "Title":"Relates to adjudications and owner liability for a violation of traffic-control signal indications in the city of Peekskill",
  "Summary":"Relates to adjudications and owner liability for a violation of traffic-control signal indications in the city of Peekskill.",
