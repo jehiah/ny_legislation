@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1353","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T11:37:27.913768Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "Published":"2025-01-09T11:37:27.913768Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Codes"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO JUDICIARY","Date":"2025-01-28","Chamber":"SENATE"},
@@ -16,7 +19,10 @@
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 1353B","Date":"2025-05-22","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 1353B","Date":"2025-05-22","Chamber":"SENATE","Version":"B"},
+  {"Text":"REPASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO CODES","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

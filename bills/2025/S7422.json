@@ -1,13 +1,20 @@
 {
  "PrintNo":"S7422","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-15T15:58:26.421901Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Published":"2025-04-15T15:58:26.421901Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-15","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-06-02","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 7422A","Date":"2025-06-02","Chamber":"SENATE","Version":"A"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.1703","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"HOME RULE REQUEST","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

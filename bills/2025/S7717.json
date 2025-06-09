@@ -1,14 +1,16 @@
 {
  "PrintNo":"S7717","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-01T12:23:54.325831Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-01","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1708","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Sets maximum rates that may be charged for the towing and subsequent storage of a motor vehicle",
  "Summary":"Sets maximum rates that may be charged for the towing and subsequent storage of passenger and large vehicles outside of New York city.",
  "LawSection":"General Business Law","LawCode":"Add §§399-xxx & 399-xxxx, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to setting maximum rates that may be charged for the towing and subsequent storage of a motor vehicle"
+ "ActClause":"AN ACT to amend the general business law, in relation to setting maximum rates that may be charged for the towing and subsequent storage of a motor vehicle",
+ "SameAsPrintNo":"A8858-2025"
 }

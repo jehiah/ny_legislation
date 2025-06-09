@@ -1,14 +1,20 @@
 {
  "PrintNo":"S3820","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-30T10:33:47.460188Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Published":"2025-01-30T10:33:47.460188Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-04-16","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 3820A","Date":"2025-04-16","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 3820B","Date":"2025-05-28","Chamber":"SENATE","Version":"B"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.1684","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},

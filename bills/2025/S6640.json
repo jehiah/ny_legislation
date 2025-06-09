@@ -1,11 +1,18 @@
 {
  "PrintNo":"S6640","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-19T10:28:23.467455Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-19","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-02","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1698","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"HOME RULE REQUEST","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {

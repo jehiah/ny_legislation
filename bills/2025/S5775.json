@@ -1,8 +1,12 @@
 {
- "PrintNo":"S5775","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-28T15:48:27.785492Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-28","Chamber":"SENATE"}],
+ "PrintNo":"S5775","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-28T15:48:27.785492Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-28","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5775A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
   {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},
@@ -11,9 +15,9 @@
   {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
  ],
- "Title":"Suspends the registration of a vehicle which has been documented five times within a twelve month period by a photo violation monitoring device for failure to comply with traffic-control indications",
- "Summary":"Suspends the registration of a vehicle which has been documented five times within a twelve month period by a photo violation monitoring device for failure of an operator thereof to comply with traffic-control indications for a period of six months.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Add §1118, V & T L",
+ "Title":"Suspends the registration of a vehicle which has been documented five times within an eighteen month period by a photo violation monitoring device for failure to comply with traffic-control indications",
+ "Summary":"Suspends the registration of a vehicle which has been documented five times within an eighteen month period by a photo violation monitoring device for failure of an operator thereof to comply with traffic-control indications for a period of ninety days.",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§510 & 514, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to suspending the registration of a vehicle which has been documented five times by a photo violation monitoring device for failure of an operator thereof to comply with traffic-control indications",
- "SameAsPrintNo":"A975-2025","PreviousVersions":["A9800-2015","S7985-2017","S3668-2019","S1190-2021","S451-2023"]
+ "PreviousVersions":["A9800-2015","S7985-2017","S3668-2019","S1190-2021","S451-2023"]
 }

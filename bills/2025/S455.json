@@ -1,13 +1,18 @@
 {
  "PrintNo":"S455","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-31T12:00:27.952751Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"}],
+ "Published":"2024-12-31T12:00:27.952751Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-02-11","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 455A","Date":"2025-02-11","Chamber":"SENATE","Version":"A"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.1519","Date":"2025-06-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.1519","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

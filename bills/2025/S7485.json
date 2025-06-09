@@ -1,10 +1,12 @@
 {
  "PrintNo":"S7485","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-17T12:49:39.808053Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-04-17","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1704","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED BY A8465","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Relates to prevailing wage for those involved in hauling of concrete and asphalt",

@@ -1,10 +1,12 @@
 {
  "PrintNo":"S7545","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-22T14:21:42.403716Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-04-22","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1705","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED BY A2168","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Sponsors":[
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},

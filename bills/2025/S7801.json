@@ -1,10 +1,16 @@
 {
  "PrintNo":"S7801","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T10:59:48.568368Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-09","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1711","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Waives the residency requirement for the office of Putnam county attorney",

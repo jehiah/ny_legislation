@@ -1,8 +1,16 @@
 {
  "PrintNo":"S8320","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-02T12:15:13.760377Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-02","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-06-02","Chamber":"SENATE"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-02","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-06-02","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1723","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
  "Title":"Relates to the contents of claims",
  "Summary":"Provides exceptions from the requirement of specificity in pleadings in certain cases involving sexual offenses.",

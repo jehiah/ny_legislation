@@ -1,11 +1,18 @@
 {
  "PrintNo":"S7882","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-13T12:34:37.984781Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Codes"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-13","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO INTERNET AND TECHNOLOGY","Date":"2025-05-20","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1712","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2025-06-09","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,11 +1,16 @@
 {
- "PrintNo":"A3119","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A3119","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-23T13:58:24.138552Z","Status":"IN_ASSEMBLY_COMM","Committee":"Libraries And Education Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Libraries And Education Technology"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Libraries And Education Technology"}],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-01-23","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-05-23","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 3119A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 3119A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-06-09","Chamber":"ASSEMBLY",
+   "Version":"A"
+  },
+  {"Text":"PRINT NUMBER 3119B","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
@@ -18,7 +23,8 @@
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
-  {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"}
+  {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
+  {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1487,"Name":"William Conrad","Short":"CONRAD"}
  ],
  "Title":"Enacts the \"open shelves act\"",
  "Summary":"Ensures that library staff of free association, public, and hospital libraries, and with certain advice, Indian libraries, are able to develop collections, services, and programming that reflect diverse perspectives, experiences, and identities present in the communities the serve.",

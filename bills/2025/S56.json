@@ -1,7 +1,10 @@
 {
  "PrintNo":"S56","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-17T15:36:25.726218Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Published":"2024-12-17T15:36:25.726218Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
@@ -10,7 +13,9 @@
   {"Text":"PRINT NUMBER 56B","Date":"2025-03-24","Chamber":"SENATE","Version":"B"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE","Version":"B"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING CAL.1456","Date":"2025-05-29","Chamber":"SENATE","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING CAL.1456","Date":"2025-05-29","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

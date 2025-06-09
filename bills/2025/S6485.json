@@ -1,13 +1,15 @@
 {
- "PrintNo":"S6485","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S6485","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-03-14T14:43:29.121887Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Transportation"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-14","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-28","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 6485A","Date":"2025-03-28","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 6485B","Date":"2025-06-06","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 6485B","Date":"2025-06-06","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 6485C","Date":"2025-06-09","Chamber":"SENATE","Version":"C"}
  ],
  "Sponsors":[
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
@@ -17,13 +19,13 @@
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"},
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
-  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
-  {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
-  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
-  {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
-  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},
+  {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
+  {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA"},
+  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"},
   {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"},{"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"},
@@ -31,8 +33,7 @@
  ],
  "Title":"Relates to procedures relating to driving while ability impaired by drugs",
  "Summary":"Relates to procedures relating to driving while ability impaired by drugs; defines impairment and intoxication; updates procedures for field testing of drivers suspected of being under the influence of drugs to include the use of oral/bodily fluid tests; provides that refusal to submit to such field tests is specified to be a traffic infraction; makes related provisions.",
- "LawSection":"Vehicle and Traffic Law",
- "LawCode":"Amd §§1194, 1193 & 1192, ren §119-b to be §119-c, add §§119-b & 120-a, V & T L",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Add §§119-b & 120-a, amd §§1194, 1193 & 1192, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to procedures relating to driving while ability impaired by drugs; and providing for the repeal of such provisions upon expiration thereof",
- "SameAsPrintNo":"A3981-2025","PreviousVersions":["A9554-2021","A174-2023"]
+ "PreviousVersions":["A9554-2021","A174-2023"]
 }

@@ -1,11 +1,16 @@
 {
  "PrintNo":"S649","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T11:21:10.991596Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.1521","Date":"2025-06-04","Chamber":"SENATE"}
+  {"Text":"ORDERED TO THIRD READING CAL.1521","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {

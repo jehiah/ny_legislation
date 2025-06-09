@@ -1,16 +1,23 @@
 {
  "PrintNo":"S915","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T09:33:03.422741Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1677","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Sponsors":[
   {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
-  {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
-  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
+  {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
+  {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
+  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
  ],
  "Title":"Enables safe access to public roads for all users by utilizing complete street design principles",
  "Summary":"Enables safe access to public roads for all users by utilizing complete street design principles.",

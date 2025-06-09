@@ -12,7 +12,9 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2025-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -87,7 +89,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
@@ -110,6 +112,5 @@
  "Title":"Relates to certain provisions on elevator licensing and temporary elevator mechanics",
  "Summary":"Relates to certain provisions on elevator licensing and temporary elevator mechanics; relates to civil penalties for unlicensed mechanics; clarifies inspection provisions.",
  "LawSection":"Labor Law","LawCode":"Amd §§954 & 955, add §958, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to clarifying key provisions around elevator licensing on examinations and experience",
- "SameAsPrintNo":"A8032-2025"
+ "ActClause":"AN ACT to amend the labor law, in relation to clarifying key provisions around elevator licensing on examinations and experience"
 }

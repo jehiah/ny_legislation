@@ -1,19 +1,46 @@
 {
  "PrintNo":"A979","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-07T15:35:22.935561Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-07T15:35:22.935561Z","Status":"PASSED_SENATE",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-15","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-15","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-20"},{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Insurance"},
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-04-15","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 979A","Date":"2025-04-15","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.142","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.142","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED FOR S5048A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"3RD READING CAL.1448","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2025-05-13","Chamber":"ASSEMBLY","Committee":"INSURANCE",
+   "Votes":[
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"INSURANCE",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
@@ -36,5 +63,5 @@
  "Summary":"Relates to contractual liability insurance policies; provides that each provider may maintain a maximum of five service contract reimbursement insurance policies insuring its service contracts actively offered.",
  "LawSection":"Insurance Law","LawCode":"Amd §7903, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to contractual liability insurance policies",
- "PreviousVersions":["A10529-2021","S9101-2021","A1231-2023"]
+ "SameAsPrintNo":"S5048-2025","PreviousVersions":["A10529-2021","S9101-2021","A1231-2023"]
 }

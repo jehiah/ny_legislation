@@ -1,10 +1,12 @@
 {
  "PrintNo":"S7889","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-13T14:18:23.755171Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-05-13","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1713","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED BY A8279","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"}],
  "Title":"Permits the Setauket fire district and Stony Brook fire district to enter into contracts with the state university of New York at Stony Brook for property, services, and other consideration",

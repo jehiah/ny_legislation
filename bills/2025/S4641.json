@@ -1,14 +1,19 @@
 {
  "PrintNo":"S4641","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-10T14:32:10.479176Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Published":"2025-02-10T14:32:10.479176Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-02-11","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 4641A","Date":"2025-02-11","Chamber":"SENATE","Version":"A"},
   {"Text":"REPORTED AND COMMITTED TO JUDICIARY","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.1486","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.1486","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

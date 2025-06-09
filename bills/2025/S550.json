@@ -1,7 +1,11 @@
 {
  "PrintNo":"S550","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-02T11:29:53.345534Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"}],
+ "Published":"2025-01-02T11:29:53.345534Z","Status":"IN_ASSEMBLY_COMM","Committee":"Children And Families",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Children And Families"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-21","Chamber":"SENATE"},
@@ -14,7 +18,10 @@
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-27","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING 550A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 550A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,10 +1,11 @@
 {
  "PrintNo":"A8478","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-16T16:32:51.066553Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Higher Education"}
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-16","Chamber":"ASSEMBLY"},
@@ -14,7 +15,11 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.253","Date":"2025-05-21","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-21","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-21","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S8251","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.1584","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -109,5 +114,6 @@
  "Title":"Relates extending provisions of law relating to physical therapy assistant services in public and private primary and secondary schools",
  "Summary":"Relates to extending provisions of law relating to physical therapy assistant services in public and private primary and secondary schools.",
  "LawSection":"Education","LawCode":"Amd §2, Chap 20 of 1998",
- "ActClause":"AN ACT to amend chapter 20 of the laws of 1998, amending the education law relating to the provision of physical therapy assistant services in public and private primary and secondary schools, in relation to extending the effectiveness of such chapter"
+ "ActClause":"AN ACT to amend chapter 20 of the laws of 1998, amending the education law relating to the provision of physical therapy assistant services in public and private primary and secondary schools, in relation to extending the effectiveness of such chapter",
+ "SameAsPrintNo":"S8251-2025"
 }

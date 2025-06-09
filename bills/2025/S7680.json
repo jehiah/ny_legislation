@@ -1,7 +1,10 @@
 {
  "PrintNo":"S7680","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-29T09:52:54.02702Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Published":"2025-04-29T09:52:54.02702Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-04-29","Chamber":"SENATE"},
   {
@@ -9,7 +12,10 @@
    "Chamber":"SENATE"
   },
   {"Text":"PRINT NUMBER 7680A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.1707","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}],
  "Title":"Relates to mandating the development and approval of operational safety plans",

@@ -1,8 +1,31 @@
 {
- "PrintNo":"A101","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-20T09:48:57.107765Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A101","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-20T09:48:57.107765Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO RULES","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 101A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
@@ -40,7 +63,7 @@
   {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
-  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},
+  {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},
   {"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"},
   {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1466,"Name":"Michael Durso","Short":"DURSO"},
@@ -56,9 +79,9 @@
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},
   {"ID":1570,"Name":"Andrew Molitor","Short":"MOLITOR"}
  ],
- "Title":"Protects intoxicated individuals from being targeted for sexual assault",
- "Summary":"Prohibits the use of intoxication of the victim as a defense in sex crimes where the victim is under the influence of any drug, intoxicant, or other substance to a degree which rendered the victim temporarily incapable of appraising or controlling such person's conduct and such condition was known or reasonably should have been known to a person in the actor's situation.",
+ "Title":"Prohibits the use of intoxication of the victim as a defense in sex crimes",
+ "Summary":"Prohibits the use of intoxication of the victim as a defense in sex crimes where the victim is under the extreme influence of any substance which renders them incapable of appraising or controlling such victim's conduct and incapable of clearly expressing lack of consent.",
  "LawSection":"Penal Law","LawCode":"Amd §130.05, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to prohibiting the use of the intoxication of a victim as a defense to a criminal charge for sex crimes",
- "SameAsPrintNo":"S54-2025","PreviousVersions":["A8634-2019","A5519-2021","A1065-2023"]
+ "PreviousVersions":["A8634-2019","A5519-2021","A1065-2023"]
 }

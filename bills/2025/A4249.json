@@ -1,8 +1,13 @@
 {
- "PrintNo":"A4249","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-31T15:26:46.895782Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-31","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-31","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4249","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-31T15:26:46.895782Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-31","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4249A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
@@ -13,5 +18,5 @@
  "Summary":"Prohibits public utilities from using funds or being reimbursed by funds raised from ratepayers for contributions or gifts to political candidates, trade associations, public charities, and lobbyists, and for certain travel, entertainment and educational expenditures.",
  "LawSection":"Public Service Law","LawCode":"Add Art 12 §§240 & 241, amd §5, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to prohibiting public utilities from using funds or being reimbursed by funds raised from ratepayers for certain activities",
- "SameAsPrintNo":"S1012-2025","PreviousVersions":["A7880-2023"]
+ "PreviousVersions":["A7880-2023"]
 }

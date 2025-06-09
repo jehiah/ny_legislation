@@ -1,12 +1,18 @@
 {
  "PrintNo":"S4658","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-10T15:55:33.022774Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Published":"2025-02-10T15:55:33.022774Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2025-03-31","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 4658A","Date":"2025-03-31","Chamber":"SENATE","Version":"A"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.1689","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],
  "Title":"Relates to prohibiting the use of funds, financial incentives or subsidies where facilities or property are used primarily for e-commerce storage and transfers, or the facilitation thereof",

@@ -1,12 +1,14 @@
 {
  "PrintNo":"S652","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-03T11:22:22.196936Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Published":"2025-01-03T11:22:22.196936Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-22","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 652A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.1676","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A7040B","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"}],
  "Title":"Authorizes private membership establishments to have certain licenses for sale of alcohol",

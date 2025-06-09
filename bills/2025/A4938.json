@@ -1,9 +1,10 @@
 {
  "PrintNo":"A4938","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-10T13:42:49.408736Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-10","Committee":"Labor"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-01"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-05"},{"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Labor"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-05"},{"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Labor"},
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-10","Chamber":"ASSEMBLY"},
@@ -11,7 +12,11 @@
   {"Text":"ADVANCED TO THIRD READING CAL.114","Date":"2025-05-01","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-05","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-05","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO LABOR","Date":"2025-05-05","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LABOR","Date":"2025-05-05","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S2709","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.1682","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {

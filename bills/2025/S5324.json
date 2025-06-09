@@ -1,12 +1,14 @@
 {
  "PrintNo":"S5324","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-20T14:49:49.766034Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Published":"2025-02-20T14:49:49.766034Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-20","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 5324A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.1691","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A1433A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Provides for the issuance of pet insurance",
