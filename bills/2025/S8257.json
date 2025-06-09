@@ -1,10 +1,13 @@
 {
  "PrintNo":"S8257","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-27T16:03:47.07738Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-05-27","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+ ],
  "Sponsors":[
-  {"ID":1572,"Name":"Sam Sutton","Short":"Sutton"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}
  ],
  "Title":"Directs the department of health to establish an alternative payment methodology (APM) for Federally Qualified Health Centers to preserve and improve patient access to fertility care",

@@ -1,8 +1,13 @@
 {
- "PrintNo":"S6693","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-19T16:17:28.36388Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-19","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-19","Chamber":"SENATE"}],
+ "PrintNo":"S6693","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-19T16:17:28.36388Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-19","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-07","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6693A","Date":"2025-05-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Modernizes the practice of podiatry",
  "Summary":"Modernizes the practice of podiatry specifically relating to ankle surgery.","LawSection":"Education Law",

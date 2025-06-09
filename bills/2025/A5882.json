@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5882","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:43:42.428349Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5882","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-24T09:43:42.428349Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5882A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1568,"Name":"Paula Bologna","Short":"BOLOGNA"},
@@ -22,11 +26,14 @@
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":608,"Name":"Edward Ra","Short":"RA"},
-  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
+  {"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},{"ID":534,"Name":"Michael Benedetto","Short":"BENEDETTO"},
+  {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
+  {"ID":1511,"Name":"Jake Ryan Blumencranz","Short":"BLUMENCRANZ"}
  ],
  "Title":"Relates to payments by a pharmacy benefit manager to participating pharmacies",
  "Summary":"Requires a pharmacy benefit manager to pay a participating pharmacy at minimum at the national average drug acquisition cost (NADAC) rate, or at the pharmacy acquisition cost rate if greater or there is not a NADAC rate, plus a professional dispensing fee that is at minimum the professional dispensing fee paid under the state medical assistance program.",
  "LawSection":"Public Health Law","LawCode":"Amd §280-a, Pub Health L; amd §2911, Ins L",
  "ActClause":"AN ACT to amend the public health law and the insurance law, in relation to payments by pharmacy benefit managers to participating pharmacies",
- "SameAsPrintNo":"S5939-2025","PreviousVersions":["A10327-2023"]
+ "PreviousVersions":["A10327-2023"]
 }

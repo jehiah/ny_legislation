@@ -1,12 +1,15 @@
 {
- "PrintNo":"S4544","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-06T14:16:40.509176Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Finance"}],
+ "PrintNo":"S4544","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-06T14:16:40.509176Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-02-06","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 4544A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 4544B","Date":"2025-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -41,7 +44,7 @@
  ],
  "Title":"Enacts the \"Jack Reid Law: Protect All Students Act\"",
  "Summary":"Prohibits discrimination against and harassment or bullying of students by other students on school property or at a school function; requires schools to investigate reports of bullying; requires schools to adopt a written, plain-language anti-bullying and harassment policy; requires school employees to report incidents of bullying or harassment.",
- "LawSection":"Education Law","LawCode":"Add Art 2-A §§19 - 22, Ed L",
+ "LawSection":"Education Law","LawCode":"Add Art 2-A §§19 - 23, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to enacting the \"Jack Reid Law: Protect All Students Act\"",
- "PreviousVersions":["S6438-2017","S3696-2019","S722-2021","S3180-2023"]
+ "SameAsPrintNo":"A5403-2025","PreviousVersions":["S6438-2017","S3696-2019","S722-2021","S3180-2023"]
 }

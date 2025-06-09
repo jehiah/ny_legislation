@@ -1,15 +1,19 @@
 {
- "PrintNo":"S6230","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-07T09:16:41.847817Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-07","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-03-07","Chamber":"SENATE"}],
+ "PrintNo":"S6230","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-07T09:16:41.847817Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6230A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":439,"Name":"Simcha Felder","Short":"FELDER"},
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"}
  ],
- "Title":"Authorizes camp operators and employees to administer medications and treatment to children under certain circumstances",
- "Summary":"Allows camp operators and employees to administer medications and treatment to children, under parent direction and authorization.",
+ "Title":"Authorizes camp employees to administer medications and treatment to children under certain circumstances",
+ "Summary":"Allows camp employees to administer medications and treatment to children, under parent direction and authorization, after specific authorization by the camp's medical director and in compliance with regulations.",
  "LawSection":"Public Health Law","LawCode":"Amd §1394, Pub Health L; amd §6908, Ed L",
- "ActClause":"AN ACT to amend the public health law and the education law, in relation to authorizing camp operators and employees to administer medications and treatment to children under certain circumstances",
- "SameAsPrintNo":"A509-2025","PreviousVersions":["S8641-2023"]
+ "ActClause":"AN ACT to amend the public health law and the education law, in relation to authorizing camp employees to administer medications and treatment to children under certain circumstances",
+ "PreviousVersions":["S8641-2023"]
 }

@@ -1,11 +1,10 @@
 {
  "PrintNo":"S3393","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T12:48:36.120778Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-02-25"},
   {"Type":"PASSED_SENATE","Date":"2025-02-26"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-26","Committee":"Higher Education"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-07"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Higher Education"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"},
@@ -16,7 +15,11 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-26","Chamber":"SENATE"},
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-02-26","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A2278","Date":"2025-04-07","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING CAL.91","Date":"2025-04-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.91","Date":"2025-04-07","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTION RECONSIDERED","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

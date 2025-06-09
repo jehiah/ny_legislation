@@ -1,11 +1,16 @@
 {
- "PrintNo":"S7880","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-13T09:15:58.807483Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-13","Chamber":"SENATE"}],
- "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],
- "Title":"Enacts the New York Preventing Revocation of Organizations' Tax-Exempt Classifications by Trump Act (NY-PROTECT ACT); repealer",
+ "PrintNo":"S7880","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-13T09:15:58.807483Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-13","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7880A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],"Title":"Enacts the NY-PROTECT ACT; repealer",
  "Summary":"Allows an organization included on the federal list of tax-exempt organizations under section 501(c)(3) of title 26 of the United States code on March first, two thousand twenty-five to automatically maintain their tax-exempt status for New York state purposes; provides for the repeal of such provisions upon the expiration thereof.",
  "LawSection":"Tax Law","LawCode":"Add §27-a, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to enacting the \"New York Preventing Revocation of Organizations' Tax-Exempt Classifications by Trump Act\" or the \"NY-PROTECT ACT\"; and providing for the repeal of such provisions upon expiration thereof"
+ "ActClause":"AN ACT to amend the tax law, in relation to enacting the \"NY-PROTECT ACT\"; and providing for the repeal of such provisions upon expiration thereof",
+ "SameAsPrintNo":"A8583-2025"
 }

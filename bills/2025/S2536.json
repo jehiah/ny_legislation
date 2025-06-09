@@ -1,8 +1,12 @@
 {
- "PrintNo":"S2536","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T14:24:06.984431Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-21","Chamber":"SENATE"}],
+ "PrintNo":"S2536","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-21T14:24:06.984431Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-21","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2536A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN"},
@@ -25,5 +29,5 @@
  "Summary":"Ensures that construction and fabrication done off of a public work site for specific use only in a public work project be compensated at the prevailing wage rate.",
  "LawSection":"Labor Law","LawCode":"Amd §220, Lab L",
  "ActClause":"AN ACT to amend the labor law, in relation to inclusion of certain off-site custom fabrication as public work for the purposes of payment of prevailing wage; and providing for the repeal of certain provisions upon expiration thereof",
- "SameAsPrintNo":"A2747-2025","PreviousVersions":["S8963-2021","S5475-2023"]
+ "PreviousVersions":["S8963-2021","S5475-2023"]
 }

@@ -1,12 +1,17 @@
 {
- "PrintNo":"S4658","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-10T15:55:33.022774Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-10","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-10","Chamber":"SENATE"}],
+ "PrintNo":"S4658","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-10T15:55:33.022774Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-10","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2025-03-31","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4658A","Date":"2025-03-31","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}],
  "Title":"Relates to prohibiting the use of funds, financial incentives or subsidies where facilities or property are used primarily for e-commerce storage and transfers, or the facilitation thereof",
  "Summary":"Relates to prohibiting the use of funds, financial incentives or subsidies where facilities or property are used primarily for e-commerce storage and transfers, or the facilitation thereof.",
- "LawSection":"General Municipal Law","LawCode":"Amd §862, Gen Muni L",
- "ActClause":"AN ACT to amend the general municipal law, in relation to prohibiting the use of funds, financial incentives or subsidies where facilities or property are used primarily for e-commerce storage and transfers, or the facilitation thereof",
- "SameAsPrintNo":"A4196-2025","PreviousVersions":["S8418-2021","S127-2023"]
+ "LawSection":"General Municipal Law","LawCode":"Amd §862, Gen Muni L; amd §§1953 & 2306, Pub Auth L",
+ "ActClause":"AN ACT to amend the general municipal law and the public authorities law, in relation to prohibiting the use of funds, financial incentives or subsidies where facilities or property are used primarily for e-commerce storage and transfers, or the facilitation thereof",
+ "PreviousVersions":["S8418-2021","S127-2023"]
 }

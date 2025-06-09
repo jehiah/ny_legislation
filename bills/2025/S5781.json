@@ -1,10 +1,12 @@
 {
- "PrintNo":"S5781","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-28T15:52:49.879041Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-07","Committee":"Finance"}],
+ "PrintNo":"S5781","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-28T15:52:49.879041Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-02-28","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-07","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5781A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -33,5 +35,5 @@
  "Summary":"Requires all authorities having jurisdiction over a population exceeding five thousand residents to adopt a residential automated solar permitting platform by June thirtieth, two thousand twenty-six.",
  "LawSection":"Executive Law","LawCode":"Amd §381, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to residential solar and energy storage permitting",
- "SameAsPrintNo":"A6270-2025","PreviousVersions":["S8415-2023"]
+ "PreviousVersions":["S8415-2023"]
 }

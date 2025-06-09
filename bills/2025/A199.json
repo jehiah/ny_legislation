@@ -1,8 +1,12 @@
 {
- "PrintNo":"A199","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-23T12:23:23.175899Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A199","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-23T12:23:23.175899Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 199A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},
   {"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"},
@@ -25,11 +29,12 @@
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
-  {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
+  {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"}
  ],
  "Title":"Regulates pistol converters and convertible pistols",
  "Summary":"Makes it illegal for certain persons to possess or sell a pistol converter or a converted pistol.",
- "LawSection":"Penal Law","LawCode":"Amd §§265.00, 265.02, 265.10 & 265.20, Pen L",
+ "LawSection":"Penal Law","LawCode":"Amd §§265.00, 265.10 & 265.20, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to the regulation of pistol converters and convertible pistols",
- "SameAsPrintNo":"S399-2025","PreviousVersions":["A10194-2023"]
+ "PreviousVersions":["A10194-2023"]
 }

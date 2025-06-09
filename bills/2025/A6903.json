@@ -1,11 +1,16 @@
 {
- "PrintNo":"A6903","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A6903","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-03-18T12:00:29.196366Z","Status":"IN_ASSEMBLY_COMM","Committee":"Libraries And Education Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Libraries And Education Technology"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-08","Committee":"Libraries And Education Technology"}],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-03-18","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-05-05","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 6903A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 6903A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-06-08","Chamber":"ASSEMBLY",
+   "Version":"A"
+  },
+  {"Text":"PRINT NUMBER 6903B","Date":"2025-06-08","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},
@@ -14,7 +19,7 @@
  ],
  "Title":"Requires public and not-for-profit libraries to provide certain workplace protections for employees",
  "Summary":"Requires public and not-for-profit libraries to implement risk evaluations and determinations, workplace trainings, and other measures for the prevention of workplace violence.",
- "LawSection":"Labor Law","LawCode":"Add §27-f, Lab L; amd §305, Ed L",
- "ActClause":"AN ACT to amend the labor law and the education law, in relation to requiring public and not-for-profit libraries develop and implement programs to protect library employees",
+ "LawSection":"Labor Law","LawCode":"Add §27-f, Lab L",
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring public and not-for-profit libraries develop and implement programs to protect library employees",
  "SameAsPrintNo":"S7993-2025"
 }

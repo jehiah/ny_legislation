@@ -1,12 +1,15 @@
 {
- "PrintNo":"A6975","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:22:40.574773Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-03-18","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6975","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-18T13:22:40.574773Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6975A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}],
  "Title":"Relates to indexing fixed amounts and clarifying compliance",
  "Summary":"Relates to indexing fixed amounts and clarifying compliance with respect to life insurance agents.",
  "LawSection":"Insurance Law","LawCode":"Amd §4228, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to indexing fixed amounts and clarifying compliance",
- "SameAsPrintNo":"S7222-2025"
+ "ActClause":"AN ACT to amend the insurance law, in relation to indexing fixed amounts and clarifying compliance"
 }

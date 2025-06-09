@@ -1,8 +1,11 @@
 {
  "PrintNo":"S7222","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-04T14:19:09.483674Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-04","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-04-04","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-04-04","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"}
@@ -10,6 +13,5 @@
  "Title":"Relates to indexing fixed amounts and clarifying compliance",
  "Summary":"Relates to indexing fixed amounts and clarifying compliance with respect to life insurance agents.",
  "LawSection":"Insurance Law","LawCode":"Amd §4228, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to indexing fixed amounts and clarifying compliance",
- "SameAsPrintNo":"A6975-2025"
+ "ActClause":"AN ACT to amend the insurance law, in relation to indexing fixed amounts and clarifying compliance"
 }

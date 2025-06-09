@@ -1,8 +1,12 @@
 {
- "PrintNo":"A7422","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-25T17:11:30.532067Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7422","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-25T17:11:30.532067Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7422A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":896,"Name":"Latrice Walker","Short":"WALKER"},{"ID":659,"Name":"Ron Kim","Short":"KIM"},
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
@@ -28,9 +32,9 @@
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
  "Title":"Relates to motions to vacate judgment; repealer",
- "Summary":"Relates to motions to vacate judgment; authorizes filing motions to vacate judgment due to a change in law; authorizes motions to vacate judgment to be filed at any time after entry of a judgment obtained at trial or by plea; relates to the requirements of discovery.",
+ "Summary":"Relates to motions to vacate judgment; authorizes filing motions to vacate judgment for a conviction that was subsequently decriminalized; authorizes motions to vacate judgment to be filed at any time after entry of a judgment obtained at trial or by plea.",
  "LawSection":"Criminal Procedure Law",
- "LawCode":"Add §§440.00 & 440.11, amd §§440.10, 440.20, 440.30, 450.10, 470.15 & 450.30, rpld §450.15, CP L; amd §216, Judy L; amd §722, County L",
- "ActClause":"AN ACT to amend the criminal procedure law, the county law and the judiciary law, in relation to motions to vacate judgment; and to repeal certain provisions of the criminal procedure law relating thereto",
- "PreviousVersions":["A9157-2019","A98-2021","A2878-2023"]
+ "LawCode":"Add §§440.00 & 440.11, amd §§440.10, 440.20, 440.30 & 450.10, rpld §450.10, sub 5, CP L; amd §216, Judy L",
+ "ActClause":"AN ACT to amend the criminal procedure law and the judiciary law, in relation to motions to vacate judgment; and to repeal certain provisions of the criminal procedure law relating thereto",
+ "SameAsPrintNo":"S6319-2025","PreviousVersions":["A9157-2019","A98-2021","A2878-2023"]
 }
