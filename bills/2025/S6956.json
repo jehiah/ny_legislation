@@ -1,13 +1,15 @@
 {
- "PrintNo":"S6956","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T11:27:53.59785Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "PrintNo":"S6956","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-27T11:27:53.59785Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1224","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 6956A","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 6956B","Date":"2025-06-10","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -56,10 +58,12 @@
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
-  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":885,"Name":"Robert Ortt","Short":"ORTT"},
-  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
-  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
+  {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
+  {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":885,"Name":"Robert Ortt","Short":"ORTT"},
+  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Relates to increasing the earnings limitation for positions of public service",
  "Summary":"Relates to increasing the earnings limitation for positions of public service; increases the earnings limitation from $35,000 to $50,000 in 2025 and thereafter.",

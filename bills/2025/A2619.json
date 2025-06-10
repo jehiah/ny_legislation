@@ -1,11 +1,33 @@
 {
  "PrintNo":"A2619","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-21T10:13:18.075177Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Housing"}],
+ "Published":"2025-01-21T10:13:18.075177Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-01-21","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HOUSING","Date":"2025-05-15","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2619A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2619A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-19","Chamber":"ASSEMBLY","Committee":"HOUSING",
+   "Votes":[
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},{"ID":1461,"Short":"BROWN K","Vote":"Nay"},
+    {"ID":0,"Short":"BROWN EA","Vote":"Nay"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},
+    {"ID":1528,"Short":"CHANG","Vote":"Nay"},{"ID":1540,"Short":"MAHER","Vote":"Nay"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"},
+    {"ID":659,"Short":"KIM","Vote":"Absent"},{"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},
@@ -18,17 +40,16 @@
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
   {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
-  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
-  {"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},
+  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},
   {"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"},
   {"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},{"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},
-  {"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
  "Title":"Establishes certain rights upon the expiration of ground lease residential cooperative apartment buildings",
  "Summary":"Establishes certain rights upon the expiration of ground lease residential cooperative apartment buildings.",
  "LawSection":"Real Property Law","LawCode":"Add §233-c, RP L",
  "ActClause":"AN ACT to amend the real property law, the emergency tenant protection act of nineteen seventy-four, and the administrative code of the city of New York, in relation to establishing certain rights upon expiration of leases for ground lease residential cooperative apartment buildings",
- "PreviousVersions":["A5031-2023"]
+ "SameAsPrintNo":"S2433-2025","PreviousVersions":["A5031-2023"]
 }

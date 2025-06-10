@@ -1,11 +1,16 @@
 {
- "PrintNo":"S8426","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-10T13:14:12.59798Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "PrintNo":"S8426","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-06-10T13:14:12.59798Z","Status":"IN_SENATE_COMM","Committee":"Rules",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO RULES","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8426A","Date":"2025-06-10","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"}],
- "Title":"Relates to insurance coverage for mental health and substance use disorder services",
- "Summary":"Requires that insurance coverage for mental health and substance use disorder services be compliant with the federal Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008 and its implementing regulations.",
- "LawSection":"Insurance Law","LawCode":"Amd §§3221, 4303 & 3216, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to requiring health insurance policies conform to the requirements of the federal Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008"
+ "Title":"Prevents discrimination by insurers based on an individual's mental health or substance use disorder",
+ "Summary":"Prevents discrimination by insurers based on an individual's mental health or substance use disorder; incorporates into law federal enforcement rules set forth in the federal mental health parity and addiction equity act of 2008.",
+ "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
+ "ActClause":"AN ACT to amend the insurance law, in relation to preventing discrimination by insurers based on an individual's mental health or substance use disorder",
+ "SameAsPrintNo":"A8839-2025"
 }

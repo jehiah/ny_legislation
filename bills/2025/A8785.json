@@ -1,13 +1,24 @@
 {
  "PrintNo":"A8785","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-04T17:35:21.242826Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"},{"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},
+  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-06-04","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.594","Date":"2025-06-10","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.594","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.594","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S8236","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.1581","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,8 +1,14 @@
 {
- "PrintNo":"A6194","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-27T11:25:18.305333Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-27","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-02-27","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6194","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-27T11:25:18.305333Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO JUDICIARY","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6194A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 6194B","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"}
+ ],
  "Sponsors":[
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},
   {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},
@@ -61,7 +67,7 @@
  "Title":"Establishes \"Kyra's Law\"",
  "Summary":"Requires the court to consider a child's health and safety when making a decision regarding child custody and visitation; directs the court to review certain information as it relates to allegations of child abuse, domestic violence and child safety; requires the court to appoint an attorney to represent the child when credible allegations of serious risk to the child's safety have been made.",
  "LawSection":"Domestic Relations Law",
- "LawCode":"Amd §§240 & 70, add §240-e, Dom Rel L; amd §§1112, 651, 1114 & 249, Fam Ct Act; amd R5521, CPLR",
- "ActClause":"AN ACT to amend the domestic relations law, the family court act and the civil practice law and rules, in relation to establishing \"Kyra's Law\"",
- "PreviousVersions":["A5398-2021","A3346-2023"]
+ "LawCode":"Amd §§240 & 70, add §240-e, Dom Rel L; amd §§651 & 249, Fam Ct Act",
+ "ActClause":"AN ACT to amend the domestic relations law and the family court act, in relation to establishing \"Kyra's Law\"",
+ "SameAsPrintNo":"S5998-2025","PreviousVersions":["A5398-2021","A3346-2023"]
 }
