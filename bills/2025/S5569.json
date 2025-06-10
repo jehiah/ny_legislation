@@ -1,9 +1,15 @@
 {
  "PrintNo":"S5569","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-25T10:54:43.358587Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-02-25","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-02-25","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-10","Chamber":"SENATE"}
+ ],
+ "Sponsors":[
+  {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}
+ ],
  "Title":"Establishes a center for dyslexia and dysgraphia",
  "Summary":"Establishes a center for dyslexia and dysgraphia within the department of education.",
  "LawSection":"Education Law","LawCode":"Add §319, Ed L",

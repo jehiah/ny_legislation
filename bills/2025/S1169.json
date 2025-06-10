@@ -1,20 +1,25 @@
 {
- "PrintNo":"S1169","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T12:24:28.19879Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Internet And Technology"}],
- "Actions":[{"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S1169","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T12:24:28.19879Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Internet And Technology"}],
+ "Actions":[
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1169A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"},
-  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
-  {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
+  {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to the development and use of certain artificial intelligence systems",
  "Summary":"Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general as well as a private right of action.",
- "LawSection":"Civil Rights Law","LawCode":"Add Art 8-A §§85 - 89-b, Civ Rts L; amd §296, Exec L",
- "ActClause":"AN ACT to amend the civil rights law and the executive law, in relation to the use of artificial intelligence systems"
+ "LawSection":"Civil Rights Law","LawCode":"Add Art 8-A §§85 - 89-d, Civ Rts L; amd §296, Exec L",
+ "ActClause":"AN ACT to amend the civil rights law and the executive law, in relation to the use of artificial intelligence systems",
+ "SameAsPrintNo":"A8884-2025"
 }

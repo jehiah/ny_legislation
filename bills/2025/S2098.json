@@ -1,12 +1,20 @@
 {
- "PrintNo":"S2098","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T11:15:36.353268Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"}],
+ "PrintNo":"S2098","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T11:15:36.353268Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Housing, Construction And Community Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-06-09",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 2098A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
- "Title":"Requires the board of directors of a cooperative apartment corporation to notify applicants seeking to purchase shares of the corporation of the reason or reasons the board of directors has refused such request",
- "Summary":"Requires the board of directors of a cooperative apartment corporation to notify applicants seeking to purchase shares of the corporation of the reason or reasons the board of directors has refused such request.",
- "LawSection":"General Business Law","LawCode":"Add §352-m, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to requiring the board of directors of a cooperative apartment corporation to notify applicants seeking to purchase shares of the corporation of the reason or reasons the board of directors has refused such request",
+ "Title":"Requires the board of directors of a cooperative housing corporation to notify applicants seeking to purchase shares of the corporation of the reason or reasons the board of directors has refused such request",
+ "Summary":"Requires the board of directors of a residential cooperative housing corporation to notify applicants seeking to purchase shares of the corporation of the reason or reasons the board of directors has refused such request.",
+ "LawSection":"Business Corporation Law","LawCode":"Add §728, BC L; add §519-b, N-PC L",
+ "ActClause":"AN ACT to amend the business corporation law and the not-for-profit corporation law, in relation to requiring the board of directors of a residential cooperative apartment corporation to notify applicants seeking to purchase shares of the corporation of the reason or reasons the board of directors has refused such request",
  "SameAsPrintNo":"A7090-2025","PreviousVersions":["A7512-2019","A7773-2021","S9426-2023"]
 }

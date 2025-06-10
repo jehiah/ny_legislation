@@ -1,7 +1,10 @@
 {
  "PrintNo":"A128","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-23T11:39:43.208601Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"}],
+ "Published":"2024-12-23T11:39:43.208601Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-23","Chamber":"ASSEMBLY"},
@@ -9,7 +12,9 @@
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RULES REPORT CAL.372","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.372","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.372","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,6 +33,39 @@
     {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
     {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},
     {"ID":474,"Short":"LAVINE","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-06-04","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},
+    {"ID":474,"Short":"LAVINE","Vote":"Excused"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Excused"},{"ID":1148,"Short":"SMITH","Vote":"Excused"}
    ]
   }
  ],
@@ -50,7 +88,8 @@
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
   {"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
-  {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}
+  {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
+  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Requires insurance coverage for inhalers at no cost",
  "Summary":"Requires insurance coverage for one rescue and one maintenance inhaler at no cost.",

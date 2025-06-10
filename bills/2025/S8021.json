@@ -1,15 +1,47 @@
 {
- "PrintNo":"S8021","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T14:33:17.174861Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "PrintNo":"S8021","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T14:33:17.174861Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 8021A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.1653","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 8021B","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-06-09","Version":"A","Chamber":"SENATE","Committee":"Rules",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL","Vote":"Aye"},
+    {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Nay"},
+    {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
- "Title":"Prohibits certain officers of state law enforcement agencies from having certain offensive or inappropriate tattoos",
- "Summary":"Requires state law enforcement agencies to adopt tattoo policies that prohibit certain tattoos that are indecent, sexist, racist, gang affiliated, or that are affiliated with or inspired by extremist organizations or ideologies.",
- "LawSection":"Executive Law","LawCode":"Add §837-z, Exec L"
+ "Title":"Requires the development and implementation of a tattoo policy by law enforcement agencies",
+ "Summary":"Requires the commmissioner of the the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo police for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
+ "LawSection":"Executive Law","LawCode":"Add §837-z, Exec L",
+ "ActClause":"AN ACT to amend the executive law, in relation to requiring state law enforcement agencies to develop and implement a tattoo policy",
+ "SameAsPrintNo":"A8492-2025"
 }

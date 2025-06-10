@@ -1,9 +1,11 @@
 {
  "PrintNo":"S683","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-03T13:53:45.59744Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-03T13:53:45.59744Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_SENATE","Date":"2025-06-06"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
@@ -13,7 +15,12 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A3729","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.560","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -93,13 +100,15 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],
  "Sponsors":[
   {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
-  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Establishes a real property tax exemption for surviving spouses of police officers killed in the line of duty",
  "Summary":"Establishes a real property tax exemption for the primary residences of surviving spouses of police officers killed in the line of duty.",

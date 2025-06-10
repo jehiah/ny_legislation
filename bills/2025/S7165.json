@@ -78,7 +78,7 @@
     {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Nay"},
     {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
@@ -106,7 +106,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
+ "Sponsors":[
+  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"}
+ ],
  "Title":"Authorizes the public service commission to consider non-economic loss suffered by consumers when determining penalties",
  "Summary":"Authorizes the public service commission to consider non-economic loss suffered by consumers, including pain and suffering or mental anguish, when determining penalties against a public utility company, corporation or person or a combination gas and electric corporation.",
  "LawSection":"Public Service Law","LawCode":"Amd §§25 & 25-a, Pub Serv L",

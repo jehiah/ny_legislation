@@ -1,12 +1,13 @@
 {
- "PrintNo":"S7611","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T11:10:00.36757Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"}],
+ "PrintNo":"S7611","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-23T11:10:00.36757Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-23","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.1549","Date":"2025-06-04","Chamber":"SENATE"}
+  {"Text":"ORDERED TO THIRD READING CAL.1549","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 7611A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -57,6 +58,6 @@
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],
  "Title":"Directs a study of the availability of wheelchair accessible vehicles in New York state outside of the city of New York",
  "Summary":"Directs the department of transportation to conduct a study of the availability of wheelchair accessible vehicles, by county, in New York state outside of the city of New York; defines accessibility; requires a report to identify any existing local guidelines for accessible vehicles; directs development of benchmarks for increasing wheelchair accessible vehicles.",
- "LawSection":"Transportation Law","LawCode":"Add §14-o, Transp L",
- "ActClause":"AN ACT to amend the transportation law, in relation to a study of the availability of wheelchair accessible vehicles in New York state outside of the city of New York"
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Add §159-b, V & T L; add §14-o, amd §151, Transp L",
+ "ActClause":"AN ACT to amend the vehicle and traffic law and the transportation law, in relation to a study of the availability of wheelchair accessible vehicles in New York state outside of the city of New York"
 }

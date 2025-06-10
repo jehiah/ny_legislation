@@ -1,8 +1,40 @@
 {
- "PrintNo":"A6314","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-04T09:43:53.08229Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-03-04","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6314","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-04T09:43:53.08229Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6314A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-10","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1127,"Short":"WALSH","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Excused"},{"ID":570,"Short":"MAGNARELLI","Vote":"Absent"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},
@@ -21,8 +53,8 @@
   {"ID":1509,"Name":"Eric Brown","Short":"BROWN E"}
  ],
  "Title":"Relates to ensuring continued access to backup devices for patients with cochlear implants",
- "Summary":"Requires insurance coverage for cochlear implants and backup devices during the initial implantation and for replacements and upgrades.",
- "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
+ "Summary":"Requires insurance coverage to backup devices for patients with cochlear implants during the initial implantation and for replacements and upgrades.",
+ "LawSection":"Insurance Law","LawCode":"Amd §§3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to ensuring continued access to backup devices for patients with cochlear implants",
  "SameAsPrintNo":"S8265-2025"
 }

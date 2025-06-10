@@ -1,13 +1,16 @@
 {
- "PrintNo":"S4500","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-06T09:29:15.72422Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S4500","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-06T09:29:15.72422Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-06","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-19"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-06","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1129","Date":"2025-05-19","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1129","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 4500A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,8 +33,9 @@
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}
  ],
  "Title":"Enacts the consumer wheelchair repair bill of rights act",
- "Summary":"Enacts the \"consumer wheelchair repair bill of rights act\" requiring manufacturers to make available certain documentation, parts, embedded software, firmware, or tools necessary for repairing equipment.",
- "LawSection":"General Business Law","LawCode":"Ren Art 32 §670 to be Art 32-A §676, add §677, Gen Bus L",
+ "Summary":"Enacts the \"consumer wheelchair repair bill of rights act\" requiring manufacturers to make available certain documentation, parts, embedded software, firmware, or tools necessary for repairing equipment; establishes a timely repair for wheelchair program; extends the warranty period for wheelchairs to 2 years; deems all wheelchair repairs needed within 5 years of initial prescription medically necessary.",
+ "LawSection":"General Business Law",
+ "LawCode":"Ren Art 32 §670 to be Art 32-A §676, add §§677, 678 & 679, amd §676, Gen Bus L; add §367-j, Soc Serv L",
  "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"consumer wheelchair repair bill of rights act\"",
  "SameAsPrintNo":"A6569-2025"
 }

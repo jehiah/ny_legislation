@@ -1,14 +1,15 @@
 {
- "PrintNo":"S6375","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S6375","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-03-12T13:08:01.604057Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-12","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-13","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 6375A","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1267","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 6375B","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -32,8 +33,9 @@
   }
  ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
- "Title":"Enacts the no blank checks for medical debt act",
- "Summary":"Enacts the no blank checks for medical debt act to require the use of a uniform patient financial liability form which is prohibited from using language that requires patients to assume an unlimited or unspecified amount of financial liability beyond the amount specified in a good faith estimate from the provider.",
+ "Title":"Removes the requirement that consent for the payment of certain medical services must occur after such services are administered",
+ "Summary":"Removes the requirement that consent for the payment of certain medical services must occur after such services are administered; requires the superintendent of financial services and the commissioner of health to develop a uniform form for consent for payment.",
  "LawSection":"Public Health Law","LawCode":"Amd §18-c, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to enacting the no blank checks for medical debt act"
+ "ActClause":"AN ACT to amend the public health law, in relation to enacting the no blank checks for medical debt act",
+ "SameAsPrintNo":"A6773-2025"
 }

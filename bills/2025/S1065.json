@@ -1,12 +1,16 @@
 {
- "PrintNo":"S1065","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T15:21:54.447929Z",
- "Status":"IN_SENATE_COMM","Committee":"New York City Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"New York City Education"}],
- "Actions":[{"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S1065","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-07T15:21:54.447929Z","Status":"IN_SENATE_COMM","Committee":"New York City Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"New York City Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO NEW YORK CITY EDUCATION","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1065A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
- "Title":"Establishes Three King's day as a school holiday",
+ "Title":"Establishes Three King's day as a school holiday for all public schools in a city having a population of one million or more inhabitants",
  "Summary":"Establishes Three King's day as a school holiday for all public schools in a city school district of a city having a population of one million or more inhabitants.",
- "LawSection":"Education Law","LawCode":"Add §3204-a, amd §3604, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to establishing Three King's day as a school holiday",
- "SameAsPrintNo":"A4920-2025","PreviousVersions":["S3929-2017","S184-2019","S1356-2021","S255-2023"]
+ "LawSection":"Education Law","LawCode":"Add §2586-b, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to establishing Three King's day as a school holiday for all public schools in a city having a population of one million or more inhabitants",
+ "PreviousVersions":["S3929-2017","S184-2019","S1356-2021","S255-2023"]
 }

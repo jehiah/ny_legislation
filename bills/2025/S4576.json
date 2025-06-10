@@ -1,15 +1,16 @@
 {
- "PrintNo":"S4576","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-07T14:04:21.524736Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S4576","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-07T14:04:21.524736Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-07","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-27"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.600","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-26","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 4576A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -31,5 +32,5 @@
  "Summary":"Establishes a procedure for appointing a president or chairperson upon a vacancy of such position.",
  "LawSection":"Economic Development Law","LawCode":"Amd §4, UDC Act",
  "ActClause":"AN ACT to amend the New York state urban development corporation act, in relation to establishing a procedure for appointing a president or chairperson upon a vacancy of such position and correcting certain gendered language",
- "PreviousVersions":["S9148-2021","S3437-2023"]
+ "SameAsPrintNo":"A8570-2025","PreviousVersions":["S9148-2021","S3437-2023"]
 }

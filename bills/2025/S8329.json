@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8329","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-03T11:23:53.091528Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-03","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-06-03","Chamber":"SENATE"}],
+ "PrintNo":"S8329","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-06-03T11:23:53.091528Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-06-03","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8329A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
  "Title":"Authorizes the town of Ramapo to establish a school speed zone demonstration program",
  "Summary":"Authorizes the town of Ramapo to establish a school speed zone demonstration program; authorizes installation in no more than twenty school speed zones in such town.",

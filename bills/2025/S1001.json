@@ -1,12 +1,13 @@
 {
  "PrintNo":"S1001","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T13:11:13.983692Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-12","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1341","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -55,9 +56,10 @@
  ],
  "Sponsors":[
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},
-  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},
-  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to including outpatient care provided by creative arts therapists in certain insurance policies",
  "Summary":"Relates to including outpatient care provided by creative arts therapists in certain insurance policies covering care for other mental health services.",

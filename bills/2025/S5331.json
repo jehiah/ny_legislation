@@ -1,15 +1,16 @@
 {
- "PrintNo":"S5331","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-20T15:15:59.430834Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S5331","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-20T15:15:59.430834Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-20","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-20"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-20","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.580","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 5331A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -33,12 +34,11 @@
  ],
  "Sponsors":[
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
-  {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}
+  {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"}
  ],
  "Title":"Establishes an online insurance verification system for motor vehicle insurance",
  "Summary":"Establishes an online insurance verification system for motor vehicle insurance; requires insurers to provide necessary information.",
- "LawSection":"Vehicle and Traffic Law",
- "LawCode":"Amd §§312-a & 313, rpld §313 sub 2, sub 4 ¶¶(a) - (d) & (f) - (i), §317 sub 3 ¶(d), add §§312-b & 312-c, V & T L",
- "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to establishing an online insurance verification system for motor vehicle insurance; and to repeal certain provisions of such law relating to motor vehicle insurance and funds for a certain pilot database system",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§312-a, 313 & 317, V & T L",
+ "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to establishing an online insurance verification system for motor vehicle insurance",
  "SameAsPrintNo":"A4404-2025","PreviousVersions":["S6534-2023"]
 }

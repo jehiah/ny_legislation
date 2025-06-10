@@ -1,12 +1,16 @@
 {
- "PrintNo":"S7304","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-09T10:11:35.573931Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-09","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-04-09","Chamber":"SENATE"}],
+ "PrintNo":"S7304","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-09T10:11:35.573931Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-05-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7304A","Date":"2025-05-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
- "Title":"Requires state employees attend annual implicit bias training and certain public officials attend annual management training",
- "Summary":"Requires state employees attend annual implicit bias training and the governor, lieutenant governor, attorney general, comptroller, and members of the legislature attend annual management training.",
+ "Title":"Requires state employees and certain public officials attend annual implicit bias training",
+ "Summary":"Requires state employees and the governor, lieutenant governor, attorney general, comptroller, and members of the legislature attend annual implicit bias training provided by the legislative ethics commission.",
  "LawSection":"Labor Law","LawCode":"Add §27-f, Lab L; amd §80, Leg L",
- "ActClause":"AN ACT to amend the labor law and the legislative law, in relation to requiring state employees attend annual implicit bias training and certain public officials attend annual management training",
- "PreviousVersions":["S9384-2023"]
+ "ActClause":"AN ACT to amend the labor law and the legislative law, in relation to requiring state employees and certain public officials attend annual implicit bias training",
+ "SameAsPrintNo":"A6142-2025","PreviousVersions":["S9384-2023"]
 }

@@ -1,8 +1,12 @@
 {
- "PrintNo":"S6901","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-26T13:49:16.523959Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-03-26","Chamber":"SENATE"}],
+ "PrintNo":"S6901","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-26T13:49:16.523959Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-03-26","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6901A","Date":"2025-05-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -18,5 +22,5 @@
  "Summary":"Establishes the healthy and safe students act; requires comprehensive sexuality instruction for students in grades K-12 which includes a model curricula for comprehensive sexuality education and at a minimum conforms to the content and scope of national sexuality education standards.",
  "LawSection":"Education Law","LawCode":"Add §804-e, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to establishing the healthy and safe students act",
- "PreviousVersions":["A10517-2017","A6512-2019","A6616-2021","A4604-2023"]
+ "SameAsPrintNo":"A7496-2025","PreviousVersions":["A10517-2017","A6512-2019","A6616-2021","A4604-2023"]
 }

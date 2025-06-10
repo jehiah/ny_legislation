@@ -79,7 +79,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
@@ -100,7 +100,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"},{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
+ "Sponsors":[
+  {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}
+ ],
  "Title":"Enacts the \"home utility weatherization jobs act\"",
  "Summary":"Enacts the \"home utility weatherization jobs act\"; requires each gas corporation, electric corporation, or combination gas or electric corporation to submit to the public service commission for review and approval at least one and up to ten neighborhood scale weatherization and electrification-ready projects.",
  "LawSection":"Public Service Law","LawCode":"Add §66-x, Pub Serv L",

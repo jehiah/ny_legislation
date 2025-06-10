@@ -1,10 +1,78 @@
 {
  "PrintNo":"A8676","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-28T09:22:05.055442Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Cities"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
-  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-08","Chamber":"ASSEMBLY"}
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-08","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.590","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.590","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-09","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Excused"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Absent"},{"ID":1089,"Short":"HYNDMAN","Vote":"Absent"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-06-10","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":574,"Short":"BARCLAY","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Excused"},
+    {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":570,"Short":"MAGNARELLI","Vote":"Excused"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Excused"},{"ID":570,"Short":"MAGNARELLI","Vote":"Absent"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Absent"},{"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
@@ -18,7 +86,8 @@
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":534,"Name":"Michael Benedetto","Short":"BENEDETTO"},
   {"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
-  {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"}
+  {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},
+  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
  ],
  "Title":"Relates to relocation and employment assistance credits",
  "Summary":"Provides for relocation and employment assistance credits in cities with a population of one million or more.",

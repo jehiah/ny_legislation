@@ -1,9 +1,10 @@
 {
  "PrintNo":"S364","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T10:29:38.164576Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-02-05"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-08"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Insurance"}
+  {"Type":"PASSED_SENATE","Date":"2025-04-08"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-08","Committee":"Insurance"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"SENATE"},
@@ -12,7 +13,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-08","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2025-04-08","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-04-08","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A893","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.84","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

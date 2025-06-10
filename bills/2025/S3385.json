@@ -1,12 +1,13 @@
 {
- "PrintNo":"S3385","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T12:45:45.839623Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "PrintNo":"S3385","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-27T12:45:45.839623Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1251","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 3385A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -39,8 +40,8 @@
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}
  ],
  "Title":"Enacts \"Francesco's law\"; repealer",
- "Summary":"Enacts \"Francesco's law\" which establishes violations for the failure to safely store rifles, shotguns, and firearms in the presence of a minor or a prohibited person; repeals certain provisions relating thereto.",
- "LawSection":"Penal Law","LawCode":"Amd §265.45, add §§265.51 - 265.53, rpld §265.46, Pen L",
- "ActClause":"AN ACT to amend the penal law, in relation to enacting \"Francesco's law\"; and providing for the repeal of certain provisions of the penal law relating to safely storing rifles, shotguns, and firearms",
+ "Summary":"Enacts \"Francesco's law\" which establishes violations for the failure to safely store rifles, shotguns, and firearms in the presence of a minor or a prohibited person; requires the office of gun violence prevention to collect and analyze statistical and other information and data with respect to injuries or deaths of minors resulting from failure to safely store a firearm, rifle, or shotgun.",
+ "LawSection":"Penal Law","LawCode":"Amd §§265.45 & 400.00, add §265.51, rpld §265.46, Pen L; amd §837-y, Exec L",
+ "ActClause":"AN ACT to amend the penal law, in relation to enacting \"Francesco's law\"; to amend the executive law, in relation to annual reports by the New York state office of gun violence prevention; and providing for the repeal of certain provisions of the penal law relating to safely storing rifles, shotguns, and firearms",
  "SameAsPrintNo":"A1962-2025"
 }

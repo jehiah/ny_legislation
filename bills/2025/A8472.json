@@ -1,15 +1,22 @@
 {
- "PrintNo":"A8472","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A8472","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-05-16T12:03:30.53729Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Higher Education"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Higher Education"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-16","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-28","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 8472A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 8472A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 8472B","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"}
  ],
- "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
- "Title":"Establishes a temporary practice authorization pilot program for certain medical and dental professionals to practice in underserved areas",
- "Summary":"Establishes a temporary practice authorization pilot program for certain medical and dental professionals to practice in underserved areas.",
- "LawSection":"Education Law","LawCode":"Amd §§6907, 6958, 6525, 6546 & 6605, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to establishing a temporary practice authorization pilot program for certain medical and dental professionals to practice in underserved areas; and providing for the repeal of such provisions upon expiration thereof"
+ "Sponsors":[
+  {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
+  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+ ],
+ "Title":"Establishes a temporary practice authorization program for certain medical professionals to practice in underserved areas",
+ "Summary":"Establishes a temporary practice authorization program for physicians, registered nurses and licensed practical nurses to practice in underserved areas.",
+ "LawSection":"Education Law","LawCode":"Amd §§6907 & 6525, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to establishing a temporary practice authorization pilot program for certain medical and dental professionals to practice in underserved areas; and providing for the repeal of such provisions upon expiration thereof",
+ "SameAsPrintNo":"S8341-2025"
 }

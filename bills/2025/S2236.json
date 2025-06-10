@@ -1,17 +1,18 @@
 {
- "PrintNo":"S2236","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T09:34:59.638051Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-03-04"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-05","Committee":"Labor"}
- ],
+ "PrintNo":"S2236","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-16T09:34:59.638051Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-16","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.445","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LABOR","Date":"2025-03-05","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO LABOR","Date":"2025-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 2236A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -132,8 +133,8 @@
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Enacts the wage payment integrity act",
- "Summary":"Amends provisions relating to payment of wages to include compensation that is not payable solely at the employer's discretion; requires certain notices; expands enforcement provisions.",
- "LawSection":"Labor Law","LawCode":"Amd §§190, 195, 198-b & 198-c, Lab L",
+ "Summary":"Amends provisions relating to payment of wages to include compensation that is not payable solely at the employer's discretion; requires certain notices.",
+ "LawSection":"Labor Law","LawCode":"Amd §§190, 195 & 198-c, Lab L",
  "ActClause":"AN ACT to amend the labor law, in relation to payment of wages","SameAsPrintNo":"A2222-2025",
  "PreviousVersions":["S4973-2023"]
 }

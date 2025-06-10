@@ -1,11 +1,39 @@
 {
  "PrintNo":"A2643","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-21T10:26:01.289442Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Higher Education"}],
+ "Published":"2025-01-21T10:26:01.289442Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-21","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-27","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2643A","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2643A","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-10","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1127,"Short":"WALSH","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Excused"},{"ID":570,"Short":"MAGNARELLI","Vote":"Absent"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
@@ -15,5 +43,5 @@
  "Summary":"Permits certain licensed athletic trainers who are licensed to practice in another state, territory or country to provide athletic training services to athletes and team personnel at a discrete sanctioned team sporting event or performance in this state.",
  "LawSection":"Education Law","LawCode":"Amd §8356, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to permitting certain licensed athletic trainers to practice in New York state if they are licensed to practice in another state, territory or country",
- "PreviousVersions":["A9013-2023"]
+ "SameAsPrintNo":"S5275-2025","PreviousVersions":["A9013-2023"]
 }

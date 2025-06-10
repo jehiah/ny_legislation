@@ -1,15 +1,16 @@
 {
- "PrintNo":"S409","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T10:45:13.994661Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S409","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-31T10:45:13.994661Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.630","Date":"2025-04-07","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-09","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 409A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,5 +31,5 @@
  "Summary":"Permits on-premises retail licensees to purchase wine and liquor from off-premises retail licensees and off-premises retail licensees to purchase wine and liquor from on-premises retail licensees.",
  "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§106 & 105, ABC L",
  "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to permitting certain retail licensees to purchase wine and liquor from certain other retail licensees",
- "PreviousVersions":["S2853-2023"]
+ "SameAsPrintNo":"A7464-2025","PreviousVersions":["S2853-2023"]
 }

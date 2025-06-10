@@ -1,12 +1,17 @@
 {
- "PrintNo":"S3390","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T12:47:23.17222Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-27","Chamber":"SENATE"}],
+ "PrintNo":"S3390","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-27T12:47:23.17222Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-27","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3390A","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-10","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"}],
- "Title":"Requires each college to make publicly available its policy on notifying the parent, guardian, or emergency contact of a student under twenty-one of certain controlled substance or alcohol violations",
- "Summary":"Requires each college and institution of higher education to make publicly available its policy on notifying the parent, guardian, or emergency contact of a student under twenty-one of certain controlled substance and alcohol violations, including rule infractions, and controlled substance or alcohol related hospitalizations or overdoses; requires such colleges and institutions to conduct regular training on the Family Educational Rights and Privacy Act.",
+ "Title":"Requires institutions of higher education make available their policy on notifying the parent, guardian, or emergency contact of a student under twenty-one of certain controlled substance or alcohol violations",
+ "Summary":"Requires each institution of higher education to make publicly available its policy on notifying the parent, guardian, or emergency contact of a student under twenty-one of certain controlled substance and alcohol violations, including rule infractions, and controlled substance or alcohol related hospitalizations or overdoses; requires such colleges and institutions to conduct regular training on the Family Educational Rights and Privacy Act.",
  "LawSection":"Education Law","LawCode":"Add §6438-d, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to requiring each college and other institution of higher education to make publicly available its policy on notifying the parent, guardian, or emergency contact of a student under twenty-one years old of certain controlled substance or alcohol violations",
+ "ActClause":"AN ACT to amend the education law, in relation to requiring each institution of higher education to make publicly available its policy on notifying the parent, guardian, or emergency contact of a student under twenty-one years old of certain controlled substance or alcohol violations",
  "SameAsPrintNo":"A4872-2025","PreviousVersions":["S9173-2023"]
 }

@@ -1,15 +1,16 @@
 {
- "PrintNo":"S7494","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-17T14:39:15.175041Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S7494","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-17T14:39:15.175041Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-17","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-04-17","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1415","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 7494A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,5 +31,6 @@
  "Summary":"Provides for securities fraud whistleblower incentives and protections; defines terms; grants whistleblower awards for one or more whistleblowers who voluntarily provide original information to the attorney general that was the basis for a successful covered enforcement action; protects whistleblowers from retaliation; authorizes the attorney general to adopt any necessary rules and regulations; makes related provisions.",
  "LawSection":"General Business Law",
  "LawCode":"Add §353-b, Gen Bus L; amd §104, add §§410 & 411, Fin Serv L; amd §4, St Fin L; amd §63, Exec L",
- "ActClause":"AN ACT to amend the general business law, the financial services law, the state finance law and the executive law, in relation to enacting the \"government response to insider fraud and trading act\" relating to securities fraud whistleblower incentives and protections"
+ "ActClause":"AN ACT to amend the general business law, the financial services law, the state finance law and the executive law, in relation to enacting the \"government response to insider fraud and trading act\" relating to securities fraud whistleblower incentives and protections",
+ "SameAsPrintNo":"A8016-2025"
 }

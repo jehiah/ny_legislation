@@ -1,10 +1,7 @@
 {
- "PrintNo":"S54","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-17T15:35:21.307503Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-03-12"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-13"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Codes"}
- ],
+ "PrintNo":"S54","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-17T15:35:21.307503Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.499","Date":"2025-03-10","Chamber":"SENATE"},
@@ -14,7 +11,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-13","Chamber":"SENATE"},
   {"Text":"REFERRED TO CODES","Date":"2025-05-13","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 54A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -117,9 +116,9 @@
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"},
   {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
- "Title":"Protects intoxicated individuals from being targeted for sexual assault",
- "Summary":"Prohibits the use of intoxication of the victim as a defense in sex crimes where the victim is under the influence of any drug, intoxicant, or other substance to a degree which rendered the victim temporarily incapable of appraising or controlling such person's conduct and such condition was known or reasonably should have been known to a person in the actor's situation.",
+ "Title":"Prohibits the use of intoxication of the victim as a defense in sex crimes",
+ "Summary":"Prohibits the use of intoxication of the victim as a defense in sex crimes where the victim is under the extreme influence of any substance which renders them incapable of appraising or controlling such victim's conduct and incapable of clearly expressing lack of consent.",
  "LawSection":"Penal Law","LawCode":"Amd §130.05, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to prohibiting the use of the intoxication of a victim as a defense to a criminal charge for sex crimes",
- "PreviousVersions":["S6679-2019","S452-2021","S4555-2023"]
+ "SameAsPrintNo":"A101-2025","PreviousVersions":["S6679-2019","S452-2021","S4555-2023"]
 }

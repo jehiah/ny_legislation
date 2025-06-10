@@ -1,10 +1,7 @@
 {
- "PrintNo":"S372","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T11:35:35.782641Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-03-04"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-05","Committee":"Labor"}
- ],
+ "PrintNo":"S372","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-30T11:35:35.782641Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-03-03","Chamber":"SENATE"},
@@ -13,7 +10,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"REFERRED TO LABOR","Date":"2025-03-05","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 372A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -131,8 +130,8 @@
  ],
  "Sponsors":[{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Establishes the \"no severance ultimatums act\"",
- "Summary":"Establishes the \"no severance ultimatums act\", which prevents employers from giving coercive ultimatums to employees or former employees relating to such employee's severance from employment.",
+ "Summary":"Establishes the \"no severance ultimatums act\", which prevents employers from giving coercive ultimatums to employees or former employees relating to severance agreements.",
  "LawSection":"Labor Law","LawCode":"Add §215-d, Lab L",
  "ActClause":"AN ACT to amend the labor law, in relation to establishing the \"no severance ultimatums act\"",
- "PreviousVersions":["S7609-2023"]
+ "SameAsPrintNo":"A6480-2025","PreviousVersions":["S7609-2023"]
 }

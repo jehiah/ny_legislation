@@ -1,11 +1,16 @@
 {
- "PrintNo":"A7390","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-25T16:53:55.277741Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-25","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"}],
- "Title":"Permits students to be admitted to certain colleges and be eligible for certain financial aid if they received a high school diploma, or the equivalent thereof, from certain online high schools",
- "Summary":"Permits college students to be able to be admitted to certain colleges and be eligible for certain financial aid if they received a high school diploma, or the equivalent thereof, from certain online high school programs.",
+ "PrintNo":"A7390","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-25T16:53:55.277741Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-31","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7390A","Date":"2025-03-31","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Sponsors":[{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}],
+ "Title":"Relates to college admission and financial aid for students who have received a high school diploma from certain online high school programs",
+ "Summary":"Provides that students who receive a high school diploma from an online high school program located within the United States that is accredited in accordance with the Job Corps Policy and Requirements Handbook shall be eligible for admission to colleges and financial aid.",
  "LawSection":"Education Law","LawCode":"Amd §§661, 355, 6306 & 6206, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to permitting college students to be able to be admitted to certain colleges and be eligible for certain financial aid if they received a high school diploma, or the equivalent thereof, from certain online high school programs"
+ "ActClause":"AN ACT to amend the education law, in relation to college admission and financial aid for students who have received a high school diploma from certain online high school programs",
+ "SameAsPrintNo":"S6705-2025"
 }

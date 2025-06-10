@@ -1,11 +1,7 @@
 {
- "PrintNo":"S1100","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T10:07:58.560246Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Libraries And Education Technology",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-04-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-20"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Libraries And Education Technology"}
- ],
+ "PrintNo":"S1100","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T10:07:58.560246Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.650","Date":"2025-04-08","Chamber":"SENATE"},
@@ -15,7 +11,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1100A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -104,8 +102,8 @@
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Enacts the \"open shelves act\"",
- "Summary":"Ensures that staff in libraries are able to curate collections, services, and programming that reflect the interests of all people of the community that the library serves.",
+ "Summary":"Ensures that library staff of free association, public, and hospital libraries, and with certain advice, Indian libraries, are able to develop collections, services, and programming that reflect the values and protections established under the human rights law and the equal rights amendment to the state constitution.",
  "LawSection":"Education Law","LawCode":"Amd §254, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to requiring certain libraries to adopt policies ensuring that library staff are able to curate collections, services, and programming that reflect diverse interests",
- "PreviousVersions":["S7677-2023"]
+ "ActClause":"AN ACT to amend the education law, in relation to requiring certain libraries to adopt policies ensuring that library staff are able to curate and develop collections, services, and programming that reflect the values and protections established under the human rights law and the equal rights amendment to the state constitution",
+ "SameAsPrintNo":"A3119-2025","PreviousVersions":["S7677-2023"]
 }

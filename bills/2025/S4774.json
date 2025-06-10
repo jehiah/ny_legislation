@@ -1,12 +1,13 @@
 {
- "PrintNo":"S4774","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-12T15:30:24.116665Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-05-07"}],
+ "PrintNo":"S4774","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-12T15:30:24.116665Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.917","Date":"2025-05-05","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-06","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-07","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-07","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 4774A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -46,10 +47,9 @@
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"},
   {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
- "Title":"Includes in the class E felony of vehicular assault in the second degree, the causing of serious physical injury while operating a vehicle with suspended, revoked or no license",
- "Summary":"Includes in the class E felony of vehicular assault in the second degree, the causing of serious physical injury while operating a vehicle with suspended, revoked or no license; creates the crime of vehicular homicide.",
- "LawSection":"Penal Law","LawCode":"Amd §§120.03 & 120.04, add §125.13-a, Pen L",
- "ActClause":"AN ACT to amend the penal law, in relation to including within the offense of vehicular assault in the second degree, the causing of serious injury while knowingly operating a motor vehicle with a revoked or suspended license or while not holding a license and establishing the offense of vehicular homicide",
- "SameAsPrintNo":"A5953-2025",
+ "Title":"Establishes the offense of vehicular homicide",
+ "Summary":"Creates the crime of vehicular homicide; makes such crime a class B felony.","LawSection":"Penal Law",
+ "LawCode":"Amd §125.13-a, Pen L",
+ "ActClause":"AN ACT to amend the penal law, in relation to establishing the offense of vehicular homicide",
  "PreviousVersions":["S6386-2013","S2484-2015","S3299-2017","S2149-2019","S1228-2021","S3602-2023"]
 }

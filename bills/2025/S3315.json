@@ -1,10 +1,12 @@
 {
- "PrintNo":"S3315","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T16:06:47.405922Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Finance"}],
+ "PrintNo":"S3315","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T16:06:47.405922Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-24","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3315A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,9 +32,9 @@
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Relates to establishing the green affordable pre-electrification program",
- "Summary":"Establishes the green affordable pre-electrification program to assist owners and tenants in residential properties in curing structural and building code defects which render the properties ineligible for climate change adaptation and resiliency project grants.",
- "LawSection":"Public Authorities Law","LawCode":"Add §1872-b, Pub Auth L",
- "ActClause":"AN ACT to amend the public authorities law, in relation to establishing the green affordable pre-electrification program",
+ "Title":"Establishes the green affordable pre-electrification program",
+ "Summary":"Establishes the green affordable pre-electrification program to assist owners and tenants in residential properties in curing structural and building code defects which render the properties ineligible for improvements or projects relating to energy savings, green-house gas emissions reductions, climate change adaptation and resiliency project grants.",
+ "LawSection":"Private Housing Finance Law","LawCode":"Add Art 33 §§1300 - 1303, Priv Hous Fin L",
+ "ActClause":"AN ACT to amend the private housing finance law, in relation to establishing the green affordable pre-electrification program",
  "PreviousVersions":["S8535-2023"]
 }

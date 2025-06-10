@@ -1,10 +1,9 @@
 {
- "PrintNo":"S934","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T10:38:38.306543Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
+ "PrintNo":"S934","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-07T10:38:38.306543Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Internet And Technology"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-12"},{"Type":"PASSED_SENATE","Date":"2025-03-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Science And Technology"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-08","Chamber":"SENATE"},
@@ -15,7 +14,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-03-10","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 934A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -104,8 +105,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Requires warnings on generative artificial intelligence systems",
- "Summary":"Requires the owner, licensee or operator of a generative artificial intelligence system to conspicuously display a warning on the system's user interface that is reasonably calculated to consistently apprise the user that the outputs of the generative artificial intelligence system may be inaccurate and/or inappropriate.",
+ "Summary":"Requires the owner, licensee or operator of a generative artificial intelligence system to conspicuously display a notice on the system's user interface that is reasonably calculated to consistently apprise the user that the outputs of the generative artificial intelligence system may be inaccurate.",
  "LawSection":"General Business Law","LawCode":"Add §399-zzzzzz, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to requiring warnings on generative artificial intelligence systems",
- "PreviousVersions":["S9450-2023"]
+ "ActClause":"AN ACT to amend the general business law, in relation to requiring notices on generative artificial intelligence systems",
+ "SameAsPrintNo":"A3411-2025","PreviousVersions":["S9450-2023"]
 }

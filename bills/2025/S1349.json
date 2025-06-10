@@ -1,10 +1,7 @@
 {
- "PrintNo":"S1349","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T11:36:04.59194Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Education"}
- ],
+ "PrintNo":"S1349","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T11:36:04.59194Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-04-25","Chamber":"SENATE"},
@@ -21,7 +18,11 @@
   {"Text":"AMENDED ON THIRD READING (T) 1349B","Date":"2025-05-27","Chamber":"SENATE","Version":"B"},
   {"Text":"REPASSED SENATE","Date":"2025-06-04","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING (T) 1349C","Date":"2025-06-09","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -165,7 +166,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
@@ -180,9 +181,9 @@
   }
  ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
- "Title":"Requires school districts to provide information regarding water safety and swimming certification to certain parents or students upon enrollment",
- "Summary":"Requires school districts to provide information regarding water safety and swimming certification to certain parents or students upon enrollment; relates to promoting public awareness of the dangers of fatal and non-fatal drowning.",
- "LawSection":"Education Law","LawCode":"Add §926, Ed L; amd §207, Pub Health L",
+ "Title":"Requires school districts to provide information regarding water safety to parents or students upon enrollment",
+ "Summary":"Requires school districts to provide information regarding water safety to parents or students upon enrollment.",
+ "LawSection":"Education Law","LawCode":"Add §926, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to requiring school districts to provide information regarding water safety and swimming certification to certain parents or students upon enrollment; and to amend the public health law, in relation to promoting public awareness of the dangers of fatal and non-fatal drowning",
  "SameAsPrintNo":"A3515-2025","PreviousVersions":["S9311-2023"]
 }

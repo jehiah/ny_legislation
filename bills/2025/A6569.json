@@ -1,15 +1,20 @@
 {
- "PrintNo":"A6569","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T14:49:02.128819Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-03-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6569","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-06T14:49:02.128819Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6569A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
-  {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},
-  {"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"}
+  {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
+  {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"}
  ],
  "Title":"Enacts the consumer wheelchair repair bill of rights act",
- "Summary":"Enacts the \"consumer wheelchair repair bill of rights act\" requiring manufacturers to make available certain documentation, parts, embedded software, firmware, or tools necessary for repairing equipment.",
- "LawSection":"General Business Law","LawCode":"Ren Art 32 §670 to be Art 32-A §676, add §677, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"consumer wheelchair repair bill of rights act\"",
+ "Summary":"Enacts the \"consumer wheelchair repair bill of rights act\" requiring manufacturers to make available certain documentation, parts, embedded software, firmware, or tools necessary for repairing equipment; establishes a timely repair for wheelchair program; extends the warranty period for wheelchairs to 2 years; deems all wheelchair repairs needed within 5 years of initial prescription medically necessary.",
+ "LawSection":"General Business Law",
+ "LawCode":"Ren Art 32 §670 to be Art 32-A §676, add §§677, 678 & 679, amd §676, Gen Bus L; add §367-j, Soc Serv L",
+ "ActClause":"AN ACT to amend the general business law and the social services law, in relation to enacting the \"consumer wheelchair repair bill of rights act\"",
  "SameAsPrintNo":"S4500-2025"
 }

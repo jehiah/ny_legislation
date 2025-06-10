@@ -1,15 +1,16 @@
 {
- "PrintNo":"S2057","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T10:05:33.548765Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S2057","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T10:05:33.548765Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-07"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-15","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.621","Date":"2025-04-02","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-03","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-07","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-07","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 2057A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -52,5 +53,5 @@
  "LawSection":"Environmental Conservation Law",
  "LawCode":"Add Art 37 Title 12 §§37-1201 - 37-1207, amd §71-3703, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to the regulation of ingredients in personal care products and cosmetics",
- "PreviousVersions":["S6077-2019","S3331-2021","S4265-2023"]
+ "SameAsPrintNo":"A2054-2025","PreviousVersions":["S6077-2019","S3331-2021","S4265-2023"]
 }

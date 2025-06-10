@@ -1,12 +1,18 @@
 {
- "PrintNo":"S4735","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-12T10:41:47.938848Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-02-12","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
- "Title":"Relates to protecting students, faculty, and staff from civil arrest while attending or participating in school activities",
- "Summary":"Prohibits civil arrest in school settings; prohibits all public and charter schools from allowing law enforcement officials inside school property to access a student, except to address an imminent safety situation or if they have an appropriate judicial warrant or judicial order.",
+ "PrintNo":"S4735","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-12T10:41:47.938848Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-02-12","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4735A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
+ ],
+ "Title":"Relates to protecting students, faculty, and staff from immigration enforcement while attending or participating in school activities",
+ "Summary":"Prohibits immigration enforcement in school settings; prohibits all public and charter schools from allowing law enforcement officials inside school property to access a student, except to address an imminent safety situation or if they have an appropriate judicial warrant or judicial order.",
  "LawSection":"Civil Rights Law","LawCode":"Add §29, Civ Rts L; add §409-o, Ed L",
- "ActClause":"AN ACT to amend the civil rights law and the education law, in relation to protecting students, faculty, and staff from civil arrest while attending or participating in school activities",
- "SameAsPrintNo":"A5373-2025"
+ "ActClause":"AN ACT to amend the civil rights law and the education law, in relation to protecting students, faculty, and staff from immigration enforcement while attending or participating in school activities"
 }

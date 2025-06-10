@@ -1,12 +1,13 @@
 {
- "PrintNo":"S399","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T15:59:33.34741Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "PrintNo":"S399","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-30T15:59:33.34741Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1247","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 399A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -40,7 +41,7 @@
  ],
  "Title":"Regulates pistol converters and convertible pistols",
  "Summary":"Makes it illegal for certain persons to possess or sell a pistol converter or a converted pistol.",
- "LawSection":"Penal Law","LawCode":"Amd §§265.00, 265.02, 265.10 & 265.20, Pen L",
+ "LawSection":"Penal Law","LawCode":"Amd §§265.00, 265.10 & 265.20, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to the regulation of pistol converters and convertible pistols",
- "PreviousVersions":["S9225-2023"]
+ "SameAsPrintNo":"A199-2025","PreviousVersions":["S9225-2023"]
 }

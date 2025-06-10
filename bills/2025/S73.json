@@ -1,10 +1,9 @@
 {
- "PrintNo":"S73","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-18T10:25:04.840783Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "PrintNo":"S73","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-18T10:25:04.840783Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-03-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-05","Committee":"Codes"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -15,7 +14,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-05","Chamber":"SENATE"},
   {"Text":"REFERRED TO CODES","Date":"2025-03-05","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 73A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

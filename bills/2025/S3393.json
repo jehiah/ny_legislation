@@ -1,11 +1,7 @@
 {
- "PrintNo":"S3393","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T12:48:36.120778Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-02-25"},
-  {"Type":"PASSED_SENATE","Date":"2025-02-26"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Higher Education"}
- ],
+ "PrintNo":"S3393","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-27T12:48:36.120778Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.356","Date":"2025-02-12","Chamber":"SENATE"},
@@ -19,7 +15,9 @@
   {"Text":"SUBSTITUTION RECONSIDERED","Date":"2025-06-05","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-05","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 3393A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -114,9 +112,9 @@
   {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Requires that pharmacies that are discontinuing to notify customers of such discontinuance",
- "Summary":"Requires pharmacies that are discontinuing to notify customers of such discontinuance and provide information including locations of other nearby pharmacies.",
+ "Title":"Requires that pharmacies that are permanently discontinuing to notify customers of such discontinuance",
+ "Summary":"Requires pharmacies that are permanently discontinuing to notify customers of such discontinuance and provide information including locations of other nearby pharmacies.",
  "LawSection":"Education Law","LawCode":"Add §6811-d, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to requiring pharmacies that are discontinuing to notify customers of such discontinuance",
+ "ActClause":"AN ACT to amend the education law, in relation to requiring pharmacies that are permanently discontinuing to notify customers of such discontinuance",
  "SameAsPrintNo":"A2278-2025","PreviousVersions":["S9525-2023"]
 }

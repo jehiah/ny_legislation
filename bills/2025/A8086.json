@@ -1,8 +1,12 @@
 {
- "PrintNo":"A8086","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-24T16:10:01.015932Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-24","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-04-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8086","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-24T16:10:01.015932Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Local Governments"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-04-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8086A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
@@ -21,10 +25,9 @@
   {"ID":631,"Name":"Kenneth Blankenbush","Short":"BLANKENBUSH"},{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
  ],
- "Title":"Relates to emergency medical services",
- "Summary":"Relates to emergency medical services; establishes a special district for the financing and operation of general ambulance services; provides for a statewide comprehensive emergency medical system plan.",
- "LawSection":"General Municipal Law",
- "LawCode":"Amd §122-b, Gen Muni L; amd §§3000, 3001 & 3020, add §§3019 & 3019-a, Pub Health L",
- "ActClause":"AN ACT to amend the general municipal law and the public health law, in relation to emergency medical services",
+ "Title":"Directs counties to develop and maintain comprehensive county emergency medical system plans",
+ "Summary":"Directs counties, in coordination with their regional emergency medical services councils, to develop and maintain comprehensive county emergency medical system plans that provide for coordinated emergency medical systems within such counties.",
+ "LawSection":"General Municipal Law","LawCode":"Amd §122-b, Gen Muni L",
+ "ActClause":"AN ACT to amend the general municipal law, in relation to directing counties to develop and maintain comprehensive county emergency medical system plans",
  "SameAsPrintNo":"S7501-2025","PreviousVersions":["A9509-2021","A3392-2023"]
 }

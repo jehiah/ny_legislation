@@ -1,8 +1,12 @@
 {
- "PrintNo":"A3226","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-24T14:50:17.04604Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-24","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3226","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-24T14:50:17.04604Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO JUDICIARY","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3226A","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
@@ -19,12 +23,12 @@
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},
   {"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},{"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},
-  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}
  ],
  "Title":"Enacts the ceasing repeated and extremely egregious predatory (CREEP) behavior act",
  "Summary":"Enacts the \"ceasing repeated and extremely egregious predatory (CREEP) behavior act\"; provides for the issuance of anti-stalking orders.",
  "LawSection":"Civil Practice Law and Rules",
- "LawCode":"Add Art 63-B §§6349 - 6357, CPLR; amd §§120.14 & 215.51, Pen L; amd §140.10, CP L",
- "ActClause":"AN ACT to amend the civil practice law and rules, the penal law and the criminal procedure law, in relation to anti-stalking orders",
+ "LawCode":"Add Art 63-B §§6349 - 6357, amd §8018, CPLR; amd §§120.14 & 215.51, Pen L; amd §140.10, CP L; amd §212, Judy L; amd §221-a, Exec L",
+ "ActClause":"AN ACT to amend the civil practice law and rules, the penal law, the criminal procedure law, the judiciary law and the executive law, in relation to anti-stalking orders",
  "SameAsPrintNo":"S3394-2025","PreviousVersions":["S9596-2023"]
 }

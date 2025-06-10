@@ -1,17 +1,17 @@
 {
- "PrintNo":"S7699","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7699","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-04-30T14:04:59.41826Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-27"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-30","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1239","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
-  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-27","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING (T) 7699A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING (T) 7699A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 7699B","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -37,5 +37,6 @@
  "Title":"Dedicates a portion of the state highway system to Jack Barletta",
  "Summary":"Dedicates a portion of the state highway system to Jack Barletta on state route 208 in the county of Orange.",
  "LawSection":"Highway Law","LawCode":"Add §345-d, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Jack Barletta"
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Jack Barletta",
+ "SameAsPrintNo":"A7871-2025"
 }

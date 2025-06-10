@@ -1,8 +1,12 @@
 {
- "PrintNo":"S6220","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-06T15:37:27.454469Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-03-06","Chamber":"SENATE"}],
+ "PrintNo":"S6220","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-06T15:37:27.454469Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-03-06","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6220A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],
  "Title":"Relates to the enforcement of liens on personal property at self-storage facilities",
  "Summary":"Relates to the enforcement of liens on personal property at self-storage facilities; requires enforcement of a lien by public sale; requires a delay in enforcement of a lien if the tenant is a service member who is transferred or deployed on active duty or if the tenant is deceased; requires 60 days notice if the property subject to the lien is a motor vehicle or watercraft; requires a storage facility to hold certain surplus funds.",

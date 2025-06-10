@@ -1,15 +1,17 @@
 {
- "PrintNo":"S4989","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T16:13:34.554563Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S4989","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-14T16:13:34.554563Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO CONSUMER PROTECTION","Date":"2025-05-19","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1410","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 4989A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -41,7 +43,7 @@
  ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Requires utility service providers to disclose planned rate increases to consumers within a certain amount of time",
- "Summary":"Requires utility service providers to disclose planned rate increases to consumers within thirty but no less than seven days before a planned price increase takes effect; requires utility providers to provide contact information and a mechanism to cancel service completely.",
+ "Summary":"Requires utility service providers to disclose planned rate increases to consumers within thirty days before a planned price increase takes effect; requires utility providers to provide contact information and a mechanism to cancel service completely.",
  "LawSection":"Public Service Law","LawCode":"Add §28, Pub Serv L; add §399-ww, Gen Bus L; amd §1020-cc, Pub Auth L",
  "ActClause":"AN ACT to amend the public service law, the general business law and the public authorities law, in relation to requiring utility service providers to disclose planned rate increases to consumers within a certain amount of time",
  "PreviousVersions":["S6278-2021","S2993-2023"]

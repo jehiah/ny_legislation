@@ -1,13 +1,19 @@
 {
  "PrintNo":"A8432","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-15T17:26:15.315135Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"},{"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-05-15","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-21","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.251","Date":"2025-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.251","Date":"2025-05-21","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.251","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {

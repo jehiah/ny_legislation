@@ -1,10 +1,9 @@
 {
- "PrintNo":"A6634","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T15:10:38.861393Z",
- "Status":"IN_SENATE_COMM","Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+ "PrintNo":"A6634","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-06T15:10:38.861393Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Tourism, Parks, Arts And Sports Development"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-19"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-03-06","Chamber":"ASSEMBLY"},
@@ -14,7 +13,9 @@
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-19","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-05-19","Chamber":"SENATE"},
   {"Text":"RECALLED FROM SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 6634A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -48,6 +49,22 @@
     {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
     {"ID":1484,"Short":"GALLAHAN","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"","Date":"2025-06-09","Chamber":"ASSEMBLY","Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "Votes":[
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
@@ -59,5 +76,6 @@
  "Title":"Relates to mandating the development and approval of operational safety plans",
  "Summary":"Requires the office of parks, recreation and historic preservation to develop and approve operational safety plans prior to the deployment of any employee in hazardous conditions; requires the plan to include a comprehensive risk assessment identifying potential hazards associated with the deployment, mitigation measures to address identified risks, detailed information on team composition, identification of an on-site authorized person responsible for overseeing operations, a clear chain of command, emergency contact information for all team members, and evacuation procedures.",
  "LawSection":"Parks, Recreation and Historic Preservation Law","LawCode":"Add §3.16, Pks & Rec L",
- "ActClause":"AN ACT to amend the parks, recreation and historic preservation law, in relation to mandating the development and approval of operational safety plans"
+ "ActClause":"AN ACT to amend the parks, recreation and historic preservation law, in relation to mandating the development and approval of operational safety plans",
+ "SameAsPrintNo":"S7680-2025"
 }
