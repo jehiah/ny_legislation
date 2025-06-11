@@ -1,9 +1,10 @@
 {
  "PrintNo":"A6558","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:36:07.604992Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Published":"2025-03-06T14:36:07.604992Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-05"},{"Type":"IN_SENATE_COMM","Date":"2025-06-05","Committee":"Rules"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-05"},{"Type":"IN_SENATE_COMM","Date":"2025-06-05","Committee":"Rules"},
+  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-06","Chamber":"ASSEMBLY"},
@@ -16,7 +17,11 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.327","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO RULES","Date":"2025-06-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO RULES","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED FOR S5381B","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"3RD READING CAL.1812","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

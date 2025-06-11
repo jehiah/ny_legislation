@@ -1,10 +1,11 @@
 {
  "PrintNo":"S5083","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-18T15:17:07.280763Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
   {"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-18","Chamber":"SENATE"},
@@ -14,7 +15,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A5898","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.439","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

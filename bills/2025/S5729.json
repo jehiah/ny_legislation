@@ -1,15 +1,17 @@
 {
  "PrintNo":"S5729","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-28T11:17:52.993633Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Veterans, Homeland Security And Military Affairs"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_SENATE","Date":"2025-06-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-02-28","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1370","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -29,9 +31,10 @@
   }
  ],
  "Sponsors":[
-  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
+  {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
  ],
  "Title":"Adds hazardous air quality to the state definition of a disaster and includes air quality emergency preparedness in local comprehensive emergency management plans",
  "Summary":"Adds hazardous air quality to the state definition of a disaster; requires explicit inclusion of air quality emergency preparedness in local comprehensive emergency management plans with an action plan and annual inventory of air quality emergency resources.",

@@ -1,7 +1,11 @@
 {
  "PrintNo":"A3938","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T15:00:47.730372Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"}],
+ "Published":"2025-01-30T15:00:47.730372Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},{"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},
+  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-12","Chamber":"ASSEMBLY"},
@@ -12,7 +16,14 @@
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RULES REPORT CAL.609","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.609","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.609","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"SUBSTITUTED FOR S5568B","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"3RD READING CAL.1816","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -164,7 +175,8 @@
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":1487,"Name":"William Conrad","Short":"CONRAD"},
-  {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"}
+  {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"}
  ],
  "Title":"Enacts the Alexander John Smullen Traffic Safety Memorial Law",
  "Summary":"Authorizes the department of transportation to establish and implement a state memorial sign program to memorialize persons who died due to injuries sustained in a fatal motor vehicle crash on state highways.",
