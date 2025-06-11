@@ -1,14 +1,20 @@
 {
  "PrintNo":"A5115","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T11:24:34.674513Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"},{"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-12","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-27","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.563","Date":"2025-06-10","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.563","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.563","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -119,7 +125,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1147,"Name":"Steve Stern","Short":"STERN"}],
+ "Sponsors":[{"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}],
  "Title":"Relates to certification required for payments made for home care services",
  "Summary":"Requires an annual statement of wage parity hours and expenses to be accompanied by an independent accountant's report on applying agreed upon procedures on the annual compliance statement of wage parity, hours and expenses prior to payments for home care services by government agencies.",
  "LawSection":"Public Health Law","LawCode":"Amd §3614-c, Pub Health L",

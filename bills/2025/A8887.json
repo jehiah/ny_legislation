@@ -1,11 +1,18 @@
 {
- "PrintNo":"A8887","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-10T00:52:55.292461Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8887","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-06-10T00:52:55.292461Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8887A","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 8887B","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"}
+ ],
  "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
  "Title":"Relates to requiring advertisements to disclose the use of a synthetic performer",
  "Summary":"Requires advertisements to disclose the use of a synthetic performer; imposes a $1,000 civil penalty for a first violation and a $5,000 penalty for any subsequent violation.",
  "LawSection":"General Business Law","LawCode":"Amd §396-b, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to requiring advertisements to disclose the use of a synthetic performer"
+ "ActClause":"AN ACT to amend the general business law, in relation to requiring advertisements to disclose the use of a synthetic performer",
+ "SameAsPrintNo":"S8420-2025"
 }

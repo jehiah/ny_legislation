@@ -1,7 +1,10 @@
 {
  "PrintNo":"A203","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-23T12:16:52.927599Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"}],
+ "Published":"2024-12-23T12:16:52.927599Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-16","Chamber":"ASSEMBLY"},
@@ -12,7 +15,9 @@
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RULES REPORT CAL.545","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.545","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.545","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,17 +1,23 @@
 {
  "PrintNo":"S817","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T11:55:29.371792Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-13"},
   {"Type":"PASSED_SENATE","Date":"2025-01-14"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.91","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-01-14","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-14","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A423","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.597","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"HOME RULE REQUEST","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

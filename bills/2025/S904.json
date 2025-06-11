@@ -1,12 +1,7 @@
 {
- "PrintNo":"S904","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-06T15:15:38.00798Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Corporations, Authorities And Commissions",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-04-02"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-09"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-09","Committee":"Corporations, Authorities And Commissions"}
- ],
+ "PrintNo":"S904","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-06T15:15:38.00798Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-21","Chamber":"SENATE"},
@@ -25,7 +20,9 @@
    "Version":"A"
   },
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 904B","Date":"2025-06-10","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -214,5 +211,5 @@
  "Summary":"Prohibits utility corporations from imposing late fees, interest, or penalties during an investigation by the commission; allows retroactive late fees, interest, or penalties if a determination is made in favor of such utility corporation; prohibits utility services from being terminated during an investigation by the commission; requires utility corporations to notify customers of investigations; requires notice to the general public; requires the public service commission to prepare reports on investigatory proceedings relating to gas, electric, and steam service.",
  "LawSection":"Public Service Law","LawCode":"Amd §2, add §§54, 77-a, 85-a & 16-a, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to termination of certain utility services and to reports on investigatory proceedings relating to gas, electric, and steam service",
- "PreviousVersions":["S6803-2023"]
+ "SameAsPrintNo":"A953-2025","PreviousVersions":["S6803-2023"]
 }

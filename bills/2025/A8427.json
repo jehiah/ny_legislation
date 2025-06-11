@@ -1,10 +1,12 @@
 {
- "PrintNo":"A8427","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-15T16:51:55.251123Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Codes"}],
+ "PrintNo":"A8427","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-15T16:51:55.251123Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-15","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-27","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8427A","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -41,16 +43,19 @@
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
   {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
   {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},
-  {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},
-  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
-  {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},
-  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
-  {"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
-  {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}
+  {"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1531,"Name":"Alex Bores","Short":"BORES"},
+  {"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
+  {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"},
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
+  {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
+  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},
+  {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
+  {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"}
  ],
  "Title":"Enacts the \"fostering affordability and integrity through reasonable (FAIR) business practices act\"",
  "Summary":"Enacts the \"fostering affordability and integrity through reasonable (FAIR) business practices act\", to expand the attorney general's ability to protect New Yorkers from unfair, deceptive and abusive business practices.",
- "LawSection":"General Business Law",
- "LawCode":"Add Art 22-A §348, amd Art 22-A Art Head, §§349, 349-c, 350-c & 350-d, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"fostering affordability and integrity through reasonable (FAIR) business practices act\""
+ "LawSection":"General Business Law","LawCode":"Add Art 22-A §348, amd Art 22-A Art Head, §349, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"fostering affordability and integrity through reasonable (FAIR) business practices act\"",
+ "SameAsPrintNo":"S8416-2025"
 }

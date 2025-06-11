@@ -1,12 +1,13 @@
 {
  "PrintNo":"A5403","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-13T15:45:58.386215Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Ways And Means"}],
+ "Published":"2025-02-13T15:45:58.386215Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-02-13","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-06-06","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 5403A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 5403A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,6 +31,45 @@
     {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1258,"Short":"SAYEGH","Vote":"Excused"},
     {"ID":1460,"Short":"CLARK","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-11","Chamber":"ASSEMBLY",
+   "Committee":"WAYS AND MEANS",
+   "Votes":[
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":1540,"Short":"MAHER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1258,"Short":"SAYEGH","Vote":"Excused"},
+    {"ID":1460,"Short":"CLARK","Vote":"Excused"},{"ID":570,"Short":"MAGNARELLI","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
@@ -48,8 +88,8 @@
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"}
  ],
  "Title":"Enacts the \"Jack Reid Law: Protect All Students Act\"",
- "Summary":"Prohibits discrimination against and harassment or bullying of students by other students on school property or at a school function; requires schools to investigate reports of bullying; requires schools to adopt a written, plain-language anti-bullying and harassment policy; requires school employees to report incidents of bullying or harassment; establishes a grant program to assist non-public schools with compliance.",
- "LawSection":"Education Law","LawCode":"Add Art 2-A §§19 - 24, Ed L",
+ "Summary":"Prohibits discrimination against and harassment or bullying of students by other students on school property or at a school function; requires schools to investigate reports of bullying; requires schools to adopt a written, plain-language anti-bullying and harassment policy; requires school employees to report incidents of bullying or harassment.",
+ "LawSection":"Education Law","LawCode":"Add Art 2-A §§19 - 23, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to enacting the \"Jack Reid Law: Protect All Students Act\"",
- "PreviousVersions":["S6438-2017","S3696-2019","A7399-2021","S722-2021","A1829-2023"]
+ "SameAsPrintNo":"S4544-2025","PreviousVersions":["S6438-2017","S3696-2019","A7399-2021","S722-2021","A1829-2023"]
 }

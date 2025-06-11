@@ -1,13 +1,14 @@
 {
- "PrintNo":"A74","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-20T09:48:56.51807Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "PrintNo":"A74","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-20T09:48:56.51807Z",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-02-25","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-15","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 74A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND BY RESTORING TO ORIGINAL PRINT 74","Date":"2025-06-10","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -69,11 +70,12 @@
   {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":534,"Name":"Michael Benedetto","Short":"BENEDETTO"},
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
-  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"}
+  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
+  {"ID":665,"Name":"Steven Otis","Short":"OTIS"}
  ],
  "Title":"Establishes a real property tax exemption for veterans with a 100 percent service connected disability",
  "Summary":"Establishes a real property tax exemption for the primary residence of veterans with a 100 percent service connected disability.",
  "LawSection":"Real Property Tax Law","LawCode":"Amd §458-a, RPT L",
  "ActClause":"AN ACT to amend the real property tax law, in relation to establishing a real property tax exemption for veterans who have a one hundred percent service connected disability",
- "PreviousVersions":["A6839-2019","A681-2021","A2965-2023"]
+ "SameAsPrintNo":"S1183-2025","PreviousVersions":["A6839-2019","A681-2021","A2965-2023"]
 }

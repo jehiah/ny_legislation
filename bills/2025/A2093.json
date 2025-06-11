@@ -1,7 +1,10 @@
 {
  "PrintNo":"A2093","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-15T15:07:55.522472Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"}],
+ "Published":"2025-01-15T15:07:55.522472Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-04-07","Chamber":"ASSEMBLY"},
@@ -15,7 +18,9 @@
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PRINT NUMBER 2093C","Date":"2025-05-07","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"ADVANCED TO THIRD READING CAL.149","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"ADVANCED TO THIRD READING CAL.149","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

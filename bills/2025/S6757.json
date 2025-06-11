@@ -1,10 +1,11 @@
 {
  "PrintNo":"S6757","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-24T09:54:50.307534Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Alcoholism And Drug Abuse",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-24","Committee":"Alcoholism And Substance Use Disorders"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-20"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Alcoholism And Drug Abuse"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Alcoholism And Drug Abuse"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-03-24","Chamber":"SENATE"},
@@ -13,7 +14,9 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A8459","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.587","Date":"2025-06-10","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -71,7 +74,7 @@
     {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
@@ -97,7 +100,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
+ "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Relates to statewide opioid settlement agreements",
  "Summary":"Clarifies that certain provisions related to statewide opioid settlement agreements shall cover settlements and releases related to any entities involved in the prescription drug marketing, supply and payment chain that may have contributed to the opioid epidemic through illegal conduct.",
  "LawSection":"Mental Hygiene Law","LawCode":"Amd §25.18, Ment Hyg L",

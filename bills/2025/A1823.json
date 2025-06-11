@@ -1,15 +1,19 @@
 {
- "PrintNo":"A1823","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T10:22:15.953363Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1823","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T10:22:15.953363Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1823A","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1477,"Name":"Amanda Septimo","Short":"SEPTIMO"}
  ],
  "Title":"Relates to insurance requirements for third-party food delivery services",
- "Summary":"Requires a delivery network company to ensure that, during the delivery available period, if it applies, and during the delivery service period, primary automobile liability insurance is in place that recognizes that the driver is a delivery network driver or that does not exclude coverage for use of a personal vehicle to provide deliveries.",
- "LawSection":"General Business Law","LawCode":"Amd §391-v, Gen Bus L; add §3459-a, amd §3455, Ins L",
- "ActClause":"AN ACT to amend the general business law and the insurance law, in relation to insurance requirements for third-party food delivery service",
- "PreviousVersions":["A7318-2023"]
+ "Summary":"Requires bicycle delivery contractors to provide personal injury liability insurance to compensate persons injured by a bicycle delivery worker and to provide notice to delivery workers that the contractor provides personal injury liability insurance; authorizes the superintendent of financial services to promulgate rules and regulations.",
+ "LawSection":"Insurance Law","LawCode":"Add §2354, Ins L",
+ "ActClause":"AN ACT to amend the insurance law, in relation to bicycle delivery worker insurance personal injury liability insurance",
+ "SameAsPrintNo":"S139-2025","PreviousVersions":["A7318-2023"]
 }
