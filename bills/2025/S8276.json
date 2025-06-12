@@ -1,10 +1,18 @@
 {
  "PrintNo":"S8276","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-29T11:02:42.28314Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Governmental Operations"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1923","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-12","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
  "Title":"Relates to the qualifications to hold the position of assistant county attorney in the county of Rockland",

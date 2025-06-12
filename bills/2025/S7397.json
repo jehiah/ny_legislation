@@ -1,10 +1,18 @@
 {
  "PrintNo":"S7397","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-14T15:59:00.86806Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Governmental Employees"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-14","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1898","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-12","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"authorizing Liliana Fernandez-Clemente, the widow of Daniel Clemente, to file a new service retirement application and option election form with the New York state and local employees' retirement system",

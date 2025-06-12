@@ -1,15 +1,19 @@
 {
  "PrintNo":"S7332","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-10T11:44:43.30405Z",
- "Status":"SENATE_FLOOR",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Commerce, Economic Development And Small Business"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Governmental Operations"}
  ],
  "Actions":[
   {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1366","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

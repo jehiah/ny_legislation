@@ -1,14 +1,20 @@
 {
  "PrintNo":"S8021","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T14:33:17.174861Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"}],
+ "Published":"2025-05-15T14:33:17.174861Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Codes"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 8021A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"ORDERED TO THIRD READING CAL.1653","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING (T) 8021B","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING (T) 8021B","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO CODES","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

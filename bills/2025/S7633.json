@@ -1,7 +1,10 @@
 {
  "PrintNo":"S7633","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-24T11:02:58.267594Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "Published":"2025-04-24T11:02:58.267594Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Judiciary"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-24","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO JUDICIARY","Date":"2025-04-30","Chamber":"SENATE"},
@@ -11,7 +14,10 @@
   {"Text":"1ST REPORT CAL.1208","Date":"2025-05-20","Chamber":"SENATE","Version":"B"},
   {"Text":"AMENDED (T) 7633C","Date":"2025-05-21","Chamber":"SENATE","Version":"C"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE","Version":"C"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"C"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"C"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"C"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

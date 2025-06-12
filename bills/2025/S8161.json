@@ -1,10 +1,18 @@
 {
  "PrintNo":"S8161","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-16T09:27:19.536865Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Ways And Means"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-05-16","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1916","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-12","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
  "Title":"Authorizes Yeshivas Nachlas Sofrim to receive retroactive real property tax exempt status",

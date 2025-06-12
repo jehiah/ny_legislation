@@ -1,16 +1,20 @@
 {
  "PrintNo":"S7923","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-14T09:45:21.183Z","Status":"SENATE_FLOOR",
+ "Published":"2025-05-14T09:45:21.183Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Energy"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1516","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-05","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING (T) 7923A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING (T) 7923A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO ENERGY","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

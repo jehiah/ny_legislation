@@ -1,12 +1,19 @@
 {
  "PrintNo":"S8218","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-22T10:31:39.610401Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Education"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-05-22","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1918","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-06-12","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
+ "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"}],
  "Title":"Relates to certain bonds issued to finance school rehabilitation or reconstruction costs for Rochester schools",
  "Summary":"Relates to calculation of interests costs for certain bonds issued to finance school rehabilitation or reconstruction costs for Rochester schools.",
  "LawSection":"Education Law","LawCode":"Amd §3602, Ed L; amd §16, Chap 416 of 2007",

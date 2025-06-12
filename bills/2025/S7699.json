@@ -1,9 +1,10 @@
 {
  "PrintNo":"S7699","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-30T14:04:59.41826Z","Status":"SENATE_FLOOR",
+ "Published":"2025-04-30T14:04:59.41826Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Transportation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-30","Chamber":"SENATE"},
@@ -11,7 +12,10 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING (T) 7699A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 7699B","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 7699B","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

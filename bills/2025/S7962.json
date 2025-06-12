@@ -1,11 +1,19 @@
 {
  "PrintNo":"S7962","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T09:20:16.749094Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Election Law",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Election Law"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1336","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2025-06-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

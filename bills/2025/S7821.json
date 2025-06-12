@@ -1,15 +1,20 @@
 {
  "PrintNo":"S7821","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-09T11:24:03.795838Z","Status":"SENATE_FLOOR",
+ "Published":"2025-05-09T11:24:03.795838Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-09","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1417","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"AMENDED 7821A","Date":"2025-05-30","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED 7821A","Date":"2025-05-30","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

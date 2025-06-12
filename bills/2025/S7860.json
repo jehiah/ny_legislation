@@ -1,14 +1,21 @@
 {
- "PrintNo":"S7860","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-09T15:35:59.572061Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "PrintNo":"S7860","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-09T15:35:59.572061Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Judiciary"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-09","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 7860A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1209","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 7860B","Date":"2025-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -38,7 +45,8 @@
  ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Relates to pro bono service by attorneys and candidates for admission to the bar",
- "Summary":"Authorizes a requirement of pro bono service as a condition of admission to the bar or attorney registration; exempts pro bono work performed pursuant to an agreement with the federal government if the federal government designates the recipients of the pro bono work or type or types or nature of such legal services.",
+ "Summary":"Authorizes a requirement of pro bono service as a condition of admission to the bar or attorney registration; exempts pro bono work performed pursuant to an agreement with the federal government if the federal government designates the recipients of the pro bono work or type or types or nature of such legal services; provides for the expiration of such provisions upon the expiration thereof.",
  "LawSection":"Judiciary Law","LawCode":"Amd §§53 & 468-a, add §484-a, Judy L",
- "ActClause":"AN ACT to amend the judiciary law, in relation to pro bono service by attorneys and candidates for admission to the bar"
+ "ActClause":"AN ACT to amend the judiciary law, in relation to pro bono service by attorneys and candidates for admission to the bar",
+ "SameAsPrintNo":"A8318-2025"
 }

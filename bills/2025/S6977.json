@@ -1,10 +1,18 @@
 {
  "PrintNo":"S6977","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T15:45:18.287657Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Real Property Taxation"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-27","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1890","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-06-12","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
  "Title":"Provides a tax exemption on real property owned by active auxiliary police officers in local law enforcement agencies in certain counties",

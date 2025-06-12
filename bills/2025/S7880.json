@@ -1,12 +1,20 @@
 {
  "PrintNo":"S7880","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-13T09:15:58.807483Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"}],
+ "Published":"2025-05-13T09:15:58.807483Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Ways And Means"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-13","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 7880A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE","Version":"A"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.1911","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],"Title":"Enacts the NY-PROTECT ACT; repealer",
  "Summary":"Allows an organization included on the federal list of tax-exempt organizations under section 501(c)(3) of title 26 of the United States code on March first, two thousand twenty-five to automatically maintain their tax-exempt status for New York state purposes; provides for the repeal of such provisions upon the expiration thereof.",
