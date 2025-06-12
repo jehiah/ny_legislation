@@ -1,11 +1,17 @@
 {
- "PrintNo":"S7650","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-25T09:33:38.236085Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-25","Chamber":"SENATE"}],
+ "PrintNo":"S7650","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-25T09:33:38.236085Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-25","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7650A","Date":"2025-04-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
- "Title":"Authorizes the village of Chester to impose a hotel and motel tax",
- "Summary":"Authorizes the village of Chester to impose a hotel and motel tax.","LawSection":"Tax Law",
- "LawCode":"Add §1202-hh-2, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to authorizing the village of Chester to impose a hotel and motel tax; and providing for the repeal of such provisions upon expiration thereof"
+ "Title":"Authorizes the village of Chester to impose a hotel and motel tax; and provides for the repeal of such provisions upon expiration thereof",
+ "Summary":"Authorizes the village of Chester to impose a five percent hotel and motel tax; provides for the repeal of such provisions upon expiration thereof.",
+ "LawSection":"Tax Law","LawCode":"Add §1202-kk, Tax L",
+ "ActClause":"AN ACT to amend the tax law, in relation to authorizing the village of Chester to impose a hotel and motel tax; and providing for the repeal of such provisions upon expiration thereof",
+ "SameAsPrintNo":"A1969-2025"
 }

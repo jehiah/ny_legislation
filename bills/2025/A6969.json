@@ -1,7 +1,7 @@
 {
  "PrintNo":"A6969","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-18T13:21:14.492251Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Rules"}],
+ "Published":"2025-03-18T13:21:14.492251Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-12"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-18","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-28","Chamber":"ASSEMBLY"},
@@ -9,7 +9,10 @@
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 6969B","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-08","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.660","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.660","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

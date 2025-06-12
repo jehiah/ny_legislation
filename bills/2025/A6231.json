@@ -1,13 +1,15 @@
 {
  "PrintNo":"A6231","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-27T11:39:44.329787Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-02","Committee":"Local Governments"}],
+ "Published":"2025-02-27T11:39:44.329787Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-27","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-04-09","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6231A","Date":"2025-04-09","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 6231B","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 6231B","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1466,"Name":"Michael Durso","Short":"DURSO"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
@@ -18,5 +20,5 @@
  "LawSection":"Volunteer and Exempt Firefighters' Benevolent Assoc., Inc.",
  "LawCode":"Amd §§1, 2, 3 & 7, Chap 187 of 1960",
  "ActClause":"AN ACT to amend chapter 187 of the laws of 1960 incorporating the West Islip Exempt Firemen's Benevolent Association, in relation to its purpose and the use of foreign fire insurance premium taxes",
- "PreviousVersions":["A10005-2023"]
+ "SameAsPrintNo":"S7555-2025","PreviousVersions":["A10005-2023"]
 }

@@ -1,7 +1,7 @@
 {
- "PrintNo":"A2299","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A2299","Version":"D","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-16T10:55:43.042735Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-25","Committee":"Transportation"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-16","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-02-13","Chamber":"ASSEMBLY"},
@@ -9,7 +9,9 @@
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-06","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 2299B","Date":"2025-03-06","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-25","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"PRINT NUMBER 2299C","Date":"2025-04-25","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"PRINT NUMBER 2299C","Date":"2025-04-25","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PRINT NUMBER 2299D","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"D"}
  ],
  "Sponsors":[
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
@@ -34,7 +36,8 @@
  ],
  "Title":"Relates to requiring the installation of intelligent speed assistance devices for repeated violation of maximum speed limits",
  "Summary":"Requires the installation of intelligent speed assistance devices if a driver accumulates eleven or more points on their driving record during a 24 month period, or receives 6 speed camera or red light camera tickets during a twelve month period.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Add §119-c, amd §1180, V & T L",
- "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to requiring the installation of intelligent speed assistance devices for repeated violation of maximum speed limits",
- "PreviousVersions":["A7979-2023"]
+ "LawSection":"Vehicle and Traffic Law",
+ "LawCode":"Add §119-c, amd §§1180, 514 & 241, V & T L; amd §373, Gen Muni L",
+ "ActClause":"AN ACT to amend the vehicle and traffic law and the general municipal law, in relation to requiring the installation of intelligent speed assistance devices for repeated violation of maximum speed limits",
+ "SameAsPrintNo":"S4045-2025","PreviousVersions":["A7979-2023"]
 }

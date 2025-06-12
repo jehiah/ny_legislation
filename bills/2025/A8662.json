@@ -1,13 +1,16 @@
 {
  "PrintNo":"A8662","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-23T17:58:50.847232Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"}],
+ "Published":"2025-05-23T17:58:50.847232Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-12"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-23","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 8662A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.686","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.686","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -71,5 +74,6 @@
  "Title":"Relates to the scope of certain provisions relating to beneficial owners of limited liability companies",
  "Summary":"Amends the definitions of the terms \"beneficial owner\", \"reporting company\" and \"exempt company\" to set the scope of certain provisions relating to beneficial owners of limited liability companies; authorizes the department of state to further clarify any such definitions.",
  "LawSection":"Limited Liability Company Law","LawCode":"Amd §1106, Lim Lil L",
- "ActClause":"AN ACT to amend the limited liability company law, in relation to the scope of certain provisions relating to beneficial owners of limited liability companies"
+ "ActClause":"AN ACT to amend the limited liability company law, in relation to the scope of certain provisions relating to beneficial owners of limited liability companies",
+ "SameAsPrintNo":"S8432-2025"
 }

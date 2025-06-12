@@ -1,10 +1,17 @@
 {
- "PrintNo":"S8269","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-28T11:02:33.936243Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-28","Chamber":"SENATE"}],
+ "PrintNo":"S8269","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-28T11:02:33.936243Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8269A","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1552,"Name":"April Baskin","Short":"BASKIN"}],
  "Title":"Authorizes an occupancy tax in the town of Cheektowaga",
- "Summary":"Authorizes an occupancy tax in the town of Cheektowaga.","LawSection":"Tax Law",
- "LawCode":"Add §1202-kkk, Tax L"
+ "Summary":"Authorizes an occupancy tax in the town of Cheektowaga, county of Erie.","LawSection":"Tax Law",
+ "LawCode":"Add §1202-kkk, Tax L",
+ "ActClause":"AN ACT to amend the tax law, in relation to authorizing an occupancy tax in the town of Cheektowaga; and providing for the repeal of such provisions upon expiration thereof",
+ "SameAsPrintNo":"A8776-2025"
 }

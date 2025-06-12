@@ -1,8 +1,14 @@
 {
  "PrintNo":"A8896","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-11T18:06:21.206008Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.703","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.703","Date":"2025-06-12","Chamber":"ASSEMBLY"}
+ ],
  "Title":"Makes technical changes to the aid to localities budget regarding certain state agencies",
  "Summary":"Makes technical changes to the aid to localities budget regarding the office of children and family services, the office of temporary and disability assistance, the department of health, the department of labor and the department of state.",
  "LawSection":"Appropriations","LawCode":"Amd §1, Chap 53 of 2025",

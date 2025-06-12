@@ -1,9 +1,10 @@
 {
  "PrintNo":"A6918","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-18T13:12:32.602574Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-03-18T13:12:32.602574Z","Status":"IN_SENATE_COMM","Committee":"Rules",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules 6918a"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-12"},
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-18","Chamber":"ASSEMBLY"},
@@ -13,7 +14,10 @@
   {"Text":"AMEND AND RECOMMIT TO RULES 6918A","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RULES REPORT CAL.332","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.332","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.332","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2025-06-12","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,7 +1,10 @@
 {
  "PrintNo":"K619","Session":2025,"Chamber":"ASSEMBLY","BillType":"Regular","Resolution":true,
- "Published":"2025-05-28T17:28:36.136897Z","Status":"IN_ASSEMBLY_COMM","Committee":"Calendar",
- "Actions":[{"Text":"REFERRED TO CALENDAR","Date":"2025-05-28","Chamber":"ASSEMBLY"}],
+ "Published":"2025-05-28T17:28:36.136897Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2025-05-29"}],
+ "Actions":[
+  {"Text":"REFERRED TO CALENDAR","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"ADOPTED","Date":"2025-05-29","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"},
@@ -10,13 +13,14 @@
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
-  {"ID":659,"Name":"Ron Kim","Short":"KIM"},{"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},
-  {"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
-  {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"},
-  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},
-  {"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
-  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
-  {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
+  {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":659,"Name":"Ron Kim","Short":"KIM"},
+  {"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},{"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
+  {"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
+  {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
+  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
+  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Memorializing Governor Kathy Hochul to proclaim May 2025, as Asian American and Pacific Islander Heritage Month in the State of New York",
  "LawSection":"Resolutions, Legislative"

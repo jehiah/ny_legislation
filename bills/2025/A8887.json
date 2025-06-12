@@ -1,13 +1,17 @@
 {
  "PrintNo":"A8887","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-06-10T00:52:55.292461Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Ways And Means"}],
+ "Published":"2025-06-10T00:52:55.292461Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-12"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 8887A","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 8887B","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 8887B","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.701","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.701","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
  "Title":"Relates to requiring advertisements to disclose the use of a synthetic performer",

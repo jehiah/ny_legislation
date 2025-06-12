@@ -1,12 +1,13 @@
 {
- "PrintNo":"S4424","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T15:58:42.710595Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"}],
+ "PrintNo":"S4424","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-04T15:58:42.710595Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1192","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 4424A","Date":"2025-06-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,7 +29,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
+ "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Enacts the anti-waiver of employment rights act",
  "Summary":"Enacts the \"anti-waiver of employment rights act\" to invalidate any express or implied contractual provision waiving or otherwise limiting any employee's substantive or procedural rights, remedies, or claim.",
  "LawSection":"Labor Law","LawCode":"Add §219-e, Lab L; add §302, Exec L",

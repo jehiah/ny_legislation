@@ -1,8 +1,12 @@
 {
  "PrintNo":"A7777","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-10T15:56:35.642837Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-10","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2025-04-10","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-04-10","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-12","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},
@@ -16,7 +20,10 @@
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
   {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},
-  {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1561,"Name":"Micah Lasher","Short":"LASHER"}
+  {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1148,"Name":"Doug Smith","Short":"SMITH"},
+  {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"}
  ],
  "Title":"Enacts the freedom to read act",
  "Summary":"Enacts the \"freedom to read act\"; requires the commissioner of education and school library systems to develop policies to ensure that school libraries and library staff are empowered to curate and develop collections that provide students with access to the widest array of developmentally appropriate materials available.",
