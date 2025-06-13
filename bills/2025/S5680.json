@@ -1,15 +1,13 @@
 {
  "PrintNo":"S5680","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-27T15:09:50.550364Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-27","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-27"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-27","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.608","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-26","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -26,10 +24,11 @@
   }
  ],
  "Sponsors":[
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
-  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},
+  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
  ],
  "Title":"Provides notice of the death of an incarcerated individual occurring in the custody of the department of corrections and community supervision",
  "Summary":"Provides notice of the death of an incarcerated individual occurring in the custody of the department of corrections and community supervision; requires the department to promptly notify the next kin and any other person designated as the representative of any incarcerated individual whose death takes place during custody.",

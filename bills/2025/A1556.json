@@ -1,7 +1,7 @@
 {
  "PrintNo":"A1556","Version":"E","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-10T12:37:04.338684Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Codes"}],
+ "Published":"2025-01-10T12:37:04.338684Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-10","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO AGRICULTURE","Date":"2025-03-03","Chamber":"ASSEMBLY"},
@@ -14,7 +14,9 @@
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"PRINT NUMBER 1556D","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"D"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"D"},
-  {"Text":"PRINT NUMBER 1556E","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"E"}
+  {"Text":"PRINT NUMBER 1556E","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"E"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"E"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"E"}
  ],
  "Votes":[
   {
@@ -60,5 +62,5 @@
  "Summary":"Enacts the \"food safety and chemical disclosure act\"; prohibits certain food additives and food color additives; provides that in an action to enforce compliance, the recognition by the federal food and drug administration of any of these substances as safe may not be alleged as a defense; establishes requirements for the reporting of GRAS (generally recognized as safe) substances.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd §§199-a, 199-b, 198 & 202-c, add §199-g, Ag & Mkts L",
  "ActClause":"AN ACT to amend the agriculture and markets law, in relation to enacting the \"food safety and chemical disclosure act\"",
- "PreviousVersions":["A6424-2023"]
+ "SameAsPrintNo":"S1239-2025","PreviousVersions":["A6424-2023"]
 }

@@ -1,10 +1,7 @@
 {
  "PrintNo":"S1228","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T14:49:39.65632Z","Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
- ],
+ "Published":"2025-01-08T14:49:39.65632Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-04-03","Chamber":"SENATE"},
@@ -14,7 +11,9 @@
   {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-05-21","Chamber":"SENATE","Version":"B"},
   {"Text":"PRINT NUMBER 1228C","Date":"2025-05-21","Chamber":"SENATE","Version":"C"},
   {"Text":"1ST REPORT CAL.1408","Date":"2025-05-28","Chamber":"SENATE","Version":"C"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE","Version":"C"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE","Version":"C"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE","Version":"C"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

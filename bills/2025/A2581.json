@@ -1,9 +1,10 @@
 {
  "PrintNo":"A2581","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-17T17:20:48.232802Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Published":"2025-01-17T17:20:48.232802Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},{"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},{"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},
+  {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-17","Chamber":"ASSEMBLY"},
@@ -16,7 +17,11 @@
   {"Text":"AMENDED ON THIRD READING 2581B","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"B"}
+  {"Text":"REFERRED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"SUBSTITUTED FOR S3285B","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
+  {"Text":"3RD READING CAL.1967","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S8377","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-06-06T14:14:11.471483Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-06-06T14:14:11.471483Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"},
   {"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-06","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.1790","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8727A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.691","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -111,7 +116,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
+ "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Directs the commissioner of education to conduct a survey of recess held in schools serving students in kindergarten through grade six",
  "Summary":"Directs the commissioner of education to conduct a survey of recess held in public and charter schools serving students in kindergarten through grade six and to provide any information collected to the governor and the legislature.",
  "LawSection":"Education",

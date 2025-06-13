@@ -1,9 +1,13 @@
 {
  "PrintNo":"A4898","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-10T13:32:08.685537Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-10","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-10","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-10","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-13","Chamber":"ASSEMBLY"}
+ ],
+ "Sponsors":[{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"}],
  "Title":"Relates to enacting the reasonable accommodation anti-retaliation act",
  "Summary":"Relates to prohibiting retaliation against individuals who request a reasonable accommodation.",
  "LawSection":"Executive Law","LawCode":"Amd §296, Exec L",

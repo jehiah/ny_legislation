@@ -1,12 +1,13 @@
 {
  "PrintNo":"S6847","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-25T14:09:36.051038Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Cities 1"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.733","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -30,5 +31,5 @@
  "Summary":"Relates to enacting the \"adjacent neighbors' bill of rights\"; requires the department of buildings to develop a bulletin known as the \"adjacent neighbors' bill of rights\" advising homeowners who are adjacent to a property under development or construction of their rights and available resources and post such bulletin on the department's website.",
  "LawSection":"New York City Administrative Code","LawCode":"Add §28-103.34.2, NYC Ad Cd",
  "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to enacting the \"adjacent neighbors' bill of rights\"",
- "PreviousVersions":["S5784-2019","S3586-2021","S1304-2023"]
+ "SameAsPrintNo":"A8431-2025","PreviousVersions":["S5784-2019","S3586-2021","S1304-2023"]
 }

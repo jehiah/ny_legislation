@@ -1,14 +1,27 @@
 {
  "PrintNo":"S6313","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-10T11:06:18.235941Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-10","Committee":"Procurement And Contracts"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1399","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-28","Chamber":"SENATE","Committee":"Procurement And Contracts",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},

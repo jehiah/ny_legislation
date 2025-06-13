@@ -1,11 +1,7 @@
 {
- "PrintNo":"S1982","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T13:31:55.444376Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Local Governments"}
- ],
+ "PrintNo":"S1982","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-14T13:31:55.444376Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
@@ -14,7 +10,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-11","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 1982A","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"RECOMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -119,8 +118,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to the completion of training requirements for sheriffs and undersheriffs",
- "Summary":"Relates to the completion of training requirements for sheriffs and undersheriffs.",
- "LawSection":"General Municipal Law","LawCode":"Amd §209-q, Gen Muni L",
- "ActClause":"AN ACT to amend the general municipal law, in relation to the completion of training requirements for sheriffs and undersheriffs",
- "PreviousVersions":["S9264-2021","S2695-2023"]
+ "Summary":"Relates to the completion of training requirements for sheriffs and undersheriffs; directs the municipal police training council to promulgate rules and regulations relating to qualification for municipal police forces for persons who were previously sworn members of the state police and to provide certificates to such persons who meet such qualifications.",
+ "LawSection":"General Municipal Law","LawCode":"Amd §209-q, Gen Muni L; amd §§840 & 841, Exec L",
+ "ActClause":"AN ACT to amend the general municipal law and the executive law, in relation to the completion of training requirements for sheriffs and undersheriffs",
+ "SameAsPrintNo":"A3836-2025","PreviousVersions":["S9264-2021","S2695-2023"]
 }

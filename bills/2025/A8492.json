@@ -1,17 +1,37 @@
 {
  "PrintNo":"A8492","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-20T14:43:58.488832Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Codes"}],
+ "Published":"2025-05-20T14:43:58.488832Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-23","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 8492A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 8492B","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 8492B","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-09","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Excused"},{"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
  "Title":"Requires the development and implementation of a tattoo policy by law enforcement agencies",
- "Summary":"Requires the commmissioner of the the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo police for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
+ "Summary":"Requires the commissioner of the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo police for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
  "LawSection":"Executive Law","LawCode":"Add §837-z, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to requiring state law enforcement agencies to develop and implement a tattoo policy"
+ "ActClause":"AN ACT to amend the executive law, in relation to requiring state law enforcement agencies to develop and implement a tattoo policy",
+ "SameAsPrintNo":"S8021-2025"
 }

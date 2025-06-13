@@ -1,12 +1,13 @@
 {
  "PrintNo":"S4549","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-06T15:09:57.309537Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-06","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-06","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.542","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-12","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -39,5 +40,5 @@
  "Summary":"Requires principals to make a good faith effort to identify and notify co-trustees and co-beneficiaries of the signing of a power of attorney including the identity of the agent where the agent is not a co-trustee or co-beneficiary.",
  "LawSection":"General Obligations Law","LawCode":"Add §5-1515, Gen Ob L",
  "ActClause":"AN ACT to amend the general obligations law, in relation to requiring principals and beneficiaries to notify co-trustees and co-beneficiaries of the signing of a power of attorney",
- "PreviousVersions":["S8892-2021","S3503-2023"]
+ "SameAsPrintNo":"A8430-2025","PreviousVersions":["S8892-2021","S3503-2023"]
 }

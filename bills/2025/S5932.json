@@ -1,15 +1,13 @@
 {
  "PrintNo":"S5932","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T09:48:02.688948Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-22"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1152","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,15 +1,24 @@
 {
  "PrintNo":"S6815","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-25T09:21:56.845517Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-15"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1073","Date":"2025-05-13","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A8292","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.678","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,14 +1,13 @@
 {
  "PrintNo":"S7553","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-22T14:59:48.362301Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-22","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1380","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
  "Title":"Relates to establishing extended producer responsibility for tires",

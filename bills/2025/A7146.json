@@ -1,9 +1,13 @@
 {
- "PrintNo":"A7146","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-20T16:16:38.250341Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-20","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-20","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}],
+ "PrintNo":"A7146","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-20T16:16:38.250341Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7146A","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Sponsors":[{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"}],
  "Title":"Establishes a town of Huntington deer management pilot program",
  "Summary":"Establishes a town of Huntington deer management pilot program.",
  "LawSection":"Environmental Conservation Law",

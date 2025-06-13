@@ -1,16 +1,14 @@
 {
  "PrintNo":"S1721","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-13T11:41:06.566788Z","Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-27"}
- ],
+ "Published":"2025-01-13T11:41:06.566788Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.404","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING 1721A","Date":"2025-03-27","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 1721A","Date":"2025-03-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -32,6 +30,6 @@
  "Title":"Relates to penalties for certain utilities",
  "Summary":"Enacts the \"utility penalty adjustment\"; adjusts utility penalties to account for inflation; increases such penalties and ties them to inflation after January 1, 2027.",
  "LawSection":"Public Service Law","LawCode":"Amd §§25 & 25-a, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to certain penalties",
+ "ActClause":"AN ACT to amend the public service law, in relation to certain penalties","SameAsPrintNo":"A7610-2025",
  "PreviousVersions":["S7294-2023"]
 }

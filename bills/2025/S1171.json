@@ -1,18 +1,19 @@
 {
- "PrintNo":"S1171","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T12:25:06.661025Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Environmental Conservation"}
- ],
+ "PrintNo":"S1171","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T12:25:06.661025Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1467","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1171A","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"RECOMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

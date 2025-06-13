@@ -1,10 +1,11 @@
 {
  "PrintNo":"S5997","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-04T14:08:57.193443Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-03-04T14:08:57.193443Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-05"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-04","Chamber":"SENATE"},
@@ -16,7 +17,11 @@
   {"Text":"AMENDED ON THIRD READING (T) 5997C","Date":"2025-06-05","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"C"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"C"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SUBSTITUTED FOR A6969B","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.660","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

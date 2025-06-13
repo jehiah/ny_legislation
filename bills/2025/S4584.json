@@ -1,15 +1,13 @@
 {
  "PrintNo":"S4584","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-07T15:57:23.899425Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-07","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-03"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.386","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -33,6 +31,5 @@
  "Title":"Relates to reports and awards by the office of victim services",
  "Summary":"Requires the office of victim services to publicize programs offered by the office and to include certain information in annual reports to the governor and the legislature and to make such reports public on the office's website; makes alterations to the amounts of and qualifications for awards of compensation to victims of crimes, including good samaritans who are injured.",
  "LawSection":"Executive Law","LawCode":"Amd §§623, 624, 625-a & 631, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to reports and awards by the office of victim services",
- "SameAsPrintNo":"A5443-2025"
+ "ActClause":"AN ACT to amend the executive law, in relation to reports and awards by the office of victim services"
 }

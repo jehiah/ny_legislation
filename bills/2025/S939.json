@@ -1,15 +1,13 @@
 {
  "PrintNo":"S939","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T10:50:19.998147Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Budget And Revenue"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-17"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.549","Date":"2025-03-12","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-13","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-17","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-17","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {

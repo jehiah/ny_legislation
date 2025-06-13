@@ -1,9 +1,9 @@
 {
  "PrintNo":"S7366","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-11T09:53:31.640773Z","Status":"SENATE_FLOOR",
+ "Published":"2025-04-11T09:53:31.640773Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-11","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-11","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING (T) 7366A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 7366B","Date":"2025-06-10","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 7366B","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

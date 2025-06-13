@@ -1,7 +1,7 @@
 {
  "PrintNo":"S5990","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-04T13:58:02.796307Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-06-06"}],
+ "Published":"2025-03-04T13:58:02.796307Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-05-12","Chamber":"SENATE"},
@@ -9,7 +9,8 @@
   {"Text":"1ST REPORT CAL.1195","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 5990B","Date":"2025-06-06","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 5990B","Date":"2025-06-06","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -40,5 +41,6 @@
  "Title":"Relates to mandatory employer disclosures regarding employee compensation and benefits",
  "Summary":"Relates to mandatory employer disclosures regarding employee compensation and benefits, including any non-salary or non-wage compensation and benefits.",
  "LawSection":"Labor Law","LawCode":"Amd §194-b, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to disclose information about benefits and other compensation, including bonuses, stock options, and commissions"
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring employers to disclose information about benefits and other compensation, including bonuses, stock options, and commissions",
+ "SameAsPrintNo":"A5906-2025"
 }

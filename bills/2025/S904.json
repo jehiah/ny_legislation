@@ -1,7 +1,7 @@
 {
  "PrintNo":"S904","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-06T15:15:38.00798Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"}],
+ "Published":"2025-01-06T15:15:38.00798Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-21","Chamber":"SENATE"},
@@ -22,7 +22,8 @@
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 904B","Date":"2025-06-10","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 904B","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
+  {"Text":"RECOMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

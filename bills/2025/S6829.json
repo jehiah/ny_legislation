@@ -1,10 +1,7 @@
 {
  "PrintNo":"S6829","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-25T10:05:58.539377Z","Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-04"}
- ],
+ "Published":"2025-03-25T10:05:58.539377Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-14","Chamber":"SENATE"},
@@ -12,7 +9,8 @@
   {"Text":"1ST REPORT CAL.1234","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING (T) 6829B","Date":"2025-06-04","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING (T) 6829B","Date":"2025-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

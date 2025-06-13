@@ -1,10 +1,11 @@
 {
  "PrintNo":"S1314","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T10:15:17.981039Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Consumer Protection"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-08"},{"Type":"PASSED_SENATE","Date":"2025-05-14"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Consumer Affairs And Protection"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Consumer Affairs And Protection"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-09","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-08","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-14","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A4575","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.651","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

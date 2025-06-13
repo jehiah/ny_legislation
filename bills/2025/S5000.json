@@ -1,15 +1,13 @@
 {
  "PrintNo":"S5000","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T16:25:57.566319Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-19"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.552","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-03-18","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-19","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-19","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1012","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-07T13:26:57.592114Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-11"}],
+ "Published":"2025-01-07T13:26:57.592114Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-11"},
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-06-09","Chamber":"SENATE"},
@@ -9,7 +12,9 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"ORDERED TO THIRD READING CAL.1796","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-11","Chamber":"SENATE","Version":"A"}
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -39,7 +44,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],
+ "Sponsors":[
+  {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}
+ ],
  "Title":"Prohibits public utilities from using funds or being reimbursed by funds raised from ratepayers for certain activities",
  "Summary":"Prohibits public utilities from using funds or being reimbursed by funds raised from ratepayers for contributions or gifts to political candidates, trade associations, public charities, and lobbyists, and for certain travel, entertainment and educational expenditures.",
  "LawSection":"Public Service Law","LawCode":"Add Art 12 §§240 & 241, amd §5, Pub Serv L",

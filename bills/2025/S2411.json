@@ -1,14 +1,13 @@
 {
  "PrintNo":"S2411","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T09:38:45.325317Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-17","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1372","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],"Title":"Relates to bioheating fuel requirements",
  "Summary":"Relates to bioheating fuel requirements; allows B100 or B99 biofuel and R100 or R99 renewable fuel to be used to blend with or replace fossil heating oil in order to create bioheating fuel.",
