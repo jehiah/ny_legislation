@@ -2,7 +2,10 @@
  "PrintNo":"A8888","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-10T13:38:46.363212Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-10","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-15","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
@@ -12,7 +15,8 @@
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
-  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
+  {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"}
  ],
  "Title":"Relates to the provision of gas service to new customers",
  "Summary":"Provides that in the case of any application for gas service to a building which is not supplied with gas, a utility corporation or municipality shall be obligated to provide gas service to such building.",
