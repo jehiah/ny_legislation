@@ -1,8 +1,16 @@
 {
  "PrintNo":"A5861","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:26:22.201954Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.796","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.796","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S4727","Date":"2025-06-16","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}],
  "Title":"Relates to normal retirement age for police/fire members of the New York city fire department pension fund",
  "Summary":"Provides that the normal service retirement benefit for police/fire members who are members of the New York city fire department pension fund shall be paid to such members of the New York city fire department pension fund without regard to age upon retirement after twenty years of service.",

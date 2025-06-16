@@ -1,8 +1,16 @@
 {
  "PrintNo":"A8426","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-15T16:50:32.148228Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Cities"}],
- "Actions":[{"Text":"REFERRED TO CITIES","Date":"2025-05-15","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.831","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.831","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S8180","Date":"2025-06-16","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":457,"Name":"Vivian Cook","Short":"COOK"}],
  "Title":"Extends authorization for the city of New York to sell certain property owned by such city",
  "Summary":"Extends the authorization for the city of New York to sell to abutting property owners real property owned by such city, consisting of tax lots that cannot be independently developed due to the size, shape, configuration and topography of such lots and the zoning regulations applicable thereto.",

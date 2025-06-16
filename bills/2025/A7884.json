@@ -1,15 +1,26 @@
 {
  "PrintNo":"A7884","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-11T15:09:20.580025Z","Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Real Property Taxation"}],
+ "Published":"2025-04-11T15:09:20.580025Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-04-11","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2025-06-05","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 7884A","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 7884A","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.814","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.814","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":469,"Name":"Michael J. Fitzpatrick","Short":"FITZPATRICK"}],
  "Title":"Authorizes the town of Smithtown assessor to accept an application for a real property tax exemption from Tiegerman Community Services, Inc.",
  "Summary":"Authorizes the town of Smithtown assessor to accept an application for a real property tax exemption from Tiegerman Community Services, Inc. for the 2022-2023 and the 2023-2024 assessment rolls.",
  "LawSection":"Real Property Taxation",
- "ActClause":"AN ACT in relation to authorizing the town of Smithtown assessor to accept an application for a real property tax exemption from Tiegerman Community Services, Inc."
+ "ActClause":"AN ACT in relation to authorizing the town of Smithtown assessor to accept an application for a real property tax exemption from Tiegerman Community Services, Inc.",
+ "SameAsPrintNo":"S7604-2025"
 }

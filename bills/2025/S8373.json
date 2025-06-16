@@ -1,16 +1,21 @@
 {
  "PrintNo":"S8373","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-05T16:48:19.375144Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-05","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Judiciary"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Judiciary"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1672","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2025-06-11","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A8300","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.824","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

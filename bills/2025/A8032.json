@@ -1,10 +1,18 @@
 {
- "PrintNo":"A8032","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-22T15:52:15.194187Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Codes"}],
+ "PrintNo":"A8032","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-22T15:52:15.194187Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-04-22","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8032A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.819","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.819","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED BY S7944A","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

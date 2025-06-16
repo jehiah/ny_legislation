@@ -1,10 +1,15 @@
 {
  "PrintNo":"A8300","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-12T17:11:25.742599Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-12","Committee":"Judiciary"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-12","Chamber":"ASSEMBLY"},
-  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-15","Chamber":"ASSEMBLY"}
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-15","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.824","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.824","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S8373","Date":"2025-06-16","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}],
  "Title":"Relates to the computation and allocation of the commissions of trustees of charitable trusts; repealer",

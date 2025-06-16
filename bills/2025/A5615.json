@@ -1,11 +1,17 @@
 {
  "PrintNo":"A5615","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-18T10:04:16.60369Z","Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-21","Committee":"Cities"}],
+ "Published":"2025-02-18T10:04:16.60369Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-02-18","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CITIES","Date":"2025-03-21","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 5615A","Date":"2025-03-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 5615A","Date":"2025-03-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.793","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.793","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED BY S7223","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":896,"Name":"Latrice Walker","Short":"WALKER"},
@@ -24,5 +30,5 @@
  "Summary":"Relates to authorizing the city of New York to transfer and convey certain city owned property to the Bedford-Stuyvesant volunteer ambulance corps.",
  "LawSection":"Real Property",
  "ActClause":"AN ACT in relation to authorizing the conveyance of certain property by the city of New York to the Bedford-Stuyvesant volunteer ambulance corps, Inc.",
- "PreviousVersions":["A5037-2023"]
+ "SameAsPrintNo":"S7223-2025","PreviousVersions":["A5037-2023"]
 }

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S8218","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-22T10:31:39.610401Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Education"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Education"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-05-22","Chamber":"SENATE"},
@@ -11,7 +12,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.1918","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2025-06-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A8606","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.839","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

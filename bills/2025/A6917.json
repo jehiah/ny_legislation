@@ -1,10 +1,18 @@
 {
- "PrintNo":"A6917","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:12:18.367953Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"}],
+ "PrintNo":"A6917","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-18T13:12:18.367953Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules 6917a"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-18","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO RULES 6917A","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.799","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.799","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED BY S6441A","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -45,7 +53,8 @@
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
-  {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+  {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
  ],
  "Title":"Requires certain health insurance policies include coverage for services provided by pharmacists related to contraceptives",
  "Summary":"Requires certain health insurance policies include coverage for services provided by pharmacists related to contraceptives.",

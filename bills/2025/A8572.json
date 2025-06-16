@@ -1,15 +1,38 @@
 {
  "PrintNo":"A8572","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-21T10:03:02.553307Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Codes"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.838","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.838","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S8382","Date":"2025-06-16","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"CHILDREN AND FAMILIES",
+   "Votes":[
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}],
  "Title":"Relates to orders of protection in child abuse and neglect proceedings in family court",
  "Summary":"Relates to orders of protection in child abuse and neglect proceedings in family court.",
  "LawSection":"Family Court Act","LawCode":"Amd §1056, Fam Ct Act",
  "ActClause":"AN ACT to amend the family court act, in relation to orders of protection in child abuse and neglect proceedings in family court",
- "PreviousVersions":["A7680-2023"]
+ "SameAsPrintNo":"S8382-2025","PreviousVersions":["A7680-2023"]
 }

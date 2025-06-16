@@ -1,8 +1,15 @@
 {
  "PrintNo":"A5451","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-14T09:37:29.569375Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-14","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-14","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.788","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.788","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S4053","Date":"2025-06-16","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"}],
  "Title":"Extends the authority of the village of Highland Falls to impose an occupancy tax",
  "Summary":"Extends the authority of the village of Highland Falls to impose an occupancy tax.","LawSection":"Taxation",

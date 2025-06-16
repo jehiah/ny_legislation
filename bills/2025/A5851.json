@@ -1,15 +1,24 @@
 {
- "PrintNo":"A5851","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-24T09:24:02.5252Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Local Governments"}],
+ "PrintNo":"A5851","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-24T09:24:02.5252Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-24","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-05-05","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 5851A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 5851A","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 5851B","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.795","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.795","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED BY S5224B","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"}],
  "Title":"Authorizes the town of Union Vale, county of Dutchess, to alienate and discontinue the use of certain parklands",
  "Summary":"Authorizes the town of Union Vale, county of Dutchess, to alienate and discontinue the use of certain parklands and to lease the lands to Homeland Towers, LLC for the placement and operation of a wireless communications tower.",
  "LawSection":"Parks",
- "ActClause":"AN ACT to authorize the town of Union Vale, county of Dutchess, to alienate and discontinue the use of certain parklands"
+ "ActClause":"AN ACT in relation to authorizing the town of Union Vale, county of Dutchess, to alienate and discontinue the use of certain parklands",
+ "SameAsPrintNo":"S5224-2025"
 }

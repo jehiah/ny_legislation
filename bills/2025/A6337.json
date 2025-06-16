@@ -1,9 +1,20 @@
 {
  "PrintNo":"A6337","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-04T10:40:08.372769Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-04","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-04","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.797","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.797","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S1897","Date":"2025-06-16","Chamber":"ASSEMBLY"}
+ ],
+ "Sponsors":[
+  {"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"},{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},
+  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}
+ ],
  "Title":"Designates certain portions of the state highway system as the \"Between Cayuga and Seneca Lakes Wine Trail\"",
  "Summary":"Designates certain portions of the state highway system between Cayuga lake and Seneca lake as the \"Between Cayuga and Seneca Lakes Wine Trail\".",
  "LawSection":"Highway Law","LawCode":"Amd §343-k, Hway L",
