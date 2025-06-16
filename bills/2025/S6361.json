@@ -1,9 +1,10 @@
 {
  "PrintNo":"S6361","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-11T15:11:19.420813Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Published":"2025-03-11T15:11:19.420813Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-10"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Codes"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-10"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Codes"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-03-11","Chamber":"SENATE"},
@@ -15,7 +16,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.1758","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO CODES","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO CODES","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED FOR A5886C","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.654","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -115,7 +120,7 @@
  ],
  "Sponsors":[
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
-  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}
+  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
  ],
  "Title":"Prohibits unfair residential real estate service agreements",
  "Summary":"Prohibits unfair residential real estate service agreements which are certain service agreements which are not to be performed within two years following the time such agreement is entered into.",

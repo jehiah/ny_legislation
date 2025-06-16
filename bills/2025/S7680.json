@@ -1,11 +1,11 @@
 {
  "PrintNo":"S7680","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-29T09:52:54.02702Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Tourism, Parks, Arts And Sports Development",
+ "Published":"2025-04-29T09:52:54.02702Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_SENATE","Date":"2025-06-09"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Tourism, Parks, Arts And Sports Development"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Tourism, Parks, Arts And Sports Development"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-04-29","Chamber":"SENATE"},
@@ -21,7 +21,11 @@
   {
    "Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-06-09","Chamber":"ASSEMBLY",
    "Version":"A"
-  }
+  },
+  {"Text":"SUBSTITUTED FOR A6634A","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.158","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

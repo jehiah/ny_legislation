@@ -1,8 +1,12 @@
 {
- "PrintNo":"A7285","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-25T14:58:03.130077Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-03-25","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7285","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-25T14:58:03.130077Z","Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Mental Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO MENTAL HEALTH","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7285A","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},
@@ -12,11 +16,13 @@
   {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},
   {"ID":1511,"Name":"Jake Ryan Blumencranz","Short":"BLUMENCRANZ"},
   {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
-  {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"}
+  {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1540,"Name":"Brian Maher","Short":"MAHER"},
+  {"ID":1487,"Name":"William Conrad","Short":"CONRAD"}
  ],
  "Title":"Relates to the first responder peer support program act",
  "Summary":"Establishes the \"first responder peer support program act\" which supplies peer-to-peer mental health programs to first responders.",
  "LawSection":"Mental Hygiene Law","LawCode":"Add §7.51, Ment Hyg L",
  "ActClause":"AN ACT to amend the mental hygiene law, in relation to the \"First Responder Peer Support Program Act\"",
- "PreviousVersions":["S8610-2019","S6955-2021","A7552-2023"]
+ "SameAsPrintNo":"S5407-2025","PreviousVersions":["S8610-2019","S6955-2021","A7552-2023"]
 }
