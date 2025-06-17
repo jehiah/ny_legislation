@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3967","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-31T09:18:06.162054Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Published":"2025-01-31T09:18:06.162054Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-25","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Codes"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Codes"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-31","Chamber":"SENATE"},
@@ -15,7 +16,11 @@
   {"Text":"AMENDED ON THIRD READING 3967B","Date":"2025-06-04","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO CODES","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO CODES","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED FOR A1029B","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.123","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
