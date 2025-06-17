@@ -1,14 +1,18 @@
 {
  "PrintNo":"A6745","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-11T10:42:04.292107Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"}],
+ "Published":"2025-03-11T10:42:04.292107Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"}],
  "Actions":[
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-03-11","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO RACING AND WAGERING","Date":"2025-04-22","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6745A","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.734","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.734","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED BY S5935A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -85,6 +89,61 @@
     {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
     {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Absent"}
    ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-06-13","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":571,"Short":"STIRPE","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":574,"Short":"BARCLAY","Vote":"Nay"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":608,"Short":"RA","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1148,"Short":"SMITH","Vote":"Nay"},{"ID":1485,"Short":"JENSEN","Vote":"Nay"},
+    {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":1118,"Short":"VANEL","Vote":"Excused"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Absent"}
+   ]
   }
  ],
  "Sponsors":[
@@ -96,7 +155,8 @@
   {"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
-  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"}
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Prohibits online sweepstakes games and revenue from illegal markets",
  "Summary":"Prohibits online sweepstakes games and revenue from illegal markets; sets penalties; provides for enforcement of provisions.",
