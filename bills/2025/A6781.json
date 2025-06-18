@@ -1,10 +1,11 @@
 {
  "PrintNo":"A6781","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-14T09:58:38.258516Z","Status":"PASSED_SENATE",
+ "Published":"2025-03-14T09:58:38.258516Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-13"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-13"},{"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Cities 1"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-05-27"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-05-27"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-18"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-03-14","Chamber":"ASSEMBLY"},
@@ -24,7 +25,8 @@
   {"Text":"3RD READING CAL.735","Date":"2025-05-27","Chamber":"SENATE","Version":"B"},
   {"Text":"HOME RULE REQUEST","Date":"2025-05-27","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-05-27","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-18","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -78,7 +80,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
