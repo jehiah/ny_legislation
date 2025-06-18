@@ -1,10 +1,11 @@
 {
  "PrintNo":"S8024","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T15:31:47.850547Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Published":"2025-05-15T15:31:47.850547Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-13"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Governmental Employees"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Governmental Employees"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"},
@@ -17,7 +18,12 @@
   {"Text":"HOME RULE REQUEST","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED FOR A8645A","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.927","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"HOME RULE REQUEST","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

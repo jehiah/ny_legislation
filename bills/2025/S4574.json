@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4574","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-07T14:03:33.828537Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Published":"2025-02-07T14:03:33.828537Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2025-04-08"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Environmental Conservation"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Environmental Conservation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-07","Chamber":"SENATE"},
@@ -16,7 +17,9 @@
   {"Text":"AMENDED ON THIRD READING 4574B","Date":"2025-04-08","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-04-22","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED FOR A5832B","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.897","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
