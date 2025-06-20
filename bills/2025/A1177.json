@@ -1,12 +1,12 @@
 {
  "PrintNo":"A1177","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:19:50.647665Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Local Government"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_SENATE","Date":"2025-06-04"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-18"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-18"},{"Type":"SIGNED_BY_GOV","Date":"2025-06-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -23,7 +23,8 @@
   {"Text":"3RD READING CAL.722","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-18","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-18","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.135","Date":"2025-06-20","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

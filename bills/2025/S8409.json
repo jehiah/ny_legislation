@@ -1,9 +1,13 @@
 {
  "PrintNo":"S8409","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-09T18:09:47.522443Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1946","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED BY A8657","Date":"2025-06-12","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}],
  "Title":"Extends the effectiveness of certain sections of law relating to real property tax exemptions for real property owned by volunteer firefighters and volunteer ambulance workers",
  "Summary":"Extends the effectiveness of certain sections of law relating to real property tax exemptions for real property owned by volunteer firefighters and volunteer ambulance workers.",
  "LawSection":"Real Property Taxation","LawCode":"Amd §3, Chap 670 of 2022",
