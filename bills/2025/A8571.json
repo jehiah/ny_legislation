@@ -1,10 +1,11 @@
 {
  "PrintNo":"A8571","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-20T17:56:06.919378Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"},{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-05-20","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S8177","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1570","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

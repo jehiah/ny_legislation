@@ -1,11 +1,12 @@
 {
  "PrintNo":"S8384","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-06T16:24:32.874553Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_SENATE","Date":"2025-06-09"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-06-06","Chamber":"SENATE"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR A8800","Date":"2025-06-13","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.694","Date":"2025-06-13","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {

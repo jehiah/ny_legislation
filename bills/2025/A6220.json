@@ -1,11 +1,12 @@
 {
  "PrintNo":"A6220","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-27T11:36:03.265371Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-27","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-19"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-05-27"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-05-27"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-27","Chamber":"ASSEMBLY"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR S5191","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.820","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-27","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -70,7 +72,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
