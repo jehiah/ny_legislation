@@ -1,12 +1,16 @@
 {
- "PrintNo":"S5693","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-28T10:25:44.449562Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-28","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-02-28","Chamber":"SENATE"}],
+ "PrintNo":"S5693","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-28T10:25:44.449562Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-07-18","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-02-28","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-07-18","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5693A","Date":"2025-07-18","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
- "Title":"Relates to hospital compliance with federal hospital price transparency law and rules",
- "Summary":"Prohibits hospitals from accessing general hospital indigent care pool funds where they are not in compliance with federal hospital price transparency law and rules; requires DOH reporting; authorizes the commissioner of health to allow such facility continued access to the fund under certain conditions.",
+ "Title":"Relates to hospital compliance with federal hospital price transparency law, rules and regulations",
+ "Summary":"Requires quarterly reporting on hospital compliance with federal hospital price transparency law, rules and regulations; establishes a civil penalty for non-compliance.",
  "LawSection":"Public Health Law","LawCode":"Amd §2805, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to hospital compliance with federal hospital price transparency law and rules",
- "PreviousVersions":["S8988-2023"]
+ "ActClause":"AN ACT to amend the public health law, in relation to hospital compliance with federal hospital price transparency law, rules and regulations",
+ "SameAsPrintNo":"A1900-2025","PreviousVersions":["S8988-2023"]
 }

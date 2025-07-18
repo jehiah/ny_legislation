@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1075","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-08T10:44:08.897379Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1075","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-08T10:44:08.897379Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-07-18","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-07-18","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1075A","Date":"2025-07-18","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
@@ -15,5 +19,5 @@
  "Summary":"Exempts adolescent offenders who were illegally in possession of a loaded firearm from those authorized to be removed to family court.",
  "LawSection":"Criminal Procedure Law","LawCode":"Amd §722.23, CP L",
  "ActClause":"AN ACT to amend the criminal procedure law, in relation to adolescent offenders authorized to be removed to family court",
- "SameAsPrintNo":"S2361-2025","PreviousVersions":["A7059-2023"]
+ "PreviousVersions":["A7059-2023"]
 }
