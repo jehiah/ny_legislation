@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8280","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-08T17:01:52.135746Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-08","Committee":"Environmental Conservation"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-19"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_SENATE","Date":"2025-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_SENATE","Date":"2025-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-07-29"},{"Type":"SIGNED_BY_GOV","Date":"2025-07-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-08","Chamber":"ASSEMBLY"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR S7768","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1059","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-07-29","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.196","Date":"2025-07-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -75,7 +78,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},

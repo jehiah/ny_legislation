@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8433","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-15T17:24:52.15902Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Social Services"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-07-29"},{"Type":"SIGNED_BY_GOV","Date":"2025-07-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-05-15","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S8179","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1571","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-07-29","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.200","Date":"2025-07-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
