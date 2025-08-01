@@ -1,15 +1,31 @@
 {
  "PrintNo":"A4423","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-04T10:41:33.297464Z","Status":"IN_ASSEMBLY_COMM","Committee":"Election Law",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Election Law"}],
+ "Published":"2025-02-04T10:41:33.297464Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTION LAW","Date":"2025-02-04","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ELECTION LAW","Date":"2025-03-20","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 4423A","Date":"2025-03-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO ELECTION LAW","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 4423B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 4423B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"}
  ],
- "Sponsors":[{"ID":900,"Name":"Erik Dilan","Short":"DILAN"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"ELECTION LAW",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":0,"Short":"CARROLL RC","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1547,"Short":"CARROLL P","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Nay"},{"ID":1469,"Short":"MAMDANI","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":900,"Name":"Erik Dilan","Short":"DILAN"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}],
  "Title":"Clarifies that individuals have the ability to vote by absentee ballot if they are not currently incarcerated for a felony conviction",
  "Summary":"Clarifies that individuals have the ability to vote by absentee ballot in certain elections if they are not currently incarcerated for a felony conviction.",
  "LawSection":"Education Law","LawCode":"Amd §§2018-a & 2018-b, Ed L; amd §§84-a, 175-b & 213-b, Town L",

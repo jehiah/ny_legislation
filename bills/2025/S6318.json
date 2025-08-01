@@ -1,9 +1,9 @@
 {
  "PrintNo":"S6318","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-10T11:08:13.751561Z","Status":"PASSED_SENATE",
+ "Published":"2025-03-10T11:08:13.751561Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-10","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-04-17"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-06"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Education"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-03-10","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING 6318A","Date":"2025-04-17","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -100,7 +101,7 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],
@@ -117,7 +118,8 @@
   {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
   {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
   {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
   {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
   {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"},

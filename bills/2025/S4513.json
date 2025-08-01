@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4513","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-06T10:53:32.207811Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-06","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-04-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-06","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-22","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

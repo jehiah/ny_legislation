@@ -1,11 +1,7 @@
 {
- "PrintNo":"S1211","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T14:08:38.15866Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-19"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Ways And Means"}
- ],
+ "PrintNo":"S1211","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T14:08:38.15866Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-02","Chamber":"SENATE"},
@@ -16,7 +12,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-19","Chamber":"SENATE"},
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-19","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1211A","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A5254A","Date":"2025-06-10","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -138,6 +137,6 @@
  "Title":"Enacts the \"New York open water data act\"",
  "Summary":"Enacts the \"New York open water data act\"; directs certain agencies, under the leadership of conveners, to identify and integrate key water data sets; provides duties and an annual plan for data to be researched and reported.",
  "LawSection":"Environmental Conservation",
- "ActClause":"AN ACT in relation to enacting the \"New York open water data act\"",
+ "ActClause":"AN ACT in relation to enacting the \"New York open water data act\"","SameAsPrintNo":"A5254-2025",
  "PreviousVersions":["S9520-2021","S239-2023"]
 }

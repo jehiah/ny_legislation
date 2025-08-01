@@ -1,12 +1,12 @@
 {
  "PrintNo":"A6220","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-27T11:36:03.265371Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-27","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-19"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-05-27"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"},{"Type":"SIGNED_BY_GOV","Date":"2025-06-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-27","Chamber":"ASSEMBLY"},
@@ -20,7 +20,8 @@
   {"Text":"3RD READING CAL.820","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.162","Date":"2025-06-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

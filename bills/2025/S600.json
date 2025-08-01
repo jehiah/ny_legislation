@@ -1,9 +1,10 @@
 {
  "PrintNo":"S600","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-02T15:33:46.338082Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-02T15:33:46.338082Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-01"},{"Type":"PASSED_SENATE","Date":"2025-04-30"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-01"},{"Type":"PASSED_SENATE","Date":"2025-04-30"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Local Governments"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
@@ -12,7 +13,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING 600A","Date":"2025-04-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-04-30","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

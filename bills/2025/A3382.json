@@ -1,12 +1,35 @@
 {
- "PrintNo":"A3382","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T11:10:24.420521Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-27","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A3382","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-27T11:10:24.420521Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-04-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3382A","Date":"2025-04-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Excused"},{"ID":1257,"Short":"REYES","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"}],
  "Title":"Establishes the crime of misappropriation of payroll funds",
  "Summary":"Establishes the crime of misappropriation of payroll funds when a person knows that funds are designated for use as employee payroll funds or as payment of payroll taxes, and intentionally prevents the funds from being used for their designated purpose.",
- "LawSection":"Penal Law","LawCode":"Add §165.80, amd §20.20, Pen L",
+ "LawSection":"Penal Law","LawCode":"Add §165.80, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to the misappropriation of payroll funds",
  "SameAsPrintNo":"S4188-2025","PreviousVersions":["A8648-2019","A2425-2021","A3280-2023"]
 }

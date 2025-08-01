@@ -1,14 +1,18 @@
 {
  "PrintNo":"K556","Session":2025,"Chamber":"ASSEMBLY","BillType":"Regular","Resolution":true,
- "Published":"2025-05-20T17:36:55.672633Z","Status":"IN_ASSEMBLY_COMM","Committee":"Calendar",
- "Actions":[{"Text":"REFERRED TO CALENDAR","Date":"2025-05-20","Chamber":"ASSEMBLY"}],
+ "Published":"2025-05-20T17:36:55.672633Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2025-05-21"}],
+ "Actions":[
+  {"Text":"REFERRED TO CALENDAR","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"ADOPTED","Date":"2025-05-21","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
-  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},
-  {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1466,"Name":"Michael Durso","Short":"DURSO"},
-  {"ID":469,"Name":"Michael J. Fitzpatrick","Short":"FITZPATRICK"},
-  {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
-  {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},
+  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1528,"Name":"Lester Chang","Short":"CHANG"},
+  {"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
+  {"ID":1466,"Name":"Michael Durso","Short":"DURSO"},{"ID":469,"Name":"Michael J. Fitzpatrick","Short":"FITZPATRICK"},
+  {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"},
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},
+  {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
   {"ID":1556,"Name":"Daniel Norber","Short":"NORBER"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
@@ -16,7 +20,8 @@
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1148,"Name":"Doug Smith","Short":"SMITH"},{"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},
-  {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"}
+  {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
+  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Memorializing Governor Kathy Hochul to proclaim May 23, 2025, as Long Island Sound Day in the State of New York",
  "LawSection":"Resolutions, Legislative"

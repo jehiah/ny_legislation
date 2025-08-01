@@ -1,9 +1,11 @@
 {
  "PrintNo":"S7760","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-05T15:56:57.211713Z","Status":"PASSED_SENATE",
+ "Published":"2025-05-05T15:56:57.211713Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-28"},{"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-28"},{"Type":"PASSED_SENATE","Date":"2025-06-06"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-05","Chamber":"SENATE"},
@@ -18,7 +20,12 @@
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING (T) 7760A","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8264A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.528","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -172,7 +179,7 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],

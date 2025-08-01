@@ -1,9 +1,10 @@
 {
  "PrintNo":"S1191","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T13:23:46.891286Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-10"},{"Type":"PASSED_SENATE","Date":"2025-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2025-02-10"},{"Type":"PASSED_SENATE","Date":"2025-05-21"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Correction"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CORRECTION","Date":"2025-05-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

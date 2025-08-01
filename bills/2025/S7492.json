@@ -1,10 +1,12 @@
 {
  "PrintNo":"S7492","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-17T14:38:48.737262Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-17","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_SENATE","Date":"2025-05-27"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-07-21"},{"Type":"SIGNED_BY_GOV","Date":"2025-07-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-17","Chamber":"SENATE"},
@@ -13,7 +15,13 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-27","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A8363","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.358","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-07-21","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.185","Date":"2025-07-21","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -74,7 +82,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},

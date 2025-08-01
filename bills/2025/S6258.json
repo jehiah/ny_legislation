@@ -1,9 +1,10 @@
 {
  "PrintNo":"S6258","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-07T11:26:27.291035Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-07","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-10"},{"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-10"},{"Type":"PASSED_SENATE","Date":"2025-06-06"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Governmental Employees"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-07","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-04-09","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -91,7 +93,7 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],

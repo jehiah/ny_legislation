@@ -1,14 +1,36 @@
 {
  "PrintNo":"A1816","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T10:20:13.715018Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
-  {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":1531,"Name":"Alex Bores","Short":"BORES"}
+  {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":1531,"Name":"Alex Bores","Short":"BORES"},
+  {"ID":1564,"Name":"Paula Kay","Short":"KAY"}
  ],
  "Title":"Adds animal fighting to the definition of criminal activity for purposes of enterprise corruption crimes",
  "Summary":"Includes animal fighting as a criminal act for purposes of enterprise corruption crimes.",

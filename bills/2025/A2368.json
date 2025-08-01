@@ -2,7 +2,24 @@
  "PrintNo":"A2368","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T10:59:50.028511Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-16","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-16","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN GOVERNMENTAL EMPLOYEES","Date":"2025-05-19","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-19","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Nay"},{"ID":1464,"Short":"GIGLIO","Vote":"Nay"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":1244,"Short":"FALL","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},
   {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},{"ID":1485,"Name":"Josh Jensen","Short":"JENSEN"},

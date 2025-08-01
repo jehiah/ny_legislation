@@ -1,10 +1,11 @@
 {
  "PrintNo":"S5646","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-26T13:13:45.315287Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Published":"2025-02-26T13:13:45.315287Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"},
   {"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Transportation"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Transportation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-26","Chamber":"SENATE"},
@@ -15,7 +16,12 @@
   {"Text":"HOME RULE REQUEST","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8446A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.756","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"HOME RULE REQUEST","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

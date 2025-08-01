@@ -1,10 +1,11 @@
 {
  "PrintNo":"S6165","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-06T08:59:10.825445Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"SENATE_FLOOR","Date":"2025-03-27"},{"Type":"PASSED_SENATE","Date":"2025-06-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-06","Chamber":"SENATE"},
@@ -13,7 +14,9 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A173","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.410","Date":"2025-06-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -66,7 +69,7 @@
     {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Nay"},
     {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},

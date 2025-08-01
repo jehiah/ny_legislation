@@ -1,9 +1,10 @@
 {
  "PrintNo":"S187","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-20T09:03:03.637029Z","Status":"PASSED_SENATE",
+ "Published":"2024-12-20T09:03:03.637029Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_SENATE","Date":"2025-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_SENATE","Date":"2025-05-21"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -13,7 +14,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S1574","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T15:20:16.189407Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-27","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
   {"Type":"PASSED_SENATE","Date":"2025-03-17"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-17","Committee":"Corporations, Authorities And Commissions"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-17","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-10","Chamber":"SENATE"},
@@ -14,7 +15,9 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-17","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A2657","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.421","Date":"2025-06-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -129,6 +132,7 @@
  ],
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
   {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},

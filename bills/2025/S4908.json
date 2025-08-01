@@ -1,11 +1,25 @@
 {
  "PrintNo":"S4908","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-14T10:10:56.349631Z","Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-16","Committee":"Disabilities"}],
+ "Published":"2025-02-14T10:10:56.349631Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO DISABILITIES","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO DISABILITIES","Date":"2025-04-16","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 4908A","Date":"2025-04-16","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 4908A","Date":"2025-04-16","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Version":"A","Chamber":"SENATE","Committee":"Disabilities",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to the creation of an innovative supportive housing program for persons with a developmental disability who wish and are able to safely reside in such a setting; creates an exemption from certain filings",

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S5983","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-04T13:55:58.5315Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Published":"2025-03-04T13:55:58.5315Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2025-03-17"},{"Type":"PASSED_SENATE","Date":"2025-05-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-12","Committee":"Environmental Conservation"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-12","Committee":"Environmental Conservation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-04","Chamber":"SENATE"},
@@ -14,7 +15,11 @@
   {"Text":"AMENDED ON THIRD READING 5983A","Date":"2025-03-17","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-12","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-12","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-12","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A6930","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.333","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

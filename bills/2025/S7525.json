@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7525","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-21T12:48:05.851565Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-04-21T12:48:05.851565Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-21","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-28"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-21","Chamber":"SENATE"},
@@ -20,7 +21,12 @@
   {"Text":"AMENDED ON THIRD READING 7525A","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8114A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.746","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"HOME RULE REQUEST","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -153,7 +159,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},

@@ -2,7 +2,27 @@
  "PrintNo":"A4767","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-06T10:34:49.617667Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Veterans' Affairs",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-06","Committee":"Veterans' Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-02-06","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-02-06","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN VETERANS' AFFAIRS","Date":"2025-05-19","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-19","Chamber":"ASSEMBLY","Committee":"VETERANS' AFFAIRS",
+   "Votes":[
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1120,"Short":"JONES","Vote":"Aye"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":589,"Short":"HAWLEY","Vote":"Nay"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"}],
  "Title":"Increases civil service credits given to veterans currently returning from service",
  "Summary":"Increases civil service credits given to veterans currently returning from service.",

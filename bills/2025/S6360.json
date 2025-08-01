@@ -1,10 +1,11 @@
 {
  "PrintNo":"S6360","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-11T15:11:19.22592Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Published":"2025-03-11T15:11:19.22592Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Codes"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-11","Chamber":"SENATE"},
@@ -15,7 +16,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8330A","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.876","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

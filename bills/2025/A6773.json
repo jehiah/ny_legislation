@@ -1,11 +1,13 @@
 {
- "PrintNo":"A6773","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-14T10:18:04.766489Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-14","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-20"}],
+ "PrintNo":"A6773","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-14T10:18:04.766489Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-14","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-14","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-03-18","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.68","Date":"2025-03-20","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.68","Date":"2025-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING (T) 6773A","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 6773B","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -27,9 +29,13 @@
    ]
   }
  ],
- "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
+ "Sponsors":[
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
+  {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}
+ ],
  "Title":"Removes the requirement that consent for the payment of certain medical services must occur after such services are administered",
- "Summary":"Removes the requirement that consent for the payment of certain medical services must occur after such services are administered.",
+ "Summary":"Removes the requirement that consent for the payment of certain medical services must occur after such services are administered; requires the superintendent of financial services and the commissioner of health to develop a uniform form for consent for payment.",
  "LawSection":"Public Health Law","LawCode":"Amd §18-c, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to removing the requirement that consent for the payment of certain medical services must occur after such services are administered"
+ "ActClause":"AN ACT to amend the public health law, in relation to removing the requirement that consent for the payment of certain medical services must occur after such services are administered; and requires a uniform form for consent for payment",
+ "SameAsPrintNo":"S6375-2025"
 }

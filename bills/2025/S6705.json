@@ -1,10 +1,11 @@
 {
  "PrintNo":"S6705","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-20T09:48:47.681022Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-20","Committee":"Higher Education"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-05"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Higher Education"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Higher Education"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-20","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A7390A","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.866","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

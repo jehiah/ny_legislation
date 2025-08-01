@@ -1,9 +1,9 @@
 {
  "PrintNo":"S4774","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-12T15:30:24.116665Z","Status":"PASSED_SENATE",
+ "Published":"2025-02-12T15:30:24.116665Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-12"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-12","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-07","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING (T) 4774A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

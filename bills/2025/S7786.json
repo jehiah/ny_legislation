@@ -1,11 +1,20 @@
 {
- "PrintNo":"S7786","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-06T14:36:19.571968Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-05-06","Chamber":"SENATE"}],
+ "PrintNo":"S7786","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-06T14:36:19.571968Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-05-06","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-05-20",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 7786A","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
- "Title":"Authorizes the Department of Veterans' Services to consult and collaborate with relevant offices in the department of health and other HCBS experts to develop educational materials for veterans and their families",
- "Summary":"Authorizes the Department of Veterans' Services to consult and collaborate with relevant offices in the department of health and other HCBS experts to develop educational materials for veterans and their families about the accessibility to home and community-based services.",
+ "Title":"Relates to the availability of information on home care services",
+ "Summary":"Authorizes the Department of Veterans' Services to consult and collaborate with relevant offices in the federal department of veterans affairs, the department of health, the state office for the aging and other HCBS experts to develop educational materials for veterans and their families about the accessibility to home and community-based services.",
  "LawSection":"Veterans' Service Law","LawCode":"Amd §§4 & 15, Veterans' Services L",
- "ActClause":"AN ACT to amend the veterans' services law, in relation to availability of information on home care services"
+ "ActClause":"AN ACT to amend the veterans' services law, in relation to availability of information on home care services",
+ "SameAsPrintNo":"A7627-2025"
 }

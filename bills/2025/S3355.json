@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3355","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-27T11:30:54.171085Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-27T11:30:54.171085Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-13","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-06"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Health"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"},
@@ -13,7 +14,12 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO HEALTH","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A4179A","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.562","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -99,7 +105,7 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],

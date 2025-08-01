@@ -1,8 +1,9 @@
 {
  "PrintNo":"A57","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-18T15:29:02.218233Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2024-12-18T15:29:02.218233Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-21","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-22"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-21","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-22"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-28"},{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Judiciary"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -10,11 +11,30 @@
   {"Text":"PRINT NUMBER 57A","Date":"2025-02-21","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2025-05-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING CAL.139","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 57B","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 57B","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2025-05-13","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":1127,"Short":"WALSH","Vote":"Nay"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1148,"Short":"SMITH","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
    "Votes":[
     {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
     {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},

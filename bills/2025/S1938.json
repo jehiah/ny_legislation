@@ -1,9 +1,9 @@
 {
  "PrintNo":"S1938","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T12:08:54.530046Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-02-04"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-06"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Education"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-14","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-06-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -99,7 +100,7 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],
@@ -108,8 +109,8 @@
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
   {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
-  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"},
-  {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1490,"Name":"Dan Stec","Short":"STEC"},{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
  "Title":"Permits schools to allow trade unions to make a recruitment presentation in a high school",
  "Summary":"Requires the principal of any high school to allow any local trade union, upon request, to enter the school for the purpose of trade union recruitment, including, but not limited to: making presentations; disseminating literature; and answering questions by students.",

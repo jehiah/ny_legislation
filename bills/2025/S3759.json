@@ -1,9 +1,9 @@
 {
  "PrintNo":"S3759","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T15:38:53.221839Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-29"}
+  {"Type":"PASSED_SENATE","Date":"2025-05-29"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Aging"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-01-29","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-04-30","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"REFERRED TO AGING","Date":"2025-05-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

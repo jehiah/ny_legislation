@@ -2,7 +2,10 @@
  "PrintNo":"A8884","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-09T23:57:21.768668Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Science And Technology"}],
- "Actions":[{"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-06-09","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
@@ -10,7 +13,10 @@
   {"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},{"ID":1531,"Name":"Alex Bores","Short":"BORES"},
   {"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},
-  {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}
+  {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
+  {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},
+  {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"}
  ],
  "Title":"Relates to the development and use of certain artificial intelligence systems",
  "Summary":"Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general as well as a private right of action.",

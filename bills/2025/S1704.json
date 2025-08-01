@@ -1,10 +1,11 @@
 {
  "PrintNo":"S1704","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T11:20:32.906794Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2025-01-27"},{"Type":"PASSED_SENATE","Date":"2025-03-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Environmental Conservation"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Environmental Conservation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-13","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A6466","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.394","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

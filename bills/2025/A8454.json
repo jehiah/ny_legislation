@@ -1,8 +1,12 @@
 {
- "PrintNo":"A8454","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-16T11:57:40.807932Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-16","Committee":"Housing"}],
- "Actions":[{"Text":"REFERRED TO HOUSING","Date":"2025-05-16","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8454","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-16T11:57:40.807932Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Housing"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING","Date":"2025-05-16","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8454A","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"}],
  "Title":"Relates to creating the tenants' bill of rights",
  "Summary":"Requires a notice informing tenants of their rights to be provided to tenants at the time they execute a residential lease and to be posted in certain buildings.",

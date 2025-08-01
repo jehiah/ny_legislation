@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4153","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-03T10:31:53.920178Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Published":"2025-02-03T10:31:53.920178Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Consumer Protection"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-05"},{"Type":"PASSED_SENATE","Date":"2025-05-29"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Consumer Affairs And Protection"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-03","Chamber":"SENATE"},
@@ -20,7 +21,11 @@
   {"Text":"AMENDED ON THIRD READING (T) 4153A","Date":"2025-05-05","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A7929A","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.349","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

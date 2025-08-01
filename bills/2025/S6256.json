@@ -1,9 +1,10 @@
 {
  "PrintNo":"S6256","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-07T11:25:57.159868Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-07","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-20"},{"Type":"PASSED_SENATE","Date":"2025-04-30"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-20"},{"Type":"PASSED_SENATE","Date":"2025-04-30"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Transportation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-07","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-30","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -100,7 +102,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
+ "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"}],
  "Title":"Authorizes county highway superintendents to rent road machinery from any city, town or village and authorizes town highway superintendents to contract for the use of town machinery, tools and equipment",
  "Summary":"Authorizes county highway superintendents to rent road machinery from any city, town or village; authorizes town highway superintendents to contract for the use of certain services and town machinery, tools and equipment with another municipality, district corporation, school district, community college or any unit of the state university.",
  "LawSection":"Highway Law","LawCode":"Amd §§117 & 142-d, Hway L",

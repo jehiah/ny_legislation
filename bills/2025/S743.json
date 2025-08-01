@@ -1,11 +1,11 @@
 {
  "PrintNo":"S743","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T09:34:41.259311Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-13"},
   {"Type":"PASSED_SENATE","Date":"2025-02-03"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-03","Committee":"Codes"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-19"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-19"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-03-31"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-03-31"},{"Type":"SIGNED_BY_GOV","Date":"2025-04-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-01-08","Chamber":"SENATE"},
@@ -17,7 +17,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.42","Date":"2025-03-19","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-03-19","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2025-03-19","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-03-31","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-03-31","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.114","Date":"2025-04-03","Chamber":"SENATE"}
  ],
  "Votes":[
   {

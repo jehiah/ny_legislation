@@ -1,9 +1,10 @@
 {
  "PrintNo":"S51","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-17T15:14:28.800838Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2025-02-05"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-29"}
+  {"Type":"PASSED_SENATE","Date":"2025-05-29"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Transportation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

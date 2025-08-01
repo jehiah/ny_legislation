@@ -1,9 +1,10 @@
 {
  "PrintNo":"S7388","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-14T10:34:05.565021Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-10"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Codes"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-10"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Codes"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-04-14","Chamber":"SENATE"},
@@ -12,7 +13,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.1770","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A7863","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.668","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

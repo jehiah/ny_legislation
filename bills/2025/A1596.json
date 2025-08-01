@@ -2,7 +2,28 @@
  "PrintNo":"A1596","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T12:45:43.420684Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-10","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-01-10","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-10","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN JUDICIARY","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":1127,"Short":"WALSH","Vote":"Nay"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1148,"Short":"SMITH","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1150,"Name":"John K. Mikulin","Short":"MIKULIN"}],
  "Title":"Requires mandatory jail time for violators of orders of protection",
  "Summary":"Requires mandatory jail time for violators of orders of protection.","LawSection":"Domestic Relations Law",

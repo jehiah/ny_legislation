@@ -2,7 +2,24 @@
  "PrintNo":"A4968","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-10T13:53:29.319876Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-10","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-10","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-10","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN GOVERNMENTAL OPERATIONS","Date":"2025-05-27","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-27","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1509,"Name":"Eric Brown","Short":"BROWN E"},{"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"},
   {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},

@@ -1,8 +1,26 @@
 {
  "PrintNo":"A5840","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:18:31.26109Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Alcoholism And Drug Abuse",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Alcoholism And Drug Abuse"}],
- "Actions":[{"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-19","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-19","Chamber":"ASSEMBLY",
+   "Committee":"ALCOHOLISM AND DRUG ABUSE",
+   "Votes":[
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":571,"Short":"STIRPE","Vote":"Aye"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Excused"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Excused"},{"ID":1534,"Short":"ZACCARO","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":675,"Name":"Phil Steck","Short":"STECK"}],
  "Title":"Relates to dispensing certain individuals with opioid reversal drugs upon discharge",
  "Summary":"Requires inpatient facilities to dispense at-risk individuals with opioid reversal drugs upon discharge.",

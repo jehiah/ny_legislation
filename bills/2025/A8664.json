@@ -1,11 +1,36 @@
 {
  "PrintNo":"A8664","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-23T18:47:06.436616Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-23","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-23","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"HIGHER EDUCATION",
+   "Votes":[
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
  "Title":"Relates to the administration of reversible progestin-only contraceptive injections",
  "Summary":"Relates to the administration of reversible progestin-only contraceptive injections; provides that no pharmacist shall administer reversible progestin-only contraceptive injections without receiving training satisfactory to the commissioner of education and the commissioner of health.",
  "LawSection":"Education Law","LawCode":"Amd §§6802 & 6801, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to the administration of reversible progestin-only contraceptive injections"
+ "ActClause":"AN ACT to amend the education law, in relation to the administration of reversible progestin-only contraceptive injections",
+ "SameAsPrintNo":"S8364-2025"
 }

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S6926","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-27T09:18:09.019552Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-03-27T09:18:09.019552Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"},
   {"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-27","Chamber":"SENATE"},
@@ -14,7 +15,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.1762","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A7918A","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.872","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

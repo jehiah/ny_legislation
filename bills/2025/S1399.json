@@ -1,9 +1,9 @@
 {
  "PrintNo":"S1399","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T13:52:17.613433Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-09T13:52:17.613433Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-06"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Housing"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-09","Chamber":"SENATE"},
@@ -16,7 +16,8 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"ORDERED TO THIRD READING CAL.1472","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO HOUSING","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -127,7 +128,7 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],

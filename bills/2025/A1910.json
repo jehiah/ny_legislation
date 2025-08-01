@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1910","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T11:41:51.990278Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1910","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T11:41:51.990278Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1910A","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
@@ -26,5 +30,5 @@
  "LawSection":"Social Services Law",
  "LawCode":"Amd §§460-d, 461-c, 461-d, 461-e & 461-a, Soc Serv L; amd §29.15, Ment Hyg L",
  "ActClause":"AN ACT to amend the social services law and the mental hygiene law, in relation to violations of safety conditions in adult care facilities",
- "PreviousVersions":["A4416-2019","A196-2021","A5485-2023"]
+ "SameAsPrintNo":"S1858-2025","PreviousVersions":["A4416-2019","A196-2021","A5485-2023"]
 }

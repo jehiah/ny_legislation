@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2444","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T12:16:33.800984Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-17","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2444","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-17T12:16:33.800984Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-17","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2444A","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},{"ID":1120,"Name":"Billy Jones","Short":"JONES"},
@@ -19,9 +23,9 @@
   {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}
  ],
- "Title":"Exempts from the payment of sales tax the purchase of oral hygiene products",
- "Summary":"Exempts oral hygiene products from the payment of sales tax.","LawSection":"Tax Law",
+ "Title":"Exempts the purchase of certain oral hygiene products from the payment of sales tax",
+ "Summary":"Exempts toothpaste, toothbrushes and dental floss from the payment of sales tax.","LawSection":"Tax Law",
  "LawCode":"Amd §1115, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to exempting from the payment of sales tax the purchase of oral hygiene products",
+ "ActClause":"AN ACT to amend the tax law, in relation to exempting from the payment of sales tax the purchase of certain oral hygiene products",
  "SameAsPrintNo":"S985-2025","PreviousVersions":["A8415-2023"]
 }

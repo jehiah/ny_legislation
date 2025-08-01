@@ -2,7 +2,24 @@
  "PrintNo":"A4323","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T09:56:01.71153Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN GOVERNMENTAL OPERATIONS","Date":"2025-05-27","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-27","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"}],
  "Title":"Relates to allowing the names of peace officers slain in the line of duty in the state of New York to be added to the police officers memorial",
  "Summary":"Authorizes the division of criminal justice services to add to the police officers memorial the names of peace officers of the state of New York who are slain in the line of duty.",

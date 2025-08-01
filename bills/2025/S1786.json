@@ -1,9 +1,10 @@
 {
  "PrintNo":"S1786","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T15:14:17.841038Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-02-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Health"}
+  {"Type":"PASSED_SENATE","Date":"2025-03-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Health"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
@@ -12,7 +13,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-11","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2025-03-11","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-11","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A6047","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.391","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

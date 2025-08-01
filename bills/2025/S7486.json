@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7486","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-17T12:49:52.21044Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
+ "Published":"2025-04-17T12:49:52.21044Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-07","Committee":"Higher Education"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Higher Education"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Higher Education"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-17","Chamber":"SENATE"},
@@ -15,7 +16,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8142A","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.635","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

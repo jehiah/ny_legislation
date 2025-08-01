@@ -1,7 +1,11 @@
 {
  "PrintNo":"J988","Session":2025,"Chamber":"SENATE","BillType":"Regular and Joint","Resolution":true,
- "Published":"2025-05-12T15:18:31.302229Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2025-05-12","Chamber":"SENATE"}],
+ "Published":"2025-05-12T15:18:31.302229Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2025-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2025-05-12","Chamber":"SENATE"},
+  {"Text":"REPORTED TO CALENDAR FOR CONSIDERATION","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"ADOPTED","Date":"2025-05-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS"},
   {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}

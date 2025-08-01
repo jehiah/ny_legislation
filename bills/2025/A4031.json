@@ -1,8 +1,13 @@
 {
- "PrintNo":"A4031","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T15:26:48.962591Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4031","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T15:26:48.962591Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4031A","Date":"2025-04-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"}],
  "Title":"Relates to a study of an autonomous rail rapid transit (ART) network in the city of New York",
  "Summary":"Directs the MTA to study the feasibility of developing and operating an autonomous rail rapid transit (ART) network in the city of New York.",

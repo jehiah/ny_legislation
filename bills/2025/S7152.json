@@ -1,11 +1,11 @@
 {
  "PrintNo":"S7152","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-02T14:38:44.123077Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Tourism, Parks, Arts And Sports Development",
+ "Published":"2025-04-02T14:38:44.123077Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-22"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Tourism, Parks, Arts And Sports Development"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Tourism, Parks, Arts And Sports Development"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-04-02","Chamber":"SENATE"},
@@ -22,7 +22,11 @@
   {
    "Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-06-05","Chamber":"ASSEMBLY",
    "Version":"A"
-  }
+  },
+  {"Text":"SUBSTITUTED FOR A8220A","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.874","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

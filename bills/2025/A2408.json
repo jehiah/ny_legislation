@@ -5,7 +5,25 @@
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-16","Chamber":"ASSEMBLY"},
   {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2025-01-17","Chamber":"ASSEMBLY"},
-  {"Text":"OPINION REFERRED TO JUDICIARY","Date":"2025-02-05","Chamber":"ASSEMBLY"}
+  {"Text":"OPINION REFERRED TO JUDICIARY","Date":"2025-02-05","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN LOCAL GOVERNMENTS","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1484,"Short":"GALLAHAN","Vote":"Nay"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":636,"Short":"FRIEND","Vote":"Excused"},{"ID":1555,"Short":"O'PHARROW","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},

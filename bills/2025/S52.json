@@ -1,10 +1,11 @@
 {
  "PrintNo":"S52","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-17T15:15:04.809033Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2025-02-05"},{"Type":"PASSED_SENATE","Date":"2025-02-24"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Governmental Operations"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-08","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-24","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-24","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A249","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.479","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -99,7 +104,7 @@
  ],
  "Sponsors":[
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}
+  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
  ],
  "Title":"Authorizes the use of an electronic signature by a person granted a power of attorney with respect to tax documents submitted",
  "Summary":"Authorizes the use of an electronic signature by a person granted a power of attorney by a taxpayer with respect to documents submitted to the New York state department of taxation and finance and the New York city department of finance.",

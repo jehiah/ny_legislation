@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4046","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T11:12:13.010432Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-31","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-05-29"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-31","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2025-05-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

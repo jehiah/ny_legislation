@@ -1,8 +1,10 @@
 {
  "PrintNo":"S7108","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-01T11:47:32.632158Z",
- "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Women's Issues"}],
- "Actions":[{"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-04-01","Chamber":"SENATE"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Women's Issues"}],
+ "Actions":[
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2025-04-04","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}

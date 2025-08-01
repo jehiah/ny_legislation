@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3974","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T09:34:21.602143Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-31","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-05-21"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Correction"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-31","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-02-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CORRECTION","Date":"2025-05-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -94,7 +96,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}],
+ "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"}],
  "Title":"Relates to failure to complete a program for time allowances due to circumstances beyond an individual's control",
  "Summary":"Relates to failure to complete a program for time allowances due to circumstances beyond an individual's control.",
  "LawSection":"Correction Law","LawCode":"Amd §§803, 804, 805 & 806, Cor L",

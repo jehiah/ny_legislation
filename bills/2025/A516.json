@@ -1,8 +1,12 @@
 {
- "PrintNo":"A516","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:14:51.934538Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A516","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T12:14:51.934538Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 516A","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"},
   {"ID":1125,"Name":"Brian D. Miller","Short":"MILLER"},{"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"},
@@ -13,9 +17,9 @@
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
   {"ID":1568,"Name":"Paula Bologna","Short":"BOLOGNA"}
  ],
- "Title":"Gives state income tax credit to volunteer firefighters and members of a volunteer ambulance corps in good standing up to $1200",
- "Summary":"Gives state income tax credit to volunteer firefighters and members of volunteer ambulance corps in good standing up to $1200; requires such member must be in good standing for a minimum of five years and maintain continued eligibility.",
- "LawSection":"Tax Law","LawCode":"Amd §606, Tax L",
+ "Title":"Increases the volunteer firefighters' and ambulance workers' credit",
+ "Summary":"Increases the volunteer firefighters' and ambulance workers' credit.","LawSection":"Tax Law",
+ "LawCode":"Amd §606, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to providing for a credit against personal income tax for volunteer firefighters and members of volunteer ambulance corps",
- "PreviousVersions":["A4850-2015","A9530-2017","A1517-2019","A886-2021","A185-2023"]
+ "SameAsPrintNo":"S5837-2025","PreviousVersions":["A4850-2015","A9530-2017","A1517-2019","A886-2021","A185-2023"]
 }

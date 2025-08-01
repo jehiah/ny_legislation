@@ -1,7 +1,10 @@
 {
  "PrintNo":"A6741","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-11T10:40:53.312728Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"}],
+ "Published":"2025-03-11T10:40:53.312728Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ELECTION LAW","Date":"2025-03-11","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ELECTION LAW","Date":"2025-05-14","Chamber":"ASSEMBLY"},
@@ -9,7 +12,9 @@
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RULES REPORT CAL.331","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.331","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.331","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,6 +32,35 @@
   },
   {
    "VoteType":"Favorable","Date":"2025-05-29","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL RC","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1547,"Short":"CARROLL P","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":574,"Short":"BARCLAY","Vote":"Nay"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":608,"Short":"RA","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1148,"Short":"SMITH","Vote":"Nay"},{"ID":1485,"Short":"JENSEN","Vote":"Nay"},
+    {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":474,"Short":"LAVINE","Vote":"Excused"},
+    {"ID":655,"Short":"DAVILA","Vote":"Excused"},{"ID":669,"Short":"ROZIC","Vote":"Excused"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-06-09","Chamber":"ASSEMBLY","Committee":"RULES",
    "Votes":[
     {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
     {"ID":0,"Short":"CARROLL RC","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},

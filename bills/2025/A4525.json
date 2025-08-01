@@ -1,8 +1,36 @@
 {
- "PrintNo":"A4525","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T11:36:34.232079Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-04","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A4525","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-04T11:36:34.232079Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4525A","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-20","Chamber":"ASSEMBLY",
+   "Committee":"ENVIRONMENTAL CONSERVATION",
+   "Votes":[
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
@@ -18,7 +46,7 @@
  ],
  "Title":"Prohibits the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances",
  "Summary":"Prohibits the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances; provides penalties for violations.",
- "LawSection":"Environmental Conservation Law","LawCode":"Add §37-0123, amd §71-3703, En Con L",
+ "LawSection":"Environmental Conservation Law","LawCode":"Add §37-0125, amd §71-3703, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the sale and distribution of anti-fogging sprays or wipes containing perfluoroalkyl and polyfluoroalkyl substances",
  "PreviousVersions":["S8188-2021","A5363-2023"]
 }

@@ -2,7 +2,24 @@
  "PrintNo":"A5408","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-13T15:47:15.342925Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-13","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-02-13","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-02-13","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN MENTAL HEALTH","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},
+    {"ID":1540,"Short":"MAHER","Vote":"Nay"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1466,"Name":"Michael Durso","Short":"DURSO"},{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},
   {"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},{"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},

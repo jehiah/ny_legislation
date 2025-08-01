@@ -1,16 +1,18 @@
 {
  "PrintNo":"S7315","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-09T15:39:45.330481Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-06"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Social Services"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-04-09","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1502","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-06-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -104,11 +106,14 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],
- "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
+ "Sponsors":[
+  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
+  {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}
+ ],
  "Title":"Allows for SNAP benefits to be used to purchase menstrual products",
  "Summary":"Allows for SNAP benefits to be used to purchase menstrual products including, but not limited to, sanitary napkins, tampons and panty liners.",
  "LawSection":"Social Services Law","LawCode":"Amd §95, Soc Serv L",

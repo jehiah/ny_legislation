@@ -2,7 +2,28 @@
  "PrintNo":"A5187","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T11:53:55.987447Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-02-12","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN CODES","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-13","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"},
   {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},

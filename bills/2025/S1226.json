@@ -1,10 +1,11 @@
 {
  "PrintNo":"S1226","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T14:47:53.263216Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-01-27"},
   {"Type":"PASSED_SENATE","Date":"2025-05-20"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-20","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A6004","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.503","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

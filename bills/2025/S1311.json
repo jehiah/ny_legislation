@@ -1,10 +1,11 @@
 {
  "PrintNo":"S1311","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T10:14:13.586496Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Civil Service And Pensions"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_SENATE","Date":"2025-06-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Governmental Employees"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Governmental Employees"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-01-09","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A8684","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.592","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -83,7 +88,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},

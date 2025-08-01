@@ -1,9 +1,11 @@
 {
  "PrintNo":"S1373","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T12:38:19.163949Z",
- "Status":"PASSED_SENATE",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-03-20"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-27"}
+  {"Type":"PASSED_SENATE","Date":"2025-03-27"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-27","Committee":"Agriculture"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-09","Chamber":"SENATE"},
@@ -11,7 +13,12 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-27","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-27","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A4910","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.387","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

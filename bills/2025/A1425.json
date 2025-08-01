@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1425","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T13:12:08.950136Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1425","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-09T13:12:08.950136Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1425A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
@@ -17,8 +21,8 @@
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
  ],
  "Title":"Relates to electronic appearances for parking violations",
- "Summary":"Provides that persons charged with a parking violation shall be able to make an electronic court appearance.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§237 & 240, V & T L",
- "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to electronic appearances for parking violations",
+ "Summary":"Provides that persons charged with a parking violation shall be able to make an electronic court appearance unless a locality elects not to permit electronic appearances.",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§237, 238 & 240, V & T L",
+ "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to electronic appearances for parking violations; and providing for the repeal of such provisions upon expiration thereof",
  "SameAsPrintNo":"S1511-2025","PreviousVersions":["A9250-2023"]
 }

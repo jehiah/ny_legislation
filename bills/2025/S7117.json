@@ -1,9 +1,10 @@
 {
  "PrintNo":"S7117","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-01T14:06:31.119836Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Children And Families"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-05-21"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Correction"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-04-01","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CORRECTION","Date":"2025-05-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

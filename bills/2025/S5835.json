@@ -1,9 +1,10 @@
 {
  "PrintNo":"S5835","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-03T13:26:15.47118Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-13"},{"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-13"},{"Type":"PASSED_SENATE","Date":"2025-06-06"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-03","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-12","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-06-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -95,11 +97,11 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],
- "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
+ "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}],
  "Title":"Waives fishing, hunting and trapping license fees for certain first responders",
  "Summary":"Waives fishing, hunting and trapping license fees for certain first responders.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §11-0715, En Con L",

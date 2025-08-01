@@ -1,8 +1,12 @@
 {
- "PrintNo":"A6718","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-10T19:01:02.597517Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-03-10","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6718","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-10T19:01:02.597517Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-31","Committee":"Governmental Employees"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2025-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6718A","Date":"2025-03-31","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1120,"Name":"Billy Jones","Short":"JONES"},
@@ -11,6 +15,7 @@
  ],
  "Title":"Establishes alternative twenty and twenty-five year plans for certain officers of state law enforcement",
  "Summary":"Establishes alternative twenty and twenty-five year plans for every non-seasonally appointed sworn member or officer of the division of law enforcement in the department of environmental conservation, a forest ranger in the service of the department of environmental conservation, which shall mean a person who serves on a full-time basis in the title of forest ranger I, forest ranger II, forest ranger III, assistant superintendent of forest fire control, or any successor titles or new titles in the forest ranger title series in the department of environmental conservation, a police officer in the department of environmental conservation, the regional state park police, and university of police officers whose date of membership is prior to January first, two thousand ten.",
- "LawSection":"Retirement and Social Security Law","LawCode":"Add §§383-e & 383-f, R & SS L",
- "ActClause":"AN ACT to amend the retirement and social security law, in relation to establishing alternative twenty and twenty-five year plans for certain officers of state law enforcement"
+ "LawSection":"Retirement and Social Security Law","LawCode":"Add §383-e, R & SS L",
+ "ActClause":"AN ACT to amend the retirement and social security law, in relation to establishing alternative twenty and twenty-five year plans for certain officers of state law enforcement",
+ "SameAsPrintNo":"S6989-2025"
 }

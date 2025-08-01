@@ -1,8 +1,29 @@
 {
  "PrintNo":"A5641","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-18T11:04:05.775591Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-18","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-18","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-18","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-30","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-04-30","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":1120,"Short":"JONES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Excused"},{"ID":1542,"Short":"BEEPHAN","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Authorizes municipalities to establish an emergency repair pilot program",
  "Summary":"Authorizes municipalities to establish an emergency repair pilot program; enables municipalities to repair immediately hazardous code violations in buildings where the owner has not undertaken such repairs in a reasonable time.",

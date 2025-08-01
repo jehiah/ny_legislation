@@ -1,10 +1,11 @@
 {
  "PrintNo":"S2479","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T09:59:50.435504Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Energy And Telecommunications"},
   {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-03-24"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-24","Committee":"Energy"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-24","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-21","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-24","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-24","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENERGY","Date":"2025-03-24","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENERGY","Date":"2025-03-24","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A7762","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.519","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

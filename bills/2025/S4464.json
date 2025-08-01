@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4464","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-05T14:11:24.165382Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-22"},{"Type":"PASSED_SENATE","Date":"2025-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-22"},{"Type":"PASSED_SENATE","Date":"2025-05-29"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Local Governments"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-05","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-05-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

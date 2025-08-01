@@ -1,16 +1,41 @@
 {
- "PrintNo":"A8174","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-05T17:14:42.228835Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-05","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8174","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-05T17:14:42.228835Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8174A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":636,"Short":"FRIEND","Vote":"Nay"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1485,"Short":"JENSEN","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"},{"ID":1244,"Short":"FALL","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"}
  ],
  "Title":"Increases the number of commissioners of the public service commission",
- "Summary":"Increases the number of commissioners of the public service commission to nine; requires the commission to have a duty to protect public interest, including ensuring access to utility services for residential and business customers; prohibits commissioners from having been employed within the last two years by an electric, gas, steam, telecommunications, or water utility that is regulated by the commission.",
+ "Summary":"Relates to the members of the public service commission; prohibits commissioners from having been employed within the last two years by an electric, gas, steam, telecommunications, or water utility that is regulated by the commission; requires that new appointments ensure that commissioners represent certain areas of education and training.",
  "LawSection":"Public Service Law","LawCode":"Amd §§4 & 9, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to the commissioners of the public service commission",
- "SameAsPrintNo":"S7328-2025"
+ "ActClause":"AN ACT to amend the public service law, in relation to the commissioners of the public service commission"
 }

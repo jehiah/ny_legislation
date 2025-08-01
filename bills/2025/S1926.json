@@ -1,10 +1,11 @@
 {
  "PrintNo":"S1926","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T11:57:07.50108Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Children And Families",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-14","Committee":"Children And Families"},
   {"Type":"SENATE_FLOOR","Date":"2025-01-27"},{"Type":"PASSED_SENATE","Date":"2025-03-19"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-19","Committee":"Children And Families"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-19","Committee":"Children And Families"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-14","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-19","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-19","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-03-19","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A7145","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.229","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-21","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

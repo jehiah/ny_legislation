@@ -1,12 +1,12 @@
 {
  "PrintNo":"A4533","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T11:40:04.817794Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-01"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-04-02"},
   {"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2025-04-22"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-05-12"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-05-12"},{"Type":"SIGNED_BY_GOV","Date":"2025-05-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-04","Chamber":"ASSEMBLY"},
@@ -22,7 +22,8 @@
   {"Text":"3RD READING CAL.685","Date":"2025-04-22","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-22","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-05-12","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.127","Date":"2025-05-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

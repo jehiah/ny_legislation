@@ -1,10 +1,11 @@
 {
  "PrintNo":"S923","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T09:56:20.057033Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Election Law",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2025-02-12"},
   {"Type":"PASSED_SENATE","Date":"2025-03-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Election Law"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Election Law"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-08","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ELECTION LAW","Date":"2025-03-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2025-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A7804","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.345","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

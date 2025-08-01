@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3828","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-30T10:37:07.765851Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-30T10:37:07.765851Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-04-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-04-22"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-30","Chamber":"SENATE"},
@@ -12,7 +13,8 @@
   {"Text":"AMENDED 3828A","Date":"2025-02-24","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-04-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -99,7 +101,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
+ "Sponsors":[
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
+ ],
  "Title":"Enacts the \"emission tampering act\"",
  "Summary":"Prohibits the disabling, removal or interference with emission control devices and the use of emission tampering devices; provides remedies for the violation of such provisions.",
  "LawSection":"Environmental Conservation Law",

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S6274","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-07T15:08:19.044836Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-07","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-09"},{"Type":"PASSED_SENATE","Date":"2025-04-30"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-09"},{"Type":"PASSED_SENATE","Date":"2025-04-30"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Housing"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-07","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-04-08","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"REFERRED TO HOUSING","Date":"2025-04-30","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -101,8 +103,8 @@
  ],
  "Sponsors":[
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
-  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Relates to preferences under the affordable home ownership development program for veterans with service-related disabilities",
  "Summary":"Relates to preferences under the affordable home ownership development program for veterans with service-related disabilities; defines \"veteran with a service-related disability\".",

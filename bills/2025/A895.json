@@ -1,16 +1,19 @@
 {
- "PrintNo":"A895","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T12:38:06.217845Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A895","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T12:38:06.217845Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-10","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-04-10","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 895A","Date":"2025-04-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
   {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}
  ],
  "Title":"Requires insurance to cover a car seat to be provided upon discharge of a newborn from a hospital",
- "Summary":"Requires insurance to cover a car seat to be provided upon discharge of a newborn from a hospital.",
- "LawSection":"Insurance Law","LawCode":"Amd §3216, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to coverage for car seats",
+ "Summary":"Requires insurance to cover car seats for newborns.","LawSection":"Insurance Law",
+ "LawCode":"Amd §3216, Ins L","ActClause":"AN ACT to amend the insurance law, in relation to coverage for car seats",
  "PreviousVersions":["A8057-2023"]
 }

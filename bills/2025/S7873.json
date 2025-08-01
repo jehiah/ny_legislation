@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7873","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-12T14:03:01.530571Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Published":"2025-05-12T14:03:01.530571Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-11"},
   {"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Local Governments"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Local Governments"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-05-12","Chamber":"SENATE"},
@@ -15,7 +16,12 @@
   {"Text":"HOME RULE REQUEST","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8526A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.759","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"HOME RULE REQUEST","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

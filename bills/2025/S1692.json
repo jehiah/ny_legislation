@@ -1,9 +1,10 @@
 {
  "PrintNo":"S1692","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-13T10:54:45.106726Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-13T10:54:45.106726Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-14"},{"Type":"PASSED_SENATE","Date":"2025-05-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-14"},{"Type":"PASSED_SENATE","Date":"2025-05-22"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-13","Chamber":"SENATE"},
@@ -12,7 +13,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING 1692A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

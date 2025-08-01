@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4599","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-10T10:20:15.999601Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-11"},
   {"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Governmental Employees"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Governmental Employees"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-10","Chamber":"SENATE"},
@@ -14,7 +15,12 @@
   {"Text":"HOME RULE REQUEST","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-11","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A5868","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.864","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"HOME RULE REQUEST","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -127,7 +133,9 @@
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
   {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
-  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
+  {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
  "Title":"Grants certain county fire marshals, supervising fire marshals, fire marshals, assistant fire marshals, assistant chief fire marshals or chief fire marshals pension benefits for service beyond twenty-five years",
  "Summary":"Grants Nassau county fire marshals, supervising fire marshals, fire marshals, assistant fire marshals, assistant chief fire marshals or chief fire marshals pension benefits for service rendered beyond twenty-five years.",

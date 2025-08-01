@@ -1,9 +1,29 @@
 {
  "PrintNo":"S5103","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T09:10:02.402866Z",
- "Status":"IN_SENATE_COMM","Committee":"Alcoholism And Substance Use Disorders",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-19","Committee":"Alcoholism And Substance Use Disorders"}],
- "Actions":[{"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-02-19","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"}],
+ "Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-02-19","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO EDUCATION","Date":"2025-05-15","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-05-15","Chamber":"SENATE","Committee":"Alcoholism And Substance Use Disorders",
+   "Votes":[
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}
+ ],
  "Title":"Requires schools to include instruction on the prevention of co-occurring disorders as an integral part of their health education programs",
  "Summary":"Requires schools to include instruction on the prevention of co-occurring disorders as an integral part of their health education programs.",
  "LawSection":"Education Law","LawCode":"Amd §804, Ed L",

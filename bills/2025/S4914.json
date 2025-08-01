@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4914","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-14T11:27:01.918286Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-02-14T11:27:01.918286Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Children And Families"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-19"},{"Type":"PASSED_SENATE","Date":"2025-05-22"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-14","Chamber":"SENATE"},
@@ -18,7 +19,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE","Version":"B"},
   {"Text":"REFERRED TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"SUBSTITUTED FOR A5480C","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.321","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.321","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

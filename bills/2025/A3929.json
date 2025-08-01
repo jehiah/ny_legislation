@@ -1,14 +1,15 @@
 {
  "PrintNo":"A3929","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T14:56:19.138727Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-02","Committee":"Codes"}],
+ "Published":"2025-01-30T14:56:19.138727Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTION LAW","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ELECTION LAW","Date":"2025-05-23","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 3929A","Date":"2025-05-23","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 3929B","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 3929B","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -23,6 +24,30 @@
     {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
     {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1469,"Short":"MAMDANI","Vote":"Absent"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-05","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL RC","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1547,"Short":"CARROLL P","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1118,"Short":"VANEL","Vote":"Excused"},{"ID":1469,"Short":"MAMDANI","Vote":"Absent"}
+   ]
   }
  ],
  "Sponsors":[
@@ -36,5 +61,6 @@
  "Title":"Requires disclosure of social media posts that are paid for by a campaign",
  "Summary":"Requires disclosure of social media posts that are paid for by a campaign; authorizes the state board of elections to promulgate certain regulations.",
  "LawSection":"Election Law","LawCode":"Amd §14-106, El L",
- "ActClause":"AN ACT to amend the election law, in relation to requiring disclosure of social media posts that are paid for by a campaign; and authorizes the state board of elections to promulgate certain regulations"
+ "ActClause":"AN ACT to amend the election law, in relation to requiring disclosure of social media posts that are paid for by a campaign; and authorizes the state board of elections to promulgate certain regulations",
+ "SameAsPrintNo":"S2437-2025"
 }

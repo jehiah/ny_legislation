@@ -1,8 +1,12 @@
 {
- "PrintNo":"A5414","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-13T15:50:02.975625Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-13","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2025-02-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5414","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-13T15:50:02.975625Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO JUDICIARY","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5414A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
@@ -29,7 +33,9 @@
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
   {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},{"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"}
  ],
- "Title":"Removes the lifetime ban on jury duty for convicted felons; repealer",
- "Summary":"Removes the lifetime ban on jury duty for convicted felons; repealer.","LawSection":"Judiciary Law",
- "LawCode":"Rpld §510 sub 3, amd §517, Judy L","PreviousVersions":["A4760-2019","A2377-2021","A1432-2023"]
+ "Title":"Removes the lifetime ban on jury duty for convicted felons",
+ "Summary":"Removes the lifetime ban on jury duty for convicted felons.","LawSection":"Judiciary Law",
+ "LawCode":"Amd §§510 & 517, Judy L",
+ "ActClause":"AN ACT to amend the judiciary law, in relation to removing the lifetime ban on jury duty for convicted felons",
+ "SameAsPrintNo":"S2240-2025","PreviousVersions":["A4760-2019","A2377-2021","A1432-2023"]
 }

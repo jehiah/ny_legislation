@@ -1,10 +1,11 @@
 {
  "PrintNo":"S3161","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T09:12:28.686289Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Tourism, Parks, Arts And Sports Development",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
   {"Type":"SENATE_FLOOR","Date":"2025-02-10"},{"Type":"PASSED_SENATE","Date":"2025-02-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Tourism, Parks, Arts And Sports Development"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Tourism, Parks, Arts And Sports Development"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-24","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-02-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A5468","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.723","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

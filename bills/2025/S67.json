@@ -3,12 +3,14 @@
  "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1431","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED BY A6613","Date":"2025-06-11","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -24,7 +26,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
+ "Sponsors":[
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
+ ],
  "Title":"Permits records required to be disclosed under the freedom of information law to have exempt parts of such documents be redacted before disclosure",
  "Summary":"Permits records required to be disclosed under the freedom of information law to have exempt parts of such documents be redacted before disclosure.",
  "LawSection":"Public Officers Law","LawCode":"Amd §87, Pub Off L",

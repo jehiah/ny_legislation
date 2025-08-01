@@ -1,9 +1,9 @@
 {
  "PrintNo":"S2453","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T15:38:29.561113Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-03-27"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-21"}
+  {"Type":"PASSED_SENATE","Date":"2025-05-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-17","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-21","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

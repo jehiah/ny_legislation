@@ -1,10 +1,11 @@
 {
  "PrintNo":"S3318","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T16:07:52.60522Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Veterans, Homeland Security And Military Affairs"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Governmental Operations"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-24","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A8822","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.881","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -102,7 +107,7 @@
  ],
  "Sponsors":[
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
+  {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
  ],
  "Title":"Authorizes additional paid leave for public employees who are absent on military duty",
  "Summary":"Authorizes additional paid leave for public employees who are absent on military duty up to sixty days or fifty-two working days.",

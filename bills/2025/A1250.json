@@ -1,10 +1,20 @@
 {
  "PrintNo":"A1250","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:52:33.153906Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Codes"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"},{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-06","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.483","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.483","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RULES","Date":"2025-06-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -20,6 +30,110 @@
     {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
     {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-06-05","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2025-06-09","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":574,"Short":"BARCLAY","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Excused"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Excused"},{"ID":1245,"Short":"REILLY","Vote":"Excused"},
+    {"ID":655,"Short":"DAVILA","Vote":"Excused"},{"ID":1089,"Short":"HYNDMAN","Vote":"Excused"},
+    {"ID":1118,"Short":"VANEL","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2025-06-09","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":574,"Short":"BARCLAY","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Excused"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Excused"},{"ID":1245,"Short":"REILLY","Vote":"Excused"},
+    {"ID":655,"Short":"DAVILA","Vote":"Excused"},{"ID":1089,"Short":"HYNDMAN","Vote":"Excused"},
+    {"ID":1118,"Short":"VANEL","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
@@ -32,7 +146,9 @@
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
   {"ID":1529,"Name":"Samuel Pirozzolo","Short":"PIROZZOLO"},{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},
   {"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},{"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"},
-  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},
+  {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},
+  {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"}
  ],
  "Title":"Prohibits unsolicited telemarketing sales calls during certain declared states of emergency",
  "Summary":"Prohibits unsolicited telemarketing sales calls during a declared state of emergency or disaster emergency where the declaration or proclamation of emergency includes a finding that unsolicited telemarketing sales calls would impair actions taken to limit, control, or mitigate the emergency; explains the basis of such finding; provides that such prohibition may not extend for a period of more than two weeks, subject to renewal for additional two-week periods by further findings of necessity made at the end of each two-week period.",

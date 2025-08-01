@@ -1,17 +1,22 @@
 {
  "PrintNo":"S3786","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T09:00:53.609097Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"New York City Education"},
   {"Type":"SENATE_FLOOR","Date":"2025-04-09"},{"Type":"PASSED_SENATE","Date":"2025-04-09"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-09","Committee":"Education"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-09","Committee":"Education"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.674","Date":"2025-04-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-09","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-09","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2025-04-09","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-04-09","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A5314","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.722","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

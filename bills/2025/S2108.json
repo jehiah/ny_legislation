@@ -1,11 +1,13 @@
 {
- "PrintNo":"S2108","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S2108","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-15T11:29:35.967516Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Transportation"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-15","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-11","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 2108A","Date":"2025-03-11","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 2108A","Date":"2025-03-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 2108B","Date":"2025-05-20","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -32,5 +34,5 @@
  "Summary":"Provides for service of parking tickets by mail; provides additional time to respond to a parking ticket so served.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §238, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to providing for service of parking tickets by mail",
- "PreviousVersions":["S9562-2023"]
+ "SameAsPrintNo":"A2342-2025","PreviousVersions":["S9562-2023"]
 }

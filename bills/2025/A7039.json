@@ -1,10 +1,12 @@
 {
- "PrintNo":"A7039","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-19T13:04:25.341767Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Ways And Means"}],
+ "PrintNo":"A7039","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-19T13:04:25.341767Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-19","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7039A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,7 +29,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"}],
+ "Sponsors":[{"ID":610,"Name":"Edward Braunstein","Short":"BRAUNSTEIN"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Relates to project applications and advisory opinions of the public authorities control board",
  "Summary":"Relates to project applications and advisory opinions of the public authorities control board; requires that any application made concerning a proposed project involving a loan, to the extent practicable, shall include the terms, conditions and dates of the repayment of state appropriations; makes related provisions.",
  "LawSection":"Public Authorities Law","LawCode":"Amd §51, Pub Auth L",

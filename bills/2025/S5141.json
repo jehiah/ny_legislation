@@ -1,8 +1,24 @@
 {
  "PrintNo":"S5141","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T10:49:10.18664Z",
- "Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-19","Committee":"Disabilities"}],
- "Actions":[{"Text":"REFERRED TO DISABILITIES","Date":"2025-02-19","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO DISABILITIES","Date":"2025-02-19","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2025-04-29","Chamber":"SENATE","Committee":"Disabilities",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"}],
  "Title":"Establishes a direct service professional credit and career ladder tuition assistance grant program",
  "Summary":"Establishes a direct service professional credit and career ladder tuition assistance grant program to develop training programs and improve existing workforce development programs for the purpose of training direct support professionals and establishing a career ladder for individuals working with individuals with developmental disabilities.",

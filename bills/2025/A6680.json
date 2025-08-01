@@ -2,7 +2,34 @@
  "PrintNo":"A6680","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-07T16:32:13.46296Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-06","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-06","Chamber":"ASSEMBLY"},
+  {
+   "Text":"HELD FOR CONSIDERATION IN CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-28",
+   "Chamber":"ASSEMBLY"
+  }
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-28","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"},{"ID":1244,"Short":"FALL","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1475,"Name":"Michael Tannousis","Short":"TANNOUSIS"}],
  "Title":"Relates to repealing congestion pricing (Part A); commissioning an independent audit of the metropolitan transportation authority (Part B); and conducting an environmental impact study (Part C)",
  "Summary":"Repeals congestion pricing (Part A); increases the membership of the metropolitan transportation authority from sixteen to seventeen members; provides for the appointment for one member from each of New York City's boroughs on the written recommendation of the mayor of New York City (Part B); directs the metropolitan transportation authority to contract with a certified public accounting firm for the provision of an independent, comprehensive, forensic audit of the authority (Part C).",

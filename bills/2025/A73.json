@@ -1,14 +1,15 @@
 {
  "PrintNo":"A73","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-20T09:48:28.555156Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-22","Committee":"Codes"}],
+ "Published":"2024-12-20T09:48:28.555156Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-04-08","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 73A","Date":"2025-04-08","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 73B","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 73B","Date":"2025-04-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -23,6 +24,30 @@
     {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1125,"Short":"MILLER","Vote":"Nay"},
     {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},{"ID":1466,"Short":"DURSO","Vote":"Nay"},
     {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},{"ID":1244,"Short":"FALL","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2025-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1125,"Short":"MILLER","Vote":"Nay"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},
+    {"ID":1466,"Short":"DURSO","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1244,"Short":"FALL","Vote":"Absent"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Absent"}
    ]
   }
  ],
@@ -61,7 +86,9 @@
   {"ID":896,"Name":"Latrice Walker","Short":"WALKER"},{"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},
   {"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},{"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
-  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}
+  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":457,"Name":"Vivian Cook","Short":"COOK"},
+  {"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
+  {"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"}
  ],
  "Title":"Relates to labeling requirements for gas stoves",
  "Summary":"Requires the display of certain labels and warnings on gas stoves sold, displayed for sale, or offered for sale at retail to a consumer in this state; authorizes the department of state to adopt regulations regarding the placement and format of such labels; provides for penalties; authorizes the attorney general to enforce such provisions.",

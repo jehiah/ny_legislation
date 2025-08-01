@@ -1,9 +1,10 @@
 {
  "PrintNo":"S6365","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-11T15:12:28.987985Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-27"},{"Type":"PASSED_SENATE","Date":"2025-05-22"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-27"},{"Type":"PASSED_SENATE","Date":"2025-05-22"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-03-11","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-22","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-22","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

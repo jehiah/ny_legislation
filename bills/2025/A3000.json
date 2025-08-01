@@ -1,11 +1,11 @@
 {
  "PrintNo":"A3000","Version":"D","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-22T12:54:24.572465Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-01-22T12:54:24.572465Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-08","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-08"},{"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Finance"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-08"},{"Type":"PASSED_SENATE","Date":"2025-05-08"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-05-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-05-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-05-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-22","Chamber":"ASSEMBLY"},
@@ -29,7 +29,8 @@
   {"Text":"3RD READING CAL.969","Date":"2025-05-08","Chamber":"SENATE","Version":"D"},
   {"Text":"PASSED SENATE","Date":"2025-05-08","Chamber":"SENATE","Version":"D"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-08","Chamber":"SENATE","Version":"D"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"D"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"SIGNED CHAP.50","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"D"}
  ],
  "Votes":[
   {

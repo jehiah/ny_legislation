@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4483","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-05T15:22:48.079411Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-05","Committee":"Local Government"},
   {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-03-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-05","Committee":"Local Governments"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-05","Committee":"Local Governments"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-05","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-05","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A6685","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.267","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

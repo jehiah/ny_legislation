@@ -1,9 +1,10 @@
 {
  "PrintNo":"S1060","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T15:11:06.029417Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_SENATE","Date":"2025-06-06"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Corporations, Authorities And Commissions"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -12,7 +13,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -94,7 +96,7 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],

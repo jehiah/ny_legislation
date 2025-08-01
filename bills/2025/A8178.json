@@ -1,11 +1,16 @@
 {
- "PrintNo":"A8178","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-05T17:15:39.514704Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-05","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8178","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-05T17:15:39.514704Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Governmental Employees"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8178A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1244,"Name":"Charles Fall","Short":"FALL"}],
  "Title":"Relates to increasing the mandatory retirement age for New York police department members",
  "Summary":"Relates to increasing the mandatory retirement age for New York police department members from 62 to 65.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §§501 & 503, R & SS L",
- "ActClause":"AN ACT to amend the retirement and social security law, in relation to increasing the mandatory retirement age for New York police department members"
+ "ActClause":"AN ACT to amend the retirement and social security law, in relation to increasing the mandatory retirement age for New York police department members",
+ "SameAsPrintNo":"S5053-2025"
 }

@@ -1,8 +1,13 @@
 {
- "PrintNo":"A2127","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:24:33.548214Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2127","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:24:33.548214Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-08-01","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-08-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2127A","Date":"2025-08-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
   {"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
@@ -15,5 +20,5 @@
  "LawSection":"Public Authorities Law",
  "LawCode":"Add Art 5 Title 1-C §§1022 - 1022-z, amd §§51 & 1005, Pub Auth L; add §1413, N-PC L",
  "ActClause":"AN ACT to amend the public authorities law, in relation to establishing the Hudson Valley power authority, and providing for its powers and duties; to amend the public authorities law, in relation to the New York power authority; and to amend the not-for-profit corporation law, in relation to establishing energy observatory corporations",
- "PreviousVersions":["A10332-2023"]
+ "SameAsPrintNo":"S2026-2025","PreviousVersions":["A10332-2023"]
 }

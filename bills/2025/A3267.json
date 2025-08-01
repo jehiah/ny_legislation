@@ -1,11 +1,12 @@
 {
  "PrintNo":"A3267","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T10:34:38.458661Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Higher Education"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-03"},
   {"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-04"},{"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-04"},{"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"},
+  {"Type":"SIGNED_BY_GOV","Date":"2025-06-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-27","Chamber":"ASSEMBLY"},
@@ -18,7 +19,8 @@
   {"Text":"3RD READING CAL.1079","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.157","Date":"2025-06-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

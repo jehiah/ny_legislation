@@ -1,11 +1,36 @@
 {
  "PrintNo":"A2731","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-22T09:30:30.473403Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-22","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-22","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-22","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-19","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2025-05-19","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1540,"Short":"MAHER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
  "Title":"Relates to the authority of certain existing assisted living programs to expand capacity by nine or fewer beds under an expedited process",
  "Summary":"Authorizes certain existing assisted living programs to expand capacity by nine or fewer beds under an expedited process.",
  "LawSection":"Social Services Law","LawCode":"Amd §461-l, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to authority for existing assisted living programs to expand capacity by nine or fewer beds under an expedited process"
+ "ActClause":"AN ACT to amend the social services law, in relation to authority for existing assisted living programs to expand capacity by nine or fewer beds under an expedited process",
+ "SameAsPrintNo":"S7859-2025"
 }

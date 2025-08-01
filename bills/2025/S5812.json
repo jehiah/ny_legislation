@@ -1,9 +1,10 @@
 {
  "PrintNo":"S5812","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-03T11:42:28.999712Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-20"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Health"}
+  {"Type":"PASSED_SENATE","Date":"2025-05-20"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Health"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-03","Chamber":"SENATE"},
@@ -12,7 +13,9 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-01","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-20","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A8004","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.242","Date":"2025-05-21","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -102,7 +105,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
+ "Sponsors":[
+  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+ ],
  "Title":"Prohibits approved providers of child health insurance coverage from discriminating against health care providers not participating in the insurer's network",
  "Summary":"Prohibits approved organizations providing coverage under the child health insurance plan from discriminating against health care providers which do not participate in the organization's health care network.",
  "LawSection":"Public Health Law","LawCode":"Amd §2511, Pub Health L",

@@ -1,11 +1,11 @@
 {
  "PrintNo":"S6757","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-24T09:54:50.307534Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-24","Committee":"Alcoholism And Substance Use Disorders"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-20"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Alcoholism And Drug Abuse"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-03-24","Chamber":"SENATE"},
@@ -16,7 +16,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-06-05","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A8459","Date":"2025-06-10","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.587","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.587","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

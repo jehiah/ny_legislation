@@ -1,9 +1,10 @@
 {
  "PrintNo":"S7416","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-15T13:53:14.228558Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Published":"2025-04-15T13:53:14.228558Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-15","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-13"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-05"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Judiciary"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-05"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Judiciary"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-15","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"AMENDED ON THIRD READING 7416A","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A7856A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.456","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -80,7 +85,7 @@
     {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Nay"},
     {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},

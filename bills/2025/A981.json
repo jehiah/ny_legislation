@@ -2,7 +2,26 @@
  "PrintNo":"A981","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T15:35:54.200228Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Small Business",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Small Business"}],
- "Actions":[{"Text":"REFERRED TO SMALL BUSINESS","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO SMALL BUSINESS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN SMALL BUSINESS","Date":"2025-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-20","Chamber":"ASSEMBLY","Committee":"SMALL BUSINESS",
+   "Votes":[
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1120,"Short":"JONES","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Nay"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Nay"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},{"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"},
   {"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},

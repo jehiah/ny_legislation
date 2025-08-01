@@ -1,9 +1,10 @@
 {
  "PrintNo":"S5037","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-18T13:22:17.199546Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-18","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-27"},{"Type":"PASSED_SENATE","Date":"2025-06-06"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-27"},{"Type":"PASSED_SENATE","Date":"2025-06-06"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-18","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -91,19 +93,20 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Excused"}
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],
  "Sponsors":[
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
-  {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
-  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
-  {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
-  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
-  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}
+  {"ID":1552,"Name":"April Baskin","Short":"BASKIN"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
+  {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},
+  {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
+  {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}
  ],
  "Title":"Establishes visiting policies for incarcerated individuals",
  "Summary":"Establishes visiting policies for incarcerated people, to provide incarcerated people opportunities for personal contact with relatives, friends, clergy, volunteers and other persons to promote better institutional adjustment and better community adjustment upon release.",

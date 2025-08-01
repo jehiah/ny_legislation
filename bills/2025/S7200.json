@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7200","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-03T14:25:16.737016Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-04-03T14:25:16.737016Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-17","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-03","Chamber":"SENATE"},
@@ -16,7 +17,11 @@
   {"Text":"AMENDED ON THIRD READING 7200B","Date":"2025-05-27","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED FOR A2163B","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.485","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -93,7 +98,7 @@
     {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
     {"ID":396,"Name":"Andrea Stewart-Cousins","Short":"STEWART-COUSINS","Vote":"Aye"},
-    {"ID":1572,"Name":"Sam Sutton","Short":"Sutton","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
     {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
@@ -106,7 +111,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
+ "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"}],
  "Title":"Relates to vintage snowmobile registrations",
  "Summary":"Relates to vintage snowmobile registrations for snowmobiles manufactured more than thirty years prior.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §2222, V & T L; amd §21.07, Pks & Rec L",

@@ -1,12 +1,12 @@
 {
  "PrintNo":"S7672","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-28T19:38:28.331243Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-04-28T19:38:28.331243Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-05"},
   {"Type":"PASSED_SENATE","Date":"2025-05-12"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-12","Committee":"Local Governments"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-19"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-19"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"},{"Type":"SIGNED_BY_GOV","Date":"2025-06-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-04-28","Chamber":"SENATE"},
@@ -19,7 +19,8 @@
   {"Text":"ORDERED TO THIRD READING CAL.67","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.177","Date":"2025-06-26","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

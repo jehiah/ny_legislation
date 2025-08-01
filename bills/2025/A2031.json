@@ -5,7 +5,22 @@
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-14","Chamber":"ASSEMBLY"},
   {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2025-01-15","Chamber":"ASSEMBLY"},
-  {"Text":"OPINION REFERRED TO JUDICIARY","Date":"2025-01-29","Chamber":"ASSEMBLY"}
+  {"Text":"OPINION REFERRED TO JUDICIARY","Date":"2025-01-29","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN GOVERNMENTAL OPERATIONS","Date":"2025-05-27","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2025-05-27","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1540,"Name":"Brian Maher","Short":"MAHER"},{"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"}],
  "Title":"Establishes term limits for the office of governor and for members of the legislature",

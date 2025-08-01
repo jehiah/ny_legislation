@@ -1,12 +1,12 @@
 {
  "PrintNo":"A4390","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T10:22:26.735632Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Local Government"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-06"},{"Type":"PASSED_SENATE","Date":"2025-06-06"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-06-26"},{"Type":"SIGNED_BY_GOV","Date":"2025-06-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-02-04","Chamber":"ASSEMBLY"},
@@ -22,7 +22,8 @@
   {"Text":"3RD READING CAL.1490","Date":"2025-06-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-06-26","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.158","Date":"2025-06-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S1798","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T15:50:12.258639Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-20"},{"Type":"PASSED_SENATE","Date":"2025-03-27"}
+  {"Type":"SENATE_FLOOR","Date":"2025-03-20"},{"Type":"PASSED_SENATE","Date":"2025-03-27"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-27","Committee":"Transportation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-13","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-03-19","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-27","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-27","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-27","Chamber":"SENATE"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,11 +1,16 @@
 {
- "PrintNo":"S8289","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-30T10:01:53.616764Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
+ "PrintNo":"S8289","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-30T10:01:53.616764Z","Status":"IN_SENATE_COMM","Committee":"Health",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-30","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-05-30","Chamber":"SENATE"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-30","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-05-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8289A","Date":"2025-05-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],
- "Title":"Authorizes the department of public health to designate a level one or level two trauma center in Far Rockaway, county of Queens",
- "Summary":"Authorizes the department of public health to designate a level one or level two trauma center in Far Rockaway, county of Queens.",
+ "Title":"Authorizes the department of health to designate a level one or level two trauma center in Far Rockaway, county of Queens",
+ "Summary":"Authorizes the department of health to designate a level one or level two trauma center in Far Rockaway, county of Queens.",
  "LawSection":"Queens County",
- "ActClause":"AN ACT in relation to authorizing the department of public health to designate a level one or level two trauma center in Far Rockaway, county of Queens"
+ "ActClause":"AN ACT in relation to authorizing the department of health to designate a level one or level two trauma center in Far Rockaway, county of Queens",
+ "SameAsPrintNo":"A8686-2025"
 }
