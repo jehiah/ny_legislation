@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8597","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-22T14:14:06.927544Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-08-04"},{"Type":"SIGNED_BY_GOV","Date":"2025-08-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-22","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S7976","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1562","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-08-04","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.243","Date":"2025-08-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -184,7 +187,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}],
+ "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"}],
  "Title":"Extends provisions of law relating to big game hunting authorization for the county of Onondaga",
  "Summary":"Extends provisions of law relating to big game hunting authorization for the county of Onondaga until October 1, 2027.",
  "LawSection":"Environmental Conservation","LawCode":"Amd §5, Chap 230 of 2023",

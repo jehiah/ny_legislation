@@ -1,11 +1,12 @@
 {
  "PrintNo":"A6223","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-27T11:37:20.113543Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-27","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-19"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-05-27"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-05-27"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-08-04"},{"Type":"SIGNED_BY_GOV","Date":"2025-08-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-27","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S5747","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.830","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-27","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-27","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-08-04","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.218","Date":"2025-08-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

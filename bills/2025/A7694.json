@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7694","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-04T17:22:50.947483Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-27"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"},{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Labor"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-08-04"},{"Type":"SIGNED_BY_GOV","Date":"2025-08-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-04-04","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S8231","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1578","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-08-04","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.233","Date":"2025-08-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,10 +1,11 @@
 {
  "PrintNo":"A6595","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T14:59:10.210571Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-20"},{"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Insurance"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-08-04"},{"Type":"SIGNED_BY_GOV","Date":"2025-08-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-06","Chamber":"ASSEMBLY"},
@@ -16,7 +17,9 @@
   {"Text":"SUBSTITUTED FOR S7221","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1451","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-08-04","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.222","Date":"2025-08-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
