@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7994","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-16T15:24:26.411722Z","Status":"PASSED_SENATE",
+ "Published":"2025-04-16T15:24:26.411722Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"},{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-08-22"},{"Type":"SIGNED_BY_GOV","Date":"2025-08-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-16","Chamber":"ASSEMBLY"},
@@ -29,7 +30,9 @@
   {"Text":"SUBSTITUTED FOR S7364B","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.2002","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-08-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.355","Date":"2025-08-26","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
