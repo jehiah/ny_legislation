@@ -1,8 +1,12 @@
 {
- "PrintNo":"A478","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:09:29.692097Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A478","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T12:09:29.692097Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-08-27","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-08-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 478A","Date":"2025-08-27","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1135,"Name":"Angelo J. Morinello","Short":"MORINELLO"},
@@ -15,9 +19,9 @@
   {"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"},
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"}
  ],
- "Title":"Enacts the \"New York state YouthBuild act\"",
- "Summary":"Enacts the \"New York state YouthBuild act\"; sets program requirements; authorizes grants to eligible YouthBuild participants; establishes application requirements.",
+ "Title":"Enacts the \"Velmanette Montgomery YouthBuild act\"",
+ "Summary":"Enacts the \"Velmanette Montgomery YouthBuild act\"; sets program requirements; authorizes grants to eligible YouthBuild participants; establishes application requirements.",
  "LawSection":"Labor Law","LawCode":"Add §42-a, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to enacting the \"New York state YouthBuild act\"; setting program requirements; authorizing the commissioner of labor to make grants to eligible YouthBuild programs and to establish application requirements; and to expand the number of YouthBuild programs across New York state",
- "PreviousVersions":["S8073-2017","A9587-2019","A3343-2021","A4260-2023"]
+ "ActClause":"AN ACT to amend the labor law, in relation to enacting the \"Velmanette Montgomery YouthBuild act\"; setting program requirements; authorizing the commissioner of labor to make grants to eligible YouthBuild programs and to establish application requirements; and to expand the number of YouthBuild programs across New York state",
+ "SameAsPrintNo":"S4756-2025","PreviousVersions":["S8073-2017","A9587-2019","A3343-2021","A4260-2023"]
 }

@@ -1,17 +1,21 @@
 {
- "PrintNo":"A5891","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:46:51.977538Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5891","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-24T09:46:51.977538Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-08-27","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-08-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5891A","Date":"2025-08-27","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"}
  ],
- "Title":"Establishes a tax on noise from non-essential helicopter and seaplane flights in N.Y. City",
+ "Title":"Establishes a tax on noise from non-essential helicopter and seaplane flights in cities with a population of one million or more",
  "Summary":"Establishes a tax on noise from non-essential helicopter and seaplane flights in cities with a population of one million or more.",
  "LawSection":"Tax Law","LawCode":"Add Art 12-B §§289-g - 289-o, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to establishing a tax on noise emissions from non-essential helicopter and seaplane flights in cities with a population of one million or more",
- "PreviousVersions":["S7216-2023"]
+ "SameAsPrintNo":"S1140-2025","PreviousVersions":["S7216-2023"]
 }

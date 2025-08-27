@@ -1,8 +1,12 @@
 {
- "PrintNo":"A7944","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-16T15:02:59.44765Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-16","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-04-16","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7944","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-16T15:02:59.44765Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-08-27","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-04-16","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-08-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7944A","Date":"2025-08-27","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
   {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
@@ -12,7 +16,7 @@
  ],
  "Title":"Ensures continuity of care for cancer patients during insurance contract negotiations",
  "Summary":"Ensures continuity of care for cancer patients during insurance contract negotiations by requiring insurance coverage and treatment continue until the conclusion of care.",
- "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L; add §2404-e, Pub Health L",
+ "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L; add §§4406-j & 2404-e, Pub Health L",
  "ActClause":"AN ACT to amend the insurance law and the public health law, in relation to ensuring continuity of care for cancer patients during insurance contract negotiations",
  "SameAsPrintNo":"S7987-2025"
 }
