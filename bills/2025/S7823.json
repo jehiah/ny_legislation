@@ -1,12 +1,15 @@
 {
- "PrintNo":"S7823","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T11:24:39.762064Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-09","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-05-09","Chamber":"SENATE"}],
+ "PrintNo":"S7823","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-09T11:24:39.762064Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-08-29","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-09","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-08-29","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7823A","Date":"2025-08-29","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}],
- "Title":"Removes the requirement to follow the centers for disease control and prevention recommendation for immunization against meningococcal disease",
- "Summary":"Removes the requirement to follow the advisory committee on immunization practices of the centers for disease control and prevention recommendation for immunization against meningococcal disease.",
- "LawSection":"Public Health Law","LawCode":"Amd §2164, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to removing the requirement to follow the centers for disease control and prevention recommendation for immunization against meningococcal disease",
- "SameAsPrintNo":"A8383-2025"
+ "Title":"Relates to the administration of certain immunizations",
+ "Summary":"Authorizes a licensed pharmacist to administer any recommendations made by the commissioner of health pertaining to a vaccine that has been authorized by the federal Food and Drug Administration; removes the requirement to follow the advisory committee on immunization practices of the centers for disease control and prevention recommendation for immunization against meningococcal disease.",
+ "LawSection":"Education Law","LawCode":"Amd §6801, Ed L; amd §2164, Pub Health L",
+ "ActClause":"AN ACT to amend the education law, in relation to authorizing the administration of immunizations pursuant to recommendations made by the commissioner of health; and to amend the public health law, in relation to removing the requirement to follow the centers for disease control and prevention recommendation for immunization against meningococcal disease"
 }
