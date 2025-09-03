@@ -3,7 +3,11 @@
  "Status":"IN_SENATE_COMM","Committee":"Rules",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-08-29","Committee":"Rules"}],
  "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-08-29","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1490,"Name":"Dan Stec","Short":"STEC"}],"Title":"Establishes a digital legal mail program",
+ "Sponsors":[
+  {"ID":1490,"Name":"Dan Stec","Short":"STEC"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
+  {"ID":951,"Name":"Pamela Helming","Short":"HELMING"}
+ ],
+ "Title":"Establishes a digital legal mail program",
  "Summary":"Establishes a digital legal mail program for the delivery of privileged correspondences to incarcerated individuals housed at correctional facilities; requires law offices sending legal mail via digital platforms to incarcerated individuals to register with the department of corrections.",
  "LawSection":"Correction Law","LawCode":"Amd §112, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to establishing a digital legal mail program"

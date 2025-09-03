@@ -1,16 +1,20 @@
 {
- "PrintNo":"A8383","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-13T14:48:07.098088Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-05-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8383","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-13T14:48:07.098088Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-09-03","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-09-03","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8383A","Date":"2025-09-03","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
-  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"}
+  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
  ],
- "Title":"Removes the requirement to follow the centers for disease control and prevention recommendation for immunization against meningococcal disease",
+ "Title":"Relates to the administration of certain immunizations",
  "Summary":"Removes the requirement to follow the advisory committee on immunization practices of the centers for disease control and prevention recommendation for immunization against meningococcal disease.",
- "LawSection":"Public Health Law","LawCode":"Amd §2164, Pub Health L",
+ "LawSection":"Education Law","LawCode":"Amd §2164, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to removing the requirement to follow the centers for disease control and prevention recommendation for immunization against meningococcal disease"
 }
