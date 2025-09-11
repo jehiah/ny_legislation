@@ -1,11 +1,12 @@
 {
  "PrintNo":"S7796","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-06T15:49:00.984825Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-05-06T15:49:00.984825Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_SENATE","Date":"2025-06-10"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-05"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-06","Chamber":"SENATE"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR A8180A","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.822","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.405","Date":"2025-09-10","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

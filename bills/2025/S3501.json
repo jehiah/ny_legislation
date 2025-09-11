@@ -1,11 +1,12 @@
 {
  "PrintNo":"S3501","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-28T09:24:07.466363Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-28T09:24:07.466363Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"},
   {"Type":"PASSED_SENATE","Date":"2025-06-10"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Transportation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-05"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-28","Chamber":"SENATE"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR A3347A","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.925","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-05","Chamber":"SENATE","Version":"B"},
+  {"Text":"SIGNED CHAP.389","Date":"2025-09-10","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"S5446","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-21T13:42:53.680357Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-02-21T13:42:53.680357Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"},
   {"Type":"PASSED_SENATE","Date":"2025-06-10"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-05"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-21","Chamber":"SENATE"},
@@ -23,7 +24,9 @@
   {"Text":"SUBSTITUTED FOR A6643C","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.658","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-05","Chamber":"SENATE","Version":"C"},
+  {"Text":"SIGNED CHAP.391","Date":"2025-09-10","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

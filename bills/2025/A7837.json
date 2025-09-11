@@ -1,11 +1,12 @@
 {
  "PrintNo":"A7837","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T14:58:07.941103Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-05"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-04-11","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S7201","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1999","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-05","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.380","Date":"2025-09-10","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

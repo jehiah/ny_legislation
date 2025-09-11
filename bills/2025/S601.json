@@ -1,11 +1,12 @@
 {
  "PrintNo":"S601","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-02T15:34:11.912245Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-02T15:34:11.912245Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-13"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Transportation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-05"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -23,7 +24,9 @@
   {"Text":"SUBSTITUTED FOR A7452B","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.906","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-05","Chamber":"SENATE","Version":"C"},
+  {"Text":"SIGNED CHAP.386","Date":"2025-09-10","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A2123","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-15T15:20:43.133916Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-15T15:20:43.133916Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-15","Committee":"Governmental Employees"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-04"},
   {"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-13"},{"Type":"PASSED_SENATE","Date":"2025-05-13"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-13"},{"Type":"PASSED_SENATE","Date":"2025-05-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-10"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-15","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S1165A","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.554","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-13","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.370","Date":"2025-09-10","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

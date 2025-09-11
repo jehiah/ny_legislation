@@ -1,11 +1,12 @@
 {
  "PrintNo":"A6593","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T14:58:36.960502Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-30"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-04-30"},
   {"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-05"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-03-06","Chamber":"ASSEMBLY"},
@@ -20,7 +21,9 @@
   {"Text":"SUBSTITUTED FOR S6159","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1154","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-05","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.375","Date":"2025-09-10","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
