@@ -1,14 +1,19 @@
 {
- "PrintNo":"A9060","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-09-05T10:36:53.759305Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-09-05","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-09-05","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A9060","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-09-05T10:36:53.759305Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-09-12","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-09-05","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-09-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9060A","Date":"2025-09-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"}
  ],
  "Title":"Expands the entities that may make recommendations for administering immunizations to include the immunization advisory council and the 21st century workgroup for disease elimination and reduction",
  "Summary":"Expands the entities that may make recommendations for administering immunizations to include the immunization advisory council and the 21st century workgroup for disease elimination and reduction.",
- "LawSection":"Education Law","LawCode":"Amd §§6527, 6801, 6802 & 6909, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to entities authorized to make recommendations on the administration of immunizations"
+ "LawSection":"Education Law","LawCode":"Amd §§6527, 6801, 6802 & 6909, Ed L; amd §§3216, 3221, 4303 & 4322, Ins L",
+ "ActClause":"AN ACT to amend the education law and the insurance law, in relation to entities authorized to make recommendations on the administration of immunizations",
+ "SameAsPrintNo":"S8496-2025"
 }
