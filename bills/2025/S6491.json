@@ -1,16 +1,20 @@
 {
- "PrintNo":"S6491","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S6491","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-03-14T14:43:30.445328Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-17","Committee":"Energy And Telecommunications"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-09-17","Committee":"Energy And Telecommunications"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-14","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-17","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 6491A","Date":"2025-03-17","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6491A","Date":"2025-03-17","Chamber":"SENATE","Version":"A"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-09-17","Chamber":"SENATE",
+   "Version":"A"
+  },
+  {"Text":"PRINT NUMBER 6491B","Date":"2025-09-17","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
- "Title":"Prohibits electric corporations, gas corporations and utilities from increasing charges due to federal tariffs",
- "Summary":"Prohibits electric corporations, gas corporations and utilities from passing along costs or increasing charges to ratepayers for electricity and natural gas, or any associated goods and services, as a result of increased costs incurred by such corporation due to tariffs placed by the government of the United States on the importation of goods, services or materials from countries outside the United States or due to tariffs placed by the governments of countries or their political subdivisions on the exportation of goods, services, or materials to the United States.",
- "LawSection":"Public Service Law","LawCode":"Amd §66, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to prohibiting electric corporations and gas corporations from increasing charges due to tariffs imposed by the United States or governments of countries or their political subdivisions outside the United States",
- "SameAsPrintNo":"A6960-2025"
+ "Title":"Requires electric corporations and gas corporations to provide, as part of every billing statement, a tariff cost estimate in a clear, conspicuous and easily understandable manner",
+ "Summary":"Requires electric corporations and gas corporations to provide, as part of every billing statement, a tariff cost estimate in a clear, conspicuous and easily understandable manner; requires such corporations to include an itemized disclosure of the primary cost components comprising the delivery portion of the bill.",
+ "LawSection":"Public Service Law","LawCode":"Amd §44, Pub Serv L",
+ "ActClause":"AN ACT to amend the public service law, in relation to increasing the transparency of tariff and delivery charges in electricity and natural gas bills"
 }
