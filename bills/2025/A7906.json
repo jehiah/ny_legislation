@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7906","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-11T15:16:52.119944Z","Status":"PASSED_SENATE",
+ "Published":"2025-04-11T15:16:52.119944Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-11","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-19"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-28"},{"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Insurance"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-04-11","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S7287A","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.927","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

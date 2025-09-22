@@ -1,11 +1,11 @@
 {
  "PrintNo":"A5600","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-18T09:58:42.697287Z","Status":"PASSED_SENATE",
+ "Published":"2025-02-18T09:58:42.697287Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-30","Committee":"Rules 5600a"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"},
   {"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-12"}
+  {"Type":"PASSED_SENATE","Date":"2025-06-12"},{"Type":"DELIVERED_TO_GOV","Date":"2025-09-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-18","Chamber":"ASSEMBLY"},
@@ -20,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S5347A","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1449","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
