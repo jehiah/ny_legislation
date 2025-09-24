@@ -1,12 +1,20 @@
 {
- "PrintNo":"A5066","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-11T13:02:06.603387Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-11","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-11","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5066","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-11T13:02:06.603387Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-09-24","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-11","Chamber":"ASSEMBLY"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-09-24",
+   "Chamber":"ASSEMBLY"
+  },
+  {"Text":"PRINT NUMBER 5066A","Date":"2025-09-24","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}],
- "Title":"Relates to the ceremonial designation of the Franklin Delano Roosevelt Mid-Hudson bridge as the \"Franklin and Eleanor Roosevelt Mid-Hudson Bridge\"",
- "Summary":"Designates the Franklin Delano Roosevelt Mid-Hudson bridge as the \"Franklin and Eleanor Roosevelt Mid-Hudson Bridge\".",
+ "Title":"Relates to the dedication of the Franklin Delano Roosevelt Mid-Hudson bridge",
+ "Summary":"Dedicates the Franklin Delano Roosevelt Mid-Hudson bridge to Franklin and Eleanor Roosevelt.",
  "LawSection":"Public Authorities Law","LawCode":"Add §526-c, Pub Auth L",
- "ActClause":"AN ACT to amend the public authorities law, in relation to the ceremonial designation of the Franklin Delano Roosevelt Mid-Hudson bridge as the \"Franklin and Eleanor Roosevelt Mid-Hudson Bridge\"",
- "SameAsPrintNo":"S5003-2025","PreviousVersions":["S7836-2019","A10546-2021","A2340-2023"]
+ "ActClause":"AN ACT to amend the public authorities law, in relation to the dedication of the Franklin Delano Roosevelt Mid-Hudson bridge",
+ "PreviousVersions":["S7836-2019","A10546-2021","A2340-2023"]
 }

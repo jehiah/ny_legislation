@@ -1,10 +1,12 @@
 {
- "PrintNo":"A7003","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:30:52.145098Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Codes"}],
+ "PrintNo":"A7003","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-18T13:30:52.145098Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-09-24","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-03-18","Chamber":"ASSEMBLY"},
-  {"Text":"HELD FOR CONSIDERATION IN CODES","Date":"2025-05-13","Chamber":"ASSEMBLY"}
+  {"Text":"HELD FOR CONSIDERATION IN CODES","Date":"2025-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-09-24","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7003A","Date":"2025-09-24","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,7 +37,7 @@
   {"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"}
  ],
  "Title":"Expands the statute of limitations for certain sex offenses",
- "Summary":"Expands the statute of limitations for certain sex offenses to include sex trafficking and sex trafficking of a child.",
- "LawSection":"Criminal Procedure Law","LawCode":"Amd §30.10, CP L",
- "ActClause":"AN ACT to amend the criminal procedure law, in relation to modifying the statute of limitations for certain sex crimes"
+ "Summary":"Expands the statute of limitations for certain sex offenses to include sex trafficking and sex trafficking of a child; provides that in an action brought for human trafficking, it is not necessary to require that a criminal charge be brought or a criminal conviction be obtained as a condition of bringing a civil cause of action or receiving a civil judgment.",
+ "LawSection":"Criminal Procedure Law","LawCode":"Amd §30.10, CP L; amd §483-bb, Soc Serv L",
+ "ActClause":"AN ACT to amend the criminal procedure law, in relation to modifying the statute of limitations for certain sex crimes; and to amend the social services law, in relation to certain actions relating to human trafficking"
 }
