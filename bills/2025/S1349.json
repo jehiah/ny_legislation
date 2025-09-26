@@ -1,11 +1,12 @@
 {
  "PrintNo":"S1349","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T11:36:04.59194Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-09T11:36:04.59194Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-25","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_SENATE","Date":"2025-06-12"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-22"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-09","Chamber":"SENATE"},
@@ -34,7 +35,9 @@
   {"Text":"SUBSTITUTED FOR A3515C","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.778","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-22","Chamber":"SENATE","Version":"C"},
+  {"Text":"SIGNED CHAP.419","Date":"2025-09-26","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S2590","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:21:51.60373Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
   {"Type":"PASSED_SENATE","Date":"2025-04-01"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Education"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-22"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-21","Chamber":"SENATE"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR A6486","Date":"2025-05-21","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.224","Date":"2025-05-21","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-05-21","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-22","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.422","Date":"2025-09-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"S7222","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-04T14:19:09.483674Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-04-04T14:19:09.483674Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_SENATE","Date":"2025-06-12"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-22"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-04-04","Chamber":"SENATE"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR A6975A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.661","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.427","Date":"2025-09-26","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

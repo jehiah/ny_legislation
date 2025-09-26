@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4767","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-12T13:55:45.111746Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-03-12"},
   {"Type":"PASSED_SENATE","Date":"2025-04-28"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-28","Committee":"Codes"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-09-22"},{"Type":"SIGNED_BY_GOV","Date":"2025-09-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-12","Chamber":"SENATE"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR A8254","Date":"2025-05-29","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.353","Date":"2025-05-29","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-29","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-09-22","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.423","Date":"2025-09-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {
