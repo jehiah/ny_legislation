@@ -1,11 +1,13 @@
 {
- "PrintNo":"S5546","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S5546","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-02-24T15:16:18.033737Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-22","Committee":"Judiciary"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-10-01","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-05-22","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 5546A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 5546A","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-10-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 5546B","Date":"2025-10-01","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -16,5 +18,5 @@
  "LawSection":"Civil Practice Law and Rules",
  "LawCode":"Amd CPLR, generally; amd §§301, 401, 1911 & 2101, NYC Civ Ct Act; amd §212, Judy L; amd §1911, UCCA; amd §1911, UDCA; amd §1911, UJCA",
  "ActClause":"AN ACT to amend the civil practice law and rules, the New York city civil court act, the judiciary law, the uniform city court act, the uniform district court act and the uniform justice court act, in relation to redefining consumer credit transaction to consumer debt",
- "SameAsPrintNo":"A57-2025","PreviousVersions":["S4750-2023"]
+ "PreviousVersions":["S4750-2023"]
 }
