@@ -1,12 +1,16 @@
 {
- "PrintNo":"S3246","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T13:09:31.503235Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-24","Chamber":"SENATE"}],
+ "PrintNo":"S3246","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T13:09:31.503235Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-10-08","Committee":"Consumer Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-24","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-10-08","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3246A","Date":"2025-10-08","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
- "Title":"Makes permanent certain provisions of chapter 109 of the laws of 2018 amending the general business law relating to certain rental vehicle protections",
- "Summary":"Makes permanent certain provisions relating to certain rental vehicle protections.",
- "LawSection":"Vehicle and Traffic","LawCode":"Amd §4, Chap 109 of 2018",
+ "Title":"Relates to certain rental vehicle protections",
+ "Summary":"Relates to certain rental vehicle protections; provides that the rate caps charged by rental vehicle companies shall be tied to the consumer price index of all urban consumers over the previous year as reported by the United States Bureau of Labor Statistics; makes provisions of law permanent.",
+ "LawSection":"General Business Law","LawCode":"Amd §396-z, Gen Bus L; amd §4, Chap 109 of 2018",
  "ActClause":"AN ACT to amend chapter 109 of the laws of 2018 amending the general business law relating to certain rental vehicle protections, in relation to making such provisions permanent",
- "PreviousVersions":["S8883-2023"]
+ "SameAsPrintNo":"A8851-2025","PreviousVersions":["S8883-2023"]
 }
