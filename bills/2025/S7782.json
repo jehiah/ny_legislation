@@ -1,11 +1,13 @@
 {
  "PrintNo":"S7782","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-06T14:15:49.977107Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-05-06T14:15:49.977107Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-06","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
   {"Type":"PASSED_SENATE","Date":"2025-06-12"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"POCKET_APPROVAL","Date":"2025-10-09"},
+  {"Type":"VETOED","Date":"2025-10-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-06","Chamber":"SENATE"},
@@ -19,7 +21,9 @@
   {"Text":"SUBSTITUTED FOR A8314A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.750","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"VETOED MEMO.31","Date":"2025-10-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

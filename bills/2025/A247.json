@@ -1,10 +1,12 @@
 {
  "PrintNo":"A247","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-31T11:09:18.221703Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Finance"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"POCKET_APPROVAL","Date":"2025-10-09"},
+  {"Type":"VETOED","Date":"2025-10-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -19,7 +21,10 @@
   {"Text":"SUBSTITUTED FOR S5848","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1754","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.25","Date":"2025-10-09","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-10-10","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

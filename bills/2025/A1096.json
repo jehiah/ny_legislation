@@ -1,11 +1,13 @@
 {
  "PrintNo":"A1096","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-08T10:36:52.776758Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-08T10:36:52.776758Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-06","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-20"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"POCKET_APPROVAL","Date":"2025-10-09"},
+  {"Type":"VETOED","Date":"2025-10-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -25,7 +27,10 @@
   {"Text":"SUBSTITUTED FOR S4433A","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.322","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VETOED MEMO.26","Date":"2025-10-09","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"TABLED","Date":"2025-10-10","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
