@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7882","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-13T12:34:37.984781Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_SENATE","Date":"2025-06-09"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Codes"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-13","Chamber":"SENATE"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR A1417B","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.415","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.437","Date":"2025-10-16","Chamber":"SENATE"}
  ],
  "Votes":[
   {

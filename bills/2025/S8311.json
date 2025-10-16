@@ -1,11 +1,12 @@
 {
  "PrintNo":"S8311","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-30T15:17:22.391563Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-05-30T15:17:22.391563Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-12"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-30","Chamber":"SENATE"},
@@ -22,7 +23,9 @@
   {"Text":"SUBSTITUTED FOR A8412D","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.532","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.438","Date":"2025-10-16","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

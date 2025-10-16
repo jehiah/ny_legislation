@@ -1,11 +1,12 @@
 {
  "PrintNo":"A6869","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-14T16:31:18.950718Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-01"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-04-02"},
   {"Type":"IN_SENATE_COMM","Date":"2025-04-02","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-30"},{"Type":"PASSED_SENATE","Date":"2025-04-30"}
+  {"Type":"SENATE_FLOOR","Date":"2025-04-30"},{"Type":"PASSED_SENATE","Date":"2025-04-30"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-14","Chamber":"ASSEMBLY"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR S7320","Date":"2025-04-30","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.691","Date":"2025-04-30","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.435","Date":"2025-10-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

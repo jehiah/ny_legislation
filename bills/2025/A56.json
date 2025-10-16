@@ -1,10 +1,11 @@
 {
  "PrintNo":"A56","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-18T15:28:38.48253Z","Status":"PASSED_SENATE",
+ "Published":"2024-12-18T15:28:38.48253Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Housing"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-20"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"},{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Judiciary"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -24,7 +25,9 @@
   {"Text":"SUBSTITUTED FOR S3845B","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1420","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
   {"Text":"REPASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.431","Date":"2025-10-16","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
