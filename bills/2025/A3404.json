@@ -1,10 +1,12 @@
 {
  "PrintNo":"A3404","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-27T11:18:06.036551Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-27T11:18:06.036551Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-01"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-12"},{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Health"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_SENATE","Date":"2025-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_SENATE","Date":"2025-05-21"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"POCKET_APPROVAL","Date":"2025-10-16"},
+  {"Type":"VETOED","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"ASSEMBLY"},
@@ -17,7 +19,10 @@
   {"Text":"SUBSTITUTED FOR S6223A","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1091","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VETOED MEMO.42","Date":"2025-10-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"TABLED","Date":"2025-10-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -134,7 +139,7 @@
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
-  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}
  ],
  "Title":"Relates to permitting an interpreter to remain with a deaf, hard of hearing or nonverbal patient during admission to a hospital",
  "Summary":"Requires hospitals to permit an interpreter to remain with a deaf, hard of hearing or nonverbal patient during admission to a hospital until appropriate hospital staff is assigned to interpret.",

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8348","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-13T14:35:30.318689Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-13","Chamber":"ASSEMBLY"},
@@ -20,7 +21,9 @@
   {"Text":"SUBSTITUTED FOR S7790","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1906","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.458","Date":"2025-10-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

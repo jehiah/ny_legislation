@@ -1,11 +1,12 @@
 {
  "PrintNo":"S6618","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-18T11:28:03.331956Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-03-18T11:28:03.331956Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-13"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-18","Chamber":"SENATE"},
@@ -20,7 +21,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.673","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"HOME RULE REQUEST","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.469","Date":"2025-10-16","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

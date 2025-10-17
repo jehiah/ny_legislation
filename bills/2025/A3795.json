@@ -1,10 +1,11 @@
 {
  "PrintNo":"A3795","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T11:38:05.730965Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-30","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-03-04"},{"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Insurance"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-14"},{"Type":"PASSED_SENATE","Date":"2025-05-14"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-14"},{"Type":"PASSED_SENATE","Date":"2025-05-14"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"},
@@ -16,7 +17,9 @@
   {"Text":"SUBSTITUTED FOR S698","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.919","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-14","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-14","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.448","Date":"2025-10-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,11 +1,13 @@
 {
  "PrintNo":"A1817","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T10:20:38.796351Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Social Services"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"POCKET_APPROVAL","Date":"2025-10-16"},
+  {"Type":"VETOED","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
@@ -20,7 +22,10 @@
   {"Text":"SUBSTITUTED FOR S7741","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1773","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.36","Date":"2025-10-16","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-10-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

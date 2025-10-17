@@ -1,10 +1,11 @@
 {
  "PrintNo":"A7341","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-25T16:07:03.161069Z","Status":"PASSED_SENATE",
+ "Published":"2025-03-25T16:07:03.161069Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"},{"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-03-25","Chamber":"ASSEMBLY"},
@@ -26,7 +27,9 @@
   {"Text":"3RD READING CAL.1896","Date":"2025-06-12","Chamber":"SENATE","Version":"C"},
   {"Text":"HOME RULE REQUEST","Date":"2025-06-12","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"C"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"C"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SIGNED CHAP.452","Date":"2025-10-16","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"S4906","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-14T10:10:19.245907Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-02-14T10:10:19.245907Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Crime Victims, Crime And Correction"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},{"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},
+  {"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-14","Chamber":"SENATE"},
@@ -25,7 +26,9 @@
   {"Text":"SUBSTITUTED FOR A6055A","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.504","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.468","Date":"2025-10-16","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

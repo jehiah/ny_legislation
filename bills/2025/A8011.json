@@ -1,10 +1,11 @@
 {
  "PrintNo":"A8011","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-21T15:51:08.78467Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-04-21","Chamber":"ASSEMBLY"},
@@ -20,7 +21,9 @@
   {"Text":"3RD READING CAL.1444","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"HOME RULE REQUEST","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.455","Date":"2025-10-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

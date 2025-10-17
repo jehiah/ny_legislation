@@ -1,10 +1,12 @@
 {
  "PrintNo":"A1433","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-09T13:11:26.619704Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-09T13:11:26.619704Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-19"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"},{"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Insurance"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"POCKET_APPROVAL","Date":"2025-10-16"},
+  {"Type":"VETOED","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -17,7 +19,10 @@
   {"Text":"SUBSTITUTED FOR S5324A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1691","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VETOED MEMO.34","Date":"2025-10-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"TABLED","Date":"2025-10-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,11 +1,13 @@
 {
  "PrintNo":"S1224","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T14:46:43.0504Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
   {"Type":"PASSED_SENATE","Date":"2025-06-11"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"POCKET_APPROVAL","Date":"2025-10-16"},
+  {"Type":"VETOED","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
@@ -18,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR A957","Date":"2025-06-13","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.707","Date":"2025-06-13","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"SENATE"},
+  {"Text":"VETOED MEMO.45","Date":"2025-10-16","Chamber":"SENATE"}
  ],
  "Votes":[
   {

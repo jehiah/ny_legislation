@@ -1,10 +1,12 @@
 {
  "PrintNo":"A7321","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-25T16:05:40.271795Z","Status":"PASSED_SENATE",
+ "Published":"2025-03-25T16:05:40.271795Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"POCKET_APPROVAL","Date":"2025-10-16"},
+  {"Type":"VETOED","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-25","Chamber":"ASSEMBLY"},
@@ -18,7 +20,10 @@
   {"Text":"SUBSTITUTED FOR S3654A","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1738","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VETOED MEMO.44","Date":"2025-10-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"TABLED","Date":"2025-10-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -135,7 +140,7 @@
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},
   {"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},
-  {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"}
+  {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}
  ],
  "Title":"Requires health insurers to provide coverage for speech therapy for stuttering",
  "Summary":"Requires health insurers to provide coverage for speech therapy for stuttering.",

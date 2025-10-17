@@ -1,10 +1,12 @@
 {
  "PrintNo":"A174","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-23T12:03:08.981018Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},{"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-09"},{"Type":"POCKET_APPROVAL","Date":"2025-10-16"},
+  {"Type":"VETOED","Date":"2025-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -19,7 +21,10 @@
   {"Text":"SUBSTITUTED FOR S1163","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1960","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-09","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.32","Date":"2025-10-16","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-10-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
