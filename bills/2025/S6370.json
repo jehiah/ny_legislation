@@ -1,8 +1,12 @@
 {
- "PrintNo":"S6370","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-11T15:46:07.953669Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-11","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-11","Chamber":"SENATE"}],
+ "PrintNo":"S6370","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-11T15:46:07.953669Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-10-27","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-11","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-10-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6370A","Date":"2025-10-27","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Requires the commissioner of transportation to submit a biennial twenty-year capital needs assessment report to the governor and the legislature",
  "Summary":"Requires the commissioner of transportation to submit a biennial twenty-year capital needs assessment report on the physical conditions, operational performance and investment needs of the state's transportation infrastructure to the governor and the legislature.",
