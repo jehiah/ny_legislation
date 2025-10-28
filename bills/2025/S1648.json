@@ -1,11 +1,11 @@
 {
  "PrintNo":"S1648","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T09:51:44.192525Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Codes"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2025-03-14","Chamber":"SENATE"},
-  {"Text":"DEFEATED IN CODES","Date":"2025-05-05","Chamber":"SENATE"}
+  {"Text":"DEFEATED IN CODES","Date":"2025-05-05","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2025-08-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -30,7 +30,8 @@
  "Sponsors":[
   {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
-  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Authorizes bail for principals charged with aggravated cruelty to animals",
  "Summary":"Authorizes bail for principals charged with aggravated cruelty to animals.",
