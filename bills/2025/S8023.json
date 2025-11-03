@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8023","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T15:31:32.612725Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-15","Committee":"Civil Service And Pensions"}],
- "Actions":[{"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"}],
+ "PrintNo":"S8023","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T15:31:32.612725Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-11-03","Committee":"Civil Service And Pensions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-11-03","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8023A","Date":"2025-11-03","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Provides for cost of living adjustments for certain retirees",
  "Summary":"Decreases the time period before certain retirees receive a cost of living adjustment to their benefits.",
