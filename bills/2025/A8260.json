@@ -1,17 +1,21 @@
 {
- "PrintNo":"A8260","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-05T18:03:52.645265Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-05","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8260","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-05T18:03:52.645265Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-11-14","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-11-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8260A","Date":"2025-11-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
  ],
- "Title":"Relates to banning push notifications from fast food mobile applications to minors",
- "Summary":"Bans push notifications from fast food mobile applications to minors.","LawSection":"General Business Law",
- "LawCode":"Add §390-f, Gen Bus L",
+ "Title":"Relates to banning push notifications from a food service establishment or a third-party delivery platform to minors",
+ "Summary":"Bans push notifications from a food service establishment or a third-party delivery platform to minors.",
+ "LawSection":"General Business Law","LawCode":"Add §390-f, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to banning push notifications from fast food mobile applications to minors",
  "SameAsPrintNo":"S7871-2025"
 }

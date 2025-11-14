@@ -1,12 +1,16 @@
 {
- "PrintNo":"S2399","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T09:16:54.281002Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-17","Chamber":"SENATE"}],
+ "PrintNo":"S2399","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-17T09:16:54.281002Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-11-14","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-17","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-11-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2399A","Date":"2025-11-14","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"}],
  "Title":"Relates to establishing a sex trafficking awareness and prevention program",
- "Summary":"Directs the commissioner of DMV to establish a sex trafficking awareness and prevention program to provide education and awareness literature and educational materials to all drivers with a commercial motor vehicle license.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Add §224-b, V & T L",
+ "Summary":"Directs the commissioner of DMV to establish a sex trafficking awareness and prevention program to provide education and awareness literature and educational materials to trade schools, community colleges, agencies, public or private schools or persons offering instruction in the operation of commercial motor vehicles with a commercial motor vehicle license and requires applicants for commercial driver's licenses submit a certificate for completion of such program.",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Add §224-b, amd §502, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to establishing a sex trafficking awareness and prevention program",
- "SameAsPrintNo":"A3485-2025","PreviousVersions":["S6821-2021","S2145-2023"]
+ "PreviousVersions":["S6821-2021","S2145-2023"]
 }
