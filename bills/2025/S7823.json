@@ -1,11 +1,13 @@
 {
- "PrintNo":"S7823","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7823","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-05-09T11:24:39.762064Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-08-29","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-11-14","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-09","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-08-29","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 7823A","Date":"2025-08-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 7823A","Date":"2025-08-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-11-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 7823B","Date":"2025-11-14","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
@@ -13,8 +15,7 @@
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}
  ],
  "Title":"Relates to the administration of certain immunizations",
- "Summary":"Authorizes a licensed pharmacist to administer any recommendations made by the commissioner of health pertaining to a vaccine that has been authorized by the federal Food and Drug Administration; removes the requirement to follow the advisory committee on immunization practices of the centers for disease control and prevention recommendation for immunization against meningococcal disease.",
- "LawSection":"Education Law","LawCode":"Amd §6801, Ed L; amd §2164, Pub Health L",
- "ActClause":"AN ACT to amend the education law, in relation to authorizing the administration of immunizations pursuant to recommendations made by the commissioner of health; and to amend the public health law, in relation to removing the requirement to follow the centers for disease control and prevention recommendation for immunization against meningococcal disease",
- "SameAsPrintNo":"A8383-2025"
+ "Summary":"Authorizes a licensed pharmacist to administer any recommendations made by the commissioner of health pertaining to a vaccine that has been authorized by the federal Food and Drug Administration; relates to insurance coverage for immunizations; removes the requirement to follow the advisory committee on immunization practices of the centers for disease control and prevention recommendation for immunization against meningococcal disease.",
+ "LawSection":"Education Law",
+ "LawCode":"Amd §§6801, 6802, 6527 & 6909, Ed L; amd §§3216, 3221, 4303 & 4322, Ins L; amd §2164, Pub Health L"
 }
