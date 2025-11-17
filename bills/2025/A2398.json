@@ -1,11 +1,12 @@
 {
  "PrintNo":"A2398","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T11:00:49.691011Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Alcoholism And Drug Abuse"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-02-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-02-25"},
   {"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Alcoholism And Substance Use Disorders"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-19"},{"Type":"PASSED_SENATE","Date":"2025-05-19"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-19"},{"Type":"PASSED_SENATE","Date":"2025-05-19"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-11-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-01-16","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S1814","Date":"2025-05-19","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.986","Date":"2025-05-19","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-19","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-19","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-11-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

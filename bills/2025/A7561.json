@@ -1,11 +1,12 @@
 {
  "PrintNo":"A7561","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-01T14:03:01.745416Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Higher Education"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-05"},{"Type":"PASSED_SENATE","Date":"2025-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-05"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-11-17"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-01","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S7220","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.908","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-11-17","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
