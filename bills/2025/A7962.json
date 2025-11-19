@@ -1,11 +1,15 @@
 {
- "PrintNo":"A7962","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-16T15:14:48.735734Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-16","Committee":"Racing And Wagering"}],
- "Actions":[{"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-04-16","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7962","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-16T15:14:48.735734Z","Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-11-19","Committee":"Racing And Wagering"}],
+ "Actions":[
+  {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-04-16","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO RACING AND WAGERING","Date":"2025-11-19","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7962A","Date":"2025-11-19","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1561,"Name":"Micah Lasher","Short":"LASHER"}],
  "Title":"Establishes certain limits on sports betting for both mobile and casino sports betting",
- "Summary":"Establishes certain limits on sports betting for both mobile and casino sports betting to include advertisements, wager limits, and prohibiting the use of credit cards to make deposits on mobile sports betting.",
+ "Summary":"Establishes certain limits on sports betting for both mobile and casino sports betting to include advertisements, wager limits; prohibits the use of credit cards to make deposits on mobile sports betting.",
  "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Amd §§1367 & 1367-a, RWB L",
  "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to regulating sports betting and sports betting advertising campaigns"
 }
