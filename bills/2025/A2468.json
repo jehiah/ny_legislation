@@ -1,10 +1,11 @@
 {
  "PrintNo":"A2468","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T12:23:33.082497Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"},{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-17","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S6277","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1988","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -307,7 +309,8 @@
   {"ID":1148,"Name":"Doug Smith","Short":"SMITH"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
   {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
-  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1530,"Name":"Grace Lee","Short":"LEE"}
  ],
  "Title":"Creates the state office of the utility consumer advocate",
  "Summary":"Creates the state office of the utility consumer advocate to represent interests of residential utility customers including a proposed change of rates, charges, terms and conditions of service, the adoption of rules, regulations, guidelines, orders, standards or final policy decisions.",

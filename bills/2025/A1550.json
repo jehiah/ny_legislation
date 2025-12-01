@@ -1,10 +1,11 @@
 {
  "PrintNo":"A1550","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T12:35:10.545295Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-10","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-13"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-03-24"},{"Type":"IN_SENATE_COMM","Date":"2025-03-24","Committee":"Codes"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-20"},{"Type":"PASSED_SENATE","Date":"2025-05-20"}
+  {"Type":"SENATE_FLOOR","Date":"2025-05-20"},{"Type":"PASSED_SENATE","Date":"2025-05-20"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-10","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S6975","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.641","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-20","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-20","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

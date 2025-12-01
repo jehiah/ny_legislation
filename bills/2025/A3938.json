@@ -1,10 +1,11 @@
 {
  "PrintNo":"A3938","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T15:00:47.730372Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-30T15:00:47.730372Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},{"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-30","Chamber":"ASSEMBLY"},
@@ -23,7 +24,8 @@
   {"Text":"SUBSTITUTED FOR S5568B","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.1816","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

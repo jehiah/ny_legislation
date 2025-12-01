@@ -1,10 +1,11 @@
 {
  "PrintNo":"A4276","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-31T15:37:14.185034Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-31","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S8043","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1564","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

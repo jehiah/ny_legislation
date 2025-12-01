@@ -1,10 +1,11 @@
 {
  "PrintNo":"A8090","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-25T14:05:38.020436Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Aging"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-04-25","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S7671","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1001","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

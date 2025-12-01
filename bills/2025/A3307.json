@@ -1,10 +1,11 @@
 {
  "PrintNo":"A3307","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-27T10:44:37.370921Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-27T10:44:37.370921Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},{"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-27","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S1840A","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.987","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
