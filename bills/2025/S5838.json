@@ -1,8 +1,11 @@
 {
  "PrintNo":"S5838","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-03T13:27:16.800633Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
+ "Status":"STRICKEN",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-03","Chamber":"SENATE"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-03","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2025-12-01","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"}

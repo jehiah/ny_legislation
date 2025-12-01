@@ -1,8 +1,11 @@
 {
  "PrintNo":"S6201","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-06T12:11:50.237814Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
+ "Status":"STRICKEN",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-06","Chamber":"SENATE"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-06","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2025-12-01","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}],
  "Title":"Exempts political subdivisions from the imposition of the metropolitan commuter transportation mobility tax",
  "Summary":"Exempts political subdivisions from the imposition of the metropolitan commuter transportation mobility tax.",
