@@ -1,11 +1,16 @@
 {
- "PrintNo":"A9158","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-10-17T14:27:18.665502Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-10-17","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-10-17","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A9158","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-10-17T14:27:18.665502Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-12-03","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-10-17","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2025-12-03","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9158A","Date":"2025-12-03","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
-  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}
  ],
  "Title":"Relates to the use of paid sick leave for bereavement purposes",
  "Summary":"Allows an employee to use paid sick leave for bereavement upon the death of a family member, or upon a miscarriage or still birth by the employee or the employee's spouse or domestic partner or upon a foster child leaving a foster family provided the foster child was in the care of the foster family for six months or longer.",
