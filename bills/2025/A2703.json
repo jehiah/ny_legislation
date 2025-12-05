@@ -1,8 +1,12 @@
 {
- "PrintNo":"A2703","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-22T09:20:54.02733Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-22","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-22","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2703","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-22T09:20:54.02733Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-12-01","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-22","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-12-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2703A","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
@@ -11,11 +15,11 @@
   {"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
   {"ID":1152,"Name":"Chris Tague","Short":"TAGUE"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1528,"Name":"Lester Chang","Short":"CHANG"},
-  {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
+  {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
+  {"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"}
  ],
  "Title":"Relates to ignition interlock devices",
  "Summary":"Requires proof of installation, maintenance and regular use of ignition interlock devices when use of such a device is ordered by a court; extends the period of suspension and revocation of a license until such proof is provided.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§1193 & 1198, V & T L",
- "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to ignition interlock devices",
- "SameAsPrintNo":"S2517-2025"
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§1193, 1196 & 1198, V & T L",
+ "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to ignition interlock devices"
 }

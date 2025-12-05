@@ -1,12 +1,16 @@
 {
- "PrintNo":"S4394","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T14:16:48.811141Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2025-02-04","Chamber":"SENATE"}],
+ "PrintNo":"S4394","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-04T14:16:48.811141Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-12-05","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2025-02-04","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2025-12-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4394A","Date":"2025-12-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
  "Title":"Establishes criteria for the sale of automated employment decision tools",
  "Summary":"Establishes criteria for the use of automated employment decision tools; provides for enforcement for violations of such criteria.",
- "LawSection":"Labor Law","LawCode":"Add §203-g, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to establishing criteria for the use of automated employment decision tools",
- "SameAsPrintNo":"A3914-2025","PreviousVersions":["S6852-2021","S5641-2023"]
+ "LawSection":"Labor Law","LawCode":"Add Art 20-D §§750 - 757, Lab L",
+ "ActClause":"AN ACT to amend the labor law, in relation to automated employment decision tools",
+ "PreviousVersions":["S6852-2021","S5641-2023"]
 }
