@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8500","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-09-10T09:18:57.901873Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-09-10","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-09-10","Chamber":"SENATE"}],
+ "PrintNo":"S8500","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-09-10T09:18:57.901873Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-12-05","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-09-10","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO RULES","Date":"2025-12-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8500A","Date":"2025-12-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
@@ -15,9 +19,8 @@
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},
   {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Establishes a right of action for the deprivation of constitutional rights",
+ "Title":"Establishes the New York civil rights act",
  "Summary":"Establishes a right of action for the deprivation of constitutional rights; provides for compensatory damages, punitive damages, injunctive and declaratory relief, and reasonable attorney's fees.",
  "LawSection":"Civil Rights Law","LawCode":"Add Art 8-A §85, Civ Rts L",
- "ActClause":"AN ACT to amend the civil rights law, in relation to establishing a right of action for the deprivation of constitutional rights",
- "SameAsPrintNo":"A9076-2025"
+ "ActClause":"AN ACT to amend the civil rights law, in relation to enacting the New York Civil Rights Act"
 }
