@@ -1,12 +1,16 @@
 {
- "PrintNo":"S8529","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-10-15T11:23:31.690425Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-10-15","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-10-15","Chamber":"SENATE"}],
+ "PrintNo":"S8529","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-10-15T11:23:31.690425Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-12-08","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-10-15","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO RULES","Date":"2025-12-08","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8529A","Date":"2025-12-08","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}],
  "Title":"Relates to prohibiting the release of certain chemical compounds into the atmosphere in this state",
- "Summary":"Prohibits the intentional injection, release or dispersion, by any means, of chemicals, chemical compounds, substances or apparatus within the borders of this state into the atmosphere with the express purpose of affecting temperature, weather or the intensity of sunlight.",
- "LawSection":"Environmental Conservation Law","LawCode":"Add §19-330, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the release of certain chemical compounds into the atmosphere",
- "SameAsPrintNo":"A5476-2025"
+ "Summary":"Prohibits the intentional injection, release or dispersion, by any means, of chemicals, chemical compounds, substances or apparatus within the borders of this state into the atmosphere with the express purpose of affecting temperature, weather or the intensity of sunlight; provides the department will establish a reporting process for violations; provides penalties for such violations.",
+ "LawSection":"Environmental Conservation Law",
+ "LawCode":"Add §§19-0330 & 71-2114, amd §71-2105, En Con L; amd §99-r, St Fin L",
+ "ActClause":"AN ACT to amend the environmental conservation law and the state finance law, in relation to prohibiting the release of certain chemical compounds into the atmosphere"
 }

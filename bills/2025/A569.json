@@ -1,8 +1,11 @@
 {
  "PrintNo":"A569","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:23:08.932872Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Status":"STRICKEN",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2025-12-08","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}],
  "Title":"Relates to the publication of information on public meetings",
  "Summary":"Relates to the publication of information on public meetings; requires the office of information technology services to develop a mobile application and website to publish information on every public meeting held by a state or local public body; requires public bodies to report such meetings to the office of information technology services.",
