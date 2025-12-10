@@ -1,12 +1,20 @@
 {
- "PrintNo":"S8512","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-09-24T09:02:09.177063Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-09-24","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-09-24","Chamber":"SENATE"}],
- "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
+ "PrintNo":"S8512","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-09-24T09:02:09.177063Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-12-10","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-09-24","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO RULES","Date":"2025-12-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8512A","Date":"2025-12-10","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
+  {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+ ],
  "Title":"Relates to portable solar generation devices",
- "Summary":"Defines \"portable solar generation device\"; exempts portable solar generation devices from interconnection or net metering requirements.",
- "LawSection":"Public Service Law","LawCode":"Amd §66-j, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to portable solar generation devices",
- "SameAsPrintNo":"A9111-2025"
+ "Summary":"Defines \"portable solar generation device\"; exempts portable solar generation devices from interconnection or net metering requirements; requires the state energy conservation construction code to allow for portable solar generation devices to be connected to a building's wiring through an electrical outlet.",
+ "LawSection":"Public Service Law","LawCode":"Amd §66-j, Pub Serv L; amd §11-104, Energy L",
+ "ActClause":"AN ACT to amend the public service law and the energy law, in relation to portable solar generation devices"
 }
