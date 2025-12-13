@@ -72,22 +72,26 @@ func (s *SyncApp) LoadBills() error {
 
 // UpdateAllBills
 func (s *SyncApp) UpdateAllBills(ctx context.Context) error {
-	year := "2026"
+	year := "2025"
 	// get all bills for the year in batches of 1000
 
 	offset := 0
-	offset = 6000
 	for {
 		res, err := s.api.Bills(ctx, year, offset)
 		if err != nil {
 			return err
 		}
-		log.Infof("got %d bills", len(res.Bills))
-		offset += len(res.Bills)
+		log.Infof("year=%s got %d bills (query offset=%d)", year, len(res.Bills), offset)
 		if len(res.Bills) == 0 {
 			break
 		}
 		for _, billID := range res.Bills {
+			offset++
+			// every 100 bills - output offset
+			if offset%100 == 0 {
+				log.Infof("offset=%d", offset)
+			}
+
 			// get bill
 			bill, err := s.api.GetBill(ctx, fmt.Sprintf("%d", billID.Session), billID.PrintNo)
 			if err != nil {

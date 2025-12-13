@@ -65,7 +65,7 @@ func (s *SyncApp) CustomAction(ctx context.Context) error {
 			s.AddSameAs(bill)
 		}
 	}
-
+	s.SaveBillIndex()
 	return nil
 }
 
