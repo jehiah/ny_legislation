@@ -1,11 +1,12 @@
 {
  "PrintNo":"S6977","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-27T15:45:18.287657Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-12"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Real Property Taxation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-27","Chamber":"SENATE"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR A3480","Date":"2025-06-17","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.857","Date":"2025-06-17","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.607","Date":"2025-12-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

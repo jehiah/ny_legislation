@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7223","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-04T14:19:35.023975Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-13"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Cities"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2025-04-04","Chamber":"SENATE"},
@@ -18,7 +19,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.793","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"HOME RULE REQUEST","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.608","Date":"2025-12-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

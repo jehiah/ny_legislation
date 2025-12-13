@@ -1,11 +1,13 @@
 {
  "PrintNo":"S7001","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-28T10:54:14.949209Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-28","Committee":"Procurement And Contracts"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"POCKET_APPROVAL","Date":"2025-12-05"},
+  {"Type":"VETOED","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-03-28","Chamber":"SENATE"},
@@ -18,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR A7616","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.808","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"SENATE"},
+  {"Text":"VETOED MEMO.94","Date":"2025-12-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S5941","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-04T09:52:20.22651Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-03-04T09:52:20.22651Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Insurance"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-04","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR A6576B","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.570","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

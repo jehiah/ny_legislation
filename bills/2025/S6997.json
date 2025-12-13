@@ -1,10 +1,11 @@
 {
  "PrintNo":"S6997","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-28T10:53:16.036001Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-03-28T10:53:16.036001Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_SENATE","Date":"2025-06-06"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Codes"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-28","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR A7544A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.740","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -141,7 +143,8 @@
   {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1491,"Name":"Sean Ryan","Short":"RYAN S"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
-  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to enforcement of pole attachment safety and quality",
  "Summary":"Relates to enforcement of pole attachment safety and quality and utility pole and attachment identification.",

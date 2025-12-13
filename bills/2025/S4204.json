@@ -1,11 +1,13 @@
 {
  "PrintNo":"S4204","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T13:18:06.039259Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"},
   {"Type":"PASSED_SENATE","Date":"2025-04-09"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-09","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-12"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-12"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"POCKET_APPROVAL","Date":"2025-12-05"},
+  {"Type":"VETOED","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-03","Chamber":"SENATE"},
@@ -19,7 +21,9 @@
   {"Text":"SUBSTITUTED FOR A589","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.547","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-12","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-12","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"SENATE"},
+  {"Text":"VETOED MEMO.86","Date":"2025-12-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

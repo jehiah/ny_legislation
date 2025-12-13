@@ -1,11 +1,12 @@
 {
  "PrintNo":"A521","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:16:08.308891Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Alcoholism And Substance Use Disorders"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S3740A","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1616","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

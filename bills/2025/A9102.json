@@ -1,8 +1,12 @@
 {
- "PrintNo":"A9102","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-09-12T12:04:55.18761Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-09-12","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-09-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A9102","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-09-12T12:04:55.18761Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-12-12","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-09-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-12-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9102A","Date":"2025-12-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
@@ -10,8 +14,8 @@
   {"ID":1544,"Name":"Scott Gray","Short":"GRAY"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"}
  ],
- "Title":"Requires the office of victim services to establish procedures whereby victims of crime are notified about the address confidentiality program",
- "Summary":"Requires the office of victim services to establish procedures whereby victims of crime are notified about the address confidentiality program.",
- "LawSection":"Executive Law","LawCode":"Amd §625-b, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to providing notification to victims of crime about the address confidentiality program"
+ "Title":"Relates to notification of victims of crime, including sexual offenses, about the address confidentiality program",
+ "Summary":"Requires notification of victims of crime, including sexual offenses, about the address confidentiality program.",
+ "LawSection":"Executive Law","LawCode":"Amd §641, Exec L; amd §2805-i, Pub Health L",
+ "ActClause":"AN ACT to amend the executive law and the public health law, in relation to providing notification to victims of crime and sexual offense victims about the address confidentiality program"
 }

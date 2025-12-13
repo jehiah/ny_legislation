@@ -1,11 +1,13 @@
 {
  "PrintNo":"S2182","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-15T15:37:48.776429Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-15T15:37:48.776429Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-04-28"},
   {"Type":"PASSED_SENATE","Date":"2025-05-14"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"POCKET_APPROVAL","Date":"2025-12-05"},
+  {"Type":"VETOED","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-15","Chamber":"SENATE"},
@@ -24,7 +26,9 @@
   {"Text":"SUBSTITUTED FOR A5969A","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.324","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"VETOED MEMO.83","Date":"2025-12-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

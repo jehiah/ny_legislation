@@ -1,12 +1,13 @@
 {
  "PrintNo":"A468","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T11:54:26.554528Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Transportation"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-17"},
   {"Type":"IN_SENATE_COMM","Date":"2025-03-17","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"POCKET_APPROVAL","Date":"2025-12-05"},
+  {"Type":"VETOED","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"3RD READING CAL.1804","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.56","Date":"2025-12-05","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-12-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

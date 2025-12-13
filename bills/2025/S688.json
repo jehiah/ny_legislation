@@ -1,11 +1,12 @@
 {
  "PrintNo":"S688","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-03T14:22:07.701196Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-03T14:22:07.701196Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"},
   {"Type":"SENATE_FLOOR","Date":"2025-03-10"},{"Type":"PASSED_SENATE","Date":"2025-04-01"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR A5619A","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.616","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.592","Date":"2025-12-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

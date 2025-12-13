@@ -1,11 +1,12 @@
 {
  "PrintNo":"S7678","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-29T09:52:27.127464Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-04-29T09:52:27.127464Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Transportation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-10-24"},{"Type":"SIGNED_BY_GOV","Date":"2025-10-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-29","Chamber":"SENATE"},
@@ -21,7 +22,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.821","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"HOME RULE REQUEST","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-10-24","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.485","Date":"2025-10-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

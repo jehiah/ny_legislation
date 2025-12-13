@@ -1,10 +1,11 @@
 {
  "PrintNo":"A2739","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-22T09:31:10.674918Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},{"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Judiciary"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-01-22","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S6363","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1697","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.623","Date":"2025-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

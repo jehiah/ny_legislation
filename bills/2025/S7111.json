@@ -1,11 +1,12 @@
 {
  "PrintNo":"S7111","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-01T14:04:51.919774Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-04-01T14:04:51.919774Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_SENATE","Date":"2025-06-11"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-04-01","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR A7862A","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.871","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

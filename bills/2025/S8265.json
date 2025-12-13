@@ -1,11 +1,13 @@
 {
  "PrintNo":"S8265","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-28T11:01:27.665138Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-05-28T11:01:27.665138Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-13"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"POCKET_APPROVAL","Date":"2025-12-05"},
+  {"Type":"VETOED","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-05-28","Chamber":"SENATE"},
@@ -19,7 +21,9 @@
   {"Text":"SUBSTITUTED FOR A6314A","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.617","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"VETOED MEMO.99","Date":"2025-12-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

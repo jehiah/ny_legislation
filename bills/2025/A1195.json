@@ -1,11 +1,11 @@
 {
  "PrintNo":"A1195","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-09T10:28:23.11902Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-01-09T10:28:23.11902Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Insurance"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_SENATE","Date":"2025-05-29"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -22,7 +22,8 @@
   {"Text":"3RD READING CAL.235","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.576","Date":"2025-12-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

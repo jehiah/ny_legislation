@@ -1,10 +1,12 @@
 {
  "PrintNo":"A2748","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-22T13:42:48.243409Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"},{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"POCKET_APPROVAL","Date":"2025-12-12"},
+  {"Type":"VETOED","Date":"2025-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-22","Chamber":"ASSEMBLY"},
@@ -19,7 +21,10 @@
   {"Text":"SUBSTITUTED FOR S2537","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1733","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.102","Date":"2025-12-12","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

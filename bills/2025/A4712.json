@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4712","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T12:34:09.860991Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-04","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-13"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-20"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-05"},{"Type":"PASSED_SENATE","Date":"2025-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-05"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-02-04","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S2460","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1526","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

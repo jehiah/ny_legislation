@@ -1,11 +1,12 @@
 {
  "PrintNo":"S4598","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-10T10:20:00.028496Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-13"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Governmental Employees"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-10","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.794","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"HOME RULE REQUEST","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"}
  ],
  "Votes":[
   {

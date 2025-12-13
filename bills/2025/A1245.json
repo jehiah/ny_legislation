@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1245","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:50:30.180912Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1245","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-09T10:50:30.180912Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-11-21","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2025-11-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1245A","Date":"2025-11-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},
@@ -21,8 +25,8 @@
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}
  ],
  "Title":"Provides for a personal income tax deduction for student loan payments",
- "Summary":"Provides for a personal income tax deduction for student loan payments not in excess of five thousand dollars.",
+ "Summary":"Provides for a personal income tax deduction for student loan payments not in excess of five thousand dollars; excludes any payment not in excess of five thousand dollars made by an employer, employee, or on behalf of an employee that is directly deducted from the employee's wages through payroll and administered by a third-party platform that facilitates direct payments to educational institutions or related loan servicers on behalf of students such amount from an employee's New York state gross income; further excludes any contribution not to exceed five thousand dollars to a tuition program under section 529 of the Internal Revenue Code made through payroll deduction and facilitated by an employer or a third-party platform that facilitates direct payments to such programs on behalf of employees from the employee's New York state gross income.",
  "LawSection":"Tax Law","LawCode":"Amd §612, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to authorizing a personal income tax deduction for student loan payments",
- "PreviousVersions":["A10635-2011","A2123-2013","A2852-2015","A3419-2017","A862-2019","A5724-2021","A1563-2023"]
+ "SameAsPrintNo":"S4202-2025","PreviousVersions":["S7834-2015","S4603-2017","S2798-2019","S5836-2021","S2895-2023"]
 }

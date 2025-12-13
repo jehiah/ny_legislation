@@ -1,12 +1,12 @@
 {
  "PrintNo":"A291","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-31T11:52:45.048475Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2024-12-31T11:52:45.048475Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Veterans, Homeland Security And Military Affairs"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -27,7 +27,8 @@
   {"Text":"3RD READING CAL.737","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.611","Date":"2025-12-05","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

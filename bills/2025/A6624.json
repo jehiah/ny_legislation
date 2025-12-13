@@ -1,11 +1,12 @@
 {
  "PrintNo":"A6624","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T15:08:05.795013Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},
   {"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-03-06","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S5760","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.949","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

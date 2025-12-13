@@ -1,8 +1,12 @@
 {
- "PrintNo":"A1766","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T09:54:55.897952Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-14","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A1766","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T09:54:55.897952Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-12-01","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-12-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1766A","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},
   {"ID":631,"Name":"Kenneth Blankenbush","Short":"BLANKENBUSH"},{"ID":457,"Name":"Vivian Cook","Short":"COOK"},
@@ -23,6 +27,5 @@
  "Summary":"Authorizes all municipalities, with the consent of the county and the governing body of such municipality, to join a county self-funded or self-insured health plan; requires certification.",
  "LawSection":"Insurance",
  "ActClause":"AN ACT authorizing municipalities to join a county self-funded or self-insured health plan",
- "SameAsPrintNo":"S4719-2025",
  "PreviousVersions":["A8362-2013","A739-2015","A2578-2017","A310-2019","A543-2021","A4412-2023"]
 }

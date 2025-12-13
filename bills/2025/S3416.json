@@ -1,11 +1,12 @@
 {
  "PrintNo":"S3416","Version":"D","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-27T13:27:58.085429Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-27T13:27:58.085429Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_SENATE","Date":"2025-06-05"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-11-17"},{"Type":"SIGNED_BY_GOV","Date":"2025-11-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-27","Chamber":"SENATE"},
@@ -26,7 +27,10 @@
   {"Text":"SUBSTITUTED FOR A5892B","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"D"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.655","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"D"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"D"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"D"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-11-17","Chamber":"SENATE","Version":"D"},
+  {"Text":"SIGNED CHAP.546","Date":"2025-11-21","Chamber":"SENATE","Version":"D"},
+  {"Text":"APPROVAL MEMO.7","Date":"2025-11-21","Chamber":"SENATE","Version":"D"}
  ],
  "Votes":[
   {

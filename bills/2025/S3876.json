@@ -1,11 +1,11 @@
 {
  "PrintNo":"S3876","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T13:30:57.307087Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Consumer Protection"},
   {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-02-25"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-01"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-04-30"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2025-04-30"},{"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-30","Chamber":"SENATE"},
@@ -18,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR A3875","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING CAL.74","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-04-30","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-04-30","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"}
  ],
  "Votes":[
   {

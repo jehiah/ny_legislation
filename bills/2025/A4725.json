@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4725","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-05T09:41:35.731902Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-02-05T09:41:35.731902Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-05"},{"Type":"IN_SENATE_COMM","Date":"2025-06-05","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"POCKET_APPROVAL","Date":"2025-12-05"},
+  {"Type":"VETOED","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-05","Chamber":"ASSEMBLY"},
@@ -25,7 +26,9 @@
   {"Text":"3RD READING CAL.327","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VETOED MEMO.66","Date":"2025-12-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"TABLED","Date":"2025-12-05","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

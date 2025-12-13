@@ -1,10 +1,11 @@
 {
  "PrintNo":"A6721","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-11T10:32:59.97078Z","Status":"PASSED_SENATE",
+ "Published":"2025-03-11T10:32:59.97078Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-03-11","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S6244A","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.597","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -194,7 +196,8 @@
   {"ID":1466,"Name":"Michael Durso","Short":"DURSO"},{"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},
   {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
-  {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"}
+  {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
+  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}
  ],
  "Title":"Enacts the \"Lieutenant Joseph Banish mental health act\"",
  "Summary":"Enacts the \"Lieutenant Joseph Banish mental health act\" which establishes a law enforcement peer support program to provide confidentiality for communications arising out of law enforcement peer support counseling; defines terms; provides exceptions for when a peer support communication may be disclosed.",

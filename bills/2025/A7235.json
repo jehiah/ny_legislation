@@ -1,10 +1,12 @@
 {
  "PrintNo":"A7235","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-21T14:21:58.25509Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"POCKET_APPROVAL","Date":"2025-12-12"},
+  {"Type":"VETOED","Date":"2025-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-21","Chamber":"ASSEMBLY"},
@@ -19,7 +21,10 @@
   {"Text":"SUBSTITUTED FOR S6315","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1009","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.105","Date":"2025-12-12","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-12-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -227,7 +232,8 @@
  ],
  "Sponsors":[
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
-  {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"}
+  {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
+  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
  ],
  "Title":"Establishes expanded construction mentorship opportunities for small and minority and women-owned business enterprises",
  "Summary":"Establishes expanded construction mentorship opportunities for small and minority and women-owned business enterprises.",

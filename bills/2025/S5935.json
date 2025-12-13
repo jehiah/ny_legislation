@@ -1,11 +1,12 @@
 {
  "PrintNo":"S5935","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-04T09:49:59.906251Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-03-04T09:49:59.906251Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-03-04","Committee":"Racing, Gaming And Wagering"},
   {"Type":"SENATE_FLOOR","Date":"2025-04-30"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-03-04","Chamber":"SENATE"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR A6745A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.734","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.605","Date":"2025-12-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

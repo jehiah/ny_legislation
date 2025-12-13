@@ -1,11 +1,12 @@
 {
  "PrintNo":"S2681","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-22T14:24:20.772635Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-22T14:24:20.772635Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-13"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-22","Chamber":"SENATE"},
@@ -21,7 +22,8 @@
   {"Text":"SUBSTITUTED FOR A6452B","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.733","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

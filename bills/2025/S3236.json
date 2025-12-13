@@ -1,11 +1,12 @@
 {
  "PrintNo":"S3236","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-24T12:53:23.8204Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-24T12:53:23.8204Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Higher Education"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-05"},{"Type":"PASSED_SENATE","Date":"2025-05-13"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-13","Committee":"Higher Education"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-11-17"},{"Type":"SIGNED_BY_GOV","Date":"2025-11-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-24","Chamber":"SENATE"},
@@ -25,7 +26,9 @@
   {"Text":"SUBSTITUTED FOR A678A","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.198","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-11-17","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.543","Date":"2025-11-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

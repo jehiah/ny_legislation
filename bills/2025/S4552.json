@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4552","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-06T15:10:55.621487Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-02-06T15:10:55.621487Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-11"},
   {"Type":"PASSED_SENATE","Date":"2025-06-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Codes"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-06","Chamber":"SENATE"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR A2340A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.710","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -119,7 +121,7 @@
  "Sponsors":[
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
   {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
-  {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"}
+  {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"},{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
  "Title":"Prohibits the sale of kratom to individuals under the age of twenty-one",
  "Summary":"Prohibits the sale of kratom to individuals under the age of twenty-one; imposes a civil penalty of not more than five hundred dollars for the sale or provision of kratom to any person under the age of twenty-one.",

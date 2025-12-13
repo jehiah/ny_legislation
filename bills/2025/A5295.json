@@ -1,11 +1,12 @@
 {
  "PrintNo":"A5295","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T14:25:15.014636Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-12","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-20"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-03-24"},
   {"Type":"IN_SENATE_COMM","Date":"2025-03-24","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-05"},{"Type":"PASSED_SENATE","Date":"2025-06-05"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-05"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-12","Chamber":"ASSEMBLY"},
@@ -17,7 +18,8 @@
   {"Text":"SUBSTITUTED FOR S3308","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1436","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

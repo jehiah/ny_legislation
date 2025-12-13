@@ -1,11 +1,11 @@
 {
  "PrintNo":"A2311","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-16T11:01:29.392789Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-01-16T11:01:29.392789Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"},{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-11-17"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-11-17"},{"Type":"SIGNED_BY_GOV","Date":"2025-11-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-16","Chamber":"ASSEMBLY"},
@@ -23,7 +23,9 @@
   {"Text":"3RD READING CAL.1603","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-11-17","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-11-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.510","Date":"2025-11-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"APPROVAL MEMO.6","Date":"2025-11-21","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"S123","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-18T15:39:57.160945Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Consumer Protection"},
   {"Type":"SENATE_FLOOR","Date":"2025-02-04"},{"Type":"PASSED_SENATE","Date":"2025-03-10"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Consumer Affairs And Protection"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -18,7 +19,10 @@
   {"Text":"SUBSTITUTED FOR A268","Date":"2025-05-21","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.196","Date":"2025-05-21","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.629","Date":"2025-12-12","Chamber":"SENATE"},
+  {"Text":"APPROVAL MEMO.20","Date":"2025-12-12","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"S4685","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-11T11:37:57.534316Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-02-11T11:37:57.534316Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Higher Education"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-27"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-02-11","Chamber":"SENATE"},
@@ -26,7 +27,8 @@
   {"Text":"SUBSTITUTED FOR A5979B","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.729","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

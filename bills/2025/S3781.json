@@ -1,11 +1,12 @@
 {
  "PrintNo":"S3781","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T08:59:24.795432Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Children And Families"},
   {"Type":"SENATE_FLOOR","Date":"2025-05-01"},{"Type":"PASSED_SENATE","Date":"2025-05-22"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-30","Chamber":"SENATE"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR A5434","Date":"2025-05-29","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.320","Date":"2025-05-29","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-29","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"}
  ],
  "Votes":[
   {

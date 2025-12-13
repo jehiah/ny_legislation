@@ -1,8 +1,12 @@
 {
- "PrintNo":"A8849","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-09T17:32:08.763606Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-06-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A8849","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-06-09T17:32:08.763606Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-12-12","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-12-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8849A","Date":"2025-12-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
@@ -10,7 +14,7 @@
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},
   {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1540,"Name":"Brian Maher","Short":"MAHER"},
-  {"ID":1485,"Name":"Josh Jensen","Short":"JENSEN"}
+  {"ID":1485,"Name":"Josh Jensen","Short":"JENSEN"},{"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"}
  ],
  "Title":"Requires the department of health to facilitate the exchange of data between the state prescription drug program and electronic health records",
  "Summary":"Directs the commissioner of health promulgate regulations allowing for any electronic health records integration vendor to obtain state approval to facilitate interoperability between the prescription monitoring program registry and certified electronic health records systems that can connect with any national data sharing hub.",

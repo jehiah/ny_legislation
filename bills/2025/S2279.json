@@ -1,11 +1,12 @@
 {
  "PrintNo":"S2279","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:41:53.281931Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-02-11","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-01"},
   {"Type":"PASSED_SENATE","Date":"2025-05-05"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-16","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR A4216","Date":"2025-06-17","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.860","Date":"2025-06-17","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"}
  ],
  "Votes":[
   {

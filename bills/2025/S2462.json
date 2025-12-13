@@ -1,11 +1,12 @@
 {
  "PrintNo":"S2462","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-17T16:12:30.827482Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-17T16:12:30.827482Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Energy And Telecommunications"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-05"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-17","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR A7686A","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.743","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

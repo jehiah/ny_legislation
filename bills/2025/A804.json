@@ -1,10 +1,11 @@
 {
  "PrintNo":"A804","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-06T16:10:40.012549Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-06T16:10:40.012549Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"},{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"}
+  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -29,7 +30,8 @@
   {"Text":"SUBSTITUTED FOR S1104A","Date":"2025-06-09","Chamber":"SENATE","Version":"C"},
   {"Text":"3RD READING CAL.316","Date":"2025-06-09","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"C"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"C"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

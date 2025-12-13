@@ -1,11 +1,12 @@
 {
  "PrintNo":"S7359","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-10T15:38:36.657486Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-04-10T15:38:36.657486Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-05-19"},
   {"Type":"PASSED_SENATE","Date":"2025-06-05"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-10","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR A7964A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.458","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

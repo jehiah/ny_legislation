@@ -1,11 +1,12 @@
 {
  "PrintNo":"S550","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-02T11:29:53.345534Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-01-02T11:29:53.345534Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"},
   {"Type":"PASSED_SENATE","Date":"2025-06-09"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Children And Families"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-08","Chamber":"SENATE"},
@@ -26,7 +27,8 @@
   {"Text":"SUBSTITUTED FOR A66A","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.409","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

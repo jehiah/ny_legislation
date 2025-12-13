@@ -1,11 +1,11 @@
 {
  "PrintNo":"A3939","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T15:01:23.097436Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-01-30T15:01:23.097436Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Aging"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-01"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-01-30","Chamber":"ASSEMBLY"},
@@ -23,7 +23,9 @@
   {"Text":"3RD READING CAL.1972","Date":"2025-06-13","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.582","Date":"2025-12-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"APPROVAL MEMO.10","Date":"2025-12-05","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
