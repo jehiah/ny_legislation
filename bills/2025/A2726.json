@@ -1,11 +1,15 @@
 {
- "PrintNo":"A2726","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-22T09:28:27.55327Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-22","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2025-01-22","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A2726","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-22T09:28:27.55327Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-12-19","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2025-01-22","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-12-19","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2726A","Date":"2025-12-19","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}],
  "Title":"Relates to the definition of family for purposes of services provided by voluntary foster care agency health facilities",
  "Summary":"Includes both the birth family and the foster family of children in foster care, and other families receiving child welfare services from the authorized agency or the local departments of social services in the case of authorized agencies in the definition of family for purposes of services provided by voluntary foster care agency health facilities.",
- "LawSection":"Public Health Law","LawCode":"Amd §2999-gg, Pub Health L; amd §371, Soc Serv L",
- "ActClause":"AN ACT to amend the public health law and the social services law, in relation to the definition of family for purposes of services provided by voluntary foster care agency health facilities"
+ "LawSection":"Public Health Law","LawCode":"Amd §2999-gg, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to the definition of family for purposes of services provided by voluntary foster care agency health facilities"
 }
