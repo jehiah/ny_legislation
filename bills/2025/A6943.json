@@ -1,11 +1,11 @@
 {
  "PrintNo":"A6943","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-18T13:17:55.717635Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-03-18T13:17:55.717635Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-12"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-03-18","Chamber":"ASSEMBLY"},
@@ -28,7 +28,9 @@
   {"Text":"3RD READING CAL.944","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SIGNED CHAP.659","Date":"2025-12-19","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"APPROVAL MEMO.40","Date":"2025-12-19","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

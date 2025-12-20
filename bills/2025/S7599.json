@@ -1,12 +1,12 @@
 {
  "PrintNo":"S7599","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-23T09:54:44.769855Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-04-23T09:54:44.769855Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-04-23","Committee":"Internet And Technology"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Science And Technology"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-04-23","Chamber":"SENATE"},
@@ -23,7 +23,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.406","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"C"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"C"},
+  {"Text":"SIGNED CHAP.711","Date":"2025-12-19","Chamber":"SENATE","Version":"C"},
+  {"Text":"APPROVAL MEMO.86","Date":"2025-12-19","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

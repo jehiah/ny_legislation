@@ -1,11 +1,12 @@
 {
  "PrintNo":"A6942","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:17:43.787898Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"},{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"POCKET_APPROVAL","Date":"2025-12-19"},
+  {"Type":"VETOED","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-03-18","Chamber":"ASSEMBLY"},
@@ -23,7 +24,9 @@
   {"Text":"3RD READING CAL.1760","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.131","Date":"2025-12-19","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-12-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

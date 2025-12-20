@@ -1,12 +1,12 @@
 {
  "PrintNo":"S8417","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-09T23:54:26.632811Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-12"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
@@ -18,7 +18,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.852","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.709","Date":"2025-12-19","Chamber":"SENATE"},
+  {"Text":"APPROVAL MEMO.84","Date":"2025-12-19","Chamber":"SENATE"}
  ],
  "Votes":[
   {

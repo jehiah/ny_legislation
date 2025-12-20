@@ -1,11 +1,12 @@
 {
  "PrintNo":"A3319","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T10:50:42.241519Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-02-27"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-03-19"},{"Type":"IN_SENATE_COMM","Date":"2025-03-19","Committee":"Insurance"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"POCKET_APPROVAL","Date":"2025-12-19"},
+  {"Type":"VETOED","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-27","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"3RD READING CAL.1341","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.124","Date":"2025-12-19","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-12-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

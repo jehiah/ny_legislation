@@ -1,12 +1,12 @@
 {
  "PrintNo":"S8071","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T17:40:23.830956Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-05-15T17:40:23.830956Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-13"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-15","Chamber":"SENATE"},
@@ -21,7 +21,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.692","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.704","Date":"2025-12-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"APPROVAL MEMO.80","Date":"2025-12-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

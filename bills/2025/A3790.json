@@ -1,11 +1,12 @@
 {
  "PrintNo":"A3790","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T11:36:31.271294Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},{"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Finance"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-11"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"POCKET_APPROVAL","Date":"2025-12-19"},
+  {"Type":"VETOED","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-30","Chamber":"ASSEMBLY"},
@@ -20,7 +21,9 @@
   {"Text":"3RD READING CAL.754","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.126","Date":"2025-12-19","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-12-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

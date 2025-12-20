@@ -1,12 +1,13 @@
 {
  "PrintNo":"S929","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T10:35:42.87485Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-01-21"},
   {"Type":"PASSED_SENATE","Date":"2025-01-21"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-21","Committee":"Science And Technology"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-01-22"},{"Type":"PASSED_ASSEMBLY","Date":"2025-01-22"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"POCKET_APPROVAL","Date":"2025-12-19"},
+  {"Type":"VETOED","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-08","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.60","Date":"2025-01-22","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-01-22","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2025-01-22","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"},
+  {"Text":"VETOED MEMO.135","Date":"2025-12-19","Chamber":"SENATE"}
  ],
  "Votes":[
   {

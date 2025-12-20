@@ -1,12 +1,12 @@
 {
  "PrintNo":"S4727","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-12T10:07:51.701025Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
   {"Type":"PASSED_SENATE","Date":"2025-06-13"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Governmental Employees"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-16"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-12","Chamber":"SENATE"},
@@ -22,7 +22,8 @@
   {"Text":"HOME RULE REQUEST","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2025-06-16","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.692","Date":"2025-12-19","Chamber":"SENATE"}
  ],
  "Votes":[
   {

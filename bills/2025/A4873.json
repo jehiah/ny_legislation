@@ -1,11 +1,12 @@
 {
  "PrintNo":"A4873","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-06T11:00:41.320153Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-09"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-09"},{"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-13"},{"Type":"PASSED_SENATE","Date":"2025-06-13"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"POCKET_APPROVAL","Date":"2025-12-19"},
+  {"Type":"VETOED","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-06","Chamber":"ASSEMBLY"},
@@ -21,7 +22,9 @@
   {"Text":"3RD READING CAL.1970","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.128","Date":"2025-12-19","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2025-12-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,12 +1,12 @@
 {
  "PrintNo":"S3259","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T13:23:51.230578Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Procurement And Contracts"},
   {"Type":"SENATE_FLOOR","Date":"2025-03-20"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"},{"Type":"PASSED_ASSEMBLY","Date":"2025-06-17"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-01-24","Chamber":"SENATE"},
@@ -20,7 +20,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.377","Date":"2025-06-17","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-17","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2025-06-17","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.683","Date":"2025-12-19","Chamber":"SENATE"},
+  {"Text":"APPROVAL MEMO.63","Date":"2025-12-19","Chamber":"SENATE"}
  ],
  "Votes":[
   {
