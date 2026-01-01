@@ -1,11 +1,11 @@
 {
  "PrintNo":"A6721","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-11T10:32:59.97078Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-03-11T10:32:59.97078Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
   {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"},
   {"Type":"SENATE_FLOOR","Date":"2025-06-10"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2025-12-08"},{"Type":"SIGNED_BY_GOV","Date":"2025-12-18"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-03-11","Chamber":"ASSEMBLY"},
@@ -22,7 +22,9 @@
   {"Text":"3RD READING CAL.597","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2025-12-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.641","Date":"2025-12-18","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"APPROVAL MEMO.27","Date":"2025-12-18","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
