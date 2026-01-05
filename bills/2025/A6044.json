@@ -1,8 +1,11 @@
 {
  "PrintNo":"A6044","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-26T12:11:49.363083Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
+ "Status":"STRICKEN",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-26","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-26","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2026-01-05","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"}

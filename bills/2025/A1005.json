@@ -1,8 +1,11 @@
 {
  "PrintNo":"A1005","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T15:43:51.556629Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
+ "Status":"STRICKEN",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2026-01-05","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"}],
  "Title":"Requires the MTA and the New York city transit authority to implement certain standards pertaining to applying and removing coatings from bridges, trestles, elevated subway and railway tracks and stations",
  "Summary":"Requires the metropolitan transportation authority and the New York city transit authority to implement certain standards issued by the society for protective coatings pertaining to applying and removing coatings from bridges, trestles, and elevated subway and railway tracks and stations.",

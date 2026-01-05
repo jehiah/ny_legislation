@@ -1,11 +1,13 @@
 {
  "PrintNo":"A6951","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:16:59.466719Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2025-03-18","Chamber":"ASSEMBLY"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2026-01-05","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
-  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"}
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"}
  ],
  "Title":"Relates to periods suspending the operation of certain rate, charge or other changes by utilities, and provisions permitting utilities to retroactively recover revenues they would have earned during such periods",
  "Summary":"Provides that subsequent requests for an extension of a suspension period for certain rate, charge or other changes by utilities shall require approval by the public service commission and shall be valid for one month, after which the commission shall review and determine the necessity of a further extension; provides limitations on retroactive rate recovery by utilities.",
