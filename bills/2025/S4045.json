@@ -1,11 +1,7 @@
 {
  "PrintNo":"S4045","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-31T11:10:48.747575Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-11"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Transportation"}
- ],
+ "Published":"2025-01-31T11:10:48.747575Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-31","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-02-27","Chamber":"SENATE"},
@@ -19,7 +15,10 @@
   {"Text":"ORDERED TO THIRD READING CAL.1808","Date":"2025-06-11","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"C"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"C"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

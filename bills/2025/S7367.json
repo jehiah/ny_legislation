@@ -1,11 +1,7 @@
 {
  "PrintNo":"S7367","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-11T09:53:45.169469Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Higher Education"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-22"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Higher Education"}
- ],
+ "Published":"2025-04-11T09:53:45.169469Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-04-11","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-12","Chamber":"SENATE"},
@@ -15,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

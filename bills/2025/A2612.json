@@ -1,10 +1,7 @@
 {
  "PrintNo":"A2612","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-21T10:10:35.142964Z",
- "Status":"PASSED_ASSEMBLY",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-12"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
- ],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-21","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
@@ -12,7 +9,10 @@
   {"Text":"RULES REPORT CAL.645","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.645","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.96","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

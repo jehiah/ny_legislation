@@ -1,11 +1,7 @@
 {
  "PrintNo":"S4039","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-31T11:07:34.935773Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-24","Committee":"Ethics And Internal Governance"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-05-29"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Governmental Operations"}
- ],
+ "Published":"2025-01-31T11:07:34.935773Z","Status":"IN_SENATE_COMM","Committee":"Ethics And Internal Governance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Ethics And Internal Governance"}],
  "Actions":[
   {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-01-31","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-04-24","Chamber":"SENATE"},
@@ -15,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

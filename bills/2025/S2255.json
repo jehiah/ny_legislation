@@ -1,11 +1,7 @@
 {
  "PrintNo":"S2255","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:14:35.754438Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-12"},{"Type":"PASSED_SENATE","Date":"2025-03-11"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Corporations, Authorities And Commissions"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-16","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.303","Date":"2025-02-10","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-11","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-11","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-11","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

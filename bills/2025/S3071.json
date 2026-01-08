@@ -1,10 +1,7 @@
 {
  "PrintNo":"S3071","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-23T13:30:26.753408Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-23","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-04-15"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-05"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-05","Committee":"Education"}
- ],
+ "Published":"2025-01-23T13:30:26.753408Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-23","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.452","Date":"2025-03-04","Chamber":"SENATE"},
@@ -13,7 +10,10 @@
   {"Text":"AMENDED ON THIRD READING 3071A","Date":"2025-04-15","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-05","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-05-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

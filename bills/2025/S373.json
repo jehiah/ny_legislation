@@ -1,11 +1,7 @@
 {
  "PrintNo":"S373","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T11:35:57.147411Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-24"},{"Type":"PASSED_SENATE","Date":"2025-02-25"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Governmental Operations"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.313","Date":"2025-02-11","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-25","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-25","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

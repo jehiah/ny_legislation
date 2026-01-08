@@ -1,11 +1,7 @@
 {
  "PrintNo":"A6766","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-12T16:20:25.38565Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-28"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-28","Committee":"Consumer Protection"}
- ],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-03-12","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-18","Chamber":"ASSEMBLY"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING CAL.130","Date":"2025-05-08","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-28","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-28","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-28","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.174","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

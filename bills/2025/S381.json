@@ -1,10 +1,7 @@
 {
  "PrintNo":"S381","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T14:28:21.904716Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-12","Committee":"Labor"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-04","Chamber":"SENATE"},
@@ -13,7 +10,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LABOR","Date":"2025-03-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO LABOR","Date":"2025-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

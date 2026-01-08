@@ -1,18 +1,17 @@
 {
  "PrintNo":"S7315","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-09T15:39:45.330481Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-06"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Social Services"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Social Services",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-04-09","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1502","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-06-06","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

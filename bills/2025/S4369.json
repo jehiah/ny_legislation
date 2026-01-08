@@ -1,11 +1,7 @@
 {
  "PrintNo":"S4369","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T11:36:43.869717Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-04-28"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-28","Committee":"Corporations, Authorities And Commissions"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.398","Date":"2025-02-25","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-28","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-28","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-28","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

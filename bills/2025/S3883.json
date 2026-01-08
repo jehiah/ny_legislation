@@ -1,10 +1,7 @@
 {
  "PrintNo":"S3883","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-30T13:54:29.844877Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-05"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Health"}
- ],
+ "Published":"2025-01-30T13:54:29.844877Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-13","Chamber":"SENATE"},
@@ -14,7 +11,10 @@
   {"Text":"ORDERED TO THIRD READING CAL.1483","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO HEALTH","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO HEALTH","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -135,5 +135,5 @@
  "Summary":"Relates to dispensing certain controlled substances for use by a person with a substance use disorder during certain emergency medical treatment, or to relieve acute withdrawal symptoms.",
  "LawSection":"Public Health Law","LawCode":"Amd §3351, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to dispensing certain controlled substances for use by a person with a substance use disorder",
- "SameAsPrintNo":"A1647-2025","PreviousVersions":["S9926-2023"]
+ "PreviousVersions":["S9926-2023"]
 }

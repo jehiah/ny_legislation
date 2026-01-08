@@ -1,11 +1,7 @@
 {
  "PrintNo":"S6750","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-21T14:51:21.963728Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-29"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Governmental Employees"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-21","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
@@ -14,7 +10,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-29","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

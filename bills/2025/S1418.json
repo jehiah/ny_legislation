@@ -1,11 +1,8 @@
 {
  "PrintNo":"S1418","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T14:42:54.165565Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-28"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Governmental Operations"}
- ],
+ "Published":"2025-01-09T14:42:54.165565Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"}],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-05","Chamber":"SENATE"},
@@ -16,7 +13,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

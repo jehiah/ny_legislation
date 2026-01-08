@@ -1,18 +1,17 @@
 {
  "PrintNo":"S5228","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T16:06:34.421028Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Children And Families",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Children And Families"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Children And Families",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Children And Families"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-19","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1491","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -112,7 +111,7 @@
  ],
  "Sponsors":[
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
-  {"ID":1225,"Name":"John Liu","Short":"LIU"}
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1225,"Name":"John Liu","Short":"LIU"}
  ],
  "Title":"Directs the office of children and family services to establish a center for fatherhood initiatives",
  "Summary":"Directs the office of children and family services to establish a center for fatherhood initiatives to issue grants to any and all initiatives regarding the promotion and advancement of fatherhood, including but not limited to all marginalized fatherhood groups to help expand opportunities to improve parenting knowledge, attitudes, and self-efficacy.",

@@ -1,11 +1,7 @@
 {
  "PrintNo":"S5843","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-03T13:43:34.50168Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-03","Committee":"Ethics And Internal Governance"},
-  {"Type":"SENATE_FLOOR","Date":"2025-04-30"},{"Type":"PASSED_SENATE","Date":"2025-06-06"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Governmental Operations"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Ethics And Internal Governance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Ethics And Internal Governance"}],
  "Actions":[
   {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.703","Date":"2025-04-28","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-30","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-06","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

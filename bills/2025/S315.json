@@ -1,11 +1,7 @@
 {
  "PrintNo":"S315","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-24T13:16:10.414478Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-05"},{"Type":"PASSED_SENATE","Date":"2025-02-26"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-26","Committee":"Economic Development"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"}],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.237","Date":"2025-02-03","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-02-26","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-02-26","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-02-26","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

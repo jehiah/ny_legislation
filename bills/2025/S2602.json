@@ -1,18 +1,17 @@
 {
  "PrintNo":"S2602","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:28:53.654752Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Governmental Operations"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1872","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,11 +1,8 @@
 {
  "PrintNo":"S228","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-20T15:44:11.450168Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-25"},{"Type":"PASSED_SENATE","Date":"2025-04-02"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Housing"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-07"}
- ],
+ "Published":"2024-12-20T15:44:11.450168Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.166","Date":"2025-01-27","Chamber":"SENATE"},
@@ -22,7 +19,13 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-02","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO HOUSING","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"SUBSTITUTED FOR A340A","Date":"2025-04-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.82","Date":"2025-04-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.82","Date":"2025-04-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE",
+   "Version":"A"
+  }
  ],
  "Votes":[
   {

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S2334","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T13:53:30.81445Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Finance"}],
+ "Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-16","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-05","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-05","Chamber":"SENATE"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -24,7 +25,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
+ "Sponsors":[
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+ ],
  "Title":"Provides for coverage of screenings for elevated lead levels",
  "Summary":"Provides for coverage of screenings for elevated lead levels exempting them from annual deductibles or coinsurance.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L; amd §365-a, Soc Serv L",

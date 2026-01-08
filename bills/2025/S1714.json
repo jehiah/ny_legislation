@@ -1,11 +1,7 @@
 {
  "PrintNo":"S1714","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T11:38:25.309372Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-02"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Health"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.488","Date":"2025-03-04","Chamber":"SENATE"},
@@ -15,7 +11,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-02","Chamber":"SENATE"},
   {"Text":"REFERRED TO HEALTH","Date":"2025-04-02","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A697","Date":"2025-06-06","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.413","Date":"2025-06-06","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.413","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

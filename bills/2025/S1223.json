@@ -1,10 +1,7 @@
 {
  "PrintNo":"S1223","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T14:46:28.854566Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-02-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-10"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Health"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.272","Date":"2025-02-04","Chamber":"SENATE"},
@@ -12,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

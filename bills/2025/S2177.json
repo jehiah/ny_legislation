@@ -1,11 +1,7 @@
 {
  "PrintNo":"S2177","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-15T15:25:14.43936Z","Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-17","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-22"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Real Property Taxation"}
- ],
+ "Published":"2025-01-15T15:25:14.43936Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-15","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2025-03-17","Chamber":"SENATE"},
@@ -15,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,10 +1,9 @@
 {
  "PrintNo":"A2573","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T13:03:38.103385Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-17"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-17","Committee":"Finance"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-17","Chamber":"ASSEMBLY"},
@@ -12,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING CAL.56","Date":"2025-03-13","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-03-17","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-03-17","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO FINANCE","Date":"2025-03-17","Chamber":"SENATE"}
+  {"Text":"REFERRED TO FINANCE","Date":"2025-03-17","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.93","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

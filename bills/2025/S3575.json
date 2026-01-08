@@ -1,11 +1,7 @@
 {
  "PrintNo":"S3575","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-28T14:21:45.76097Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-28","Committee":"Women's Issues"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-13"},{"Type":"PASSED_SENATE","Date":"2025-03-26"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-26","Committee":"Health"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Women's Issues"}],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-01-28","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.509","Date":"2025-03-11","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-26","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-26","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2025-03-26","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

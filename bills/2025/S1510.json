@@ -1,11 +1,7 @@
 {
  "PrintNo":"S1510","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T11:05:53.923026Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"New York City Education"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_SENATE","Date":"2025-06-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Education"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"New York City Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"New York City Education"}],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1305","Date":"2025-05-27","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2025-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,10 +1,7 @@
 {
  "PrintNo":"S2436","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T11:33:08.863177Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Cities 1"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-20"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-20","Committee":"Cities"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Cities 1",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cities 1"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2025-01-17","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.535","Date":"2025-03-11","Chamber":"SENATE"},
@@ -12,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-20","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-20","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CITIES","Date":"2025-03-20","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CITIES","Date":"2025-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CITIES 1","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,11 +1,7 @@
 {
  "PrintNo":"S2070","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T10:19:52.565049Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Veterans' Affairs",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-15","Committee":"Veterans, Homeland Security And Military Affairs"},
-  {"Type":"SENATE_FLOOR","Date":"2025-02-10"},{"Type":"PASSED_SENATE","Date":"2025-05-14"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Veterans' Affairs"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"}],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-15","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.267","Date":"2025-02-04","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-05-14","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,8 +1,13 @@
 {
- "PrintNo":"A5478","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-14T09:53:52.270733Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-14","Committee":"Correction"}],
- "Actions":[{"Text":"REFERRED TO CORRECTION","Date":"2025-02-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A5478","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-14T09:53:52.270733Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-08","Committee":"Correction"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORRECTION","Date":"2025-02-14","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5478A","Date":"2026-01-08","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},

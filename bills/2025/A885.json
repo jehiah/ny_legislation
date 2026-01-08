@@ -1,8 +1,11 @@
 {
  "PrintNo":"A885","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T12:32:44.189068Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},
@@ -15,5 +18,5 @@
  "Summary":"Establishes \"The Equity in Fertility Treatment Act\"; relates to the definition of infertility and health insurance coverage for the treatment of infertility.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to the definition of infertility and health insurance coverage for in-vitro fertilization",
- "SameAsPrintNo":"S5545-2025","PreviousVersions":["A6177-2023"]
+ "PreviousVersions":["A6177-2023"]
 }

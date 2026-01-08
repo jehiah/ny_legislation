@@ -1,11 +1,7 @@
 {
  "PrintNo":"S5563","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-25T09:45:05.278266Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-27"},{"Type":"PASSED_SENATE","Date":"2025-05-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-12","Committee":"Local Governments"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.602","Date":"2025-03-25","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-05-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

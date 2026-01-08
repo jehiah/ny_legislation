@@ -1,12 +1,7 @@
 {
  "PrintNo":"S6200","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-06T12:11:27.708942Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-06","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-15"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-06","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1099","Date":"2025-05-13","Chamber":"SENATE"},
@@ -16,7 +11,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE"},
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-05","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A4713","Date":"2025-06-13","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.716","Date":"2025-06-13","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.716","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

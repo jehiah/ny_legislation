@@ -1,10 +1,9 @@
 {
  "PrintNo":"A3361","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T11:05:40.192362Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-27","Committee":"Science And Technology"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-12"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Internet And Technology"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-01-27","Chamber":"ASSEMBLY"},
@@ -12,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING CAL.126","Date":"2025-05-08","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-12","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-12","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-05-12","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-05-12","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.108","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

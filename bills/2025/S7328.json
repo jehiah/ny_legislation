@@ -1,12 +1,7 @@
 {
  "PrintNo":"S7328","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-10T11:07:15.93886Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Corporations, Authorities And Commissions",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-10","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-29"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Corporations, Authorities And Commissions"}
- ],
+ "Published":"2025-04-10T11:07:15.93886Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1100","Date":"2025-05-13","Chamber":"SENATE"},
@@ -18,7 +13,10 @@
   {
    "Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-05","Chamber":"ASSEMBLY",
    "Version":"A"
-  }
+  },
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,11 +1,7 @@
 {
  "PrintNo":"S7335","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-10T14:22:08.380903Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Real Property Taxation"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Aging",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Aging"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ORDERED TO THIRD READING CAL.1545","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO AGING","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

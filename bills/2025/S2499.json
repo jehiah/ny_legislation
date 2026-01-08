@@ -1,10 +1,7 @@
 {
  "PrintNo":"S2499","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T10:53:37.412219Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2025-05-19"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-28"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Labor"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1112","Date":"2025-05-14","Chamber":"SENATE"},
@@ -12,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-19","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LABOR","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO LABOR","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

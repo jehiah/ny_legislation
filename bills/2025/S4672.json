@@ -1,11 +1,7 @@
 {
  "PrintNo":"S4672","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-11T11:12:22.975237Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-26","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-22"},{"Type":"PASSED_SENATE","Date":"2025-05-29"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Transportation"}
- ],
+ "Published":"2025-02-11T11:12:22.975237Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-11","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-03-26","Chamber":"SENATE"},
@@ -15,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S1538","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T13:56:22.696417Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-10","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-10","Chamber":"SENATE"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-10","Chamber":"SENATE"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2026-01-08","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},

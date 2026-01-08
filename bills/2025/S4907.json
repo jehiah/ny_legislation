@@ -1,11 +1,7 @@
 {
  "PrintNo":"S4907","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-14T10:10:35.696362Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"People With Disabilities",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-14","Committee":"Disabilities"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-12","Committee":"People With Disabilities"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Disabilities",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Disabilities"}],
  "Actions":[
   {"Text":"REFERRED TO DISABILITIES","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.463","Date":"2025-03-04","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2025-03-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2025-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO DISABILITIES","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

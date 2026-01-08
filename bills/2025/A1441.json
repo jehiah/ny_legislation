@@ -1,11 +1,7 @@
 {
  "PrintNo":"A1441","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-09T13:13:39.965083Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-04-03"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-14"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-14","Committee":"Energy And Telecommunications"}
- ],
+ "Published":"2025-01-09T13:13:39.965083Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-10","Chamber":"ASSEMBLY"},
@@ -15,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING CAL.87","Date":"2025-04-03","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-14","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.54","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

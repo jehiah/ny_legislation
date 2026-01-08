@@ -1,11 +1,7 @@
 {
  "PrintNo":"S329","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-24T15:06:20.14961Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-28"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Codes"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-11"}
- ],
+ "Published":"2024-12-24T15:06:20.14961Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1245","Date":"2025-05-20","Chamber":"SENATE"},
@@ -16,7 +12,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"SUBSTITUTED FOR A673A","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.598","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.598","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

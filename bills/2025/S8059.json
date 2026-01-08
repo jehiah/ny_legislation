@@ -1,18 +1,17 @@
 {
  "PrintNo":"S8059","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T17:28:08.723747Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-09"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Transportation"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1715","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-09","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-09","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -112,7 +111,7 @@
  ],
  "Sponsors":[
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
-  {"ID":951,"Name":"Pamela Helming","Short":"HELMING"}
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"}
  ],
  "Title":"Establishes a blue envelope program for persons with mental health disorders, behavioral disorders and persons who are neurodivergent",
  "Summary":"Establishes a blue envelope program for persons with mental health disorders, behavioral disorders and persons who are neurodivergent to be provided with blue envelopes to keep their identification, vehicle registration, and other related documents to improve their safety during law enforcement interactions; requires the municipal police training council to promulgate rules and regulations requiring training and instruction for all police officers with respect to the blue envelope program.",

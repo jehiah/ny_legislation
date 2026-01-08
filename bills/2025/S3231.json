@@ -1,11 +1,7 @@
 {
  "PrintNo":"S3231","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T12:51:14.740866Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Election Law",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Election Law"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2025-01-24","Chamber":"SENATE"},
@@ -14,7 +10,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.1611","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ELECTION LAW","Date":"2025-06-11","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ELECTION LAW","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2026-01-08","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -113,8 +113,8 @@
   }
  ],
  "Sponsors":[
-  {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
+  {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
+  {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
  ],
  "Title":"Relates to the qualification of voters",
  "Summary":"Relates to the qualification of voters; provides that a citizen who is seventeen years of age at the time of a primary election and who will be eighteen years of age at the time of the general election for which such primary election is held, shall be eligible to vote in such primary election.",

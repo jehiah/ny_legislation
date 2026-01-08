@@ -1,10 +1,7 @@
 {
  "PrintNo":"S2438","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T14:12:05.356536Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-12","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-26"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-26","Committee":"Health"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-17","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-12","Chamber":"SENATE"},
@@ -13,7 +10,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-26","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-26","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2025-03-26","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2025-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,11 +1,7 @@
 {
  "PrintNo":"S1222","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T14:45:44.787464Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-29","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-06"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Ways And Means"}
- ],
+ "Published":"2025-01-08T14:45:44.787464Z","Status":"IN_SENATE_COMM","Committee":"Disabilities",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Disabilities"}],
  "Actions":[
   {"Text":"REFERRED TO DISABILITIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
@@ -15,7 +11,10 @@
   {"Text":"AMENDED ON THIRD READING 1222A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO DISABILITIES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

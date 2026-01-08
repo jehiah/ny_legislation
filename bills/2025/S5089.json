@@ -1,10 +1,7 @@
 {
  "PrintNo":"S5089","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-18T15:18:50.254468Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-18","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-03-27"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-30"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Housing"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-18","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.594","Date":"2025-03-25","Chamber":"SENATE"},
@@ -12,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-30","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HOUSING","Date":"2025-04-30","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HOUSING","Date":"2025-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

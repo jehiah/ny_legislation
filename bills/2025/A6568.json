@@ -1,13 +1,18 @@
 {
- "PrintNo":"A6568","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T14:48:36.624903Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-06","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A6568","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-06T14:48:36.624903Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Economic Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2026-01-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6568A","Date":"2026-01-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"}
  ],
  "Title":"Requires mandatory background checks for persons employed by certain businesses serving minors and prohibiting certain persons from owning such businesses",
  "Summary":"Requires mandatory background checks for persons employed by or volunteering at any business, organization, or entity that regularly provides instructional, recreational or extracurricular services to minors, including but not limited to dance studios, gymnastic schools, martial arts academies, sports training facilities, music schools and performing arts schools, tutoring and academic enrichment centers; provides for enforcement and penalties; prohibits certain people from owning such businesses.",
- "LawSection":"General Business Law","LawCode":"Add §398-g, Gen Bus L","SameAsPrintNo":"S5257-2025"
+ "LawSection":"General Business Law","LawCode":"Add §398-h, Gen Bus L"
 }

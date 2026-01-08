@@ -1,11 +1,18 @@
 {
- "PrintNo":"S5662","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-26T16:07:45.916395Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Finance"}],
+ "PrintNo":"S5662","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-26T16:07:45.916395Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-02-26","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO CITIES 1","Date":"2025-03-10","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-08","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-08","Chamber":"SENATE"},
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-08",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 5662A","Date":"2026-01-08","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -41,7 +48,6 @@
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Relates to authorizing a reduction of taxes pursuant to shelter rent",
  "Summary":"Relates to authorizing a reduction of taxes pursuant to shelter rent; provides that such taxes shall not be assessed on projects located in New York City.",
- "LawSection":"Private Housing Finance Law","LawCode":"Amd §33, Priv Hous Fin L",
- "ActClause":"AN ACT to amend the private housing finance law, in relation to authorizing a reduction of taxes pursuant to shelter rent",
- "SameAsPrintNo":"A6654-2025"
+ "LawSection":"Private Housing Finance Law","LawCode":"Amd §§33 & 125, Priv Hous Fin L",
+ "ActClause":"AN ACT to amend the private housing finance law, in relation to authorizing a reduction of taxes pursuant to shelter rent"
 }

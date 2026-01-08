@@ -1,11 +1,8 @@
 {
  "PrintNo":"S3256","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-24T13:22:52.602058Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Transportation"}
- ],
+ "Published":"2025-01-24T13:22:52.602058Z","Status":"IN_SENATE_COMM",
+ "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO CODES","Date":"2025-05-20","Chamber":"SENATE"},
@@ -15,7 +12,13 @@
   {"Text":"ORDERED TO THIRD READING CAL.1612","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-01-07","Chamber":"SENATE",
+   "Version":"A"
+  }
  ],
  "Votes":[
   {

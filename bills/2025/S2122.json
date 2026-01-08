@@ -1,11 +1,8 @@
 {
  "PrintNo":"S2122","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-15T13:36:12.203733Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-01","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-14"},{"Type":"PASSED_SENATE","Date":"2025-05-21"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Judiciary"}
- ],
+ "Published":"2025-01-15T13:36:12.203733Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"},
   {
@@ -18,7 +15,13 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE",
+   "Version":"A"
+  }
  ],
  "Votes":[
   {

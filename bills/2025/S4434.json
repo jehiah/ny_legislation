@@ -1,10 +1,7 @@
 {
  "PrintNo":"S4434","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T16:38:20.727732Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-04","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2025-02-24"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-17"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-17","Committee":"Education"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.312","Date":"2025-02-11","Chamber":"SENATE"},
@@ -12,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2025-03-17","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2025-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,10 +1,7 @@
 {
  "PrintNo":"S1641","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T09:42:19.589993Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-03-27"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-28"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-28","Committee":"Codes"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.612","Date":"2025-03-25","Chamber":"SENATE"},
@@ -12,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-28","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-28","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2025-04-28","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2025-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

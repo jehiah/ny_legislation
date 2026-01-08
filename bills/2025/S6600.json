@@ -1,11 +1,8 @@
 {
  "PrintNo":"S6600","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-18T10:21:21.450448Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-18","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Housing"}
- ],
+ "Published":"2025-03-18T10:21:21.450448Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.627","Date":"2025-04-07","Chamber":"SENATE"},
@@ -15,7 +12,13 @@
   {"Text":"AMENDED ON THIRD READING 6600B","Date":"2025-06-04","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO HOUSING","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO HOUSING","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {
+   "Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE",
+   "Version":"B"
+  }
  ],
  "Votes":[
   {

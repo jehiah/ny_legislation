@@ -1,10 +1,9 @@
 {
  "PrintNo":"A4850","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-06T11:01:44.735979Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-06","Committee":"Governmental Employees"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-27"},{"Type":"PASSED_ASSEMBLY","Date":"2025-04-30"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-30","Committee":"Finance"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-02-06","Chamber":"ASSEMBLY"},
@@ -12,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING CAL.76","Date":"2025-03-27","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-04-30","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-04-30","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO FINANCE","Date":"2025-04-30","Chamber":"SENATE"}
+  {"Text":"REFERRED TO FINANCE","Date":"2025-04-30","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.132","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

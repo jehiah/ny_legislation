@@ -1,10 +1,7 @@
 {
  "PrintNo":"S8233","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-27T10:20:11.879222Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-13"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Cities"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2025-05-27","Chamber":"SENATE"},
   {
@@ -15,7 +12,10 @@
   {"Text":"ORDERED TO THIRD READING CAL.2015","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CITIES","Date":"2025-06-13","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CITIES","Date":"2025-06-13","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

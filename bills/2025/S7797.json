@@ -1,11 +1,7 @@
 {
  "PrintNo":"S7797","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-08T17:15:37.254898Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-05-08"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-08"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-08","Committee":"Ways And Means"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-05-08","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.975","Date":"2025-05-08","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2025-05-08","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-08","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-08","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-08","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,11 +1,7 @@
 {
  "PrintNo":"S1672","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-13T10:29:18.330029Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-13"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Ways And Means"}
- ],
+ "Published":"2025-01-13T10:29:18.330029Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2025-05-12","Chamber":"SENATE"},
@@ -17,7 +13,10 @@
   {"Text":"ORDERED TO THIRD READING CAL.1961","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,10 +1,7 @@
 {
  "PrintNo":"S4805","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T09:15:53.21908Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-13","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-17"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-17","Committee":"Aging"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Aging",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Aging"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-02-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.450","Date":"2025-03-04","Chamber":"SENATE"},
@@ -12,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-17","Chamber":"SENATE"},
-  {"Text":"REFERRED TO AGING","Date":"2025-03-17","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO AGING","Date":"2025-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO AGING","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

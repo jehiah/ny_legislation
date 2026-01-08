@@ -1,10 +1,7 @@
 {
  "PrintNo":"S1578","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-10T15:34:36.297182Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-22"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-28"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Health"}
- ],
+ "Published":"2025-01-10T15:34:36.297182Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-04","Chamber":"SENATE"},
@@ -17,7 +14,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO HEALTH","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO HEALTH","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,10 +1,7 @@
 {
  "PrintNo":"A1529","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-10T12:26:40.457765Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-10"},{"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"}
- ],
+ "Published":"2025-01-10T12:26:40.457765Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-10","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
@@ -15,7 +12,10 @@
   {"Text":"AMENDED ON THIRD READING 1529A","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.59","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

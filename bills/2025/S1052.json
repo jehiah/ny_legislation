@@ -1,11 +1,7 @@
 {
  "PrintNo":"S1052","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T14:53:31.234873Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Commerce, Economic Development And Small Business"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-17"},{"Type":"PASSED_SENATE","Date":"2025-03-18"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-18","Committee":"Economic Development"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Commerce, Economic Development And Small Business",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Commerce, Economic Development And Small Business"}],
  "Actions":[
   {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.545","Date":"2025-03-12","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-18","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-18","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

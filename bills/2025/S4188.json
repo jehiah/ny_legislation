@@ -1,10 +1,7 @@
 {
  "PrintNo":"S4188","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-03T12:56:43.148692Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2025-05-14"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-22","Committee":"Codes"}
- ],
+ "Published":"2025-02-03T12:56:43.148692Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.364","Date":"2025-02-24","Chamber":"SENATE"},
@@ -19,7 +16,10 @@
   {"Text":"AMENDED ON THIRD READING 4188A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

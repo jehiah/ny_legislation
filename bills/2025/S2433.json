@@ -1,10 +1,7 @@
 {
  "PrintNo":"S2433","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-17T11:31:25.78347Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-17","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-09"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Housing"}
- ],
+ "Published":"2025-01-17T11:31:25.78347Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-17","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.634","Date":"2025-04-07","Chamber":"SENATE"},
@@ -13,7 +10,10 @@
   {"Text":"AMENDED ON THIRD READING (T) 2433A","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO HOUSING","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO HOUSING","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

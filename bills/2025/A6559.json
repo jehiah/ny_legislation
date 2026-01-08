@@ -1,12 +1,7 @@
 {
  "PrintNo":"A6559","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:45:02.460654Z","Status":"IN_SENATE_COMM",
- "Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-21"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-21"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-21","Committee":"Veterans, Homeland Security And Military Affairs"}
- ],
+ "Published":"2025-03-06T14:45:02.460654Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO VETERANS' AFFAIRS","Date":"2025-05-05","Chamber":"ASSEMBLY"},
@@ -22,7 +17,10 @@
   {
    "Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-05-21","Chamber":"SENATE",
    "Version":"B"
-  }
+  },
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.164","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

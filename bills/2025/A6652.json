@@ -1,9 +1,8 @@
 {
  "PrintNo":"A6652","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T15:15:47.7261Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Published":"2025-03-06T15:15:47.7261Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-04"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},{"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-06","Chamber":"ASSEMBLY"},
@@ -20,7 +19,10 @@
   {"Text":"AMENDED ON THIRD READING (T) 6652B","Date":"2025-06-04","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"COMMITTED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"B"}
+  {"Text":"COMMITTED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.170","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,12 +1,7 @@
 {
  "PrintNo":"S2011","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T15:15:50.386568Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-25","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-19"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-19","Committee":"Consumer Affairs And Protection"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-25","Chamber":"SENATE"},
@@ -17,7 +12,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-19","Chamber":"SENATE"},
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-03-19","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A5592","Date":"2025-06-16","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.792","Date":"2025-06-16","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.792","Date":"2025-06-16","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

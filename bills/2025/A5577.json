@@ -1,12 +1,7 @@
 {
  "PrintNo":"A5577","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-18T09:47:01.013557Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-29"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-29","Committee":"Investigations And Government Operations"}
- ],
+ "Published":"2025-02-18T09:47:01.013557Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-18","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2025-03-10","Chamber":"ASSEMBLY"},
@@ -18,7 +13,10 @@
   {"Text":"HOME RULE REQUEST","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

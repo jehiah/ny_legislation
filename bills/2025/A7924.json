@@ -1,12 +1,17 @@
 {
- "PrintNo":"A7924","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-15T15:00:05.550564Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-15","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-04-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A7924","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-15T15:00:05.550564Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Economic Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-04-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2026-01-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7924A","Date":"2026-01-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":539,"Name":"J. Gary Pretlow","Short":"PRETLOW"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"}],
  "Title":"Relates to the practice of natural hair care and braiding",
  "Summary":"Relates to the practice of natural hair care and braiding; creates an apprenticeship in such area; makes conforming technical changes.",
  "LawSection":"General Business Law","LawCode":"Amd Gen Bus L, generally",
  "ActClause":"AN ACT to amend the general business law, in relation to the practice of natural hair care and braiding",
- "SameAsPrintNo":"S6652-2025","PreviousVersions":["A8624-2023"]
+ "PreviousVersions":["A8624-2023"]
 }

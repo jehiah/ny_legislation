@@ -1,11 +1,7 @@
 {
  "PrintNo":"A852","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-07T12:15:47.567097Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-20"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Consumer Protection"}
- ],
+ "Published":"2025-01-07T12:15:47.567097Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-24","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-02-24","Chamber":"ASSEMBLY"},
@@ -15,7 +11,10 @@
   {"Text":"AMENDED ON THIRD READING 852B","Date":"2025-05-08","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-20","Chamber":"SENATE","Version":"B"}
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.32","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,11 +1,7 @@
 {
  "PrintNo":"S4102","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T16:19:08.802884Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-31","Committee":"Mental Health"},{"Type":"SENATE_FLOOR","Date":"2025-05-27"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Mental Health"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Mental Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Mental Health"}],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-31","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1270","Date":"2025-05-21","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

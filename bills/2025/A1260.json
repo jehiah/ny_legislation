@@ -1,9 +1,8 @@
 {
  "PrintNo":"A1260","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:56:05.577143Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-15"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-19"},{"Type":"IN_SENATE_COMM","Date":"2025-05-19","Committee":"Insurance"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -11,7 +10,10 @@
   {"Text":"ADVANCED TO THIRD READING CAL.144","Date":"2025-05-15","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-19","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-19","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2025-05-19","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-05-19","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.46","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

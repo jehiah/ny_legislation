@@ -1,11 +1,7 @@
 {
  "PrintNo":"S290","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-24T10:22:39.921623Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-12"},{"Type":"PASSED_SENATE","Date":"2025-06-09"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Transportation"}
- ],
+ "Published":"2024-12-24T10:22:39.921623Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.779","Date":"2025-04-29","Chamber":"SENATE"},
@@ -14,7 +10,10 @@
   {"Text":"AMENDED ON THIRD READING (T) 290A","Date":"2025-05-12","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

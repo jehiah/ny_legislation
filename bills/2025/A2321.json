@@ -1,10 +1,9 @@
 {
  "PrintNo":"A2321","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T10:44:25.266867Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-03-13"},{"Type":"PASSED_ASSEMBLY","Date":"2025-03-17"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-17","Committee":"Investigations And Government Operations"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-16","Chamber":"ASSEMBLY"},
@@ -12,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING CAL.55","Date":"2025-03-13","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-03-17","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-03-17","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-17","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-17","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.84","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -51,5 +53,5 @@
  "Summary":"Requires all agencies to submit to the committee on open government a log of all freedom of information law requests for each year in which they received or have pending a request for records; requires the committee on open government to publish, on one webpage, all freedom of information law request logs it receives.",
  "LawSection":"Public Officers Law","LawCode":"Ren §90 to be §90-a, add §90, Pub Off L",
  "ActClause":"AN ACT to amend the public officers law, in relation to requiring agencies to report information about FOIL inquiries to the committee on open government",
- "SameAsPrintNo":"S452-2025","PreviousVersions":["A9621-2023"]
+ "PreviousVersions":["A9621-2023"]
 }

@@ -1,11 +1,7 @@
 {
  "PrintNo":"S5553","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-24T15:18:15.557139Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-24","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-19"},{"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Energy"}
- ],
+ "Published":"2025-02-24T15:18:15.557139Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-24","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-04-24","Chamber":"SENATE"},
@@ -16,7 +12,10 @@
   {"Text":"AMENDED ON THIRD READING 5553B","Date":"2025-05-19","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO ENERGY","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO ENERGY","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -107,6 +106,5 @@
  "Title":"Enacts the \"rate hike notice act\"",
  "Summary":"Enacts the \"rate hike notice act\" which requires utilities in the state of New York to provide notice of a proposed rate hike to a customer via text, email and via such customer's monthly billing statement.",
  "LawSection":"Public Service Law","LawCode":"Amd §66, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to enacting the \"rate hike notice act\"",
- "SameAsPrintNo":"A5442-2025"
+ "ActClause":"AN ACT to amend the public service law, in relation to enacting the \"rate hike notice act\""
 }

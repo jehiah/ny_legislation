@@ -1,11 +1,7 @@
 {
  "PrintNo":"S2470","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T09:45:32.320021Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-21","Committee":"Cities 1"},{"Type":"SENATE_FLOOR","Date":"2025-04-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-28"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Real Property Taxation"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Cities 1",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cities 1"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.653","Date":"2025-04-08","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CITIES 1","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,17 +1,16 @@
 {
  "PrintNo":"S8385","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-06T16:25:14.224969Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-12"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Governmental Operations"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Procurement And Contracts"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-06","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1933","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-12","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

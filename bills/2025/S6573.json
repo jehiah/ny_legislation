@@ -1,10 +1,7 @@
 {
  "PrintNo":"S6573","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-17T16:07:22.567834Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-11"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Codes"}
- ],
+ "Published":"2025-03-17T16:07:22.567834Z","Status":"IN_SENATE_COMM","Committee":"Agriculture",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO LOCAL GOVERNMENT","Date":"2025-05-14","Chamber":"SENATE"},
@@ -14,7 +11,10 @@
   {"Text":"ORDERED TO THIRD READING CAL.1821","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

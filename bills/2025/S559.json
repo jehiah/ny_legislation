@@ -1,11 +1,7 @@
 {
  "PrintNo":"S559","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T12:47:49.217335Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-10","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-03-13"},
-  {"Type":"PASSED_SENATE","Date":"2025-04-30"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-30","Committee":"Ways And Means"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Elections",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Elections"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-10","Chamber":"SENATE"},
@@ -14,7 +10,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-13","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-04-30","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-04-30","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-04-30","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

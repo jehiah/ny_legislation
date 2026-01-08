@@ -1,11 +1,7 @@
 {
  "PrintNo":"S624","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T09:34:00.372447Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-22"},{"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Local Governments"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1142","Date":"2025-05-20","Chamber":"SENATE"},
@@ -14,7 +10,10 @@
   {"Text":"HOME RULE REQUEST","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-06-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S2331","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T13:51:00.04024Z",
  "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2025-01-16","Chamber":"SENATE"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2025-01-16","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
   {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
@@ -16,5 +19,5 @@
  "Summary":"Decriminalizes the possession of buprenorphine from certain crimes.","LawSection":"Penal Law",
  "LawCode":"Amd §220.00, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to decriminalizing the possession of buprenorphine",
- "PreviousVersions":["A10109-2019","S2524-2021","S699-2023"]
+ "SameAsPrintNo":"A1647-2025","PreviousVersions":["A10109-2019","S2524-2021","S699-2023"]
 }

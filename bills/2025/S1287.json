@@ -1,12 +1,7 @@
 {
- "PrintNo":"S1287","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T09:31:08.66868Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-30","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2025-03-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-03-19"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-19","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-05-29"}
- ],
+ "PrintNo":"S1287","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T09:31:08.66868Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-01-30","Chamber":"SENATE"},
@@ -18,7 +13,12 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-19","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-03-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"SUBSTITUTED FOR A1296A","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.291","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.291","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-01-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 1287B","Date":"2026-01-08","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -113,6 +113,7 @@
   {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
   {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
@@ -120,7 +121,7 @@
  ],
  "Title":"Establishes the rare disease advisory council",
  "Summary":"Establishes the rare disease advisory council to identify best practices, raise awareness regarding rare diseases, evaluate barriers to access to care, and to make recommendations to the legislature and the governor.",
- "LawSection":"Public Health Law","LawCode":"Add Title 2-F §245, Pub Health L",
+ "LawSection":"Public Health Law","LawCode":"Add Art 2 Title 2-F §245, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to establishing the rare disease advisory council",
- "SameAsPrintNo":"A1296-2025","PreviousVersions":["S9724-2023"]
+ "PreviousVersions":["S9724-2023"]
 }

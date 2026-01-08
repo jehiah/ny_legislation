@@ -1,10 +1,9 @@
 {
  "PrintNo":"A6581","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:52:49.560432Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Published":"2025-03-06T14:52:49.560432Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-27","Committee":"Environmental Conservation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-03"},{"Type":"PASSED_ASSEMBLY","Date":"2025-05-20"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Environmental Conservation"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-06","Chamber":"ASSEMBLY"},
@@ -14,7 +13,10 @@
   {"Text":"ADVANCED TO THIRD READING CAL.94","Date":"2025-04-03","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-20","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.167","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -68,5 +70,6 @@
  "Summary":"Excludes certain amphibians and reptiles from the definition of small game and makes conforming changes.",
  "LawSection":"Environmental Conservation Law",
  "LawCode":"Amd §§11-0103, 11-0701, 11-0703, 11-0707, 11-0901, 11-0903 & 11-0905, rpld §11-0905 sub 2 ¶¶t & u, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to excluding amphibians and reptiles from the definition of small game; and to repeal certain provisions of such law relating thereto"
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to excluding amphibians and reptiles from the definition of small game; and to repeal certain provisions of such law relating thereto",
+ "SameAsPrintNo":"S8693-2025"
 }

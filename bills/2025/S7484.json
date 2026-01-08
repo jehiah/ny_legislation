@@ -1,11 +1,7 @@
 {
  "PrintNo":"S7484","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-17T12:49:27.933024Z","Status":"IN_ASSEMBLY_COMM","Committee":"People With Disabilities",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Disabilities"},{"Type":"SENATE_FLOOR","Date":"2025-05-29"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"People With Disabilities"}
- ],
+ "Published":"2025-04-17T12:49:27.933024Z","Status":"IN_SENATE_COMM","Committee":"Disabilities",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Disabilities"}],
  "Actions":[
   {"Text":"REFERRED TO DISABILITIES","Date":"2025-04-17","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO DISABILITIES","Date":"2025-05-20","Chamber":"SENATE"},
@@ -15,7 +11,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO DISABILITIES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,10 +1,7 @@
 {
  "PrintNo":"A265","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-31T11:18:01.843555Z","Status":"PASSED_ASSEMBLY",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-13"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-13"}
- ],
+ "Published":"2024-12-31T11:18:01.843555Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-01-10","Chamber":"ASSEMBLY"},
@@ -15,7 +12,10 @@
   {"Text":"RULES REPORT CAL.705","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.705","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"DELIVERED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO SENATE","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.9","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

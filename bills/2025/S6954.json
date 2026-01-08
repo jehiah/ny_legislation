@@ -1,11 +1,7 @@
 {
  "PrintNo":"S6954","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-27T11:27:19.939956Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-03-27","Committee":"Internet And Technology"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-06"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-17"}
- ],
+ "Published":"2025-03-27T11:27:19.939956Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Internet And Technology"}],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1509","Date":"2025-05-29","Chamber":"SENATE"},
@@ -16,7 +12,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO CODES","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"SUBSTITUTED FOR A6540C","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.900","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.900","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

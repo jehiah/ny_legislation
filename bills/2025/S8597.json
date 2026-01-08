@@ -1,9 +1,15 @@
 {
  "PrintNo":"S8597","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-12-03T12:00:22.009565Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-12-03","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-12-03","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
+ "Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-12-03","Chamber":"SENATE"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+ ],
+ "Sponsors":[
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
+  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}
+ ],
  "Title":"Prohibits children from being denied access to a free public education due to citizenship or immigration status",
  "Summary":"Prohibits children from being denied access to a free public education on account of perceived or actual citizenship or immigration status or the perceived or actual citizenship or immigration status of their parents or person in a parental relationship.",
  "LawSection":"Education Law","LawCode":"Add §3201-b, Ed L",

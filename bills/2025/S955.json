@@ -1,11 +1,7 @@
 {
  "PrintNo":"S955","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T11:36:02.240208Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-02-03","Committee":"Internet And Technology"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-07"},{"Type":"PASSED_SENATE","Date":"2025-05-14"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-14","Committee":"Housing"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO INTERNET AND TECHNOLOGY","Date":"2025-02-03","Chamber":"SENATE"},
@@ -14,7 +10,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-07","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HOUSING","Date":"2025-05-14","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HOUSING","Date":"2025-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,11 +1,7 @@
 {
  "PrintNo":"S1100","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T10:07:58.560246Z","Status":"IN_ASSEMBLY_COMM","Committee":"Libraries And Education Technology",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2025-06-09"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Libraries And Education Technology"}
- ],
+ "Published":"2025-01-08T10:07:58.560246Z","Status":"IN_SENATE_COMM","Committee":"Libraries",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Libraries"}],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.650","Date":"2025-04-08","Chamber":"SENATE"},
@@ -20,7 +16,10 @@
   {"Text":"AMENDED ON THIRD READING 1100A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO LIBRARIES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

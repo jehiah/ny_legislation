@@ -1,10 +1,7 @@
 {
  "PrintNo":"S3690","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-29T12:40:50.600278Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2025-06-04"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-10"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Judiciary"}
- ],
+ "Published":"2025-01-29T12:40:50.600278Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-29","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.540","Date":"2025-03-11","Chamber":"SENATE"},
@@ -19,7 +16,10 @@
   {"Text":"AMENDED ON THIRD READING 3690A","Date":"2025-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

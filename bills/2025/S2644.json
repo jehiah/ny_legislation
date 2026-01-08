@@ -1,11 +1,7 @@
 {
  "PrintNo":"S2644","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T10:44:30.666532Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-05","Committee":"Alcoholism And Substance Use Disorders"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-28"},{"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Insurance"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-05-05","Chamber":"SENATE"},
@@ -14,7 +10,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2025-06-11","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2025-06-11","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

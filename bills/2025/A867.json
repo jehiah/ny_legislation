@@ -1,17 +1,17 @@
 {
  "PrintNo":"A867","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T12:21:47.967159Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-03-27"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-04-01"},{"Type":"IN_SENATE_COMM","Date":"2025-04-01","Committee":"Codes"}
- ],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-08","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.69","Date":"2025-03-27","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-04-01","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CODES","Date":"2025-04-01","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CODES","Date":"2025-04-01","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.33","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

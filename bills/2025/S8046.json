@@ -1,10 +1,8 @@
 {
  "PrintNo":"S8046","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T17:07:22.878537Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-11"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Housing"}
- ],
+ "Published":"2025-05-15T17:07:22.878537Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-15","Chamber":"SENATE"},
   {
@@ -16,7 +14,13 @@
   {"Text":"ORDERED TO THIRD READING CAL.1851","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO HOUSING","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO HOUSING","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE",
+   "Version":"A"
+  }
  ],
  "Votes":[
   {

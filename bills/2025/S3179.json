@@ -1,12 +1,7 @@
 {
  "PrintNo":"S3179","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T09:38:05.78313Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-24","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-03"},{"Type":"PASSED_SENATE","Date":"2025-03-24"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-24","Committee":"Environmental Conservation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-04-07"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.396","Date":"2025-02-25","Chamber":"SENATE"},
@@ -16,7 +11,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-24","Chamber":"SENATE"},
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-24","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A1388","Date":"2025-04-07","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING CAL.86","Date":"2025-04-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.86","Date":"2025-04-07","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

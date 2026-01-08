@@ -1,11 +1,7 @@
 {
  "PrintNo":"S3632","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T09:45:21.498675Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Alcoholism And Drug Abuse",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-29","Committee":"Alcoholism And Substance Use Disorders"},
-  {"Type":"SENATE_FLOOR","Date":"2025-03-04"},{"Type":"PASSED_SENATE","Date":"2025-03-25"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-25","Committee":"Alcoholism And Drug Abuse"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Alcoholism And Substance Use Disorders",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Alcoholism And Substance Use Disorders"}],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-01-29","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.416","Date":"2025-02-26","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-03-25","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-03-25","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

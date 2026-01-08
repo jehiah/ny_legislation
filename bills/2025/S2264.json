@@ -1,11 +1,7 @@
 {
  "PrintNo":"S2264","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:27:13.852526Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-16","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-22"},{"Type":"PASSED_SENATE","Date":"2025-06-06"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Governmental Employees"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-01-16","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1163","Date":"2025-05-20","Chamber":"SENATE"},
@@ -13,7 +9,10 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2025-06-06","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-06","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-06","Chamber":"ASSEMBLY"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

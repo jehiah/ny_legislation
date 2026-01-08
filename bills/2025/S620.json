@@ -1,11 +1,7 @@
 {
  "PrintNo":"S620","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-03T09:32:31.164559Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Higher Education"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-09"},{"Type":"PASSED_SENATE","Date":"2025-06-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-12","Committee":"Higher Education"}
- ],
+ "Published":"2025-01-03T09:32:31.164559Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.225","Date":"2025-02-03","Chamber":"SENATE"},
@@ -20,7 +16,10 @@
   {"Text":"AMENDED ON THIRD READING 620A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-06-12","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -175,7 +174,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}],
+ "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Relates to the practice of professional geology","Summary":"Relates to the practice of professional geology.",
  "LawSection":"Education Law","LawCode":"Amd §§7209 & 7210, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to the practice of professional geology",

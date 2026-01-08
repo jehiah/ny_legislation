@@ -1,10 +1,7 @@
 {
  "PrintNo":"A1962","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-14T12:03:16.363555Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-10"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-11"},{"Type":"IN_SENATE_COMM","Date":"2025-06-11","Committee":"Rules"}
- ],
+ "Published":"2025-01-14T12:03:16.363555Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-01-29","Chamber":"ASSEMBLY"},
@@ -17,7 +14,10 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.550","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"B"}
+  {"Text":"REFERRED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.75","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -135,5 +135,5 @@
  "Summary":"Enacts \"Francesco's law\" which establishes violations for the failure to safely store rifles, shotguns, and firearms in the presence of a minor or a prohibited person; requires the office of gun violence prevention to collect and analyze statistical and other information and data with respect to injuries or deaths of minors resulting from failure to safely store a firearm, rifle, or shotgun.",
  "LawSection":"Penal Law","LawCode":"Amd §§265.45 & 400.00, add §265.51, rpld §265.46, Pen L; amd §837-y, Exec L",
  "ActClause":"AN ACT to amend the penal law, in relation to enacting \"Francesco's law\"; to amend the executive law, in relation to annual reports by the New York state office of gun violence prevention; and providing for the repeal of certain provisions of the penal law relating to safely storing rifles, shotguns, and firearms",
- "SameAsPrintNo":"S3385-2025","PreviousVersions":["A10451-2023"]
+ "PreviousVersions":["A10451-2023"]
 }

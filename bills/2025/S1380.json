@@ -1,12 +1,8 @@
 {
  "PrintNo":"S1380","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T13:16:10.207055Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Tourism, Parks, Arts And Sports Development",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-09","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
-  {"Type":"SENATE_FLOOR","Date":"2025-05-06"},{"Type":"PASSED_SENATE","Date":"2025-05-15"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-15","Committee":"Tourism, Parks, Arts And Sports Development"}
- ],
+ "Published":"2025-01-09T13:16:10.207055Z","Status":"IN_SENATE_COMM",
+ "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.662","Date":"2025-04-08","Chamber":"SENATE"},
@@ -23,6 +19,12 @@
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
   {
    "Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-05-15","Chamber":"ASSEMBLY",
+   "Version":"A"
+  },
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-01-07","Chamber":"SENATE",
    "Version":"A"
   }
  ],

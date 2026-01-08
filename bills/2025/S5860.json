@@ -1,11 +1,7 @@
 {
  "PrintNo":"S5860","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-03T14:05:13.004955Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-06-10","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-10","Committee":"Higher Education"}
- ],
+ "Published":"2025-03-03T14:05:13.004955Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-05-21","Chamber":"SENATE"},
@@ -16,7 +12,10 @@
   {"Text":"ORDERED TO THIRD READING CAL.1755","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

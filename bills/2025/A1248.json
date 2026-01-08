@@ -1,11 +1,7 @@
 {
  "PrintNo":"A1248","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-09T10:51:48.032481Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-22"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-27"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-27","Committee":"Consumer Protection"}
- ],
+ "Published":"2025-01-09T10:51:48.032481Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"},
@@ -28,7 +24,10 @@
   {"Text":"AMENDED ON THIRD READING 1248B","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPASSED ASSEMBLY","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RETURNED TO SENATE","Date":"2025-05-27","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RECOMMITTED TO CONSUMER PROTECTION","Date":"2025-05-27","Chamber":"SENATE","Version":"B"}
+  {"Text":"RECOMMITTED TO CONSUMER PROTECTION","Date":"2025-05-27","Chamber":"SENATE","Version":"B"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.44","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

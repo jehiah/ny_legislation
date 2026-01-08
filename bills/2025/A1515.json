@@ -1,10 +1,7 @@
 {
  "PrintNo":"A1515","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T12:20:54.515031Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-06-06"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-06-06"},{"Type":"IN_SENATE_COMM","Date":"2025-06-13","Committee":"Rules"}
- ],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-01-10","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-04","Chamber":"ASSEMBLY"},
@@ -17,7 +14,10 @@
   {"Text":"SUBSTITUTED FOR S3698","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.389","Date":"2025-06-11","Chamber":"SENATE"},
   {"Text":"SUBSTITUTION RECONSIDERED","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"RECOMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"}
+  {"Text":"RECOMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.58","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

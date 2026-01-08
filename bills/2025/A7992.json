@@ -1,17 +1,17 @@
 {
  "PrintNo":"A7992","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-16T15:23:51.780223Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-16","Committee":"Cities"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-12"},{"Type":"IN_SENATE_COMM","Date":"2025-05-12","Committee":"Cities 1"}
- ],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-16","Committee":"Cities"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-04-16","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.133","Date":"2025-05-08","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-12","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-12","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CITIES 1","Date":"2025-05-12","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CITIES 1","Date":"2025-05-12","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.199","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

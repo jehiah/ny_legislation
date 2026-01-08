@@ -1,12 +1,7 @@
 {
  "PrintNo":"S3866","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-30T13:17:38.318116Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-22","Committee":"Women's Issues"},
-  {"Type":"SENATE_FLOOR","Date":"2025-06-04"},{"Type":"PASSED_SENATE","Date":"2025-06-13"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2025-06-16"}
- ],
+ "Published":"2025-01-30T13:17:38.318116Z","Status":"IN_SENATE_COMM","Committee":"Women's Issues",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Women's Issues"}],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO WOMEN'S ISSUES","Date":"2025-04-22","Chamber":"SENATE"},
@@ -19,7 +14,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"SUBSTITUTED FOR A1740A","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.771","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.771","Date":"2025-06-16","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-01-07","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

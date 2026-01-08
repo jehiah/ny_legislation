@@ -1,11 +1,7 @@
 {
  "PrintNo":"S6956","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-27T11:27:53.59785Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-04-08","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-06-10"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-13"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-13","Committee":"Governmental Employees"}
- ],
+ "Published":"2025-03-27T11:27:53.59785Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-08","Chamber":"SENATE"},
@@ -16,7 +12,10 @@
   {"Text":"AMENDED ON THIRD READING 6956B","Date":"2025-06-10","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-13","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

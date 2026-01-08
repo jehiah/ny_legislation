@@ -1,18 +1,17 @@
 {
  "PrintNo":"A8151","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-02T11:50:36.568554Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-02","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2025-05-08"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2025-05-20"},
-  {"Type":"IN_SENATE_COMM","Date":"2025-05-20","Committee":"Energy And Telecommunications"}
- ],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-02","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-05-02","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-06","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.138","Date":"2025-05-08","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2025-05-20","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-20","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-20","Chamber":"SENATE"},
+  {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.205","Date":"2026-01-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

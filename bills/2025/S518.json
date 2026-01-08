@@ -1,11 +1,7 @@
 {
- "PrintNo":"S518","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-02T09:37:43.367375Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-08","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2025-05-20"},
-  {"Type":"PASSED_SENATE","Date":"2025-05-29"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Governmental Operations"}
- ],
+ "PrintNo":"S518","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T09:37:43.367375Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.109","Date":"2025-01-21","Chamber":"SENATE"},
@@ -20,7 +16,12 @@
   {"Text":"AMENDED ON THIRD READING 518A","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2025-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2026-01-08","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 518B","Date":"2026-01-08","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -194,6 +195,6 @@
  "Summary":"Requires the inclusion of diversity and inclusion training in the basic training and pre-employment course curricula for state police officers and municipal police officers and sheriffs, members of fire departments and companies, corrections officers, first responders, emergency medical technicians and advanced emergency medical technicians.",
  "LawSection":"Executive Law",
  "LawCode":"Add §214-j, Exec L; add §208-i, amd §204-d, Gen Muni L; add §155-a, Town L; add §22-b, Cor L; amd §3002, Pub Health L",
- "ActClause":"AN ACT to amend the executive law, the general municipal law and the town law, in relation to requiring the inclusion of diversity and inclusion training in the basic training and pre-employment course curriculums for state police officers and municipal police officers and sheriffs; to amend the general municipal law, in relation to requiring the inclusion of diversity and inclusion training in the basic training and pre-employment course curricula for members of fire departments and companies; to amend the correction law, in relation to requiring the inclusion of diversity and inclusion training in the basic training and pre-employment course curricula for correction officers; and to amend the public health law, in relation to requiring the inclusion of diversity and inclusion training in the basic training and pre-employment course curricula for career first responders, emergency medical technicians and advanced emergency medical technicians",
- "SameAsPrintNo":"A5501-2025","PreviousVersions":["S8579-2019","S341-2021","S1211-2023"]
+ "ActClause":"AN ACT to amend the executive law, the general municipal law and the town law, in relation to requiring the inclusion of cultural competency training in the basic training and pre-employment course curriculums for state police officers and municipal police officers and sheriffs; to amend the general municipal law, in relation to requiring the inclusion of cultural competency training in the basic training and pre-employment course curricula for members of fire departments and companies; to amend the correction law, in relation to requiring the inclusion of cultural competency training in the basic training and pre-employment course curricula for correction officers; and to amend the public health law, in relation to requiring the inclusion of cultural competency training in the basic training and pre-employment course curricula for career first responders, emergency medical technicians and advanced emergency medical technicians",
+ "PreviousVersions":["S8579-2019","S341-2021","S1211-2023"]
 }

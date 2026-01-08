@@ -1,11 +1,7 @@
 {
  "PrintNo":"S1783","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-13T14:48:38.763576Z","Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2025-01-13","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2025-05-07"},
-  {"Type":"PASSED_SENATE","Date":"2025-06-11"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-11","Committee":"Agriculture"}
- ],
+ "Published":"2025-01-13T14:48:38.763576Z","Status":"IN_SENATE_COMM","Committee":"Agriculture",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.262","Date":"2025-02-04","Chamber":"SENATE"},
@@ -14,7 +10,10 @@
   {"Text":"AMENDED ON THIRD READING 1783A","Date":"2025-05-07","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

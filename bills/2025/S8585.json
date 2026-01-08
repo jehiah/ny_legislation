@@ -1,9 +1,15 @@
 {
  "PrintNo":"S8585","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-11-17T15:24:07.425364Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2025-11-17","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2025-11-17","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
+ "Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2025-11-17","Chamber":"SENATE"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"}
+ ],
+ "Sponsors":[
+  {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"}
+ ],
  "Title":"Relates to recovery for climate disaster losses",
  "Summary":"Provides that the attorney general may bring a civil action against a responsible party for recovery of certain costs and assessments arising from a climate disaster; provides that an insurer doing business in this state and the New York property insurance underwriting association who has suffered harm as a result of a climate disaster may bring a civil action against a responsible party.",
  "LawSection":"Insurance Law","LawCode":"Add §§3463 & 4122, amd §2304, Ins L",
