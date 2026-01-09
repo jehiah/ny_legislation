@@ -1,7 +1,8 @@
 {
- "PrintNo":"S595","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T15:30:57.596798Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "PrintNo":"S595","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T15:30:57.596798Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-09","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-03","Chamber":"SENATE"},
@@ -12,7 +13,12 @@
   {"Text":"REFERRED TO HOUSING","Date":"2025-06-11","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-09",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 595A","Date":"2026-01-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -133,7 +139,7 @@
  ],
  "Title":"Establishes the small rental housing development initiative to provide funding to eligible applicants to construct small rental housing developments in eligible areas",
  "Summary":"Establishes the small rental housing development initiative to provide funding to eligible applicants to construct small rental housing developments in eligible areas.",
- "LawSection":"Private Housing Finance Law","LawCode":"Add Art 17-C §§1060 - 1062, Priv Hous Fin L",
+ "LawSection":"Private Housing Finance Law","LawCode":"Add Art 33 §§1300 - 1302, Priv Hous Fin L",
  "ActClause":"AN ACT to amend the private housing finance law, in relation to establishing the small rental housing development initiative",
- "PreviousVersions":["S9356-2021","S1685-2023"]
+ "SameAsPrintNo":"A489-2025","PreviousVersions":["S9356-2021","S1685-2023"]
 }
