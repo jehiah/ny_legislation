@@ -1,7 +1,7 @@
 {
- "PrintNo":"A1296","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A1296","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-09T11:20:07.643169Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-01-29","Chamber":"ASSEMBLY"},
@@ -12,7 +12,8 @@
   {"Text":"RULES REPORT CAL.291","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.291","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"SUBSTITUTED BY S1287A","Date":"2025-05-29","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.47","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.47","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 1296B","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -135,11 +136,11 @@
   {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},{"ID":1135,"Name":"Angelo J. Morinello","Short":"MORINELLO"},
   {"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},
-  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"}
  ],
  "Title":"Establishes the rare disease advisory council",
  "Summary":"Establishes the rare disease advisory council to identify best practices, raise awareness regarding rare diseases, evaluate barriers to access to care, and to make recommendations to the legislature and the governor.",
- "LawSection":"Public Health Law","LawCode":"Add Title 2-F §245, Pub Health L",
+ "LawSection":"Public Health Law","LawCode":"Add Art 2 Title 2-F §245, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to establishing the rare disease advisory council",
- "PreviousVersions":["A10292-2023"]
+ "SameAsPrintNo":"S1287-2025","PreviousVersions":["A10292-2023"]
 }
