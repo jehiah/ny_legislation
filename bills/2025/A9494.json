@@ -1,8 +1,28 @@
 {
  "PrintNo":"A9494","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-07T17:07:30.361306Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-13","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-01-13","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-01-13","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":0,"Short":"DINOWITZ","Vote":"Aye"},{"ID":0,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"REILLY","Vote":"Aye"},{"ID":0,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":0,"Short":"WEPRIN","Vote":"Aye"},{"ID":0,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":0,"Short":"HEVESI","Vote":"Aye"},{"ID":0,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":0,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":0,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":0,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":0,"Short":"WALKER","Vote":"Aye"},
+    {"ID":0,"Short":"VANEL","Vote":"Aye"},{"ID":0,"Short":"CRUZ","Vote":"Aye"},{"ID":0,"Short":"BORES","Vote":"Aye"},
+    {"ID":0,"Short":"REYES","Vote":"Aye"},{"ID":0,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":0,"Short":"ROMERO","Vote":"Aye"},{"ID":0,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":0,"Short":"LAVINE","Vote":"Excused"},{"ID":0,"Short":"COOK","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
  "Title":"Relates to the removal of actions to certain courts in an adjoining county",
  "Summary":"Allows the removal of criminal actions to a mental health court in an adjoining county and provides for the reversion to the original court of record where the defendant fails to comply with or complete the mental health court program.",

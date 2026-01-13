@@ -1,10 +1,24 @@
 {
  "PrintNo":"A9438","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-06T13:57:58.554253Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Energy"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2026-01-06","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-01-13","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-01-13","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":0,"Short":"BARRETT","Vote":"Aye"},{"ID":0,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":0,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":0,"Short":"DILAN","Vote":"Aye"},
+    {"ID":0,"Short":"STERN","Vote":"Aye"},{"ID":0,"Short":"GRAY","Vote":"Aye"},{"ID":0,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":0,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":0,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":0,"Short":"CONRAD","Vote":"Aye"},{"ID":0,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":0,"Short":"SHRESTHA","Vote":"Aye"},{"ID":0,"Short":"CLARK","Vote":"Aye"},{"ID":0,"Short":"DAIS","Vote":"Aye"},
+    {"ID":0,"Short":"PALMESANO","Vote":"Nay"},{"ID":0,"Short":"MANKTELOW","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"}],
  "Title":"Relates to price comparisons of prices charged by energy services companies",

@@ -1,15 +1,54 @@
 {
  "PrintNo":"A9461","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-06T17:43:11.996452Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Consumer Affairs And Protection"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-13","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-06","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-01-12","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-01-13","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-01-12","Chamber":"ASSEMBLY",
+   "Committee":"CONSUMER AFFAIRS AND PROTECTION",
+   "Votes":[
+    {"ID":0,"Short":"ROZIC","Vote":"Aye"},{"ID":0,"Short":"MIKULIN","Vote":"Aye"},{"ID":0,"Short":"FALL","Vote":"Aye"},
+    {"ID":0,"Short":"MILLER","Vote":"Aye"},{"ID":0,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":0,"Short":"BLUMENCRANZ","Vote":"Aye"},{"ID":0,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":0,"Short":"DURSO","Vote":"Aye"},{"ID":0,"Short":"FORREST","Vote":"Aye"},
+    {"ID":0,"Short":"BOLOGNA","Vote":"Aye"},{"ID":0,"Short":"BORES","Vote":"Aye"},{"ID":0,"Short":"LEE","Vote":"Aye"},
+    {"ID":0,"Short":"ALVAREZ","Vote":"Aye"},{"ID":0,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":0,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-01-13","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":0,"Short":"ROZIC","Vote":"Aye"},{"ID":0,"Short":"MIKULIN","Vote":"Aye"},{"ID":0,"Short":"FALL","Vote":"Aye"},
+    {"ID":0,"Short":"MILLER","Vote":"Aye"},{"ID":0,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":0,"Short":"BLUMENCRANZ","Vote":"Aye"},{"ID":0,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":0,"Short":"DURSO","Vote":"Aye"},{"ID":0,"Short":"FORREST","Vote":"Aye"},
+    {"ID":0,"Short":"BOLOGNA","Vote":"Aye"},{"ID":0,"Short":"BORES","Vote":"Aye"},{"ID":0,"Short":"LEE","Vote":"Aye"},
+    {"ID":0,"Short":"ALVAREZ","Vote":"Aye"},{"ID":0,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":0,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":0,"Short":"DINOWITZ","Vote":"Aye"},{"ID":0,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"REILLY","Vote":"Aye"},{"ID":0,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":0,"Short":"WEPRIN","Vote":"Aye"},{"ID":0,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":0,"Short":"HEVESI","Vote":"Aye"},{"ID":0,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":0,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":0,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":0,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":0,"Short":"WALKER","Vote":"Aye"},
+    {"ID":0,"Short":"VANEL","Vote":"Aye"},{"ID":0,"Short":"CRUZ","Vote":"Aye"},{"ID":0,"Short":"BORES","Vote":"Aye"},
+    {"ID":0,"Short":"REYES","Vote":"Aye"},{"ID":0,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":0,"Short":"ROMERO","Vote":"Aye"},{"ID":0,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":0,"Short":"LAVINE","Vote":"Excused"},{"ID":0,"Short":"COOK","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"}],
  "Title":"Clarifies standards for glass repair and calibration of advanced driver assistance systems",
  "Summary":"Clarifies standards for glass repair and calibration of advanced driver assistance systems for motor vehicle glass repair facilities.",
  "LawSection":"General Business Law",
  "LawCode":"Amd §392-k, Gen Bus L; amd §2, Chap of 2025 (as proposed in S.4879-B & A.6943-B)",
- "ActClause":"AN ACT to amend the general business law, in relation to clarifying requirements for glass repair and calibration of advanced driver assistance systems; and to amend a chapter of the laws of 2025 amending the general business law relating to establishing standards for glass repair and calibration of advanced driver assistance systems, as proposed in legislative bills numbers S. 4879-B and A. 6943-B, in relation to the effectiveness thereof"
+ "ActClause":"AN ACT to amend the general business law, in relation to clarifying requirements for glass repair and calibration of advanced driver assistance systems; and to amend a chapter of the laws of 2025 amending the general business law relating to establishing standards for glass repair and calibration of advanced driver assistance systems, as proposed in legislative bills numbers S. 4879-B and A. 6943-B, in relation to the effectiveness thereof",
+ "SameAsPrintNo":"S8824-2025"
 }

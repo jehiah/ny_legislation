@@ -1,7 +1,11 @@
 {
  "PrintNo":"J1341","Session":2025,"Chamber":"SENATE","BillType":"Regular and Joint","Resolution":true,
- "Published":"2026-01-08T09:21:41.955689Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-01-08","Chamber":"SENATE"}],
+ "Published":"2026-01-08T09:21:41.955689Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2026-01-13"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-08","Chamber":"SENATE"},
+  {"Text":"REPORTED TO CALENDAR FOR CONSIDERATION","Date":"2026-01-13","Chamber":"SENATE"},
+  {"Text":"ADOPTED","Date":"2026-01-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
   {"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},

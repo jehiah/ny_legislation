@@ -1,19 +1,44 @@
 {
- "PrintNo":"A4195","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-31T15:02:03.402537Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Aging"}],
+ "PrintNo":"A4195","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-31T15:02:03.402537Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-12","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-01-31","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO AGING","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO AGING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO AGING","Date":"2026-01-09","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4195A","Date":"2026-01-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-01-12","Chamber":"ASSEMBLY",
+   "Committee":"AGING",
+   "Votes":[
+    {"ID":0,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":0,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":0,"Short":"RAMOS","Vote":"Aye"},{"ID":0,"Short":"SMITH","Vote":"Aye"},{"ID":0,"Short":"STERN","Vote":"Aye"},
+    {"ID":0,"Short":"GALLAHAN","Vote":"Aye"},{"ID":0,"Short":"FALL","Vote":"Aye"},
+    {"ID":0,"Short":"BENDETT","Vote":"Aye"},{"ID":0,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":0,"Short":"CHANG","Vote":"Aye"},{"ID":0,"Short":"FORREST","Vote":"Aye"},
+    {"ID":0,"Short":"NOVAKHOV","Vote":"Aye"},{"ID":0,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":0,"Short":"DIPIETRO","Vote":"Aye"},{"ID":0,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":0,"Short":"LUCAS","Vote":"Aye"},{"ID":0,"Short":"NORBER","Vote":"Aye"},
+    {"ID":0,"Short":"ALVAREZ","Vote":"Aye"},{"ID":0,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":0,"Short":"ZACCARO","Vote":"Aye"},{"ID":0,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":0,"Short":"BERGER","Vote":"Aye"},{"ID":0,"Short":"RAGA","Vote":"Aye"},{"ID":0,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":0,"Short":"WRIGHT","Vote":"Aye"},{"ID":0,"Short":"YEGER","Vote":"Aye"},{"ID":0,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":0,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CASHMAN","Vote":"Aye"},
+    {"ID":0,"Short":"GIBBS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"}
  ],
- "Title":"Establishes a dementia and Alzheimer's disease program database",
- "Summary":"Establishes a dementia and Alzheimer's disease program database.","LawSection":"Elder Law",
- "LawCode":"Add §226, Eld L",
- "ActClause":"AN ACT to amend the elder law, in relation to establishing a dementia and Alzheimer's disease program database",
+ "Title":"Relates to the dissemination of information pertaining to Alzheimer's disease and other forms of dementia through the NY Connects: Choices for Long Term Care program",
+ "Summary":"Relates to the dissemination of information pertaining to individuals suffering from Alzheimer's disease and other forms of dementia through the NY Connects: Choices for Long Term Care program.",
+ "LawSection":"Elder Law","LawCode":"Amd §203, Eld L",
+ "ActClause":"AN ACT to amend the elder law, in relation to the dissemination of information pertaining to Alzheimer's disease and other forms of dementia through the NY Connects: Choices for Long Term Care program",
  "SameAsPrintNo":"S118-2025","PreviousVersions":["S887-2023"]
 }

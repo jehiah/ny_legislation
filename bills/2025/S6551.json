@@ -1,7 +1,7 @@
 {
- "PrintNo":"S6551","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-17T11:13:10.456909Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"S6551","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-17T11:13:10.456909Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-13","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-12","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO INSURANCE","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-01-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6551A","Date":"2026-01-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

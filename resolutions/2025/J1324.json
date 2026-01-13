@@ -1,8 +1,15 @@
 {
  "PrintNo":"J1324","Session":2025,"Chamber":"SENATE","BillType":"Regular and Joint","Resolution":true,
- "Published":"2026-01-08T09:14:37.195468Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-01-08","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1490,"Name":"Dan Stec","Short":"STEC"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
+ "Published":"2026-01-08T09:14:37.195468Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2026-01-13"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-08","Chamber":"SENATE"},
+  {"Text":"REPORTED TO CALENDAR FOR CONSIDERATION","Date":"2026-01-13","Chamber":"SENATE"},
+  {"Text":"ADOPTED","Date":"2026-01-13","Chamber":"SENATE"}
+ ],
+ "Sponsors":[
+  {"ID":1490,"Name":"Dan Stec","Short":"STEC"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}
+ ],
  "Title":"Memorializing Governor Kathy Hochul to proclaim January 25 - 31, 2026, as Medicolegal Death Investigation Professionals Week in the State of New York",
  "LawSection":"Resolutions, Legislative"
 }

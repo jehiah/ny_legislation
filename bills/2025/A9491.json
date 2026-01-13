@@ -1,8 +1,28 @@
 {
  "PrintNo":"A9491","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-07T17:09:51.516948Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-13","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-01-13","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-01-13","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":0,"Short":"DINOWITZ","Vote":"Aye"},{"ID":0,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":0,"Short":"HEVESI","Vote":"Aye"},{"ID":0,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":0,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":0,"Short":"WALKER","Vote":"Aye"},
+    {"ID":0,"Short":"VANEL","Vote":"Aye"},{"ID":0,"Short":"CRUZ","Vote":"Aye"},{"ID":0,"Short":"BORES","Vote":"Aye"},
+    {"ID":0,"Short":"REYES","Vote":"Aye"},{"ID":0,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":0,"Short":"ROMERO","Vote":"Aye"},{"ID":0,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":0,"Short":"MORINELLO","Vote":"Nay"},{"ID":0,"Short":"REILLY","Vote":"Nay"},
+    {"ID":0,"Short":"MIKULIN","Vote":"Nay"},{"ID":0,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":0,"Short":"ANGELINO","Vote":"Nay"},{"ID":0,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":0,"Short":"LAVINE","Vote":"Excused"},{"ID":0,"Short":"COOK","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"}],
  "Title":"Relates to cases terminated due to mental disease or defect and to establishing reporting obligations regarding such cases",
  "Summary":"Relates to cases terminated due to mental disease or defect and to establishing reporting obligations regarding such cases.",

@@ -1,7 +1,7 @@
 {
- "PrintNo":"S4030","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T10:58:32.062974Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "PrintNo":"S4030","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-31T10:58:32.062974Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-13","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-31","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.330","Date":"2025-02-11","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4030A","Date":"2026-01-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -107,5 +109,5 @@
  "Summary":"Directs the department of environmental conservation to promulgate air quality standards for emissions of certain toxic air contaminants.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §19-0330, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to emissions of toxic air contaminants",
- "SameAsPrintNo":"A6416-2025","PreviousVersions":["S4371-2021","S3328-2023"]
+ "PreviousVersions":["S4371-2021","S3328-2023"]
 }
