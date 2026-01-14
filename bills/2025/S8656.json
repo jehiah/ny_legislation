@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8656","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T10:08:28.036651Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
- "Actions":[{"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}],
+ "PrintNo":"S8656","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-07T10:08:28.036651Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-14","Committee":"Higher Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2026-01-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8656A","Date":"2026-01-14","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Relates to the dispensing of certain prescriptions",
  "Summary":"Provides that mifepristone or misoprostol may be dispensed without the name and address of the dispenser and patient included on the prescription label.",
