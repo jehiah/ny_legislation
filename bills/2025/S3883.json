@@ -1,7 +1,7 @@
 {
- "PrintNo":"S3883","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S3883","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-30T13:54:29.844877Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-15","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-13","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"REFERRED TO HEALTH","Date":"2025-06-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-01-15","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 3883B","Date":"2026-01-15","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -135,5 +137,5 @@
  "Summary":"Relates to dispensing certain controlled substances for use by a person with a substance use disorder during certain emergency medical treatment, or to relieve acute withdrawal symptoms.",
  "LawSection":"Public Health Law","LawCode":"Amd §3351, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to dispensing certain controlled substances for use by a person with a substance use disorder",
- "PreviousVersions":["S9926-2023"]
+ "SameAsPrintNo":"A2253-2025","PreviousVersions":["S9926-2023"]
 }

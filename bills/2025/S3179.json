@@ -1,7 +1,7 @@
 {
- "PrintNo":"S3179","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T09:38:05.78313Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "PrintNo":"S3179","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T09:38:05.78313Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-15","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.396","Date":"2025-02-25","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"ORDERED TO THIRD READING CAL.86","Date":"2025-04-07","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3179A","Date":"2026-01-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -110,5 +112,5 @@
  "Summary":"Relates to the definition of coal tar and its use in pavement products.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §37-0119, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to the definition of coal tar and its use in pavement products",
- "SameAsPrintNo":"A1388-2025","PreviousVersions":["S8474-2021","S1729-2023"]
+ "PreviousVersions":["S8474-2021","S1729-2023"]
 }
