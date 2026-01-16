@@ -1,7 +1,7 @@
 {
- "PrintNo":"S2505","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T11:26:08.722239Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "PrintNo":"S2505","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-21T11:26:08.722239Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-16","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.209","Date":"2025-01-28","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO EDUCATION","Date":"2025-02-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-01-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2505A","Date":"2026-01-16","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -114,5 +116,5 @@
  "Summary":"Establishes a task force to conduct a comprehensive study on the presence of educator diversity in the state, state actions taken to promote educator diversity, and how the state can encourage new initiatives to enhance and promote educator diversity in New York; provides for the repeal of such provisions upon the expiration thereof.",
  "LawSection":"Education",
  "ActClause":"AN ACT to establish a task force on educator diversity in New York state; and providing for the repeal of such provisions upon expiration thereof",
- "SameAsPrintNo":"A5247-2025","PreviousVersions":["S5808-2019","S2555-2021","S3385-2023"]
+ "PreviousVersions":["S5808-2019","S2555-2021","S3385-2023"]
 }

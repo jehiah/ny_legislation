@@ -1,15 +1,36 @@
 {
- "PrintNo":"A6388","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-04T11:10:18.507555Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "PrintNo":"A6388","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-04T11:10:18.507555Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-08","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-15"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-04","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6388A","Date":"2026-01-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.221","Date":"2026-01-15","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-01-12","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"}],
  "Title":"Relates to the establishment of local comprehensive emergency management plans",
  "Summary":"Requires the inclusion of local and municipal animal shelters, a society for the prevention of cruelty to animals and veterinary services when establishing local comprehensive emergency management plans; requires that information to the public include the communication accommodation needs of persons with vision or hearing impairments and information on which temporary housing and other necessary facilities are designated as animal-friendly.",
  "LawSection":"Executive Law","LawCode":"Amd §23, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to the establishment of local comprehensive emergency management plans",
- "SameAsPrintNo":"S896-2025","PreviousVersions":["A9884-2023"]
+ "PreviousVersions":["A9884-2023"]
 }

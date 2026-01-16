@@ -1,26 +1,27 @@
 {
  "PrintNo":"A9039","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-09-05T10:29:37.364501Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Energy"}],
+ "Published":"2025-09-05T10:29:37.364501Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-15"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-09-05","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2025-10-22","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9039A","Date":"2025-10-22","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-01-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-01-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.223","Date":"2026-01-15","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2026-01-13","Chamber":"ASSEMBLY","Committee":"ENERGY",
    "Votes":[
-    {"ID":0,"Short":"BARRETT","Vote":"Aye"},{"ID":0,"Short":"SANTABARBARA","Vote":"Aye"},
-    {"ID":0,"Short":"DILAN","Vote":"Aye"},{"ID":0,"Short":"STERN","Vote":"Aye"},
-    {"ID":0,"Short":"ANDERSON","Vote":"Aye"},{"ID":0,"Short":"RIVERA","Vote":"Aye"},
-    {"ID":0,"Short":"CONRAD","Vote":"Aye"},{"ID":0,"Short":"LUCAS","Vote":"Aye"},
-    {"ID":0,"Short":"SHRESTHA","Vote":"Aye"},{"ID":0,"Short":"CLARK","Vote":"Aye"},{"ID":0,"Short":"DAIS","Vote":"Aye"},
-    {"ID":0,"Short":"PALMESANO","Vote":"Nay"},{"ID":0,"Short":"BLANKENBUSH","Vote":"Nay"},
-    {"ID":0,"Short":"MANKTELOW","Vote":"Nay"},{"ID":0,"Short":"GRAY","Vote":"Nay"},
-    {"ID":0,"Short":"PIROZZOLO","Vote":"Nay"}
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1544,"Short":"GRAY","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"}
    ]
   }
  ],
@@ -31,7 +32,8 @@
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
-  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":900,"Name":"Erik Dilan","Short":"DILAN"}
  ],
  "Title":"Establishes the \"accountability of costs for data centers act\"",
  "Summary":"Establishes the \"accountability of costs for data centers act\"; requires each electric corporation, gas corporation and municipality to establish an independent classification of service for large energy use facilities that is separate and distinct from other classifications of service; authorizes the department of public service to develop financial surety requirements.",

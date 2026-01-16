@@ -1,7 +1,7 @@
 {
- "PrintNo":"A1248","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A1248","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-09T10:51:48.032481Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"},
@@ -27,7 +27,8 @@
   {"Text":"RECOMMITTED TO CONSUMER PROTECTION","Date":"2025-05-27","Chamber":"SENATE","Version":"B"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING CAL.44","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING CAL.44","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING (T) 1248C","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -356,11 +357,11 @@
   {"ID":1529,"Name":"Samuel Pirozzolo","Short":"PIROZZOLO"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},
-  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"}
  ],
- "Title":"Prohibits the sale of xylazine above a certain weight",
- "Summary":"Prohibits the knowing sale of xylazine above a certain weight to persons under the age of 21 and without proof of the intended use for institutional, veterinary, or scientific purposes.",
+ "Title":"Prohibits the sale, offer for sale, or delivery of xylazine",
+ "Summary":"Prohibits the knowing sale, offer for sale, or delivery of xylazine to persons under the age of 21 and without proof of the intended use for institutional, veterinary, or scientific purposes.",
  "LawSection":"General Business Law","LawCode":"Add §392-k, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the sale of xylazine above a certain weight",
- "SameAsPrintNo":"S7668-2025","PreviousVersions":["A6506-2023"]
+ "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the sale, offer for sale, or delivery of xylazine",
+ "PreviousVersions":["A6506-2023"]
 }

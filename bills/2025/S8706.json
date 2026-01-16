@@ -1,11 +1,15 @@
 {
- "PrintNo":"S8706","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T13:44:01.905344Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"}],
+ "PrintNo":"S8706","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-07T13:44:01.905344Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-15","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2026-01-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8706A","Date":"2026-01-15","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
- "Title":"Requires covered businesses to annually report to the department of labor regarding the impact of artificial intelligence on hiring and business practices for the previous year",
- "Summary":"Requires covered businesses to annually report to the department of labor regarding the impact of artificial intelligence on hiring and business practices for the previous year; requires the department of labor to file an annual report on the impact of artificial intelligence on hiring and business practices in the state; establishes penalties for covered business that fail to submit such reports.",
+ "Title":"Requires covered businesses to annually report to the department of labor regarding the impact of artificial intelligence on hiring and the nature of artificial intelligence use",
+ "Summary":"Requires covered businesses to annually report to the department of labor regarding the impact of artificial intelligence on hiring and the nature of artificial intelligence use for the previous year; requires the department of labor to file an annual report on the impact of artificial intelligence on hiring and the nature of artificial intelligence use in the state; establishes penalties for covered business that fail to submit such reports.",
  "LawSection":"Labor Law","LawCode":"Add §201-j, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to requiring covered businesses to submit annual reports on the impact of artificial intelligence on hiring and business practices"
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring covered businesses to submit annual reports on the impact of artificial intelligence on hiring and the nature of artificial intelligence use"
 }

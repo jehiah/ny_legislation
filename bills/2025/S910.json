@@ -1,10 +1,12 @@
 {
- "PrintNo":"S910","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T09:06:40.01687Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Budget And Revenue"}],
+ "PrintNo":"S910","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-07T09:06:40.01687Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-16","Committee":"Budget And Revenue"}],
  "Actions":[
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2026-01-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 910A","Date":"2026-01-16","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
  "Title":"Establishes a returning veterans tax credit for businesses that hire veterans and disabled veterans",
