@@ -1,8 +1,10 @@
 {
  "PrintNo":"S4071","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-31T15:21:21.891731Z","Status":"IN_SENATE_COMM",
- "Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-09","Committee":"Corporations, Authorities And Commissions"}],
+ "Published":"2025-01-31T15:21:21.891731Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-09","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-31","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.599","Date":"2025-03-25","Chamber":"SENATE"},
@@ -15,7 +17,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-09","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 4071A","Date":"2026-01-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 4071A","Date":"2026-01-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.123","Date":"2026-01-20","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

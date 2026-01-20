@@ -1,8 +1,14 @@
 {
  "PrintNo":"S8750","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T09:34:02.111187Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Social Services"}],
- "Actions":[{"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Social Services"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-20"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.50","Date":"2026-01-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
   {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"},

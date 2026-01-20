@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1688","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T10:52:35.076516Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"}],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.113","Date":"2025-01-21","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-27","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.114","Date":"2026-01-20","Chamber":"SENATE"}
  ],
  "Votes":[
   {

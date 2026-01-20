@@ -1,7 +1,7 @@
 {
- "PrintNo":"S428","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T11:27:10.027886Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S428","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-31T11:27:10.027886Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.125","Date":"2025-01-21","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.786","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-01-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 428A","Date":"2026-01-20","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -112,7 +114,7 @@
  ],
  "Title":"Requires chain restaurants to label menu items that have a high content of sodium",
  "Summary":"Requires chain restaurants to place an icon on menus next to food items that have a high content of sodium.",
- "LawSection":"Public Health Law","LawCode":"Add §1357, Pub Health L",
+ "LawSection":"Public Health Law","LawCode":"Add §1358, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to requiring chain restaurants to label menu items that have a high content of sodium",
  "SameAsPrintNo":"A5207-2025",
  "PreviousVersions":["A8266-2015","A4534-2017","A3871-2019","S4930-2019","S2532-2021","S4890-2023"]

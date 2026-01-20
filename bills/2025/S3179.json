@@ -1,7 +1,10 @@
 {
  "PrintNo":"S3179","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-24T09:38:05.78313Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-15","Committee":"Environmental Conservation"}],
+ "Published":"2025-01-24T09:38:05.78313Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-15","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.396","Date":"2025-02-25","Chamber":"SENATE"},
@@ -16,7 +19,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-15","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 3179A","Date":"2026-01-15","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 3179A","Date":"2026-01-15","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.101","Date":"2026-01-20","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

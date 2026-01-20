@@ -1,7 +1,7 @@
 {
- "PrintNo":"S172","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-19T14:06:54.267436Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"}],
+ "PrintNo":"S172","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-19T14:06:54.267436Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-14","Committee":"Labor"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-04","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO LABOR","Date":"2025-03-05","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2026-01-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 172A","Date":"2026-01-14","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -161,13 +163,14 @@
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
-  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to increasing short-term disability benefits",
  "Summary":"Relates to increasing short-term disability benefits.","LawSection":"Workers' Compensation Law",
  "LawCode":"Amd Work Comp L, generally; amd §§4235 & 2605, Ins L",
  "ActClause":"AN ACT to amend the workers' compensation law and the insurance law, in relation to increasing short-term disability benefits",
- "SameAsPrintNo":"A84-2025","PreviousVersions":["S9840-2023"]
+ "SameAsPrintNo":"A9571-2025","PreviousVersions":["S9840-2023"]
 }

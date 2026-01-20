@@ -1,7 +1,7 @@
 {
  "PrintNo":"S487","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T14:22:48.044556Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"}],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.108","Date":"2025-01-21","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-25","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.110","Date":"2026-01-20","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -118,11 +119,11 @@
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
   {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},
   {"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
-  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
-  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1518,"Name":"William Weber","Short":"WEBER"},
-  {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
+  {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"},{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
  "Title":"Designates August thirty-first as \"Overdose Awareness Day\"",
  "Summary":"Designates August thirty-first of each year as a day of commemoration to be known as \"Overdose Awareness Day\".",

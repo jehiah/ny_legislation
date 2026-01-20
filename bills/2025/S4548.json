@@ -1,7 +1,10 @@
 {
  "PrintNo":"S4548","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-06T15:09:37.911327Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-02-06","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.455","Date":"2025-03-04","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-11","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.129","Date":"2026-01-20","Chamber":"SENATE"}
  ],
  "Votes":[
   {

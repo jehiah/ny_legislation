@@ -1,18 +1,19 @@
 {
- "PrintNo":"A2685","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-22T09:13:22.525264Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A2685","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-22T09:13:22.525264Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-12","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-22","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-01-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2685A","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
-  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
-  {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
-  {"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
-  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":659,"Name":"Ron Kim","Short":"KIM"},
-  {"ID":1545,"Name":"Sam Berger","Short":"BERGER"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
+  {"ID":659,"Name":"Ron Kim","Short":"KIM"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}
  ],
  "Title":"Relates to limited-scope radiographers",
  "Summary":"Authorizes a holder of a license to perform limited-scope radiography to practice radiography at urgent care centers under the supervision of a licensed practitioner or licensed registered radiologic technologist; defines limited-scope radiographer as a person licensed to practice radiography limited to chest, extremities, skull/sinus, and spine/sacrum at urgent care centers; makes related provisions.",

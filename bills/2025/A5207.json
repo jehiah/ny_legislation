@@ -1,7 +1,7 @@
 {
- "PrintNo":"A5207","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T12:08:30.498862Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A5207","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-12T12:08:30.498862Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-12","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-27","Chamber":"ASSEMBLY"},
@@ -11,7 +11,8 @@
   {"Text":"RULES REPORT CAL.786","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.786","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED BY S428","Date":"2025-06-16","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING CAL.137","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.137","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 5207A","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -182,7 +183,7 @@
  ],
  "Title":"Requires chain restaurants to label menu items that have a high content of sodium",
  "Summary":"Requires chain restaurants to place an icon on menus next to food items that have a high content of sodium.",
- "LawSection":"Public Health Law","LawCode":"Add §1357, Pub Health L",
+ "LawSection":"Public Health Law","LawCode":"Add §1358, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to requiring chain restaurants to label menu items that have a high content of sodium",
  "SameAsPrintNo":"S428-2025","PreviousVersions":["A8266-2015","A4534-2017","A3871-2019","A8860-2021","A6529-2023"]
 }

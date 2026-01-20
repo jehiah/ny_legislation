@@ -1,7 +1,10 @@
 {
  "PrintNo":"S3852","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-30T11:28:11.521687Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-13","Committee":"Environmental Conservation"}],
+ "Published":"2025-01-30T11:28:11.521687Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-13","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.329","Date":"2025-02-11","Chamber":"SENATE"},
@@ -15,7 +18,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 3852B","Date":"2026-01-13","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 3852B","Date":"2026-01-13","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.102","Date":"2026-01-20","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

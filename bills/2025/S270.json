@@ -1,7 +1,10 @@
 {
  "PrintNo":"S270","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-23T14:24:03.664781Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.115","Date":"2025-01-21","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-03","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.52","Date":"2026-01-20","Chamber":"SENATE"}
  ],
  "Votes":[
   {
