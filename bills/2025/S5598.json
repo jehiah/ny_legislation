@@ -1,7 +1,7 @@
 {
- "PrintNo":"S5598","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-25T14:04:05.507667Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"}],
+ "PrintNo":"S5598","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-25T14:04:05.507667Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-21","Committee":"Consumer Protection"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.945","Date":"2025-05-06","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2026-01-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5598A","Date":"2026-01-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -102,7 +104,7 @@
  ],
  "Title":"Relates to protections for private education loan borrowers and cosigners",
  "Summary":"Enacts protections for private education loan borrowers and cosigners; requires certain notifications from creditors and debt collectors; prohibits acceleration; enacts provisions for cosigner release.",
- "LawSection":"General Business Law","LawCode":"Add Art 42-A §§1200 - 1208, Gen Bus L; amd §105, CPLR",
+ "LawSection":"General Business Law","LawCode":"Add Art 42-A §§1200 - 1209, Gen Bus L; amd §105, CPLR",
  "ActClause":"AN ACT to amend the general business law and the civil practice law and rules, in relation to protecting private education loan borrowers and cosigners",
  "PreviousVersions":["S5136-2021","S362-2023"]
 }

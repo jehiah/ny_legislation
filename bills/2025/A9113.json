@@ -6,9 +6,22 @@
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-09-26","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO RACING AND WAGERING","Date":"2026-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 9113A","Date":"2026-01-08","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 9113A","Date":"2026-01-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-01-20","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-01-20","Chamber":"ASSEMBLY","Committee":"RACING AND WAGERING",
+   "Votes":[
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}],
  "Title":"Permits requests for self-exclusion from gambling to be made electronically",
  "Summary":"Requires that procedures for placements on, and removals from, the list of persons self-excluded from gambling includes procedures that allow a person to submit requests electronically.",
  "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Amd §1344, RWB L",

@@ -1,11 +1,15 @@
 {
  "PrintNo":"S8799","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T13:36:40.349958Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.83","Date":"2026-01-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Requires the developmental disabilities advisory council to submit an annual comprehensive summary of information about its activities to the office for people with developmental disabilities' website",
  "Summary":"Requires the developmental disabilities advisory council to submit an annual comprehensive summary of information about its activities to the office for people with developmental disabilities' website, in an accessible format.",
  "LawSection":"Mental Hygiene Law","LawCode":"Amd §13.05, Ment Hyg L (as proposed in S.7793 & A.7560-A)",
- "ActClause":"AN ACT to amend the mental hygiene law, in relation to requiring the developmental disabilities advisory council to submit an annual comprehensive summary of information about its activities to the office for people with developmental disabilities' website"
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to requiring the developmental disabilities advisory council to submit an annual comprehensive summary of information about its activities to the office for people with developmental disabilities' website",
+ "SameAsPrintNo":"A9572-2025"
 }

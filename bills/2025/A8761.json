@@ -1,12 +1,37 @@
 {
  "PrintNo":"A8761","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-02T11:02:34.270182Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Banks"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-20","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-06-02","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-01-20","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-01-20","Chamber":"ASSEMBLY",
+   "Committee":"BANKS",
+   "Votes":[
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1248,"Short":"SMULLEN","Vote":"Nay"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Nay"},{"ID":1528,"Short":"CHANG","Vote":"Nay"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1147,"Short":"STERN","Vote":"Excused"},{"ID":469,"Short":"FITZPATRICK","Vote":"Excused"},
+    {"ID":1254,"Short":"BURKE","Vote":"Excused"},{"ID":656,"Short":"DIPIETRO","Vote":"Excused"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}],
  "Title":"Directs the superintendent of financial services to conduct an analysis of the financial stability of the check cashing industry and review the current system of licensing for such industry",
  "Summary":"Directs the superintendent of financial services to conduct an analysis of the financial stability of the check cashing industry and review the current system of licensing for such industry and issue reports on both topics.",
  "LawSection":"Banks",

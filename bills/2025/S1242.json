@@ -1,15 +1,21 @@
 {
- "PrintNo":"S1242","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T15:15:39.900131Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "PrintNo":"S1242","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T15:15:39.900131Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Veterans, Homeland Security And Military Affairs"}],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-20",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 1242A","Date":"2026-01-20","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Revises the New York state veteran's memorial and monument registry",
- "Summary":"Revises the New York state veteran's memorial and monument registry such that it is easier to navigate and has deadlines for the submission of memorials and monuments and the updating of the registry.",
- "LawSection":"Veterans' Service Law","LawCode":"Amd §29-a, Veterans' Services L",
+ "Summary":"Revises the New York state veteran's memorial and monument registry such that it is easier to navigate; relates to the updating and availability of the registry.",
+ "LawSection":"Veterans' Service Law","LawCode":"Amd §§29-a & 4, Veterans' Services L",
  "ActClause":"AN ACT to amend the veterans' services law, in relation to revising the New York state veteran's memorial and monument registry",
- "PreviousVersions":["S8962-2023"]
+ "SameAsPrintNo":"A3397-2025","PreviousVersions":["S8962-2023"]
 }

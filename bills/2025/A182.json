@@ -1,7 +1,7 @@
 {
- "PrintNo":"A182","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-23T12:16:23.979407Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A182","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-23T12:16:23.979407Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-04-02","Chamber":"ASSEMBLY"},
@@ -14,7 +14,8 @@
   {"Text":"REFERRED TO INSURANCE","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.7","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.7","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 182A","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -179,11 +180,11 @@
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
-  {"ID":500,"Name":"William Colton","Short":"COLTON"}
+  {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Relates to homeowner natural disaster preparedness, home safety and loss prevention courses",
  "Summary":"Requires the department of financial services to fulfill certain requirements to implement homeowner natural disaster preparedness, home safety and loss prevention courses.",
  "LawSection":"Insurance Law","LawCode":"Amd §2346, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to homeowner natural disaster preparedness, home safety and loss prevention courses",
- "SameAsPrintNo":"S5461-2025","PreviousVersions":["A8417-2021","A136-2023"]
+ "PreviousVersions":["A8417-2021","A136-2023"]
 }

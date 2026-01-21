@@ -1,8 +1,12 @@
 {
  "PrintNo":"S8773","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T12:58:30.338201Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.68","Date":"2026-01-20","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED BY A9436","Date":"2026-01-21","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to finding alternatives to the use of pesticides in the monarch preservation plan",
  "Summary":"Relates to finding alternatives to the use of pesticides in the monarch preservation plan and allowing agricultural lands that are not in active production be used to enhance the monarch butterfly habitat.",

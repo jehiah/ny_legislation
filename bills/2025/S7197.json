@@ -1,18 +1,22 @@
 {
- "PrintNo":"S7197","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-03T14:24:34.604518Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "PrintNo":"S7197","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-03T14:24:34.604518Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Energy And Telecommunications"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-04-03","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7197A","Date":"2026-01-20","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
+  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
   {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}
  ],
- "Title":"Relates to setback and financial requirements relating to the siting of battery energy storage systems",
- "Summary":"Directs the department of public service to promulgate rules, regulations and model policies regarding setback requirements for the siting of battery energy storage systems and for financial surety requirements; requires minimum setback requirements for commercial energy storage systems, with a capacity of five megawatts or greater, of no less than one thousand feet from residential property; requires public hearings prior to the approval of an application for a permit for such systems.",
+ "Title":"Relates to setback requirements relating to the siting of battery energy storage systems",
+ "Summary":"Directs the department of public service to promulgate rules, regulations and model policies regarding setback requirements for the siting of battery energy storage systems; requires minimum setback requirements for commercial energy storage systems, with a capacity of five megawatts or greater, of no less than seven hundred fifty feet from residential property and no less than three hundred feet from residential property located in a city with a population of one million or more inhabitants; requires public hearings prior to the approval of an application for a permit for such systems.",
  "LawSection":"Public Service Law",
  "LawCode":"Add §74-c, Pub Serv L; amd §§104.1.2 & 104.2, NYC Ad Cd; amd §263, Town L; amd §7-704, Vil L",
+ "ActClause":"AN ACT to amend the public service law, the New York city fire code, the town law and the village law, in relation to setback requirements relating to the siting of battery energy storage systems",
  "SameAsPrintNo":"A6955-2025"
 }

@@ -1,15 +1,41 @@
 {
- "PrintNo":"A3304","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-27T10:44:05.205252Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Banks"}],
+ "PrintNo":"A3304","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-27T10:44:05.205252Z","Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-14","Committee":"Banks"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-01-27","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO BANKS","Date":"2026-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3304A","Date":"2026-01-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-01-20","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-01-20","Chamber":"ASSEMBLY","Committee":"BANKS",
+   "Votes":[
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1248,"Short":"SMULLEN","Vote":"Nay"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Nay"},{"ID":1528,"Short":"CHANG","Vote":"Nay"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1147,"Short":"STERN","Vote":"Excused"},{"ID":469,"Short":"FITZPATRICK","Vote":"Excused"},
+    {"ID":1254,"Short":"BURKE","Vote":"Excused"},{"ID":656,"Short":"DIPIETRO","Vote":"Excused"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}],
  "Title":"Prohibits fees for any service rendered through a bank relating to the use of an electronic benefit transfer card issued by the state or certain departments or agencies thereof",
  "Summary":"Prohibits fees for any service rendered through a banking organization relating to the use of an electronic benefit transfer card issued by the state or certain departments or agencies thereof.",
  "LawSection":"Banking Law","LawCode":"Add §9-aa, Bank L",
- "ActClause":"AN ACT to amend the banking law, in relation to prohibiting fees for benefit banking services",
+ "ActClause":"AN ACT to amend the banking law, in relation to prohibiting fees for electronic benefit transfer services",
  "PreviousVersions":["S8616-2019","S446-2021","A8999-2023"]
 }
