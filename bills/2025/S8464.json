@@ -1,15 +1,17 @@
 {
- "PrintNo":"S8464","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-07-21T14:07:35.464034Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "PrintNo":"S8464","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-07-21T14:07:35.464034Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-21","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-07-21","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2026-01-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8464A","Date":"2026-01-21","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
  "Title":"Relates to convictions under the felony murder rule; repealer",
- "Summary":"Amends elements of the felony murder rule to require that defendant directly causes death or be an accomplice with the intent to cause death; permits vacating conviction or resentencing of defendants convicted of felony murder; amends maximum sentence; permits the defense of duress for victims of domestic violence; requires reporting of certain crime statistics and information.",
- "LawSection":"Penal Law","LawCode":"Rpld §125.25 sub 3, amd §§125.25, 40.00 & 70.02, Pen L; add §440.48, CP L",
- "ActClause":"AN ACT to amend the penal law and the criminal procedure law, in relation to convictions under felony murder provisions; and to repeal certain provisions of the penal law relating thereto",
- "SameAsPrintNo":"A8929-2025","PreviousVersions":["S6865-2023"]
+ "Summary":"Repeals the crime of felony murder; permits vacating conviction and resentencing of defendants convicted of felony murder; requires reporting of certain crime statistics and information.",
+ "LawSection":"Criminal Procedure Law","LawCode":"Rpld §125.25 sub 3, Pen L; add §440.48, CP L",
+ "ActClause":"AN ACT to amend the criminal procedure law, in relation to convictions under felony murder provisions; and to repeal certain provisions of the penal law relating thereto",
+ "PreviousVersions":["S6865-2023"]
 }

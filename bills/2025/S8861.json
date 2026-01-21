@@ -1,11 +1,15 @@
 {
- "PrintNo":"S8861","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-12T10:14:16.69745Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-12","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-12","Chamber":"SENATE"}],
+ "PrintNo":"S8861","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-12T10:14:16.69745Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-21","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-12","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-01-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8861A","Date":"2026-01-21","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"}],
- "Title":"Dedicates a portion of the state highway system to Fire Chief Robert Bornt",
- "Summary":"Dedicates a portion of the state highway system in the town of Petersburg, county of Rensselaer, to Fire Chief Robert Bornt.",
+ "Title":"Dedicates a portion of the state highway system to Robert Bornt",
+ "Summary":"Dedicates a portion of the state highway system in the town of Petersburg, county of Rensselaer, to Robert Bornt.",
  "LawSection":"Highway Law","LawCode":"Add §345-e, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Fire Chief Robert Bornt"
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Robert Bornt"
 }
