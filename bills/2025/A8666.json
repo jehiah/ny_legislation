@@ -1,15 +1,73 @@
 {
- "PrintNo":"A8666","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-27T10:10:49.575636Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "PrintNo":"A8666","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-27T10:10:49.575636Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-13","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-22"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-27","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-01-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-01-13","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8666A","Date":"2026-01-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-01-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.239","Date":"2026-01-22","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-01-12","Chamber":"ASSEMBLY",
+   "Committee":"ENVIRONMENTAL CONSERVATION",
+   "Votes":[
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Nay"},{"ID":1566,"Short":"BAILEY","Vote":"Nay"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},{"ID":1486,"Short":"LUNSFORD","Vote":"Excused"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-01-21","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Nay"},{"ID":1248,"Short":"SMULLEN","Vote":"Nay"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":1486,"Short":"LUNSFORD","Vote":"Excused"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Excused"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}],
  "Title":"Relates to financial liability for major facilities, vessels, and railroads",
  "Summary":"Requires the owner or operator of a vessel to establish and maintain with the department evidence of financial responsibility sufficient to meet the amount of liability.",
- "LawSection":"Navigation Law","LawCode":"Amd §181, add §181-f, Nav L",
+ "LawSection":"Navigation Law","LawCode":"Amd §181, Nav L",
  "ActClause":"AN ACT to amend the navigation law, in relation to financial responsibility for the liability of a major facility or vessel",
- "PreviousVersions":["A9213-2023"]
+ "SameAsPrintNo":"S6831-2025","PreviousVersions":["A9213-2023"]
 }

@@ -1,10 +1,13 @@
 {
  "PrintNo":"A9519","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-14T15:21:00.202616Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-14","Committee":"Insurance"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-14","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-22"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-14","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-01-20","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-01-20","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.242","Date":"2026-01-22","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
