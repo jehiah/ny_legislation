@@ -1,7 +1,7 @@
 {
- "PrintNo":"A7839","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T14:58:36.33564Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A7839","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-11T14:58:36.33564Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-23","Committee":"Local Governments"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-04-11","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY"},
@@ -14,7 +14,10 @@
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.196","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.196","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"COMMITTED TO LOCAL GOVERNMENTS","Date":"2026-01-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7839A","Date":"2026-01-23","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -168,6 +171,5 @@
  "Title":"Relates to the Nesconset Volunteer Firefighter's Benevolent Association",
  "Summary":"Relates to the Nesconset Volunteer Exempt Firefighter's Benevolent Association; provides for the purpose of such association, and its use of foreign fire insurance premium taxes.",
  "LawSection":"Firefighters' Benevolent Association","LawCode":"Amd §§1, 2, 3 & 7, Chap 19 of 1964",
- "ActClause":"AN ACT to amend chapter 19 of the laws of 1964, relating to incorporating the Nesconset Volunteer Exempt Firemen's Benevolent Association, and providing for its powers and duties, in relation to the purpose of such association and the use of foreign fire insurance premium taxes",
- "SameAsPrintNo":"S7605-2025"
+ "ActClause":"AN ACT to amend chapter 19 of the laws of 1964, relating to incorporating the Nesconset Volunteer Exempt Firemen's Benevolent Association, and providing for its powers and duties, in relation to the purpose of such association and the use of foreign fire insurance premium taxes"
 }
