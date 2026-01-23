@@ -1,10 +1,12 @@
 {
- "PrintNo":"A1039","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-08T10:27:07.569578Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A1039","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-08T10:27:07.569578Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-23","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-01-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1039A","Date":"2026-01-23","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
@@ -15,9 +17,9 @@
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
  ],
- "Title":"Establishes a duty to inform certain patients about the risks associated with cesarean section for patients undergoing a primary cesarean section",
- "Summary":"Establishes a duty to inform certain patients about the risks associated with cesarean section for patients undergoing a primary cesarean section; establishes a duty to inform certain patients about the reason for performing a primary cesarean section delivery.",
+ "Title":"Establishes a duty to inform certain patients about the risks associated with cesarean section for patients undergoing planned and unplanned primary cesarean sections",
+ "Summary":"Establishes a duty to inform certain patients about the risks associated with cesarean section for patients undergoing a planned or unplanned primary cesarean section.",
  "LawSection":"Public Health Law","LawCode":"Add §2500-n, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to the duty to inform certain patients about the risks associated with cesarean section for patients undergoing a primary cesarean section and to inform certain patients about the reason for performing primary cesarean section delivery",
- "SameAsPrintNo":"S7879-2025","PreviousVersions":["A10809-2017","S2888-2019","S2736-2021","A4927-2023","S311-2023"]
+ "ActClause":"AN ACT to amend the public health law, in relation to the duty to inform certain patients about the risks associated with cesarean section for patients undergoing planned and unplanned primary cesarean sections",
+ "PreviousVersions":["A10809-2017","S2888-2019","S2736-2021","A4927-2023","S311-2023"]
 }
