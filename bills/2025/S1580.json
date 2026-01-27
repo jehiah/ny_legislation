@@ -1,10 +1,12 @@
 {
- "PrintNo":"S1580","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T15:35:51.070811Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"}],
+ "PrintNo":"S1580","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-10T15:35:51.070811Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-01-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1580A","Date":"2026-01-27","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
@@ -17,5 +19,5 @@
  "Summary":"Adds certain human services programs to the designated human services programs eligible for a cost of living adjustment.",
  "LawSection":"Social Services",
  "ActClause":"AN ACT to establish a cost of living adjustment for designated human services programs",
- "SameAsPrintNo":"A2590-2025","PreviousVersions":["S7793-2023"]
+ "PreviousVersions":["S7793-2023"]
 }

@@ -1,10 +1,12 @@
 {
- "PrintNo":"S8096","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T18:07:14.536881Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
+ "PrintNo":"S8096","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T18:07:14.536881Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8096A","Date":"2026-01-27","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
@@ -34,7 +36,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1518,"Name":"William Weber","Short":"WEBER"},
   {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
- "Title":"Establishes the \"Health Equity for Retirees Act\"",
- "Summary":"Prevents public employers from diminishing health insurance benefits provided to retirees and their Medicare-eligible dependents or the contributions such employer makes for such health insurance coverage below the level of such benefits or contributions made on behalf of such retirees and their dependents by such public employer.",
- "LawSection":"Public Employees","ActClause":"AN ACT establishing the \"Health Equity for Retirees Act\""
+ "Title":"Prohibits the diminution of retiree health benefits by a public employer",
+ "Summary":"Prevents public employers from diminishing health insurance benefits provided to retirees and their dependents or the contributions such employer makes for such health insurance coverage below the level of such benefits or contributions made on behalf of such retirees and their dependents by such public employer.",
+ "LawSection":"Public Employees",
+ "ActClause":"AN ACT prohibiting the diminution of retiree health benefits by a public employer"
 }

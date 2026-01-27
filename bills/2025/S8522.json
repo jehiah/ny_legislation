@@ -1,14 +1,17 @@
 {
- "PrintNo":"S8522","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-10-03T14:44:32.405167Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "PrintNo":"S8522","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-10-03T14:44:32.405167Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-10-03","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-01-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8522A","Date":"2026-01-27","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
  "Title":"Protects persons receiving care, employed, or otherwise present at a hospital from immigration arrests; prohibits federal immigration officers acting within the scope of their employment from entering hospitals",
  "Summary":"Protects persons receiving care, employed, or otherwise present at a hospital from immigration arrests; prohibits federal immigration officers acting within the scope of their employment from entering hospitals unless supported by a judicial warrant or order; defines judicial warrant or order.",
- "LawSection":"Civil Rights Law","LawCode":"Add §29, Civ Rts L; add §2832, Pub Health L",
- "ActClause":"AN ACT to amend the civil rights law and the public health law, in relation to prohibiting federal immigration officers acting within the scope of their employment from entering hospitals"
+ "LawSection":"Civil Rights Law","LawCode":"Add §29, Civ Rts L; add §2833, Pub Health L",
+ "ActClause":"AN ACT to amend the civil rights law and the public health law, in relation to prohibiting federal immigration officers acting within the scope of their employment from entering hospitals",
+ "SameAsPrintNo":"A9589-2025"
 }
