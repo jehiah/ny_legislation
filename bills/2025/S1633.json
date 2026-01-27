@@ -1,14 +1,17 @@
 {
- "PrintNo":"S1633","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T09:38:42.654176Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S1633","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T09:38:42.654176Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1082","Date":"2025-05-13","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-01-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1633A","Date":"2026-01-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2026-01-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -40,8 +43,8 @@
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
  ],
  "Title":"Provides additional protections for sensitive health information and requires patients to have the right to restrict the disclosures of such patient's health information",
- "Summary":"Provides additional protections for sensitive health information and requires all health information networks, electronic health record systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information; defines terms; provides for exceptions.",
+ "Summary":"Provides additional protections for sensitive health information; requires all health information networks, electronic health record systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information; defines terms; provides for exceptions; clarifies that such provisions shall not create, establish or authorize a new private cause of an action by an aggrieved person against a health information networks, electronic health records systems, and health care providers.",
  "LawSection":"Public Health Law","LawCode":"Add §§25 & 26, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to providing additional protections for sensitive health information and requiring all health information networks, electronic health record systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information",
- "SameAsPrintNo":"A2613-2025","PreviousVersions":["S7879-2023"]
+ "ActClause":"AN ACT to amend the public health law, in relation to providing additional protections for sensitive health information and requiring all health information networks, electronic health records systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information",
+ "PreviousVersions":["S7879-2023"]
 }

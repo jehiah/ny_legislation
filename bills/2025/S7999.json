@@ -1,14 +1,17 @@
 {
- "PrintNo":"S7999","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T12:12:55.529819Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "PrintNo":"S7999","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T12:12:55.529819Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2026-01-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7999A","Date":"2026-01-27","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
- "Title":"Requires the installation of a master key box at each school building for building access by law enforcement and emergency responders",
- "Summary":"Requires the installation of a master key box at each school building for building access by law enforcement and emergency responders; must meet the underwriters laboratories standard UL 1037.",
- "LawSection":"Education Law","LawCode":"Add §409-o, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to requiring the installation of a master key box at each school building for building access by law enforcement and emergency responders"
+ "Title":"Requires the installation of school master key boxes for building access by law enforcement and emergency responders",
+ "Summary":"Requires the installation of master key boxes for building access by law enforcement and emergency responders; requires they must meet the underwriters laboratories standard UL 1037.",
+ "LawSection":"Education Law","LawCode":"Add §409-o, amd §§2801-a & 3602, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to requiring the installation of school master key boxes for building access by law enforcement and emergency responders",
+ "SameAsPrintNo":"A9250-2025"
 }

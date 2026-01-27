@@ -1,19 +1,37 @@
 {
- "PrintNo":"A4899","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-10T13:32:49.888375Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "PrintNo":"A4899","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-10T13:32:49.888375Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-12","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-10","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 4899A","Date":"2025-04-01","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-01-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 4899B","Date":"2026-01-08","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-01-12","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
-  {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"}
+  {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}
  ],
  "Title":"Requires a lethality assessment in incidents of domestic violence",
  "Summary":"Requires law enforcement officers to conduct a lethality assessment as part of the standardized domestic incident report form when responding to incidents of domestic violence.",

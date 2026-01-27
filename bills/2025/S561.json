@@ -1,8 +1,7 @@
 {
  "PrintNo":"S561","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-02T12:48:59.430978Z","Status":"IN_SENATE_COMM",
- "Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "Published":"2025-01-02T12:48:59.430978Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-03","Chamber":"SENATE"},
@@ -24,7 +23,9 @@
   {
    "Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE",
    "Version":"A"
-  }
+  },
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -210,7 +211,8 @@
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
  ],
  "Title":"Relates to notice regarding the rent increase exemption for low income elderly persons and persons with disabilities programs",
  "Summary":"Requires certain agencies and individuals to provide notice regarding the rent increase exemption for low income elderly persons and persons with disabilities programs to tenants upon the occurrence of certain events.",

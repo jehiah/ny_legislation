@@ -1,7 +1,7 @@
 {
  "PrintNo":"S2707","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T15:46:53.952276Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-10","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"REFERRED TO HOUSING","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-27","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-27","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -109,7 +111,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
+ "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Requires DHCR to develop a common application and web portal for certain funding, tax credits, loans, and grants for housing development",
  "Summary":"Requires DHCR to develop a common application and web portal for certain funding, tax credits, loans, and grants for housing; requires such application to be available upon request from relevant state agencies; requires such web portal to be manageable by relevant state agencies; makes relevant provisions.",
  "LawSection":"Public Housing Law","LawCode":"Add §14-a, Pub Hous L",

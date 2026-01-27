@@ -1,7 +1,10 @@
 {
  "PrintNo":"S3569","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-28T14:18:56.333672Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-28","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.429","Date":"2025-03-03","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO HOUSING","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.162","Date":"2026-01-27","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,7 +1,10 @@
 {
  "PrintNo":"S2534","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T13:47:34.265827Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.173","Date":"2025-01-27","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO AGING","Date":"2025-02-04","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.161","Date":"2026-01-27","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -101,7 +105,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Sponsors":[
+  {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
+ ],
  "Title":"Provides retroactivity to the original date of eligibility in certain cases for the senior citizens rent increase exemption (SCRIE) and disability rent increase exemption (DRIE)",
  "Summary":"Provides retroactivity to the original date of eligibility for the senior citizens rent increase exemption (SCRIE) and disability rent increase exemption (DRIE).",
  "LawSection":"New York City Administrative Code","LawCode":"Amd §26-605, NYC Ad Cd",

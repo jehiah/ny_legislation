@@ -1,7 +1,7 @@
 {
- "PrintNo":"S614","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T09:04:38.380655Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S614","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-03T09:04:38.380655Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-08","Chamber":"SENATE"},
@@ -13,7 +13,10 @@
   {"Text":"REFERRED TO HEALTH","Date":"2025-06-11","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-01-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 614A","Date":"2026-01-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -144,7 +147,7 @@
  "Title":"Relates to enrollment in medical assistance programs for incarcerated individuals",
  "Summary":"Provides presumptive eligibility for medical assistance benefits for persons released from correctional facilities for at least sixty days following release; provides for enrollment of such individuals upon release upon application, if eligible.",
  "LawSection":"Social Services Law",
- "LawCode":"Amd §§364-i & 366-a, Soc Serv L; add §500-q, amd §§71, 500-b & 45, Cor L",
+ "LawCode":"Amd §§364-i & 366-a, Soc Serv L; add §500-r, amd §§71, 500-b & 45, Cor L",
  "ActClause":"AN ACT to amend the social services law and the correction law, in relation to presumptive eligibility for medical assistance benefits of individuals leaving incarceration",
- "SameAsPrintNo":"A1008-2025","PreviousVersions":["S8368-2021","S4906-2023"]
+ "PreviousVersions":["S8368-2021","S4906-2023"]
 }

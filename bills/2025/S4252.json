@@ -1,7 +1,10 @@
 {
  "PrintNo":"S4252","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T14:53:03.746091Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-27"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.432","Date":"2025-03-03","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO AGING","Date":"2025-05-15","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.163","Date":"2026-01-27","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -103,7 +107,7 @@
  "Sponsors":[
   {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Provides for a continuation of senior citizen rent increase exemption benefits after a period of ineligibility",
  "Summary":"Provides for a continuation of senior citizen rent increase exemption benefits after a period of ineligibility due to a head of household's temporary increase in income.",
