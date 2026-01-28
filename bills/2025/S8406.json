@@ -1,7 +1,7 @@
 {
  "PrintNo":"S8406","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-09T17:11:04.270196Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-01-28"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1943","Date":"2025-06-12","Chamber":"SENATE"},
@@ -10,7 +10,8 @@
   {"Text":"REFERRED TO BANKS","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.189","Date":"2026-01-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -112,5 +113,6 @@
  "Title":"Relates to the community bank deposit program",
  "Summary":"Relates to the community bank deposit program; increases the maximum amount of funds on deposit at a community banking institution to thirty million dollars.",
  "LawSection":"Banking Law","LawCode":"Amd §87, Bank L",
- "ActClause":"AN ACT to amend the banking law, in relation to the community bank deposit program"
+ "ActClause":"AN ACT to amend the banking law, in relation to the community bank deposit program",
+ "SameAsPrintNo":"A9573-2025"
 }

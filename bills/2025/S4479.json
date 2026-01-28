@@ -1,14 +1,15 @@
 {
  "PrintNo":"S4479","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T11:40:29.286569Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-01-28"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1117","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-19","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.194","Date":"2026-01-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -27,6 +28,23 @@
     {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
     {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
     {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-01-28","Chamber":"SENATE","Committee":"Labor",
+   "Votes":[
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"}
    ]
   }
  ],

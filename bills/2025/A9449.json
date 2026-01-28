@@ -1,10 +1,25 @@
 {
  "PrintNo":"A9449","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-06T16:10:50.746861Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Codes"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-28","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-01-06","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-01-21","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-01-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-01-21","Chamber":"ASSEMBLY",
+   "Committee":"SCIENCE AND TECHNOLOGY",
+   "Votes":[
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},{"ID":1487,"Short":"CONRAD","Vote":"Excused"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1531,"Name":"Alex Bores","Short":"BORES"}],
  "Title":"Relates to transparency and safety requirements for developers of artificial intelligence models",

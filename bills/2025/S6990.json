@@ -1,7 +1,10 @@
 {
  "PrintNo":"S6990","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-27T15:58:39.230805Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-13","Committee":"Civil Service And Pensions"}],
+ "Published":"2025-03-27T15:58:39.230805Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-13","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.951","Date":"2025-05-06","Chamber":"SENATE"},
@@ -10,7 +13,8 @@
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-13","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 6990A","Date":"2026-01-13","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6990A","Date":"2026-01-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.198","Date":"2026-01-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -33,5 +37,6 @@
  "Title":"Requires exit surveys for employees resigning from state civil service",
  "Summary":"Requires each agency to conduct exit surveys for employees resigning from state civil service; directs the state civil service commission to create an annual report on such surveys; exempts individual responses to exit surveys from the freedom of information law.",
  "LawSection":"Civil Service Law","LawCode":"Add §159-e, Civ Serv L",
- "ActClause":"AN ACT to amend the civil service law, in relation to requiring exit surveys for resigning employees"
+ "ActClause":"AN ACT to amend the civil service law, in relation to requiring exit surveys for resigning employees",
+ "SameAsPrintNo":"A5912-2025"
 }

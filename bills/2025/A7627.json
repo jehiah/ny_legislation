@@ -1,7 +1,7 @@
 {
- "PrintNo":"A7627","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A7627","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-04-01T14:45:18.754141Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"}],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO VETERANS' AFFAIRS","Date":"2025-05-15","Chamber":"ASSEMBLY"},
@@ -18,7 +18,8 @@
   },
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.191","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.191","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 7627B","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -100,7 +101,8 @@
  ],
  "Sponsors":[
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
-  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
  ],
  "Title":"Relates to the availability of information on home care services",
  "Summary":"Authorizes the Department of Veterans' Services to consult and collaborate with relevant offices in the federal department of veterans affairs, the department of health, the state office for the aging and other HCBS experts to develop educational materials for veterans and their families about the accessibility to home and community-based services.",

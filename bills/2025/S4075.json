@@ -1,7 +1,10 @@
 {
  "PrintNo":"S4075","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-31T15:23:11.306316Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Local Government"}],
+ "Published":"2025-01-31T15:23:11.306316Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-31","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1148","Date":"2025-05-20","Chamber":"SENATE"},
@@ -14,7 +17,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-01-20","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 4075A","Date":"2026-01-20","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 4075A","Date":"2026-01-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.178","Date":"2026-01-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -102,5 +106,5 @@
  "Summary":"Authorizes the assessor of Richmond county to grant the Silver Lake Foundation Inc. retroactive real property tax exempt status upon an application therefor.",
  "LawSection":"Real Property Taxation",
  "ActClause":"AN ACT in relation to authorizing the Silver Lake Foundation Inc. to receive retroactive real property tax exempt status",
- "PreviousVersions":["S7571-2023"]
+ "SameAsPrintNo":"A4569-2025","PreviousVersions":["S7571-2023"]
 }
