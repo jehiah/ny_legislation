@@ -1,10 +1,17 @@
 {
  "PrintNo":"S8777","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T12:59:40.281295Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"},
+  {"Type":"PASSED_SENATE","Date":"2026-01-29"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-29","Committee":"Governmental Operations"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.71","Date":"2026-01-20","Chamber":"SENATE"}
+  {"Text":"ORDERED TO THIRD READING CAL.71","Date":"2026-01-20","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

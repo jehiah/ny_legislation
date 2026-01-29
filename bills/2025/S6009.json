@@ -3,7 +3,7 @@
  "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-01-28"}
+  {"Type":"SENATE_FLOOR","Date":"2026-01-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-03-04","Chamber":"SENATE"},
@@ -16,7 +16,8 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.180","Date":"2026-01-28","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.180","Date":"2026-01-28","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -97,6 +98,18 @@
     {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
     {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
     {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-01-28","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"}
    ]
   }
  ],

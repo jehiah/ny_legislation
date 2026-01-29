@@ -1,12 +1,16 @@
 {
- "PrintNo":"S8682","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T11:05:19.236565Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"}],
+ "PrintNo":"S8682","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-07T11:05:19.236565Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-29","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8682A","Date":"2026-01-29","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
- "Title":"Relates to deceptive practices in spiritual or metaphysical services; repealer",
- "Summary":"Authorizes the attorney general to investigate and bring an action against deceptive practices in spiritual or metaphysical services; repeals criminal fortune telling statute.",
- "LawSection":"Executive Law","LawCode":"Rpld §165.35, Pen L; add §63-e, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to deceptive practices in spiritual or metaphysical services; and to repeal certain provisions of the penal law relating to fortune telling",
+ "Title":"Repeals the criminal fortune telling statute; repealer",
+ "Summary":"Repeals provisions relating to the criminal fortune telling statute.","LawSection":"Penal Law",
+ "LawCode":"Rpld §165.35, Pen L",
+ "ActClause":"AN ACT to repeal section 165.35 of the penal law relating to fortune telling",
  "SameAsPrintNo":"A9387-2025"
 }

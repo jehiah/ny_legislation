@@ -1,11 +1,12 @@
 {
  "PrintNo":"S7618","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T11:12:45.931168Z",
- "Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-01-29"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-23","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO CONSUMER PROTECTION","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.215","Date":"2026-01-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -24,7 +25,7 @@
  ],
  "Sponsors":[
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
-  {"ID":1237,"Name":"Rachel May","Short":"MAY"}
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}
  ],
  "Title":"Relates to food safety and quality date labelling requirements",
  "Summary":"Requires certain labelling to be used to indicate the safety dates and quality dates of food items; requires the department of agriculture and markets to educate consumers about such provisions.",

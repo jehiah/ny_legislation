@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1239","Version":"E","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T15:14:45.110751Z","Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"}],
+ "Published":"2025-01-08T15:14:45.110751Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-01-29"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO AGRICULTURE","Date":"2025-02-28","Chamber":"SENATE"},
@@ -23,7 +23,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.854","Date":"2025-06-17","Chamber":"ASSEMBLY","Version":"E"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"E"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"E"},
-  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE","Version":"E"}
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE","Version":"E"},
+  {"Text":"1ST REPORT CAL.213","Date":"2026-01-29","Chamber":"SENATE","Version":"E"}
  ],
  "Votes":[
   {

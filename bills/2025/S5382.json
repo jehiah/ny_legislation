@@ -1,7 +1,10 @@
 {
  "PrintNo":"S5382","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T09:36:18.179403Z",
- "Status":"IN_SENATE_COMM","Committee":"Alcoholism And Substance Use Disorders",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Alcoholism And Substance Use Disorders"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Alcoholism And Substance Use Disorders"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-02-21","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
@@ -11,7 +14,8 @@
   {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.212","Date":"2026-01-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

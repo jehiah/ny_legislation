@@ -1,9 +1,10 @@
 {
  "PrintNo":"A9453","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-06T16:13:35.030815Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-21"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-01-21"},{"Type":"IN_SENATE_COMM","Date":"2026-01-21","Committee":"Rules"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-01-21"},{"Type":"IN_SENATE_COMM","Date":"2026-01-21","Committee":"Rules"},
+  {"Type":"SENATE_FLOOR","Date":"2026-01-29"},{"Type":"PASSED_SENATE","Date":"2026-01-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2026-01-06","Chamber":"ASSEMBLY"},
@@ -14,7 +15,11 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.42","Date":"2026-01-21","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-01-21","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-01-21","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO RULES","Date":"2026-01-21","Chamber":"SENATE"}
+  {"Text":"REFERRED TO RULES","Date":"2026-01-21","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S8770","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.66","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -108,7 +113,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":500,"Name":"William Colton","Short":"COLTON"}],
+ "Sponsors":[
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
+  {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}
+ ],
  "Title":"Relates to requirements regarding employers including opioid antagonists where first aid kits are required by federal law",
  "Summary":"Relates to requirements regarding employers including opioid antagonists where first aid kits are required by federal law; amends the effectiveness thereof.",
  "LawSection":"Labor Law","LawCode":"Amd §27-f, Lab L; amd §2, Chap of 2025 (as proposed in S.5922-A & A.2725-A)",
