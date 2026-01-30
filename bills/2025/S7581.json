@@ -1,15 +1,17 @@
 {
- "PrintNo":"S7581","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T09:25:02.084775Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"}],
+ "PrintNo":"S7581","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-23T09:25:02.084775Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-30","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-04-23","Chamber":"SENATE"},
-  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2026-01-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7581A","Date":"2026-01-30","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
- "Title":"Establishes a public awareness campaign for maternal depression; appropriation",
- "Summary":"Establishes a public awareness campaign for maternal depression; makes an appropriation therefor.",
- "LawSection":"Appropriations","LawCode":"Add Art 25 Title 7-A §2597, Pub Health L; add §97-bbbbb, St Fin L",
+ "Title":"Establishes a public awareness campaign related to maternal depression; appropriation",
+ "Summary":"Establishes a public awareness campaign related to maternal depression; establishes the maternal depression fund; makes an appropriation therefor.",
+ "LawSection":"Appropriations","LawCode":"Add Art 25 Title 7-A §2597, Pub Health L; add §97-n, St Fin L",
  "ActClause":"AN ACT to amend the public health law and the state finance law, in relation to establishing a public awareness campaign for maternal depression; and making an appropriation therefor",
- "PreviousVersions":["A8597-2015","A1697-2017","A338-2019","A5759-2021","S8176-2023"]
+ "SameAsPrintNo":"A7273-2025","PreviousVersions":["A8597-2015","A1697-2017","A338-2019","A5759-2021","S8176-2023"]
 }

@@ -1,10 +1,12 @@
 {
- "PrintNo":"A2126","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-15T15:24:16.536776Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"A2126","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-15T15:24:16.536776Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-27","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-15","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2126A","Date":"2026-01-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1469,"Name":"Zohran Mamdani","Short":"MAMDANI"},
@@ -24,7 +26,7 @@
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
  ],
  "Title":"Relates to requiring a referenced rate for prescription drugs",
- "Summary":"Relates to reducing the cost of prescription drugs by establishing maximum wholesale drug prices that are the same as the prices in Canada.",
+ "Summary":"Establishes a pilot program on the referenced rate for prescription drugs; relates to reducing the cost of prescription drugs by establishing maximum wholesale drug prices that are the same as the prices in Canada.",
  "LawSection":"Insurance Law","LawCode":"Add §111-b, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to requiring a referenced rate for prescription drugs",
  "SameAsPrintNo":"S1351-2025","PreviousVersions":["A9086-2023"]
