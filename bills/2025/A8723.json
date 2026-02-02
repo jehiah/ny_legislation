@@ -1,15 +1,19 @@
 {
- "PrintNo":"A8723","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-02T10:50:36.036419Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Employees"}],
+ "PrintNo":"A8723","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-06-02T10:50:36.036419Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-08","Committee":"Governmental Employees"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-02","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-08","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8723A","Date":"2026-01-08","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}],
+ "Sponsors":[
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+ ],
  "Title":"Provides a legacy credit to the children and siblings of veterans who were killed in the line of duty",
  "Summary":"Provides a legacy credit to the children and siblings of veterans who were killed in the line of duty including veterans who were disabled as a result of their service, exposed to toxic substances, or presumptive conditions determined by the department of veterans affairs.",
- "LawSection":"Civil Service Law","LawCode":"Add §85-d, Civ Serv L",
- "ActClause":"AN ACT to amend the civil service law, in relation to providing a legacy credit to the children and siblings of persons who served in the military and were killed in the line of duty",
- "SameAsPrintNo":"S8424-2025"
+ "LawSection":"Civil Service Law","LawCode":"Add §85-e, Civ Serv L",
+ "ActClause":"AN ACT to amend the civil service law, in relation to providing a legacy credit to the children and siblings of persons who served in the military and were killed in the line of duty"
 }
