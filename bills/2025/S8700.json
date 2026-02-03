@@ -1,9 +1,20 @@
 {
- "PrintNo":"S8700","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T13:21:15.928505Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}],
+ "PrintNo":"S8700","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-07T13:21:15.928505Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-02-03",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 8700A","Date":"2026-02-03","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"}
+ ],
  "Title":"Relates to the administration of grants under the volunteer fire infrastructure and response equipment (V-FIRE) grant program",
  "Summary":"Requires grants under the volunteer fire infrastructure and response equipment (V-FIRE) grant program to be awarded equally among the regions of the state with eligible departments.",
  "LawSection":"Executive Law","LawCode":"Add §709-b, Exec L",

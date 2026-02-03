@@ -1,10 +1,12 @@
 {
- "PrintNo":"S705","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T14:49:53.012426Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S705","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-03T14:49:53.012426Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 705A","Date":"2026-02-03","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -13,13 +15,15 @@
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
-  {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},
-  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
+  {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to fair pricing for low-complexity, routine medical care",
  "Summary":"Relates to fair pricing for low-complexity, routine medical care to more closely align payment rates across ambulatory settings for selected services that are safe and appropriate to provide in all settings.",
- "LawSection":"Public Health Law","LawCode":"Ren §2830 to be §2832, add §2833, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to fair pricing for low-complexity, routine medical care",
- "SameAsPrintNo":"A2140-2025","PreviousVersions":["S9952-2023"]
+ "LawSection":"Public Health Law",
+ "LawCode":"Ren §2830 to be §2833, add §2834, amd §4406-c, Pub Health L; amd §§3217-b, 3221, 4325, 4413, 3231 & 4308, add §§4242 & 4715, Ins L",
+ "ActClause":"AN ACT to amend the public health law, in relation to fair pricing for low-complexity, routine medical care; and to amend the insurance law, in relation to billing and reimbursement",
+ "PreviousVersions":["S9952-2023"]
 }
