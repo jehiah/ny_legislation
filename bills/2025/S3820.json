@@ -1,7 +1,7 @@
 {
  "PrintNo":"S3820","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-30T10:33:47.460188Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "Published":"2025-01-30T10:33:47.460188Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-02-03"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-04-16","Chamber":"SENATE"},
@@ -15,7 +15,8 @@
   {"Text":"REFERRED TO INSURANCE","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.218","Date":"2026-02-03","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

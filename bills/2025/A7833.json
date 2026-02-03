@@ -1,11 +1,13 @@
 {
- "PrintNo":"A7833","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T14:57:17.34262Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Ways And Means"}],
+ "PrintNo":"A7833","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-11T14:57:17.34262Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-13","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-04-11","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-05-20","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2026-01-13","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7833A","Date":"2026-01-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,10 +30,12 @@
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
-  {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"}
+  {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},
+  {"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"}
  ],
  "Title":"Relates to workplace safety equipment for social services employees",
- "Summary":"Requires every city or county social services district to provide a wearable or mobile phone-based panic button to each employee whose job responsibilities necessitate direct interaction with clients in external settings, including but not limited to a client's home, a hospital or medical facility, a school, a childcare center, a community center, or another location where services are provided.",
+ "Summary":"Requires every city or county social services district to provide a wearable or mobile phone-based panic button to each employee whose job responsibilities necessitate direct interaction with clients in a client's home.",
  "LawSection":"Social Services Law","LawCode":"Add §63, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to providing panic buttons to certain employees of city and county social services districts"
+ "ActClause":"AN ACT to amend the social services law, in relation to providing panic buttons to certain employees of city and county social services districts",
+ "SameAsPrintNo":"S6987-2025"
 }

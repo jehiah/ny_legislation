@@ -1,11 +1,12 @@
 {
  "PrintNo":"S6353","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-11T14:32:20.864117Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cities 1"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-06","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CITIES 1","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CITIES 1","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-03","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -18,6 +19,18 @@
     {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
     {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
     {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-03","Chamber":"SENATE","Committee":"Cities 1",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":409,"Name":"Andrew J. Lanza","Short":"LANZA","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"}
    ]
   }
  ],

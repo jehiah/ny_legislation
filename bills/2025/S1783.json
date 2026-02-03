@@ -1,5 +1,5 @@
 {
- "PrintNo":"S1783","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S1783","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-13T14:48:38.763576Z","Status":"SENATE_FLOOR",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-01-29"}],
  "Actions":[
@@ -14,7 +14,8 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"1ST REPORT CAL.214","Date":"2026-01-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"1ST REPORT CAL.214","Date":"2026-01-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED 1783B","Date":"2026-02-03","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -119,5 +120,5 @@
  "Summary":"Prohibits the misrepresentation or collection of certain fees related to the delivery, usage, and storage of liquified petroleum.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd §192-e, Ag & Mkts L",
  "ActClause":"AN ACT to amend the agriculture and markets law, in relation to fees related to liquified petroleum",
- "SameAsPrintNo":"A6825-2025","PreviousVersions":["S8606-2023"]
+ "PreviousVersions":["S8606-2023"]
 }

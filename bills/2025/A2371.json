@@ -1,10 +1,12 @@
 {
- "PrintNo":"A2371","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T11:00:26.699337Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"A2371","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-16T11:00:26.699337Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-03","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-16","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-02-03","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2371A","Date":"2026-02-03","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
  "Title":"Relates to value-based care for maternity coverage",
