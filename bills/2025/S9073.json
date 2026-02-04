@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9073","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-28T17:38:44.672203Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-28","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-04"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.266","Date":"2026-02-04","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Prohibits the sale of certain products that contain regulated perfluoroalkyl and polyfluoroalkyl substances; and provides penalties for violations",
  "Summary":"Prohibits the sale of certain products that contain regulated perfluoroalkyl and polyfluoroalkyl substances; requires manufacturers of products containing PFAS to provide notice of such fact to persons that offer the products for sale or distribution; provides penalties for violations.",

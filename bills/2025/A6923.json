@@ -1,10 +1,12 @@
 {
- "PrintNo":"A6923","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:13:46.711026Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"A6923","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-18T13:13:46.711026Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-04","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-18","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6923A","Date":"2026-02-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}],
  "Title":"Requires health insurance plans to provide coverage for continuous blood glucose monitors for all children",

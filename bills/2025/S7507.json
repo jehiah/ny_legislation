@@ -1,7 +1,8 @@
 {
  "PrintNo":"S7507","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-21T10:47:02.573903Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "Published":"2025-04-21T10:47:02.573903Z","Status":"IN_SENATE_COMM",
+ "Committee":"Commerce, Economic Development And Small Business",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Commerce, Economic Development And Small Business"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-21","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"SENATE"},
@@ -10,7 +11,11 @@
    "Text":"REPORTED AND COMMITTED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-04-29",
    "Chamber":"SENATE","Version":"A"
   },
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {
+   "Text":"REPORTED AND COMMITTED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2026-02-04",
+   "Chamber":"SENATE","Version":"A"
+  }
  ],
  "Votes":[
   {
@@ -47,8 +52,8 @@
   }
  ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
- "Title":"Bans paper receipts for certain purchases and requiring businesses to provide proof of purchase electronically",
- "Summary":"Bans paper receipts for certain purchases; requires businesses to provide proof of purchase electronically, unless a proof of purchase is otherwise required by state or federal law.",
+ "Title":"Relates to paper receipts and requires businesses to provide proof of purchase electronically",
+ "Summary":"Relates to paper receipts and requires businesses to provide proof of purchase electronically.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add Art 27 Title 16 §§27-1601 - 27-1607, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to banning paper receipts for certain purchases and requiring businesses to provide proof of purchases electronically",
  "SameAsPrintNo":"A8359-2025","PreviousVersions":["S6090-2019","S771-2021","S7940-2023"]

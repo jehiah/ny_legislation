@@ -1,8 +1,11 @@
 {
  "PrintNo":"S8902","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-14T09:42:05.794191Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-14","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-01-14","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-14","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-02-04"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-14","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.286","Date":"2026-02-04","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1552,"Name":"April Baskin","Short":"BASKIN"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
@@ -18,5 +21,5 @@
  "Summary":"Ensures services provided in school-based health centers are not provided to medical assistance recipients through managed care programs.",
  "LawSection":"Social Services Law","LawCode":"Amd §364-j, Soc Serv L",
  "ActClause":"AN ACT to amend the social services law, in relation to coverage for services provided by school-based health centers for medical assistance recipients",
- "PreviousVersions":["S7840-2023","S1224-2025"]
+ "SameAsPrintNo":"A9577-2025","PreviousVersions":["S7840-2023","S1224-2025"]
 }

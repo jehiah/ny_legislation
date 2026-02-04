@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1892","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-14T11:02:49.816181Z","Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"}],
+ "Published":"2025-01-14T11:02:49.816181Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.260","Date":"2025-02-04","Chamber":"SENATE"},
@@ -14,7 +17,8 @@
   {"Text":"REFERRED TO CORRECTION","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE","Version":"B"}
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.288","Date":"2026-02-04","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

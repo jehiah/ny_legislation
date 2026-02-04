@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1062","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T15:11:50.621943Z",
- "Status":"IN_SENATE_COMM","Committee":"Cultural Affairs, Tourism, Parks And Recreation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.661","Date":"2025-04-08","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-04-24","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.269","Date":"2026-02-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {

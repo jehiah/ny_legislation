@@ -1,7 +1,7 @@
 {
  "PrintNo":"S7202","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-03T14:25:43.428902Z","Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Published":"2025-04-03T14:25:43.428902Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-02-04"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-04-03","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.918","Date":"2025-05-05","Chamber":"SENATE"},
@@ -13,7 +13,8 @@
   {"Text":"REFERRED TO CODES","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.278","Date":"2026-02-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

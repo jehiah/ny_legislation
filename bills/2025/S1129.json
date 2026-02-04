@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1129","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T10:42:29.160347Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Environmental Conservation"}],
+ "Published":"2025-01-08T10:42:29.160347Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1371","Date":"2025-05-28","Chamber":"SENATE"},
@@ -10,7 +13,8 @@
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-27","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 1129A","Date":"2026-01-27","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 1129A","Date":"2026-01-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.257","Date":"2026-02-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,5 +39,5 @@
  "Summary":"Prohibits the sale, offer for sale, or distribution of foam flotation docks, buoys and floating structures in the state where such foam flotation is not fully encapsulated to prevent degradation into the environment.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add Art 27 Title 34 §§27-3401 - 27-3403, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to banning the use of unencapsulated foam flotation in docks, buoys and floating structures",
- "PreviousVersions":["S7977-2023"]
+ "SameAsPrintNo":"A9047-2025","PreviousVersions":["S7977-2023"]
 }

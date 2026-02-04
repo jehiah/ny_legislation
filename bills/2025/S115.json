@@ -1,8 +1,10 @@
 {
  "PrintNo":"S115","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-18T15:23:50.808691Z","Status":"IN_SENATE_COMM",
- "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}],
+ "Published":"2024-12-18T15:23:50.808691Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.276","Date":"2025-02-04","Chamber":"SENATE"},
@@ -26,7 +28,8 @@
   {
    "Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-01-07","Chamber":"SENATE",
    "Version":"A"
-  }
+  },
+  {"Text":"1ST REPORT CAL.268","Date":"2026-02-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,14 +1,18 @@
 {
  "PrintNo":"S5447","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T13:43:09.776921Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1377","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.265","Date":"2026-02-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {

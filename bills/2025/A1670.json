@@ -1,10 +1,12 @@
 {
- "PrintNo":"A1670","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-10T13:06:58.238401Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"}],
+ "PrintNo":"A1670","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-10T13:06:58.238401Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-20","Committee":"Correction"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-10","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-01-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1670A","Date":"2026-01-20","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
@@ -17,11 +19,12 @@
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
   {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
-  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
+  {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
  ],
  "Title":"Prohibits the use of restraints on incarcerated individuals during labor, absent extraordinary circumstances, and on pregnant persons during a custodial interrogation",
- "Summary":"Prohibits the use of restraints on incarcerated individuals during labor, absent extraordinary circumstances, and on pregnant persons during a custodial interrogation.",
- "LawSection":"Correction Law","LawCode":"Amd §611, Cor L; add §837-y, Exec L",
+ "Summary":"Prohibits the use of restraints on and the use of force against incarcerated individuals during labor and incarcerated individuals who have experienced different pregnancy outcomes, absent extraordinary circumstances, and on pregnant and post-pregnancy persons during a custodial interrogation.",
+ "LawSection":"Correction Law","LawCode":"Amd §611, Cor L; add §837-t-1, Exec L",
  "ActClause":"AN ACT to amend the correction law and the executive law, in relation to prohibiting the use of restraints on incarcerated individuals during labor, absent extraordinary circumstances, and on pregnant persons during a custodial interrogation",
- "PreviousVersions":["A8137-2021","A2155-2023"]
+ "SameAsPrintNo":"S2667-2025","PreviousVersions":["A8137-2021","A2155-2023"]
 }

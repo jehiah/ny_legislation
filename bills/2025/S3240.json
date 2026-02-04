@@ -1,7 +1,10 @@
 {
  "PrintNo":"S3240","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-24T12:57:16.835506Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-15","Committee":"Transportation"}],
+ "Published":"2025-01-24T12:57:16.835506Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-15","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1070","Date":"2025-05-13","Chamber":"SENATE"},
@@ -10,7 +13,8 @@
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-01-15","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 3240A","Date":"2026-01-15","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 3240A","Date":"2026-01-15","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.247","Date":"2026-02-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

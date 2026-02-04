@@ -1,8 +1,14 @@
 {
  "PrintNo":"S8691","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T13:08:52.869913Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-04"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.253","Date":"2026-02-04","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Relates to pre-trip safety checks for charter buses",
  "Summary":"Requires motor carriers that operate charter buses to have pre-trip safety briefings on the mandatory use of safety belts by passengers and fines for such violations.",
