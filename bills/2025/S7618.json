@@ -1,13 +1,15 @@
 {
- "PrintNo":"S7618","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-23T11:12:45.931168Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-02-03"}],
+ "PrintNo":"S7618","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-23T11:12:45.931168Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-02-05"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-23","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO CONSUMER PROTECTION","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.215","Date":"2026-01-29","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-03","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 7618A","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -47,6 +49,5 @@
  "Title":"Relates to food safety and quality date labelling requirements",
  "Summary":"Requires certain labelling to be used to indicate the safety dates and quality dates of food items; requires the department of agriculture and markets to educate consumers about such provisions.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Add §214-p, Ag & Mkts L",
- "ActClause":"AN ACT to amend the agriculture and markets law, in relation to food safety and quality date labelling requirements",
- "SameAsPrintNo":"A7291-2025"
+ "ActClause":"AN ACT to amend the agriculture and markets law, in relation to food safety and quality date labelling requirements"
 }

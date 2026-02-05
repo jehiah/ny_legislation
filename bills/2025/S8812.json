@@ -1,10 +1,17 @@
 {
  "PrintNo":"S8812","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T14:09:14.639923Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-12"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-12"},
+  {"Type":"PASSED_SENATE","Date":"2026-02-05"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Corporations, Authorities And Commissions"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.36","Date":"2026-01-12","Chamber":"SENATE"}
+  {"Text":"ORDERED TO THIRD READING CAL.36","Date":"2026-01-12","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-02-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-05","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-02-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

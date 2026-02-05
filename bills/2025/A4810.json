@@ -1,7 +1,10 @@
 {
  "PrintNo":"A4810","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-06T11:07:02.441825Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Status":"IN_SENATE_COMM","Committee":"Banks",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-02-25","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-02-05"},{"Type":"IN_SENATE_COMM","Date":"2026-02-05","Committee":"Banks"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-02-06","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-02-25","Chamber":"ASSEMBLY"},
@@ -12,7 +15,10 @@
   {"Text":"REFERRED TO BANKS","Date":"2025-03-10","Chamber":"SENATE"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.130","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.130","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-02-05","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO BANKS","Date":"2026-02-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1716","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-13T11:39:15.974998Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-02-04"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-02-05"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-04-09","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE","Version":"A"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"1ST REPORT CAL.285","Date":"2026-02-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"1ST REPORT CAL.285","Date":"2026-02-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,6 +31,26 @@
     {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
     {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-04","Version":"A","Chamber":"SENATE","Committee":"Health",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"}
    ]
   }
  ],

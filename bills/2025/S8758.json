@@ -1,16 +1,21 @@
 {
  "PrintNo":"S8758","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T12:29:22.903453Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"},
-  {"Type":"PASSED_SENATE","Date":"2026-01-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Health"}
+  {"Type":"PASSED_SENATE","Date":"2026-01-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Health"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-02-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.61","Date":"2026-01-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-01-21","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-01-21","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-21","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A9474","Date":"2026-02-05","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.75","Date":"2026-02-05","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-05","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-02-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -105,7 +110,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
+ "Sponsors":[
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
+  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}
+ ],
  "Title":"Replaces the term addict with the term person with substance use disorder",
  "Summary":"Replaces the term addict with the term person with substance use disorder.",
  "LawSection":"Public Health Law","LawCode":"Amd §3351, Pub Health L (as proposed in S.3416-D & A.5892-B)",

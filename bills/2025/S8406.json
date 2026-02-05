@@ -1,9 +1,9 @@
 {
  "PrintNo":"S8406","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-09T17:11:04.270196Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-02-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-02-04"}
+  {"Type":"PASSED_SENATE","Date":"2026-02-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Banks"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
@@ -18,7 +18,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-02-04","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-04","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-04","Chamber":"SENATE"},
+  {"Text":"REFERRED TO BANKS","Date":"2026-02-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

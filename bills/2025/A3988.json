@@ -1,7 +1,10 @@
 {
  "PrintNo":"A3988","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T15:08:56.37656Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Published":"2025-01-30T15:08:56.37656Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-02-05"},{"Type":"IN_SENATE_COMM","Date":"2026-02-05","Committee":"Codes"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-06-02","Chamber":"ASSEMBLY"},
@@ -15,7 +18,10 @@
   {"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE","Version":"A"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.121","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.121","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

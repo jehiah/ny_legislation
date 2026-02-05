@@ -1,7 +1,11 @@
 {
  "PrintNo":"A4127","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-31T14:19:53.327385Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Published":"2025-01-31T14:19:53.327385Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-02-05"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-05","Committee":"Energy And Telecommunications"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-01-31","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2025-05-16","Chamber":"ASSEMBLY"},
@@ -15,7 +19,10 @@
   {"Text":"REFERRED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"A"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.122","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.122","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -93,7 +100,7 @@
  ],
  "Sponsors":[
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
-  {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"}
+  {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
  ],
  "Title":"Authorizes and directs the department of public service to conduct a study on the deployment of energy interconnection processes into the electrical grid",
  "Summary":"Authorizes and directs the department of public service to conduct a study on the deployment of energy interconnection processes into the electrical grid to meet the state's renewable energy goals; directs the department of public service to submit a report on its findings one year after the effective date.",

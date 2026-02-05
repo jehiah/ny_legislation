@@ -1,7 +1,10 @@
 {
  "PrintNo":"S2040","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T09:33:37.271282Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-01-29"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-02-03"},
+  {"Type":"PASSED_SENATE","Date":"2026-02-05"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-01-15","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.285","Date":"2025-02-04","Chamber":"SENATE"},
@@ -14,7 +17,10 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.187","Date":"2026-01-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-02-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

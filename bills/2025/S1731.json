@@ -1,9 +1,9 @@
 {
  "PrintNo":"S1731","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T11:52:39.883352Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Alcoholism And Substance Use Disorders"},
-  {"Type":"SENATE_FLOOR","Date":"2026-01-29"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-04"},{"Type":"PASSED_SENATE","Date":"2026-02-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-01-13","Chamber":"SENATE"},
@@ -16,7 +16,11 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.209","Date":"2026-01-29","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.209","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-04","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-02-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -97,6 +101,17 @@
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-01-29","Chamber":"SENATE","Committee":"Alcoholism And Substance Use Disorders",
+   "Votes":[
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"}
    ]
   }
  ],

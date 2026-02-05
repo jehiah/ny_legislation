@@ -3,7 +3,7 @@
  "Published":"2025-01-24T13:22:52.602058Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-24","Chamber":"SENATE"},
@@ -21,7 +21,8 @@
    "Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-01-07","Chamber":"SENATE",
    "Version":"A"
   },
-  {"Text":"1ST REPORT CAL.271","Date":"2026-02-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"1ST REPORT CAL.271","Date":"2026-02-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -129,6 +130,19 @@
     {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Excused"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-04","Version":"A","Chamber":"SENATE",
+   "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
    ]
   }
  ],

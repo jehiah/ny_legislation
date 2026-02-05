@@ -1,9 +1,9 @@
 {
  "PrintNo":"S1540","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T13:57:12.235874Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2026-01-29"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-03"},{"Type":"PASSED_SENATE","Date":"2026-02-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-01-10","Chamber":"SENATE"},
@@ -17,7 +17,10 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.195","Date":"2026-01-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-02-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

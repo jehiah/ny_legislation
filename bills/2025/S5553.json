@@ -1,9 +1,9 @@
 {
  "PrintNo":"S5553","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-24T15:18:15.557139Z","Status":"PASSED_SENATE",
+ "Published":"2025-02-24T15:18:15.557139Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-27"},
-  {"Type":"PASSED_SENATE","Date":"2026-02-04"}
+  {"Type":"PASSED_SENATE","Date":"2026-02-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Energy"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-24","Chamber":"SENATE"},
@@ -24,7 +24,8 @@
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2026-01-27","Chamber":"SENATE","Version":"C"},
   {"Text":"ORDERED TO THIRD READING CAL.143","Date":"2026-01-27","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2026-02-04","Chamber":"SENATE","Version":"C"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-04","Chamber":"SENATE","Version":"C"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-04","Chamber":"SENATE","Version":"C"},
+  {"Text":"REFERRED TO ENERGY","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

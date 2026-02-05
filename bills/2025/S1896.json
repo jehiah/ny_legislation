@@ -1,9 +1,9 @@
 {
  "PrintNo":"S1896","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T11:13:48.080939Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-27"},
-  {"Type":"PASSED_SENATE","Date":"2026-02-04"}
+  {"Type":"PASSED_SENATE","Date":"2026-02-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Energy"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-14","Chamber":"SENATE"},
@@ -18,7 +18,8 @@
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2026-01-27","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.142","Date":"2026-01-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-02-04","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-04","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-04","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ENERGY","Date":"2026-02-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S2264","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:27:13.852526Z",
- "Status":"SENATE_FLOOR",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2026-01-29"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-03"},{"Type":"PASSED_SENATE","Date":"2026-02-05"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Governmental Employees"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-01-16","Chamber":"SENATE"},
@@ -17,7 +18,11 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.196","Date":"2026-01-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-02-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-05","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-02-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

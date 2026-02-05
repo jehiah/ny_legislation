@@ -1,7 +1,10 @@
 {
- "PrintNo":"A4677","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-04T12:24:19.626258Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A4677","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-04T12:24:19.626258Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-02-05"},{"Type":"IN_SENATE_COMM","Date":"2026-02-05","Committee":"Insurance"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-04","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-16","Chamber":"ASSEMBLY"},
@@ -15,7 +18,11 @@
   {"Text":"REFERRED TO RULES","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.127","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.127","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 4677B","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-02-05","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -111,5 +118,5 @@
  "Summary":"Requires insurance coverage for lactation support services by a certified lactation consultant who evaluate and manage lactation and infant feeding problems and provide preventative clinical consulting to prevent or minimize the occurrence of potential problems.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to requiring insurance coverage for lactation support services",
- "PreviousVersions":["A8653-2021","S8239-2021","S7126-2023"]
+ "SameAsPrintNo":"S1670-2025","PreviousVersions":["A8653-2021","S8239-2021","S7126-2023"]
 }

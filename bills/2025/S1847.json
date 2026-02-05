@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1847","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T10:00:07.524591Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-27"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-27"},
+  {"Type":"PASSED_SENATE","Date":"2026-02-05"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-21","Chamber":"SENATE"},
@@ -13,7 +16,9 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2026-01-27","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.141","Date":"2026-01-27","Chamber":"SENATE"}
+  {"Text":"ORDERED TO THIRD READING CAL.141","Date":"2026-01-27","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-02-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -192,9 +197,9 @@
  "Sponsors":[
   {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
-  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
-  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
+  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],

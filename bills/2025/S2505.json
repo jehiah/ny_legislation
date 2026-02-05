@@ -1,7 +1,10 @@
 {
  "PrintNo":"S2505","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-21T11:26:08.722239Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-16","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-01-29"}],
+ "Published":"2025-01-21T11:26:08.722239Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-16","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-02-03"},
+  {"Type":"PASSED_SENATE","Date":"2026-02-05"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.209","Date":"2025-01-28","Chamber":"SENATE"},
@@ -16,7 +19,10 @@
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-01-16","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 2505A","Date":"2026-01-16","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.171","Date":"2026-01-28","Chamber":"SENATE","Version":"A"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE","Version":"A"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

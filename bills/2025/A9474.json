@@ -1,10 +1,67 @@
 {
  "PrintNo":"A9474","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-07T16:58:08.407406Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-04","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-02-04"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-02-04","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.75","Date":"2026-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.75","Date":"2026-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S8758","Date":"2026-02-05","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-02-04","Chamber":"ASSEMBLY","Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-02-04","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":574,"Short":"BARCLAY","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}],
  "Title":"Replaces the term addict with the term person with substance use disorder",
