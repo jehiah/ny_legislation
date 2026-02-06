@@ -1,7 +1,7 @@
 {
- "PrintNo":"S2292","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S2292","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-16T10:55:26.197397Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-05","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-16","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-24","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 2292B","Date":"2026-02-05","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -125,6 +127,7 @@
  "Title":"Enacts the whale awareness act",
  "Summary":"Enacts the whale awareness act directing the department of environmental conservation to establish recommendations and educational materials for reduction of marine mammal interactions.",
  "LawSection":"Environmental Conservation Law",
- "LawCode":"Add Art 13 Title 9 §§13-0901 & 13-0903, En Con L; amd §75, Nav L; amd §2251, V & T L",
- "ActClause":"AN ACT to amend the environmental conservation law, the navigation law and the vehicle and traffic law, in relation to enacting the whale awareness act"
+ "LawCode":"Add Art 13 Title 9 §13-0901, En Con L; amd §75, Nav L; amd §2251, V & T L",
+ "ActClause":"AN ACT to amend the environmental conservation law, the navigation law and the vehicle and traffic law, in relation to enacting the whale awareness act",
+ "SameAsPrintNo":"A8515-2025"
 }

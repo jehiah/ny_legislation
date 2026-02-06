@@ -1,11 +1,31 @@
 {
  "PrintNo":"A9665","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-21T17:08:34.248052Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-21","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-04","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-02-04","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-02-04","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
-  {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"}
+  {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
+  {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"}
  ],
  "Title":"Repeals a provision of the civil service law relating to resolutions of disputes in the course of collective negotiations with certain deputy sheriffs",
  "Summary":"Repeals provisions relating to resolutions of disputes in the course of collective negotiations with certain deputy sheriffs to provide such deputy sheriffs with the same interest arbitration scope as municipal police officers.",

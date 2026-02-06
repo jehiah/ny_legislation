@@ -1,10 +1,12 @@
 {
- "PrintNo":"S4594","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-10T09:54:29.697481Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"}],
+ "PrintNo":"S4594","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-10T09:54:29.697481Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-06","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-10","Chamber":"SENATE"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-02-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4594A","Date":"2026-02-06","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
@@ -15,5 +17,5 @@
  "Summary":"Designates the Nassau-Suffolk transportation coordinating committee as the metropolitan planning organization for Long Island; provides for the withdrawal of the Nassau-Suffolk coordinating committee from the New York Metropolitan transportation council.",
  "LawSection":"Transportation",
  "ActClause":"AN ACT relating to designating the Nassau-Suffolk transportation coordinating committee as the metropolitan planning organization for Long Island",
- "SameAsPrintNo":"A5277-2025","PreviousVersions":["S9918-2023"]
+ "PreviousVersions":["S9918-2023"]
 }

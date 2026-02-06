@@ -1,18 +1,23 @@
 {
- "PrintNo":"S8461","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-07-18T15:05:47.095817Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"}],
+ "PrintNo":"S8461","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-07-18T15:05:47.095817Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-06","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-07-18","Chamber":"SENATE"},
-  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-02-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8461A","Date":"2026-02-06","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
-  {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA"},
+  {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
+  {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
-  {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN"}
+  {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
+  {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Relates to the use of funds in the New York state climate investment account",
- "Summary":"Allows uncommitted funds in the New York state climate investment account to be returned to ratepayers.",
+ "Summary":"Allows surplus or uncommitted funds in the New York state climate investment account to be returned to ratepayers.",
  "LawSection":"State Finance Law","LawCode":"Amd §99-qq, St Fin L",
  "ActClause":"AN ACT to amend the state finance law, in relation to the use of funds in the New York state climate investment account"
 }

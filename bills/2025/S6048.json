@@ -1,7 +1,7 @@
 {
- "PrintNo":"S6048","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-05T09:29:45.247797Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
+ "PrintNo":"S6048","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-05T09:29:45.247797Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-06","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-03-05","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-02-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6048A","Date":"2026-02-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -114,5 +116,5 @@
  "Summary":"Authorizes Susan Gillinder, the widow of Robert C. Ritchie, to file a new service retirement application and an option election form on behalf of her deceased husband with the New York state and local employees' retirement system.",
  "LawSection":"Retirement",
  "ActClause":"AN ACT to authorize Susan Gillinder, the widow of Robert C. Ritchie, to file a new service retirement application and option election form with the New York state and local employees' retirement system on behalf of such deceased member",
- "SameAsPrintNo":"A7574-2025","PreviousVersions":["S5413-2017","S5210-2019","S1607-2021","S6553-2023"]
+ "PreviousVersions":["S5413-2017","S5210-2019","S1607-2021","S6553-2023"]
 }
