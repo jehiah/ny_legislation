@@ -1,15 +1,19 @@
 {
  "PrintNo":"A8130","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-01T10:49:05.29528Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Agriculture",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Agriculture"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-22"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-22"},{"Type":"PASSED_ASSEMBLY","Date":"2026-01-27"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Agriculture"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-05-01","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-01-21","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.238","Date":"2026-01-22","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.238","Date":"2026-01-22","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-27","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -28,11 +32,29 @@
     {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1573,"Short":"CASHMAN","Vote":"Aye"},
     {"ID":469,"Short":"FITZPATRICK","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"","Date":"2026-01-27","Chamber":"ASSEMBLY","Committee":"AGRICULTURE",
+   "Votes":[
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1573,"Short":"CASHMAN","Vote":"Aye"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
   {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
-  {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"}
+  {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},
+  {"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"}
  ],
  "Title":"Authorizes the issuance of delivery tickets electronically",
  "Summary":"Authorizes the issuance of delivery tickets electronically.","LawSection":"Agriculture and Markets Law",

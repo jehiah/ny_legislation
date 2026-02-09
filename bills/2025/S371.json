@@ -1,7 +1,7 @@
 {
  "PrintNo":"S371","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T11:35:19.109933Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-02-09"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-21","Chamber":"SENATE"},
@@ -13,7 +13,8 @@
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.302","Date":"2026-02-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {

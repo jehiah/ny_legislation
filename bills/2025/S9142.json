@@ -3,7 +3,10 @@
  "Status":"IN_SENATE_COMM","Committee":"Health",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-05","Committee":"Health"}],
  "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-02-05","Chamber":"SENATE"}],
- "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
+ "Sponsors":[
+  {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"}
+ ],
  "Title":"Relates to the reporting requirements of the statewide fiscal intermediary; repealer",
  "Summary":"Relates to the reporting requirements of the statewide fiscal intermediary; requires the reporting of utilization data and financial data to protect medical assistance recipients in using the program and ensure the effective use of medical assistance funds; requires the statewide fiscal intermediary to provide consumer directed personal assistant data to ensure the availability of a workforce to meet the needs of consumers utilizing the program; requires the statewide fiscal intermediary to provide data regarding customer service requests, complaints, and accessibility.",
  "LawSection":"Social Services Law","LawCode":"Rpld §365-f sub 4-a ¶(c), amd §365-f, Soc Serv L",

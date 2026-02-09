@@ -1,7 +1,7 @@
 {
  "PrintNo":"S8334","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-03T14:46:08.221419Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-02-09"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-03","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1724","Date":"2025-06-09","Chamber":"SENATE"},
@@ -10,7 +10,8 @@
   {"Text":"REFERRED TO INSURANCE","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.301","Date":"2026-02-09","Chamber":"SENATE"}
  ],
  "Votes":[
   {
