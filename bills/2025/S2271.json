@@ -1,7 +1,10 @@
 {
  "PrintNo":"S2271","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:29:21.432651Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-16","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.246","Date":"2025-02-03","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.339","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -104,5 +108,5 @@
  "Summary":"Prohibits an employer, licensing agency or employment agency from requesting or requiring that a prospective employee disclose their age, date of birth or date of graduation from an educational institution on an initial employment application or during an interview, except in the case of a bona fide occupational qualification or need.",
  "LawSection":"Executive Law","LawCode":"Amd §296, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to prohibiting an employer, licensing agency or employment agency from requesting or requiring that a prospective employee disclose their age, date of birth or date of graduation from an educational institution on an initial employment application or during an interview, except in the case of a bona fide occupational qualification or need",
- "SameAsPrintNo":"A1037-2025","PreviousVersions":["S7303-2019","S1480-2021","S2449-2023"]
+ "PreviousVersions":["S7303-2019","S1480-2021","S2449-2023"]
 }

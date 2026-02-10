@@ -1,12 +1,16 @@
 {
  "PrintNo":"S985","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-07T12:34:55.984939Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Budget And Revenue"}],
+ "Published":"2025-01-07T12:34:55.984939Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Budget And Revenue"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO BUDGET AND REVENUE","Date":"2025-06-06","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 985A","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.350","Date":"2026-02-10","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"}],
  "Title":"Exempts the purchase of certain oral hygiene products from the payment of sales tax",

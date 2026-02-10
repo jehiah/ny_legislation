@@ -1,7 +1,10 @@
 {
  "PrintNo":"S3189","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T09:50:42.094574Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1167","Date":"2025-05-20","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-06-06","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.320","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -92,6 +96,18 @@
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-10","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
    ]
   }
  ],

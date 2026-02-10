@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1111","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T10:22:54.445085Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-06","Chamber":"SENATE"},
@@ -13,7 +13,8 @@
   {"Text":"REFERRED TO EDUCATION","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -128,6 +129,26 @@
     {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
     {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Excused"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-10","Chamber":"SENATE","Committee":"Education",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
    ]
   }
  ],

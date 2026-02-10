@@ -1,7 +1,10 @@
 {
  "PrintNo":"S5392","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-21T10:04:11.239805Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-02-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.460","Date":"2025-03-04","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-03-19","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.312","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -101,7 +105,8 @@
  ],
  "Sponsors":[
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Permits certain not-for-profit corporations engaged in engineering for certain conservation efforts to do business or provide professional engineering, land surveying or professional geology services in the state",
  "Summary":"Relates to permitting certain not-for-profit corporations engaged in engineering for certain conservation efforts to do business or provide professional engineering, land surveying, or professional geology services in the state.",

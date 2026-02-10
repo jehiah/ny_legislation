@@ -1,7 +1,10 @@
 {
  "PrintNo":"S2611","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:35:38.323698Z",
- "Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Racing, Gaming And Wagering"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Racing, Gaming And Wagering"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1327","Date":"2025-05-28","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-06-05","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.331","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {

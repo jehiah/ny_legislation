@@ -1,7 +1,10 @@
 {
- "PrintNo":"A8492","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-20T14:43:58.488832Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "PrintNo":"A8492","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-20T14:43:58.488832Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-02-05"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-02-09"},{"Type":"IN_SENATE_COMM","Date":"2026-02-09","Committee":"Codes"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-23","Chamber":"ASSEMBLY"},
@@ -9,7 +12,14 @@
   {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 8492B","Date":"2025-06-06","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-01-30","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 8492C","Date":"2026-01-30","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED","Date":"2026-02-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ADVANCED TO THIRD READING CAL.248","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-09","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-02-09","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REFERRED TO CODES","Date":"2026-02-09","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -27,12 +37,66 @@
     {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
     {"ID":1245,"Short":"REILLY","Vote":"Excused"},{"ID":1118,"Short":"VANEL","Vote":"Absent"}
    ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-02-04","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Excused"},{"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-02-09","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1144,"Short":"EPSTEIN","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Excused"},{"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
   }
  ],
- "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
+ "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":675,"Name":"Phil Steck","Short":"STECK"}],
  "Title":"Requires the development and implementation of a tattoo policy by law enforcement agencies",
- "Summary":"Requires the commissioner of the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo police for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
- "LawSection":"Executive Law","LawCode":"Add §837-z, Exec L",
+ "Summary":"Requires the commissioner of the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo policy for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
+ "LawSection":"Executive Law","LawCode":"Add §837-aa, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to requiring state law enforcement agencies to develop and implement a tattoo policy",
  "SameAsPrintNo":"S8021-2025"
 }

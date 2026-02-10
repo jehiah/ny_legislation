@@ -1,14 +1,18 @@
 {
  "PrintNo":"S3758","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-29T15:25:42.536947Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-29","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.979","Date":"2025-05-12","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-13","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.327","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -27,9 +31,26 @@
     {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
    ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-10","Chamber":"SENATE",
+   "Committee":"Housing, Construction And Community Development",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
   }
  ],
- "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
+ "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Expands definition of eligible senior citizen and disabled person with respect to condominium and cooperative conversion",
  "Summary":"Expands definition of eligible senior citizen and disabled person to include any member of the tenant's household lawfully occupying the premises as such person's residence who is 62 years of age with respect to condominium and cooperative conversion to provide protection to disabled and senior citizen non-purchasing residents of buildings that undergo cooperative or condominium conversions under an eviction plan even where such residents are not tenants of record in the buildings.",
  "LawSection":"General Business Law","LawCode":"Amd §§352-e, 352-eee & 352-eeee, Gen Bus L",

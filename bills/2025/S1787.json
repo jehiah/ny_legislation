@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1787","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T15:14:50.036669Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.245","Date":"2025-02-03","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.338","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {

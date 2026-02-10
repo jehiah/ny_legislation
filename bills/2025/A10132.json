@@ -1,8 +1,11 @@
 {
  "PrintNo":"A10132","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-03T12:02:55.618114Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-03","Committee":"Science And Technology"}],
- "Actions":[{"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-02-03","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-02-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-10","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Enacts the \"connected consumer product end of life disclosure act\"",
  "Summary":"Enacts the \"connected consumer product end of life disclosure act\", relating to requiring manufacturers of connected consumer products to disclose for how long they will provide technical support, security updates, or bug fixes for the software, hardware, or firmware necessary for the product to securely function.",

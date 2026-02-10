@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1757","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T13:08:21.067637Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-04","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-11","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -119,6 +120,18 @@
     {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Excused"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-10","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Nay"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Nay"}
    ]
   }
  ],

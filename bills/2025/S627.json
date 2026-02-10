@@ -1,7 +1,10 @@
 {
  "PrintNo":"S627","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T10:08:04.400443Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-10"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1013","Date":"2025-05-13","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-19","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.310","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -98,7 +102,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}],
+ "Sponsors":[
+  {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"}
+ ],
  "Title":"Relates to qualifications for certain appointed positions with the board of trustees for the state university and the city university of New York",
  "Summary":"Relates to qualifications for certain appointed positions with the board of trustees for the state university and the city university of New York.",
  "LawSection":"Education Law","LawCode":"Amd §§353 & 6204, Ed L",

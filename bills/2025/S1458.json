@@ -1,13 +1,14 @@
 {
  "PrintNo":"S1458","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-10T09:12:08.928138Z","Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"}],
+ "Published":"2025-01-10T09:12:08.928138Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO SOCIAL SERVICES","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 1458A","Date":"2025-05-14","Chamber":"SENATE","Version":"A"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-10","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -18,6 +19,18 @@
     {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
     {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
     {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-10","Version":"A","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
     {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Nay"}
    ]
   }

@@ -1,7 +1,7 @@
 {
  "PrintNo":"S6017","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-04T15:11:13.049297Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-03-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1027","Date":"2025-05-13","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -93,6 +94,19 @@
     {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Nay"},
     {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"},
     {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-10","Chamber":"SENATE",
+   "Committee":"Corporations, Authorities And Commissions",
+   "Votes":[
+    {"ID":1574,"Name":"Erik Bottcher","Short":"BOTTCHER","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"}
    ]
   }
  ],

@@ -1,15 +1,17 @@
 {
- "PrintNo":"A9058","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-09-05T10:36:16.362071Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Cities"}],
+ "PrintNo":"A9058","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-09-05T10:36:16.362071Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-09-05","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CITIES","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CITIES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CITIES","Date":"2026-02-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9058A","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-10","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"}],
  "Title":"Requires biannual certification of cooling towers",
  "Summary":"Requires biannual certification of cooling towers; increases penalties for violations of such reporting requirements.",
  "LawSection":"New York City Administrative Code","LawCode":"Amd §§28-317.5 & 17-194.1, NYC Ad Cd",
- "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to requiring biannual certification of cooling towers",
- "SameAsPrintNo":"S8472-2025"
+ "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to requiring biannual certification of cooling towers"
 }

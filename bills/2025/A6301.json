@@ -1,15 +1,18 @@
 {
- "PrintNo":"A6301","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-03T16:43:58.923879Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Science And Technology"}],
+ "PrintNo":"A6301","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-03T16:43:58.923879Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-03-03","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO SCIENCE AND TECHNOLOGY","Date":"2026-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6301A","Date":"2026-02-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-02-10","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1487,"Name":"William Conrad","Short":"CONRAD"}],
  "Title":"Enacts the Critical Infrastructure Standards and Procedures Act",
- "Summary":"Enacts the \"critical infrastructure standards and procedures (CRISP) act\".",
- "LawSection":"State Technology Law","LawCode":"Add Art 5 §§501 - 505, St Tech L",
+ "Summary":"Enacts the \"critical infrastructure standards and procedures (CRISP) act\"; requires the office of information technology, along with the division of homeland security and emergency services and the department of financial services to identify critical infrastructure, both public and private, that could be comprised by cyber-attacks.",
+ "LawSection":"State Technology Law","LawCode":"Add Art 6 §§601 - 605, St Tech L",
  "ActClause":"AN ACT to amend the state technology law, in relation to enacting the \"critical infrastructure standards and procedures act\"",
  "PreviousVersions":["A9952-2021","A3094-2023"]
 }
