@@ -1,9 +1,9 @@
 {
- "PrintNo":"S2598","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:27:39.644296Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S2598","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-21T17:27:39.644296Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-01-29"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-21","Chamber":"SENATE"},
@@ -17,7 +17,9 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.176","Date":"2026-01-28","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 2598A","Date":"2026-02-10","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -118,5 +120,5 @@
  "LawSection":"General Municipal Law",
  "LawCode":"Amd §239-c, Gen Muni L; amd §§27 & 81, Gen City L; amd §§267 & 271, Town L; amd §§7-712 & 7-718, Vil L",
  "ActClause":"AN ACT to amend the general municipal law, the general city law, the town law and the village law, in relation to expanding training requirements for municipalities in relation to compliance with the open meetings law",
- "SameAsPrintNo":"A6487-2025","PreviousVersions":["S8410-2023"]
+ "PreviousVersions":["S8410-2023"]
 }

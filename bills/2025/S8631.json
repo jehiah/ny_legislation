@@ -1,14 +1,16 @@
 {
- "PrintNo":"S8631","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-12-22T14:30:46.950451Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Budget And Revenue"}],
+ "PrintNo":"S8631","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-12-22T14:30:46.950451Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Budget And Revenue"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-12-22","Chamber":"SENATE"},
-  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2026-02-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8631A","Date":"2026-02-10","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"}],
  "Title":"Relates to the treatment of certain deductions allowable under the internal revenue code in calculating federal adjusted gross income",
  "Summary":"Provides that certain deductions allowable under the internal revenue code related to certain types of property and domestic research or experimental expenditures shall be added to federal adjusted gross income.",
- "LawSection":"Tax Law","LawCode":"Amd §612, Tax L",
+ "LawSection":"Tax Law","LawCode":"Amd §§208, 612 & 1503, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to the treatment of certain deductions allowable under the internal revenue code in calculating federal adjusted gross income"
 }
