@@ -1,7 +1,7 @@
 {
  "PrintNo":"S4832","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T10:38:28.977766Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-02-11"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.437","Date":"2025-03-03","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"REFERRED TO LABOR","Date":"2025-03-18","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.355","Date":"2026-02-11","Chamber":"SENATE"}
  ],
  "Votes":[
   {

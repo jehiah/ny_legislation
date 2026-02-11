@@ -1,16 +1,21 @@
 {
  "PrintNo":"S8821","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T14:42:45.174737Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-12"},
-  {"Type":"PASSED_SENATE","Date":"2026-01-13"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-13","Committee":"Cities"}
+  {"Type":"PASSED_SENATE","Date":"2026-01-13"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-13","Committee":"Cities"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-11"},{"Type":"PASSED_ASSEMBLY","Date":"2026-02-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.40","Date":"2026-01-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-01-13","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-01-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CITIES","Date":"2026-01-13","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CITIES","Date":"2026-01-13","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A9505","Date":"2026-02-11","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.81","Date":"2026-02-11","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-11","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-02-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

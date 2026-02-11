@@ -1,14 +1,17 @@
 {
- "PrintNo":"A9000","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-08-13T10:14:32.549759Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A9000","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-08-13T10:14:32.549759Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-11","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-08-13","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-01-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9000A","Date":"2026-01-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-02-11","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
- "Title":"Directs the department of health to create an informational pamphlet concerning menopause",
- "Summary":"Directs the department of health to develop an informational pamphlet concerning menopause, which shall include information concerning the stages of menopause, the signs and side effects of menopause, and options for the management and treatment of menopause; requires that such informational pamphlet be made available on the department's website and available for order as a printed deliverable; requires practitioners to make such informational pamphlet available to patients.",
+ "Title":"Directs the department of health to create an informational pamphlet concerning perimenopause and menopause",
+ "Summary":"Directs the department of health to develop an informational pamphlet concerning perimenopause and menopause, which shall include information concerning the stages of perimenopause and menopause, the signs and side effects, and options for the management and treatment; requires that such informational pamphlet be made available on the department's website and available for order as a printed deliverable; requires practitioners to make such informational pamphlet available to patients.",
  "LawSection":"Public Health Law","LawCode":"Add §267-c, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to directing the department of health to create an informational pamphlet concerning menopause"
+ "ActClause":"AN ACT to amend the public health law, in relation to directing the department of health to create an informational pamphlet concerning perimenopause and menopause"
 }

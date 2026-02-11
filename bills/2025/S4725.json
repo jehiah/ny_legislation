@@ -1,7 +1,7 @@
 {
- "PrintNo":"S4725","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-12T10:06:57.089318Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
+ "PrintNo":"S4725","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-12T10:06:57.089318Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-11","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-02-12","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-02-11","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4725A","Date":"2026-02-11","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -127,5 +129,5 @@
  "Summary":"Authorizes Michael Winston Hoard, the widower of Kathy Marie Dwyer-Hoard, to file a new service retirement application and an option election form on behalf of his deceased wife with the New York state and local employees' retirement system.",
  "LawSection":"Retirement",
  "ActClause":"AN ACT in relation to authorizing Michael Winston Hoard, the widower of Kathy Marie Dwyer-Hoard, to file a new service retirement application and option election form with the New York state and local employees' retirement system on behalf of such deceased member",
- "SameAsPrintNo":"A5670-2025","PreviousVersions":["S9631-2023"]
+ "PreviousVersions":["S9631-2023"]
 }
