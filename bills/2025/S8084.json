@@ -1,10 +1,12 @@
 {
- "PrintNo":"S8084","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T17:51:01.046198Z",
- "Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"}],
+ "PrintNo":"S8084","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T17:51:01.046198Z","Status":"IN_SENATE_COMM","Committee":"Agriculture",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-12","Committee":"Agriculture"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO AGRICULTURE","Date":"2026-02-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8084A","Date":"2026-02-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
@@ -13,5 +15,6 @@
  "Title":"Establishes an animal abuser registry",
  "Summary":"Establishes an animal abuser registry; requires background checks for pet store and animal shelter licenses.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd §§403 & 421, add §353-g, Ag & Mkts L",
- "ActClause":"AN ACT to amend the agriculture and markets law, in relation to establishing an animal abuser registry"
+ "ActClause":"AN ACT to amend the agriculture and markets law, in relation to establishing an animal abuser registry",
+ "SameAsPrintNo":"A10119-2025"
 }

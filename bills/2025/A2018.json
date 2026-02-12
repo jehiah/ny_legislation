@@ -1,10 +1,12 @@
 {
- "PrintNo":"A2018","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T12:40:07.270317Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A2018","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T12:40:07.270317Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-12","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-14","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-01-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2018A","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
@@ -32,12 +34,13 @@
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
   {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
-  {"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
  ],
  "Title":"Relates to long term care options for medicaid recipients; repealer",
  "Summary":"Repeals managed long term care provisions for Medicaid recipients; establishes provisions for fully integrated plans for long term care including PACE and MAP plans.",
  "LawSection":"Public Health Law",
  "LawCode":"Rpld & add §4403-f, rpld §2807-x, amd §§2801-e, 2807-v, 3605, 3614 & 4409, Pub Health L; amd §§365-a, 364-j, 364-jj, 365-f, 365-h & 366, Soc Serv L; amd §218, Eld L; amd §13.40, Ment Hyg L",
  "ActClause":"AN ACT to amend the public health law, the social services law, the elder law and the mental hygiene law, in relation to long term care options; and to repeal certain provisions of the public health law relating to managed long term care",
- "PreviousVersions":["A8470-2023"]
+ "SameAsPrintNo":"S2332-2025","PreviousVersions":["A8470-2023"]
 }

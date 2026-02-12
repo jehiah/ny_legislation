@@ -1,14 +1,17 @@
 {
- "PrintNo":"A8876","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-09T23:31:17.244669Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "PrintNo":"A8876","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-06-09T23:31:17.244669Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-06-09","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8876A","Date":"2026-02-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},{"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"}],
  "Title":"Relates to the use of funds in the New York state climate investment account",
- "Summary":"Allows uncommitted funds in the New York state climate investment account to be returned to ratepayers.",
+ "Summary":"Allows surplus or uncommitted funds in the New York state climate investment account to be returned to ratepayers.",
  "LawSection":"State Finance Law","LawCode":"Amd §99-qq, St Fin L",
- "ActClause":"AN ACT to amend the state finance law, in relation to the use of funds in the New York state climate investment account"
+ "ActClause":"AN ACT to amend the state finance law, in relation to the use of funds in the New York state climate investment account",
+ "SameAsPrintNo":"S8461-2025"
 }
