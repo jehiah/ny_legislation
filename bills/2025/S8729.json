@@ -1,15 +1,17 @@
 {
- "PrintNo":"S8729","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T14:48:02.046894Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE"}],
+ "PrintNo":"S8729","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-07T14:48:02.046894Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-12","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-02-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8729A","Date":"2026-02-12","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
-  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
+  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}
  ],
  "Title":"Establishes the \"right to home inspection act\"",
  "Summary":"Establishes the right to inspection of homes by buyers; provides for a 10-day inspection period where the buyer has the right to have a home inspected and cancel the contract if the buyer is not satisfied with the inspection results; makes related provisions.",
- "LawSection":"Real Property Law","LawCode":"Amd Art 14 Art Head, §§461 & 462, add §467, RP L",
- "ActClause":"AN ACT to amend the real property law, in relation to enacting the \"right to home inspection act\"",
- "SameAsPrintNo":"A9629-2025"
+ "LawSection":"Real Property Law","LawCode":"Amd Art 14 Art Head, §§461 & 462, add §467, RP L"
 }
