@@ -1,7 +1,7 @@
 {
- "PrintNo":"A2565","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-17T13:04:37.524726Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A2565","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-17T13:04:37.524726Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-17","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-28"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-17","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-02-04","Chamber":"ASSEMBLY"},
@@ -11,7 +11,8 @@
   {"Text":"REFERRED TO CODES","Date":"2025-03-26","Chamber":"SENATE"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.92","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.92","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 2565A","Date":"2026-01-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -57,11 +58,13 @@
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
-  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
+  {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
+  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}
  ],
  "Title":"Creates the New York electronic communications privacy act; search and seizure of electronic devices and electronic communications",
  "Summary":"Creates the New York electronic communications privacy act; requires government agents and agencies to obtain a search warrant for physical or electronic access to electronic device information.",
  "LawSection":"Criminal Procedure Law","LawCode":"Add Art 695 §§695.05 - 695.25, CP L",
  "ActClause":"AN ACT to amend the criminal procedure law, in relation to establishing the New York electronic communications privacy act (\"NYECPA\")",
- "SameAsPrintNo":"S1531-2025","PreviousVersions":["A9235-2015","A1895-2017","A2620-2019","A5045-2021","A1880-2023"]
+ "PreviousVersions":["A9235-2015","A1895-2017","A2620-2019","A5045-2021","A1880-2023"]
 }
