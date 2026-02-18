@@ -1,7 +1,7 @@
 {
- "PrintNo":"S707","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T14:50:42.739758Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S707","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-03T14:50:42.739758Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-18","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.484","Date":"2025-03-04","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-02-18","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 707A","Date":"2026-02-18","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -114,5 +116,5 @@
  "Summary":"Requires certain data to be included in reports on the administration of managed long term care plans; changes reporting period to annually.",
  "LawSection":"Public Health Law","LawCode":"Amd §4403-f, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to data reporting required on the administration of managed long term care plans",
- "SameAsPrintNo":"A700-2025","PreviousVersions":["S9266-2023"]
+ "PreviousVersions":["S9266-2023"]
 }

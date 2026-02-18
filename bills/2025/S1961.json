@@ -1,7 +1,7 @@
 {
- "PrintNo":"S1961","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T12:37:45.610587Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Internet And Technology"}],
+ "PrintNo":"S1961","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-14T12:37:45.610587Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-18","Committee":"Internet And Technology"}],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-10","Chamber":"SENATE"},
@@ -13,7 +13,9 @@
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-02-18","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1961A","Date":"2026-02-18","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -127,7 +129,7 @@
  "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
  "Title":"Establishes the \"secure our data act\"",
  "Summary":"Establishes the \"secure our data act\"; relates to cybersecurity protection by state entities; requires the office of information technology services to develop standards for data protection of state entity-maintained information.",
- "LawSection":"State Technology Law","LawCode":"Add §210, St Tech L",
+ "LawSection":"State Technology Law","LawCode":"Add §211, St Tech L",
  "ActClause":"AN ACT to amend the state technology law, in relation to establishing the \"secure our data act\"",
- "SameAsPrintNo":"A5739-2025","PreviousVersions":["S9005-2021","S5007-2023"]
+ "PreviousVersions":["S9005-2021","S5007-2023"]
 }
