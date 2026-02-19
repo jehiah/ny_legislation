@@ -1,12 +1,14 @@
 {
- "PrintNo":"S6230","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S6230","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-03-07T09:16:41.847817Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-19","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-07","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-06-09","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 6230A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-02-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 6230B","Date":"2026-02-19","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":439,"Name":"Simcha Felder","Short":"FELDER"},
@@ -15,7 +17,7 @@
   {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"}
  ],
  "Title":"Authorizes camp employees to administer medications and treatment to children under certain circumstances",
- "Summary":"Allows camp employees to administer medications and treatment to children, under parent direction and authorization, after specific authorization by the camp's medical director and in compliance with regulations.",
+ "Summary":"Allows camp employees to administer medications and treatment to children, under parent or guardian consent and authorization, pursuant to a patient specific order and in compliance with regulations.",
  "LawSection":"Public Health Law","LawCode":"Amd §1394, Pub Health L; amd §6908, Ed L",
  "ActClause":"AN ACT to amend the public health law and the education law, in relation to authorizing camp employees to administer medications and treatment to children under certain circumstances",
  "PreviousVersions":["S8641-2023"]

@@ -1,14 +1,17 @@
 {
- "PrintNo":"S7840","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T14:17:40.00706Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
+ "PrintNo":"S7840","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-09T14:17:40.00706Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-19","Committee":"Higher Education"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-05-09","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2026-02-19","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7840A","Date":"2026-02-19","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Establishes an internationally trained physician licensure pathway program",
- "Summary":"Establishes an internationally trained physician licensure pathway program to allow qualified, foreign-trained physicians to contribute to the healthcare system through supervised practice in designated shortage areas, ultimately leading to full licensure.",
+ "Summary":"Establishes an internationally trained physician licensure pathway program to allow qualified, foreign-trained physicians and physicians trained and/or licensed to practice medicine in a territory or possession of the United States to contribute to the healthcare system through supervised practice in designated shortage areas, ultimately leading to full licensure.",
  "LawSection":"Education Law","LawCode":"Add §6525-a, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to establishing an internationally trained physician licensure pathway program"
+ "ActClause":"AN ACT to amend the education law, in relation to establishing an internationally trained physician licensure pathway program",
+ "SameAsPrintNo":"A7319-2025"
 }
