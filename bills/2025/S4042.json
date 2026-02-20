@@ -1,7 +1,7 @@
 {
- "PrintNo":"S4042","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T11:09:03.543178Z",
- "Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Disabilities"}],
+ "PrintNo":"S4042","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-31T11:09:03.543178Z","Status":"IN_SENATE_COMM","Committee":"Disabilities",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-19","Committee":"Disabilities"}],
  "Actions":[
   {"Text":"REFERRED TO DISABILITIES","Date":"2025-01-31","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO DISABILITIES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO DISABILITIES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO DISABILITIES","Date":"2026-02-19","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4042A","Date":"2026-02-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -121,5 +123,5 @@
  "Summary":"Provides for adult changing tables to be placed within an enclosed restroom facility or other similar private facility that is for use by persons with disabilities who need help with diapering at commercial places of public amusement and state-owned buildings open to the public.",
  "LawSection":"Civil Rights Law","LawCode":"Add §79-r, Civ Rts L; add §148, Pub Bldg L",
  "ActClause":"AN ACT to amend the civil rights law and the public buildings law, in relation to enacting the \"traveling with dignity act\"",
- "PreviousVersions":["S7697-2023"]
+ "SameAsPrintNo":"A6219-2025","PreviousVersions":["S7697-2023"]
 }

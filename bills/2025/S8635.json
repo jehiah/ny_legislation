@@ -1,12 +1,15 @@
 {
- "PrintNo":"S8635","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T09:31:57.416912Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}],
+ "PrintNo":"S8635","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-07T09:31:57.416912Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-20","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-02-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8635A","Date":"2026-02-20","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Relates to establishing a special needs assisted living demonstration program",
  "Summary":"Establishes a special needs assisted living demonstration program to authorize up to three assisted living programs throughout the state to serve individuals with special needs, including, but not limited to, individuals with dementia or cognitive impairments.",
  "LawSection":"Social Services Law","LawCode":"Amd §461-l, Soc Serv L; amd §3614, Pub Health L",
- "ActClause":"AN ACT to amend the social services law and the public health law, in relation to a special needs assisted living demonstration program",
- "SameAsPrintNo":"A9418-2025"
+ "ActClause":"AN ACT to amend the social services law and the public health law, in relation to a special needs assisted living demonstration program"
 }
