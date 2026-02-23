@@ -1,20 +1,20 @@
 {
- "PrintNo":"S655","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-03T12:08:55.671311Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"}],
+ "PrintNo":"S655","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-03T12:08:55.671311Z","Status":"IN_SENATE_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-23","Committee":"Corporations, Authorities And Commissions"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-02-23","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 655A","Date":"2026-02-23","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}
  ],
- "Title":"Enacts the corporate accountability for tax expenditures act",
- "Summary":"Enacts the corporate accountability for tax expenditures act; standardizes applications for state development assistance for empire zone assistance and industrial development agency assistance; requires submission of certain development assistance agreements to the department of taxation and finance; requires recipients of certain development assistance to submit progress reports which include certain information and disclosures; makes certain recapture provisions; defines relevant terms.",
- "LawSection":"Business Corporation Law",
- "LawCode":"Add Art 14 §§1401 - 1405, BC L; add Art 10-E §§3980 - 3984, Pub Auth L",
- "ActClause":"AN ACT to amend the business corporation law and the public authorities law, in relation to enacting the \"corporate accountability for tax expenditures act\"",
- "SameAsPrintNo":"A7933-2025",
+ "Title":"Enacts the accountability for development assistance act",
+ "Summary":"Enacts the accountability for development assistance act; standardizes applications for state development assistance; requires submission of certain development assistance agreements to the department of taxation and finance; requires recipients of certain development assistance to submit progress reports which include certain information and disclosures.",
+ "LawSection":"Executive Law","LawCode":"Add §170-k, Exec L",
  "PreviousVersions":["S3337-2007","S750-2009","S446-2011","S3449-2013","S3109-2015","S3364-2017","S1923-2019","S1038-2021","S1146-2023"]
 }
