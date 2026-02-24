@@ -1,9 +1,9 @@
 {
- "PrintNo":"S8496","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S8496","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-09-03T09:45:55.715944Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-13","Committee":"Higher Education"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-11"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-24"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-09-03","Chamber":"SENATE"},
@@ -13,7 +13,9 @@
   {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2026-01-13","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 8496B","Date":"2026-01-13","Chamber":"SENATE","Version":"B"},
   {"Text":"1ST REPORT CAL.315","Date":"2026-02-10","Chamber":"SENATE","Version":"B"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-11","Chamber":"SENATE","Version":"B"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED 8496C","Date":"2026-02-24","Chamber":"SENATE","Version":"C"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-24","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -36,11 +38,11 @@
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":1237,"Name":"Rachel May","Short":"MAY"}
+  {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
  ],
  "Title":"Relates to the establishment of regulations for administering immunizations based on the recommendations of certain entities",
- "Summary":"Relates to the establishment of regulations for administering immunizations based on the recommendations of the American Academy of Pediatrics, the American Academy of Family Physicians, the American College of Obstetricians and Gynecologists, the American College of Physicians, the advisory committee on immunization practices, or any interstate body established for purposes of reviewing and making recommendations regarding immunization coverage and access.",
+ "Summary":"Relates to the establishment of regulations for administering immunizations taking into consideration the recommendations of the American Academy of Pediatrics, the American Academy of Family Physicians, the American College of Obstetricians and Gynecologists, the American College of Physicians, the advisory committee on immunization practices, any interstate body established for purposes of reviewing and making recommendations regarding immunization coverage and access, or other similar nationally or internationally recognized scientific organizations.",
  "LawSection":"Education Law","LawCode":"Amd §§6527, 6801, 6802 & 6909, Ed L; amd §§3216, 3221, 4303 & 4322, Ins L",
- "ActClause":"AN ACT to amend the education law and the insurance law, in relation to the establishment of immunization administration regulations based on the recommendations of certain entities",
- "SameAsPrintNo":"A9060-2025"
+ "ActClause":"AN ACT to amend the education law and the insurance law, in relation to the establishment of immunization administration regulations based on the recommendations of certain entities"
 }

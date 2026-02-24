@@ -1,21 +1,24 @@
 {
- "PrintNo":"S7004","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-28T10:54:58.607456Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
+ "PrintNo":"S7004","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-28T10:54:58.607456Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-24","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-28","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7004A","Date":"2026-02-24","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
-  {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
-  {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
-  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"}
+  {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},{"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN"},
+  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"}
  ],
  "Title":"Relates to providing state correction officers with a special optional twenty year retirement plan",
  "Summary":"Relates to providing state correction officers with a special optional twenty year retirement plan.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Add Art 14-C §§561 - 564, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to providing state correction officers with a special optional twenty year retirement plan",
- "SameAsPrintNo":"A7925-2025","PreviousVersions":["S6165-2023"]
+ "PreviousVersions":["S6165-2023"]
 }

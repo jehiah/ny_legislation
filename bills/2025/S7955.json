@@ -1,9 +1,9 @@
 {
- "PrintNo":"S7955","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7955","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-05-14T17:56:35.775686Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-05"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-24"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-14","Chamber":"SENATE"},
@@ -18,7 +18,9 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.251","Date":"2026-02-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 7955B","Date":"2026-02-24","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -128,7 +130,7 @@
  ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],"Title":"Relates to school bus stop-arm cameras",
  "Summary":"Relates to school bus stop-arm cameras and the adjudication of traffic infractions related thereto.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §1174-a, V & T L",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§236, 401, 1174, 1174-a, 1180-e & 1803, V & T L",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to school bus stop-arm cameras",
  "SameAsPrintNo":"A8703-2025"
 }

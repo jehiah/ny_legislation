@@ -1,7 +1,7 @@
 {
- "PrintNo":"S4470","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-05T14:41:51.898561Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-02-09"}],
+ "PrintNo":"S4470","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-05T14:41:51.898561Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-02-24"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
@@ -14,7 +14,8 @@
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.275","Date":"2026-02-04","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 4470A","Date":"2026-02-24","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -135,5 +136,5 @@
  "Summary":"Requires training for police officers on discharging a firearm at a moving vehicle; requires the municipal police training council to develop and disseminate written policies and procedures regarding such force.",
  "LawSection":"Executive Law","LawCode":"Amd §840, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to requiring training for police officers on discharging a firearm at a moving vehicle",
- "PreviousVersions":["S9588-2023"]
+ "SameAsPrintNo":"A8451-2025","PreviousVersions":["S9588-2023"]
 }
