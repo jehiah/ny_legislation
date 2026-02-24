@@ -1,8 +1,11 @@
 {
  "PrintNo":"S8949","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-20T14:55:13.018647Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-01-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-02-24"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.395","Date":"2026-02-24","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to limiting audit and review of certain medical assistance program funds",
  "Summary":"Limits the reimbursement amount of certain overpayment claims and reviews where such overpayment was due to the provider's submission of records which were not in accordance with program requirements at the time but which were in accordance with current requirements as a result of changes to guidelines or regulations.",

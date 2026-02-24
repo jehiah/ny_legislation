@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1746","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T12:52:17.497689Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-02-24"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.885","Date":"2025-04-29","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-22","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.386","Date":"2026-02-24","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1285","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T09:30:09.799214Z","Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Published":"2025-01-09T09:30:09.799214Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-02-24"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.179","Date":"2025-01-27","Chamber":"SENATE"},
@@ -13,7 +13,8 @@
   {"Text":"REFERRED TO CODES","Date":"2025-04-08","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.367","Date":"2026-02-24","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -105,8 +106,9 @@
  ],
  "Sponsors":[
   {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
-  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to jury deliberations",
  "Summary":"Allows for written instructions regarding elements to be supplied to a jury.",

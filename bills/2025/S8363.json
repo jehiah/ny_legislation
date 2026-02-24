@@ -1,15 +1,20 @@
 {
- "PrintNo":"S8363","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-05T15:07:19.480617Z",
- "Status":"IN_SENATE_COMM","Committee":"Alcoholism And Substance Use Disorders",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Alcoholism And Substance Use Disorders"}],
+ "PrintNo":"S8363","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-06-05T15:07:19.480617Z","Status":"IN_SENATE_COMM",
+ "Committee":"Alcoholism And Substance Use Disorders",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-24","Committee":"Alcoholism And Substance Use Disorders"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-05","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8363A","Date":"2026-02-24","Chamber":"SENATE","Version":"A"}
  ],
- "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
+ "Sponsors":[
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
+  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}
+ ],
  "Title":"Enacts the individual counseling rate enhancement act",
  "Summary":"Requires a rate enhancement for reimbursement of individual psychotherapy services provided by a mental health counselor, a clinical social worker, or a psychologist where such services are provided in an outpatient substance use disorder clinic.",
  "LawSection":"Mental Hygiene Law","LawCode":"Add §19.18-d, Ment Hyg L",
- "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing the individual counseling for integrated care rate enhancement act",
- "SameAsPrintNo":"A8734-2025"
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing the individual counseling for integrated care rate enhancement act"
 }

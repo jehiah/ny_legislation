@@ -1,7 +1,10 @@
 {
  "PrintNo":"S3629","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-29T09:44:28.800266Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "Published":"2025-01-29T09:44:28.800266Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-24"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-29","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.397","Date":"2025-02-25","Chamber":"SENATE"},
@@ -13,7 +16,8 @@
   {"Text":"REFERRED TO CODES","Date":"2025-04-08","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.379","Date":"2026-02-24","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -104,7 +108,7 @@
  "Sponsors":[
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Prohibits the participation of certain animals in traveling animal acts",
  "Summary":"Prohibits the participation of certain animals in traveling animal acts; prohibits the department of environmental conservation from issuing permits or licenses allowing participation of certain animals in traveling animal acts; excludes certain permanent performing institutions; imposes a civil penalty not to exceed $1000 for a violation.",

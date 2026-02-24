@@ -1,7 +1,7 @@
 {
  "PrintNo":"S490","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T14:24:37.37571Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-02-24"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.611","Date":"2025-03-25","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"REFERRED TO CODES","Date":"2025-04-09","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.365","Date":"2026-02-24","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -105,8 +106,8 @@
  "Sponsors":[
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
-  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Includes instances of sexual conduct against a child less than seventeen years of age to certain sex offenses",
  "Summary":"Includes instances of sexual conduct against a child less than seventeen years of age to certain sex offenses; removes the time limit to bring subsequent sexual offenses.",
