@@ -14,4 +14,4 @@ jobs:
       with:
         token: ${{ secrets.GH_EMPIRE_LEGISLATION_TOKEN }}
         repository: jehiah/empire_legislation
-        event-type: build-index
+        event-type: reindex
