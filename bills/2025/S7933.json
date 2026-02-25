@@ -1,15 +1,21 @@
 {
- "PrintNo":"S7933","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-14T14:33:59.002744Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "PrintNo":"S7933","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-14T14:33:59.002744Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-25","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-02-25",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 7933A","Date":"2026-02-25","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
- "Title":"Grants a right of action where registration fees are imposed on mortgagors in default",
- "Summary":"Grants a right of action where registration fees of residential mortgages in default are imposed on the mortgagor; increases fee amount authorized to be imposed on mortgagees or their agents.",
+ "Title":"Relates to registrations of residential mortgages in default",
+ "Summary":"Increases fee amount authorized to be imposed on mortgagees or their agents.",
  "LawSection":"Real Property Actions and Proceedings Law","LawCode":"Amd §1393, RPAP L",
- "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to a right of action where registration fees are imposed on mortgagees in default",
+ "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to registrations of residential mortgages in default",
  "SameAsPrintNo":"A8244-2025"
 }

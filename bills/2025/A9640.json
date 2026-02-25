@@ -1,12 +1,15 @@
 {
  "PrintNo":"A9640","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-21T16:58:38.438729Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2026-01-21","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-25","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-25","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},
-  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"}
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"}
  ],
  "Title":"Authorizes the public service commission to implement performance-based regulation of electric or gas corporations",
  "Summary":"Authorizes the public service commission to implement performance-based regulation of electric or gas corporations; requires that any such regulation shall provide performance standards and metrics by which such performance shall be measured.",

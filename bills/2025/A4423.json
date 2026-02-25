@@ -10,7 +10,8 @@
   {"Text":"PRINT NUMBER 4423B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REFERRED TO ELECTION LAW","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-11","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-11","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -24,6 +25,27 @@
     {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
     {"ID":1547,"Short":"CARROLL P","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
     {"ID":1152,"Short":"TAGUE","Vote":"Nay"},{"ID":1469,"Short":"MAMDANI","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-02-11","Chamber":"ASSEMBLY","Committee":"ELECTION LAW",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":0,"Short":"CARROLL RC","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1547,"Short":"CARROLL P","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL RC","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1547,"Short":"CARROLL P","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Excused"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Absent"},{"ID":1471,"Short":"GALLAGHER","Vote":"Absent"}
    ]
   }
  ],

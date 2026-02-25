@@ -1,10 +1,12 @@
 {
- "PrintNo":"S1269","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T08:59:12.085457Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "PrintNo":"S1269","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T08:59:12.085457Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-25","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-09","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-02-25","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1269A","Date":"2026-02-25","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
@@ -14,7 +16,7 @@
  ],
  "Title":"Relates to the use of airway clearance devices in schools",
  "Summary":"Provides for the use of airway clearance devices in schools; provides for training for school employees.",
- "LawSection":"Education Law","LawCode":"Add §926, Ed L",
+ "LawSection":"Education Law","LawCode":"Add §927, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to the use of airway clearance devices in schools",
- "PreviousVersions":["S8536-2021","S7018-2023"]
+ "SameAsPrintNo":"A10320-2025","PreviousVersions":["S8536-2021","S7018-2023"]
 }

@@ -5,9 +5,31 @@
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-11-21","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-01-21","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-01-21","Chamber":"ASSEMBLY",
+   "Committee":"TRANSPORTATION",
+   "Votes":[
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}],
  "Title":"Relates to pre-trip safety checks for charter buses",
  "Summary":"Requires motor carriers that operate charter buses to have pre-trip safety briefings on the mandatory use of safety belts by passengers and fines for such violations.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§509-m & 1229-c, V & T L",

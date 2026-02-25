@@ -1,10 +1,12 @@
 {
- "PrintNo":"A7925","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-15T15:00:24.486758Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Employees"}],
+ "PrintNo":"A7925","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-15T15:00:24.486758Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-25","Committee":"Governmental Employees"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-04-15","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2026-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7925A","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1566,"Name":"Andrea Bailey","Short":"BAILEY"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
@@ -18,5 +20,5 @@
  "Summary":"Relates to providing state correction officers with a special optional twenty year retirement plan.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Add Art 14-C §§561 - 564, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to providing state correction officers with a special optional twenty year retirement plan",
- "SameAsPrintNo":"S7004-2025","PreviousVersions":["A5013-2023"]
+ "PreviousVersions":["A5013-2023"]
 }

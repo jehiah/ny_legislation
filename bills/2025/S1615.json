@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1615","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T08:58:08.991258Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-25"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.172","Date":"2025-01-27","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-02-25","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.401","Date":"2026-02-25","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -99,6 +103,23 @@
     {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-24","Chamber":"SENATE",
+   "Committee":"Housing, Construction And Community Development",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Nay"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
   }
  ],
  "Sponsors":[
@@ -109,5 +130,5 @@
  "Summary":"Prohibits naming dependent children under the age of 18 living in the same household with a parent or guardian in petitions to recover possession of real property and eviction warrants; seals any records pertaining to dependent children under the age of 18 living in the same household with a parent or guardian who were residing on or removed from such property.",
  "LawSection":"Real Property Actions and Proceedings Law","LawCode":"Amd §§741 & 749, RPAP L",
  "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to prohibiting naming dependent children under the age of 18 in petitions to recover possession of real property and eviction warrants and sealing any records pertaining to such children",
- "SameAsPrintNo":"A1656-2025","PreviousVersions":["S7376-2021","S5905-2023"]
+ "PreviousVersions":["S7376-2021","S5905-2023"]
 }

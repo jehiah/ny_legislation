@@ -1,10 +1,14 @@
 {
  "PrintNo":"S926","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T09:58:09.278978Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-25"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.411","Date":"2026-02-25","Chamber":"SENATE"}
  ],
  "Sponsors":[
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},

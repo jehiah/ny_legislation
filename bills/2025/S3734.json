@@ -1,7 +1,10 @@
 {
- "PrintNo":"S3734","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-29T14:39:13.606897Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "PrintNo":"S3734","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-29T14:39:13.606897Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-24"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-29","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.409","Date":"2025-02-25","Chamber":"SENATE"},
@@ -13,7 +16,9 @@
   {"Text":"REFERRED TO ENERGY","Date":"2025-06-13","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.398","Date":"2026-02-24","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED (T) 3734B","Date":"2026-02-25","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -101,10 +106,11 @@
  ],
  "Sponsors":[
   {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}
  ],
- "Title":"Relates to prohibiting the public service commission from approving a rate increase which allows a utility to recover certain operating expenses",
- "Summary":"Relates to prohibiting the public service commission from approving a rate increase which allows a utility to recover its direct or indirect costs in excess of one hundred thousand dollars associated with its attendance in, participation in, preparation for, or appeal of any rate proceeding conducted before the commission, or compensation for management employees in excess of the current salary of the governor of the state unless proof of necessity is provided.",
+ "Title":"Authorizes the public service commission to establish rules to limit a utility's ability to recover certain operating expenses",
+ "Summary":"Authorizes and directs the public service commission to establish rules to limit a utility's ability to recover its direct or indirect costs associated with its attendance in, participation in, preparation for, or appeal of any rate proceeding conducted before the commission.",
  "LawSection":"Public Service Law","LawCode":"Amd §66, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to prohibiting the public service commission from approving a rate increase which allows a utility to recover certain operating expenses"
+ "ActClause":"AN ACT to amend the public service law, in relation to authorizing the public service commission to establish rules to limit a utility's ability to recover certain operating expenses"
 }

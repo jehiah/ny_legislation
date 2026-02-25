@@ -1,11 +1,18 @@
 {
  "PrintNo":"S8666","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T10:37:22.81896Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-25"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.416","Date":"2026-02-25","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Restricts youth sports operators and youth sports facilities from prohibiting parents and guardians from taking in-person recordings or photographs of their children",
  "Summary":"Restricts youth sports operators and youth sports facilities from prohibiting parents and guardians from taking in-person recordings or photographs of their children; allows youth sports operators and youth sports facilities to impose limited safety-based content restrictions; requires youth sports operators and youth sports facilities to give notice to parents and guardians regarding their rights to take in-person recordings or photographs.",
  "LawSection":"General Business Law","LawCode":"Add Art 41-A §§1050 & 1051, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to restricting youth sports operators and youth sports facilities from prohibiting parents and guardians from taking in-person recordings or photographs of their children"
+ "ActClause":"AN ACT to amend the general business law, in relation to restricting youth sports operators and youth sports facilities from prohibiting parents and guardians from taking in-person recordings or photographs of their children",
+ "SameAsPrintNo":"A9627-2025"
 }

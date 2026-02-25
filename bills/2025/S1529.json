@@ -1,7 +1,7 @@
 {
- "PrintNo":"S1529","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T13:37:28.089182Z",
- "Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"}],
+ "PrintNo":"S1529","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-10T13:37:28.089182Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-25","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-04","Chamber":"SENATE"},
@@ -13,7 +13,10 @@
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-05-06","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO AGRICULTURE","Date":"2026-01-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1529A","Date":"2026-01-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-25","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -131,9 +134,9 @@
   {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Establishes a carbon farming tax credit for farmers",
- "Summary":"Establishes a tax credit for farmers who maximize carbon sequestration potential through a \"carbon farming\" land management strategy; directs DEC to develop regulations related to certifying the amount of carbon sequestered or emissions reduced.",
+ "Summary":"Establishes the carbon farming certification committee for the purpose of developing a certification framework, determining qualified carbon removal practices eligible for the carbon farming tax credit, and promulgating certification standards for qualified carbon removal practices; provides for the development of educational materials to encourage carbon farming by promoting farming practices which reduce, sequester and mitigate greenhouse gas emissions on land used in support of a farm operation; establishes carbon farming tax credits.",
  "LawSection":"Agriculture and Markets Law",
- "LawCode":"Amd §§150 & 16, Ag & Mkts L; amd §§210-B & 606, Tax L; amd §§3-0301 & 19-0309, En Con L",
- "ActClause":"AN ACT to amend the agriculture and markets law, the tax law and the environmental conservation law, in relation to enacting the carbon farming act",
- "PreviousVersions":["A3281-2017","S4875-2019","S4707-2021","S4270-2023"]
+ "LawCode":"Amd §150, add Art 11-C §§151-p - 151-t, Ag & Mkts L; amd §§210-B & 606, Tax L",
+ "ActClause":"AN ACT to amend the agriculture and markets law and the tax law, in relation to enacting the carbon farming act",
+ "SameAsPrintNo":"A5660-2025","PreviousVersions":["A3281-2017","S4875-2019","S4707-2021","S4270-2023"]
 }

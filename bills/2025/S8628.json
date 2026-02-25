@@ -1,12 +1,19 @@
 {
  "PrintNo":"S8628","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-12-22T11:30:47.947843Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-25"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-12-22","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.427","Date":"2026-02-25","Chamber":"SENATE"}
  ],
- "Sponsors":[{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"}],
+ "Sponsors":[
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+ ],
  "Title":"Relates to notification of victims of crime, including sexual offenses, about the address confidentiality program",
  "Summary":"Requires notification of victims of crime, including sexual offenses, about the address confidentiality program.",
  "LawSection":"Executive Law","LawCode":"Amd §641, Exec L; amd §2805-i, Pub Health L",

@@ -1,7 +1,10 @@
 {
  "PrintNo":"S936","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-07T10:48:33.339823Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-18","Committee":"Internet And Technology"}],
+ "Published":"2025-01-07T10:48:33.339823Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-18","Committee":"Internet And Technology"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-25"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.298","Date":"2025-02-10","Chamber":"SENATE"},
@@ -14,7 +17,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-02-18","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 936A","Date":"2026-02-18","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 936A","Date":"2026-02-18","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.430","Date":"2026-02-25","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
