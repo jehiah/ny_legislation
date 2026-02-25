@@ -1,8 +1,12 @@
 {
- "PrintNo":"A9584","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-21T16:36:16.812Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Racing And Wagering"}],
- "Actions":[{"Text":"REFERRED TO RACING AND WAGERING","Date":"2026-01-21","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A9584","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-21T16:36:16.812Z","Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-25","Committee":"Racing And Wagering"}],
+ "Actions":[
+  {"Text":"REFERRED TO RACING AND WAGERING","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO RACING AND WAGERING","Date":"2026-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9584A","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
@@ -10,8 +14,8 @@
   {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":675,"Name":"Phil Steck","Short":"STECK"}
  ],
- "Title":"Enhances know your customer requirements and to clarify that sharing a mobile sports wagering account is a criminal activity",
- "Summary":"Enhances know your customer requirements; clarifies that sharing a mobile sports wagering account through account sharing or proxy betting is a criminal activity.",
- "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Amd §1367-a, RWB L; amd §225.00, Pen L",
- "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law and the penal law, in relation to enhancing know your customer requirements and to clarify that sharing a mobile sports wagering account is a criminal activity"
+ "Title":"Enhances know your customer requirements and responsible gaming procedures",
+ "Summary":"Enhances know your customer requirements and responsible gaming procedures; relates to the opening and closing of an authorized sports bettor's account; prohibits an authorized sports bettor from allowing another person to access such bettor's account; allows a bettor who does so to be designated a prohibited bettor; provides for the disposition of revenues from violation fines.",
+ "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Add §1367-b, amd §§1367-a, 1367, RWB L",
+ "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to enhancing know your customer requirements and responsible gaming procedures"
 }
