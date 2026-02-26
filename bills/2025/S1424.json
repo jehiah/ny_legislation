@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1424","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T14:46:02.246713Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-02-11"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-02-24"},
+  {"Type":"PASSED_SENATE","Date":"2026-02-26"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.667","Date":"2025-04-08","Chamber":"SENATE"},
@@ -14,7 +17,10 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.316","Date":"2026-02-10","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-11","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-11","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-02-26","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {

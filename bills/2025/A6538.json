@@ -1,7 +1,11 @@
 {
  "PrintNo":"A6538","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-05T15:28:41.710711Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-07","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-07","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-02-26"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Veterans, Homeland Security And Military Affairs"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-03-05","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2025-03-11","Chamber":"ASSEMBLY"},
@@ -14,7 +18,10 @@
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-04-08","Chamber":"SENATE"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.162","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.162","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-02-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,9 +1,9 @@
 {
  "PrintNo":"S6274","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-07T15:08:19.044836Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-11"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-24"},{"Type":"PASSED_SENATE","Date":"2026-02-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-03-07","Chamber":"SENATE"},
@@ -17,7 +17,10 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.329","Date":"2026-02-10","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-11","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-11","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-02-26","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -125,8 +128,9 @@
  "Sponsors":[
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
-  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Relates to preferences under the affordable home ownership development program for veterans with service-related disabilities",
  "Summary":"Relates to preferences under the affordable home ownership development program for veterans with service-related disabilities; defines \"veteran with a service-related disability\".",

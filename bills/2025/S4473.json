@@ -1,7 +1,10 @@
 {
  "PrintNo":"S4473","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-05T14:43:07.879573Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-02-11"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-02-25"},
+  {"Type":"PASSED_SENATE","Date":"2026-02-26"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1194","Date":"2025-05-20","Chamber":"SENATE"},
@@ -13,7 +16,11 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.353","Date":"2026-02-11","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.353","Date":"2026-02-11","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-25","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-02-26","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -100,6 +107,24 @@
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-11","Chamber":"SENATE","Committee":"Labor",
+   "Votes":[
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"}
    ]
   }
  ],

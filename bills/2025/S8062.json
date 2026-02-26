@@ -1,7 +1,10 @@
 {
- "PrintNo":"S8062","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T17:29:02.151911Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "PrintNo":"S8062","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T17:29:02.151911Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-26"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
@@ -11,7 +14,11 @@
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-05","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.399","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-25","Chamber":"SENATE"},
+  {"Text":"AMENDED 8062A","Date":"2026-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-26","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -111,8 +118,7 @@
  ],
  "Sponsors":[{"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Establishes a usage monitor program",
- "Summary":"Establishes a usage monitor program for the purposes of notifying customers when energy usage exceeds a cost or usage threshold in a given billing period determined by the customer.",
+ "Summary":"Establishes a usage monitor program for the purposes of notifying residential customers when energy usage exceeds a cost or usage threshold in a given billing period determined by the residential customer.",
  "LawSection":"Public Service Law","LawCode":"Amd §44, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to establishing a usage monitor program",
- "SameAsPrintNo":"A8823-2025"
+ "ActClause":"AN ACT to amend the public service law, in relation to establishing a usage monitor program"
 }

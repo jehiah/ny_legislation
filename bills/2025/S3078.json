@@ -3,12 +3,27 @@
  "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-25"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-23","Chamber":"SENATE"},
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.413","Date":"2026-02-25","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.413","Date":"2026-02-25","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-24","Chamber":"SENATE","Committee":"Consumer Protection",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],"Title":"Relates to credit monitoring services",
  "Summary":"Provides that if the person or business providing the notification was the source of the breach, an offer to provide appropriate identity theft prevention and mitigation services, shall be provided at no cost to the affected person for not less than 12 months, along with all information necessary to take advantage of the offer to any person whose information was or may have been breached if the breach exposed or may have exposed personal information.",

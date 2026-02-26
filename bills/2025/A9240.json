@@ -9,7 +9,20 @@
   {"Text":"PRINT NUMBER 9240A","Date":"2026-02-09","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-02-25","Chamber":"ASSEMBLY",
+   "Committee":"REAL PROPERTY TAXATION",
+   "Votes":[
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1576,"Short":"MORENO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"}],
  "Title":"Relates to school tax relief exemption notification",
  "Summary":"Provides that notification of the approval of a STAR exemption be mailed to the applicant within thirty days of such determination.",
  "LawSection":"Tax Law","LawCode":"Amd §606, Tax L",

@@ -3,7 +3,10 @@
  "Status":"IN_SENATE_COMM","Committee":"Finance",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Finance"}],
  "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-02-03","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"}],
+ "Sponsors":[
+  {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
+ ],
  "Title":"Relates to liability insurance for voluntary foster care agencies",
  "Summary":"Establishes participation in assigned risk plans for voluntary foster care agencies (Part A); requires the office of children and family services to establish standards of payment for liability insurance costs beginning July 1, 2028 for the 2027-2028 rate year that ensures the maximum state aid rate accurately reflect the year over year increased costs for voluntary foster care agencies; directs such office to establish an application process (Part B); establishes the voluntary foster care agency insurance bridge fund; establishes a process for the distribution of moneys in such fund; sets eligibility requirements; requires certain supporting documentation (Part C).",
  "LawSection":"Appropriations",

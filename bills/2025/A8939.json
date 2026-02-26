@@ -1,14 +1,33 @@
 {
- "PrintNo":"A8939","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-07-16T09:46:01.298066Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Consumer Affairs And Protection"}],
+ "PrintNo":"A8939","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-07-16T09:46:01.298066Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-07-16","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8939A","Date":"2026-01-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-02-26","Chamber":"ASSEMBLY",
+   "Committee":"CONSUMER AFFAIRS AND PROTECTION",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},{"ID":1533,"Short":"ALVAREZ","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
  "Title":"Relates to penalties for a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims",
- "Summary":"Provides that a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims shall be liable for a civil penalty of five hundred dollars for a first offense and one thousand dollars for each subsequent offense; provides that the attorney general may bring an action or special proceeding in supreme court to recover civil penalties under certain circumstances.",
+ "Summary":"Provides that a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims shall be liable for a civil penalty of five hundred dollars for a first offense and one thousand dollars for each subsequent offense; provides for concurrent enforcement by the director or commissioner of a municipal consumer affairs office or by the town attorney, city corporation counsel, or other lawful designee of a municipality.",
  "LawSection":"General Business Law","LawCode":"Amd §206-f, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to penalties for a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims"
 }

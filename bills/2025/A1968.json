@@ -1,10 +1,34 @@
 {
- "PrintNo":"A1968","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T12:05:03.352779Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Housing"}],
+ "PrintNo":"A1968","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-14T12:05:03.352779Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-01-14","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HOUSING","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HOUSING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2026-02-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1968A","Date":"2026-02-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-02-26","Chamber":"ASSEMBLY","Committee":"HOUSING",
+   "Votes":[
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1461,"Short":"BROWN K","Vote":"Nay"},
+    {"ID":0,"Short":"BROWN EA","Vote":"Nay"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},
+    {"ID":1528,"Short":"CHANG","Vote":"Nay"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Nay"},
+    {"ID":1556,"Short":"NORBER","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Excused"},{"ID":1534,"Short":"ZACCARO","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
@@ -12,7 +36,7 @@
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}
  ],
  "Title":"Requires non-preferential opportunity for use of amenities in certain buildings and apartments",
- "Summary":"Requires non-preferential opportunity for use of amenities in certain buildings and apartments.",
+ "Summary":"Requires non-preferential opportunity for use of amenities in certain buildings and apartments; requires that rental tenants must be provided with the opportunity to use amenities commonly accessible to other tenants of the multiple dwelling and not unique to an individual unit.",
  "LawSection":"Real Property Law","LawCode":"Add §235-k, RP L",
  "ActClause":"AN ACT to amend the real property law, in relation to non-preferential opportunity for use of amenities in certain buildings and apartments",
  "PreviousVersions":["A9061-2013","A1278-2015","A558-2017","A690-2019","A441-2021","A759-2023"]

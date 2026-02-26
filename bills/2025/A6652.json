@@ -1,8 +1,9 @@
 {
  "PrintNo":"A6652","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T15:15:47.7261Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-03-06T15:15:47.7261Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-10","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-02-26"},{"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Insurance"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-06","Chamber":"ASSEMBLY"},
@@ -22,7 +23,10 @@
   {"Text":"COMMITTED TO RULES","Date":"2025-06-11","Chamber":"SENATE","Version":"B"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING CAL.170","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING CAL.170","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-02-26","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

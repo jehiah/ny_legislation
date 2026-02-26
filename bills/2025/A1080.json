@@ -1,10 +1,12 @@
 {
- "PrintNo":"A1080","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-08T10:45:11.643618Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "PrintNo":"A1080","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-08T10:45:11.643618Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2026-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1080A","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
@@ -17,9 +19,9 @@
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"}
  ],
- "Title":"Allows schools to provide water safety instruction to students in grades kindergarten through twelve",
- "Summary":"Allows schools to provide water safety instruction to students in grades kindergarten through twelve; allows for the commissioner of education to provide technical assistance to develop curricula for water safety instruction.",
- "LawSection":"Education Law","LawCode":"Add §805, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to providing water safety instruction in schools",
+ "Title":"Establishes a mandatory statewide, classroom-based water safety education program",
+ "Summary":"Establishes a mandatory statewide, classroom-based water safety education program; provides that the commissioner of education shall work with New York State Association for Health, Physical Education, Recreation and Dance certified educators to develop and promulgate a statewide, age-appropriate, classroom-based water safety education guidance document; provides that within twenty-four months of the effective date of the bill, the department of education shall initiate statewide implementation of water safety education; provides that instruction shall be classroom-based and waterless and shall not require student access to aquatic facilities, swimming instruction, or in-water assessment.",
+ "LawSection":"Education Law","LawCode":"Add §804-e, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to establishing a mandatory statewide, classroom-based water safety education program",
  "PreviousVersions":["S7938-2019","S2207-2021","A4846-2023"]
 }

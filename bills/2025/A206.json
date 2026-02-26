@@ -1,10 +1,31 @@
 {
- "PrintNo":"A206","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-23T12:19:18.475799Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"}],
+ "PrintNo":"A206","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-23T12:19:18.475799Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-19","Committee":"Correction"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-26"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-02-19","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 206A","Date":"2026-02-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.261","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-02-25","Chamber":"ASSEMBLY","Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1577,"Short":"POWERS","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},

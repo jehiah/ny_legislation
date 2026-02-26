@@ -1,9 +1,9 @@
 {
  "PrintNo":"S5003","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-14T16:25:58.409482Z","Status":"SENATE_FLOOR",
+ "Published":"2025-02-14T16:25:58.409482Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-09","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-05"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-09"},{"Type":"PASSED_SENATE","Date":"2026-02-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-14","Chamber":"SENATE"},
@@ -18,7 +18,10 @@
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-01-09","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 5003A","Date":"2026-01-09","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.249","Date":"2026-02-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-26","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

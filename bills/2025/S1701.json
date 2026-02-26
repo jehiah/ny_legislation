@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1701","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T11:08:12.270942Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-02-26"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-21","Chamber":"SENATE"},
@@ -11,7 +14,10 @@
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-27","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.397","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-25","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-26","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -127,8 +133,9 @@
   {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
-  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to strengthening of utility storm response and compliance",
  "Summary":"Relates to strengthening of utility storm response and compliance by reviewing mitigating factors including but not limited to mitigating factors and the specifics surrounding the violation or violations.",

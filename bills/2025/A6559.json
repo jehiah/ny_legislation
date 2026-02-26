@@ -1,7 +1,12 @@
 {
- "PrintNo":"A6559","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:45:02.460654Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A6559","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-06T14:45:02.460654Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-02-26"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Veterans, Homeland Security And Military Affairs"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO VETERANS' AFFAIRS","Date":"2025-05-05","Chamber":"ASSEMBLY"},
@@ -20,7 +25,14 @@
   },
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING CAL.164","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING CAL.164","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 6559C","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"C"},
+  {
+   "Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-02-26","Chamber":"SENATE",
+   "Version":"C"
+  }
  ],
  "Votes":[
   {
@@ -106,7 +118,6 @@
  ],
  "Title":"Establishes a veterans' bill of rights",
  "Summary":"Establishes a veterans' bill of rights; provides sample language for such bill of rights; requires the department of veterans' services to establish and distribute a veterans' bill of rights and to make such bill of rights available on the department's website.",
- "LawSection":"Veterans' Service Law","LawCode":"Add §29-e, Veterans' Services L",
- "ActClause":"AN ACT to amend the veterans' services law, in relation to the establishing a veterans' bill of rights",
- "SameAsPrintNo":"S7708-2025"
+ "LawSection":"Veterans' Service Law","LawCode":"Add §29-f, Veterans' Services L",
+ "ActClause":"AN ACT to amend the veterans' services law, in relation to the establishing a veterans' bill of rights"
 }
