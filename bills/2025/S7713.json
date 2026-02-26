@@ -1,7 +1,7 @@
 {
- "PrintNo":"S7713","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-01T10:05:22.984238Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Internet And Technology"}],
+ "PrintNo":"S7713","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-01T10:05:22.984238Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Internet And Technology"}],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-05-01","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1511","Date":"2025-05-29","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-06-11","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-02-26","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7713A","Date":"2026-02-26","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -99,7 +101,7 @@
  "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Restricts the use of automatic license plate reader information",
  "Summary":"Prohibits automatic license plate reader users from selling, sharing, allowing access to, or transferring automatic license plate reader information to any state or local jurisdiction for the purpose of investigating or enforcing a law that denies or interferes with a person's right to choose or obtain reproductive health care services or any lawful health care services.",
- "LawSection":"General Business Law","LawCode":"Add §397-c, Gen Bus L",
+ "LawSection":"General Business Law","LawCode":"Add §394-j, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to restricting the use of automatic license plate reader information",
  "SameAsPrintNo":"A8779-2025"
 }
