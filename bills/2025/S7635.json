@@ -1,13 +1,15 @@
 {
- "PrintNo":"S7635","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7635","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-04-24T11:03:30.944177Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-11","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-24","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-05-27","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 7635A","Date":"2025-05-27","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-02-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 7635B","Date":"2026-02-11","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -25,9 +27,10 @@
  ],
  "Sponsors":[
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
-  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
-  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+  {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
+  {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"}
  ],
  "Title":"Relates to the retirement of state, county and municipal 911 operators and dispatchers",
  "Summary":"Establishes an optional twenty-five year retirement plan for certain public safety dispatchers, public safety telecommunicators, 911 operators, communications officers, police communication technicians, emergency services operators and emergency services dispatchers employed by the state, or a county or municipal emergency services department.",

@@ -1,15 +1,41 @@
 {
- "PrintNo":"A5024","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-11T12:14:01.249598Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Transportation"}],
+ "PrintNo":"A5024","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-11T12:14:01.249598Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-27","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-11","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-01-29","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5024A","Date":"2026-01-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-02-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2026-02-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 5024B","Date":"2026-02-27","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-02-10","Chamber":"ASSEMBLY",
+   "Committee":"TRANSPORTATION",
+   "Votes":[
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},
+    {"ID":1466,"Short":"DURSO","Vote":"Excused"},{"ID":1471,"Short":"GALLAGHER","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}],
- "Title":"Directs the Department of Transportation to conduct a study of bridges spanning bodies of water connected to deep water ports in the state",
- "Summary":"Directs the Department of Transportation to conduct a study of certain bridges spanning bodies of water connected to deep water ports in the state to determine whether such bridges have the structural integrity to withstand an impact from large vessels such as cargo ships, oil tankers and cruise ships; requires a report and recommendations; provides for the repeal of such provisions upon the expiration thereof.",
+ "Title":"Directs the department of transportation and certain public authorities to study certain bridges spanning bodies of water connected to deep water ports in the state",
+ "Summary":"Directs the Department of Transportation, the Bridge Authority, the Triborough Bridge and Tunnel authority, the Thruway authority, and the Port Authority of New York and New Jersey to each to conduct a study of certain bridges spanning bodies of water connected to deep water ports in the state to determine whether such bridges have the structural integrity to withstand an impact from large vessels such as cargo ships, oil tankers and cruise ships; requires a report and recommendations; provides for the repeal of such provisions upon the expiration thereof.",
  "LawSection":"Transportation",
- "ActClause":"AN ACT directing the Department of Transportation to conduct a study of certain bridges spanning bodies of water connected to deep water ports in the state to determine whether such bridges have the structural integrity to withstand an impact from a large vessel; and providing for the repeal of such provisions upon the expiration thereof",
+ "ActClause":"AN ACT in relation to directing the department of transportation and certain public authorities to study certain bridges spanning bodies of water connected to deep water ports in the state to determine whether such bridges have the structural integrity to withstand an impact from a large vessel; and providing for the repeal of such provisions upon the expiration thereof",
  "PreviousVersions":["A9965-2023"]
 }

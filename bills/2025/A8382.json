@@ -1,13 +1,14 @@
 {
  "PrintNo":"A8382","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-13T14:47:53.987685Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Codes"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-02-26"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-13","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO JUDICIARY","Date":"2026-01-21","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-10","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.275","Date":"2026-02-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -25,9 +26,36 @@
     {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Excused"},
     {"ID":1470,"Short":"RAJKUMAR","Vote":"Absent"}
    ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-02-25","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Excused"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Excused"},{"ID":1533,"Short":"ALVAREZ","Vote":"Excused"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Absent"}
+   ]
   }
  ],
- "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
+ "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
  "Title":"Replaces the terms father, mother, and filiation to gender neutral language; repealer",
  "Summary":"Replaces the terms father, mother, and filiation to gender neutral language.",
  "LawSection":"Family Court Act",
