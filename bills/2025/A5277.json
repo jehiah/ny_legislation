@@ -1,10 +1,12 @@
 {
- "PrintNo":"A5277","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-12T12:22:36.954633Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Transportation"}],
+ "PrintNo":"A5277","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-12T12:22:36.954633Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-02","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-12","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-03-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5277A","Date":"2026-03-02","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},
@@ -19,5 +21,5 @@
  "Summary":"Designates the Nassau-Suffolk transportation coordinating committee as the metropolitan planning organization for Long Island; provides for the withdrawal of the Nassau-Suffolk coordinating committee from the New York Metropolitan transportation council.",
  "LawSection":"Transportation",
  "ActClause":"AN ACT relating to designating the Nassau-Suffolk transportation coordinating committee as the metropolitan planning organization for Long Island",
- "SameAsPrintNo":"S4594-2025","PreviousVersions":["A10705-2023"]
+ "PreviousVersions":["A10705-2023"]
 }

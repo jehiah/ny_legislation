@@ -1,7 +1,7 @@
 {
- "PrintNo":"A6578","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T14:51:50.113139Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A6578","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-06T14:51:50.113139Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-02-24"}],
  "Actions":[
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-29","Chamber":"ASSEMBLY"},
@@ -13,7 +13,9 @@
   {"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.166","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.166","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 6578A","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 6578B","Date":"2026-02-24","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -83,11 +85,12 @@
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
   {"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"},
   {"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
-  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
  ],
  "Title":"Establishes the artificial intelligence training data transparency act",
  "Summary":"Establishes the artificial intelligence training data transparency act requiring developers of generative artificial intelligence models or services to post on the developer's website information regarding the data used by the developer to train the generative artificial intelligence model or service, including a high-level summary of the datasets used in the development of such system or service.",
- "LawSection":"General Business Law","LawCode":"Add Art 44-B §§1420 - 1423, Gen Bus L",
+ "LawSection":"General Business Law","LawCode":"Add Art 44-C §§1430 - 1432, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to establishing the artificial intelligence training data transparency act",
  "SameAsPrintNo":"S6955-2025"
 }

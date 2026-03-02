@@ -1,15 +1,36 @@
 {
- "PrintNo":"A6666","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-07T16:30:51.020036Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"}],
+ "PrintNo":"A6666","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-07T16:30:51.020036Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-20","Committee":"Correction"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-26"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-03-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-02-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6666A","Date":"2026-02-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.271","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-02-25","Chamber":"ASSEMBLY","Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1577,"Short":"POWERS","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":500,"Name":"William Colton","Short":"COLTON"}],
  "Title":"Requires the commissioner of corrections and community supervision to make facility water testing results accessible to the public, incarcerated individuals and correctional facility staff",
- "Summary":"Requires the commissioner of corrections and community supervision to make correctional facility water testing results accessible directly to incarcerated individuals and correctional facility staff in such facilities and make such water testing results available to the public on the website of the department.",
+ "Summary":"Requires the commissioner of corrections and community supervision to make correctional facility water testing results accessible directly, upon request, to incarcerated individuals and correctional facility staff in such facilities and make such water testing results available to the public on the website of the department.",
  "LawSection":"Correction Law","LawCode":"Amd §112, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to requiring the commissioner of corrections and community supervision to make facility water testing results accessible to the public, incarcerated individuals and correctional facility staff",
- "SameAsPrintNo":"S6390-2025","PreviousVersions":["A9611-2023"]
+ "PreviousVersions":["A9611-2023"]
 }
