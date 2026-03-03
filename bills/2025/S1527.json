@@ -1,12 +1,14 @@
 {
- "PrintNo":"S1527","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T11:23:33.012774Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Finance"}],
+ "PrintNo":"S1527","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-10T11:23:33.012774Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-02","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-10","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-10","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2026-03-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1527A","Date":"2026-03-02","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -52,7 +54,7 @@
  ],
  "Title":"Establishes a sales tax exemption for energy storage",
  "Summary":"Establishes sales tax exemptions for commercial energy storage systems equipment.","LawSection":"Tax Law",
- "LawCode":"Amd §§1115 & 1210, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to establishing a sales tax exemption for energy storage",
- "SameAsPrintNo":"A313-2025","PreviousVersions":["S8219-2019","S3277-2021","S4547-2023"]
+ "LawCode":"Amd §§1115 & 1210, Tax L; amd §66-r, Pub Serv L; amd §224-d, Lab L",
+ "ActClause":"AN ACT to amend the tax law, the public service law and the labor law, in relation to establishing a sales tax exemption for energy storage",
+ "PreviousVersions":["S8219-2019","S3277-2021","S4547-2023"]
 }

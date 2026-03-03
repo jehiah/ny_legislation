@@ -1,10 +1,12 @@
 {
- "PrintNo":"A5856","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:25:44.283847Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Ways And Means"}],
+ "PrintNo":"A5856","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-24T09:25:44.283847Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-13","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-02-24","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2026-01-13","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5856A","Date":"2026-01-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1466,"Name":"Michael Durso","Short":"DURSO"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},
@@ -16,11 +18,12 @@
   {"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
   {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1475,"Name":"Michael Tannousis","Short":"TANNOUSIS"},
   {"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"},
-  {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"}
+  {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},
+  {"ID":1152,"Name":"Chris Tague","Short":"TAGUE"},{"ID":631,"Name":"Kenneth Blankenbush","Short":"BLANKENBUSH"}
  ],
- "Title":"Establishes a tax deduction for cash tips received",
- "Summary":"Establishes an income tax deduction for cash tips received which are considered wages or compensation.",
+ "Title":"Establishes a tax deduction for cash and credit card tips received",
+ "Summary":"Establishes an income tax deduction for cash and credit card tips received which are considered wages or compensation.",
  "LawSection":"Tax Law","LawCode":"Amd §612, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to establishing a tax deduction for cash tips received",
- "PreviousVersions":["S9907-2023"]
+ "ActClause":"AN ACT to amend the tax law, in relation to establishing a tax deduction for cash and credit card tips received",
+ "SameAsPrintNo":"S587-2025","PreviousVersions":["S9907-2023"]
 }

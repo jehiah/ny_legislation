@@ -1,15 +1,17 @@
 {
- "PrintNo":"S5846","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-03T13:44:34.532292Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Budget And Revenue"}],
+ "PrintNo":"S5846","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-03T13:44:34.532292Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-02","Committee":"Budget And Revenue"}],
  "Actions":[
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-03-03","Chamber":"SENATE"},
-  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2026-03-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5846A","Date":"2026-03-02","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Expands the solar energy system equipment tax credit to cover solar energy system equipment installed in a community solar array",
  "Summary":"Expands the solar energy system equipment tax credit to cover solar energy system equipment installed in a community solar array; defines \"community solar array\" to mean a location other than a person's principal residence where solar energy system equipment is owned and installed for use in such person's principal residence.",
  "LawSection":"Tax Law","LawCode":"Amd §606, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to expanding the solar energy system equipment tax credit to cover solar energy system equipment installed in a community solar array",
- "PreviousVersions":["S8788-2021","S6069-2023"]
+ "SameAsPrintNo":"A9051-2025","PreviousVersions":["S8788-2021","S6069-2023"]
 }
