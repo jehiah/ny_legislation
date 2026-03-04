@@ -1,7 +1,10 @@
 {
  "PrintNo":"S2051","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T09:53:28.798346Z",
- "Status":"IN_SENATE_COMM","Committee":"Commerce, Economic Development And Small Business",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Commerce, Economic Development And Small Business"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Commerce, Economic Development And Small Business"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-01-15","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.546","Date":"2025-03-12","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-03-20","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.447","Date":"2026-03-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {

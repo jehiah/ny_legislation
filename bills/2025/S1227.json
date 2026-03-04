@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1227","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T14:49:20.828034Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "Published":"2025-01-08T14:49:20.828034Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.403","Date":"2025-02-25","Chamber":"SENATE"},
@@ -9,7 +12,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-03-03","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING (T) 1227A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.453","Date":"2026-03-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

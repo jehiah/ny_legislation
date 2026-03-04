@@ -1,7 +1,10 @@
 {
  "PrintNo":"S374","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T11:36:28.534112Z",
- "Status":"IN_SENATE_COMM","Committee":"Ethics And Internal Governance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Ethics And Internal Governance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Ethics And Internal Governance"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.700","Date":"2025-04-28","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.449","Date":"2026-03-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {
