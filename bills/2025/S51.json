@@ -1,7 +1,10 @@
 {
  "PrintNo":"S51","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-17T15:14:28.800838Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-02-11"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-02-11"},
+  {"Type":"PASSED_SENATE","Date":"2026-03-05"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.230","Date":"2025-02-03","Chamber":"SENATE"},
@@ -15,7 +18,9 @@
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.295","Date":"2026-02-09","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-02-10","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-11","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-11","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-03-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -130,5 +135,5 @@
  "Summary":"Relates to risk retention groups and commuter vans, pre-arranged for-hire vehicles, or accessible vehicles; defines terms; makes related provisions.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§311 & 370, V & T L; amd §6-a, Chap 438 of 2023",
  "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to risk retention groups and commuter vans, pre-arranged for-hire vehicles, or accessible vehicles; and to amend chapter 438 of the laws of 2023, amending the insurance law and the vehicle and traffic law relating to owner's policies of liability insurance issued by a risk retention group not chartered within this state, in relation to certain risk retention groups not chartered in this state",
- "SameAsPrintNo":"A6282-2025","PreviousVersions":["S9516-2023"]
+ "PreviousVersions":["S9516-2023"]
 }

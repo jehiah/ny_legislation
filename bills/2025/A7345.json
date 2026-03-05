@@ -1,7 +1,10 @@
 {
  "PrintNo":"A7345","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-25T16:31:07.257067Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Published":"2025-03-25T16:31:07.257067Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-05"},{"Type":"IN_SENATE_COMM","Date":"2026-03-05","Committee":"Codes"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-30","Chamber":"ASSEMBLY"},
@@ -15,7 +18,10 @@
   {"Text":"REFERRED TO RULES","Date":"2025-06-06","Chamber":"SENATE","Version":"A"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.188","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.188","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2026-03-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -101,7 +107,7 @@
  ],
  "Sponsors":[
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
-  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}
+  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
  ],
  "Title":"Grants peace officer status to certain security officers employed by Highland Hospital",
  "Summary":"Grants peace officer status to certain security officers employed by Highland Hospital; provides such peace officers are not authorized to carry, possess, repair or dispose of a firearm.",

@@ -1,7 +1,12 @@
 {
  "PrintNo":"A7033","Version":"D","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-18T13:37:55.771674Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-20"}],
+ "Published":"2025-03-18T13:37:55.771674Z","Status":"IN_SENATE_COMM",
+ "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-20"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-05"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-05","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-03-18","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-04-25","Chamber":"ASSEMBLY"},
@@ -32,7 +37,13 @@
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"C"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"C"},
   {"Text":"ORDERED TO THIRD READING CAL.182","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"AMENDED ON THIRD READING 7033D","Date":"2026-01-20","Chamber":"ASSEMBLY","Version":"D"}
+  {"Text":"AMENDED ON THIRD READING 7033D","Date":"2026-01-20","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"D"},
+  {
+   "Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-03-05","Chamber":"SENATE",
+   "Version":"D"
+  }
  ],
  "Votes":[
   {
@@ -283,7 +294,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}],
+ "Sponsors":[
+  {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
+ ],
  "Title":"Empowers the council on the arts to designate Little Yemen as a cultural district",
  "Summary":"Empowers the council on the arts to designate Little Yemen as a cultural district.",
  "LawSection":"Arts and Cultural Affairs Law","LawCode":"Amd §3.05, Arts & Cul L",

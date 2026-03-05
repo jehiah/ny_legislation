@@ -1,7 +1,7 @@
 {
  "PrintNo":"S7962","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T09:20:16.749094Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Elections"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2026-03-05"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1336","Date":"2025-05-28","Chamber":"SENATE"},
@@ -12,7 +12,10 @@
   {"Text":"REFERRED TO ELECTION LAW","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.444","Date":"2026-02-26","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-03-04","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

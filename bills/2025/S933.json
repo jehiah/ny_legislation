@@ -1,9 +1,9 @@
 {
  "PrintNo":"S933","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-07T10:38:12.015003Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Internet And Technology"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-26"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-04"},{"Type":"PASSED_SENATE","Date":"2026-03-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-08","Chamber":"SENATE"},
@@ -18,7 +18,10 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.428","Date":"2026-02-25","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-04","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-03-05","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -142,7 +145,7 @@
  ],
  "Sponsors":[
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Establishes the position of chief artificial intelligence officer",
  "Summary":"Establishes the position of chief artificial intelligence officer and such person's functions, powers and duties; including, but not limited to, developing statewide artificial intelligence policies and governance, coordinating the activities of any and all state departments, boards, commissions, agencies and authorities performing any functions using artificial intelligence tools; makes related provisions.",

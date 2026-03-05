@@ -1,7 +1,7 @@
 {
  "PrintNo":"S2437","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-17T11:33:34.596749Z","Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Elections"}],
+ "Published":"2025-01-17T11:33:34.596749Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2026-03-05"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-17","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.296","Date":"2025-02-10","Chamber":"SENATE"},
@@ -19,7 +19,10 @@
   {"Text":"REFERRED TO CODES","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.441","Date":"2026-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-03-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

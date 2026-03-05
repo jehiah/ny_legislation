@@ -1,12 +1,36 @@
 {
  "PrintNo":"A4535","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T11:41:21.115496Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Aging"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-04","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-02-04","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO AGING","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO AGING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-04","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-03-04","Chamber":"ASSEMBLY",
+   "Committee":"AGING",
+   "Votes":[
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1528,"Short":"CHANG","Vote":"Aye"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1525,"Short":"RAGA","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":1573,"Short":"CASHMAN","Vote":"Aye"},{"ID":1576,"Short":"MORENO","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Excused"},{"ID":1505,"Short":"GIBBS","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}],
  "Title":"Authorizes the study of the number of senior citizens in New York state who have filed for bankruptcy in the past ten years",
  "Summary":"Authorizes the study of the number of senior citizens in New York state who have filed for bankruptcy in the past ten years; provides that the director of the office for the aging shall deliver a copy of the findings of the study conducted and any legislative recommendations to the governor and the legislature.",
  "LawSection":"Elder",

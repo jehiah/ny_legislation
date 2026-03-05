@@ -1,9 +1,9 @@
 {
  "PrintNo":"S115","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-18T15:23:50.808691Z","Status":"SENATE_FLOOR",
+ "Published":"2024-12-18T15:23:50.808691Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cultural Affairs, Tourism, Parks And Recreation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-05"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-09"},{"Type":"PASSED_SENATE","Date":"2026-03-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -30,7 +30,10 @@
    "Version":"A"
   },
   {"Text":"1ST REPORT CAL.268","Date":"2026-02-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-03-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

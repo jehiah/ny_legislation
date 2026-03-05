@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10080","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-30T14:05:56.937297Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10080","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-30T14:05:56.937297Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-05","Committee":"Governmental Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-03-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10080A","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"},{"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},
   {"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},{"ID":1116,"Name":"Jaime R. Williams","Short":"WILLIAMS"}
@@ -10,5 +14,6 @@
  "Title":"Expands geographical boundaries for residency requirements of correction officers employed by local correction facilities",
  "Summary":"Expands geographical boundaries for residency requirements of correction officers employed by local correction facilities.",
  "LawSection":"Public Officers Law","LawCode":"Amd §§3, 2 & 30, Pub Off L",
- "ActClause":"AN ACT to amend the public officers law, in relation to expanding geographical boundaries for residency requirements of correction officers employed by local correction facilities"
+ "ActClause":"AN ACT to amend the public officers law, in relation to expanding geographical boundaries for residency requirements of correction officers employed by local correction facilities",
+ "SameAsPrintNo":"S9020-2025"
 }
