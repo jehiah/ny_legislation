@@ -1,11 +1,13 @@
 {
- "PrintNo":"S6753","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-21T15:59:54.99124Z",
- "Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Children And Families"}],
+ "PrintNo":"S6753","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-21T15:59:54.99124Z","Status":"IN_SENATE_COMM","Committee":"Children And Families",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-06","Committee":"Children And Families"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-03-21","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-29","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CHILDREN AND FAMILIES","Date":"2026-03-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6753A","Date":"2026-03-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -22,9 +24,9 @@
   }
  ],
  "Sponsors":[{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
- "Title":"Limits the number of cases a foster care worker may have under his or her supervision at any one time to 16 cases",
- "Summary":"Limits the number of cases a foster care worker may have under their supervision at any one time to 16 cases.",
- "LawSection":"Social Services Law","LawCode":"Amd §409-g, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to limitations on the number of cases handled by child welfare personnel",
- "SameAsPrintNo":"A7596-2025","PreviousVersions":["S6118-2019","S2587-2021","S5031-2023"]
+ "Title":"Limits the number of cases a foster care worker may have under their supervision at any one time to 16 cases",
+ "Summary":"Limits the number of cases a foster care worker may have under their supervision at any one time to 16 cases; directs the office of children and family services to promulgate regulations relating to caseload standards for foster care workers.",
+ "LawSection":"Social Services Law","LawCode":"Amd §§20-a & 421, Soc Serv L",
+ "ActClause":"AN ACT to amend the social services law, in relation to limitations on the number of cases handled by foster care workers",
+ "PreviousVersions":["S6118-2019","S2587-2021","S5031-2023"]
 }

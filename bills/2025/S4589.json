@@ -1,11 +1,13 @@
 {
- "PrintNo":"S4589","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-10T09:51:52.293083Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S4589","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-10T09:51:52.293083Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-05","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4589A","Date":"2026-03-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -50,5 +52,5 @@
  "Summary":"Provides for the calculation and analysis of certain health center costs.","LawSection":"Public Health Law",
  "LawCode":"Amd §2807, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to federally qualified health center rate adequacy",
- "SameAsPrintNo":"A67-2025","PreviousVersions":["S6959-2023"]
+ "PreviousVersions":["S6959-2023"]
 }
