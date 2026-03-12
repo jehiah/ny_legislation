@@ -1,14 +1,29 @@
 {
  "PrintNo":"S8135","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T19:15:26.506162Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-12","Committee":"Civil Service And Pensions"}],
+ "Published":"2025-05-15T19:15:26.506162Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 8135A","Date":"2025-04-29","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-02-12","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 8135B","Date":"2026-02-12","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 8135B","Date":"2026-02-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-10","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-10","Version":"B","Chamber":"SENATE","Committee":"Civil Service And Pensions",
+   "Votes":[
+    {"ID":1574,"Name":"Erik Bottcher","Short":"BOTTCHER","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
@@ -19,5 +34,5 @@
  "Summary":"Provides WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §2, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to providing WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility",
- "PreviousVersions":["S6306-2023"]
+ "SameAsPrintNo":"A8792-2025","PreviousVersions":["S6306-2023"]
 }

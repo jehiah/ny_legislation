@@ -1,10 +1,9 @@
 {
- "PrintNo":"S3179","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-24T09:38:05.78313Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "PrintNo":"S3179","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T09:38:05.78313Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-15","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-01-27"},{"Type":"PASSED_SENATE","Date":"2026-02-25"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-25","Committee":"Environmental Conservation"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-24","Chamber":"SENATE"},
@@ -26,7 +25,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-01-27","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-02-25","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-25","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-03-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-03-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-03-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 3179B","Date":"2026-03-11","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -205,5 +208,5 @@
  "Summary":"Relates to the definition of coal tar and its use in pavement products.",
  "LawSection":"Environmental Conservation Law","LawCode":"Ren §37-0119 to be §37-0123, amd §37-0123, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to the definition of coal tar and its use in pavement products",
- "PreviousVersions":["S8474-2021","S1729-2023"]
+ "SameAsPrintNo":"A1388-2025","PreviousVersions":["S8474-2021","S1729-2023"]
 }

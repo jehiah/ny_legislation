@@ -1,9 +1,10 @@
 {
  "PrintNo":"S8869","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-12T13:04:18.846219Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"},
-  {"Type":"PASSED_SENATE","Date":"2026-01-27"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-27","Committee":"Insurance"}
+  {"Type":"PASSED_SENATE","Date":"2026-01-27"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-27","Committee":"Insurance"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-11"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-12","Chamber":"SENATE"},
@@ -11,7 +12,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.98","Date":"2026-01-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-01-27","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-01-27","Chamber":"SENATE"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-27","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A9519","Date":"2026-03-11","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.242","Date":"2026-03-11","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-11","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-03-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

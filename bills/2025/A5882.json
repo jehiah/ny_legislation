@@ -1,7 +1,7 @@
 {
- "PrintNo":"A5882","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A5882","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-02-24T09:43:42.428349Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-24","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-24","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-09","Chamber":"ASSEMBLY"},
@@ -9,7 +9,9 @@
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 5882B","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REFERENCE CHANGED TO INSURANCE","Date":"2025-07-02","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-02-24","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 5882C","Date":"2026-02-24","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
@@ -64,10 +66,12 @@
   {"ID":1254,"Name":"Patrick Burke","Short":"BURKE"},{"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},
   {"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},{"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"},
   {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
-  {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":900,"Name":"Erik Dilan","Short":"DILAN"},
-  {"ID":1244,"Name":"Charles Fall","Short":"FALL"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
-  {"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},
-  {"ID":659,"Name":"Ron Kim","Short":"KIM"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
+  {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
+  {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
+  {"ID":900,"Name":"Erik Dilan","Short":"DILAN"},{"ID":1244,"Name":"Charles Fall","Short":"FALL"},
+  {"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},
+  {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":659,"Name":"Ron Kim","Short":"KIM"},
+  {"ID":1135,"Name":"Angelo J. Morinello","Short":"MORINELLO"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
   {"ID":1477,"Name":"Amanda Septimo","Short":"SEPTIMO"},{"ID":896,"Name":"Latrice Walker","Short":"WALKER"},
   {"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"}
  ],

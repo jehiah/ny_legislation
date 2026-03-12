@@ -1,14 +1,15 @@
 {
- "PrintNo":"A2384","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T11:04:29.909147Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A2384","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-16T11:04:29.909147Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-16","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-27","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.259","Date":"2025-05-27","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.259","Date":"2025-05-27","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING CAL.86","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.86","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 2384A","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -76,7 +77,8 @@
   {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1511,"Name":"Jake Ryan Blumencranz","Short":"BLUMENCRANZ"},
   {"ID":631,"Name":"Kenneth Blankenbush","Short":"BLANKENBUSH"},
-  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"}
+  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":1528,"Name":"Lester Chang","Short":"CHANG"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
  "Title":"Requires insurers to provide insurance coverage for rare diseases, life-threatening conditions or diseases, degenerative and disabling conditions, or diagnoses involving medically fragile children",
  "Summary":"Requires insurers to provide insurance coverage for treatment of rare diseases, life-threatening conditions or diseases, degenerative and disabling conditions, or diagnoses involving medically fragile children, by a provider of the patient's choice.",

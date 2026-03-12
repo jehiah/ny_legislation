@@ -1,12 +1,33 @@
 {
- "PrintNo":"A5371","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-13T15:38:58.515084Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Local Governments"}],
+ "PrintNo":"A5371","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-13T15:38:58.515084Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-10","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-02-13","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2025-12-19","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 5371A","Date":"2025-12-19","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-03-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 5371B","Date":"2026-03-04","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-10","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-03-10","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
@@ -19,6 +40,5 @@
  "Title":"Requires 911 call-takers and dispatchers to complete T-CPR training",
  "Summary":"Requires 911 call-takers and dispatchers to complete telecommunicator CPR training which shall include recognizing signs of cardiac arrest during emergency calls, providing instructions for initiating CPR instructions to callers, coordinating with emergency medical services dispatch, and using automated external defibrillators when available and appropriate.",
  "LawSection":"County Law","LawCode":"Amd §328, County L; add §10-187, NYC Ad Cd",
- "ActClause":"AN ACT to amend the county law and the administrative code of the city of New York, in relation to requiring telecommunicator cardiopulmonary resuscitation training for 911 call-takers and dispatchers",
- "SameAsPrintNo":"S7261-2025"
+ "ActClause":"AN ACT to amend the county law and the administrative code of the city of New York, in relation to requiring telecommunicator cardiopulmonary resuscitation training for 911 call-takers and dispatchers"
 }

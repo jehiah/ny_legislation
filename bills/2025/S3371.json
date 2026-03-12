@@ -1,14 +1,21 @@
 {
- "PrintNo":"S3371","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T11:49:29.411957Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"}],
+ "PrintNo":"S3371","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-27T11:49:29.411957Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1437","Date":"2025-05-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-29","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.528","Date":"2026-03-10","Chamber":"SENATE"},
+  {"Text":"AMENDED 3371A","Date":"2026-03-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-03-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-12","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,7 +34,7 @@
  "Sponsors":[{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
  "Title":"Prohibits discrimination against any individual with an actual or perceived status as a victim of domestic violence, a sex offense, or stalking",
  "Summary":"Prohibits discrimination against any individual with an actual or perceived status as a victim of domestic violence, a sex offense, or stalking; requires training on discrimination against individuals with an actual or perceived status as a victim of domestic violence, a sex offense, or stalking.",
- "LawSection":"Executive Law","LawCode":"Amd §296, Exec L; amd §201-g, Lab L",
+ "LawSection":"Executive Law","LawCode":"Amd §§292 & 296, Exec L; amd §201-g, Lab L",
  "ActClause":"AN ACT to amend the executive law and the labor law, in relation to prohibiting discrimination against any individual with an actual or perceived status as a victim of domestic violence, a sex offense, or stalking",
  "PreviousVersions":["S7996-2023"]
 }

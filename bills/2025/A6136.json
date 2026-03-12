@@ -1,15 +1,17 @@
 {
- "PrintNo":"A6136","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-26T12:43:18.403124Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"}],
+ "PrintNo":"A6136","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-26T12:43:18.403124Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Correction"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-02-26","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CORRECTION","Date":"2026-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6136A","Date":"2026-03-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"}],
- "Title":"Repeals certain provisions of the correction law relating to the transfer of incarcerated individuals from a county jail to a state correctional institution",
- "Summary":"Repeals provisions relating to the transfer of incarcerated individuals from a county jail to a state correctional institution.",
- "LawSection":"Correction Law","LawCode":"Rpld §504 sub 2, amd §504, Cor L",
- "ActClause":"AN ACT to repeal certain provisions of the correction law relating to the transfer of incarcerated individuals from a county jail to a state correctional institution",
- "SameAsPrintNo":"S2509-2025","PreviousVersions":["A10126-2023"]
+ "Title":"Relates to the transfer of incarcerated individuals from a county jail to a state correctional institution",
+ "Summary":"Relates to the transfer of incarcerated individuals from a county jail to a state correctional institution when such county jail becomes unfit for the confinement of incarcerated individuals due to extraordinary circumstances.",
+ "LawSection":"Correction Law","LawCode":"Amd §504, Cor L",
+ "ActClause":"AN ACT to amend the correction law, in relation to the transfer of incarcerated individuals from a county jail to a state correctional institution",
+ "PreviousVersions":["A10126-2023"]
 }

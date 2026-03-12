@@ -1,11 +1,11 @@
 {
  "PrintNo":"S8828","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T14:45:21.706427Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"},
   {"Type":"PASSED_SENATE","Date":"2026-01-28"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-28","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-25"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-25"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-01-28","Chamber":"SENATE"},
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-28","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A9449","Date":"2026-02-25","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.85","Date":"2026-02-25","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.85","Date":"2026-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-11","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-03-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,7 +1,10 @@
 {
  "PrintNo":"S6831","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-25T10:06:40.895599Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-09","Committee":"Environmental Conservation"}],
+ "Published":"2025-03-25T10:06:40.895599Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-09","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.623","Date":"2025-04-02","Chamber":"SENATE"},
@@ -14,7 +17,10 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-09","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 6831A","Date":"2026-01-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6831A","Date":"2026-01-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.536","Date":"2026-03-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-03-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-12","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -107,5 +113,5 @@
  "Summary":"Requires the owner or operator of a vessel to establish and maintain with the department evidence of financial responsibility sufficient to meet the amount of liability.",
  "LawSection":"Navigation Law","LawCode":"Amd §181, Nav L",
  "ActClause":"AN ACT to amend the navigation law, in relation to financial responsibility for the liability of a major facility or vessel",
- "PreviousVersions":["S8703-2023"]
+ "SameAsPrintNo":"A8666-2025","PreviousVersions":["S8703-2023"]
 }

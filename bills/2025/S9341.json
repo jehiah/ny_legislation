@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9341","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-03T11:55:24.211566Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-03","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-03-03","Chamber":"SENATE"}],
+ "PrintNo":"S9341","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-03T11:55:24.211566Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Consumer Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-03-03","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER PROTECTION","Date":"2026-03-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9341A","Date":"2026-03-10","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
  "Title":"Relates to penalties for a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims",
- "Summary":"Provides that a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims shall be liable for a civil penalty of five hundred dollars for a first offense and one thousand dollars for each subsequent offense; provides that the attorney general may bring an action or special proceeding in supreme court to recover civil penalties under certain circumstances.",
+ "Summary":"Provides that a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims shall be liable for a civil penalty of five hundred dollars for a first offense and one thousand dollars for each subsequent offense; provides for concurrent enforcement by the director or commissioner of a municipal consumer affairs office or by the town attorney, city corporation counsel, or other lawful designee of a municipality.",
  "LawSection":"General Business Law","LawCode":"Amd §206-f, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to penalties for a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims"
+ "ActClause":"AN ACT to amend the general business law, in relation to penalties for a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims",
+ "SameAsPrintNo":"A8939-2025"
 }

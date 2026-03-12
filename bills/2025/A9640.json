@@ -6,10 +6,27 @@
   {"Text":"REFERRED TO ENERGY","Date":"2026-01-21","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-25","Chamber":"ASSEMBLY"}
  ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-02-25","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Excused"},{"ID":1541,"Short":"SHRESTHA","Vote":"Excused"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},
-  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"}
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},
+  {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
  ],
  "Title":"Authorizes the public service commission to implement performance-based regulation of electric or gas corporations",
  "Summary":"Authorizes the public service commission to implement performance-based regulation of electric or gas corporations; requires that any such regulation shall provide performance standards and metrics by which such performance shall be measured.",

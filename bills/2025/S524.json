@@ -1,10 +1,7 @@
 {
- "PrintNo":"S524","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T09:57:34.801078Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-02-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-02-09"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Codes"}
- ],
+ "PrintNo":"S524","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T09:57:34.801078Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-03-12"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.176","Date":"2025-01-27","Chamber":"SENATE"},
@@ -21,7 +18,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-02-09","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-09","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2026-02-10","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2026-02-09","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-03-12","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-03-12","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 524A","Date":"2026-03-12","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -203,7 +204,7 @@
   {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Relates to establishing the crime of voyeurism",
- "Summary":"Establishes the crime of voyeurism in the first and second degree which is defined as when someone for their own amusement, entertainment, profit, sexual arousal or sexual gratification trespasses for the purpose of viewing a person dressing or undressing or the sexual or other intimate parts of such person at a place and time when such person has a reasonable expectation of privacy, without such person's knowledge or consent.",
+ "Summary":"Establishes the crime of voyeurism in the first and second degree which is defined as when someone for their own amusement, entertainment, profit, sexual arousal or sexual gratification trespasses or uses an instrument to observe for the purpose of viewing a person dressing or undressing or the sexual or other intimate parts of such person at a place and time when such person has a reasonable expectation of privacy, without such person's knowledge or consent.",
  "LawSection":"Penal Law","LawCode":"Add §§250.51 & 250.52, amd §250.65, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to establishing the crime of voyeurism in the first and second degree",
  "PreviousVersions":["S6703-2019","S1053-2021","S2301-2023"]

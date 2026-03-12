@@ -1,10 +1,15 @@
 {
- "PrintNo":"A10000","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-21T12:11:16.560294Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-21","Chamber":"ASSEMBLY"}],
- "Title":"AN ACT making appropriations for the support of government STATE OPERATIONS BUDGET",
+ "PrintNo":"A10000","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-21T12:11:16.560294Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-09","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2026-02-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10000A","Date":"2026-02-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2026-03-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10000B","Date":"2026-03-09","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Title":"STATE OPERATIONS BUDGET",
  "Summary":"Makes appropriations for the support of government - State Operations Budget.","LawSection":"Budget Bills",
- "ActClause":"AN ACT making appropriations for the support of government STATE OPERATIONS BUDGET",
- "SameAsPrintNo":"S9000-2025"
+ "ActClause":"AN ACT making appropriations for the support of government STATE OPERATIONS BUDGET"
 }

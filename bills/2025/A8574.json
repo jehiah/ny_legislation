@@ -1,15 +1,21 @@
 {
- "PrintNo":"A8574","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-21T14:39:57.499804Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Employees"}],
+ "PrintNo":"A8574","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-21T14:39:57.499804Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-28","Committee":"Governmental Employees"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8574A","Date":"2026-01-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}],
+ "Sponsors":[
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
+  {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+ ],
  "Title":"Relates to the limitation of overtime compensation in final average salary calculations",
  "Summary":"Increases the limitation of overtime compensation in final average salary calculations from fifteen percent to thirty percent.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §1203, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to the limitation of overtime compensation in final average salary calculations",
- "SameAsPrintNo":"S6639-2025","PreviousVersions":["S6133-2019","A7370-2021","A6574-2023"]
+ "PreviousVersions":["S6133-2019","A7370-2021","A6574-2023"]
 }

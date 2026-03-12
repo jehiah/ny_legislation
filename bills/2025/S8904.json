@@ -1,9 +1,13 @@
 {
- "PrintNo":"S8904","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-14T09:43:19.765902Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-14","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2026-01-14","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
+ "PrintNo":"S8904","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-14T09:43:19.765902Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-14","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-03-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8904A","Date":"2026-03-10","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to certain lease terms for BOCES properties",
  "Summary":"Relates to certain lease terms for BOCES properties increasing the maximum rental period to 20 years.",
  "LawSection":"Education Law","LawCode":"Amd §§1950 & 403-a, Ed L; amd §72-h, Gen Muni L",

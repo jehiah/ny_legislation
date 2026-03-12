@@ -1,10 +1,31 @@
 {
- "PrintNo":"A2300","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T10:56:55.198902Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Alcoholism And Drug Abuse",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Alcoholism And Drug Abuse"}],
+ "PrintNo":"A2300","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-16T10:56:55.198902Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-04","Committee":"Alcoholism And Drug Abuse"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-01-16","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2300A","Date":"2026-02-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-02-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.254","Date":"2026-02-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-02-10","Chamber":"ASSEMBLY","Committee":"ALCOHOLISM AND DRUG ABUSE",
+   "Votes":[
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1573,"Short":"CASHMAN","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}],
  "Title":"Creates the substance use disorder treatment bill of rights to be posted in a conspicuous place in all treatment facilities",

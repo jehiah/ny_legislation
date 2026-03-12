@@ -1,12 +1,28 @@
 {
  "PrintNo":"A9379","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-12-19T16:14:56.737276Z","Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-05","Committee":"Mental Health"}],
+ "Published":"2025-12-19T16:14:56.737276Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-10","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-12-19","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO MENTAL HEALTH","Date":"2026-03-05","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 9379A","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 9379A","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-10","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-03-10","Chamber":"ASSEMBLY",
+   "Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
@@ -16,7 +32,7 @@
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"}
  ],
- "Title":"Establishes a master of social work paid field work pilot program",
+ "Title":"Establishes a master of social work paid field practicum pilot program",
  "Summary":"Establishes a master of social work paid field practicum pilot program to provide a stipend to students who are enrolled in a master of social work program for the first 450 hours of field practicum completed towards such masters' degree; requires the office of mental health to complete a report making recommendations on how to expand the pilot program to increase the number of social workers in the state, improve representation in the field of social work, mitigate student debt and improve labor conditions for social workers upon graduation.",
  "LawSection":"Mental Hygiene Law","LawCode":"Add §7.51, Ment Hyg L",
  "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing a master of social work paid field practicum pilot program"

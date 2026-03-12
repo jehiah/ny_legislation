@@ -1,9 +1,15 @@
 {
- "PrintNo":"S9000","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-21T12:30:04.861535Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-21","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-01-21","Chamber":"SENATE"}],"Title":"STATE OPERATIONS BUDGET",
- "LawSection":"Budget Bills",
- "ActClause":"AN ACT making appropriations for the support of government STATE OPERATIONS BUDGET",
- "SameAsPrintNo":"A10000-2025"
+ "PrintNo":"S9000","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-21T12:30:04.861535Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-21","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-02-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9000A","Date":"2026-02-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-03-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 9000B","Date":"2026-03-09","Chamber":"SENATE","Version":"B"}
+ ],
+ "Title":"STATE OPERATIONS BUDGET",
+ "Summary":"Makes appropriations for the support of government - State Operations Budget.","LawSection":"Budget Bills",
+ "ActClause":"AN ACT making appropriations for the support of government STATE OPERATIONS BUDGET"
 }

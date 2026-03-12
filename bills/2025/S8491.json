@@ -1,16 +1,17 @@
 {
- "PrintNo":"S8491","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-08-25T14:05:57.385442Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S8491","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-08-25T14:05:57.385442Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-26"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-11"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-08-25","Chamber":"SENATE"},
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.400","Date":"2026-02-24","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-02-25","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-26","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-26","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 8491A","Date":"2026-03-11","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,7 +31,7 @@
  ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
  "Title":"Relates to denials of increased utility rates and charges",
- "Summary":"Provides that whenever the public service commission denies a request by a utility for an increased rate or charge the rate or charge, or tariff or service immediately in effect prior to the commission's denial shall remain in full force and effect until such time as the commission approves a new rate, charge or service.",
+ "Summary":"Provides that whenever the public service commission denies a request by a utility for a major change in rates or charges, the schedule, rate, charge, form of contract or agreement, rule, regulation, general privilege, facility, or service immediately in effect prior to such request shall remain in full force and effect until such time as the commission approves a new rate, charge.",
  "LawSection":"Public Service Law","LawCode":"Amd §66, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to denials of increased utility rates and charges",
  "SameAsPrintNo":"A2740-2025"

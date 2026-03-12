@@ -1,11 +1,12 @@
 {
  "PrintNo":"S179","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-19T15:15:43.404835Z",
- "Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Children And Families"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-10","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -19,11 +20,23 @@
     {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
     {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
    ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-10","Chamber":"SENATE","Committee":"Children And Families",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
   {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Relates to allowances for the costs of diapers",
  "Summary":"Relates to authorizing the payment of costs, up to eighty dollars, of diapers for an eligible child two years of age or younger for children receiving safety net assistance.",

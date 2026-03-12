@@ -1,7 +1,7 @@
 {
  "PrintNo":"S4033","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-31T10:59:33.340573Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-05"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-10"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-31","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-14","Chamber":"SENATE"},
@@ -18,7 +18,9 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-20","Chamber":"SENATE","Version":"B"},
-  {"Text":"1ST REPORT CAL.464","Date":"2026-03-05","Chamber":"SENATE","Version":"B"}
+  {"Text":"1ST REPORT CAL.464","Date":"2026-03-05","Chamber":"SENATE","Version":"B"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-03-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-10","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -175,7 +177,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
+ "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}],
  "Title":"Relates to the disposition of certain fines and penalties",
  "Summary":"Provides for the disposition of certain fines and penalties; directs such fines to a conservation enforcement account in the state conservation fund.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd En Con L, generally; amd §83, St Fin L",

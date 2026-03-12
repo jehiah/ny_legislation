@@ -1,14 +1,16 @@
 {
- "PrintNo":"A5402","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-13T15:45:50.189194Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Energy"}],
+ "PrintNo":"A5402","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-13T15:45:50.189194Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-04"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-02-13","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2025-05-16","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 5402A","Date":"2025-05-16","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.269","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 5402B","Date":"2026-03-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -24,16 +26,39 @@
     {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
     {"ID":1469,"Short":"MAMDANI","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-02-25","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":1544,"Short":"GRAY","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":1469,"Short":"MAMDANI","Vote":"Excused"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Excused"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Excused"},{"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
   }
  ],
  "Sponsors":[
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
-  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"}
  ],
  "Title":"Authorizes the public service commission to establish rules to limit a utility's ability to recover certain operating expenses",
  "Summary":"Authorizes and directs the public service commission to establish rules to limit a utility's ability to recover its direct or indirect costs associated with its attendance in, participation in, preparation for, or appeal of any rate proceeding conducted before the commission.",
  "LawSection":"Public Service Law","LawCode":"Amd §66, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to authorizing the public service commission to establish rules to limit a utility's ability to recover certain operating expenses",
- "PreviousVersions":["S3734-2025"]
+ "SameAsPrintNo":"S3734-2025"
 }

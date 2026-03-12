@@ -1,10 +1,12 @@
 {
- "PrintNo":"A180","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-23T12:15:35.873042Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"}],
+ "PrintNo":"A180","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-23T12:15:35.873042Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Correction"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 180A","Date":"2026-03-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
@@ -15,8 +17,8 @@
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"}
  ],
  "Title":"Relates to available transportation for correction facility visitation",
- "Summary":"Relates to available transportation for correction facility visitation; provides for at a minimum, bi-monthly free transportation from the city of New York, Rochester, Syracuse, Buffalo and Albany.",
- "LawSection":"Correction Law","LawCode":"Add §138-b, Cor L",
+ "Summary":"Relates to available transportation for correction facility visitation; provides for at a minimum, bimonthly free transportation from the city of New York, Rochester, Syracuse, Buffalo and Albany.",
+ "LawSection":"Correction Law","LawCode":"Add §138-c, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to available transportation for correction facility visitation",
- "SameAsPrintNo":"S3830-2025","PreviousVersions":["A5942-2019","A4881-2021","A9727-2021","A131-2023"]
+ "PreviousVersions":["A5942-2019","A4881-2021","A9727-2021","A131-2023"]
 }

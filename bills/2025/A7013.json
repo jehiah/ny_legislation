@@ -1,14 +1,16 @@
 {
- "PrintNo":"A7013","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A7013","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-03-18T13:33:24.581526Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-11","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-18","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-03-19","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 7013A","Date":"2025-03-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 7013B","Date":"2025-05-28","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-11","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 7013C","Date":"2026-03-11","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
@@ -19,8 +21,7 @@
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
  ],
  "Title":"Relates to the rates of payment for certified home health agencies",
- "Summary":"Relates to the rates of payment for certified home health agencies.","LawSection":"Public Health Law",
- "LawCode":"Amd §3614, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to rates of payment for certified home health agencies",
- "SameAsPrintNo":"S7052-2025"
+ "Summary":"Requires the commissioner of healh to annually make the system of episodic payments, including all pricing mechanisms, available to all Medicaid managed care plans, all child health insurance plans and all essential plans, and to notify all such managed care plans of their responsibilities for ensuring that their enrolled members have access to certified home health agency services.",
+ "LawSection":"Public Health Law","LawCode":"Amd §3614, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to rates of payment for certified home health agencies"
 }
