@@ -1,7 +1,7 @@
 {
- "PrintNo":"S7689","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7689","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-04-29T16:28:05.612163Z","Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Elections"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-13","Committee":"Elections"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ELECTIONS","Date":"2025-05-14","Chamber":"SENATE"},
@@ -13,7 +13,9 @@
   {"Text":"REFERRED TO ELECTION LAW","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO ELECTIONS","Date":"2026-03-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 7689B","Date":"2026-03-13","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -114,8 +116,6 @@
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to voting of overseas military voters and special federal voters",
  "Summary":"Authorizes electronic absentee ballot applications for military voters and special federal voters; removes requirements that the federal post card application form be included with certain ballot application and ballots; requires institutions of higher education to provide students studying abroad with information on how to vote from abroad.",
- "LawSection":"Election Law",
- "LawCode":"Amd §§8-400, 8-408, 10-104, 10-106, 10-107, 10-108, 11-202, 11-203 & 11-210, El L; amd §305, Ed L",
- "ActClause":"AN ACT to amend the election law and the education law, in relation to overseas military voters and special federal voters",
- "SameAsPrintNo":"A8257-2025"
+ "LawSection":"Election Law","LawCode":"Amd, El L, generally; amd §305, Ed L",
+ "ActClause":"AN ACT to amend the election law and the education law, in relation to overseas military voters and special federal voters"
 }

@@ -1,10 +1,14 @@
 {
  "PrintNo":"A10137","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-05T12:39:46.530926Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Economic Development"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Economic Development"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-02-05","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-10","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.303","Date":"2026-03-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

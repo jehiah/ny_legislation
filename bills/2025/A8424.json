@@ -1,12 +1,16 @@
 {
  "PrintNo":"A8424","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-15T16:48:27.861771Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Mental Health"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Mental Health"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-05-15","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-10","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-10","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.294","Date":"2026-03-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,21 +1,23 @@
 {
- "PrintNo":"A8930","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-07-16T09:43:18.551894Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"}],
+ "PrintNo":"A8930","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-07-16T09:43:18.551894Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Correction"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-07-16","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8930A","Date":"2026-03-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":1487,"Name":"William Conrad","Short":"CONRAD"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
-  {"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
+  {"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
- "Title":"Relates to sex offender risk assessment instruments",
- "Summary":"Relates to sex offender risk assessment instruments to determine the level of notification required.",
- "LawSection":"Correction Law","LawCode":"Amd §§168-d, 168-k, 168-l & 168-n, Cor L",
+ "Title":"Relates to risk assessment instruments for sex offenders",
+ "Summary":"Relates to the use of validated risk assessment instruments for sex offenders to determine the risk of a repeat offense.",
+ "LawSection":"Correction Law","LawCode":"Amd §168-l, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to risk assessment instruments for sex offenders",
- "SameAsPrintNo":"S3201-2025",
  "PreviousVersions":["S7080-2011","S3138-2013","S3097-2015","S3711-2017","S4191-2019","S3096-2021","S4451-2023"]
 }

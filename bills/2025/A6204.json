@@ -7,11 +7,28 @@
   {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-02-25","Chamber":"ASSEMBLY"}
  ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-02-25","Chamber":"ASSEMBLY",
+   "Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Excused"},{"ID":1541,"Short":"SHRESTHA","Vote":"Excused"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
-  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"}
+  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"}
  ],
  "Title":"Relates to adjustment of electric residential fixed charges",
  "Summary":"Directs the department of public service to adjust each utility corporation's residential fixed charge upon such corporation's filing with the department of an amendment of rate schedules, to recover only the fixed costs and operation and maintenance expenses directly related to metering, billing, service connections and the provision of customer service.",

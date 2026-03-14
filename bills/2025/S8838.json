@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8838","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T15:54:55.833425Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-01-08","Chamber":"SENATE"}],
+ "PrintNo":"S8838","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-08T15:54:55.833425Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-17","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-02-17","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8838A","Date":"2026-02-17","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
@@ -24,8 +28,8 @@
   {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
  "Title":"Provides parity to durable medical equipment providers by requiring Medicaid managed care organizations to reimburse such providers",
- "Summary":"Provides parity to durable medical equipment providers by requiring Medicaid managed care organizations to reimburse such providers at no less than one hundred percent of the medical assistance durable medical equipment and complex rehabilitation technology fee schedule for the same service or item.",
+ "Summary":"Provides parity to durable medical equipment providers by requiring Medicaid managed care organizations to reimburse such providers at no less than one hundred percent of the medical assistance durable medical equipment fee schedule for the same service or item.",
  "LawSection":"Social Services Law","LawCode":"Amd §364-j, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to providing parity to durable medical equipment providers by requiring Medicaid managed care organizations to reimburse such providers at no less than one hundred percent of the medical assistance durable medical equipment and complex rehabilitation technology fee schedule for the same service or item",
- "PreviousVersions":["A5368-2021","S5118-2021","S3468-2023","S1616-2025"]
+ "ActClause":"AN ACT to amend the social services law, in relation to providing parity to durable medical equipment providers by requiring Medicaid managed care organizations to reimburse such providers at no less than one hundred percent of the medical assistance durable medical equipment fee schedule for the same service or item",
+ "SameAsPrintNo":"A10576-2025","PreviousVersions":["A5368-2021","S5118-2021","S3468-2023","S1616-2025"]
 }
