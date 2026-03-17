@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9397","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-09T14:28:23.083267Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-03-09","Chamber":"SENATE"}],
+ "PrintNo":"S9397","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-09T14:28:23.083267Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-03-09","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2026-03-17","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9397A","Date":"2026-03-17","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
- "Title":"Establishes an educator development workforce for the purpose of contracting with EDHUBNY, a nonprofit organization, for support of New York's educator workforce; appropriation",
- "Summary":"Establishes an educator development workforce for the purpose of contracting with EDHUBNY, a nonprofit organization, for support of New York's educator workforce; authorizes the workforce to contract with EDHUBNY including performance measures, reporting requirements, and fiscal controls; authorizes collaboration with other state agencies; provides for an appropriation of $50 million.",
+ "Title":"Establishes an educator development workforce for the purpose of contracting with EDHUBNY, a nonprofit organization, for support of New York's child serving and educator workforce; appropriation",
+ "Summary":"Establishes an educator development workforce for the purpose of contracting with EDHUBNY, a nonprofit organization, for support of New York's child serving and educator workforce; authorizes the workforce to contract with EDHUBNY including performance measures, reporting requirements, and fiscal controls; authorizes collaboration with other state agencies; provides for an appropriation of $50 million.",
  "LawSection":"Appropriations",
- "ActClause":"AN ACT to establish an educator development workforce for the purpose of contracting with EDHUBNY, a nonprofit organization, for support of New York's educator workforce; and making an appropriation therefor"
+ "ActClause":"AN ACT to establish an educator development workforce for the purpose of contracting with EDHUBNY, a nonprofit organization, for support of New York's child serving and educator workforce; and making an appropriation therefor",
+ "SameAsPrintNo":"A10196-2025"
 }
