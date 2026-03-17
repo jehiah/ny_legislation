@@ -1,9 +1,9 @@
 {
- "PrintNo":"S2708","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T15:47:12.37233Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S2708","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-22T15:47:12.37233Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-09"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-22","Chamber":"SENATE"},
@@ -18,7 +18,8 @@
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.454","Date":"2026-03-04","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-05","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-09","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-09","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 2708A","Date":"2026-03-16","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -119,9 +120,9 @@
   }
  ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
- "Title":"Relates to advancing grid enhancement technologies",
- "Summary":"Relates to advancing grid enhancement technologies; allows the department of public service to approve requests from distribution companies to develop grid enhancement technologies; requires distribution companies to submit a compliance filing report every 5 years.",
- "LawSection":"Public Service Law","LawCode":"Add §66-x, Pub Serv L; amd §1005, Pub Auth L",
+ "Title":"Relates to advanced transmission technologies, and directs NYSERDA to conduct a study on the effectiveness thereof",
+ "Summary":"Directs electric corporations and combination electric and gas corporations to file a cost-effectiveness and timetable analysis as part of any base rate proceeding with the public service commission; directs NYSERDA to conduct a study on the effectiveness of advanced transmission technologies.",
+ "LawSection":"Public Service Law","LawCode":"Add §66-x, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law and the public authorities law, in relation to advancing grid enhancement technologies",
- "PreviousVersions":["S7868-2023"]
+ "SameAsPrintNo":"A8934-2025","PreviousVersions":["S7868-2023"]
 }

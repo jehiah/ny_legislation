@@ -1,10 +1,28 @@
 {
  "PrintNo":"S4296","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T16:12:38.389769Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"}],
+ "Status":"IN_SENATE_COMM","Committee":"Commerce, Economic Development And Small Business",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Commerce, Economic Development And Small Business"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-03","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"REPORTED AND COMMITTED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2026-03-17",
+   "Chamber":"SENATE"
+  }
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-17","Chamber":"SENATE","Committee":"Consumer Protection",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
  "Title":"Provides for assistance to disabled drivers at gas stations",

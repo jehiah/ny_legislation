@@ -1,8 +1,7 @@
 {
  "PrintNo":"S1378","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T13:13:50.469978Z","Status":"IN_SENATE_COMM",
- "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}],
+ "Published":"2025-01-09T13:13:50.469978Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"},
@@ -20,7 +19,8 @@
   {
    "Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-01-07","Chamber":"SENATE",
    "Version":"A"
-  }
+  },
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -128,6 +128,19 @@
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-17","Version":"A","Chamber":"SENATE",
+   "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
    ]
   }
  ],

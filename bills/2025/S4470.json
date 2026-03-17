@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4470","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-05T14:41:51.898561Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Published":"2025-02-05T14:41:51.898561Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-02-24"},
-  {"Type":"PASSED_SENATE","Date":"2026-03-10"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-10","Committee":"Codes"}
+  {"Type":"PASSED_SENATE","Date":"2026-03-10"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-10","Committee":"Codes"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-05","Chamber":"SENATE"},
@@ -21,7 +22,9 @@
   {"Text":"AMENDED ON THIRD READING 4470A","Date":"2026-02-24","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-03-10","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2026-03-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2026-03-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8451A","Date":"2026-03-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.295","Date":"2026-03-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

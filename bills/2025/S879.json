@@ -1,7 +1,7 @@
 {
  "PrintNo":"S879","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-06T14:45:06.507178Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-02-26"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-03-04"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.479","Date":"2025-03-04","Chamber":"SENATE"},
@@ -15,7 +15,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.418","Date":"2026-02-25","Chamber":"SENATE","Version":"A"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -114,7 +115,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}],
+ "Sponsors":[
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}
+ ],
  "Title":"Establishes the garden protection act",
  "Summary":"Establishes the \"garden protection act\", protecting the rights of individuals to cultivate home vegetable gardens, native plant gardens, and/or pollinator gardens.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd Art 2-C Art Head, §31-g, add §31-k, Ag & Mkts L",

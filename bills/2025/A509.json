@@ -1,10 +1,12 @@
 {
- "PrintNo":"A509","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T12:12:26.36582Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A509","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T12:12:26.36582Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-16","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 509A","Date":"2026-03-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},
@@ -19,8 +21,8 @@
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"}
  ],
  "Title":"Authorizes camp operators and employees to administer medications and treatment to children under certain circumstances",
- "Summary":"Allows camp operators and employees to administer medications and treatment to children, under parent direction and authorization.",
+ "Summary":"Allows camp employees to administer medications and treatment to children, under parent or guardian consent and authorization, pursuant to a patient specific order and in compliance with regulations.",
  "LawSection":"Public Health Law","LawCode":"Amd §1394, Pub Health L; amd §6908, Ed L",
- "ActClause":"AN ACT to amend the public health law and the education law, in relation to authorizing camp operators and employees to administer medications and treatment to children under certain circumstances",
- "PreviousVersions":["A7618-2023"]
+ "ActClause":"AN ACT to amend the public health law and the education law, in relation to authorizing camp employees to administer medications and treatment to children under certain circumstances",
+ "SameAsPrintNo":"S6230-2025","PreviousVersions":["A7618-2023"]
 }

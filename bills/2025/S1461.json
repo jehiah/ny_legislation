@@ -1,10 +1,10 @@
 {
  "PrintNo":"S1461","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T09:29:23.468621Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
   {"Type":"SENATE_FLOOR","Date":"2026-02-09"},{"Type":"PASSED_SENATE","Date":"2026-02-25"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-25","Committee":"Codes"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-25","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-10","Chamber":"SENATE"},
@@ -18,7 +18,9 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-02-25","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-25","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2026-02-25","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2026-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A1646","Date":"2026-03-16","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.288","Date":"2026-03-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

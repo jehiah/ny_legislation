@@ -1,10 +1,12 @@
 {
- "PrintNo":"A1008","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T15:44:35.676989Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A1008","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T15:44:35.676989Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-16","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1008A","Date":"2026-03-16","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
@@ -25,7 +27,7 @@
  "Title":"Relates to enrollment in medical assistance programs for incarcerated individuals",
  "Summary":"Provides presumptive eligibility for medical assistance benefits for persons released from correctional facilities for at least sixty days following release; provides for enrollment of such individuals upon release upon application, if eligible.",
  "LawSection":"Social Services Law",
- "LawCode":"Amd §§364-i & 366-a, Soc Serv L; add §500-q, amd §§71, 500-b & 45, Cor L",
+ "LawCode":"Amd §§364-i & 366-a, Soc Serv L; add §500-r, amd §§71, 500-b & 45, Cor L",
  "ActClause":"AN ACT to amend the social services law and the correction law, in relation to presumptive eligibility for medical assistance benefits of individuals leaving incarceration",
- "PreviousVersions":["S8368-2021","S4906-2023"]
+ "SameAsPrintNo":"S614-2025","PreviousVersions":["S8368-2021","S4906-2023"]
 }

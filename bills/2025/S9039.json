@@ -1,11 +1,37 @@
 {
  "PrintNo":"S9039","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-27T14:24:36.503743Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2026-01-27","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-27","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-17","Chamber":"SENATE","Committee":"Education",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Establishes a competitive emergency mapping grant program",
  "Summary":"Establishes a competitive emergency mapping grant program which will provide grants to school districts or boards of cooperative educational services to upgrade their floor plans, blueprints, schematics or other maps of their school interior, school grounds and road maps of the immediate surrounding area included in their building level emergency response plans.",
  "LawSection":"Education Law","LawCode":"Add §2801-c, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to establishing a competitive emergency mapping grant program"
+ "ActClause":"AN ACT to amend the education law, in relation to establishing a competitive emergency mapping grant program",
+ "SameAsPrintNo":"A10120-2025"
 }

@@ -1,7 +1,7 @@
 {
- "PrintNo":"S4955","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-14T14:52:17.285426Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S4955","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-14T14:52:17.285426Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-03-04","Chamber":"SENATE"},
@@ -14,7 +14,10 @@
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-02-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 4955B","Date":"2026-02-25","Chamber":"SENATE","Version":"B"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -128,6 +131,26 @@
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-17","Version":"B","Chamber":"SENATE","Committee":"Health",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
@@ -143,5 +166,5 @@
  "Summary":"Requires the Medicaid inspector general to comply with standards relating to the audit and review of medical assistance program funds.",
  "LawSection":"Public Health Law","LawCode":"Amd §§30-a & 35, add §37, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to the functions of the Medicaid inspector general with respect to audit and review of medical assistance program funds",
- "SameAsPrintNo":"A1069-2025","PreviousVersions":["S4486-2021","S5329-2023"]
+ "PreviousVersions":["S4486-2021","S5329-2023"]
 }

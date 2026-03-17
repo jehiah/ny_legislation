@@ -1,7 +1,7 @@
 {
- "PrintNo":"S8072","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S8072","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-05-15T17:40:40.528262Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2026-02-09"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2026-03-16"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO AGING","Date":"2025-05-28","Chamber":"SENATE"},
@@ -9,7 +9,8 @@
   {"Text":"REFERRED TO AGING","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.229","Date":"2026-02-04","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 8072B","Date":"2026-03-16","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -28,6 +29,7 @@
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Establishes an elder financial exploitation public awareness campaign",
  "Summary":"Establishes an elder financial exploitation public awareness campaign to educate older adults and persons providing care to older adults on the prevention and detection of financial exploitation.",
- "LawSection":"Elder Law","LawCode":"Add §226, Eld L",
- "ActClause":"AN ACT to amend the elder law, in relation to establishing an elder financial exploitation public awareness campaign"
+ "LawSection":"Elder Law","LawCode":"Add §227, Eld L",
+ "ActClause":"AN ACT to amend the elder law, in relation to establishing an elder financial exploitation public awareness campaign",
+ "SameAsPrintNo":"A8447-2025"
 }

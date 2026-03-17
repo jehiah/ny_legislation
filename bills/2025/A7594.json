@@ -1,10 +1,12 @@
 {
- "PrintNo":"A7594","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-01T14:20:34.868874Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "PrintNo":"A7594","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-01T14:20:34.868874Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-20","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-01","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7594A","Date":"2026-01-20","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
@@ -15,10 +17,11 @@
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},
-  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
+  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
+  {"ID":1531,"Name":"Alex Bores","Short":"BORES"}
  ],
  "Title":"Prohibits the sale of playground surfacing materials that contain PFAS, PAHs or more than ninety parts per million of lead; and provides penalties for violations",
- "Summary":"Prohibits the sale of playground surfacing materials that contain PFAS, PAHs or more than ninety parts per million of lead on and after January 1, 2027; requires manufacturers of playground surfacing materials that contain PFAS, PAHs or more than ninety parts per million of lead to provide notice of such fact to distributors and retailers of such materials; provides penalties for violations.",
+ "Summary":"Prohibits the sale of playground surfacing materials that contain PFAS, PAHs or more than ninety parts per million of lead; requires manufacturers of playground surfacing materials that contain PFAS, PAHs or more than ninety parts per million of lead to provide notice of such fact to distributors and retailers of such materials; provides penalties for violations.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §37-0123, amd §71-3703, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to the regulation of toxic substances in playground surfacing materials",
  "SameAsPrintNo":"S3852-2025","PreviousVersions":["S8932-2023"]

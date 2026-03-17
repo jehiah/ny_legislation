@@ -1,10 +1,28 @@
 {
  "PrintNo":"A1755","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T09:51:29.962555Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Social Services"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-17","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-03-17","Chamber":"ASSEMBLY",
+   "Committee":"SOCIAL SERVICES",
+   "Votes":[
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":673,"Short":"SOLAGES","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1576,"Short":"MORENO","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Nay"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},

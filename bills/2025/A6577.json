@@ -1,12 +1,30 @@
 {
  "PrintNo":"A6577","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:51:28.137883Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Energy"}],
+ "Published":"2025-03-06T14:51:28.137883Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2025-03-17","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6577A","Date":"2025-03-17","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-03-17","Chamber":"ASSEMBLY",
+   "Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":1460,"Short":"CLARK","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"}],
  "Title":"Establishes a floating solar incentive and education program",

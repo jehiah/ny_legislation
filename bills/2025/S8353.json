@@ -1,12 +1,30 @@
 {
  "PrintNo":"S8353","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-04T14:48:02.741128Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"}],
+ "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Women's Issues"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO WOMEN'S ISSUES","Date":"2026-03-17","Chamber":"SENATE"}
  ],
- "Sponsors":[{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-17","Chamber":"SENATE","Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Nay"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
+ ],
  "Title":"Provides that no state or local correctional facility shall deny entry to a visitor to such facility due to the fact that such person is menstruating, wearing a menstrual product or has a contraceptive device",
  "Summary":"Provides that no state or local correctional facility shall deny entry to a person visiting such facility due to the fact that such person is menstruating or has a contraceptive device or appears on body scan imaging or alternative methods to have or be using a menstrual product or contraceptive device.",
  "LawSection":"Correction Law","LawCode":"Add §138-b, Cor L",

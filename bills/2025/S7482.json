@@ -1,14 +1,18 @@
 {
  "PrintNo":"S7482","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-17T12:49:04.40402Z","Status":"IN_SENATE_COMM","Committee":"Racing, Gaming And Wagering",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-12","Committee":"Racing, Gaming And Wagering"}],
+ "Published":"2025-04-17T12:49:04.40402Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-12","Committee":"Racing, Gaming And Wagering"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-17"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2025-04-17","Chamber":"SENATE"},
   {"Text":"REFERRED TO RACING, GAMING AND WAGERING","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO RACING, GAMING AND WAGERING","Date":"2026-01-28","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 7482A","Date":"2026-01-28","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO RACING, GAMING AND WAGERING","Date":"2026-03-12","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 7482B","Date":"2026-03-12","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 7482B","Date":"2026-03-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.551","Date":"2026-03-17","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}],
  "Title":"Relates to designating an individual who has been convicted of certain crimes against athletes, coaches, officials or participants of a sports event as a prohibited sports bettor",
