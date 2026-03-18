@@ -1,11 +1,15 @@
 {
- "PrintNo":"S9433","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-12T09:26:44.026455Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-12","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-12","Chamber":"SENATE"}],
+ "PrintNo":"S9433","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-12T09:26:44.026455Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-18","Committee":"Energy And Telecommunications"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-12","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-18","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9433A","Date":"2026-03-18","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],
  "Title":"Relates to requiring gas and electric corporations to disclose certain information with an application for a major rate change",
- "Summary":"Requires a gas and electric corporation to disclose certain information with an application for a major rate change; requires information relating to dividends paid to shareholders, capital investments and policy expenditures; requires an inflation-indexed proposal and prohibits exceeding inflation unless the gas and electric corporation is unable to maintain the same level of operating expenses, capital expenditures, and programmatic or policy expenditures without jeopardizing safety and reliability.",
+ "Summary":"Requires a gas and electric corporation to disclose certain information with an application for a major rate change; requires information relating to dividends paid to shareholders, capital investments, policy expenditures, commodity supply costs, and other costs not within control of the applicant; requires an inflation-indexed proposal and prohibits exceeding inflation unless the gas and electric corporation is unable to maintain the same level of operating expenses, capital expenditures, programmatic or policy expenditures without jeopardizing safety, reliability, energy affordability programs, energy efficiency programs, and cost-effective electrification upgrades.",
  "LawSection":"Public Service Law","LawCode":"Amd §66, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to requiring gas and electric corporations to disclose certain information with an application for a major rate change"
 }

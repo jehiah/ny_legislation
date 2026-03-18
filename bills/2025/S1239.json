@@ -1,11 +1,7 @@
 {
- "PrintNo":"S1239","Version":"E","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T15:14:45.110751Z","Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-02-04"},
-  {"Type":"PASSED_SENATE","Date":"2026-02-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Agriculture"}
- ],
+ "PrintNo":"S1239","Version":"F","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T15:14:45.110751Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-03-18"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO AGRICULTURE","Date":"2025-02-28","Chamber":"SENATE"},
@@ -35,7 +31,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-05","Chamber":"SENATE","Version":"E"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-02-05","Chamber":"ASSEMBLY","Version":"E"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-03-18","Chamber":"SENATE","Version":"E"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"E"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"E"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-03-18","Chamber":"SENATE","Version":"E"},
+  {"Text":"AMENDED ON THIRD READING 1239F","Date":"2026-03-18","Chamber":"SENATE","Version":"F"}
  ],
  "Votes":[
   {
@@ -235,7 +233,7 @@
  ],
  "Title":"Enacts the \"food safety and chemical disclosure act\"",
  "Summary":"Enacts the \"food safety and chemical disclosure act\"; prohibits certain food additives and food color additives; provides that in an action to enforce compliance, the recognition by the federal food and drug administration of any of these substances as safe may not be alleged as a defense; establishes requirements for the reporting of GRAS (generally recognized as safe) substances.",
- "LawSection":"Agriculture and Markets Law","LawCode":"Amd §§199-a, 199-b, 198 & 202-c, add §199-g, Ag & Mkts L",
+ "LawSection":"Agriculture and Markets Law","LawCode":"Amd §§199-a, 199-b, 198 & 202-c, add §199-h, Ag & Mkts L",
  "ActClause":"AN ACT to amend the agriculture and markets law, in relation to enacting the \"food safety and chemical disclosure act\"",
  "SameAsPrintNo":"A1556-2025","PreviousVersions":["S6055-2023"]
 }
