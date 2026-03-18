@@ -1,15 +1,37 @@
 {
  "PrintNo":"A8904","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-06-16T12:24:58.029234Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Tourism, Parks, Arts And Sports Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Tourism, Parks, Arts And Sports Development"}],
+ "Published":"2025-06-16T12:24:58.029234Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-18","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2026-02-12","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 8904A","Date":"2026-02-12","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 8904A","Date":"2026-02-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-03-18","Chamber":"ASSEMBLY",
+   "Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "Votes":[
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1573,"Short":"CASHMAN","Vote":"Aye"},
+    {"ID":1577,"Short":"POWERS","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Absent"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Absent"},{"ID":1559,"Short":"VALDEZ","Vote":"Absent"},
+    {"ID":1561,"Short":"LASHER","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
+  {"ID":1525,"Name":"Steven Raga","Short":"RAGA"}
+ ],
  "Title":"Authorizes the council on the arts to designate Little Panama as a cultural district",
  "Summary":"Authorizes the council on the arts to designate Little Panama as a cultural district in the city of New York; designates boundaries.",
  "LawSection":"Arts and Cultural Affairs Law","LawCode":"Amd §3.05, Arts & Cul L",

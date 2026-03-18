@@ -1,8 +1,10 @@
 {
  "PrintNo":"S2122","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-15T13:36:12.203733Z","Status":"IN_SENATE_COMM",
- "Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "Published":"2025-01-15T13:36:12.203733Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-18"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"},
   {
@@ -21,7 +23,8 @@
   {
    "Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE",
    "Version":"A"
-  }
+  },
+  {"Text":"1ST REPORT CAL.575","Date":"2026-03-18","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

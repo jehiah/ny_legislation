@@ -1,6 +1,6 @@
 {
- "PrintNo":"S2071","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T10:20:09.438336Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S2071","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T10:20:09.438336Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"},
   {"Type":"SENATE_FLOOR","Date":"2026-03-17"}
@@ -16,7 +16,8 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.554","Date":"2026-03-17","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.554","Date":"2026-03-17","Chamber":"SENATE"},
+  {"Text":"AMENDED (T) 2071A","Date":"2026-03-18","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -124,7 +125,7 @@
  ],
  "Title":"Requires the department of labor create and maintain a list of available careers and job openings for veterans in the state of New York",
  "Summary":"Requires the department of labor create and maintain a list of available careers and job openings for veterans in the state of New York and provide such list to the department of veterans' services; requires such list to be placed on the department of veterans' services website.",
- "LawSection":"Labor Law","LawCode":"Add §45, Lab L; amd §4, Veterans' Services L",
- "ActClause":"AN ACT to amend the labor law and the veterans' services law, in relation to requiring the department of labor to create and maintain a list of available careers and job listings in the state for veterans",
- "PreviousVersions":["S8783-2023"]
+ "LawSection":"Labor Law","LawCode":"Add §45, Lab L",
+ "ActClause":"AN ACT to amend the labor law, in relation to requiring the department of labor to create and maintain a list of available careers and job listings in the state for veterans",
+ "SameAsPrintNo":"A6084-2025","PreviousVersions":["S8783-2023"]
 }

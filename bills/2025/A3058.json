@@ -1,7 +1,10 @@
 {
  "PrintNo":"A3058","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-23T12:12:05.600948Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-02-03"}],
+ "Published":"2025-01-23T12:12:05.600948Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-02-03"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-18"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-23","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-05-23","Chamber":"ASSEMBLY"},
@@ -13,7 +16,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.557","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING CAL.101","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMENDED ON THIRD READING 3058B","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"AMENDED ON THIRD READING 3058C","Date":"2026-02-03","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"AMENDED ON THIRD READING 3058C","Date":"2026-02-03","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
