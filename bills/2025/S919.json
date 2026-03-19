@@ -1,7 +1,10 @@
 {
  "PrintNo":"S919","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-07T09:54:32.077073Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-10"}],
+ "Published":"2025-01-07T09:54:32.077073Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-10"},
+  {"Type":"PASSED_SENATE","Date":"2026-03-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-27","Chamber":"SENATE"},
@@ -22,7 +25,9 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-27","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.457","Date":"2026-03-05","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-10","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-03-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

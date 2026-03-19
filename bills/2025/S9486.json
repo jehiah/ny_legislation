@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9486","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-17T14:04:29.445268Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE"}],
+ "PrintNo":"S9486","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-17T14:04:29.445268Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9486A","Date":"2026-03-19","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
  "Title":"Requires notification of firearm denials to local law enforcement and the local prosecutor having jurisdiction where the prohibited person sought to acquire the firearm",
  "Summary":"Requires notification of firearm denials to local law enforcement and the local prosecutor having jurisdiction where the prohibited person sought to acquire the firearm; requires local law enforcement to investigate within five business days.",
  "LawSection":"Executive Law","LawCode":"Amd §228, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to notification to local law enforcement of firearm denials"
+ "ActClause":"AN ACT to amend the executive law, in relation to notification to local law enforcement of firearm denials",
+ "SameAsPrintNo":"A10307-2025"
 }

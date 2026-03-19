@@ -1,11 +1,13 @@
 {
- "PrintNo":"S6435","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-13T15:48:15.223153Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
+ "PrintNo":"S6435","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-13T15:48:15.223153Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-13","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6435A","Date":"2026-03-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -26,5 +28,5 @@
  "Summary":"Grants service credit to members of the uniformed correction force of the New York city department of correction covered by provisions of law for over 25 years.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §504, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to retirement benefits for general members in the uniformed correction force of the New York city department of correction",
- "PreviousVersions":["S6133-2017","S5435-2019","S6986-2021","S6322-2023"]
+ "SameAsPrintNo":"A6633-2025","PreviousVersions":["S6133-2017","S5435-2019","S6986-2021","S6322-2023"]
 }

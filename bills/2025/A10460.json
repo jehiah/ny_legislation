@@ -1,13 +1,18 @@
 {
- "PrintNo":"A10460","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A10460","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2026-03-06T09:31:17.512724Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-11","Committee":"Governmental Operations"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-19","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-03-11","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 10460A","Date":"2026-03-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 10460A","Date":"2026-03-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10460B","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"B"}
  ],
- "Sponsors":[{"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}],
+ "Sponsors":[
+  {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":669,"Name":"Nily Rozic","Short":"ROZIC"}
+ ],
  "Title":"Enacts the \"ICE contract transparency act\"",
  "Summary":"Enacts the \"ICE contract transparency act\"; creates a publicly accessible database for contracts made between United States immigration and customs enforcement and private entities conducting business in the state of New York; requires entities to provide the department of state with a copy of contracts made between U.S. immigration and customs enforcement and private entities operating in the state of New York.",
  "LawSection":"Executive Law","LawCode":"Add §94-c, Exec L",

@@ -1,9 +1,10 @@
 {
  "PrintNo":"A6707","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-07T17:45:27.874497Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-11","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-19"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Investigations And Government Operations"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-03-07","Chamber":"ASSEMBLY"},
@@ -15,7 +16,10 @@
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.171","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.171","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-19","Chamber":"SENATE"}
  ],
  "Votes":[
   {

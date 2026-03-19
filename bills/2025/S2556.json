@@ -1,9 +1,9 @@
 {
  "PrintNo":"S2556","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T15:14:26.959826Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-12"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-12"},{"Type":"PASSED_SENATE","Date":"2026-03-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-21","Chamber":"SENATE"},
@@ -18,7 +18,9 @@
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.507","Date":"2026-03-10","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-11","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-12","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-12","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-19","Chamber":"SENATE"}
  ],
  "Votes":[
   {

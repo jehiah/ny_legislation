@@ -1,9 +1,10 @@
 {
  "PrintNo":"A2321","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-16T10:44:25.266867Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-19"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Investigations And Government Operations"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-16","Chamber":"ASSEMBLY"},
@@ -14,7 +15,10 @@
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.84","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.84","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-19","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -47,7 +51,8 @@
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
   {"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
-  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
+  {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
  ],
  "Title":"Relates to requiring agencies to report information about FOIL inquiries to the committee on open government",
  "Summary":"Requires all agencies to submit to the committee on open government a log of all freedom of information law requests for each year in which they received or have pending a request for records; requires the committee on open government to publish, on one webpage, all freedom of information law request logs it receives.",
