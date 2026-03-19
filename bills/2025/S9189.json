@@ -1,17 +1,22 @@
 {
- "PrintNo":"S9189","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-12T14:04:54.612028Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-12","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-02-12","Chamber":"SENATE"}],
+ "PrintNo":"S9189","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-02-12T14:04:54.612028Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-02-12","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9189A","Date":"2026-03-19","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
   {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}
  ],
- "Title":"Relates to a city business tax surcharge in a city with a population of one million or more",
- "Summary":"Authorizes a city business tax surcharge of twenty-five percent on the tax liability imposed on any business subject to tax as a corporation, in a city with a population of one million or more.",
- "LawSection":"Tax Law","LawCode":"Add Art 30-C §1350, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to authorizing a city business tax surcharge in a city with a population of one million or more",
- "SameAsPrintNo":"A10340-2025"
+ "Title":"Relates to increasing tax rates imposed on unincorporated businesses and corporations in New York city",
+ "Summary":"Increases tax rates imposed on unincorporated businesses and corporations in New York city upon adoption of a local law by the local legislative body of the city of New York.",
+ "LawSection":"New York City Administrative Code",
+ "LawCode":"Amd §101, §2 of Chap 772 of 1966; amd §§11-503, 11-604, 11-643.5, 11-643.8 & 11-654, NYC Ad Cd",
+ "ActClause":"AN ACT to amend chapter 772 of the laws of 1966, relating to enabling any city having a population of one million or more to raise tax revenue; and to amend the administrative code of the city of New York, in relation to increasing tax rates imposed on unincorporated businesses and corporations in New York city for taxable years beginning on or after January first, two thousand twenty-six, upon adoption of a local law by the local legislative body of the city of New York"
 }
