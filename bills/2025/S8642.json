@@ -1,10 +1,14 @@
 {
- "PrintNo":"S8642","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T09:34:47.012238Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],"Title":"Enacts the permit predictability act",
+ "PrintNo":"S8642","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-07T09:34:47.012238Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-20","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-03-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8642A","Date":"2026-03-20","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],"Title":"Enacts the planning approval predictability act",
  "Summary":"Requires the planning board or other administrative body of a town, village or city authorized to designate, review and approve, approve with modifications, or disapprove site plans to develop a standardized form containing all requirements for such site plan review applications; makes related provisions.",
  "LawSection":"Town Law","LawCode":"Amd §274-a, Town L; amd §7-725-a, Vil L; amd §27-a, Gen City L",
- "ActClause":"AN ACT to amend the town law, the village law and the general city law, in relation to enacting the \"permit predictability act\""
+ "ActClause":"AN ACT to amend the town law, the village law and the general city law, in relation to enacting the \"planning approval predictability act\""
 }

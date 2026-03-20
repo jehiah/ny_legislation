@@ -1,11 +1,16 @@
 {
- "PrintNo":"A10390","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-03T11:57:45.482551Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-03","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-03","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10390","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-03T11:57:45.482551Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10390A","Date":"2026-03-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}],
  "Title":"Establishes a school speed zone camera demonstration program in the city of Poughkeepsie",
  "Summary":"Establishes a school speed zone camera demonstration program in the city of Poughkeepsie; repeals authorization of program December 31, 2030.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Add §1180-c, V & T L; amd §87, Pub Off L",
- "ActClause":"AN ACT to amend the vehicle and traffic law and the public officers law, in relation to establishing a school speed zone camera demonstration program in the city of Poughkeepsie; and providing for the repeal of such provisions upon expiration thereof"
+ "ActClause":"AN ACT to amend the vehicle and traffic law and the public officers law, in relation to establishing a school speed zone camera demonstration program in the city of Poughkeepsie; and providing for the repeal of such provisions upon expiration thereof",
+ "SameAsPrintNo":"S9454-2025"
 }

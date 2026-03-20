@@ -1,13 +1,14 @@
 {
  "PrintNo":"A5850","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:23:47.124191Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-24","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-02","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-05","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.318","Date":"2026-03-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -120,7 +121,8 @@
   {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
-  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
+  {"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"}
  ],
  "Title":"Prohibits the participation of certain animals in traveling animal acts",
  "Summary":"Prohibits the participation of certain animals in traveling animal acts; prohibits the department of environmental conservation from issuing permits or licenses allowing participation of certain animals in traveling animal acts; excludes certain permanent performing institutions; imposes a civil penalty not to exceed $1000 for a violation.",

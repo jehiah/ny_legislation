@@ -1,12 +1,17 @@
 {
- "PrintNo":"S8512","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S8512","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-09-24T09:02:09.177063Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-20","Committee":"Energy And Telecommunications"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-09-24","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO RULES","Date":"2025-12-10","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 8512A","Date":"2025-12-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-20","Chamber":"SENATE",
+   "Version":"A"
+  },
+  {"Text":"PRINT NUMBER 8512B","Date":"2026-03-20","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
@@ -19,7 +24,7 @@
  ],
  "Title":"Relates to portable solar generation devices",
  "Summary":"Defines \"portable solar generation device\"; exempts portable solar generation devices from interconnection or net metering requirements; requires the state energy conservation construction code to allow for portable solar generation devices to be connected to a building's wiring through an electrical outlet.",
- "LawSection":"Public Service Law","LawCode":"Amd §66-j, Pub Serv L; amd §11-104, Energy L",
+ "LawSection":"Public Service Law","LawCode":"Amd §66-j, Pub Serv L; amd §378, Exec L",
  "ActClause":"AN ACT to amend the public service law and the energy law, in relation to portable solar generation devices",
  "SameAsPrintNo":"A9111-2025"
 }

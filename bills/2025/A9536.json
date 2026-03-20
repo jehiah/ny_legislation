@@ -1,11 +1,15 @@
 {
- "PrintNo":"A9536","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-14T15:30:18.699454Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-14","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-01-14","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A9536","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-14T15:30:18.699454Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-14","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9536A","Date":"2026-03-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}],
- "Title":"Relates to the identification of individuals who provide face-to-face care to or direct observation of a patient",
- "Summary":"Limits the identification of individuals who provide face-to-face care to or direct observation of a patient to their employee identification number, first name and first initial of last name when full name identification may place the personal safety of such individual in jeopardy.",
- "LawSection":"Public Health Law","LawCode":"Amd §2803, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to the identification of individuals who provide face-to-face care to or direct observation of a patient"
+ "Title":"Relates to the identification of individuals who provide face-to-face care to or direct observation of a patient and information required to be submitted by complainants in offenses against a hospital worker",
+ "Summary":"Limits the identification of individuals who provide face-to-face care to or direct observation of a patient to their employee identification number, first name and first initial of last name when full name identification may place the personal safety of such individual in jeopardy; requires complainants to only submit their employer's address in cases involving an alleged offense against a hospital worker.",
+ "LawSection":"Public Health Law","LawCode":"Amd §2803, Pub Health L; amd §100.15, CP L",
+ "ActClause":"AN ACT to amend the public health law, in relation to the identification of individuals who provide face-to-face care to or direct observation of a patient; and to amend the criminal procedure law, in relation to requiring complainants to only submit their employer's address in cases involving an alleged offense against a hospital worker"
 }

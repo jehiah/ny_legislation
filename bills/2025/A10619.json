@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10619","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-13T16:40:26.27579Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-13","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-03-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10619","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-13T16:40:26.27579Z","Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Mental Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO MENTAL HEALTH","Date":"2026-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10619A","Date":"2026-03-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}],
  "Title":"Establishes a certified community behavioral health clinic public awareness campaign",
  "Summary":"Establishes a certified community behavioral health clinic public awareness campaign to educate the public regarding certified community behavioral health clinics.",
