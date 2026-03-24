@@ -1,11 +1,14 @@
 {
  "PrintNo":"A8518","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-20T14:56:44.055002Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-05-20","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-18","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.322","Date":"2026-03-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -28,8 +31,8 @@
   }
  ],
  "Sponsors":[
-  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
-  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
+  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Requires insurance coverage of outpatient problem gambling services",
  "Summary":"Requires insurance companies to cover outpatient problem gambling services.","LawSection":"Insurance Law",

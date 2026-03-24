@@ -1,10 +1,12 @@
 {
- "PrintNo":"S3814","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T09:56:38.628475Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"S3814","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-30T09:56:38.628475Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-24","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"SENATE"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-03-24","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3814A","Date":"2026-03-24","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
@@ -15,5 +17,5 @@
  "Summary":"Imposes a tax on out-of-state transfers, dividends, payments, and loans by certain accident and health insurance companies and health maintenance organizations to be deposited in the New York state agency trust fund, distressed provider assistance account.",
  "LawSection":"Insurance Law","LawCode":"Add §9112, amd §§1109 & 9106, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to imposing a tax on out-of-state transfers, dividends, payments, and loans by certain accident and health insurance companies and health maintenance organizations",
- "SameAsPrintNo":"A5743-2025","PreviousVersions":["S8470-2021","S9574-2023"]
+ "PreviousVersions":["S8470-2021","S9574-2023"]
 }

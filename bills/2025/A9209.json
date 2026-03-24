@@ -1,10 +1,33 @@
 {
- "PrintNo":"A9209","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-11-03T11:59:39.671963Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Transportation"}],
+ "PrintNo":"A9209","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-11-03T11:59:39.671963Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-19","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-11-03","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9209A","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-03-24","Chamber":"ASSEMBLY","Committee":"TRANSPORTATION",
+   "Votes":[
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
@@ -12,9 +35,9 @@
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"}
  ],
- "Title":"Requires manufacturers shipping bicycles with electric assist and electric scooters to provide lights",
- "Summary":"Requires manufacturers shipping bicycles with electric assist and electric scooters in NYS to affix front and rear lights.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§1242 & 1285, V & T L",
- "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to manufacturers providing bicycles with electric assist and electric scooters with lights",
+ "Title":"Relates to lights for bicycles with electric assist and electric scooters",
+ "Summary":"Requires any person, firm, association or corporation selling or leasing bicycles with electric assist and electric scooters in NYS to affix front and rear lights.",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §§1242 & 1282, V & T L",
+ "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to equipping bicycles with electric assist and electric scooters with lights",
  "SameAsPrintNo":"S8948-2025"
 }

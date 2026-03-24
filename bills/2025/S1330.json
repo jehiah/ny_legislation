@@ -1,7 +1,7 @@
 {
- "PrintNo":"S1330","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T11:03:52.126274Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "PrintNo":"S1330","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T11:03:52.126274Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Energy And Telecommunications"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-21","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"REFERRED TO ENERGY","Date":"2025-01-27","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-23","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1330A","Date":"2026-03-23","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -132,5 +134,5 @@
  "Summary":"Relates to requiring the establishment of automatic payment plans; requires utility companies headquartered in New York to establish a statewide program to provide eligible participants with affordable payment plans.",
  "LawSection":"Public Service Law","LawCode":"Add §37-a, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to requiring the establishment of automatic payment plans",
- "PreviousVersions":["S8983-2021","S1200-2023"]
+ "SameAsPrintNo":"A168-2025","PreviousVersions":["S8983-2021","S1200-2023"]
 }

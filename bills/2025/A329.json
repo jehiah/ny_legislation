@@ -1,7 +1,11 @@
 {
  "PrintNo":"A329","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-31T12:22:33.795076Z","Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Mental Health"}],
+ "Published":"2024-12-31T12:22:33.795076Z","Status":"IN_SENATE_COMM","Committee":"Mental Health",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Mental Health"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-23"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Mental Health"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO MENTAL HEALTH","Date":"2025-03-14","Chamber":"ASSEMBLY"},
@@ -9,7 +13,11 @@
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO MENTAL HEALTH","Date":"2026-03-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 329B","Date":"2026-03-12","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ADVANCED TO THIRD READING CAL.309","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-03-23","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -23,9 +31,24 @@
     {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
     {"ID":1505,"Short":"GIBBS","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"","Date":"2026-03-23","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Excused"}
+   ]
   }
  ],
- "Sponsors":[{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"}],
+ "Sponsors":[
+  {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"}
+ ],
  "Title":"Relates to setting comprehensive outpatient services",
  "Summary":"Authorizes the commissioner of the office of mental health, and the office of addiction services and support to jointly establish a single set of licensing standards and requirements for the construction, operation, reporting and surveillance of comprehensive outpatient services centers.",
  "LawSection":"Mental Hygiene Law",

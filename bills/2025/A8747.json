@@ -1,10 +1,13 @@
 {
- "PrintNo":"A8747","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-02T10:56:46.538787Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A8747","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-06-02T10:56:46.538787Z","Status":"STRICKEN",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-29","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-06-02","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-01-29","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8747A","Date":"2026-01-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ENACTING CLAUSE STRICKEN","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
@@ -14,5 +17,6 @@
  "Title":"Directs the department of health to establish an alternative payment methodology (APM) for Federally Qualified Health Centers to preserve and improve patient access to fertility care",
  "Summary":"Directs the department of health to establish an alternative payment methodology (APM) for federally qualified health centers to preserve and improve patient access to fertility care.",
  "LawSection":"Health",
- "ActClause":"AN ACT directing the department of health to establish an alternative payment methodology (APM) for federally qualified health centers to preserve and improve patient access to fertility care"
+ "ActClause":"AN ACT directing the department of health to establish an alternative payment methodology (APM) for federally qualified health centers to preserve and improve patient access to fertility care",
+ "SameAsPrintNo":"S8257-2025"
 }

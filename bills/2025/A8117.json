@@ -1,15 +1,31 @@
 {
- "PrintNo":"A8117","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-01T10:47:31.086698Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Real Property Taxation"}],
+ "PrintNo":"A8117","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-01T10:47:31.086698Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-05-01","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2026-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8117A","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-03-24","Chamber":"ASSEMBLY",
+   "Committee":"REAL PROPERTY TAXATION",
+   "Votes":[
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1576,"Short":"MORENO","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"}],
  "Title":"Authorizes the county of Nassau assessor to accept an application for a retroactive real property tax exemption from the Incorporated Village of Hempstead Community Development Agency",
  "Summary":"Authorizes the county of Nassau assessor to accept an application for a retroactive real property tax exemption from the Incorporated Village of Hempstead Community Development Agency for the 2020--2021 school taxes and the 2021 general taxes for the property at 40 Byrd Street.",
  "LawSection":"Real Property Taxation",
  "ActClause":"AN ACT in relation to authorizing the county of Nassau assessor to accept an application for a retroactive real property tax exemption from the Incorporated Village of Hempstead Community Development Agency",
- "SameAsPrintNo":"S8330-2025","PreviousVersions":["A9482-2021","A6006-2023"]
+ "PreviousVersions":["A9482-2021","A6006-2023"]
 }

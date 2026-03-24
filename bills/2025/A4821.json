@@ -1,11 +1,39 @@
 {
- "PrintNo":"A4821","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-06T11:09:50.178894Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"}],
+ "PrintNo":"A4821","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-06T11:09:50.178894Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Corporations, Authorities And Commissions"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-06","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-09-05","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-03-17",
+   "Chamber":"ASSEMBLY"
+  },
+  {"Text":"PRINT NUMBER 4821A","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-03-24","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":636,"Short":"FRIEND","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1561,"Short":"LASHER","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},
@@ -16,11 +44,12 @@
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
-  {"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"}
+  {"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},
+  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"}
  ],
- "Title":"Requires the installation of climb deterrent fencing on certain bridges",
- "Summary":"Requires the installation of climb deterrent fencing on all bridges under the jurisdiction of the New York State Bridge Authority.",
- "LawSection":"Transportation Law","LawCode":"Amd §14, Transp L; amd §530, Pub Auth L",
- "ActClause":"AN ACT to amend the transportation law and the public authorities law, in relation to requiring the installation of climb deterrent fencing on certain bridges",
- "SameAsPrintNo":"S3053-2025","PreviousVersions":["A8273-2021","A9248-2023"]
+ "Title":"Directs the New York state bridge authority to provide a report outlining their efforts and progress on decreasing and deterring suicide attempts on authority bridges",
+ "Summary":"Directs the New York state bridge authority to provide a report by July 1, 2027, outlining their efforts and progress on decreasing and deterring suicide attempts on authority bridges.",
+ "LawSection":"Transportation Law",
+ "ActClause":"AN ACT in relation to directing the New York state bridge authority to provide a report outlining their efforts and progress on decreasing and deterring suicide attempts on authority bridges; and providing for the repeal of such provisions upon expiration thereof",
+ "PreviousVersions":["A8273-2021","A9248-2023"]
 }

@@ -1,4 +1,32 @@
 {
  "PrintNo":"A10393","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-03T11:59:16.791415Z",
- "Sponsors":[{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"}]
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-03","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2026-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-03-24","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Excused"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Excused"},{"ID":1141,"Short":"TAYLOR","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"}],
+ "Title":"Defines satisfaction of judgment and authorizing satisfactions to be filed on affirmation",
+ "Summary":"Defines the term \"satisfaction\" in relation to the satisfaction of judgments; allows satisfaction of judgments to be filed by affirmation rather than after notarization; increases the time during which attorneys may file satisfaction of judgment from ten to twenty years; clarifies that the twenty-day time limit applicable to filing satisfactions of judgment is measured in business days.",
+ "LawSection":"Civil Practice Law and Rules","LawCode":"Amd §5020, CPLR",
+ "ActClause":"AN ACT to amend the civil practice law and rules, in relation to defining satisfaction of judgment and authorizing satisfactions to be filed on affirmation"
 }

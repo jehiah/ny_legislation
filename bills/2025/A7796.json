@@ -1,15 +1,35 @@
 {
  "PrintNo":"A7796","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T14:12:23.093812Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-23"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Investigations And Government Operations"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-04-11","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.320","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-23","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-23","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-23","Chamber":"SENATE"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2026-03-17","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-03-23","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
    "Votes":[
     {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
     {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},

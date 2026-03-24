@@ -1,13 +1,14 @@
 {
  "PrintNo":"A2740","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-22T09:31:27.934166Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-10","Committee":"Energy"}],
+ "Published":"2025-01-22T09:31:27.934166Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-10","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-01-22","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2026-03-10","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 2740A","Date":"2026-03-10","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.314","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,7 +28,10 @@
  ],
  "Sponsors":[
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
-  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"}
+  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"}
  ],
  "Title":"Relates to denials of increased utility rates and charges",
  "Summary":"Provides that whenever the public service commission denies a request by a utility for a major change in rates or charges, the schedule, rate, charge, form of contract or agreement, rule, regulation, general privilege, facility, or service immediately in effect prior to such request shall remain in full force and effect until such time as the commission approves a new rate, charge.",

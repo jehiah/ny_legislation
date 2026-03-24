@@ -1,14 +1,18 @@
 {
  "PrintNo":"S4357","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T10:55:51.570151Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-24"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.621","Date":"2026-03-24","Chamber":"SENATE"}
  ],
  "Sponsors":[
-  {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
-  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
+  {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
+  {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
  ],
  "Title":"Authorizes vocational training, where practicable, to incarcerated individuals on the installation of solar hot water systems for the provision of hot water to correctional facilities",
  "Summary":"Authorizes vocational training, where practicable, to incarcerated individuals on the installation of solar hot water systems for the provision of hot water to correctional facilities.",

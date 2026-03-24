@@ -1,10 +1,7 @@
 {
- "PrintNo":"S1327","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T10:41:40.826335Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-27"},
-  {"Type":"PASSED_SENATE","Date":"2026-02-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Energy"}
- ],
+ "PrintNo":"S1327","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T10:41:40.826335Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-03-23"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO RULES","Date":"2025-01-21","Chamber":"SENATE"},
@@ -19,7 +16,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.137","Date":"2026-01-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-02-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENERGY","Date":"2026-02-05","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENERGY","Date":"2026-02-05","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-03-23","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-03-23","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-03-23","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1327A","Date":"2026-03-23","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -271,7 +272,7 @@
  ],
  "Title":"Relates to establishing minimum standards for payment plans for eligible customers",
  "Summary":"Relates to establishing minimum standards for payment plans for eligible customers; requires the public service commission to set standards for payment plans for certain customers including reasonableness of agreements and timelines for payment; establishes eligibility.",
- "LawSection":"Public Service Law","LawCode":"Add §37-a, Pub Serv L",
+ "LawSection":"Public Service Law","LawCode":"Add §37-b, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to establishing minimum standards for payment plans for eligible customers",
- "PreviousVersions":["S8984-2021","S1199-2023"]
+ "SameAsPrintNo":"A4105-2025","PreviousVersions":["S8984-2021","S1199-2023"]
 }

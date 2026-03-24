@@ -1,7 +1,7 @@
 {
  "PrintNo":"S8021","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T14:33:17.174861Z","Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Codes"}],
+ "Published":"2025-05-15T14:33:17.174861Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-03-24"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-27","Chamber":"SENATE"},
@@ -16,7 +16,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-02-10","Chamber":"SENATE","Version":"B"},
-  {"Text":"PRINT NUMBER 8021C","Date":"2026-02-10","Chamber":"SENATE","Version":"C"}
+  {"Text":"PRINT NUMBER 8021C","Date":"2026-02-10","Chamber":"SENATE","Version":"C"},
+  {"Text":"1ST REPORT CAL.618","Date":"2026-03-24","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

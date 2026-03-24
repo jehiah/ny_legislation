@@ -1,22 +1,26 @@
 {
- "PrintNo":"A9060","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-09-05T10:36:53.759305Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-15","Committee":"Higher Education"}],
+ "PrintNo":"A9060","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-09-05T10:36:53.759305Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-09-05","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-09-12","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9060A","Date":"2025-09-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2026-01-15","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 9060B","Date":"2026-01-15","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 9060B","Date":"2026-01-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 9060C","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
-  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}
  ],
  "Title":"Relates to the establishment of regulations for administering immunizations based on the recommendations of certain entities",
- "Summary":"Expands the entities that may make recommendations for administering immunizations to include the immunization advisory council and the 21st century workgroup for disease elimination and reduction.",
+ "Summary":"Relates to the establishment of regulations for administering immunizations taking into consideration the recommendations of the American Academy of Pediatrics, the American Academy of Family Physicians, the American College of Obstetricians and Gynecologists, the American College of Physicians, the advisory committee on immunization practices, any interstate body established for purposes of reviewing and making recommendations regarding immunization coverage and access, or other similar nationally or internationally recognized scientific organizations.",
  "LawSection":"Education Law","LawCode":"Amd §§6527, 6801, 6802 & 6909, Ed L; amd §§3216, 3221, 4303 & 4322, Ins L",
- "ActClause":"AN ACT to amend the education law and the insurance law, in relation to entities authorized to make recommendations on the administration of immunizations"
+ "ActClause":"AN ACT to amend the education law and the insurance law, in relation to the establishment of immunization administration regulations based on the recommendations of certain entities",
+ "SameAsPrintNo":"S8496-2025"
 }

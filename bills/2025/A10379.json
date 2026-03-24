@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10379","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-03T11:53:09.72841Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-03","Committee":"Science And Technology"}],
- "Actions":[{"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-03-03","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10379","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-03T11:53:09.72841Z","Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-23","Committee":"Science And Technology"}],
+ "Actions":[
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO SCIENCE AND TECHNOLOGY","Date":"2026-03-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10379A","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
@@ -13,5 +17,6 @@
  "Title":"Prohibits artificial intelligence chatbots from using features which are considered unsafe for minors",
  "Summary":"Prohibits artificial intelligence chatbots from using features which are considered unsafe for minors; defines terms; specifies what are considered unsafe features; provides rights of action; directs rules and regulations to be established.",
  "LawSection":"General Business Law","LawCode":"Add Art 48 §§1800 - 1805, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to prohibiting artificial intelligence chatbots from using features which are considered unsafe for minors"
+ "ActClause":"AN ACT to amend the general business law, in relation to prohibiting artificial intelligence chatbots from using features which are considered unsafe for minors",
+ "SameAsPrintNo":"S9051-2025"
 }

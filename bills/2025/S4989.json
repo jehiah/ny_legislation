@@ -1,7 +1,7 @@
 {
  "PrintNo":"S4989","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-14T16:13:34.554563Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "Published":"2025-02-14T16:13:34.554563Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-24","Committee":"Consumer Protection"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO CONSUMER PROTECTION","Date":"2025-05-19","Chamber":"SENATE"},
@@ -10,7 +10,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-06-04","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING 4989A","Date":"2025-06-09","Chamber":"SENATE","Version":"A"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPORTED AND COMMITTED TO CONSUMER PROTECTION","Date":"2026-03-24","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -38,6 +39,21 @@
     {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"},
     {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"}
    ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-24","Version":"A","Chamber":"SENATE",
+   "Committee":"Energy And Telecommunications",
+   "Votes":[
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"}
+   ]
   }
  ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
@@ -45,5 +61,5 @@
  "Summary":"Requires utility service providers to disclose planned rate increases to consumers within thirty days before a planned price increase takes effect; requires utility providers to provide contact information and a mechanism to cancel service completely.",
  "LawSection":"Public Service Law","LawCode":"Add §28, Pub Serv L; add §399-ww, Gen Bus L; amd §1020-cc, Pub Auth L",
  "ActClause":"AN ACT to amend the public service law, the general business law and the public authorities law, in relation to requiring utility service providers to disclose planned rate increases to consumers within a certain amount of time",
- "PreviousVersions":["S6278-2021","S2993-2023"]
+ "SameAsPrintNo":"A10376-2025","PreviousVersions":["S6278-2021","S2993-2023"]
 }

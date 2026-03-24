@@ -7,7 +7,31 @@
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-01-21","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-01-21","Chamber":"ASSEMBLY",
+   "Committee":"ECONOMIC DEVELOPMENT",
+   "Votes":[
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
+  {"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+ ],
  "Title":"Enacts the \"food retail establishment subsidization for healthy communities act\"",
  "Summary":"Enacts the \"food retail establishment subsidization for healthy communities act\" (FRESH Communities); provides loans, loan guarantees, interest subsidies and grants to businesses, municipalities, not-for-profit corporations or local development corporations for the purpose of attracting, maintaining or permitting the expansion of food retail establishments in underserved areas.",
  "LawSection":"New York State Urban Development Corporation Act","LawCode":"Amd §16-m, UDC Act",

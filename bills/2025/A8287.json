@@ -1,10 +1,12 @@
 {
- "PrintNo":"A8287","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-09T13:10:41.072501Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A8287","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-09T13:10:41.072501Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-19","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-09","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8287A","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"},
@@ -13,10 +15,12 @@
   {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
   {"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},{"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
-  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
- "Title":"Relates to school potable water testing",
- "Summary":"Provides for filter-first drinking water management plans where there is a finding of lead contamination in an affected school district.",
- "LawSection":"Public Health Law","LawCode":"Amd §1110, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to school potable water testing"
+ "Title":"Relates to school potable water testing, and standards and requirements to install filtered water stations and faucets",
+ "Summary":"Relates to school potable water testing, and standards and requirements to install filtered water stations and faucets.",
+ "LawSection":"Public Health Law","LawCode":"Amd §1110, add §1111, Pub Health L; amd §3602, Ed L",
+ "ActClause":"AN ACT to amend the public health law and education law, in relation to school potable water testing, and standards and requirements to install filtered water stations and faucets",
+ "SameAsPrintNo":"S7777-2025"
 }

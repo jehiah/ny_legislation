@@ -1,12 +1,32 @@
 {
  "PrintNo":"A3055","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-23T12:11:00.50673Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Consumer Affairs And Protection"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-23","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-03-24","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-03-24","Chamber":"ASSEMBLY",
+   "Committee":"CONSUMER AFFAIRS AND PROTECTION",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1125,"Short":"MILLER","Vote":"Nay"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},{"ID":1466,"Short":"DURSO","Vote":"Nay"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1530,"Name":"Grace Lee","Short":"LEE"}
+ ],
  "Title":"Prohibits consumer reporting agencies and lenders from using an individual's late payment of cashless tolls to determine their credit worthiness",
  "Summary":"Prohibits consumer reporting agencies and lenders from using an individual's late payment of cashless tolls to determine their credit worthiness.",
  "LawSection":"General Business Law","LawCode":"Amd §380-j, Gen Bus L; amd §352, Bank L",

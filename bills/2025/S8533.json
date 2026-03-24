@@ -1,10 +1,16 @@
 {
- "PrintNo":"S8533","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-10-17T14:52:16.707374Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "PrintNo":"S8533","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-10-17T14:52:16.707374Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Veterans, Homeland Security And Military Affairs"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-10-17","Chamber":"SENATE"},
-  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-03-23",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 8533A","Date":"2026-03-23","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},

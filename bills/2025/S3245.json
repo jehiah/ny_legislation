@@ -1,10 +1,12 @@
 {
- "PrintNo":"S3245","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T13:09:01.335578Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"}],
+ "PrintNo":"S3245","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T13:09:01.335578Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Local Government"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-24","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-03-23","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3245A","Date":"2026-03-23","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
@@ -12,7 +14,8 @@
   {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"},
   {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
- "Title":"Relates to payments in lieu of taxes","Summary":"Relates to payments in lieu of taxes.",
+ "Title":"Relates to payments in lieu of taxes",
+ "Summary":"Relates to payments in lieu of taxes; provides that the tax base growth factor or quantity change factor includes the change in assessed value for each property on the exempt side of the tax rolls under a payment in lieu of tax agreement; allows a local government or school district to elect to include the equivalent taxable value of property subject to a payment in lieu of taxes agreement in the calculation of its quantity change factor.",
  "LawSection":"General Municipal Law","LawCode":"Amd §3-c, Gen Muni L; amd §2023-a, Ed L",
  "ActClause":"AN ACT to amend the general municipal law and the education law, in relation to payments in lieu of taxes",
  "PreviousVersions":["A7091-2021","S8480-2021","S1045-2023","S8204-2023"]

@@ -1,12 +1,15 @@
 {
- "PrintNo":"S3914","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T14:53:39.187763Z",
- "Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Budget And Revenue"}],
+ "PrintNo":"S3914","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-30T14:53:39.187763Z","Status":"IN_SENATE_COMM","Committee":"Budget And Revenue",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-24","Committee":"Budget And Revenue"}],
  "Actions":[
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"DEFEATED IN BUDGET AND REVENUE","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BUDGET AND REVENUE","Date":"2026-03-24","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3914A","Date":"2026-03-24","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -34,9 +37,8 @@
   {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK"},{"ID":1518,"Name":"William Weber","Short":"WEBER"},
   {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
- "Title":"Subtracts from federal adjusted gross income any overtime compensation earned by an individual",
- "Summary":"Subtracts from federal adjusted gross income any overtime compensation earned by an individual; defines overtime compensation.",
+ "Title":"Reduces federal adjusted gross income by any overtime compensation earned by an individual",
+ "Summary":"Reduces federal adjusted gross income by the amount of overtime compensation earned by an individual in certain circumstances; defines overtime compensation.",
  "LawSection":"Tax Law","LawCode":"Amd §612, Tax L",
- "ActClause":"AN ACT to amend the tax law, in relation to subtracting from federal adjusted gross income any overtime compensation earned by an individual",
- "SameAsPrintNo":"A8965-2025"
+ "ActClause":"AN ACT to amend the tax law, in relation to subtracting from federal adjusted gross income any overtime compensation earned by an individual"
 }

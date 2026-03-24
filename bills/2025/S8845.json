@@ -1,12 +1,14 @@
 {
- "PrintNo":"S8845","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S8845","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2026-01-08T15:58:00.85596Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Finance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-24","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2026-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-03-10","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 8845A","Date":"2026-03-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-03-24","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 8845B","Date":"2026-03-24","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -34,5 +36,6 @@
  "Title":"Relates to prior year state aid adjustments",
  "Summary":"Requires any state aid owed to a school district from a prior year adjustment be paid as part of the first state aid payment of the following school year following the notification of such payments.",
  "LawSection":"Education Law","LawCode":"Amd §3604, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to prior year state aid adjustments"
+ "ActClause":"AN ACT to amend the education law, in relation to prior year state aid adjustments",
+ "SameAsPrintNo":"A8708-2025"
 }
