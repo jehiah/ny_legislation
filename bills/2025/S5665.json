@@ -1,17 +1,33 @@
 {
  "PrintNo":"S5665","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-26T16:08:29.532756Z","Status":"IN_SENATE_COMM","Committee":"Women's Issues",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-16","Committee":"Women's Issues"}],
+ "Published":"2025-02-26T16:08:29.532756Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-16","Committee":"Women's Issues"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-25"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-02-26","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO WOMEN'S ISSUES","Date":"2026-03-16","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 5665A","Date":"2026-03-16","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 5665A","Date":"2026-03-16","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.639","Date":"2026-03-25","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
    "VoteType":"COMMITTEE","Date":"2025-05-20","Chamber":"SENATE","Committee":"Women's Issues",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-25","Version":"A","Chamber":"SENATE","Committee":"Women's Issues",
    "Votes":[
     {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
     {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},

@@ -1,16 +1,17 @@
 {
- "PrintNo":"A10080","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A10080","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2026-01-30T14:05:56.937297Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-05","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-25"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-03-05","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10080A","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.326","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.326","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 10080B","Date":"2026-03-25","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -32,8 +33,9 @@
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"}
  ],
- "Title":"Expands geographical boundaries for residency requirements of correction officers employed by local correction facilities",
- "Summary":"Expands geographical boundaries for residency requirements of correction officers employed by local correction facilities.",
- "LawSection":"Public Officers Law","LawCode":"Amd §§3, 2 & 30, Pub Off L",
- "ActClause":"AN ACT to amend the public officers law, in relation to expanding geographical boundaries for residency requirements of correction officers employed by local correction facilities"
+ "Title":"Expands geographical boundaries for residency requirements of correction officers employed by the counties of Rockland and Orange",
+ "Summary":"Expands geographical boundaries for residency requirements of correction officers employed by local correction facilities of Rockland and Orange counties.",
+ "LawSection":"Public Officers Law","LawCode":"Amd §§3 & 30, Pub Off L",
+ "ActClause":"AN ACT to amend the public officers law, in relation to expanding geographical boundaries for residency requirements of correction officers employed by the counties of Rockland and Orange",
+ "SameAsPrintNo":"S9020-2025"
 }

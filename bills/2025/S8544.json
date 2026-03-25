@@ -1,9 +1,10 @@
 {
  "PrintNo":"S8544","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-10-24T10:11:18.332716Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-20"},
-  {"Type":"PASSED_SENATE","Date":"2026-01-27"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-27","Committee":"Codes"}
+  {"Type":"PASSED_SENATE","Date":"2026-01-27"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-27","Committee":"Codes"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-28"},{"Type":"PASSED_ASSEMBLY","Date":"2026-01-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-10-24","Chamber":"SENATE"},
@@ -12,7 +13,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.59","Date":"2026-01-20","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-01-27","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-01-27","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-27","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-27","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A9217","Date":"2026-01-28","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.241","Date":"2026-01-28","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-01-28","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-01-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -109,7 +114,8 @@
  ],
  "Sponsors":[
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
  ],
  "Title":"Excludes certain medication abortion drugs from being deemed unlawful to prescribe or dispense and from being deemed misbranded under certain circumstances",
  "Summary":"Provides that the prescribing, dispensing, or receipt of mifepristone or any drug used for medication abortion shall not be considered a criminal conversion act under certain circumstances; provides that mifepristone or any drug used for medication abortion shall not be deemed to be adulterated or misbranded under certain circumstances.",

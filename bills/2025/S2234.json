@@ -1,11 +1,12 @@
 {
  "PrintNo":"S2234","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T09:32:51.405441Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-25","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-16","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-25","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -27,7 +28,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Sponsors":[
+  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}
+ ],
  "Title":"Provides that either party to a workers' compensation claim can request a hearing",
  "Summary":"Provides that either party to a workers' compensation claim can request a hearing; requires a record of all hearings held.",
  "LawSection":"Workers' Compensation Law","LawCode":"Amd §§20 & 25, Work Comp L","SameAsPrintNo":"A4742-2025",

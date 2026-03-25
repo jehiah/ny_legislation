@@ -1,10 +1,14 @@
 {
- "PrintNo":"A10607","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-13T16:46:53.749815Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-13","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10607","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-13T16:46:53.749815Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-25","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-03-25","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10607A","Date":"2026-03-25","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1548,"Name":"Emerita Torres","Short":"TORRES"}],"Title":"Enacts the stop highway community harm act",
- "Summary":"Prevents adding width or lanes to state highways within one hundred feet of certain public housing facilities with high rates of asthma in the area.",
- "LawSection":"Highway Law","LawCode":"Amd §10, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to preventing adding width or lanes to state highways within one hundred feet of certain public housing facilities"
+ "Summary":"Prevents an increase in vehicular lane capacity of highways within two hundred feet of certain public housing facilities, in areas with high rates of asthma, and in environmental justice communities.",
+ "LawSection":"Highway Law","LawCode":"Add §10-h, Hway L",
+ "ActClause":"AN ACT to amend the highway law, in relation to preventing an increase in vehicular lane capacity of highways within certain areas"
 }

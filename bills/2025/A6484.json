@@ -1,7 +1,10 @@
 {
  "PrintNo":"A6484","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-05T13:47:02.078941Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Published":"2025-03-05T13:47:02.078941Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-25"},{"Type":"IN_SENATE_COMM","Date":"2026-03-25","Committee":"Insurance"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-05","Chamber":"ASSEMBLY"},
@@ -10,7 +13,10 @@
   {"Text":"REPORTED","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RULES REPORT CAL.569","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.569","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING CAL.161","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING CAL.161","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-25","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-25","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-03-25","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
