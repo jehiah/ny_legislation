@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3443","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T14:17:07.691962Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-01-27"},
-  {"Type":"PASSED_SENATE","Date":"2026-03-25"}
+  {"Type":"PASSED_SENATE","Date":"2026-03-25"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-25","Committee":"Governmental Operations"}
  ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-27","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-01-21","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-01-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-03-25","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-25","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-25","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-03-25","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

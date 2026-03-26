@@ -1,9 +1,10 @@
 {
  "PrintNo":"S8276","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-29T11:02:42.28314Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-24"},{"Type":"PASSED_SENATE","Date":"2026-03-25"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-24"},{"Type":"PASSED_SENATE","Date":"2026-03-25"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-25","Committee":"Governmental Operations"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-29","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-02-11","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-03-25","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-25","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-25","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-03-25","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

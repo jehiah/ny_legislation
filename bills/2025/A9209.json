@@ -1,13 +1,17 @@
 {
  "PrintNo":"A9209","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-11-03T11:59:39.671963Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-19","Committee":"Transportation"}],
+ "Published":"2025-11-03T11:59:39.671963Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-19","Committee":"Transportation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-11-03","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-03-19","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9209A","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.334","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

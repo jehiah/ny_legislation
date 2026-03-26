@@ -1,8 +1,10 @@
 {
  "PrintNo":"A4821","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-06T11:09:50.178894Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Corporations, Authorities And Commissions"}],
+ "Published":"2025-02-06T11:09:50.178894Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-06","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-09-05","Chamber":"ASSEMBLY"},
@@ -12,7 +14,8 @@
    "Chamber":"ASSEMBLY"
   },
   {"Text":"PRINT NUMBER 4821A","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.332","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -45,7 +48,7 @@
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},
-  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"}
+  {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
  ],
  "Title":"Directs the New York state bridge authority to provide a report outlining their efforts and progress on decreasing and deterring suicide attempts on authority bridges",
  "Summary":"Directs the New York state bridge authority to provide a report by July 1, 2027, outlining their efforts and progress on decreasing and deterring suicide attempts on authority bridges.",

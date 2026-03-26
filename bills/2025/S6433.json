@@ -1,11 +1,13 @@
 {
- "PrintNo":"S6433","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-13T14:09:52.959846Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
+ "PrintNo":"S6433","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-13T14:09:52.959846Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-26","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-03-13","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-03-26","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6433A","Date":"2026-03-26","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -26,5 +28,5 @@
  "Summary":"Provides that New York city correction officers may file for disability without ten years of service.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §507-a, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to disability retirement of certain New York city correction members",
- "PreviousVersions":["S6135-2017","S5852-2019","S6984-2021","S6559-2023"]
+ "SameAsPrintNo":"A6582-2025","PreviousVersions":["S6135-2017","S5852-2019","S6984-2021","S6559-2023"]
 }
