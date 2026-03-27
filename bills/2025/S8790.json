@@ -1,12 +1,12 @@
 {
  "PrintNo":"S8790","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T13:13:30.803988Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-12"},
   {"Type":"PASSED_SENATE","Date":"2026-01-20"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-20","Committee":"Veterans' Affairs"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-25"},{"Type":"PASSED_ASSEMBLY","Date":"2026-02-25"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2026-03-20"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-03-20"},{"Type":"SIGNED_BY_GOV","Date":"2026-03-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2026-01-08","Chamber":"SENATE"},
@@ -18,7 +18,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.87","Date":"2026-02-25","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-02-25","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-02-25","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-03-20","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-03-20","Chamber":"SENATE"},
+  {"Text":"SIGNED CHAP.92","Date":"2026-03-27","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9534","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-20T10:52:07.160485Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-20","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-20","Chamber":"SENATE"}],
+ "PrintNo":"S9534","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-20T10:52:07.160485Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-27","Committee":"Energy And Telecommunications"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-20","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9534A","Date":"2026-03-27","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
- "Title":"In relation to limiting rate increases that entail a return on equity for capital projects",
- "Summary":"Prohibits the public service commission from approving a rate increase that entails a return on equity for capital projects that is above the prevailing federal funds rate.",
+ "Title":"Relates to limiting rate increases that entail a return on equity for capital projects",
+ "Summary":"Prohibits the public service commission from approving a rate increase that entails a return on equity for capital projects that is above the prevailing ten-year treasury rate plus one percent.",
  "LawSection":"Public Service Law","LawCode":"Add §114-b, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to limiting rate increases that entail a return on equity for capital projects"
+ "ActClause":"AN ACT to amend the public service law, in relation to limiting rate increases that entail a return on equity for capital projects",
+ "SameAsPrintNo":"A9215-2025"
 }
