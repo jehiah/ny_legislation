@@ -1,14 +1,15 @@
 {
- "PrintNo":"A10160","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-12T13:53:34.254281Z",
- "Status":"ASSEMBLY_FLOOR",
+ "PrintNo":"A10160","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-12T13:53:34.254281Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-30"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-02-12","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.336","Date":"2026-03-26","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.336","Date":"2026-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 10160A","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -36,7 +37,7 @@
   {"ID":665,"Name":"Steven Otis","Short":"OTIS"}
  ],
  "Title":"Requires utilities accept public assistance payments",
- "Summary":"Requires utilities accept public assistance payments including payments from the home energy assistance program.",
+ "Summary":"Requires utilities accept public assistance payments including payments from the home energy assistance programs and emergency funding programs.",
  "LawSection":"Public Service Law","LawCode":"Amd §32, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to requiring public assistance payments for residential gas and electric service are accepted and credited by utilities",
  "SameAsPrintNo":"S9263-2025"

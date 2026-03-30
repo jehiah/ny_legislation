@@ -1,8 +1,13 @@
 {
- "PrintNo":"S8951","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-20T14:55:39.632786Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-20","Chamber":"SENATE"}],
+ "PrintNo":"S8951","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-20T14:55:39.632786Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-20","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8951A","Date":"2026-03-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
@@ -10,5 +15,6 @@
  ],
  "Title":"Prohibits cannabis inversion",
  "Summary":"Enacts the \"cannabis supply chain integrity and anti-inversion act\"; prohibits any act or omission involving illicit cannabis; provides penalties for such cannabis inversion; provides whistleblower protection for any employee or contractor who, in good faith, reported or attempted to report suspected prohibitions and restrictions to the office, the board or any law enforcement agency.",
- "LawSection":"Cannabis Law","LawCode":"Amd §136, add §§125-a & 138-c, Cannabis L"
+ "LawSection":"Cannabis Law","LawCode":"Amd §§136 & 138-a, add §§125-a & 138-c, Cannabis L",
+ "SameAsPrintNo":"A10698-2025"
 }

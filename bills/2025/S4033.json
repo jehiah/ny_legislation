@@ -1,7 +1,7 @@
 {
- "PrintNo":"S4033","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S4033","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-31T10:59:33.340573Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-10"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-30"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-31","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-14","Chamber":"SENATE"},
@@ -20,7 +20,8 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-20","Chamber":"SENATE","Version":"B"},
   {"Text":"1ST REPORT CAL.464","Date":"2026-03-05","Chamber":"SENATE","Version":"B"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-09","Chamber":"SENATE","Version":"B"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-10","Chamber":"SENATE","Version":"B"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-10","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 4033C","Date":"2026-03-30","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -182,5 +183,5 @@
  "Summary":"Provides for the disposition of certain fines and penalties; directs such fines to a conservation enforcement account in the state conservation fund.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd En Con L, generally; amd §83, St Fin L",
  "ActClause":"AN ACT to amend the environmental conservation law and the state finance law, in relation to the disposition of certain fees and penalties",
- "PreviousVersions":["S7086-2023"]
+ "SameAsPrintNo":"A3026-2025","PreviousVersions":["S7086-2023"]
 }

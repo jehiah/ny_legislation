@@ -1,7 +1,7 @@
 {
- "PrintNo":"S7408","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-15T13:50:56.57062Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S7408","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-15T13:50:56.57062Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-04-15","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1094","Date":"2025-05-13","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO HEALTH","Date":"2025-06-04","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7408A","Date":"2026-03-30","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -103,7 +105,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
+ "Sponsors":[
+  {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
+  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}
+ ],
  "Title":"Relates to requiring food service establishments to permit the use of reusable beverage and food containers provided by customers",
  "Summary":"Requires food service establishments to permit the use of reusable beverage and food containers provided by customers when requesting a beverage refill or requesting leftovers from a partially consumed meal to be packaged and post signs to inform customers that they are permitted to do so.",
  "LawSection":"Public Health Law","LawCode":"Add §1352-f, Pub Health L",

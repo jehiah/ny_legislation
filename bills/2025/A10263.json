@@ -1,14 +1,18 @@
 {
- "PrintNo":"A10263","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-12T14:38:33.68729Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Governmental Employees"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-02-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10263","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-12T14:38:33.68729Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-30","Committee":"Governmental Employees"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2026-03-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10263A","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"}
  ],
  "Title":"Establishes an optional twenty-five year retirement plan for certain employees of the New York Power Authority",
- "Summary":"Establishes an optional twenty-five year retirement plan for employees of the New York Power Authority with the job title of mechanic, technician, electrician, equipment operator, power plant operator, utility security officer, or lineperson who are a member of the public employee organization certified or recognized to represent employees of such authority.",
+ "Summary":"Establishes an optional twenty-five year retirement plan for employees of the New York Power Authority with the job title of mechanic, technician, electrician, equipment operator, power plant operator, utility security officer, or lineperson.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Add §89-z, amd §§445, 603, 503 & 604, R & SS L",
  "ActClause":"AN ACT to amend the retirement and social security law, in relation to establishing an optional twenty-five year retirement plan for certain employees of the New York Power Authority",
  "SameAsPrintNo":"S9068-2025","PreviousVersions":["A7975-2025"]

@@ -1,12 +1,18 @@
 {
  "PrintNo":"A10102","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-30T15:31:22.909974Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-12"}],
+ "Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-12"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-30"},{"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Judiciary"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2026-01-30","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-26","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-03-10","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.301","Date":"2026-03-12","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.301","Date":"2026-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-30","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-30","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-03-30","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,8 +1,9 @@
 {
  "PrintNo":"A4384","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-04T10:20:40.087565Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-02-04T10:20:40.087565Z","Status":"IN_SENATE_COMM","Committee":"Education",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-18","Committee":"Education"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-18","Committee":"Education"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-30"},{"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Education"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-02-04","Chamber":"ASSEMBLY"},
@@ -12,7 +13,10 @@
   {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 4384B","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED","Date":"2026-03-25","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"ADVANCED TO THIRD READING CAL.331","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ADVANCED TO THIRD READING CAL.331","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-03-30","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,16 +1,20 @@
 {
  "PrintNo":"A9333","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-12-10T10:03:42.005158Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Health",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-30"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Health"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-12-10","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-17","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-03-26","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.335","Date":"2026-03-26","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.335","Date":"2026-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-30","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-30","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-03-30","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -73,7 +77,8 @@
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},
-  {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":500,"Name":"William Colton","Short":"COLTON"}
+  {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
+  {"ID":1540,"Name":"Brian Maher","Short":"MAHER"}
  ],
  "Title":"Relates to authorizing body scanner utilization in certain facilities under the office of children and family services",
  "Summary":"Authorizes the use of body imaging scanning equipment in certain facilities for youth and adolescent offenders placed with or committed to the office of children and family services.",

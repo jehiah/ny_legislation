@@ -1,10 +1,12 @@
 {
- "PrintNo":"A4642","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-04T12:15:32.614674Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "PrintNo":"A4642","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-04T12:15:32.614674Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-30","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-04","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-03-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4642A","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
@@ -43,6 +45,6 @@
  "Title":"Requires certain state owned and operated parking facilities to install and maintain charging stations for plug-in electric vehicles",
  "Summary":"Requires certain state owned and operated parking facilities to install and maintain charging stations for plug-in electric vehicles.",
  "LawSection":"Executive Law","LawCode":"Add §201-b, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to requiring certain state owned and operated parking facilities to install and maintain charging stations for plug-in electric vehicles",
+ "ActClause":"AN ACT to amend the executive law, in relation to requiring certain state owned and operated parking facilities to install charging stations for electric vehicles",
  "PreviousVersions":["A10133-2013","A2109-2015","A87-2017","A33-2019","A346-2021","A4871-2023"]
 }

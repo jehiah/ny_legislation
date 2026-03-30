@@ -1,11 +1,15 @@
 {
- "PrintNo":"S9263","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-19T15:29:25.632801Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-19","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-02-19","Chamber":"SENATE"}],
+ "PrintNo":"S9263","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-02-19T15:29:25.632801Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Energy And Telecommunications"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-02-19","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9263A","Date":"2026-03-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
  "Title":"Requires utilities accept public assistance payments",
- "Summary":"Requires utilities accept public assistance payments including payments from the home energy assistance program.",
+ "Summary":"Requires utilities accept public assistance payments including payments from the home energy assistance programs and emergency funding programs.",
  "LawSection":"Public Service Law","LawCode":"Amd §32, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to requiring public assistance payments for residential gas and electric service are accepted and credited by utilities",
  "SameAsPrintNo":"A10160-2025"

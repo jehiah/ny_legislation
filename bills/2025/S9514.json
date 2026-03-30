@@ -1,11 +1,15 @@
 {
- "PrintNo":"S9514","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-19T09:53:48.745523Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2026-03-19","Chamber":"SENATE"}],
+ "PrintNo":"S9514","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-19T09:53:48.745523Z","Status":"IN_SENATE_COMM","Committee":"Banks",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Banks"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO BANKS","Date":"2026-03-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9514A","Date":"2026-03-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
- "Title":"Prohibits certain financial institutions from charging a fee for changing the frequency of mortgage payments",
- "Summary":"Prohibits certain financial institutions from charging a fee for changing the frequency of mortgage payments between monthly, semi-monthly, and biweekly payments.",
+ "Title":"Prohibits certain financial institutions from charging a fee based on the frequency of payments or for changing the frequency of mortgage payments",
+ "Summary":"Prohibits certain financial institutions from charging a fee for making monthly, semi-monthly, and biweekly payments or for changing the frequency of mortgage payments.",
  "LawSection":"Banking Law","LawCode":"Add §9-aa, Bank L",
- "ActClause":"AN ACT to amend the banking law, in relation to prohibiting certain financial institutions from charging a fee for changing the frequency of mortgage payments"
+ "ActClause":"AN ACT to amend the banking law, in relation to prohibiting certain financial institutions from charging fees based on the frequency of mortgage payments or changing such payment schedule"
 }

@@ -1,7 +1,10 @@
 {
  "PrintNo":"A8047","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-22T15:56:45.220809Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-23"}],
+ "Published":"2025-04-22T15:56:45.220809Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-23"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-30"},{"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Judiciary"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-22","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2025-04-25","Chamber":"ASSEMBLY"},
@@ -11,7 +14,10 @@
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING CAL.321","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 8047B","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 8047B","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-03-30","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

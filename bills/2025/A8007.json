@@ -1,10 +1,12 @@
 {
- "PrintNo":"A8007","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-21T12:48:02.417357Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A8007","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-21T12:48:02.417357Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-27","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-04-21","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8007A","Date":"2026-03-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},
@@ -15,7 +17,7 @@
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},
-  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}
+  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":500,"Name":"William Colton","Short":"COLTON"}
  ],
  "Title":"Relates to requiring food service establishments to permit the use of reusable beverage and food containers provided by customers",
  "Summary":"Requires food service establishments to permit the use of reusable beverage and food containers provided by customers when requesting a beverage refill or requesting leftovers from a partially consumed meal to be packaged and post signs to inform customers that they are permitted to do so.",

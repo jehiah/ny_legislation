@@ -1,15 +1,19 @@
 {
  "PrintNo":"A10542","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-11T10:20:44.000926Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Health",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-30"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Health"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-03-11","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-17","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-03-26","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.341","Date":"2026-03-26","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.341","Date":"2026-03-26","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-30","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-30","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-03-30","Chamber":"SENATE"}
  ],
  "Votes":[
   {
