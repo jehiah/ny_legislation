@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9401","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-10T11:30:10.2181Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-03-10","Chamber":"SENATE"}],
+ "PrintNo":"S9401","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-10T11:30:10.2181Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-03-10","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-31","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9401A","Date":"2026-03-31","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Requires the department of health to facilitate the exchange of data between the state prescription drug program and electronic health records",
  "Summary":"Directs the commissioner of health shall promulgate regulations allowing for any electronic health records integration vendor to obtain state approval to facilitate interoperability between the prescription monitoring program registry and certified electronic health records systems that can connect with any national data sharing hub.",
  "LawSection":"Public Health Law","LawCode":"Amd §3343-a, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to requiring the department of health to facilitate the exchange of data between the state prescription drug program and electronic health records"
+ "ActClause":"AN ACT to amend the public health law, in relation to requiring the department of health to facilitate the exchange of data between the state prescription drug program and electronic health records",
+ "SameAsPrintNo":"A8849-2025"
 }

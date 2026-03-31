@@ -1,9 +1,32 @@
 {
  "PrintNo":"S9325","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-02T14:03:03.747396Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-02","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-02","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-02","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-31"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-02","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.667","Date":"2026-03-31","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-31","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
+ ],
  "Title":"Establishes a real property tax exemption for surviving spouses of correction officers who died in the line of duty",
  "Summary":"Establishes a real property tax exemption of up to fifty percent of the assessed valuation of such real property for surviving spouses of state and county correction officers who died in the line of duty and such property constitutes the primary resident of such surviving spouse.",
  "LawSection":"Real Property Tax Law","LawCode":"Add §471-a, RPT L",

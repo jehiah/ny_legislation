@@ -1,10 +1,12 @@
 {
- "PrintNo":"A5743","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-20T11:23:43.540124Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"A5743","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-20T11:23:43.540124Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-31","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-20","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5743A","Date":"2026-03-31","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":900,"Name":"Erik Dilan","Short":"DILAN"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
@@ -17,5 +19,5 @@
  "Summary":"Imposes a tax on out-of-state transfers, dividends, payments, and loans by certain accident and health insurance companies and health maintenance organizations to be deposited in the New York state agency trust fund, distressed provider assistance account.",
  "LawSection":"Insurance Law","LawCode":"Add §9112, amd §§1109 & 9106, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to imposing a tax on out-of-state transfers, dividends, payments, and loans by certain accident and health insurance companies and health maintenance organizations",
- "PreviousVersions":["A9519-2021","A3885-2023"]
+ "SameAsPrintNo":"S3814-2025","PreviousVersions":["A9519-2021","A3885-2023"]
 }

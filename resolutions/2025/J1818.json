@@ -1,7 +1,11 @@
 {
  "PrintNo":"J1818","Session":2025,"Chamber":"SENATE","BillType":"Regular and Joint","Resolution":true,
- "Published":"2026-03-25T10:39:24.06789Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-03-25","Chamber":"SENATE"}],
+ "Published":"2026-03-25T10:39:24.06789Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2026-03-31"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-03-25","Chamber":"SENATE"},
+  {"Text":"REPORTED TO CALENDAR FOR CONSIDERATION","Date":"2026-03-31","Chamber":"SENATE"},
+  {"Text":"ADOPTED","Date":"2026-03-31","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"}],
  "Title":"Commemorating the 50th Anniversary of the Prisoners' Legal Services of New York",
  "LawSection":"Resolutions, Legislative"

@@ -1,9 +1,10 @@
 {
  "PrintNo":"A1388","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-09T12:27:09.737441Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-09T12:27:09.737441Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-09","Committee":"Environmental Conservation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-26"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-26"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-31"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -11,7 +12,10 @@
   {"Text":"ADVANCED TO THIRD READING CAL.86","Date":"2025-04-03","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED BY S3179","Date":"2025-04-07","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING CAL.50","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 1388A","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 1388A","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-31","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-31","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-31","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

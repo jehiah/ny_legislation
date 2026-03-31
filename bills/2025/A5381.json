@@ -1,14 +1,39 @@
 {
- "PrintNo":"A5381","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-13T15:43:18.34561Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Housing"}],
+ "PrintNo":"A5381","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-13T15:43:18.34561Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-31","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-02-13","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HOUSING","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HOUSING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HOUSING","Date":"2026-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5381A","Date":"2026-03-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-31","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-03-31","Chamber":"ASSEMBLY",
+   "Committee":"HOUSING",
+   "Votes":[
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1528,"Short":"CHANG","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},
+    {"ID":1461,"Short":"BROWN K","Vote":"Nay"},{"ID":0,"Short":"BROWN EA","Vote":"Nay"},
+    {"ID":1556,"Short":"NORBER","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1548,"Short":"TORRES","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}],
- "Title":"Requires annual audits of limited-profit housing companies",
- "Summary":"Requires annual audits of limited-profit housing companies to be made by the department of housing and community renewal, in conjunction with the New York city department of housing preservation and development.",
- "LawSection":"Private Housing Finance Law","LawCode":"Add §32-c, Priv Hous Fin L",
- "ActClause":"AN ACT to amend the private housing finance law, in relation to requiring annual audits of limited-profit housing companies"
+ "Title":"Expands documentation requirements for limited-profit housing companies",
+ "Summary":"Expands documentation requirements for limited-profit housing companies when providing information to the commissioner of housing of the state of New York and any relevant supervising agency.",
+ "LawSection":"Private Housing Finance Law","LawCode":"Amd §32-a, Priv Hous Fin L",
+ "ActClause":"AN ACT to amend the private housing finance law, in relation to annual audits of limited-profit housing companies"
 }

@@ -1,8 +1,12 @@
 {
  "PrintNo":"J1527","Session":2025,"Chamber":"SENATE","BillType":"Regular and Joint","Resolution":true,
- "Published":"2026-01-30T11:59:44.628232Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-01-30","Chamber":"SENATE"}],
- "Sponsors":[{"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"}],
+ "Published":"2026-01-30T11:59:44.628232Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2026-02-04"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-01-30","Chamber":"SENATE"},
+  {"Text":"REPORTED TO CALENDAR FOR CONSIDERATION","Date":"2026-02-04","Chamber":"SENATE"},
+  {"Text":"ADOPTED","Date":"2026-02-04","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":393,"Name":"Joseph A. Griffo","Short":"GRIFFO"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"}],
  "Title":"Memorializing Governor Kathy Hochul to proclaim April 2026, as Autism Acceptance Month in the State of New York",
  "LawSection":"Resolutions, Legislative"
 }

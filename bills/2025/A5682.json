@@ -1,13 +1,14 @@
 {
  "PrintNo":"A5682","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-19T10:40:46.107939Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-02-19","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-05","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.316","Date":"2026-03-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -103,7 +104,7 @@
  ],
  "Sponsors":[
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
-  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
  ],
  "Title":"Relates to the status of an interim multiple dwelling unit as a protected occupant's primary residence",
  "Summary":"Relates to the determination of the status of an interim multiple dwelling unit as a protected occupant's primary residence by the loft board or a court of competent jurisdiction, or by registration with the loft board; provides factors for consideration for such findings; restores certain landlord-tenant relationships severed prior to the effective date.",

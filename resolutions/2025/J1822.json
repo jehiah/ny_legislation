@@ -1,7 +1,11 @@
 {
  "PrintNo":"J1822","Session":2025,"Chamber":"SENATE","BillType":"Regular and Joint","Resolution":true,
- "Published":"2026-03-26T14:15:16.800161Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-03-26","Chamber":"SENATE"}],
+ "Published":"2026-03-26T14:15:16.800161Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2026-03-31"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-03-26","Chamber":"SENATE"},
+  {"Text":"REPORTED TO CALENDAR FOR CONSIDERATION","Date":"2026-03-31","Chamber":"SENATE"},
+  {"Text":"ADOPTED","Date":"2026-03-31","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER"}],
  "Title":"Honoring Paul Infanti upon the occasion of his designation for special recognition after 50 years of dedicated service to the North Bailey Fire Company",
  "LawSection":"Resolutions, Legislative"

@@ -1,14 +1,15 @@
 {
  "PrintNo":"S4872","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-13T15:01:59.916729Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1150","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-31","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -21,6 +22,18 @@
     {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
     {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
     {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-31","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"}
    ]
   }
  ],

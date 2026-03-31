@@ -1,7 +1,10 @@
 {
  "PrintNo":"A1067","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-08T10:34:05.4126Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-31"},{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Insurance"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-13","Chamber":"ASSEMBLY"},
@@ -9,7 +12,10 @@
   {"Text":"REPORTED","Date":"2025-06-06","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.414","Date":"2025-06-06","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.414","Date":"2025-06-06","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING CAL.39","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.39","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-03-31","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -123,7 +129,8 @@
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},
-  {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
+  {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
+  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
  ],
  "Title":"Relates to prohibiting the exclusion of coverage for losses or damages caused by exposure to lead-based paint",
  "Summary":"Relates to prohibiting the exclusion of coverage for losses or damages caused by exposure to lead-based paint; provides that no insurer licensed or permitted by the superintendent to provide liability coverage to rental property owners shall exclude coverage for losses or damages caused by exposure to lead-based paint.",

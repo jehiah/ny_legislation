@@ -1,8 +1,28 @@
 {
  "PrintNo":"S9351","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-04T09:18:20.949659Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-04","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-04","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-03-31"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.669","Date":"2026-03-31","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-31","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER"}],
  "Title":"Exempts the village of Williamsville fire department from the requirement that the percentage of non-resident fire department members not exceed forty-five percent of its membership",
  "Summary":"Exempts the village of Williamsville fire department, located in the village of Williamsville, county of Erie, from the requirement that the percentage of non-resident fire department members not exceed forty-five percent of its membership.",
