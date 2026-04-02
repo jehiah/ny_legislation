@@ -1,12 +1,14 @@
 {
- "PrintNo":"S4601","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-10T10:22:02.375837Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Finance"}],
+ "PrintNo":"S4601","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-10T10:22:02.375837Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-01","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-12","Chamber":"SENATE"},
   {"Text":"REFERRED TO BUDGET AND REVENUE","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-10","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-10","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-04-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4601A","Date":"2026-04-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -39,5 +41,5 @@
  "Summary":"Exempts basic school supplies from sales tax during the 15 day period prior to Labor day.",
  "LawSection":"Tax Law","LawCode":"Amd §§1115 & 1210, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to exempting school supplies from sales tax during a specified period each year",
- "PreviousVersions":["S4744-2023"]
+ "SameAsPrintNo":"A6876-2025","PreviousVersions":["S4744-2023"]
 }

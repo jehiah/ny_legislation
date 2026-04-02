@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9570","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-25T14:44:59.278395Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-25","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2026-03-25","Chamber":"SENATE"}],
+ "PrintNo":"S9570","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-25T14:44:59.278395Z","Status":"IN_SENATE_COMM","Committee":"Banks",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-01","Committee":"Banks"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2026-03-25","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-04-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9570A","Date":"2026-04-01","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Relates to the prohibition of lending institutions issuing unsolicited mail-loan checks",
- "Summary":"Relates to the prohibition of lending institutions issuing mail-loan checks except in response to a request or application therefor; provides that the attorney general shall have the authority to enforce such provision and to impose penalties for violations; provides a private right of action for a recipient of an unsolicited mail-loan check; provides that the issuance of an unsolicited mail-loan check shall constitute a deceptive act or practice.",
+ "Summary":"Relates to the prohibition of lending institutions issuing mail-loan checks except in response to an affirmative request or application therefor; provides that any debt, interest, fee or other obligation arising from a mail-loan check issued in violation of this section shall be null and void and unenforceable.",
  "LawSection":"Banking Law","LawCode":"Amd §9-t, Bank L",
- "ActClause":"AN ACT to amend the banking law, in relation to the prohibition of lending institutions issuing unsolicited mail-loan checks"
+ "ActClause":"AN ACT to amend the banking law, in relation to the prohibition of lending institutions issuing unsolicited mail-loan checks",
+ "SameAsPrintNo":"A9404-2025"
 }

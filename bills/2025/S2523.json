@@ -1,10 +1,16 @@
 {
- "PrintNo":"S2523","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T13:13:41.012215Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "PrintNo":"S2523","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-21T13:13:41.012215Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-01","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-21","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-04-01",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 2523A","Date":"2026-04-01","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
@@ -14,11 +20,11 @@
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
-  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"}
  ],
- "Title":"Establishes a jobs and housing pilot program to create jobs in the construction industry and address the housing crisis",
- "Summary":"Establishes a jobs and housing pilot program to create jobs in the construction industry and address the housing crisis by developing or redeveloping housing that is affordable to individuals earning up to one hundred thirty percent of the area median income, adjusted for family size.",
+ "Title":"Establishes the jobs and housing pilot program to create jobs in the construction industry and address the housing crisis",
+ "Summary":"Establishes the \"jobs and housing act\"; directs the private housing finance agency to develop and administer a jobs and housing pilot program to construct and preserve housing, including workforce housing, that is affordable to low and moderate income persons, and creates jobs for those who build and work in such housing.",
  "LawSection":"Private Housing Finance Law","LawCode":"Add Art 31-A §§1283 - 1286, Priv Hous Fin L",
  "ActClause":"AN ACT to amend the private housing finance law, in relation to establishing a jobs and housing pilot program to create jobs in the construction industry and address the housing crisis",
- "SameAsPrintNo":"A3996-2025","PreviousVersions":["S8993-2023"]
+ "PreviousVersions":["S8993-2023"]
 }

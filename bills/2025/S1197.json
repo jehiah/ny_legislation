@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1197","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T13:26:28.176425Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Disabilities"},{"Type":"SENATE_FLOOR","Date":"2026-03-31"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Disabilities"},{"Type":"SENATE_FLOOR","Date":"2026-04-01"}],
  "Actions":[
   {"Text":"REFERRED TO DISABILITIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO DISABILITIES","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.677","Date":"2026-03-31","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.677","Date":"2026-03-31","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-01","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -107,6 +108,18 @@
     {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-03-31","Chamber":"SENATE","Committee":"Disabilities",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
    ]
   }
  ],

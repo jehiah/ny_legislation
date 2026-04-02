@@ -1,18 +1,40 @@
 {
  "PrintNo":"A10137","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-05T12:39:46.530926Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Economic Development"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-12"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-12"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-01"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-01","Committee":"Consumer Protection"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-02-05","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-03-10","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.303","Date":"2026-03-12","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.303","Date":"2026-03-12","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-04-01","Chamber":"SENATE"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2026-03-10","Chamber":"ASSEMBLY","Committee":"ECONOMIC DEVELOPMENT",
+   "Votes":[
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},{"ID":1534,"Short":"ZACCARO","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-04-01","Chamber":"ASSEMBLY","Committee":"ECONOMIC DEVELOPMENT",
    "Votes":[
     {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
     {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
@@ -35,5 +57,5 @@
  "Summary":"Authorizes owners of mobile barber shops to obtain barber shop owner's licenses provided that they can furnish proof of title, possession, registration and driver's license authorizing operation of the vehicle to be used to operate the mobile barber shop and proof of proper layout, adequate equipment for the shop, sanitary conditions in the shop and good moral character.",
  "LawSection":"General Business Law","LawCode":"Amd §§430 & 438, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to authorizing owners of mobile barber shops to obtain barber shop owner's licenses",
- "PreviousVersions":["A7878-2021","A2785-2023"]
+ "SameAsPrintNo":"S7585-2025","PreviousVersions":["A7878-2021","A2785-2023"]
 }

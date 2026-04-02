@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10343","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-26T10:45:33.870882Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Labor"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Labor"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-02"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2026-02-26","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-31","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.344","Date":"2026-04-02","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -28,7 +29,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}],
+ "Sponsors":[{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"}],
  "Title":"Relates to fees and expenses in unemployment insurance proceedings; extending effectiveness",
  "Summary":"Extends provisions of law providing for certain fees and expenses in unemployment insurance proceedings to December 31, 2028.",
  "LawSection":"Labor","LawCode":"Amd §3, Chap 831 of 1981",

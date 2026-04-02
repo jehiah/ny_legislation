@@ -1,10 +1,9 @@
 {
- "PrintNo":"S4408","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T14:37:08.932847Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "PrintNo":"S4408","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-04T14:37:08.932847Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-09"},{"Type":"PASSED_SENATE","Date":"2026-02-26"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Environmental Conservation"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-04","Chamber":"SENATE"},
@@ -22,7 +21,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-02-26","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-26","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-26","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-04-01","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-04-01","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 4408A","Date":"2026-04-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -210,9 +213,9 @@
   }
  ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
- "Title":"Relates to agreements related to renewable energy development rights on reforestation areas",
- "Summary":"Relates to agreements, such as leases or easements, related to renewable energy development rights on reforestation areas.",
+ "Title":"Relates to agreements and easements related to renewable energy interconnection across reforestation areas",
+ "Summary":"Authorizes the department of environmental conservation to enter into agreements or easements for the sole purpose of interconnection of renewable energy installations across reforestation areas where such installations are located outside such reforestation areas; provides that such agreements or easements shall not interfere with the operation of such reforestation areas for the purposes for which they were acquired.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §9-0508, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to agreements related to renewable energy development rights on reforestation areas",
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to agreements and easements related to renewable energy interconnection across reforestation areas",
  "SameAsPrintNo":"A10483-2025","PreviousVersions":["S6775-2019","S659-2021","S1918-2023"]
 }

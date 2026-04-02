@@ -1,7 +1,10 @@
 {
  "PrintNo":"K1122","Session":2025,"Chamber":"ASSEMBLY","BillType":"Regular","Resolution":true,
- "Published":"2026-03-31T15:00:22.249496Z","Status":"IN_ASSEMBLY_COMM","Committee":"Calendar",
- "Actions":[{"Text":"REFERRED TO CALENDAR","Date":"2026-03-31","Chamber":"ASSEMBLY"}],
+ "Published":"2026-03-31T15:00:22.249496Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2026-04-01"}],
+ "Actions":[
+  {"Text":"REFERRED TO CALENDAR","Date":"2026-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"ADOPTED","Date":"2026-04-01","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},
   {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":631,"Name":"Kenneth Blankenbush","Short":"BLANKENBUSH"},
@@ -18,9 +21,10 @@
   {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":608,"Name":"Edward Ra","Short":"RA"},
-  {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"},
-  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},
-  {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"}
+  {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"},{"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},
+  {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
+  {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"}
  ],
  "Title":"Memorializing Governor Kathy Hochul to proclaim April 2026 as the Month of the Military Child in the State of New York",
  "LawSection":"Resolutions, Legislative"

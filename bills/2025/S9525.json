@@ -1,11 +1,15 @@
 {
- "PrintNo":"S9525","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-19T10:54:44.772705Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-03-19","Chamber":"SENATE"}],
+ "PrintNo":"S9525","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-19T10:54:44.772705Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-01","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-04-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9525A","Date":"2026-04-01","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}],
  "Title":"Designates Marathon Sunday as a day of commemoration",
- "Summary":"Designates the first Sunday in November as a day of commemoration to be known as \"Marathon Day\".",
+ "Summary":"Designates the first Sunday in November as a day of commemoration to be known as \"New York City Marathon Day\".",
  "LawSection":"Executive Law","LawCode":"Amd §168-a, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to the designation of Marathon Sunday as a day of commemoration"
 }

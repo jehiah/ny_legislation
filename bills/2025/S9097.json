@@ -1,8 +1,28 @@
 {
  "PrintNo":"S9097","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-03T11:22:23.080256Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Internet And Technology"}],
- "Actions":[{"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-02-03","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Internet And Technology"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-01"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.685","Date":"2026-04-01","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-01","Chamber":"SENATE","Committee":"Internet And Technology",
+   "Votes":[
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
+    {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Relates to content bans and retention of records by online dating services",
  "Summary":"Relates to bans from online dating services based on content; requires retention of records where necessary to maintain enforcement of fraud bans or content bans; makes related provisions.",

@@ -1,10 +1,14 @@
 {
  "PrintNo":"A10703","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-20T15:51:42.044393Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Agriculture"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Agriculture"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-02"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-03-20","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-31","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.345","Date":"2026-04-02","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
