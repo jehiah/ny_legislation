@@ -1,12 +1,14 @@
 {
- "PrintNo":"S1640","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S1640","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-13T09:41:54.515525Z","Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO CODES","Date":"2025-05-01","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 1640A","Date":"2025-05-01","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-04-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 1640B","Date":"2026-04-06","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
@@ -16,5 +18,5 @@
  "Summary":"Provides for the admissibility of a complainant's outcry and disclosures in cases of sexual abuse regardless of when the disclosure was made relative to the abuse.",
  "LawSection":"Criminal Procedure Law","LawCode":"Add §60.41, CP L",
  "ActClause":"AN ACT to amend the criminal procedure law, in relation to admissibility of a complainant's outcry and disclosures in cases of sexual abuse",
- "PreviousVersions":["S7247-2019","S745-2021","S4424-2023"]
+ "SameAsPrintNo":"A8691-2025","PreviousVersions":["S7247-2019","S745-2021","S4424-2023"]
 }
