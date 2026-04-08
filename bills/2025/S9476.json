@@ -1,8 +1,12 @@
 {
- "PrintNo":"S9476","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-16T15:40:47.661455Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-16","Committee":"Civil Service And Pensions"}],
- "Actions":[{"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-03-16","Chamber":"SENATE"}],
+ "PrintNo":"S9476","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-16T15:40:47.661455Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-07","Committee":"Civil Service And Pensions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-03-16","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-04-07","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9476A","Date":"2026-04-07","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
@@ -16,5 +20,6 @@
  "Title":"Relates to service rendered by police officers in the agency police services unit",
  "Summary":"Relates to service rendered by police officers in the agency police services unit.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §381-b, R & SS L",
- "ActClause":"AN ACT to amend the retirement and social security law, in relation to service rendered by police officers in the agency police services unit"
+ "ActClause":"AN ACT to amend the retirement and social security law, in relation to service rendered by police officers in the agency police services unit",
+ "SameAsPrintNo":"A10787-2025"
 }

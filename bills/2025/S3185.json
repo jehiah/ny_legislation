@@ -1,11 +1,13 @@
 {
- "PrintNo":"S3185","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T09:49:07.277373Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"S3185","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T09:49:07.277373Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-07","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-05","Chamber":"SENATE"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2026-04-07","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3185A","Date":"2026-04-07","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -26,9 +28,9 @@
   }
  ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
- "Title":"Provides insurance coverage for chronic pain",
- "Summary":"Provides outpatient insurance coverage for non-opioid treatment of chronic pain including complementary and integrative treatments.",
+ "Title":"Provides outpatient insurance coverage for non-pharmacological treatments and non-opioid drugs for chronic pain",
+ "Summary":"Provides outpatient insurance coverage for non-pharmacological treatments and non-opioid drugs for chronic pain.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to providing insurance coverage for chronic pain",
- "PreviousVersions":["S9192-2023"]
+ "ActClause":"AN ACT to amend the insurance law, in relation to providing insurance coverage for non-pharmacological treatments and non-opioid drugs for chronic pain",
+ "SameAsPrintNo":"A1921-2025","PreviousVersions":["S9192-2023"]
 }

@@ -1,11 +1,15 @@
 {
- "PrintNo":"A10521","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T10:14:48.677967Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-06","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-03-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10521","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-06T10:14:48.677967Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-07","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-04-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10521A","Date":"2026-04-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}],
  "Title":"Adds CLN2, MPS IVA, MPS VI, MPS VII and Fabry diseases to the newborn screening panel for New York state",
- "Summary":"Adds CLN2, MPS IVA, MPS VI, MPS VII and Fabry diseases to the newborn screening panel for New York state.",
+ "Summary":"Adds CLN2, MPS IVA, MPS VI, MPS VII and Fabry diseases to the newborn screening panel for New York state; requires tests be made available within twelve months.",
  "LawSection":"Public Health Law","LawCode":"Amd §2500-a, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to newborn screening for CLN2, MPS IVA, MPS VI, MPS VII and Fabry diseases"
 }

@@ -1,10 +1,12 @@
 {
- "PrintNo":"A8933","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-07-16T09:44:27.812432Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "PrintNo":"A8933","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-07-16T09:44:27.812432Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-07","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-07-16","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-04-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8933A","Date":"2026-04-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
@@ -22,5 +24,5 @@
  "Summary":"Relates to reporting requirements on small nonprofits which lobby before the government.",
  "LawSection":"Legislative Law","LawCode":"Amd §§1-e, 1-h & 1-j, Leg L",
  "ActClause":"AN ACT to amend the legislative law, in relation to relieving reporting requirements on small nonprofits",
- "PreviousVersions":["A6943-2021","A5100-2023"]
+ "SameAsPrintNo":"S2224-2025","PreviousVersions":["A6943-2021","A5100-2023"]
 }

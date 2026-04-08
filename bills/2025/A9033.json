@@ -1,17 +1,20 @@
 {
- "PrintNo":"A9033","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-09-05T10:27:49.955519Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
+ "PrintNo":"A9033","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-09-05T10:27:49.955519Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-07","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-09-05","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-04-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9033A","Date":"2026-04-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
-  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1548,"Name":"Emerita Torres","Short":"TORRES"}
  ],
  "Title":"Enacts the \"extreme weather tenant protection act\"",
  "Summary":"Provides for a moratorium on evictions during extreme weather conditions, and the 72-hour period following such conditions.",
  "LawSection":"Real Property Actions and Proceedings Law","LawCode":"Add §753-a, RPAP L",
- "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to enacting the \"extreme weather tenant protection act\""
+ "ActClause":"AN ACT to amend the real property actions and proceedings law, in relation to enacting the \"extreme weather tenant protection act\"",
+ "SameAsPrintNo":"S8960-2025"
 }

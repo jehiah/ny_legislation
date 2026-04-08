@@ -9,7 +9,33 @@
   {"Text":"PRINT NUMBER 9000A","Date":"2026-01-28","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-02-11","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-02-11","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1462,"Short":"MEEKS","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Absent"},{"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
+  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}
+ ],
  "Title":"Directs the department of health to create an informational pamphlet concerning perimenopause and menopause",
  "Summary":"Directs the department of health to develop an informational pamphlet concerning perimenopause and menopause, which shall include information concerning the stages of perimenopause and menopause, the signs and side effects, and options for the management and treatment; requires that such informational pamphlet be made available on the department's website and available for order as a printed deliverable; requires practitioners to make such informational pamphlet available to patients.",
  "LawSection":"Public Health Law","LawCode":"Add §267-c, Pub Health L",
