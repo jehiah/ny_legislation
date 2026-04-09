@@ -1,8 +1,12 @@
 {
- "PrintNo":"S9479","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-17T13:00:45.292989Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-17","Chamber":"SENATE"}],
+ "PrintNo":"S9479","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-17T13:00:45.292989Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-09","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-17","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-09","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9479A","Date":"2026-04-09","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to the definition of tidal wetlands",
  "Summary":"Specifies the marine and coastal district as part of the definition of tidal wetlands.",
