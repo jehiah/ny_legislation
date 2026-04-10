@@ -1,7 +1,7 @@
 {
- "PrintNo":"S2633","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-22T10:08:06.598173Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S2633","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-22T10:08:06.598173Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-10","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.354","Date":"2025-02-12","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-26","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-04-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2633A","Date":"2026-04-10","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -108,7 +110,7 @@
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to the impact of hospital closures on healthcare access in the state",
- "Summary":"Direct the department of health to complete a report of the impact of hospital closures on healthcare access in the state.",
+ "Summary":"Directs the department of health to complete a report of the impact of hospital closures on healthcare access in the state.",
  "LawSection":"Public Health",
  "ActClause":"AN ACT to direct the department of health to complete a report on the impact of hospital closures on healthcare access in New York state",
  "PreviousVersions":["S8907-2023"]
