@@ -1,9 +1,9 @@
 {
- "PrintNo":"S6390","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-13T10:04:36.697694Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S6390","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-13T10:04:36.697694Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-26"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-03-13","Chamber":"SENATE"},
@@ -17,7 +17,9 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.425","Date":"2026-02-25","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 6390A","Date":"2026-04-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -118,8 +120,8 @@
   {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Requires the commissioner of corrections and community supervision to make facility water testing results accessible to the public, incarcerated individuals and correctional facility staff",
- "Summary":"Requires the commissioner of corrections and community supervision to make correctional facility water testing results accessible directly to incarcerated individuals and correctional facility staff in such facilities and make such water testing results available to the public on the website of the department.",
+ "Summary":"Requires the commissioner of corrections and community supervision to make correctional facility water testing results accessible directly, upon request, to incarcerated individuals and correctional facility staff in such facilities and make such water testing results available to the public on the website of the department.",
  "LawSection":"Correction Law","LawCode":"Amd §112, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to requiring the commissioner of corrections and community supervision to make facility water testing results accessible to the public, incarcerated individuals and correctional facility staff",
- "PreviousVersions":["S7937-2023"]
+ "SameAsPrintNo":"A6666-2025","PreviousVersions":["S7937-2023"]
 }

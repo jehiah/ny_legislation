@@ -1,5 +1,5 @@
 {
- "PrintNo":"S3737","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S3737","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-29T14:40:11.783199Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-13","Committee":"Judiciary"}],
  "Actions":[
@@ -7,7 +7,9 @@
   {"Text":"REPORTED AND COMMITTED TO CODES","Date":"2025-04-07","Chamber":"SENATE"},
   {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-04-13","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 3737A","Date":"2026-04-13","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 3737A","Date":"2026-04-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-04-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 3737B","Date":"2026-04-13","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -39,5 +41,5 @@
  "Summary":"Relates to preventing fraudulent deed transfers; protects home owners from being misled into transferring their home to mortgage servicers.",
  "LawSection":"Real Property Law","LawCode":"Amd §333, RP L; amd §§6-n & 14, Bank L",
  "ActClause":"AN ACT to amend the real property law and the banking law, in relation to preventing fraudulent deed transfers",
- "PreviousVersions":["S7720-2019","S1569-2021","S2948-2023"]
+ "SameAsPrintNo":"A7708-2025","PreviousVersions":["S7720-2019","S1569-2021","S2948-2023"]
 }

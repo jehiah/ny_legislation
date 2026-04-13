@@ -1,7 +1,7 @@
 {
- "PrintNo":"S4470","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S4470","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-02-05T14:41:51.898561Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-04-07"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-04-13"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-05","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
@@ -26,7 +26,8 @@
   {"Text":"RECOMMITTED TO CODES","Date":"2026-04-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-04-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-04-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 4470B","Date":"2026-04-07","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 4470B","Date":"2026-04-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING (T) 4470C","Date":"2026-04-13","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -211,9 +212,9 @@
   }
  ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}],
- "Title":"Enacts \"DJ's law\" requiring training for police officers on discharging a firearm at a moving vehicle",
+ "Title":"Establishes \"DJ's law\" requiring training for police officers on discharging a firearm at a moving vehicle",
  "Summary":"Enacts \"DJ's law\" which requires training for police officers on discharging a firearm at a moving vehicle; requires the municipal police training council to develop and disseminate written policies and procedures regarding such force.",
  "LawSection":"Executive Law","LawCode":"Amd §840, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to requiring training for police officers on discharging a firearm at a moving vehicle",
- "PreviousVersions":["S9588-2023"]
+ "ActClause":"AN ACT to amend the executive law, in relation to establishing \"DJ's Law\", requiring training for police officers on discharging a firearm at a moving vehicle",
+ "SameAsPrintNo":"A8451-2025","PreviousVersions":["S9588-2023"]
 }
