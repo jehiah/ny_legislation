@@ -1,12 +1,14 @@
 {
- "PrintNo":"S7159","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-03T10:04:50.78643Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"}],
+ "PrintNo":"S7159","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-03T10:04:50.78643Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-15","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-04-03","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-28","Chamber":"SENATE"},
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-04","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-04","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-04-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7159A","Date":"2026-04-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -48,5 +50,5 @@
  "Summary":"Provides for compensation for required code enforcement personnel training at a rate set by the secretary of state.",
  "LawSection":"Executive Law","LawCode":"Amd §376-a, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to compensation for required code enforcement personnel training",
- "SameAsPrintNo":"A1785-2025","PreviousVersions":["S4562-2023"]
+ "PreviousVersions":["S4562-2023"]
 }

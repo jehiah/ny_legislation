@@ -1,14 +1,16 @@
 {
- "PrintNo":"S8641","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T09:34:28.786709Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S8641","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-07T09:34:28.786709Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Internet And Technology"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-07"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.684","Date":"2026-04-01","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-04-07","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-07","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-13","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 8641A","Date":"2026-04-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,6 +29,6 @@
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Provides website and mobile application users the right to refuse non-essential cookies",
  "Summary":"Provides website and mobile application users the right to refuse non-essential cookies; prevents operators from making additional requests for the use of non-essential cookies.",
- "LawSection":"General Business Law","LawCode":"Add Art 39-FFF §§899-ss - 890-uu, Gen Bus L",
+ "LawSection":"General Business Law","LawCode":"Add Art 39-FFF §§899-ss - 899-uu, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to providing website and mobile application users the right to refuse non-essential cookies"
 }

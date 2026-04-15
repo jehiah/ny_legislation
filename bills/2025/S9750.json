@@ -3,7 +3,10 @@
  "Status":"IN_SENATE_COMM","Committee":"Transportation",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Transportation"}],
  "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-02","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
+ "Sponsors":[
+  {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
+  {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
+ ],
  "Title":"Enables safe access to public roads for all users by utilizing complete street design principles",
  "Summary":"Enables safe access to public roads for all users by utilizing complete street design principles.",
  "LawSection":"Highway Law","LawCode":"Amd §331, Hway L",
