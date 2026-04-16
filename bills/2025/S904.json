@@ -1,9 +1,10 @@
 {
  "PrintNo":"S904","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-06T15:15:38.00798Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-06T15:15:38.00798Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_SENATE","Date":"2026-04-15"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_SENATE","Date":"2026-04-15"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-08","Chamber":"SENATE"},
@@ -32,7 +33,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-03-25","Chamber":"SENATE","Version":"B"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-04-15","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-15","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-15","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-04-16","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

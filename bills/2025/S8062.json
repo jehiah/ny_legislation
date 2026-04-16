@@ -1,9 +1,11 @@
 {
  "PrintNo":"S8062","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T17:29:02.151911Z","Status":"PASSED_SENATE",
+ "Published":"2025-05-15T17:29:02.151911Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-26"},{"Type":"PASSED_SENATE","Date":"2026-04-15"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-26"},{"Type":"PASSED_SENATE","Date":"2026-04-15"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Corporations, Authorities And Commissions"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-15","Chamber":"SENATE"},
@@ -20,7 +22,11 @@
   {"Text":"AMENDED 8062A","Date":"2026-02-26","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-26","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-04-15","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-15","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-15","Chamber":"SENATE","Version":"A"},
+  {
+   "Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-04-16","Chamber":"ASSEMBLY",
+   "Version":"A"
+  }
  ],
  "Votes":[
   {

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S8908","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-14T13:21:06.308039Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-14","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_SENATE","Date":"2026-04-15"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_SENATE","Date":"2026-04-15"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Corporations, Authorities And Commissions"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-14","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-03-25","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-04-15","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-15","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-15","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-04-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

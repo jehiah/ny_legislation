@@ -1,9 +1,10 @@
 {
  "PrintNo":"S2011","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T15:15:50.386568Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-04-07","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-04-07"},
-  {"Type":"PASSED_SENATE","Date":"2026-04-15"}
+  {"Type":"PASSED_SENATE","Date":"2026-04-15"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-14","Chamber":"SENATE"},
@@ -23,7 +24,8 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-04-07","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.687","Date":"2026-04-07","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-04-15","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-15","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-15","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-04-16","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,10 +1,9 @@
 {
- "PrintNo":"S5265","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-20T11:18:38.45225Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
+ "PrintNo":"S5265","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-20T11:18:38.45225Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-04"},{"Type":"PASSED_SENATE","Date":"2026-03-17"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Correction"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-20","Chamber":"SENATE"},
@@ -22,7 +21,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-03-17","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-17","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-03-17","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-04-16","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-04-16","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-04-16","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 5265A","Date":"2026-04-16","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,12 +1,16 @@
 {
- "PrintNo":"A10030","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-30T13:42:56.183402Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-09","Committee":"Insurance"}],
+ "PrintNo":"A10030","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-30T13:42:56.183402Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-09","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-16"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-03-09","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10030A","Date":"2026-03-09","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.325","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 10030B","Date":"2026-04-16","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -33,5 +37,5 @@
  "Summary":"Requires health insurers to provide coverage for speech therapy for stuttering.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to requiring health insurers to provide coverage for speech therapy for stuttering",
- "SameAsPrintNo":"S8969-2025","PreviousVersions":["A7321-2025"]
+ "PreviousVersions":["A7321-2025"]
 }
