@@ -1,7 +1,7 @@
 {
- "PrintNo":"S7817","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T11:13:00.40603Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Civil Service And Pensions"}],
+ "PrintNo":"S7817","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-09T11:13:00.40603Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-16","Committee":"Civil Service And Pensions"}],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-09","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-04-16","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7817A","Date":"2026-04-16","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -114,6 +116,5 @@
  "Summary":"Authorizes Janice Middlebrooks, the widow of William James Middlebrooks, to file a retirement option election on behalf of her deceased husband.",
  "LawSection":"Retirement",
  "ActClause":"AN ACT to authorize the widow of William James Middlebrooks to file a retirement option election form",
- "SameAsPrintNo":"A7824-2025",
  "PreviousVersions":["S5072-2009","S3230-2011","S1865-2013","S3527-2015","S4752-2017","S3759-2019","S4860-2021","S5633-2023"]
 }
