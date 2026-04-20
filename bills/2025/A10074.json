@@ -1,18 +1,22 @@
 {
- "PrintNo":"A10074","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-30T14:02:28.166391Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10074","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-30T14:02:28.166391Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-14","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10074A","Date":"2026-04-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
   {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
-  {"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"}
+  {"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"},{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"}
  ],
  "Title":"Prohibits the use of the pesticide paraquat",
- "Summary":"Prohibits the use of any pesticide product containing paraquat dichloride or any other chemical form of paraquat.",
+ "Summary":"Prohibits the distribution, sale, offer for sale, and use of any pesticide product containing paraquat dichloride or any other chemical form of paraquat.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §33-1301, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the use of the pesticide paraquat",
  "SameAsPrintNo":"S9094-2025"

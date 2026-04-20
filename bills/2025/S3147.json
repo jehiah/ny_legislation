@@ -1,7 +1,10 @@
 {
  "PrintNo":"S3147","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T16:02:21.82949Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-03-11"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-03-11"},
+  {"Type":"PASSED_SENATE","Date":"2026-04-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-23","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.417","Date":"2025-03-03","Chamber":"SENATE"},
@@ -15,7 +18,9 @@
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.485","Date":"2026-03-09","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-10","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-11","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-11","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-20","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,9 +1,9 @@
 {
  "PrintNo":"S2224","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-16T09:16:18.130329Z","Status":"SENATE_FLOOR",
+ "Published":"2025-01-16T09:16:18.130329Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Ethics And Internal Governance"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-30"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-30"},{"Type":"PASSED_SENATE","Date":"2026-04-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2025-01-16","Chamber":"SENATE"},
@@ -21,7 +21,9 @@
   {"Text":"1ST REPORT CAL.450","Date":"2026-03-04","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-05","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 2224B","Date":"2026-03-30","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 2224B","Date":"2026-03-30","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2026-04-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-20","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

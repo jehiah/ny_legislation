@@ -1,9 +1,9 @@
 {
- "PrintNo":"S363","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S363","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2024-12-30T10:28:40.701899Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-26"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-08","Chamber":"SENATE"},
@@ -18,7 +18,9 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.410","Date":"2026-02-25","Chamber":"SENATE","Version":"A"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 363B","Date":"2026-04-20","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -125,8 +127,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Establishes the \"New York junk fee prevention act\"",
- "Summary":"Establishes the \"New York junk fee prevention act\"; requires clear and conspicuous pricing practices regarding trash junk fees.",
- "LawSection":"General Business Law","LawCode":"Add §396-yy, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to clear and conspicuous pricing practices regarding mandatory junk fees",
- "SameAsPrintNo":"A9604-2025","PreviousVersions":["S7783-2023"]
+ "Summary":"Establishes the \"New York junk fee prevention act\"; requires clear and conspicuous pricing practices regarding junk fees.",
+ "LawSection":"General Business Law","LawCode":"Add Art 22-C §§350-j - 350-m, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to clear and conspicuous pricing practices regarding junk fees",
+ "PreviousVersions":["S7783-2023"]
 }

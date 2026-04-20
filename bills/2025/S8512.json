@@ -1,7 +1,7 @@
 {
  "PrintNo":"S8512","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-09-24T09:02:09.177063Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-20","Committee":"Energy And Telecommunications"}],
+ "Published":"2025-09-24T09:02:09.177063Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-04-20"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-09-24","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO RULES","Date":"2025-12-10","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
    "Text":"AMEND (T) AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-20","Chamber":"SENATE",
    "Version":"A"
   },
-  {"Text":"PRINT NUMBER 8512B","Date":"2026-03-20","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 8512B","Date":"2026-03-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-04-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.698","Date":"2026-04-20","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},

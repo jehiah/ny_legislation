@@ -1,8 +1,12 @@
 {
  "PrintNo":"S9963","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-19T18:02:27.607772Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-19","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2026-04-19","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-19","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-04-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2026-04-19","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.699","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED BY A11010","Date":"2026-04-20","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}],
  "Title":"Provides for emergency appropriation for the period April 1, 2026 through April 22, 2026",
  "Summary":"Provides for emergency appropriation through April 22, 2026 for the support of government.",

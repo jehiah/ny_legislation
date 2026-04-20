@@ -1,14 +1,18 @@
 {
- "PrintNo":"S9094","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-03T11:21:28.946764Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-03","Chamber":"SENATE"}],
+ "PrintNo":"S9094","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-02-03T11:21:28.946764Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9094A","Date":"2026-04-20","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"},
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}
  ],
  "Title":"Prohibits the use of the pesticide paraquat",
- "Summary":"Prohibits the use of any pesticide product containing paraquat dichloride or any other chemical form of paraquat.",
+ "Summary":"Prohibits the distribution, sale, offer for sale, and use of any pesticide product containing paraquat dichloride or any other chemical form of paraquat.",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd §33-1301, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the use of the pesticide paraquat",
  "SameAsPrintNo":"A10074-2025"

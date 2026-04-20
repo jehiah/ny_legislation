@@ -1,11 +1,16 @@
 {
  "PrintNo":"A10342","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-25T17:45:01.417382Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-25","Committee":"Labor"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-02"}],
+ "Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-25","Committee":"Labor"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-02"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-04-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2026-02-25","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-03-31","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.343","Date":"2026-04-02","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.343","Date":"2026-04-02","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-20","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-04-20","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
