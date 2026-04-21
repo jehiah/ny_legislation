@@ -1,10 +1,11 @@
 {
  "PrintNo":"A1396","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T12:38:20.466163Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-01-12"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-12","Committee":"Civil Service And Pensions"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-12","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"},{"Type":"PASSED_SENATE","Date":"2026-04-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -21,7 +22,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.51","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-01-12","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-01-12","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-12","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-01-12","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S4773","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.467","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-21","Chamber":"SENATE"}
  ],
  "Votes":[
   {

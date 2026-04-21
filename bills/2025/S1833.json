@@ -1,7 +1,10 @@
 {
  "PrintNo":"S1833","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-14T09:27:47.7924Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-24","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"}],
+ "Published":"2025-01-14T09:27:47.7924Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-24","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"},
+  {"Type":"PASSED_SENATE","Date":"2026-04-21"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-11","Chamber":"SENATE"},
@@ -18,7 +21,9 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-24","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.594","Date":"2026-03-24","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-25","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-04-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

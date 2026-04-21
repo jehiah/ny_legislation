@@ -1,7 +1,10 @@
 {
  "PrintNo":"S6765","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-24T10:36:12.892789Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"}],
+ "Published":"2025-03-24T10:36:12.892789Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"},
+  {"Type":"PASSED_SENATE","Date":"2026-04-21"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-03-24","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-02","Chamber":"SENATE"},
@@ -11,7 +14,9 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-10","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.603","Date":"2026-03-24","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-25","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-04-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -80,5 +85,5 @@
  "LawSection":"Environmental Conservation Law",
  "LawCode":"Amd Art 27 Title 29 §§27-2901 - 27-2913, En Con L; add §92-kk, St Fin L; amd §4, Chap 550 of 2013",
  "ActClause":"AN ACT to amend the environmental conservation law and the state finance law, in relation to the proper collection and disposal of mercury thermostats; and to amend chapter 550 of the laws of 2013, amending the environmental conservation law relating to establishing the mercury thermostat collection act, in relation to the effectiveness thereof",
- "PreviousVersions":["S8936-2023"]
+ "SameAsPrintNo":"A7166-2025","PreviousVersions":["S8936-2023"]
 }

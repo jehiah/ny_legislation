@@ -1,9 +1,9 @@
 {
  "PrintNo":"S1668","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T10:24:10.637759Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-26"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_SENATE","Date":"2026-04-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-13","Chamber":"SENATE"},
@@ -18,7 +18,9 @@
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.630","Date":"2026-03-24","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-25","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-21","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -120,7 +122,7 @@
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to authorizing the New York state energy research and development authority to administer a program to provide grants related to enabling switching residences to electric heat pumps",
  "Summary":"Authorizes the New York state energy research and development authority to administer a program to provide grants or loans for the costs related to enabling switching residences with propane or fuel-oil heating systems to efficient electric heat pumps.",
