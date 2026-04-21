@@ -9,7 +9,25 @@
   {"Text":"PRINT NUMBER 8057A","Date":"2026-02-17","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-02-25","Chamber":"ASSEMBLY",
+   "Committee":"VETERANS' AFFAIRS",
+   "Votes":[
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1573,"Short":"CASHMAN","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Nay"},{"ID":1248,"Short":"SMULLEN","Vote":"Nay"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"}],
  "Title":"Establishes a lesbian, gay, bisexual, and transgender veterans coordinator",
  "Summary":"Establishes a lesbian, gay, bisexual, and transgender veterans coordinator in order to support the unique needs of, advocate for, and celebrate the service of such veterans.",
  "LawSection":"Veterans' Service Law","LawCode":"Amd §4, add §19-a, Veterans' Services L",

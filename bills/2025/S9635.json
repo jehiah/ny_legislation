@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9635","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-31T09:21:37.101021Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-31","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-31","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.740","Date":"2026-04-21","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Prohibits the use of drilling fluids, brine and flowback water from gas or oil wells, pools, or fields on any highway",
  "Summary":"Prohibits the use of drilling fluids, brine and flowback water from gas or oil wells, pools, or fields on any highway for any purpose including but not limited to de-icing or dust suppression.",

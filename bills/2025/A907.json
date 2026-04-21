@@ -1,15 +1,32 @@
 {
- "PrintNo":"A907","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T12:43:03.23502Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "PrintNo":"A907","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T12:43:03.23502Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-04","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 907A","Date":"2026-03-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-21","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"}],
  "Title":"Relates to automatic license plate readers",
  "Summary":"Relates to automatic license plate readers (ALPRs) and mandatory postings of policies and annual reporting requirements.",
- "LawSection":"Executive Law","LawCode":"Amd §840, add §837-y, Exec L",
+ "LawSection":"Executive Law","LawCode":"Amd §840, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to the use of automatic license plate reader systems",
  "PreviousVersions":["S7245-2015","S23-2017","A7254-2019","A940-2021","A4157-2023"]
 }

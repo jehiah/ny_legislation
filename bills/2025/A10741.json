@@ -1,9 +1,30 @@
 {
  "PrintNo":"A10741","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-27T14:30:30.861159Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-27","Committee":"Governmental Operations"}],
- "Actions":[{"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-03-27","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-21","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-04-21","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"},
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"}
+ ],
  "Title":"Relates to contracts between state agencies and not-for-profit organizations",
  "Summary":"Relates to provisions governing contracting between state agencies and not-for-profit organizations including new, renewal, and extension contracts.",
  "LawSection":"State Finance Law","LawCode":"Amd §§179-q, 179-s, 179-z, 179-aa & 179-f, St Fin L",

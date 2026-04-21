@@ -1,10 +1,14 @@
 {
  "PrintNo":"S9301","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-26T09:31:53.2677Z",
- "Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Civil Service And Pensions"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-02-26","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO CIVIL SERVICE AND PENSIONS","Date":"2026-03-17","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO CIVIL SERVICE AND PENSIONS","Date":"2026-03-17","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.817","Date":"2026-04-21","Chamber":"SENATE"}
  ],
  "Votes":[
   {

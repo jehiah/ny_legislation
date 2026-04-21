@@ -1,7 +1,7 @@
 {
  "PrintNo":"S3073","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-23T13:30:57.268771Z","Status":"IN_SENATE_COMM","Committee":"Agriculture",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"}],
+ "Published":"2025-01-23T13:30:57.268771Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-04-21"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-23","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO AGRICULTURE","Date":"2025-06-04","Chamber":"SENATE"},
@@ -13,7 +13,8 @@
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-06-11","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.786","Date":"2026-04-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -119,10 +120,10 @@
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
-  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":885,"Name":"Robert Ortt","Short":"ORTT"},
-  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
-  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
+  {"ID":885,"Name":"Robert Ortt","Short":"ORTT"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
+  {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Establishes a civil remedy for the protection of animals denied proper care",
  "Summary":"Establishes a civil remedy for the protection of animals denied proper care by creating a special proceeding in the supreme court that will hold owners and caretakers liable if such animals under their care are mistreated.",

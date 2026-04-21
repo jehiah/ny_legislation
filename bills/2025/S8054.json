@@ -1,14 +1,17 @@
 {
- "PrintNo":"S8054","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T17:17:18.941473Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S8054","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T17:17:18.941473Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8054A","Date":"2026-04-20","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
- "Title":"Expands the use of body scanners to facilities operated by the office of mental health, the office for people with developmental disabilities and the office of children and family services",
- "Summary":"Expands the use of body scanners to facilities operated by the office of mental health, the office for people with developmental disabilities and the office of children and family services; establishes alternative methods of screening.",
+ "Title":"Expands the use of body scanners to facilities operated by the office of mental health and the office for people with developmental disabilities",
+ "Summary":"Expands the use of body scanners to facilities operated by the office of mental health and the office for people with developmental disabilities; establishes alternative methods of screening.",
  "LawSection":"Public Health Law","LawCode":"Amd §3502, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to body scanners in state-operated facilities"
+ "ActClause":"AN ACT to amend the public health law, in relation to body scanners in state-operated facilities",
+ "SameAsPrintNo":"A8232-2025"
 }

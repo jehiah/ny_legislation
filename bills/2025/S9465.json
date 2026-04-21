@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9465","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-13T12:04:16.494Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-13","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2026-03-13","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
- "Title":"Relates to including a component on water safety in kindergarten through twelfth grade",
- "Summary":"Directs the regents to include a component on water safety in kindergarten through twelfth grade.",
- "LawSection":"Education Law","LawCode":"Add §804-e, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to including a component on water safety in kindergarten through twelfth grade"
+ "PrintNo":"S9465","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-13T12:04:16.494Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-03-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9465A","Date":"2026-04-20","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
+ "Title":"Includes a component on water safety in kindergarten through twelfth grade",
+ "Summary":"Includes a component on water safety in kindergarten through twelfth grade.","LawSection":"Education Law",
+ "LawCode":"Add §804-e, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to including a component on water safety in kindergarten through twelfth grade",
+ "SameAsPrintNo":"A10862-2025"
 }

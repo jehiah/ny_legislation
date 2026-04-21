@@ -1,9 +1,15 @@
 {
  "PrintNo":"S9502","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-18T15:18:41.724695Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-18","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-18","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-18","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-18","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.766","Date":"2026-04-21","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Relates to benefits for the surviving spouses of firefighters killed in the line of duty",
  "Summary":"Provides benefits to the surviving spouses of firefighters killed in the line of duty.",
  "LawSection":"Real Property Tax Law","LawCode":"Amd §471, RPT L",

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9098","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-03T11:22:36.645384Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-03","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.736","Date":"2026-04-21","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],"Title":"Extends the urban deer management pilot program",
  "Summary":"Extends the urban deer management pilot program for an additional three years.",
  "LawSection":"Environmental Conservation","LawCode":"Amd §6, Chap 683 of 2023",

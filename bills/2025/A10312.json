@@ -1,12 +1,36 @@
 {
- "PrintNo":"A10312","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-20T16:48:10.785113Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-20","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-02-20","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10312","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-20T16:48:10.785113Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-13","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-02-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-04-13","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10312A","Date":"2026-04-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-21","Chamber":"ASSEMBLY","Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":1465,"Short":"GANDOLFO","Vote":"Nay"},
+    {"ID":1536,"Short":"SLATER","Vote":"Nay"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Nay"},
+    {"ID":1466,"Short":"DURSO","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Excused"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Excused"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
  "Title":"Relates to information that residential health care facilities are required to disclose to residents and their families",
- "Summary":"Relates to information that residential health care facilities are required to separately disclose to residents and their families.",
+ "Summary":"Relates to information that residential health care facilities are required to separately disclose to residents and their families; requires such information to be posted on the residential health care facility's website.",
  "LawSection":"Public Health Law","LawCode":"Amd §2803, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to information that residential health care facilities are required to provide to residents and their families",
- "SameAsPrintNo":"S9555-2025"
+ "ActClause":"AN ACT to amend the public health law, in relation to information that residential health care facilities are required to provide to residents and their families"
 }

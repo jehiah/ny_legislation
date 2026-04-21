@@ -1,9 +1,15 @@
 {
  "PrintNo":"S9651","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-31T14:32:03.03773Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-03-31","Chamber":"SENATE"}],
- "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-04-21"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-03-31","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.815","Date":"2026-04-21","Chamber":"SENATE"}
+ ],
+ "Sponsors":[
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
+  {"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}
+ ],
  "Title":"Relates to utilization review program standards and pre-authorization for certain health care services",
  "Summary":"Relates to utilization review program standards; requires use of evidence-based and peer reviewed clinical review criteria; relates to prescription drug formulary changes and pre-authorization for certain health care services.",
  "LawSection":"Public Health Law","LawCode":"Amd §§4902 & 4903, Pub Health L; amd §§4902 & 4903, Ins L",

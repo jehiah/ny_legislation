@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9587","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-26T14:03:43.073488Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-26","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-26","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-26","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-26","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.739","Date":"2026-04-21","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Extends certain provisions relating to the repair of damaged pesticide containers",
  "Summary":"Extends certain provisions relating to the repair of damaged pesticide containers.",

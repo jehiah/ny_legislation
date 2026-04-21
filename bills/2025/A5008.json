@@ -4,9 +4,27 @@
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-10","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-21","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1480,"Short":"SIMPSON","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}
+ ],
  "Title":"Relates to the ability of government agencies in New York to claim copyright protection",
  "Summary":"Waives the ability of government agencies in New York to claim copyright protection except where the record reflects artistic, creative or scholarly works of authorship, academic course materials, or scientific or academic research, or if the copyright owner intends to distribute the record of derivative work based on it to the public by sale or other transfer of ownership.",
  "LawSection":"Public Officers Law","LawCode":"Amd §89, Pub Off L",

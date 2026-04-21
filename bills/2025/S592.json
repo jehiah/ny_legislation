@@ -1,7 +1,7 @@
 {
- "PrintNo":"S592","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T15:03:15.011268Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-29","Committee":"Finance"}],
+ "PrintNo":"S592","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T15:03:15.011268Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-04","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-29","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 592A","Date":"2026-04-20","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -151,5 +153,5 @@
  "Summary":"Establishes the New York state youth in agriculture and entrepreneurship summer employment program to provide students with the opportunity to be educated on the agricultural industry and alternative career paths and to provide agricultural work experience and entrepreneurship work experience.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Add Art 29-A §§525 - 528, Ag & Mkts L",
  "ActClause":"AN ACT to amend the agriculture and markets law, in relation to establishing the New York state youth in agriculture and entrepreneurship summer employment program",
- "SameAsPrintNo":"A8265-2025","PreviousVersions":["S7678-2021","S1055-2023"]
+ "PreviousVersions":["S7678-2021","S1055-2023"]
 }

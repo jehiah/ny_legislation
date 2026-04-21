@@ -1,10 +1,12 @@
 {
- "PrintNo":"A838","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-07T10:34:23.350236Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Local Governments"}],
+ "PrintNo":"A838","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-07T10:34:23.350236Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Local Governments"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-04-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 838A","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
@@ -15,5 +17,5 @@
  "Summary":"Relates to the organization of industrial development agencies and the definition of labor organization.",
  "LawSection":"General Municipal Law","LawCode":"Amd §§854 & 856, Gen Muni L",
  "ActClause":"AN ACT to amend the general municipal law, in relation to the organization of industrial development agencies and the definition of labor organization",
- "PreviousVersions":["S7347-2019","S237-2021","A7532-2023"]
+ "SameAsPrintNo":"S4464-2025","PreviousVersions":["S7347-2019","S237-2021","A7532-2023"]
 }

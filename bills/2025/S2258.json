@@ -1,15 +1,21 @@
 {
- "PrintNo":"S2258","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-16T10:15:35.877355Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "PrintNo":"S2258","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-16T10:15:35.877355Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-18","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-16","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-02-18","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 2258A","Date":"2026-02-18","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.819","Date":"2026-04-21","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
- "Title":"Relates to requiring emergency notices be provided to consumers in certain languages",
- "Summary":"Requires every utility corporation or municipality who sends an emergency notice to consumers to make available and provide such notice in English, Spanish, Haitian-Creole, Mandarin, Cantonese, Arabic, French, Urdu, Hindi and Tagalog.",
+ "Title":"Relates to requiring emergency notices be provided to customers in certain languages",
+ "Summary":"Requires every utility corporation or municipality who sends an emergency notice to customers to make available and provide such notice in English, Spanish, Haitian-Creole, Mandarin, Cantonese, Arabic, French, Urdu, Russian, Yiddish, Korean, Bangla, Polish, Italian, Hindi and Tagalog.",
  "LawSection":"Public Service Law","LawCode":"Amd §44, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to requiring emergency notices be provided to consumers in certain languages",
+ "ActClause":"AN ACT to amend the public service law, in relation to requiring emergency notices be provided to customers in certain languages",
  "PreviousVersions":["S9013-2019","S3261-2021","S1260-2023"]
 }

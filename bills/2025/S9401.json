@@ -1,11 +1,12 @@
 {
  "PrintNo":"S9401","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-10T11:30:10.2181Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Health"}],
+ "Published":"2026-03-10T11:30:10.2181Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-04-21"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-03-10","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-31","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9401A","Date":"2026-03-31","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9401A","Date":"2026-03-31","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.813","Date":"2026-04-21","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Requires the department of health to facilitate the exchange of data between the state prescription drug program and electronic health records",

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9062","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-28T14:22:12.921235Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-28","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.735","Date":"2026-04-21","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":885,"Name":"Robert Ortt","Short":"ORTT"}],
  "Title":"Adds Salmon Creek in Monroe County to the definition of inland waterways",
  "Summary":"Adds Salmon Creek in Monroe County to the definition of inland waterways for the purposes of waterfront revitalization.",

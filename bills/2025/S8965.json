@@ -1,8 +1,11 @@
 {
  "PrintNo":"S8965","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-21T16:13:01.753271Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-21","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-01-21","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-21","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-04-21","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
@@ -21,5 +24,5 @@
  "LawSection":"Public Health Law",
  "LawCode":"Add §2803-cc, amd §§2803 & 4408, Pub Health L; amd §§3217-a & 4324, Ins L",
  "ActClause":"AN ACT to amend the public health law and the insurance law, in relation to providing information to patients and the public on hospital rule-based exclusions",
- "PreviousVersions":["S5400-2021","S1003-2023","S3486-2025"]
+ "SameAsPrintNo":"A10203-2025","PreviousVersions":["S5400-2021","S1003-2023","S3486-2025"]
 }

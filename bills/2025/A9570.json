@@ -1,16 +1,32 @@
 {
  "PrintNo":"A9570","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-15T17:02:01.24703Z","Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-09","Committee":"Real Property Taxation"}],
+ "Published":"2026-01-15T17:02:01.24703Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-01-15","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2026-03-25","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9570A","Date":"2026-03-25","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2026-04-09","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 9570B","Date":"2026-04-09","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 9570B","Date":"2026-04-09","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"B"}
  ],
- "Sponsors":[{"ID":1530,"Name":"Grace Lee","Short":"LEE"}],"Title":"Relates to the clergy property tax exemption",
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-04-21","Chamber":"ASSEMBLY",
+   "Committee":"REAL PROPERTY TAXATION",
+   "Votes":[
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1576,"Short":"MORENO","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1243,"Name":"Simcha Eichenstein","Short":"EICHENSTEIN"}],
+ "Title":"Relates to the clergy property tax exemption",
  "Summary":"Provides that real property owned by a minister of the gospel, priest or rabbi of any denomination, an actual resident and inhabitant of this state, who is engaged in the work assigned by the church or denomination of which such person is a member, or who is unable to perform such work due to impaired health or is over seventy years of age, shall be exempt from taxation to the extent of fifteen hundred dollars.",
  "LawSection":"Real Property Tax Law","LawCode":"Amd §§460 & 467-a, RPT L",
- "ActClause":"AN ACT to amend the real property tax law, in relation to the clergy property tax exemption"
+ "ActClause":"AN ACT to amend the real property tax law, in relation to the clergy property tax exemption",
+ "SameAsPrintNo":"S8527-2025"
 }
