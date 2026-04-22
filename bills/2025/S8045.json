@@ -1,7 +1,10 @@
 {
  "PrintNo":"S8045","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T17:06:59.077255Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-22"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-04","Chamber":"SENATE"},
@@ -11,7 +14,10 @@
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-11","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.712","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-22","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -105,6 +111,18 @@
     {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Excused"},
     {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Excused"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-20","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }

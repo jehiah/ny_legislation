@@ -1,9 +1,10 @@
 {
  "PrintNo":"A8305","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-12T17:17:16.720311Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-09"},{"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Judiciary"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-09"},{"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Judiciary"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-22"},{"Type":"PASSED_SENATE","Date":"2026-04-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-12","Chamber":"ASSEMBLY"},
@@ -19,7 +20,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.207","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-03-09","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-03-09","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2026-03-09","Chamber":"SENATE"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-03-09","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S8372","Date":"2026-04-22","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.675","Date":"2026-04-22","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-04-22","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-22","Chamber":"SENATE"}
  ],
  "Votes":[
   {

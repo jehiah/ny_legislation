@@ -1,9 +1,9 @@
 {
  "PrintNo":"S3974","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-31T09:34:21.602143Z","Status":"SENATE_FLOOR",
+ "Published":"2025-01-31T09:34:21.602143Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-24"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-24"},{"Type":"PASSED_SENATE","Date":"2026-04-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-31","Chamber":"SENATE"},
@@ -19,7 +19,9 @@
   {"Text":"1ST REPORT CAL.290","Date":"2026-02-04","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING 3974A","Date":"2026-02-24","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 3974A","Date":"2026-02-24","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-04-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-22","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

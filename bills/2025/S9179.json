@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9179","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-11T10:00:02.050716Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-11","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2026-02-11","Chamber":"SENATE"}],
+ "PrintNo":"S9179","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-02-11T10:00:02.050716Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-22","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-02-11","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-04-22","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9179A","Date":"2026-04-22","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Prohibits insurance discrimination on the basis of an insured's marital status following the death of the insured's spouse",
  "Summary":"Prohibits insurance discrimination on the basis of an insured's marital status following the death of the insured's spouse.",
  "LawSection":"Insurance Law","LawCode":"Amd §2607, Ins L",
- "ActClause":"AN ACT to amend the insurance law, relating to prohibiting insurance discrimination on the basis of an insured's marital status following the death of the insured's spouse"
+ "ActClause":"AN ACT to amend the insurance law, relating to prohibiting insurance discrimination on the basis of an insured's marital status following the death of the insured's spouse",
+ "SameAsPrintNo":"A10279-2025"
 }

@@ -1,7 +1,10 @@
 {
  "PrintNo":"S3460","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-27T14:49:25.567441Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-03-30"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-03-30"},
+  {"Type":"PASSED_SENATE","Date":"2026-04-22"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-27","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1113","Date":"2025-05-14","Chamber":"SENATE"},
@@ -15,7 +18,9 @@
   {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.656","Date":"2026-03-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-26","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-30","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-30","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-04-22","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-22","Chamber":"SENATE"}
  ],
  "Votes":[
   {

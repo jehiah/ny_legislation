@@ -1,9 +1,9 @@
 {
  "PrintNo":"S4464","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-05T14:11:24.165382Z","Status":"SENATE_FLOOR",
+ "Published":"2025-02-05T14:11:24.165382Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-07"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-07"},{"Type":"PASSED_SENATE","Date":"2026-04-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-05","Chamber":"SENATE"},
@@ -20,7 +20,9 @@
   {"Text":"PRINT NUMBER 4464A","Date":"2026-02-10","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.664","Date":"2026-03-31","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-01","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-04-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-22","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -115,7 +117,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
+ "Sponsors":[
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
+ ],
  "Title":"Relates to the organization of industrial development agencies",
  "Summary":"Relates to the organization of industrial development agencies and the definition of labor organization.",
  "LawSection":"General Municipal Law","LawCode":"Amd §§854 & 856, Gen Muni L",

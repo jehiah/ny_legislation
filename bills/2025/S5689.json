@@ -1,11 +1,28 @@
 {
  "PrintNo":"S5689","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-27T15:37:58.93335Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-04-21"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-04-22"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-02-27","Chamber":"SENATE"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.788","Date":"2026-04-21","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.788","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-22","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-21","Chamber":"SENATE","Committee":"Agriculture",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Authorizes the issuance of delivery tickets electronically",

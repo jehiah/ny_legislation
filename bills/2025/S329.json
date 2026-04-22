@@ -1,7 +1,10 @@
 {
  "PrintNo":"S329","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-24T15:06:20.14961Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"}],
+ "Published":"2024-12-24T15:06:20.14961Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"},
+  {"Type":"PASSED_SENATE","Date":"2026-04-22"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1245","Date":"2025-05-20","Chamber":"SENATE"},
@@ -19,7 +22,9 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-28","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.587","Date":"2026-03-24","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-25","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-04-22","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-22","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

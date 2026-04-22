@@ -6,9 +6,27 @@
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-02","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2026-04-17","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 8722A","Date":"2026-04-17","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 8722A","Date":"2026-04-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-21","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1560,"Short":"YEGER","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+ ],
  "Title":"Establishes a credit for military spouses and surviving spouses of veterans for competitive examinations",
  "Summary":"Establishes a credit for military spouses and surviving spouses of veterans for competitive examinations whether for original appointment or promotion.",
  "LawSection":"Civil Service Law","LawCode":"Amd §85, Civ Serv L",

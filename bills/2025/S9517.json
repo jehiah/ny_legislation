@@ -1,11 +1,35 @@
 {
  "PrintNo":"S9517","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-19T09:54:36.050811Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2026-03-19","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-04-22"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.707","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-22","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-20","Chamber":"SENATE","Committee":"Insurance",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Relates to notifying an insured of a rate filing increase for long term care",
  "Summary":"Relates to notifying an insured of a rate filing increase for long term care; provides such notification shall include instructions on how to submit comments on such rate filing.",
  "LawSection":"Insurance Law","LawCode":"Amd §1117, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to notifying an insured of a rate filing increase for long term care"
+ "ActClause":"AN ACT to amend the insurance law, in relation to notifying an insured of a rate filing increase for long term care",
+ "SameAsPrintNo":"A10746-2025"
 }

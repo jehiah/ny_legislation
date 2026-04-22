@@ -3,12 +3,27 @@
  "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Children And Families"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-21"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.727","Date":"2026-04-21","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.727","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-22","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-21","Chamber":"SENATE","Committee":"Children And Families",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"}],
  "Title":"Relates to the definition of the term prospective relative guardian",
