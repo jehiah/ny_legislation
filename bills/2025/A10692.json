@@ -1,10 +1,14 @@
 {
  "PrintNo":"A10692","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-20T15:52:05.465618Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Environmental Conservation"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Environmental Conservation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-20","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.385","Date":"2026-04-23","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -28,7 +32,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}],
+ "Sponsors":[
+  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"}
+ ],
  "Title":"Establishes the authority of the department of environmental conservation to manage Atlantic bonito and false albacore",
  "Summary":"Establishes the authority of the department of environmental conservation to manage Atlantic bonito and false albacore.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §13-0340-h, En Con L",

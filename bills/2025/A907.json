@@ -1,13 +1,17 @@
 {
  "PrintNo":"A907","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-07T12:43:03.23502Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-04","Committee":"Governmental Operations"}],
+ "Published":"2025-01-07T12:43:03.23502Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-04","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-03-04","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 907A","Date":"2026-03-04","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.348","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

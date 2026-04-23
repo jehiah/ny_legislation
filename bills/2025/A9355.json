@@ -1,13 +1,14 @@
 {
  "PrintNo":"A9355","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-12-19T16:02:08.131235Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Health"}],
+ "Published":"2025-12-19T16:02:08.131235Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Health"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-12-19","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-04-16","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9355A","Date":"2026-04-16","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.371","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -33,5 +34,6 @@
  "Title":"Requires hospitals to report cases of poisoning to the regional poison control center",
  "Summary":"Requires hospitals to report cases of poisoning to the regional poison control center.",
  "LawSection":"Public Health Law","LawCode":"Add §2803-cc, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to mandating that hospitals report cases of poisonings to poison control centers"
+ "ActClause":"AN ACT to amend the public health law, in relation to mandating that hospitals report cases of poisonings to poison control centers",
+ "SameAsPrintNo":"S8558-2025"
 }

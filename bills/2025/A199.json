@@ -1,12 +1,14 @@
 {
- "PrintNo":"A199","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A199","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2024-12-23T12:23:23.175899Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-23","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 199A","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 199B","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},
@@ -40,11 +42,13 @@
   {"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},
   {"ID":1577,"Name":"Keith Powers","Short":"POWERS"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
-  {"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}
+  {"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
+  {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},
+  {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}
  ],
  "Title":"Regulates pistol converters and convertible pistols",
- "Summary":"Makes it illegal for certain persons to possess or sell a pistol converter or a converted pistol.",
+ "Summary":"Makes it illegal for certain persons to possess or sell a pistol converter or a converted pistol; directs the superintendent of the state police to publish a list of pistols that the superintendent has determined to be convertible pistols.",
  "LawSection":"Penal Law","LawCode":"Amd §§265.00, 265.10 & 265.20, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to the regulation of pistol converters and convertible pistols",
- "SameAsPrintNo":"S399-2025","PreviousVersions":["A10194-2023"]
+ "PreviousVersions":["A10194-2023"]
 }

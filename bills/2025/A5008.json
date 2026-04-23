@@ -1,11 +1,15 @@
 {
  "PrintNo":"A5008","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-10T14:05:28.976412Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-10","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.354","Date":"2026-04-23","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

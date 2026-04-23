@@ -1,10 +1,29 @@
 {
  "PrintNo":"A7147","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-20T16:16:54.774009Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-03-20","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.355","Date":"2026-04-23","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-21","Chamber":"ASSEMBLY","Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1577,"Short":"POWERS","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":896,"Name":"Latrice Walker","Short":"WALKER"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},

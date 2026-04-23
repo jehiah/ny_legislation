@@ -1,13 +1,17 @@
 {
  "PrintNo":"A8722","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-06-02T10:50:21.339367Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-17","Committee":"Governmental Employees"}],
+ "Published":"2025-06-02T10:50:21.339367Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-17","Committee":"Governmental Employees"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-06-02","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2026-04-17","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 8722A","Date":"2026-04-17","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.362","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -25,7 +29,7 @@
  ],
  "Sponsors":[
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
-  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":500,"Name":"William Colton","Short":"COLTON"}
  ],
  "Title":"Establishes a credit for military spouses and surviving spouses of veterans for competitive examinations",
  "Summary":"Establishes a credit for military spouses and surviving spouses of veterans for competitive examinations whether for original appointment or promotion.",

@@ -1,8 +1,10 @@
 {
  "PrintNo":"S9357","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-04T13:34:08.84687Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-04","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2026-03-04","Chamber":"SENATE"}],
+ "Status":"STRICKEN","Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-04","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-03-04","Chamber":"SENATE"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2026-04-23","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}],
  "Title":"Enacts the \"New York state right to counsel act\"",
  "Summary":"Establishes a fundamental right to counsel for all respondents facing eviction proceedings; mandates an automatic stay or adjournment on any housing court eviction proceedings if a tenant does not have an attorney.",

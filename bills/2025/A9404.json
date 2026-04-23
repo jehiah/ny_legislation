@@ -1,14 +1,15 @@
 {
  "PrintNo":"A9404","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-12-19T16:22:12.075104Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Codes"}],
+ "Published":"2025-12-19T16:22:12.075104Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-12-19","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-03-18","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9404A","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.372","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -67,7 +68,7 @@
  ],
  "Sponsors":[
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
-  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Relates to the prohibition of lending institutions issuing unsolicited mail-loan checks",
  "Summary":"Relates to the prohibition of lending institutions issuing mail-loan checks except in response to an affirmative request or application therefor; provides that any debt, interest, fee or other obligation arising from a mail-loan check issued in violation of this section shall be null and void and unenforceable.",

@@ -1,11 +1,15 @@
 {
- "PrintNo":"S9382","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-06T13:14:09.337502Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-06","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2026-03-06","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "PrintNo":"S9382","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-06T13:14:09.337502Z","Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-23","Committee":"Labor"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2026-03-06","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2026-04-23","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9382A","Date":"2026-04-23","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
  "Title":"Authorizes a claimant to receive a dependent allowance in addition to unemployment insurance benefits",
- "Summary":"Provides that a claimant eligible to receive unemployment insurance benefits shall also be entitled to receive a dependent allowance which shall be equal to forty-five dollars per dependent per week.",
+ "Summary":"Provides that a claimant eligible to receive unemployment insurance benefits shall also be entitled to receive a dependent allowance which shall begin at forty-five dollars and shall increase annually by an amount determined by the department of labor; directs the department of labor to report to the legislature following each calendar quarter certain information about dependent allowances and to make such reports available on its website; provides that a claimant's maximum benefit amount, including such dependent allowance, shall not exceed one hundred percent of such claimant's average weekly wage from their highest-earning calendar quarter.",
  "LawSection":"Labor Law","LawCode":"Amd §590, Lab L",
  "ActClause":"AN ACT to amend the labor law, in relation to authorizing a claimant to receive a dependent allowance in addition to unemployment insurance benefits",
  "SameAsPrintNo":"A9643-2025"
