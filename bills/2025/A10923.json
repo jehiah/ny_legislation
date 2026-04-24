@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10923","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-09T13:05:41.359824Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-09","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-04-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10923","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-09T13:05:41.359824Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-24","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-04-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-04-24","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10923A","Date":"2026-04-24","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
@@ -10,8 +14,9 @@
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
  ],
  "Title":"Prohibits the retail sale of nitrous oxide and establishes civil penalties for violations; includes nitrous oxide misuse in the health care and wellness education and outreach program; repealer",
- "Summary":"Prohibits the retail sale of nitrous oxide; establishes civil penalties for violations; includes nitrous oxide misuse in the health care and wellness education and outreach program to expand education on the dangers of nitrous oxide misuse; repeals certain provisions of law relating thereto.",
+ "Summary":"Enacts \"Nima's law\" which prohibits the retail sale of nitrous oxide; establishes civil penalties for violations; includes nitrous oxide misuse in the health care and wellness education and outreach program to expand education on the dangers of nitrous oxide misuse; repeals certain provisions of law relating thereto.",
  "LawSection":"Public Health Law",
  "LawCode":"Amd §§3380 & 207, Pub Health L; rpld §834, add Art 38-C §§840 - 844, Gen Bus L",
- "ActClause":"AN ACT to amend the public health law and the general business law, in relation to prohibiting the retail sale of nitrous oxide and establishing civil penalties for violations; to amend the public health law, in relation to including nitrous oxide misuse in the health care and wellness education and outreach program; and to repeal section 834 of the general business law relating to the sale of whipped cream chargers"
+ "ActClause":"AN ACT to amend the public health law and the general business law, in relation to prohibiting the retail sale of nitrous oxide and establishing civil penalties for violations; to amend the public health law, in relation to including nitrous oxide misuse in the health care and wellness education and outreach program; and to repeal section 834 of the general business law relating to the sale of whipped cream chargers",
+ "SameAsPrintNo":"S9567-2025"
 }

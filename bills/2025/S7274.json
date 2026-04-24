@@ -1,14 +1,30 @@
 {
  "PrintNo":"S7274","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-08T11:15:20.700124Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"}],
+ "Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-04-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO CODES","Date":"2026-04-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-21","Chamber":"SENATE","Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1574,"Name":"Erik Bottcher","Short":"BOTTCHER","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Requires applicants for a permit, registration, or license issued by the cannabis control board to report any relevant law enforcement interactions that occur during the application review process",
  "Summary":"Requires applicants for a permit, registration, or license issued by the cannabis control board to report any relevant law enforcement interactions that occur during the application review process; provides for automatic denial of such application for failure to make such report.",
  "LawSection":"Cannabis Law","LawCode":"Add §128-a, Cannabis L",
- "ActClause":"AN ACT to amend the cannabis law, in relation to requiring applicants for a permit, registration, or license issued by the cannabis control board to report any relevant law enforcement interactions that occur during the application review process"
+ "ActClause":"AN ACT to amend the cannabis law, in relation to requiring applicants for a permit, registration, or license issued by the cannabis control board to report any relevant law enforcement interactions that occur during the application review process",
+ "SameAsPrintNo":"A11122-2025"
 }
