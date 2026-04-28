@@ -1,19 +1,24 @@
 {
  "PrintNo":"S1185","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T12:50:43.933479Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.859","Date":"2026-04-28","Chamber":"SENATE"}
  ],
  "Sponsors":[
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"},
   {"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
   {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},
-  {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
-  {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
-  {"ID":1490,"Name":"Dan Stec","Short":"STEC"},{"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},
+  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1490,"Name":"Dan Stec","Short":"STEC"},
+  {"ID":1493,"Name":"Alexis Weik","Short":"WEIK"}
  ],
  "Title":"Establishes the veterans service organizations fund",
  "Summary":"Establishes the congressional chartered veterans service organizations fund; provides for gifts made to such fund on an individual's personal income tax return.",

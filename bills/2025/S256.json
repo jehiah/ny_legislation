@@ -1,11 +1,13 @@
 {
- "PrintNo":"S256","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-23T13:15:27.91937Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"}],
+ "PrintNo":"S256","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-23T13:15:27.91937Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Local Government"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 256A","Date":"2026-04-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -26,9 +28,9 @@
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to making housing a policy in the state of New York",
- "Summary":"Provides that a policy of this state should be to increase housing options and opportunities, including but not limited to affordable, and workforce and senior housing.",
+ "Summary":"Provides that a policy of this state should be to increase housing options and opportunities, including but not limited to affordable, workforce and senior housing.",
  "LawSection":"General Municipal Law",
  "LawCode":"Amd §§852, 854, 858, 859-a & 874, Gen Muni L; amd §§1951, 1953, 1963-a, 2302, 2306 & 2315, Pub Auth L",
  "ActClause":"AN ACT to amend the general municipal law and the public authorities law, in relation to making housing a policy of the state of New York",
- "PreviousVersions":["S6544-2023"]
+ "SameAsPrintNo":"A9299-2025","PreviousVersions":["S6544-2023"]
 }

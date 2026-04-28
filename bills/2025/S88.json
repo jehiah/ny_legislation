@@ -1,7 +1,7 @@
 {
  "PrintNo":"S88","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-18T13:05:41.384069Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Finance"}],
+ "Published":"2024-12-18T13:05:41.384069Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-04-28"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-01-13","Chamber":"SENATE"},
@@ -14,7 +14,8 @@
   {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ELECTIONS","Date":"2026-01-08","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 88A","Date":"2026-01-08","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.839","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

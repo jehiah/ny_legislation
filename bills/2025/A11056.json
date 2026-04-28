@@ -1,12 +1,15 @@
 {
- "PrintNo":"A11056","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-24T09:59:04.182455Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-24","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-04-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A11056","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-24T09:59:04.182455Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-28","Committee":"Local Governments"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-04-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 11056A","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"}],
  "Title":"Authorizes the village of New Berlin to alienate certain parklands",
  "Summary":"Authorizes the village of New Berlin to discontinue the use as parkland and alienate certain lands.",
  "LawSection":"Parks",
- "ActClause":"AN ACT in relation to authorizing the village of New Berlin to alienate and discontinue the use of certain parklands",
- "SameAsPrintNo":"S9943-2025"
+ "ActClause":"AN ACT in relation to authorizing the village of New Berlin to alienate and discontinue the use of certain parklands"
 }

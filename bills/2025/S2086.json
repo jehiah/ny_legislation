@@ -1,9 +1,9 @@
 {
- "PrintNo":"S2086","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T10:54:08.334595Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S2086","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T10:54:08.334595Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-05"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-15","Chamber":"SENATE"},
@@ -14,7 +14,8 @@
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.226","Date":"2026-02-03","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-02-04","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-05","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-05","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 2086A","Date":"2026-04-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -51,8 +52,8 @@
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Increases the statewide energy storage capacity",
- "Summary":"Increases the statewide energy storage capacity to six gigawatts by the year 2030.",
+ "Summary":"Increases the statewide energy storage capacity to six gigawatts by the year 2030, twelve gigawatts of statewide energy storage capacity by 2040, and seventeen gigawatts of statewide energy storage capacity by 2050.",
  "LawSection":"Public Service Law","LawCode":"Amd §75-0103, En Con L; amd §§66-p & 137, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law and the environmental conservation law, in relation to increasing the statewide energy storage capacity",
- "PreviousVersions":["S8229-2023"]
+ "SameAsPrintNo":"A276-2025","PreviousVersions":["S8229-2023"]
 }

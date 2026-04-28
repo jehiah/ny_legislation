@@ -1,10 +1,11 @@
 {
  "PrintNo":"S3189","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T09:50:42.094574Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"},
   {"Type":"SENATE_FLOOR","Date":"2026-02-24"},{"Type":"PASSED_SENATE","Date":"2026-03-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-04","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-04","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-27"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-24","Chamber":"SENATE"},
@@ -22,7 +23,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-24","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-03-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-03-04","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A8443","Date":"2026-04-27","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.360","Date":"2026-04-27","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-27","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-04-27","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

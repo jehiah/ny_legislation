@@ -1,14 +1,18 @@
 {
  "PrintNo":"A10633","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-13T16:39:20.455927Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-13","Committee":"Environmental Conservation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-28"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-13","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.383","Date":"2026-04-23","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.383","Date":"2026-04-23","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

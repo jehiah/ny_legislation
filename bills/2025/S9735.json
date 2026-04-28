@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9735","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-02T13:17:58.333163Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-04-02","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-04-02","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.868","Date":"2026-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Enacts the \"home utility weatherization jobs act\"",
  "Summary":"Enacts the \"home utility weatherization jobs act\"; requires each gas corporation, electric corporation, or combination gas or electric corporation to submit to the public service commission for review and approval at least one and up to ten neighborhood scale weatherization and electrification-ready projects.",

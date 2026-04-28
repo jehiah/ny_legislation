@@ -1,14 +1,21 @@
 {
  "PrintNo":"A5850","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-24T09:23:47.124191Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"}],
+ "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-04-28"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Environmental Conservation"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-24","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-04-02","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-05","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.318","Date":"2026-03-19","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.318","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

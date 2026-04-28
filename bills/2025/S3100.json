@@ -1,7 +1,7 @@
 {
- "PrintNo":"S3100","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T14:41:41.417166Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S3100","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-23T14:41:41.417166Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-23","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.355","Date":"2025-02-12","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-17","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-04-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3100A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -109,8 +111,8 @@
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Provides for coverage for the treatment of asthma",
- "Summary":"Provides for coverage for the treatment of asthma.","LawSection":"Social Services Law",
- "LawCode":"Amd §365-a, Soc Serv L; amd §§3216 & 3221, Ins L",
+ "Summary":"Expands coverage for the treatment of asthma to include a second rescue and maintenance inhaler, along with any medically necessary devices for children under nineteen years of age.",
+ "LawSection":"Social Services Law","LawCode":"Amd §365-a, Soc Serv L; amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the social services law and the insurance law, in relation to coverage for the treatment of asthma",
- "SameAsPrintNo":"A5255-2025","PreviousVersions":["S7336-2019","S4934-2021","S4889-2023"]
+ "PreviousVersions":["S7336-2019","S4934-2021","S4889-2023"]
 }

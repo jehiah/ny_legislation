@@ -1,10 +1,11 @@
 {
  "PrintNo":"S9051","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-27T15:35:30.630859Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-25","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-25","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-04-28"}],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-27","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-25","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-25","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.854","Date":"2026-04-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -20,7 +21,11 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
+ "Sponsors":[
+  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
+  {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
+ ],
  "Title":"Prohibits artificial intelligence chatbots from using features which are considered unsafe for minors",
  "Summary":"Prohibits artificial intelligence chatbots from using features which are considered unsafe for minors; defines terms; specifies what are considered unsafe features; provides rights of action; directs rules and regulations to be established.",
  "LawSection":"General Business Law","LawCode":"Add Art 48 §§1800 - 1805, Gen Bus L","SameAsPrintNo":"A10379-2025"

@@ -1,7 +1,7 @@
 {
- "PrintNo":"S825","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T12:14:40.579249Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"}],
+ "PrintNo":"S825","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-06T12:14:40.579249Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-25","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-04-28"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1190","Date":"2025-05-20","Chamber":"SENATE"},
@@ -12,7 +12,10 @@
   {"Text":"REFERRED TO LABOR","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2026-02-25","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 825A","Date":"2026-02-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.869","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -106,10 +109,10 @@
   {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
  ],
- "Title":"Establishes protections for minors who are featured in influencer-generated content",
- "Summary":"Establishes protections for minors who are featured in influencer-generated content that generate earnings from being shared on social media or other video-sharing websites.",
+ "Title":"Establishes protections for minors who are featured in compensated videocontent",
+ "Summary":"Establishes protections for minors who are featured in compensated video content that generate earnings from being shared on social media or other video-sharing websites.",
  "LawSection":"Labor Law",
- "LawCode":"Amd Art 4-A Art Head, ren §154-a to be §156, add §155, amd §§150, 130, 131 & 132, Lab L; add §7-7.2, EPT L",
- "ActClause":"AN ACT to amend the labor law and the estates, powers and trusts law, in relation to establishing protections for minors who are featured in influencer-generated content",
+ "LawCode":"Amd Art 4-A Art Head, §§150, 130, 131 & 132, ren §154-a to be §156, add §155, Lab L; add §7-7.2, EPT L",
+ "ActClause":"AN ACT to amend the labor law and the estates, powers and trusts law, in relation to establishing protections for minors who are featured in compensated video content",
  "SameAsPrintNo":"A774-2025"
 }

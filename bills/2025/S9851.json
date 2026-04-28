@@ -1,9 +1,18 @@
 {
  "PrintNo":"S9851","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-08T12:01:27.355505Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-08","Committee":"Veterans, Homeland Security And Military Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-04-08","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-08","Committee":"Veterans, Homeland Security And Military Affairs"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-04-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.862","Date":"2026-04-28","Chamber":"SENATE"}
+ ],
+ "Sponsors":[
+  {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
+  {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY"}
+ ],
  "Title":"Expands the veterans' services commission",
  "Summary":"Expands the veterans' services commission to include two additional members and several additional ex officio members.",
  "LawSection":"Veterans' Service Law","LawCode":"Amd §3, Veterans' Services L",

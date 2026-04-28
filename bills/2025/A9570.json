@@ -8,7 +8,8 @@
   {"Text":"PRINT NUMBER 9570A","Date":"2026-03-25","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2026-04-09","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 9570B","Date":"2026-04-09","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -23,7 +24,11 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1243,"Name":"Simcha Eichenstein","Short":"EICHENSTEIN"}],
+ "Sponsors":[
+  {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1243,"Name":"Simcha Eichenstein","Short":"EICHENSTEIN"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}
+ ],
  "Title":"Relates to the clergy property tax exemption",
  "Summary":"Provides that real property owned by a minister of the gospel, priest or rabbi of any denomination, an actual resident and inhabitant of this state, who is engaged in the work assigned by the church or denomination of which such person is a member, or who is unable to perform such work due to impaired health or is over seventy years of age, shall be exempt from taxation to the extent of fifteen hundred dollars.",
  "LawSection":"Real Property Tax Law","LawCode":"Amd §§460 & 467-a, RPT L",

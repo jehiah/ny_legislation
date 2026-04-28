@@ -1,8 +1,11 @@
 {
  "PrintNo":"S9656","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-11T16:37:00.001252Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2026-03-31","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-04-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2026-03-31","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.857","Date":"2026-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],
  "Title":"Prohibits fees for any service rendered through a bank relating to the use of an electronic benefit transfer card issued by the state or certain departments or agencies thereof",
  "Summary":"Prohibits the imposition of fees or surcharges for any service rendered through a banking organization relating to the use of an electronic benefit transfer card issued by the state or certain departments or agencies thereof.",

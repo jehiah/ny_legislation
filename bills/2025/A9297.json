@@ -1,14 +1,16 @@
 {
- "PrintNo":"A9297","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-12-10T09:37:24.649129Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Energy"}],
+ "PrintNo":"A9297","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-12-10T09:37:24.649129Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Energy"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-12-10","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2026-04-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9297A","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"}],"Title":"Enacts the homegrown energy act",
+ "Sponsors":[{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"}],
+ "Title":"Provides a host community benefit for customers in a host community where data centers are expanded or placed",
  "Summary":"Requires hyperscale data centers to offset their electricity demand by funding household electrification measures.",
- "LawSection":"Public Service Law",
- "LawCode":"Add Art 12 §§250 - 252, Pub Serv L; add §1854-e, Pub Auth L; add §99-tt, St Fin L",
- "ActClause":"AN ACT to amend the public service law, the public authorities law and the state finance law, in relation to enacting the \"homegrown energy act\""
+ "LawSection":"Public Service Law","ActClause":"AN ACT in relation to requiring host community benefits"
 }

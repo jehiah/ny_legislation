@@ -1,12 +1,15 @@
 {
  "PrintNo":"S9331","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-02T15:33:59.879877Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-02","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2026-03-02","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-02","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-04-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2026-03-02","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.871","Date":"2026-04-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
  "Title":"Relates to access to prescription medication and coordination with workers' compensation board regulations governing network pharmacy use",
  "Summary":"Codifies certain regulations of the workers' compensation board relating to access to prescription medication and coordination with workers' compensation board regulations governing network pharmacy use; requires the workers' compensation board to file a report on out-of-network pharmacy use within 3 years of the effective date.",
  "LawSection":"Workers' Compensation Law","LawCode":"Amd §13, Work Comp L",
  "ActClause":"AN ACT to amend the workers' compensation law, in relation to access to prescription medication and coordination with workers' compensation board regulations governing network pharmacy use",
- "PreviousVersions":["A8117-2019","S7245-2019","S1026-2021","S1974-2023","S4926-2025"]
+ "SameAsPrintNo":"A10413-2025","PreviousVersions":["A8117-2019","S7245-2019","S1026-2021","S1974-2023","S4926-2025"]
 }

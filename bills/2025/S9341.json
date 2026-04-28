@@ -1,11 +1,15 @@
 {
  "PrintNo":"S9341","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-03T11:55:24.211566Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Consumer Protection"}],
+ "Published":"2026-03-03T11:55:24.211566Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-03-03","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER PROTECTION","Date":"2026-03-10","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9341A","Date":"2026-03-10","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9341A","Date":"2026-03-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.837","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
  "Title":"Relates to penalties for a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims",

@@ -1,12 +1,14 @@
 {
- "PrintNo":"A8007","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A8007","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-04-21T12:48:02.417357Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-27","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-27","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-04-21","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-27","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 8007A","Date":"2026-03-27","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 8007A","Date":"2026-03-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-04-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 8007B","Date":"2026-04-27","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},
@@ -23,5 +25,5 @@
  "Summary":"Requires food service establishments to permit the use of reusable beverage and food containers provided by customers when requesting a beverage refill or requesting leftovers from a partially consumed meal to be packaged and post signs to inform customers that they are permitted to do so.",
  "LawSection":"Public Health Law","LawCode":"Add §1352-f, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to requiring food service establishments to permit the use of reusable beverage and food containers provided by customers",
- "SameAsPrintNo":"S7408-2025","PreviousVersions":["A8722-2019","A3052-2021","A4673-2023"]
+ "PreviousVersions":["A8722-2019","A3052-2021","A4673-2023"]
 }

@@ -1,7 +1,10 @@
 {
  "PrintNo":"S4391","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-04T14:11:21.822362Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.321","Date":"2025-02-11","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-25","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.832","Date":"2026-04-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

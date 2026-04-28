@@ -1,7 +1,10 @@
 {
  "PrintNo":"S4191","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T13:01:59.35408Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.569","Date":"2025-03-18","Chamber":"SENATE"},
@@ -12,7 +15,8 @@
   {"Text":"REFERRED TO ENERGY","Date":"2025-05-14","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.865","Date":"2026-04-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

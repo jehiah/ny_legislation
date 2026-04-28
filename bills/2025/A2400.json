@@ -1,9 +1,10 @@
 {
  "PrintNo":"A2400","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-16T11:01:19.745602Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-16T11:01:19.745602Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-31","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-27"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Energy And Telecommunications"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-16","Chamber":"ASSEMBLY"},
@@ -11,12 +12,33 @@
   {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-03-31","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 2400A","Date":"2026-03-31","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.351","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.351","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-04-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-04-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable         Correction Date:04/22/2026","Date":"2026-04-21","Chamber":"ASSEMBLY",
    "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Excused"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Excused"},{"ID":1561,"Short":"LASHER","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-04-27","Chamber":"ASSEMBLY","Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
    "Votes":[
     {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
     {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},

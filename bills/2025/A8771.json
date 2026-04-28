@@ -1,15 +1,19 @@
 {
  "PrintNo":"A8771","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-02T16:08:02.487312Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Consumer Affairs And Protection"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-27"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Consumer Protection"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-06-02","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.363","Date":"2026-04-23","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.363","Date":"2026-04-23","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-27","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-04-27","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-04-27","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -24,9 +28,25 @@
     {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
     {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"}
    ]
+  },
+  {
+   "VoteType":"","Date":"2026-04-27","Chamber":"ASSEMBLY","Committee":"CONSUMER AFFAIRS AND PROTECTION",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1474,"Short":"FORREST","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"}
+   ]
   }
  ],
- "Sponsors":[{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
+ "Sponsors":[
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},
+  {"ID":1545,"Name":"Sam Berger","Short":"BERGER"}
+ ],
  "Title":"Authorizes self-station gas stations to allow hands-free gas dispensing",
  "Summary":"Authorizes self-service gas stations to allow for hands-free gas dispensing by installing hold open clips on gasoline and diesel fuel dispensing nozzles.",
  "LawSection":"General Business Law","LawCode":"Add §396-xx, Gen Bus L",
