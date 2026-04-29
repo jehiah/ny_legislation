@@ -1,8 +1,14 @@
 {
  "PrintNo":"S8711","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T13:46:05.175037Z",
- "Status":"IN_SENATE_COMM","Committee":"Commerce, Economic Development And Small Business",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Commerce, Economic Development And Small Business"}],
- "Actions":[{"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2026-01-07","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Commerce, Economic Development And Small Business"},
+  {"Type":"SENATE_FLOOR","Date":"2026-04-29"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.875","Date":"2026-04-29","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
  "Title":"Includes certain companies engaging in hospitality or tourism which primarily promote the sale, marketing, production, harvesting, or use of certain agricultural products in the excelsior jobs program",
  "Summary":"Includes certain companies engaging in hospitality or tourism which primarily promote the sale, marketing, production, harvesting, or use of certain agricultural products or food or drinks in the excelsior jobs program.",

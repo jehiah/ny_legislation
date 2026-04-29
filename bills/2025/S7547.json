@@ -3,7 +3,7 @@
  "Published":"2025-04-22T14:22:42.650794Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-04-22","Chamber":"SENATE"},
@@ -12,7 +12,22 @@
   {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2025-05-19","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 7547B","Date":"2025-05-19","Chamber":"SENATE","Version":"B"},
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
-  {"Text":"1ST REPORT CAL.834","Date":"2026-04-28","Chamber":"SENATE","Version":"B"}
+  {"Text":"1ST REPORT CAL.834","Date":"2026-04-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-28","Version":"B","Chamber":"SENATE","Committee":"Consumer Protection",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},

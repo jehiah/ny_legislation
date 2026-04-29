@@ -1,15 +1,19 @@
 {
  "PrintNo":"A10160","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-02-12T13:53:34.254281Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2026-02-12T13:53:34.254281Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-30"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-30"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-29"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-29","Committee":"Energy And Telecommunications"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-02-12","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.336","Date":"2026-03-26","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 10160A","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 10160A","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-04-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

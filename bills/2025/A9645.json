@@ -1,11 +1,30 @@
 {
  "PrintNo":"A9645","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-21T17:00:01.18627Z","Status":"IN_ASSEMBLY_COMM","Committee":"Veterans' Affairs",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-14","Committee":"Veterans' Affairs"}],
+ "Published":"2026-01-21T17:00:01.18627Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-28","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2026-01-21","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO VETERANS' AFFAIRS","Date":"2026-04-14","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 9645A","Date":"2026-04-14","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 9645A","Date":"2026-04-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-04-28","Chamber":"ASSEMBLY",
+   "Committee":"VETERANS' AFFAIRS",
+   "Votes":[
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1573,"Short":"CASHMAN","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
@@ -18,7 +37,9 @@
   {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":1527,"Name":"Michael Novakhov","Short":"NOVAKHOV"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1528,"Name":"Lester Chang","Short":"CHANG"},
   {"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
-  {"ID":608,"Name":"Edward Ra","Short":"RA"},{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"}
+  {"ID":608,"Name":"Edward Ra","Short":"RA"},{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},
+  {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}
  ],
  "Title":"Relates to establishing a veteran suicide mortality review board",
  "Summary":"Establishes a 13 member veteran suicide mortality review board to serve as the statewide entity responsible for the multidisciplinary review of suicide deaths among veterans by identifying trends and systemic factors contributing to veteran suicide; assessing gaps in services, access to care, and institutional practices; developing evidence-based recommendations for prevention and policy improvement; and promoting collaboration among relevant state, local, and federal agencies.",

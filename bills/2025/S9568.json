@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9568","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-25T10:47:32.39845Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-25","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2026-03-25","Chamber":"SENATE"}],
+ "PrintNo":"S9568","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-25T10:47:32.39845Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-03-25","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-04-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9568A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to the approval of applications of charter schools",
- "Summary":"Provides that charter school applicants in a city with a population of one million or more shall first apply to the community district education council for approval for renewal of a charter.",
+ "Summary":"Provides that charter school applicants in a city with a population of one million or more shall first apply to the community district education council for approval for renewal of a charter within a certain amount of time and public hearings shall be conducted on such proposed application.",
  "LawSection":"Education Law","LawCode":"Amd §§2851 & 2852, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to approval of applications of charter schools"
+ "ActClause":"AN ACT to amend the education law, in relation to approval of applications of charter schools",
+ "SameAsPrintNo":"A10729-2025"
 }

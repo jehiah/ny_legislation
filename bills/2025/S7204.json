@@ -1,9 +1,9 @@
 {
- "PrintNo":"S7204","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-03T16:11:53.265491Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S7204","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-03T16:11:53.265491Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-03","Chamber":"SENATE"},
@@ -16,7 +16,9 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.828","Date":"2026-04-28","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.828","Date":"2026-04-28","Chamber":"SENATE"},
+  {"Text":"AMENDED 7204A","Date":"2026-04-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

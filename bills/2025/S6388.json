@@ -3,14 +3,29 @@
  "Published":"2025-03-13T10:04:03.307163Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-03-04","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-03-13","Chamber":"SENATE"},
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2026-03-04","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 6388A","Date":"2026-03-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"1ST REPORT CAL.833","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"1ST REPORT CAL.833","Date":"2026-04-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-28","Version":"A","Chamber":"SENATE","Committee":"Consumer Protection",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Provides for electronic notice for collateral loan brokers",

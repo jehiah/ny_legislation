@@ -1,12 +1,13 @@
 {
- "PrintNo":"S9517","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-19T09:54:36.050811Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-04-22"}],
+ "PrintNo":"S9517","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-19T09:54:36.050811Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-19","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-04-28"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-03-19","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.707","Date":"2026-04-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-22","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 9517A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,9 +28,8 @@
   }
  ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
- "Title":"Relates to notifying an insured of a rate filing increase for long term care",
- "Summary":"Relates to notifying an insured of a rate filing increase for long term care; provides such notification shall include instructions on how to submit comments on such rate filing.",
+ "Title":"Relates to notifying an insured of a rate filing increase or decrease for long term care",
+ "Summary":"Relates to notifying an insured of a rate filing increase or decrease for long term care; provides such notification shall include instructions on how to submit comments on such rate filing.",
  "LawSection":"Insurance Law","LawCode":"Amd §1117, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to notifying an insured of a rate filing increase for long term care",
- "SameAsPrintNo":"A10746-2025"
+ "ActClause":"AN ACT to amend the insurance law, in relation to notifying an insured of a rate filing increase or decrease for long term care"
 }

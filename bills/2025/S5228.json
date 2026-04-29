@@ -1,7 +1,7 @@
 {
- "PrintNo":"S5228","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T16:06:34.421028Z",
- "Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Children And Families"}],
+ "PrintNo":"S5228","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-19T16:06:34.421028Z","Status":"IN_SENATE_COMM","Committee":"Children And Families",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-29","Committee":"Children And Families"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-02-19","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-06-04","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CHILDREN AND FAMILIES","Date":"2026-04-29","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5228A","Date":"2026-04-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -114,8 +116,8 @@
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1225,"Name":"John Liu","Short":"LIU"}
  ],
  "Title":"Directs the office of children and family services to establish a center for fatherhood initiatives",
- "Summary":"Directs the office of children and family services to establish a center for fatherhood initiatives to issue grants to any and all initiatives regarding the promotion and advancement of fatherhood, including but not limited to all marginalized fatherhood groups to help expand opportunities to improve parenting knowledge, attitudes, and self-efficacy.",
+ "Summary":"Directs the office of children and family services to establish a center for fatherhood initiatives to issue grants to initiatives regarding the promotion and advancement of fatherhood, including but not limited to all underserved fatherhood groups to help expand opportunities to improve parenting knowledge, attitudes, and self-efficacy.",
  "LawSection":"Executive Law","LawCode":"Add §501-i, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to directing the office of children and family services to establish a center for fatherhood initiatives",
- "PreviousVersions":["S8892-2023"]
+ "SameAsPrintNo":"A1211-2025","PreviousVersions":["S8892-2023"]
 }

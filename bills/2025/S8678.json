@@ -1,8 +1,12 @@
 {
- "PrintNo":"S8678","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T11:04:03.242614Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}],
+ "PrintNo":"S8678","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-07T11:04:03.242614Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-29","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-04-29","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8678A","Date":"2026-04-29","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
@@ -11,6 +15,5 @@
  "Title":"Expands Medicaid coverage to include pharmacological treatment for hyperhidrosis",
  "Summary":"Expands Medicaid coverage to include pharmacological treatment for hyperhidrosis when such treatment is ordered by a physician, registered physician assistant, or registered nurse practitioner; provides that the provisions shall not take effect unless all necessary approvals under federal law and regulation have been obtained to receive federal financial participation in the costs.",
  "LawSection":"Social Services Law","LawCode":"Amd §365-a, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to expanding Medicaid coverage to include pharmacological treatment for hyperhidrosis",
- "SameAsPrintNo":"A9328-2025"
+ "ActClause":"AN ACT to amend the social services law, in relation to expanding Medicaid coverage to include pharmacological treatment for hyperhidrosis"
 }

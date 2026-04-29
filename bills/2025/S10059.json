@@ -1,14 +1,18 @@
 {
- "PrintNo":"S10059","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-24T15:47:18.261573Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-24","Chamber":"SENATE"}],
+ "PrintNo":"S10059","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-24T15:47:18.261573Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-24","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-04-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10059A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
-  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"}
+  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Enacts \"Brendon's law\" relating to motor vehicle speed contests, races, sideshows and street takeovers",
- "Summary":"Enacts \"Brendon's law\" to prohibit participation, including spectators within two hundred feet, of any motor vehicle speed contest, sideshow and street takeovers; authorizes seizure and forfeiture.",
- "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §1182, add §1212-a, V & T L",
- "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to motor vehicle speed contests, sideshows and street takeovers",
- "SameAsPrintNo":"A6986-2025"
+ "Summary":"Enacts \"Brendon's law\" to prohibit participation, including spectators within two hundred feet, of any motor vehicle speed contest, sideshow and street takeovers; authorizes seizure and forfeiture; adds damaging an authorized emergency vehicle as constituting the crime of criminal mischief in the third degree.",
+ "LawSection":"Vehicle and Traffic Law","LawCode":"Amd §1182, add §1212-a, V & T L; amd §145.05, Pen L",
+ "ActClause":"AN ACT to amend the vehicle and traffic law, in relation to motor vehicle speed contests, sideshows and street takeovers; and to amend the penal law, in relation to the crime of criminal mischief in the third degree"
 }

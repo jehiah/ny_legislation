@@ -1,10 +1,7 @@
 {
- "PrintNo":"S3180","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T09:47:33.521425Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2026-03-12"},
-  {"Type":"PASSED_SENATE","Date":"2026-03-19"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-19","Committee":"Aging"}
- ],
+ "PrintNo":"S3180","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T09:47:33.521425Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2026-04-28"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-04","Chamber":"SENATE"},
@@ -24,7 +21,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-19","Chamber":"SENATE"},
   {"Text":"REFERRED TO AGING","Date":"2026-03-19","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-04-28","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-04-28","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-04-28","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 3180A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -224,8 +223,8 @@
   {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Provides for elder abuse prevention training",
- "Summary":"Requires the office for the aging to develop and provide elder abuse prevention training to train senior service centers and contractors in the detection and reporting of elder abuse in consultation with the office of children and family services.",
+ "Summary":"Requires the office for the aging to develop and provide elder abuse prevention training to train senior service centers and entities that contract with the office for the aging and the office of children and family services to provide services to elderly persons in the detection and reporting of elder abuse in consultation with the office of children and family services.",
  "LawSection":"Elder Law","LawCode":"Add §219-a, Eld L",
  "ActClause":"AN ACT to amend the elder law, in relation to providing elder abuse prevention training",
- "PreviousVersions":["S7237-2015","S4501-2017","S1968-2019","S5196-2021","S1730-2023"]
+ "SameAsPrintNo":"A582-2025","PreviousVersions":["S7237-2015","S4501-2017","S1968-2019","S5196-2021","S1730-2023"]
 }

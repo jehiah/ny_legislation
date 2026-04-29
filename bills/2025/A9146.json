@@ -1,10 +1,25 @@
 {
  "PrintNo":"A9146","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-10-17T14:23:57.584166Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Racing And Wagering"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-29","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-10-17","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO RACING AND WAGERING","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO RACING AND WAGERING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-04-29","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-04-29","Chamber":"ASSEMBLY",
+   "Committee":"RACING AND WAGERING",
+   "Votes":[
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1577,"Short":"POWERS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
  "Title":"Prohibits mobile sports wagering operators from providing counseling, therapy, and treatment services for bettors in New York",

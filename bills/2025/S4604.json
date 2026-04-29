@@ -1,11 +1,26 @@
 {
  "PrintNo":"S4604","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-10T10:23:18.75272Z",
  "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-04-28"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-04-29"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.855","Date":"2026-04-28","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.855","Date":"2026-04-28","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-28","Chamber":"SENATE","Committee":"Banks",
+   "Votes":[
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
+    {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER","Vote":"Aye"},
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}],
  "Title":"Relates to the application of certain provisions relating to commercial financing",

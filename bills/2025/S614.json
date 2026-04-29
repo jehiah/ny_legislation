@@ -1,5 +1,5 @@
 {
- "PrintNo":"S614","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S614","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-03T09:04:38.380655Z","Status":"SENATE_FLOOR",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"}],
  "Actions":[
@@ -19,7 +19,8 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-27","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.590","Date":"2026-03-24","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-25","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED (T) 614B","Date":"2026-04-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -195,10 +196,9 @@
   {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS"}
  ],
- "Title":"Relates to enrollment in medical assistance programs for incarcerated individuals",
- "Summary":"Provides presumptive eligibility for medical assistance benefits for persons released from correctional facilities for at least sixty days following release; provides for enrollment of such individuals upon release upon application, if eligible.",
- "LawSection":"Social Services Law",
- "LawCode":"Amd §§364-i & 366-a, Soc Serv L; add §500-r, amd §§71, 500-b & 45, Cor L",
- "ActClause":"AN ACT to amend the social services law and the correction law, in relation to presumptive eligibility for medical assistance benefits of individuals leaving incarceration",
- "SameAsPrintNo":"A1008-2025","PreviousVersions":["S8368-2021","S4906-2023"]
+ "Title":"Provides for enrollment in medical assistance programs for incarcerated individuals",
+ "Summary":"Provides for enrollment of eligible incarcerated persons in the medical assistance for needy persons program; provides for enrollment of incarcerated individuals in other medical assistance programs, where eligible.",
+ "LawSection":"Correction Law","LawCode":"Amd §71, add §500-r, Cor L; amd §366-a, Soc Serv L",
+ "ActClause":"AN ACT to amend the correction law and the social services law, in relation to the enrollment of incarcerated individuals in the medical assistance for needy persons program",
+ "SameAsPrintNo":"A269-2025","PreviousVersions":["S8368-2021","S4906-2023"]
 }

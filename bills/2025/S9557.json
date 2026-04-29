@@ -1,13 +1,15 @@
 {
- "PrintNo":"S9557","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-25T09:12:30.525863Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S9557","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-25T09:12:30.525863Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-03-25","Committee":"Ethics And Internal Governance"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2026-03-25","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.827","Date":"2026-04-28","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.827","Date":"2026-04-28","Chamber":"SENATE"},
+  {"Text":"AMENDED 9557A","Date":"2026-04-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,6 +29,5 @@
  "Title":"Expands disclosure requirements for lobbyists",
  "Summary":"Expands disclosure requirements for lobbyists to include appropriations, gubernatorial or local executive orders and tribal-state agreements.",
  "LawSection":"Legislative Law","LawCode":"Amd §§1-h & 1-j, Leg L",
- "ActClause":"AN ACT to amend the legislative law, in relation to requiring lobbyists to disclose their positions on bills",
- "SameAsPrintNo":"A9559-2025"
+ "ActClause":"AN ACT to amend the legislative law, in relation to requiring lobbyists to disclose their positions on bills"
 }

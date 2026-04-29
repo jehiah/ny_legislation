@@ -1,9 +1,10 @@
 {
  "PrintNo":"A2425","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-16T11:08:03.075754Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-16T11:08:03.075754Z","Status":"IN_SENATE_COMM","Committee":"Children And Families",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Social Services"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-16"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-16"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-29"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-29","Committee":"Children And Families"}
  ],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-16","Chamber":"ASSEMBLY"},
@@ -16,7 +17,10 @@
   {"Text":"RECALLED FROM SENATE","Date":"2026-04-16","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-16","Chamber":"SENATE"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-04-16","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 2425A","Date":"2026-04-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 2425A","Date":"2026-04-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPASSED ASSEMBLY","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-04-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,6 +39,20 @@
   },
   {
    "VoteType":"","Date":"2026-03-23","Chamber":"ASSEMBLY","Committee":"SOCIAL SERVICES",
+   "Votes":[
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":636,"Short":"FRIEND","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1576,"Short":"MORENO","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-04-16","Chamber":"ASSEMBLY","Committee":"SOCIAL SERVICES",
    "Votes":[
     {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
     {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},

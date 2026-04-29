@@ -1,12 +1,18 @@
 {
  "PrintNo":"A10393","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-03T11:59:16.791415Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-03","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-30"}],
+ "Published":"2026-03-03T11:59:16.791415Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-03","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-30"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-04-29"},{"Type":"IN_SENATE_COMM","Date":"2026-04-29","Committee":"Codes"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2026-03-03","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.337","Date":"2026-03-26","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 10393A","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 10393A","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2026-04-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -8,7 +8,32 @@
   {"Text":"PRINT NUMBER 9533A","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-04-28","Chamber":"ASSEMBLY","Committee":"LABOR",
+   "Votes":[
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Nay"},{"ID":1525,"Short":"RAGA","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"},{"ID":1532,"Short":"SIMONE","Vote":"Excused"},
+    {"ID":468,"Short":"RAMOS","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":500,"Name":"William Colton","Short":"COLTON"}
+ ],
  "Title":"Enacts the automation displacement protection act",
  "Summary":"Requires covered employers to provide notice to certain affected employees prior to any technological displacement; requires reporting; requires a workforce transition period; makes related provisions.",
  "LawSection":"Labor Law","LawCode":"Add Art 25-D §§863 - 863-d, Lab L",

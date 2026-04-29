@@ -1,16 +1,17 @@
 {
- "PrintNo":"S8204","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-21T10:30:26.593479Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S8204","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-21T10:30:26.593479Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Children And Families"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-27"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.727","Date":"2026-04-21","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-22","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 8204A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,5 +31,6 @@
  "Title":"Relates to the definition of the term prospective relative guardian",
  "Summary":"Provides that no person shall be precluded from being deemed a \"prospective relative guardian\" based on whether such person's relationship with the child was established before or after such child's placement into foster care.",
  "LawSection":"Social Services Law","LawCode":"Amd §458-a, Soc Serv L; amd §1028-a, Fam Ct Act",
- "ActClause":"AN ACT to amend the social services law and the family court act, in relation to the definition of the term \"prospective relative guardian\""
+ "ActClause":"AN ACT to amend the social services law and the family court act, in relation to the definition of the term \"prospective relative guardian\"",
+ "SameAsPrintNo":"A6941-2025"
 }

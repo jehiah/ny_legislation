@@ -1,14 +1,20 @@
 {
- "PrintNo":"A10729","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-27T14:27:07.357397Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-27","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2026-03-27","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10729","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-27T14:27:07.357397Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-29","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-04-29","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10729A","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
-  {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}
+  {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
+  {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"}
  ],
- "Title":"Requires that applications for a charter school shall be approved by the community district education council or board of education and public vote",
- "Summary":"Requires that applications for a charter school, renewals of a charter, and relocation of a charter school shall be approved by the community district education council or board of education and public vote prior to submission of such application to the charter entity for approval.",
+ "Title":"Relates to the approval of applications of charter schools",
+ "Summary":"Provides that charter school applicants in a city with a population of one million or more shall first apply to the community district education council for approval for renewal of a charter within a certain amount of time and public hearings shall be conducted on such proposed application.",
  "LawSection":"Education Law","LawCode":"Amd §§2851 & 2852, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to approval of applications of charter schools"
+ "ActClause":"AN ACT to amend the education law, in relation to approval of applications of charter schools",
+ "SameAsPrintNo":"S9568-2025"
 }

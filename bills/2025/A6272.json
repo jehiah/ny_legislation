@@ -1,10 +1,12 @@
 {
- "PrintNo":"A6272","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-03T16:34:29.050566Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A6272","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-03T16:34:29.050566Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-29","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-03","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-04-29","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6272A","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
@@ -24,5 +26,5 @@
  "Summary":"Provides for updates to rates for residential health care facilities.","LawSection":"Public Health Law",
  "LawCode":"Amd §2808, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to residential health care facility rates",
- "PreviousVersions":["A5905-2023"]
+ "SameAsPrintNo":"S5229-2025","PreviousVersions":["A5905-2023"]
 }
