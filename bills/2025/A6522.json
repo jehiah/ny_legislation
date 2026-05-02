@@ -1,13 +1,16 @@
 {
  "PrintNo":"A6522","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-05T14:00:43.778036Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "Published":"2025-03-05T14:00:43.778036Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-04-30","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 6522A","Date":"2025-04-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.411","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

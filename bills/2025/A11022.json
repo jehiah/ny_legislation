@@ -1,9 +1,36 @@
 {
  "PrintNo":"A11022","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-22T16:44:35.213717Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Veterans' Affairs",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Veterans' Affairs"}],
- "Actions":[{"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2026-04-22","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Veterans' Affairs"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2026-04-22","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.440","Date":"2026-04-30","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-28","Chamber":"ASSEMBLY","Committee":"VETERANS' AFFAIRS",
+   "Votes":[
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1573,"Short":"CASHMAN","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+ ],
  "Title":"Relates to making widely available information on programs related to the hiring of veterans",
  "Summary":"Directs the department of veterans' services and the department of economic development to make available on their website information about federal and state programs available to businesses that employ veterans.",
  "LawSection":"Veterans' Service Law","LawCode":"Amd §4, Veterans' Services L; amd §100, Ec Dev L",

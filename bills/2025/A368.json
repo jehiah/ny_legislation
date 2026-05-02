@@ -1,13 +1,36 @@
 {
  "PrintNo":"A368","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-02T10:32:50.514831Z","Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-23","Committee":"Labor"}],
+ "Published":"2025-01-02T10:32:50.514831Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-23","Committee":"Labor"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2026-04-23","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 368A","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.391","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-28","Chamber":"ASSEMBLY","Committee":"LABOR",
+   "Votes":[
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Nay"},{"ID":1135,"Short":"MORINELLO","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1464,"Short":"GIGLIO","Vote":"Nay"},
+    {"ID":1536,"Short":"SLATER","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},{"ID":1525,"Short":"RAGA","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"},{"ID":1532,"Short":"SIMONE","Vote":"Excused"},
+    {"ID":468,"Short":"RAMOS","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"}],
  "Title":"Relates to requiring employers to obtain an acknowledgement of receipt from employees of their sexual harassment prevention policy and sexual harassment prevention training program",

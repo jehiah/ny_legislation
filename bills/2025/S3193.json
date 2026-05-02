@@ -1,7 +1,7 @@
 {
- "PrintNo":"S3193","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T10:23:56.522931Z",
- "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Women's Issues"}],
+ "PrintNo":"S3193","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T10:23:56.522931Z","Status":"IN_SENATE_COMM","Committee":"Women's Issues",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-30","Committee":"Women's Issues"}],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.508","Date":"2025-03-11","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO HEALTH","Date":"2025-04-02","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO WOMEN'S ISSUES","Date":"2026-04-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3193A","Date":"2026-04-30","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -104,5 +106,5 @@
  "Summary":"Directs the department of health to create an informational pamphlet regarding the laparoscopic power morcellation surgery technique.",
  "LawSection":"Public Health Law","LawCode":"Add §2504-c, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to directing the department of health to create an informational pamphlet regarding the laparoscopic power morcellation surgery technique",
- "SameAsPrintNo":"A7897-2025","PreviousVersions":["S8893-2021","S2463-2023"]
+ "PreviousVersions":["S8893-2021","S2463-2023"]
 }

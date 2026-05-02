@@ -1,10 +1,14 @@
 {
  "PrintNo":"A10025","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-30T13:39:50.232034Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Children And Families"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Children And Families"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-30","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-04-27","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-04-27","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.423","Date":"2026-04-30","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -25,7 +29,8 @@
  "Sponsors":[
   {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
-  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
  ],
  "Title":"Relates to caregiver requirements for certain day care homes",
  "Summary":"Requires one caregiver for every two children under eighteen months of age in group family day care homes and family day care homes.",

@@ -1,10 +1,12 @@
 {
- "PrintNo":"A9295","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-12-10T09:36:51.867441Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Aging"}],
+ "PrintNo":"A9295","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-12-10T09:36:51.867441Z","Status":"IN_ASSEMBLY_COMM","Committee":"Aging",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-01","Committee":"Aging"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-12-10","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO AGING","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO AGING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO AGING","Date":"2026-05-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9295A","Date":"2026-05-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
@@ -14,6 +16,7 @@
  ],
  "Title":"Enacts the New York state good guardianship act",
  "Summary":"Enacts the New York state good guardianship act to establish the statewide initiative of not-for-profit guardians.",
- "LawSection":"Elder Law","LawCode":"Add §226, Eld L; add §99-tt, St Fin L",
- "ActClause":"AN ACT to amend the elder law and the state finance law, in relation to establishing the statewide initiative of not-for-profit guardians"
+ "LawSection":"Elder Law","LawCode":"Add §227, Eld L; amd §81.19, Ment Hyg L; add §99-uu, St Fin L",
+ "ActClause":"AN ACT to amend the elder law, the mental hygiene law and the state finance law, in relation to establishing the statewide initiative of not-for-profit guardians",
+ "SameAsPrintNo":"S8654-2025"
 }

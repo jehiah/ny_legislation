@@ -1,10 +1,26 @@
 {
  "PrintNo":"A8997","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-08-13T10:13:28.701611Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Alcoholism And Drug Abuse",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Alcoholism And Drug Abuse"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2025-08-13","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-02-10","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-02-10","Chamber":"ASSEMBLY",
+   "Committee":"ALCOHOLISM AND DRUG ABUSE",
+   "Votes":[
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1573,"Short":"CASHMAN","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
@@ -12,7 +28,8 @@
   {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
   {"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"},{"ID":1544,"Name":"Scott Gray","Short":"GRAY"},
-  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
+  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
+  {"ID":500,"Name":"William Colton","Short":"COLTON"}
  ],
  "Title":"Requires the report on statewide opioid settlements include the amount of funds that have been spent",
  "Summary":"Requires the report on statewide opioid settlements include the amount of funds that have been spent and requires the public be provided information on how much funds have been spent.",

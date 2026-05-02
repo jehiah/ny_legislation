@@ -1,10 +1,12 @@
 {
- "PrintNo":"S8083","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T17:50:39.72055Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S8083","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T17:50:39.72055Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-01","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-05-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8083A","Date":"2026-05-01","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
@@ -13,6 +15,5 @@
  "Title":"Relates to staffing at state-operated facilities that deliver health care services",
  "Summary":"Requires each state-operated facility that delivers health care services which is operated and licensed pursuant to the mental hygiene law, the education law, the correction law or section 504 of the executive law and which requires two or more registered nurses or licensed practical nurses to be present within the facility at any given time.",
  "LawSection":"Public Health Law","LawCode":"Amd §2805-t, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to nurse staffing committees",
- "SameAsPrintNo":"A8623-2025"
+ "ActClause":"AN ACT to amend the public health law, in relation to nurse staffing committees"
 }

@@ -1,10 +1,13 @@
 {
- "PrintNo":"A8309","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-13T14:23:21.79283Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"}],
+ "PrintNo":"A8309","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-13T14:23:21.79283Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-01","Committee":"Corporations, Authorities And Commissions"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-05-13","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8309A","Date":"2026-05-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
@@ -18,8 +21,8 @@
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Requires certain public authorities to develop a feasibility study to promote bicycle and pedestrian access on bridges",
- "Summary":"Requires the New York state bridge authority, the Triborough bridge authority, the Thousand Islands bridge authority, the Nassau county bridge authority, the Ogdensburg bridge authority, and the New York state thruway authority to develop a feasibility study to promote bicycle and pedestrian access on bridges and provide a report to the governor, temporary president of the senate, speaker of the assembly, and the public a copy of such plan.",
+ "Summary":"Requires the New York state bridge authority, the Thousand Islands bridge authority, the Nassau county bridge authority, the Ogdensburg bridge authority, and the New York state thruway authority to develop a feasibility study to promote bicycle and pedestrian access on bridges and provide a report to the governor, temporary president of the senate, speaker of the assembly, and the public a copy of such plan.",
  "LawSection":"Public Authorities Law","LawCode":"Add §§543, 593, 669, 718 & 390, Pub Auth L",
  "ActClause":"AN ACT to amend the public authorities law, in relation to requiring certain public authorities to develop a feasibility study to promote bicyclist and pedestrian access on bridges statewide and to consider the impact of capital projects on bicyclist and pedestrian access",
- "SameAsPrintNo":"S5178-2025","PreviousVersions":["A8300-2023"]
+ "PreviousVersions":["A8300-2023"]
 }

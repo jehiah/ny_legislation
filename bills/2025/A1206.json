@@ -1,7 +1,9 @@
 {
  "PrintNo":"A1206","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-09T10:35:11.297133Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "Published":"2025-01-09T10:35:11.297133Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-04-28","Chamber":"ASSEMBLY"},
@@ -9,7 +11,8 @@
   {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 1206B","Date":"2025-05-15","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ADVANCED TO THIRD READING CAL.394","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

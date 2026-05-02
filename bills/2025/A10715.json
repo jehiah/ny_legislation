@@ -1,10 +1,12 @@
 {
  "PrintNo":"A10715","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-27T13:49:21.218073Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-31","Committee":"Codes"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-31","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTION LAW","Date":"2026-03-27","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-03-31","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-03-31","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.432","Date":"2026-04-30","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -18,6 +20,30 @@
     {"ID":1536,"Short":"SLATER","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
     {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
     {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1141,"Short":"TAYLOR","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-04-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL RC","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1547,"Short":"CARROLL P","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Nay"},{"ID":908,"Short":"BRABENEC","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1135,"Short":"MORINELLO","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Nay"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":1141,"Short":"TAYLOR","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Excused"},
+    {"ID":1118,"Short":"VANEL","Vote":"Absent"},{"ID":1531,"Short":"BORES","Vote":"Absent"}
    ]
   }
  ],

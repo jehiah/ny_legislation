@@ -1,11 +1,15 @@
 {
- "PrintNo":"S9278","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-24T11:36:07.671815Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-24","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-02-24","Chamber":"SENATE"}],
+ "PrintNo":"S9278","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-02-24T11:36:07.671815Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-30","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-04-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9278A","Date":"2026-04-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Relates to interest earned on the statewide opioid settlement agreement money",
- "Summary":"Includes interest earned on the monies obtained by the state through the statewide opioid settlement agreement, in the opioid settlement fund.",
+ "Summary":"Includes interest earned on the monies obtained by the state through the statewide opioid settlement agreement, in the opioid settlement fund; requires any New York subdivision that receives funds pursuant to an opioid settlement agreement to spend interest earned on such funds on approved uses.",
  "LawSection":"State Finance Law","LawCode":"Amd §99-nn, St Fin L",
  "ActClause":"AN ACT to amend the state finance law, in relation to interest earned on the statewide opioid settlement agreement money",
  "SameAsPrintNo":"A10234-2025"

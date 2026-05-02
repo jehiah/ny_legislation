@@ -1,8 +1,35 @@
 {
  "PrintNo":"A10722","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-27T14:25:38.016573Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-27","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-27","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-27","Committee":"Transportation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-27","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.433","Date":"2026-04-30","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-28","Chamber":"ASSEMBLY","Committee":"TRANSPORTATION",
+   "Votes":[
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},
+    {"ID":1466,"Short":"DURSO","Vote":"Nay"},{"ID":1464,"Short":"GIGLIO","Vote":"Nay"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Nay"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Nay"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Nay"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Excused"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
  "Title":"Relates to adjudications and owner liability for a violation of traffic-control signal indications in the village of Pelham Manor",
  "Summary":"Extends provisions of law permitting adjudications and owner liability for a violation of traffic-control signal indications in the village of Pelham Manor.",

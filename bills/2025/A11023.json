@@ -1,9 +1,33 @@
 {
  "PrintNo":"A11023","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-22T17:05:27.844376Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-04-22","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Mental Health"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-04-22","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.441","Date":"2026-04-30","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-28","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
+ ],
  "Title":"Relates to the powers of the head of the office of mental health and the head of the office for people with developmental disabilities to promulgate rules regarding communications needs of non-English speakers",
  "Summary":"Relates to the powers of the head of the office of mental health and the head of the office for people with developmental disabilities to promulgate rules regarding communications needs of non-English speakers seeking or receiving services; includes the provision of language services and documents in English and the twelve most common non-English languages spoken by individuals in New York State based on United States census data.",
  "LawSection":"Mental Hygiene Law","LawCode":"Amd §§7.09 & 13.09, Ment Hyg L",

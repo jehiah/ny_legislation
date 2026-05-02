@@ -1,10 +1,12 @@
 {
- "PrintNo":"A9099","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-09-12T12:03:51.469439Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"A9099","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-09-12T12:03:51.469439Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-30","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-09-12","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9099A","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
@@ -12,7 +14,7 @@
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
  ],
  "Title":"Relates to health care payment amounts",
- "Summary":"Requires an insurance company which owns a health care provider to pay the health care provider it owns no more than the lowest amount paid to any other insured health care provider for a comparable service; requires an insurance company, which is owned by a health care provider, to pay the health care provider which owns the health care provider no more than it pays the lowest amount paid to any other insured company for a comparable service.",
+ "Summary":"Requires an insurance company which owns a health care provider to pay any health care provider which it does not own an amount that is no less than the amount that it pays a health care provider which it does own for a comparable service; prohibits an insurance company which is owned by a health care provider from paying any health care provider which does not own such insurance company an amount that is less than the amount that it pays a health care provider which does own such company for a comparable service.",
  "LawSection":"Insurance Law","LawCode":"Amd §3224-a, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to health care payment amounts"
 }

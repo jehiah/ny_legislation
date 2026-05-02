@@ -1,13 +1,30 @@
 {
  "PrintNo":"A9297","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-12-10T09:37:24.649129Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Energy"}],
+ "Published":"2025-12-10T09:37:24.649129Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-12-10","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2026-04-21","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9297A","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.415","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-28","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"}],
  "Title":"Provides a host community benefit for customers in a host community where data centers are expanded or placed",

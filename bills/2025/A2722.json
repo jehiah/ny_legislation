@@ -1,10 +1,32 @@
 {
- "PrintNo":"A2722","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-22T09:28:26.404429Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "PrintNo":"A2722","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-22T09:28:26.404429Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-22","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-04-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2722A","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.401","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-04-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Excused"},
+    {"ID":1118,"Short":"VANEL","Vote":"Absent"},{"ID":1531,"Short":"BORES","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
@@ -13,7 +35,7 @@
  ],
  "Title":"Requires the municipal police training council establish standards for the destruction of controlled substances",
  "Summary":"Requires the municipal police training council establish standards for the destruction of controlled substances; requires such destruction of controlled substances policies be publicly available.",
- "LawSection":"Executive Law","LawCode":"Amd §840, add §837-y, Exec L",
+ "LawSection":"Executive Law","LawCode":"Amd §840, add §837-aa, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to requiring the municipal police training council establish standards for the destruction of controlled substances",
  "SameAsPrintNo":"S4486-2025"
 }

@@ -1,11 +1,15 @@
 {
- "PrintNo":"A10234","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-12T14:25:48.75618Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Alcoholism And Drug Abuse",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Alcoholism And Drug Abuse"}],
- "Actions":[{"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-02-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10234","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-12T14:25:48.75618Z","Status":"IN_ASSEMBLY_COMM","Committee":"Alcoholism And Drug Abuse",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-30","Committee":"Alcoholism And Drug Abuse"}],
+ "Actions":[
+  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10234A","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":675,"Name":"Phil Steck","Short":"STECK"}],
  "Title":"Relates to interest earned on the statewide opioid settlement agreement money",
- "Summary":"Includes interest earned on the monies obtained by the state through the statewide opioid settlement agreement, in the opioid settlement fund.",
+ "Summary":"Includes interest earned on the monies obtained by the state through the statewide opioid settlement agreement, in the opioid settlement fund; requires any New York subdivision that receives funds pursuant to an opioid settlement agreement to spend interest earned on such funds on approved uses.",
  "LawSection":"State Finance Law","LawCode":"Amd §99-nn, St Fin L",
  "ActClause":"AN ACT to amend the state finance law, in relation to interest earned on the statewide opioid settlement agreement money",
  "SameAsPrintNo":"S9278-2025"

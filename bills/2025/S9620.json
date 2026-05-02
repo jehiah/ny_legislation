@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9620","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-30T14:11:48.324525Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-03-30","Chamber":"SENATE"}],
+ "PrintNo":"S9620","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-30T14:11:48.324525Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-30","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-03-30","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-04-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9620A","Date":"2026-04-30","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
  "Title":"Requires residential health care facilities to maintain hospice agreements to ensure access to hospice services for eligible residents",
  "Summary":"Requires residential health care facilities to maintain hospice agreements to ensure access to hospice services for eligible residents.",
- "LawSection":"Public Health Law","LawCode":"Amd §2808, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to requiring residential health care facilities to maintain hospice agreements to ensure access to hospice services for eligible residents"
+ "LawSection":"Public Health Law","LawCode":"Amd §2808-g, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to requiring residential health care facilities to maintain hospice agreements to ensure access to hospice services for eligible residents",
+ "SameAsPrintNo":"A10310-2025"
 }
