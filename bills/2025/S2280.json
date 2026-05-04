@@ -1,10 +1,9 @@
 {
- "PrintNo":"S2280","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-16T10:42:12.855164Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "PrintNo":"S2280","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-16T10:42:12.855164Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-14","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-09"},{"Type":"PASSED_SENATE","Date":"2026-02-24"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-24","Committee":"Codes"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-16","Chamber":"SENATE"},
@@ -28,7 +27,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-02-24","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-24","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO CODES","Date":"2026-02-24","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO CODES","Date":"2026-02-24","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 2280C","Date":"2026-05-04","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -204,5 +207,5 @@
  "Summary":"Requires law enforcement officers to conduct a lethality assessment as part of the standardized domestic incident report form when responding to incidents of domestic violence.",
  "LawSection":"Executive Law","LawCode":"Amd §§646, 837, 214-b & 840, Exec L; amd §654-a, Gen Bus L",
  "ActClause":"AN ACT to amend the executive law and the general business law, in relation to requiring a lethality assessment in incidents of domestic violence",
- "PreviousVersions":["S8977-2023"]
+ "SameAsPrintNo":"A4899-2025","PreviousVersions":["S8977-2023"]
 }

@@ -1,15 +1,16 @@
 {
- "PrintNo":"S9326","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-02T14:03:18.695943Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S9326","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-02T14:03:18.695943Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-03-02","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-07"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-02","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.668","Date":"2026-03-31","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-01","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-07","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-07","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 9326A","Date":"2026-05-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,5 +30,6 @@
  "Title":"Authorizes the assessor of the town of Babylon to accept an application for exemption from real property taxes from Tiegerman Community Services, Inc.",
  "Summary":"Authorizes the assessor of the town of Babylon to accept an application for exemption from real property taxes from Tiegerman Community Services, Inc.",
  "LawSection":"Real Property Taxation",
- "ActClause":"AN ACT in relation to authorizing the assessor of the town of Babylon to accept an application for exemption from real property taxes from Tiegerman Community Services, Inc."
+ "ActClause":"AN ACT in relation to authorizing the assessor of the town of Babylon to accept an application for exemption from real property taxes from Tiegerman Community Services, Inc.",
+ "SameAsPrintNo":"A10739-2025"
 }

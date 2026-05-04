@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4030","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-31T10:58:32.062974Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Published":"2025-01-31T10:58:32.062974Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-13","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2026-01-27"},{"Type":"PASSED_SENATE","Date":"2026-02-10"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Environmental Conservation"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Environmental Conservation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-31","Chamber":"SENATE"},
@@ -24,7 +25,9 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-01-27","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-02-10","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-10","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A6416A","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.410","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -202,5 +205,5 @@
  "Summary":"Directs the department of environmental conservation to promulgate air quality standards for emissions of certain toxic air contaminants.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §19-0330, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to emissions of toxic air contaminants",
- "PreviousVersions":["S4371-2021","S3328-2023"]
+ "SameAsPrintNo":"A6416-2025","PreviousVersions":["S4371-2021","S3328-2023"]
 }

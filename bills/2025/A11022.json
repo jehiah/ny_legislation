@@ -1,14 +1,18 @@
 {
  "PrintNo":"A11022","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-22T16:44:35.213717Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Veterans' Affairs"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Veterans, Homeland Security And Military Affairs"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2026-04-22","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.440","Date":"2026-04-30","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.440","Date":"2026-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-05-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {

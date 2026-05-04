@@ -1,12 +1,13 @@
 {
  "PrintNo":"S2655","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-22T11:47:05.747195Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Published":"2025-01-22T11:47:05.747195Z","Status":"STRICKEN",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-16","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-01-16","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 2655A","Date":"2026-01-16","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 2655A","Date":"2026-01-16","Chamber":"SENATE","Version":"A"},
+  {"Text":"RECOMMIT, ENACTING CLAUSE STRICKEN","Date":"2026-05-04","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1490,"Name":"Dan Stec","Short":"STEC"},{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"},
@@ -16,5 +17,5 @@
  "Summary":"Requires health insurance policies to cover costs for pediatric acute-onset neuropsychiatric syndrome rehabilitation treatment.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3216, 3221 & 4303, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to requiring certain health insurance policies to cover costs for pediatric acute-onset neuropsychiatric syndrome",
- "PreviousVersions":["S7256-2017","S1994-2019","S5332-2021","S3038-2023"]
+ "SameAsPrintNo":"A9659-2025","PreviousVersions":["S7256-2017","S1994-2019","S5332-2021","S3038-2023"]
 }

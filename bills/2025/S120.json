@@ -1,11 +1,9 @@
 {
- "PrintNo":"S120","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2024-12-18T15:38:20.16756Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Corporations, Authorities And Commissions",
+ "PrintNo":"S120","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-18T15:38:20.16756Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_SENATE","Date":"2026-04-15"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Corporations, Authorities And Commissions"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-08","Chamber":"SENATE"},
@@ -30,7 +28,11 @@
   {
    "Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-04-16","Chamber":"ASSEMBLY",
    "Version":"A"
-  }
+  },
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 120B","Date":"2026-05-04","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -205,8 +207,8 @@
   {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER"}
  ],
  "Title":"Prohibits termination of electricity or heat service during forecasts of extreme temperatures",
- "Summary":"Prohibits termination of electricity or heat service during forecasts of more than ninety degrees or less than thirty-two degrees.",
+ "Summary":"Prohibits termination of electricity or heat service during forecasts of 85 degrees or more than or thirty-two degrees or below.",
  "LawSection":"Public Service Law","LawCode":"Amd §32, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to prohibiting termination of residential utility service during forecasts of extreme temperature",
- "PreviousVersions":["S7982-2023"]
+ "SameAsPrintNo":"A5786-2025","PreviousVersions":["S7982-2023"]
 }

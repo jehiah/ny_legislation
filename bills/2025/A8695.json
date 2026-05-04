@@ -1,14 +1,18 @@
 {
  "PrintNo":"A8695","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-30T10:22:21.083832Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Judiciary",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},{"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Judiciary"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-05-30","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.413","Date":"2026-04-30","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.413","Date":"2026-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-05-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {

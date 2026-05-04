@@ -1,9 +1,9 @@
 {
  "PrintNo":"A9209","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-11-03T11:59:39.671963Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-11-03T11:59:39.671963Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-19","Committee":"Transportation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-11-03","Chamber":"ASSEMBLY"},
@@ -11,7 +11,9 @@
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-03-19","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9209A","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.334","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.334","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -38,7 +40,8 @@
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"},
-  {"ID":500,"Name":"William Colton","Short":"COLTON"}
+  {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
  ],
  "Title":"Relates to lights for bicycles with electric assist and electric scooters",
  "Summary":"Requires any person, firm, association or corporation selling or leasing bicycles with electric assist and electric scooters in NYS to affix front and rear lights.",

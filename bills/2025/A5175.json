@@ -1,7 +1,11 @@
 {
  "PrintNo":"A5175","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-12T11:50:40.662723Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}],
+ "Published":"2025-02-12T11:50:40.662723Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Internet And Technology"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-12","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -9,7 +13,10 @@
   {"Text":"PRINT NUMBER 5175A","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.406","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.406","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-05-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -51,7 +58,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"}],
+ "Sponsors":[{"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}],
  "Title":"Requires certain security features and warning labels on baby monitors",
  "Summary":"Prohibits the manufacture, distribution, sale, or offering for sale of a baby monitor that broadcasts audio or video through an internet connection unless it includes certain security features to prevent unauthorized access; requires a written warning label; provides penalties.",
  "LawSection":"General Business Law","LawCode":"Add §399-iii, Gen Bus L",

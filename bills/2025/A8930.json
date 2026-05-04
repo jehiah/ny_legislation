@@ -1,9 +1,10 @@
 {
  "PrintNo":"A8930","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-07-16T09:43:18.551894Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-07-16T09:43:18.551894Z","Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Crime Victims, Crime And Correction"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-07-16","Chamber":"ASSEMBLY"},
@@ -13,7 +14,10 @@
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.414","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.414","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-05-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

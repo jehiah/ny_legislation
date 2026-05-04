@@ -1,11 +1,18 @@
 {
  "PrintNo":"A11021","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-22T15:46:43.253918Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}],
+ "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Energy And Telecommunications"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2026-04-22","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.439","Date":"2026-04-30","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.439","Date":"2026-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-05-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -23,7 +30,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
+ "Sponsors":[
+  {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+ ],
  "Title":"Relates to requiring the public service commission to provide certain information relating to a major change in rates on its website",
  "Summary":"Requires the public service commission to post a written summary of the actions taken by the commission or department upon approval of a major change in rates to promote ratepayer affordability and minimizing residential energy burden.",
  "LawSection":"Public Service Law","LawCode":"Amd §66, Pub Serv L",

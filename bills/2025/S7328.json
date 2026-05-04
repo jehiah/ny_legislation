@@ -1,12 +1,7 @@
 {
- "PrintNo":"S7328","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-10T11:07:15.93886Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Corporations, Authorities And Commissions",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-01-27"},
-  {"Type":"PASSED_SENATE","Date":"2026-02-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Corporations, Authorities And Commissions"}
- ],
+ "PrintNo":"S7328","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-10T11:07:15.93886Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-04"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1100","Date":"2025-05-13","Chamber":"SENATE"},
@@ -29,7 +24,11 @@
   {
    "Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-02-05","Chamber":"ASSEMBLY",
    "Version":"A"
-  }
+  },
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 7328B","Date":"2026-05-04","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -252,8 +251,9 @@
   {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Increases the number of commissioners of the public service commission",
- "Summary":"Increases the number of commissioners of the public service commission to eight; requires the commission to have a duty to protect public interest, including ensuring access to utility services for residential and business customers; prohibits commissioners from having been employed within the last two years by an electric, gas, steam, telecommunications, or water utility that is regulated by the commission.",
+ "Title":"Relates to the appointment and responsibilities of the commissioners of the public service commission",
+ "Summary":"Relates to the appointment and responsibilities of the commissioners of the public service commission; requires the commission to have a duty to protect public interest, including ensuring access to utility services for residential and business customers; prohibits commissioners from having been employed within the last two years by an electric, gas, steam, telecommunications, or water utility that is regulated by the commission.",
  "LawSection":"Public Service Law","LawCode":"Amd §§4 & 9, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to the commissioners of the public service commission"
+ "ActClause":"AN ACT to amend the public service law, in relation to the commissioners of the public service commission",
+ "SameAsPrintNo":"A10993-2025"
 }

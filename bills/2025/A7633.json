@@ -1,7 +1,7 @@
 {
- "PrintNo":"A7633","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-02T11:35:14.347094Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A7633","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-02T11:35:14.347094Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-04-02","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-04-08","Chamber":"ASSEMBLY"},
@@ -11,7 +11,8 @@
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-22","Chamber":"SENATE"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"ORDERED TO THIRD READING CAL.192","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.192","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 7633A","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -51,5 +52,6 @@
  "Title":"Relates to electric charging station fee transparency",
  "Summary":"Directs the department of public service to promulgate rules and regulations to establish fee transparency standards for electric vehicle charging stations.",
  "LawSection":"Public Service Law","LawCode":"Add §66-x, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to electric vehicle charging station fee transparency"
+ "ActClause":"AN ACT to amend the public service law, in relation to electric vehicle charging station fee transparency",
+ "SameAsPrintNo":"S7260-2025"
 }

@@ -1,16 +1,22 @@
 {
  "PrintNo":"A10737","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-27T14:29:29.794402Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2026-03-27T14:29:29.794402Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-30","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Investigations And Government Operations"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-03-27","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2026-03-30","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10737A","Date":"2026-03-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.434","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.434","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"HOME RULE REQUEST","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

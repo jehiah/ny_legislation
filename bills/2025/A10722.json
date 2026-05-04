@@ -1,14 +1,19 @@
 {
  "PrintNo":"A10722","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-27T14:25:38.016573Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"IN_SENATE_COMM","Committee":"Transportation",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-27","Committee":"Transportation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Transportation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-27","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.433","Date":"2026-04-30","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.433","Date":"2026-04-30","Chamber":"ASSEMBLY"},
+  {"Text":"HOME RULE REQUEST","Date":"2026-05-04","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-05-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {

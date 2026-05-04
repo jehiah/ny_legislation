@@ -1,9 +1,9 @@
 {
- "PrintNo":"S2539","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S2539","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-21T14:27:55.191265Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-21","Chamber":"SENATE"},
@@ -13,7 +13,8 @@
   {"Text":"1ST REPORT CAL.412","Date":"2026-02-25","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED (T) 2539B","Date":"2026-03-17","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED (T) 2539B","Date":"2026-03-17","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 2539C","Date":"2026-05-04","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -34,5 +35,6 @@
  "Summary":"Requires retailers to post warning signs of the tracking and collecting of customers biometric data through electronic devices; provides for civil penalties.",
  "LawSection":"General Business Law","LawCode":"Add §390-f, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to requiring retailers to post warning signs of the tracking of customers through electronic devices that track, monitor, and collect biometric information on customers",
+ "SameAsPrintNo":"A1558-2025",
  "PreviousVersions":["A8234-2013","A1583-2015","A4719-2017","S3147-2019","S272-2021","S2404-2023"]
 }
