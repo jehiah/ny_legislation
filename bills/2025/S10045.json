@@ -1,8 +1,14 @@
 {
  "PrintNo":"S10045","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-24T13:38:16.030096Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-24","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.957","Date":"2026-05-05","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Extends the authority of the department of environmental conservation to restrict the taking of fish, shellfish and crustacea in special management areas",
  "Summary":"Extends the authority of the department of environmental conservation to restrict the taking of fish, shellfish and crustacea in special management areas.",

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S9582","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-26T14:01:55.291481Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-26","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2026-03-26","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-26","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2026-05-05"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-03-26","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.913","Date":"2026-05-05","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"}],
  "Title":"Relates to persons ineligible to act as a fiduciary",
  "Summary":"Removes being unable to read and write the English language as a reason a court may declare someone ineligible to act as a fiduciary.",

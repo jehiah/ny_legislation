@@ -1,10 +1,14 @@
 {
  "PrintNo":"S8513","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-09-24T09:02:37.100361Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-09-24","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.900","Date":"2026-05-05","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Permits the Johnson City school district to create an insurance reserve fund",

@@ -1,15 +1,32 @@
 {
  "PrintNo":"A10619","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-13T16:40:26.27579Z","Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Mental Health"}],
+ "Published":"2026-03-13T16:40:26.27579Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-28","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-03-13","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO MENTAL HEALTH","Date":"2026-03-20","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 10619A","Date":"2026-03-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 10619A","Date":"2026-03-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-04-28","Chamber":"ASSEMBLY",
+   "Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}],
  "Title":"Establishes a certified community behavioral health clinic public awareness campaign",
  "Summary":"Establishes a certified community behavioral health clinic public awareness campaign to educate the public regarding certified community behavioral health clinics.",
  "LawSection":"Mental Hygiene Law","LawCode":"Add §36.08, Ment Hyg L",
- "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing a certified community behavioral health clinic public awareness campaign"
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing a certified community behavioral health clinic public awareness campaign",
+ "SameAsPrintNo":"S10190-2025"
 }

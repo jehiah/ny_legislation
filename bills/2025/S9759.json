@@ -1,8 +1,11 @@
 {
  "PrintNo":"S9759","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-06T10:49:38.830024Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2026-04-06","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-05-05"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2026-04-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.986","Date":"2026-05-05","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"}],
  "Title":"Prohibits non-compete agreements and certain restrictive covenants",
  "Summary":"Prohibits non-compete agreements and certain restrictive covenants; authorizes covered individuals to bring a civil action in a court of competent jurisdiction against any employer or persons alleged to have violated such prohibition.",

@@ -7,7 +7,26 @@
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-25","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-02-25","Chamber":"ASSEMBLY","Committee":"AGRICULTURE",
+   "Votes":[
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":625,"Short":"BARRETT","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":571,"Short":"STIRPE","Vote":"Aye"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},{"ID":886,"Short":"WOERNER","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1573,"Short":"CASHMAN","Vote":"Aye"},{"ID":1576,"Short":"MORENO","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Excused"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Excused"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"}],
  "Title":"Relates to the penalty for the abandonment of animals",
  "Summary":"Provides that the penalty for the abandonment of animals is a misdemeanor, punishable by imprisonment for not more than one year, or by a fine of not less than five hundred dollars nor more than one thousand dollars, or by both.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd §355, Ag & Mkts L",

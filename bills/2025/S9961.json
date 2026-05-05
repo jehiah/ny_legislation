@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9961","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-17T15:36:57.481022Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-17","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-04-17","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-17","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-04-17","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.902","Date":"2026-05-05","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
  "Title":"Provides a real property tax exemption on real property owned by certain volunteer auxiliary police officers",
  "Summary":"Authorizes local governments to provide a real property tax exemption on real property owned by certain volunteer auxiliary police officers in Suffolk county.",

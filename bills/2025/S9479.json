@@ -1,11 +1,15 @@
 {
  "PrintNo":"S9479","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-17T13:00:45.292989Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-09","Committee":"Environmental Conservation"}],
+ "Published":"2026-03-17T13:00:45.292989Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-09","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-17","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-09","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9479A","Date":"2026-04-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9479A","Date":"2026-04-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.948","Date":"2026-05-05","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to the definition of tidal wetlands",

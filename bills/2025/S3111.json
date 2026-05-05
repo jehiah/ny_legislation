@@ -1,10 +1,9 @@
 {
  "PrintNo":"S3111","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T14:55:48.304874Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-02-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-04","Committee":"Ways And Means"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-04"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-04","Committee":"Education"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-23","Chamber":"SENATE"},
@@ -22,7 +21,7 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-04","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-04","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-04","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-05-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,11 +1,30 @@
 {
  "PrintNo":"S9126","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-02-05T10:44:41.144794Z","Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-16","Committee":"Crime Victims, Crime And Correction"}],
+ "Published":"2026-02-05T10:44:41.144794Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-16","Committee":"Crime Victims, Crime And Correction"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-02-05","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-04-16","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9126A","Date":"2026-04-16","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9126A","Date":"2026-04-16","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.928","Date":"2026-05-05","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-05","Version":"A","Chamber":"SENATE",
+   "Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1552,"Name":"April Baskin","Short":"BASKIN"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
@@ -14,5 +33,6 @@
  "Title":"Enacts \"India's law\"",
  "Summary":"Enacts \"India's law\" under which an incarcerated individual's next of kin shall be notified and allowed visitation by a local correctional facility when such individual is experiencing a serious medical event or demonstrating behavior that is likely to result in serious harm to themselves or others.",
  "LawSection":"Correction Law","LawCode":"Amd §§508 & 624, add §500-r, Cor L",
- "ActClause":"AN ACT to amend the correction law, in relation to enacting \"India's law\""
+ "ActClause":"AN ACT to amend the correction law, in relation to enacting \"India's law\"",
+ "SameAsPrintNo":"A10718-2025"
 }

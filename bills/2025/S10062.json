@@ -1,8 +1,14 @@
 {
  "PrintNo":"S10062","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-27T11:17:43.215904Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.961","Date":"2026-05-05","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Extends the authority of the department of environmental conservation to manage squid",
  "Summary":"Extends the authority of the department of environmental conservation to manage squid.",

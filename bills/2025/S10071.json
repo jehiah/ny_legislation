@@ -1,8 +1,14 @@
 {
  "PrintNo":"S10071","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-27T14:20:59.958439Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.962","Date":"2026-05-05","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1574,"Name":"Erik Bottcher","Short":"BOTTCHER"}],
  "Title":"Extends the authority of the department of environmental conservation to manage whelk and conch",
  "Summary":"Extends the authority of the department of environmental conservation to manage whelk and conch to December 31, 2029.",

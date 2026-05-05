@@ -1,8 +1,11 @@
 {
  "PrintNo":"S9765","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-06T12:57:59.563581Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2026-04-06","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2026-05-05"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-04-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.914","Date":"2026-05-05","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}],
  "Title":"Enacts the \"sunshine in litigation act\" regarding protective orders",
  "Summary":"Enacts the \"sunshine in litigation act\" regarding protective orders to prohibit settlement agreements which conceal a public hazard or any information that would identify a public hazard.",

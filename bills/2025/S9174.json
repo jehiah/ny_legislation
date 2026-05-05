@@ -1,11 +1,15 @@
 {
  "PrintNo":"S9174","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-10T15:54:26.66815Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2026-02-10","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-10","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-05-05"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2026-02-10","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.985","Date":"2026-05-05","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
  "Title":"Relates to the calculation of full-time employment for purposes of the federal public service loan forgiveness program",
  "Summary":"Increases the amount of credit to be certified under the federal public service loan forgiveness program for faculty or teachers to five hours worked for each hour of lecture or classroom time.",
  "LawSection":"Labor Law","LawCode":"Amd §1001, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to the calculation of full-time employment for purposes of the federal public service loan forgiveness program"
+ "ActClause":"AN ACT to amend the labor law, in relation to the calculation of full-time employment for purposes of the federal public service loan forgiveness program",
+ "SameAsPrintNo":"A10284-2025"
 }

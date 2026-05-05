@@ -1,8 +1,14 @@
 {
  "PrintNo":"S10040","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-24T13:35:03.256848Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-24","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.952","Date":"2026-05-05","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
  "Title":"Extends the authority of the department of environmental conservation to manage black sea bass",
  "Summary":"Extends the authority of the department of environmental conservation to manage black sea bass.",

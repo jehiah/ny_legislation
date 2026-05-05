@@ -1,12 +1,18 @@
 {
- "PrintNo":"A9381","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-12-19T16:15:23.29349Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-13","Committee":"Consumer Affairs And Protection"}],
+ "PrintNo":"A9381","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-12-19T16:15:23.29349Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-05","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-12-19","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-03-13","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 9381A","Date":"2026-03-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 9381A","Date":"2026-03-13","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-03-18","Chamber":"ASSEMBLY",
+   "Version":"A"
+  },
+  {"Text":"PRINT NUMBER 9381B","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":1487,"Name":"William Conrad","Short":"CONRAD"},
@@ -16,5 +22,6 @@
  "Title":"Relates to unauthorized rental car use",
  "Summary":"Amends provisions relating to unauthorized rental car use; authorizes a rental vehicle company to regain custody of a rental vehicle which is not returned at the end of the rental agreement including repossession.",
  "LawSection":"General Business Law","LawCode":"Amd §396-z, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to unauthorized rental car use"
+ "ActClause":"AN ACT to amend the general business law, in relation to unauthorized rental car use",
+ "SameAsPrintNo":"S9501-2025"
 }
