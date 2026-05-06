@@ -1,14 +1,16 @@
 {
- "PrintNo":"S843","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T12:45:40.932939Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Elections"}],
+ "PrintNo":"S843","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-06T12:45:40.932939Z","Status":"IN_SENATE_COMM","Committee":"Elections",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-06","Committee":"Elections"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.957","Date":"2025-05-06","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-07","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-08","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ELECTIONS","Date":"2026-05-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 843A","Date":"2026-05-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,9 +31,9 @@
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Establishes minimum staffing levels for local board of elections",
- "Summary":"Requires every board of elections to employ a minimum of four full time employees in addition to the appointed commissioners within four years and shall employ two of those full time employees within two years; and two additional employees for every twenty thousand active registered voters beyond forty thousand active registered voters.",
+ "Title":"Establishes minimum staffing levels for certain local board of elections",
+ "Summary":"Requires a board of elections in a county with over ten thousand active registered voters to employ a minimum of four full-time employees which may include the commissioner and deputies if such positions are full time.",
  "LawSection":"Election Law","LawCode":"Amd §3-300, El L",
- "ActClause":"AN ACT to amend the election law, in relation to establishing minimum staffing levels for local board of elections",
- "PreviousVersions":["S6684-2021","S644-2023"]
+ "ActClause":"AN ACT to amend the election law, in relation to establishing minimum staffing levels for certain local board of elections",
+ "SameAsPrintNo":"A6069-2025","PreviousVersions":["S6684-2021","S644-2023"]
 }

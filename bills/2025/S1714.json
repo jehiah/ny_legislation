@@ -1,10 +1,7 @@
 {
- "PrintNo":"S1714","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-13T11:38:25.309372Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-01-29"},
-  {"Type":"PASSED_SENATE","Date":"2026-04-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Health"}
- ],
+ "PrintNo":"S1714","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T11:38:25.309372Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-05-05"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-13","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.488","Date":"2025-03-04","Chamber":"SENATE"},
@@ -25,7 +22,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-21","Chamber":"SENATE"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-04-22","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-05","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-05-05","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-05","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1714A","Date":"2026-05-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -216,7 +215,7 @@
  "Title":"Prohibits the use of the term \"excited delirium\" as a diagnosis, label, or cause of death",
  "Summary":"Prohibits the use of the term \"excited delirium\" as a diagnosis, label, or cause of death on death certificates, autopsy reports, police reports or any report, policy or procedure by a public agency or contractor; defines excited delirium.",
  "LawSection":"Public Health Law",
- "LawCode":"Amd §4141, Pub Health L; amd §677, County L; add §837-y, Exec L; add §139-m, St Fin L",
+ "LawCode":"Amd §4141, Pub Health L; amd §677, County L; add §837-aa, Exec L; add §139-n, St Fin L",
  "ActClause":"AN ACT to amend the public health law, the county law, the executive law and the state finance law, in relation to prohibiting the use of the term excited delirium as a diagnosis, label, or cause of death",
  "SameAsPrintNo":"A697-2025","PreviousVersions":["S9039-2023"]
 }

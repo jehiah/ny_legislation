@@ -1,11 +1,13 @@
 {
- "PrintNo":"S6130","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-05T14:36:24.182999Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"S6130","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-05T14:36:24.182999Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Internet And Technology"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"SENATE"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REFERENCE CHANGED TO INTERNET AND TECHNOLOGY","Date":"2026-03-10","Chamber":"SENATE"}
+  {"Text":"REFERENCE CHANGED TO INTERNET AND TECHNOLOGY","Date":"2026-03-10","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-05-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6130A","Date":"2026-05-05","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
@@ -15,5 +17,6 @@
  ],
  "Title":"Relates to the consumer protection division in the department of state",
  "Summary":"Requires the consumer protection division to establish a process by which any state agency or third party, pursuant to an interagency agreement with the division for the purposes of fraud prevention, identity verification, and ensuring the integrity or security of individual identities, to grant access to verify New York resident identities via a secure comparison process against state systems.",
- "LawSection":"Executive Law","LawCode":"Amd §94-a, Exec L","SameAsPrintNo":"A6999-2025"
+ "LawSection":"Executive Law","LawCode":"Amd §94-a, Exec L",
+ "ActClause":"AN ACT to amend the executive law, in relation to certain interagency agreements with the consumer protection division"
 }

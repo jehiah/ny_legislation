@@ -8,7 +8,23 @@
   {"Text":"PRINT NUMBER 1566A","Date":"2025-04-02","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO ELECTION LAW","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO ELECTION LAW","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 1566B","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 1566B","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-05-06","Chamber":"ASSEMBLY","Committee":"ELECTION LAW",
+   "Votes":[
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL RC","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1152,"Short":"TAGUE","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1547,"Short":"CARROLL P","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}],
  "Title":"Includes a statement on the envelopes of ballots for early mail voters, absentee voters and special presidential voters for signature affirmation",

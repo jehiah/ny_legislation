@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9858","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-09T09:18:12.046807Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-09","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2026-04-09","Chamber":"SENATE"}],
+ "PrintNo":"S9858","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-09T09:18:12.046807Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-06","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2026-04-09","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9858A","Date":"2026-05-06","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
  "Title":"Amends the definition of mental health care provider for purposes of sex offenses",
- "Summary":"Amends the definition of mental health care provider for purposes of sex offenses to include persons who hold themself out to be, or provide services as if they were, licensed or registered as a psychologist, social worker, or mental health practitioner.",
+ "Summary":"Amends the definition of mental health care provider for purposes of sex offenses to include persons who are, or are required to be, licensed or registered or holds themselves out to be licensed or registered, or provides services as if they were licensed or registered as a physician, psychologist, professional nurse, clinical social worker, master social worker under the supervision of a physician, psychologist or licensed clinical social worker, licensed mental health counselor or a licensed marriage and family therapist.",
  "LawSection":"Penal Law","LawCode":"Amd §130.00, Pen L",
- "ActClause":"AN ACT to amend the penal law, in relation to the definition of mental health care provider for purposes of sex offenses"
+ "ActClause":"AN ACT to amend the penal law, in relation to the definition of mental health care provider for purposes of sex offenses",
+ "SameAsPrintNo":"A10940-2025"
 }

@@ -1,7 +1,10 @@
 {
  "PrintNo":"A3536","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-28T13:41:55.173044Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-06"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-01-28","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-08","Chamber":"ASSEMBLY"},
@@ -9,7 +12,9 @@
   {"Text":"REPORTED","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.559","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.559","Date":"2025-06-10","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING CAL.111","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.111","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -83,7 +88,8 @@
   {"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1152,"Name":"Chris Tague","Short":"TAGUE"},
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
-  {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
  ],
  "Title":"Relates to requiring navigation systems which utilize GPS technology to provide the actual height of bridges and overpasses along proposed routes",
  "Summary":"Requires navigation systems which utilize GPS technology to provide the legal clearance of bridges or elevated structures along proposed routes.",

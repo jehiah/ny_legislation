@@ -1,11 +1,7 @@
 {
- "PrintNo":"S7618","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-23T11:12:45.931168Z","Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-02-05"},
-  {"Type":"PASSED_SENATE","Date":"2026-03-24"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Agriculture"}
- ],
+ "PrintNo":"S7618","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-23T11:12:45.931168Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-05-05"}],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-23","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO CONSUMER PROTECTION","Date":"2025-05-14","Chamber":"SENATE"},
@@ -16,7 +12,11 @@
   {"Text":"AMENDED ON THIRD READING 7618A","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-03-24","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-24","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO AGRICULTURE","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 7618B","Date":"2026-05-05","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -124,8 +124,9 @@
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},
   {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
  ],
- "Title":"Relates to food safety and quality date labelling requirements",
- "Summary":"Requires certain labelling to be used to indicate the safety dates and quality dates of food items; requires the department of agriculture and markets to educate consumers about such provisions.",
+ "Title":"Relates to food safety and quality date labeling requirements",
+ "Summary":"Requires certain labeling to be used to indicate the safety dates and quality dates of food products; requires the department of agriculture and markets to educate consumers about such provisions.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Add §214-p, Ag & Mkts L",
- "ActClause":"AN ACT to amend the agriculture and markets law, in relation to food safety and quality date labelling requirements"
+ "ActClause":"AN ACT to amend the agriculture and markets law, in relation to food safety and quality date labelling requirements",
+ "SameAsPrintNo":"A7291-2025"
 }

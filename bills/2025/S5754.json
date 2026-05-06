@@ -11,7 +11,21 @@
   {"Text":"PRINT NUMBER 5754B","Date":"2026-04-17","Chamber":"SENATE","Version":"B"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-05","Chamber":"SENATE","Version":"B"}
  ],
- "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-05","Version":"B","Chamber":"SENATE","Committee":"Civil Service And Pensions",
+   "Votes":[
+    {"ID":1574,"Name":"Erik Bottcher","Short":"BOTTCHER","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"}],
  "Title":"Authorizes an optional twenty-five year retirement plan for fire marshals I or supervisors of such title in Suffolk county",
  "Summary":"Authorizes an optional twenty-five year retirement plan for fire marshals I and supervisors of such title in Suffolk county.",
  "LawSection":"Retirement and Social Security Law","LawCode":"Amd §§604, 603 & 445, add §89-z, R & SS L",

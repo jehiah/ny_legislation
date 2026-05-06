@@ -1,12 +1,14 @@
 {
- "PrintNo":"A2140","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A2140","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-15T15:51:17.886793Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-13","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-06","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-15","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-02-13","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 2140A","Date":"2026-02-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 2140A","Date":"2026-02-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 2140B","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},
@@ -36,12 +38,12 @@
   {"ID":1508,"Name":"Brian Cunningham","Short":"CUNNINGHAM"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":1576,"Name":"Diana Moreno","Short":"MORENO"},{"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},
   {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},
-  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}
  ],
  "Title":"Relates to fair pricing for low-complexity, routine medical care",
  "Summary":"Relates to fair pricing for low-complexity, routine medical care to more closely align payment rates across ambulatory settings for selected services that are safe and appropriate to provide in all settings.",
  "LawSection":"Public Health Law",
  "LawCode":"Ren §2830 to be §2833, add §2834, amd §4406-c, Pub Health L; amd §§3217-b, 3221, 4325, 4413, 3231 & 4308, add §§4242 & 4715, Ins L",
  "ActClause":"AN ACT to amend the public health law, in relation to fair pricing for low-complexity, routine medical care; and to amend the insurance law, in relation to billing and reimbursement",
- "PreviousVersions":["S9952-2023"]
+ "SameAsPrintNo":"S705-2025","PreviousVersions":["S9952-2023"]
 }

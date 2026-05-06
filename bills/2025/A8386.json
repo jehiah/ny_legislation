@@ -1,10 +1,12 @@
 {
- "PrintNo":"A8386","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-13T14:48:51.604213Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "PrintNo":"A8386","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-13T14:48:51.604213Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-06","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-13","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8386A","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},
@@ -19,8 +21,8 @@
   {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}
  ],
  "Title":"Relates to the creation of a \"ebony alert system\" for missing Black youth",
- "Summary":"Provides for the creation of an ebony alert system to be activated on behalf of Black youth, including young women, men, nonbinary, boys, and girls, who are reported missing under unexplained or suspicious circumstances, at risk, developmentally disabled, or cognitively impaired, or who have been abducted.",
- "LawSection":"Executive Law","LawCode":"Add §837-y, Exec L",
+ "Summary":"Provides for the creation of an ebony alert system to be activated on behalf of Black youth who are reported missing under unexplained or suspicious circumstances, at risk, developmentally disabled, or cognitively impaired, or who have been abducted.",
+ "LawSection":"Executive Law","LawCode":"Add §837-f-3, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to the creation of a \"ebony alert system\" for missing Black youth",
- "SameAsPrintNo":"S6865-2025","PreviousVersions":["S8345-2023"]
+ "PreviousVersions":["S8345-2023"]
 }

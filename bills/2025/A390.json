@@ -1,10 +1,12 @@
 {
- "PrintNo":"A390","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-02T10:43:28.891784Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Banks"}],
+ "PrintNo":"A390","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-02T10:43:28.891784Z","Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-06","Committee":"Banks"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 390A","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
@@ -16,5 +18,5 @@
  "Summary":"Requires transmitters of money to provide a warning which informs consumers of certain fraudulent activities that may occur.",
  "LawSection":"Banking Law","LawCode":"Add §652-c, Bank L",
  "ActClause":"AN ACT to amend the banking law, in relation to requiring transmitters of money to provide a certain warning to consumers",
- "PreviousVersions":["A9728-2019","A5864-2021","A2282-2023"]
+ "SameAsPrintNo":"S2040-2025","PreviousVersions":["A9728-2019","A5864-2021","A2282-2023"]
 }

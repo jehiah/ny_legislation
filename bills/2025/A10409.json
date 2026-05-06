@@ -8,7 +8,28 @@
   {"Text":"PRINT NUMBER 10409A","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-05","Chamber":"ASSEMBLY",
+   "Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":636,"Short":"FRIEND","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
+ ],
  "Title":"Excludes child day care providers from restrictions on receiving financial assistance from industrial development agencies",
  "Summary":"Excludes child day care providers from restrictions on receiving financial assistance from industrial development agencies.",
  "LawSection":"General Municipal Law","LawCode":"Amd §862, Gen Muni L",

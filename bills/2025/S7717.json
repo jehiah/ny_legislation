@@ -1,7 +1,7 @@
 {
- "PrintNo":"S7717","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-01T12:23:54.325831Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"}],
+ "PrintNo":"S7717","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-01T12:23:54.325831Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-06","Committee":"Consumer Protection"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-05-01","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2026-05-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7717A","Date":"2026-05-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -116,5 +118,6 @@
  "Title":"Sets maximum rates that may be charged for the towing and subsequent storage of a motor vehicle",
  "Summary":"Sets maximum rates that may be charged for the towing and subsequent storage of passenger and large vehicles outside of New York city.",
  "LawSection":"General Business Law","LawCode":"Add §§399-xxx & 399-xxxx, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to setting maximum rates that may be charged for the towing and subsequent storage of a motor vehicle"
+ "ActClause":"AN ACT to amend the general business law, in relation to setting maximum rates that may be charged for the towing and subsequent storage of a motor vehicle",
+ "SameAsPrintNo":"A8858-2025"
 }

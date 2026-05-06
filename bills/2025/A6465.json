@@ -1,11 +1,17 @@
 {
  "PrintNo":"A6465","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-05T13:41:02.61746Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-06"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-18","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-18","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.319","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-06","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -29,7 +35,8 @@
  ],
  "Sponsors":[
   {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
-  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
+  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"}
  ],
  "Title":"Prohibits insurers from reducing disability benefits due to the actual or anticipated receipt of social security disability benefits unless certain conditions are met",
  "Summary":"Prohibits insurers from reducing disability benefits due to the actual or anticipated receipt of social security disability benefits unless certain conditions are met.",

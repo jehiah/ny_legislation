@@ -1,10 +1,11 @@
 {
  "PrintNo":"S896","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-06T15:11:53.680139Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Published":"2025-01-06T15:11:53.680139Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Veterans, Homeland Security And Military Affairs"},
   {"Type":"SENATE_FLOOR","Date":"2026-02-05"},{"Type":"PASSED_SENATE","Date":"2026-02-09"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-09","Committee":"Governmental Operations"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-09","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-06"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-06"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"},
@@ -27,7 +28,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-02-09","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-02-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A6388B","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING CAL.221","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

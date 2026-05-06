@@ -1,10 +1,17 @@
 {
- "PrintNo":"S9850","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-08T10:09:17.949937Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-08","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-08","Chamber":"SENATE"}],
+ "PrintNo":"S9850","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-08T10:09:17.949937Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-08","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-05","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9850A","Date":"2026-05-05","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER"}],
  "Title":"Authorizes an occupancy tax in the town of Amherst",
  "Summary":"Authorizes an occupancy tax in the town of Amherst, county of Erie, not to exceed 2.5%.",
- "LawSection":"Tax Law","LawCode":"Add §1202-ll, Tax L"
+ "LawSection":"Tax Law","LawCode":"Add §1202-ll, Tax L",
+ "ActClause":"AN ACT to amend the tax law, in relation to authorizing an occupancy tax in the town of Amherst; and providing for the repeal of such provisions upon expiration thereof",
+ "SameAsPrintNo":"A10932-2025"
 }

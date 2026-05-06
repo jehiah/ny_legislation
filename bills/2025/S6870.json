@@ -1,7 +1,7 @@
 {
- "PrintNo":"S6870","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-25T15:31:01.98707Z",
- "Status":"IN_SENATE_COMM","Committee":"Libraries",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Libraries"}],
+ "PrintNo":"S6870","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-25T15:31:01.98707Z","Status":"IN_SENATE_COMM","Committee":"Libraries",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-06","Committee":"Libraries"}],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES","Date":"2025-03-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.652","Date":"2025-04-08","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-04-30","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO LIBRARIES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LIBRARIES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LIBRARIES","Date":"2026-05-06","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 6870A","Date":"2026-05-06","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -104,5 +106,5 @@
  "Summary":"Relates to conducting a study on the access of state public libraries and library systems to capital funding; provides the department of education, in consultation with the dormitory authority, the office of the state comptroller, and the public library systems of the state, shall assess and report on the capital needs of such public library systems, including public libraries and association libraries.",
  "LawSection":"Education Law","LawCode":"Amd §273-a, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to conducting a study on the access of state public libraries and library systems to capital funding",
- "PreviousVersions":["S7161-2017","S5374-2019","S3706-2021","S1418-2023"]
+ "SameAsPrintNo":"A5525-2025","PreviousVersions":["S7161-2017","S5374-2019","S3706-2021","S1418-2023"]
 }
