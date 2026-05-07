@@ -1,12 +1,32 @@
 {
  "PrintNo":"A11045","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-24T09:50:48.875265Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-24","Committee":"Energy"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-24","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2026-04-24","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.492","Date":"2026-05-07","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-05-05","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+ ],
  "Title":"Prohibits utility corporations and municipalities from increasing a bill previously rendered to a small non-residential customer after twelve months from the date service was provided",
  "Summary":"Prohibits utility corporations and municipalities from increasing a bill previously rendered to a small non-residential customer after twelve months from the date service was provided; provides limited exceptions to such prohibition; requires the utility corporation or municipality to provide notice regarding the late billing.",
  "LawSection":"Public Service Law","LawCode":"Amd §66-w, Pub Serv L",

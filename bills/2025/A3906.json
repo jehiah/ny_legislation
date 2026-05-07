@@ -1,10 +1,12 @@
 {
- "PrintNo":"A3906","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T12:11:05.627196Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
+ "PrintNo":"A3906","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T12:11:05.627196Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-07","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-30","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 3906A","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
@@ -13,7 +15,7 @@
  ],
  "Title":"Extends confidentiality privileges to certain communications to or from a licensed mental health counselor",
  "Summary":"Extends confidentiality privileges to certain communications to or from a licensed mental health counselor in the course of such licensed mental health counselor's professional employment, and to certain employees of such licensed mental health counselor; provides exceptions thereto.",
- "LawSection":"Civil Practice Law and Rules","LawCode":"Add §4508-a, CPLR",
+ "LawSection":"Civil Practice Law and Rules","LawCode":"Add §4552, CPLR",
  "ActClause":"AN ACT to amend the civil practice law and rules, in relation to extending confidentiality privileges to certain communications to or from a licensed mental health counselor",
- "SameAsPrintNo":"S1725-2025","PreviousVersions":["A8103-2023"]
+ "PreviousVersions":["A8103-2023"]
 }

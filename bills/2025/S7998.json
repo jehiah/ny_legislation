@@ -1,15 +1,20 @@
 {
- "PrintNo":"S7998","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T12:12:37.752323Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"}],
+ "PrintNo":"S7998","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T12:12:37.752323Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-07","Committee":"Housing, Construction And Community Development"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-05-07",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 7998A","Date":"2026-05-07","Chamber":"SENATE","Version":"A"}
  ],
- "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
- "Title":"Relates to reducing the embodied carbon emissions of buildings and building materials",
- "Summary":"Relates to reducing the embodied carbon emissions of buildings and building materials; provides that construction permitted under the state building code shall achieve a 15 percent reduction in embodied carbon emissions by 2030; provides three options for compliance.",
+ "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
+ "Title":"Enacts the \"low-carbon building construction act\"",
+ "Summary":"Enacts the \"low-carbon building construction act\"; relates to requiring construction of any building, addition or renovation greater than 25,000 square feet meet certain standards intended to reduce the embodied carbon emissions associated with the construction.",
  "LawSection":"Executive Law","LawCode":"Add §382-c, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to reducing the embodied carbon emissions of buildings and building materials",
- "SameAsPrintNo":"A8456-2025"
+ "ActClause":"AN ACT to amend the executive law, in relation to enacting the \"low-carbon building construction act\""
 }

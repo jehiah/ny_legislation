@@ -1,10 +1,12 @@
 {
  "PrintNo":"A10443","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T09:36:46.657636Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-29","Committee":"Codes"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-29","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-03-06","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-04-29","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-04-29","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.482","Date":"2026-05-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -24,9 +26,41 @@
     {"ID":1462,"Short":"MEEKS","Vote":"Excused"},{"ID":1563,"Short":"WIEDER","Vote":"Excused"},
     {"ID":1531,"Short":"BORES","Vote":"Absent"}
    ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-05-05","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":900,"Short":"DILAN","Vote":"Excused"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Excused"},{"ID":1563,"Short":"WIEDER","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Absent"},
+    {"ID":1531,"Short":"BORES","Vote":"Absent"}
+   ]
   }
  ],
- "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
+ "Sponsors":[
+  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
+  {"ID":457,"Name":"Vivian Cook","Short":"COOK"}
+ ],
  "Title":"Clarifies that certain prohibitions on insurance companies shall apply to policies or contracts purchased and delivered or issued for delivery in the state of New York",
  "Summary":"Clarifies that certain prohibitions on insurance companies relating to misrepresentations, misleading statements and incomplete comparisons shall apply to policies or contracts purchased and delivered or issued for delivery in the state of New York.",
  "LawSection":"Insurance Law","LawCode":"Amd §4226, Ins L",

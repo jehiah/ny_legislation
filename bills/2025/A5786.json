@@ -1,8 +1,10 @@
 {
  "PrintNo":"A5786","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-20T11:48:17.132066Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-30","Committee":"Corporations, Authorities And Commissions"}],
+ "Published":"2025-02-20T11:48:17.132066Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-30","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-02-20","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-04-10","Chamber":"ASSEMBLY"},
@@ -16,11 +18,34 @@
    "Version":"A"
   },
   {"Text":"PRINT NUMBER 5786B","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ADVANCED TO THIRD READING CAL.456","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-05-05","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1485,"Short":"JENSEN","Vote":"Nay"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},{"ID":1566,"Short":"BAILEY","Vote":"Nay"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Absent"},{"ID":1561,"Short":"LASHER","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
-  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
  ],
  "Title":"Prohibits termination of electricity or heat service during forecasts of extreme temperatures",
  "Summary":"Prohibits termination of electricity or heat service during forecasts of 85 degrees or more than or thirty-two degrees or below.",

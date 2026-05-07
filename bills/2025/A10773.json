@@ -1,11 +1,16 @@
 {
- "PrintNo":"A10773","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-01T15:40:39.300064Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-01","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2026-04-01","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10773","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-01T15:40:39.300064Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-07","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2026-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10773A","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1530,"Name":"Grace Lee","Short":"LEE"}],
- "Title":"Authorizes residential cooperative corporations and tenant's associations to offer health insurance",
- "Summary":"Authorizes residential cooperative corporations and tenant's associations to offer health insurance.",
- "LawSection":"Insurance Law","LawCode":"Amd §§4235 & 1101, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to authorizing residential cooperative corporations and tenant's associations to offer health insurance"
+ "Title":"Authorizes residential cooperative corporations to offer health insurance",
+ "Summary":"Authorizes residential cooperative corporations to offer health insurance.","LawSection":"Insurance Law",
+ "LawCode":"Amd §§4235 & 1101, Ins L",
+ "ActClause":"AN ACT to amend the insurance law, in relation to authorizing residential cooperative corporations and tenant's associations to offer health insurance",
+ "SameAsPrintNo":"S10220-2025"
 }

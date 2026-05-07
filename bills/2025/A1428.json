@@ -1,9 +1,9 @@
 {
  "PrintNo":"A1428","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T13:12:53.789807Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"IN_SENATE_COMM","Committee":"Insurance",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-06"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-06"},{"Type":"IN_SENATE_COMM","Date":"2026-05-06","Committee":"Insurance"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -11,7 +11,8 @@
   {"Text":"REPORTED","Date":"2026-03-18","Chamber":"ASSEMBLY"},
   {"Text":"ADVANCED TO THIRD READING CAL.311","Date":"2026-03-19","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-05-06","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO SENATE","Date":"2026-05-06","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-05-06","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -33,7 +34,11 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"}],
+ "Sponsors":[
+  {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
+ ],
  "Title":"Requires insurers to cover the substitution of a brand name prescription drug when the federal food and drug administration has declared that there is a supply issue with a generic drug",
  "Summary":"Requires insurers to cover the substitution of a brand name prescription drug when the federal food and drug administration has declared that there is a supply issue with a generic drug.",
  "LawSection":"Insurance Law","LawCode":"Amd §§3242 & 4329, Ins L",

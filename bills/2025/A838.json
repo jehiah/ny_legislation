@@ -1,18 +1,40 @@
 {
  "PrintNo":"A838","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-07T10:34:23.350236Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Local Governments"}],
+ "Published":"2025-01-07T10:34:23.350236Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Local Governments"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-04-21","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 838A","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.443","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-05-05","Chamber":"ASSEMBLY","Committee":"LOCAL GOVERNMENTS",
+   "Votes":[
+    {"ID":673,"Short":"SOLAGES","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":636,"Short":"FRIEND","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1484,"Short":"GALLAHAN","Vote":"Nay"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
-  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},
+  {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
  ],
  "Title":"Relates to the organization of industrial development agencies",
  "Summary":"Relates to the organization of industrial development agencies and the definition of labor organization.",

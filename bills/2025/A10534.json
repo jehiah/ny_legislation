@@ -1,14 +1,34 @@
 {
  "PrintNo":"A10534","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-06T10:11:24.030976Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-01","Committee":"Energy"}],
+ "Published":"2026-03-06T10:11:24.030976Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-01","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2026-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2026-05-01","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10534A","Date":"2026-05-01","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.484","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-05-05","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+ ],
  "Title":"Establishes a standardized rate application template for utilities",
  "Summary":"Establishes a standardized rate application template for utilities; provides that utilities have to provide certain information when filling out a standardized rate application.",
  "LawSection":"Public Service Law","LawCode":"Add §27-a, Pub Serv L",

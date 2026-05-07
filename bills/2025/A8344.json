@@ -1,11 +1,29 @@
 {
  "PrintNo":"A8344","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-13T14:34:28.982523Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-05-13","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.464","Date":"2026-05-07","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-05-05","Chamber":"ASSEMBLY","Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Excused"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":1525,"Short":"RAGA","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"}],
  "Title":"Relates to the qualifications to hold the position of assistant county attorney in the county of Rockland",

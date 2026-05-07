@@ -5,7 +5,24 @@
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-01","Chamber":"SENATE"},
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2026-02-24","Chamber":"SENATE"}
+  {"Text":"NOTICE OF COMMITTEE CONSIDERATION - REQUESTED","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"DEFEATED IN ENERGY AND TELECOMMUNICATIONS","Date":"2026-05-06","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-05","Chamber":"SENATE","Committee":"Energy And Telecommunications",
+   "Votes":[
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Nay"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Nay"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Nay"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Nay"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Nay"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
@@ -14,5 +31,6 @@
  "Title":"Relates to prohibiting the construction of certain energy storage systems within five hundred feet of a school or dwelling in a city of one million or more",
  "Summary":"Prohibits the construction or maintenance of energy storage systems capable of storing more than twenty kilowatt hours within five hundred feet of a school or dwelling in a city with a population of one million or more.",
  "LawSection":"Energy Law","LawCode":"Amd §11-104, Energy L",
- "ActClause":"AN ACT to amend the energy law, in relation to prohibiting the construction and maintenance of certain energy storage systems within five hundred feet of a school or dwelling in a city with a population of one million or more"
+ "ActClause":"AN ACT to amend the energy law, in relation to prohibiting the construction and maintenance of certain energy storage systems within five hundred feet of a school or dwelling in a city with a population of one million or more",
+ "SameAsPrintNo":"A10723-2025"
 }

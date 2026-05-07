@@ -1,11 +1,30 @@
 {
  "PrintNo":"A7875","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-11T15:11:56.919844Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Consumer Affairs And Protection"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Consumer Affairs And Protection"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-04-11","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.459","Date":"2026-05-07","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-05-05","Chamber":"ASSEMBLY","Committee":"CONSUMER AFFAIRS AND PROTECTION",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1568,"Short":"BOLOGNA","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"},{"ID":1548,"Short":"TORRES","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},
