@@ -1,10 +1,12 @@
 {
- "PrintNo":"S3139","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-23T15:50:12.292482Z",
- "Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
+ "PrintNo":"S3139","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-23T15:50:12.292482Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-07","Committee":"Higher Education"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-23","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2026-05-07","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3139A","Date":"2026-05-07","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
@@ -18,5 +20,5 @@
  "Summary":"Establishes a statewide program to provide free SUNY, CUNY, and community college tuition to active volunteer firefighters, volunteer emergency medical services providers, and volunteer auxiliary police officers.",
  "LawSection":"Education Law","LawCode":"Amd §§355, 6206 & 6304, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to providing free SUNY, CUNY and community college tuition to active volunteer firefighters, volunteer emergency medical services providers, and volunteer auxiliary police officers",
- "SameAsPrintNo":"A5863-2025","PreviousVersions":["S9033-2023"]
+ "PreviousVersions":["S9033-2023"]
 }

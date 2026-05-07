@@ -1,13 +1,15 @@
 {
- "PrintNo":"S6370","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S6370","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-03-11T15:46:07.953669Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Finance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-07","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-10-27","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 6370A","Date":"2025-10-27","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-04-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-04-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2026-05-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 6370B","Date":"2026-05-07","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -29,9 +31,8 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
- "Title":"Requires the commissioner of transportation to submit a biennial twenty-year capital needs assessment report to the governor and the legislature",
- "Summary":"Requires the commissioner of transportation to submit a biennial twenty-year capital needs assessment report on the physical conditions, operational performance and investment needs of the state's transportation infrastructure to the governor and the legislature.",
- "LawSection":"Transportation Law","LawCode":"Amd §14, Transp L",
- "ActClause":"AN ACT to amend the transportation law, in relation to requiring the commissioner of transportation to submit a biennial twenty-year capital needs assessment report to the governor and the legislature"
+ "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],"Title":"Relates to a state transportation plan",
+ "Summary":"Requires the commissioner of transportation to submit a minimum twenty-year forecast period, assessing the long-range needs during such period on the pavement and bridge conditions of the state and local highways and bridges under the jurisdiction of such commissioner.",
+ "LawSection":"Transportation Law","LawCode":"Amd §§15 & 14, Transp L",
+ "ActClause":"AN ACT to amend the transportation law, in relation to a state transportation plan"
 }
