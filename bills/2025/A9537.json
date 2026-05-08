@@ -1,11 +1,13 @@
 {
- "PrintNo":"A9537","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A9537","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2026-01-14T15:30:32.749932Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Education"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-07","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2026-01-14","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-03-12","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 9537A","Date":"2026-03-12","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 9537A","Date":"2026-03-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 9537B","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
@@ -18,10 +20,11 @@
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
-  {"ID":665,"Name":"Steven Otis","Short":"OTIS"}
+  {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"}
  ],
  "Title":"Enacts the \"freedom to read act\"",
- "Summary":"Requires boards of education to adopt written policies for reconsideration of school library materials following complaints regarding such materials; requires the commissioner of education to develop one or more model policies for school districts.",
+ "Summary":"Requires each board of education to adopt a written policy for reconsideration of school library materials and make such policy available on its website; requires such policies to include provisions for the creation of a reconsideration committee to review complaints regarding school library materials; requires the commissioner of education to develop one or more model policies for school districts.",
  "LawSection":"Education Law","LawCode":"Add §414-a, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to enacting the \"freedom to read act\""
+ "ActClause":"AN ACT to amend the education law, in relation to enacting the \"freedom to read act\"",
+ "SameAsPrintNo":"S8630-2025"
 }

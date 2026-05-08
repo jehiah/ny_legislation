@@ -1,15 +1,19 @@
 {
- "PrintNo":"A10763","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-01T15:34:35.40654Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-01","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2026-04-01","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10763","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-01T15:34:35.40654Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-08","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2026-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2026-05-08","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10763A","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
-  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"}
  ],
  "Title":"Reduces electric corporations' response time for securing downed wires",
- "Summary":"Reduces electric corporations' response time for securing downed wires to one hour upon notice; provides that corporations failing to do so shall be subject to a fine in an amount to be determined by the department of public service.",
+ "Summary":"Requires each utility to take appropriate safety precautions regarding electrical hazards, including developing plans to promptly de-energize downed wires within two hours of notification of the location of such downed wires from a municipal emergency responder and promptly secure such wires within six hours in the case of events that are not considered emergencies.",
  "LawSection":"Public Service Law","LawCode":"Amd §66, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to reducing the response time for securing downed wires to one hour upon notice"
+ "ActClause":"AN ACT to amend the public service law, in relation to reducing the response time for securing downed wires"
 }

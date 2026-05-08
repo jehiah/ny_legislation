@@ -1,15 +1,20 @@
 {
- "PrintNo":"A8288","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-09T13:13:54.140003Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"People With Disabilities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"People With Disabilities"}],
+ "PrintNo":"A8288","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-09T13:13:54.140003Z","Status":"IN_ASSEMBLY_COMM","Committee":"People With Disabilities",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-07","Committee":"People With Disabilities"}],
  "Actions":[
   {"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2025-05-09","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO PEOPLE WITH DISABILITIES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO PEOPLE WITH DISABILITIES","Date":"2026-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8288A","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"}],
- "Title":"Establishes a comprehensive training program for care managers employed by care coordination organizations",
- "Summary":"Establishes a comprehensive training program for care managers employed by care coordination organizations; mandates care managers complete the training before working with clients.",
+ "Sponsors":[
+  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+ ],
+ "Title":"Establishes certification and attestation for care managers employed by care coordination organizations",
+ "Summary":"Enacts \"Ella's law\"; requires care managers employed by or under contract with a care coordination organization to provide care management services to an individual unless such care manager has completed all training requirements.",
  "LawSection":"Mental Hygiene Law","LawCode":"Amd §13.23, Ment Hyg L",
- "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing a comprehensive training program for care managers employed by care coordination organizations",
- "SameAsPrintNo":"S6153-2025","PreviousVersions":["A10258-2023"]
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing certification and attestation for care managers employed by care coordination organizations",
+ "PreviousVersions":["A10258-2023"]
 }

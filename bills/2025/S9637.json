@@ -1,12 +1,16 @@
 {
- "PrintNo":"S9637","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-31T09:22:10.779836Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-31","Chamber":"SENATE"}],
+ "PrintNo":"S9637","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-31T09:22:10.779836Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-08","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-31","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-08","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9637A","Date":"2026-05-08","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],"Title":"Enacts the dark skies protection act",
  "Summary":"Regulates outdoor night lighting to preserve and enhance the state's dark sky.",
  "LawSection":"Environmental Conservation Law",
- "LawCode":"Add Art 18 Title 1 §§18-0101 - 18-0103, Title 2 §§18-0201 - 18-0203, Title 3 §18-0301, Title 4 §18-0401, Title 5 §18-0501, Art 71 Title 45 §§71-4501 - 71-4503, En Con L",
+ "LawCode":"Add Art 18 Title 1 §§18-0101 - 18-0103, Title 2 §§18-0201 - 18-0203, Title 3 §18-0301, Title 4 §18-0401, Title 5 §18-0501, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to enacting the dark skies protection act",
- "PreviousVersions":["S7663-2021","S583-2023","S5007-2025"]
+ "SameAsPrintNo":"A4615-2025","PreviousVersions":["S7663-2021","S583-2023","S5007-2025"]
 }
