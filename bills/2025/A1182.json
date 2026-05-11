@@ -1,10 +1,12 @@
 {
- "PrintNo":"A1182","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T10:22:21.697847Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
+ "PrintNo":"A1182","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-09T10:22:21.697847Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-09","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-05-11","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 1182A","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
@@ -18,8 +20,8 @@
   {"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"}
  ],
  "Title":"Relates to certain jury awards in employment discrimination actions",
- "Summary":"Provides that the court shall not reduce jury awards as excessive in employment discrimination actions unless the court finds exceptional circumstances which compel the conclusion that the jury was influenced by partiality, prejudice, mistake or corruption.",
+ "Summary":"Provides that the court shall not reduce jury awards as excessive in employment discrimination actions unless the court finds exceptional circumstances which compel the conclusion that the jury was influenced by partiality, prejudice, mistake or corruption or that remittitur or additur is necessary to avoid a complete miscarriage of justice.",
  "LawSection":"Civil Practice Law and Rules","LawCode":"Amd R4404, §5501, CPLR; amd §297, Exec L",
  "ActClause":"AN ACT to amend the civil practice law and rules and the executive law, in relation to jury awards for unlawful discriminatory practices relating to employment",
- "SameAsPrintNo":"S410-2025","PreviousVersions":["A8282-2021","A2865-2023"]
+ "PreviousVersions":["A8282-2021","A2865-2023"]
 }

@@ -1,8 +1,11 @@
 {
  "PrintNo":"S10070","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-27T14:19:32.320605Z",
- "Status":"IN_SENATE_COMM","Committee":"Disabilities",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Disabilities"}],
- "Actions":[{"Text":"REFERRED TO DISABILITIES","Date":"2026-04-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Disabilities"},{"Type":"SENATE_FLOOR","Date":"2026-05-11"}],
+ "Actions":[
+  {"Text":"REFERRED TO DISABILITIES","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1002","Date":"2026-05-11","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to the protection of people with special needs and the confidentiality of certain documents",
  "Summary":"Relates to confidentiality in cases involving the protection of people with special needs; allows the state comptroller's office to unseal certain documents.",

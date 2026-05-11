@@ -1,21 +1,38 @@
 {
  "PrintNo":"A3399","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-27T11:16:29.077339Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-15","Committee":"Correction"}],
+ "Published":"2025-01-27T11:16:29.077339Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-27","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CORRECTION","Date":"2026-04-15","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 3399A","Date":"2026-04-15","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 3399A","Date":"2026-04-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-04-21","Chamber":"ASSEMBLY",
+   "Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1577,"Short":"POWERS","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
-  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
+  {"ID":1577,"Name":"Keith Powers","Short":"POWERS"}
  ],
  "Title":"Requires screening incarcerated individuals for eligibility for public benefits prior to release",
  "Summary":"Requires screening incarcerated individuals for eligibility for public benefits prior to release and assistance in applying for such programs; requires officials to seek waivers from the USDA for eligibility for such program.",
  "LawSection":"Correction Law","LawCode":"Add §77, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to screening incarcerated individuals for eligibility for public benefits prior to release",
- "PreviousVersions":["A8234-2023"]
+ "SameAsPrintNo":"S5265-2025","PreviousVersions":["A8234-2023"]
 }

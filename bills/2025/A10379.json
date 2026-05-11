@@ -1,11 +1,13 @@
 {
- "PrintNo":"A10379","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A10379","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2026-03-03T11:53:09.72841Z","Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-23","Committee":"Science And Technology"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Science And Technology"}],
  "Actions":[
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-03-03","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO SCIENCE AND TECHNOLOGY","Date":"2026-03-23","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 10379A","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 10379A","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO SCIENCE AND TECHNOLOGY","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10379B","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
@@ -15,11 +17,11 @@
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
   {"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
-  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":675,"Name":"Phil Steck","Short":"STECK"}
+  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
+  {"ID":1556,"Name":"Daniel Norber","Short":"NORBER"}
  ],
  "Title":"Prohibits artificial intelligence chatbots from using features which are considered unsafe for minors",
- "Summary":"Prohibits artificial intelligence chatbots from using features which are considered unsafe for minors; defines terms; specifies what are considered unsafe features; provides rights of action; directs rules and regulations to be established.",
+ "Summary":"Prohibits artificial intelligence chatbots from using features which are considered unsafe for minors; defines terms; specifies what are considered unsafe features.",
  "LawSection":"General Business Law","LawCode":"Add Art 48 §§1800 - 1805, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to prohibiting artificial intelligence chatbots from using features which are considered unsafe for minors",
- "SameAsPrintNo":"S9051-2025"
+ "ActClause":"AN ACT to amend the general business law, in relation to prohibiting artificial intelligence chatbots from using features which are considered unsafe for minors"
 }

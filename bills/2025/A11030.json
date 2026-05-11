@@ -1,8 +1,16 @@
 {
- "PrintNo":"A11030","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-23T14:54:07.051595Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-23","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-04-23","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A11030","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-23T14:54:07.051595Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Corporations, Authorities And Commissions"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-04-23","Chamber":"ASSEMBLY"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-11",
+   "Chamber":"ASSEMBLY"
+  },
+  {"Text":"PRINT NUMBER 11030A","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
@@ -13,8 +21,8 @@
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},
   {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}
  ],
- "Title":"Requires utilities to notify property owners prior to beginning certain services",
- "Summary":"Requires utilities to notify property owners prior to beginning any non-emergency construction or other work that may interfere with a property owner's ability to use, or access such owner's property; requires notice to include, but not limited to, a description of the work to be performed, the expected duration of such work, the location of such work, any road closures or detours that may occur due to such work, any action that may directly and materially impact the use of such property, and the contact information for the utility performing such work; provides notice may include electronic communications, signage, and written materials; exempts cases where a natural or man-made disaster or state of emergency occurs.",
+ "Title":"Requires utility corporations and municipalities to notify property owners prior to beginning any scheduled non-emergency construction or other work",
+ "Summary":"Requires a utility corporation or municipality to notify property owners at least five business days prior to beginning any non-emergency construction or other work that will result in a planned interruption of a customer's property; requires notice to include, but not be limited to, a description of the work to be performed, the expected duration of such work, the location of such work, and the contact information for the utility performing such work; exempts cases where a natural or man-made disaster or state of emergency occurs.",
  "LawSection":"Public Service Law","LawCode":"Add §119-f, Pub Serv L",
  "ActClause":"AN ACT to amend the public service law, in relation to requiring corporations and municipalities to notify property owners prior to beginning certain services",
  "SameAsPrintNo":"S8865-2025","PreviousVersions":["A7515-2023","A2447-2025"]

@@ -1,10 +1,12 @@
 {
- "PrintNo":"A4018","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T15:22:09.629333Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A4018","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-30T15:22:09.629333Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-05","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-30","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4018A","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
@@ -18,10 +20,9 @@
   {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
  ],
- "Title":"Establishes the New York dignity in pregnancy and childbirth act to require hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program",
- "Summary":"Establishes the New York dignity in pregnancy and childbirth act to require hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program for all health care providers involved in the perinatal care of patients within those facilities; requires hospitals to provide expectant birthing parents with written information regarding certain patient rights; requires information related to pregnancy, if known, to be included on death certificates.",
- "LawSection":"Public Health Law",
- "LawCode":"Add Art 25 Title 9 §§2599-e - 2599-i, amd §§2803-n & 4141, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to requiring hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program, to providing birthing parents with written information regarding certain patient rights, and to including information related to pregnancy on death certificates",
+ "Title":"Establishes the New York dignity in pregnancy and childbirth act and requires hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program",
+ "Summary":"Establishes the New York dignity in pregnancy and childbirth act; requires hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program for all health care providers involved in the perinatal care of patients within those facilities; requires the department of health to publish reports on maternal morbidity and pregnancy related deaths.",
+ "LawSection":"Public Health Law","LawCode":"Add §2803-nn, amd §2509, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to requiring hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program and requiring the department of health to publish reports on maternal morbidity and pregnancy related deaths",
  "SameAsPrintNo":"S6983-2025"
 }

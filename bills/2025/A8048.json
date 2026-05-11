@@ -1,10 +1,12 @@
 {
- "PrintNo":"A8048","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-22T15:56:59.63589Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A8048","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-22T15:56:59.63589Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-06","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-04-22","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8048A","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
@@ -13,8 +15,9 @@
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
   {"ID":534,"Name":"Michael Benedetto","Short":"BENEDETTO"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"}
  ],
- "Title":"Relates to enhanced reimbursement rates for pediatric practices that are partnered with the HealthySteps program",
- "Summary":"Directs the commissioner of health to establish or approve an enhanced rate methodology for pediatric practices that are partnered with the HealthySteps program.",
+ "Title":"Relates to add-on payment for pediatric practices that implement the HealthySteps model",
+ "Summary":"Directs the commissioner of health to establish or approve an add-on rate for pediatric practices implementing the HealthySteps model.",
  "LawSection":"Public Health Law","LawCode":"Amd §2807, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to enhanced reimbursement rates for pediatric practices that are partnered with the HealthySteps program"
+ "ActClause":"AN ACT to amend the public health law, in relation to add-on payment for pediatric practices that implement the HealthySteps model",
+ "SameAsPrintNo":"S7833-2025"
 }

@@ -1,14 +1,22 @@
 {
- "PrintNo":"S9346","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-03T15:11:37.827995Z",
- "Status":"IN_SENATE_COMM","Committee":"Housing, Construction And Community Development",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-03","Committee":"Housing, Construction And Community Development"}],
- "Actions":[{"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-03-03","Chamber":"SENATE"}],
+ "PrintNo":"S9346","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-03T15:11:37.827995Z","Status":"IN_SENATE_COMM",
+ "Committee":"Housing, Construction And Community Development",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-11","Committee":"Housing, Construction And Community Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-03-03","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-05-11",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 9346A","Date":"2026-05-11","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
  ],
  "Title":"Enacts the \"housing transparency act\"",
  "Summary":"Enacts the \"housing transparency act\"; requires the division of housing and community renewal to establish and maintain a statewide rental unit compliance registry for covered buildings within the state.",
- "LawSection":"Real Property Law","LawCode":"Add Art 7-B §§239-m - 239-t, RP L",
+ "LawSection":"Real Property Law","LawCode":"Add Art 7-B §§239-m - 239-u, RP L",
  "ActClause":"AN ACT to amend the real property law, in relation to enacting the \"housing transparency act\""
 }

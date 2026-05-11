@@ -1,20 +1,21 @@
 {
- "PrintNo":"S8499","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-09-05T10:17:37.68185Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S8499","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-09-05T10:17:37.68185Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-11","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-09-05","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8499A","Date":"2026-05-11","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
-  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
+  {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
  ],
  "Title":"Enacts the Legionnaires' disease prevention act",
- "Summary":"Requires the department of environmental conservation and the department of health, owners or operators of public water systems, and owners or operators of buildings to take actions to prevent and control waterborne pathogens including legionella from source-to-tap; creates a public awareness and education campaign.",
- "LawSection":"Public Health Law","LawCode":"Add Art 21 Title 9 §§2186 - 2186-g, Pub Health L; add §99-tt, St Fin L",
- "ActClause":"AN ACT to amend the public health law and the state finance law, in relation to enacting the Legionnaires' disease prevention act",
- "SameAsPrintNo":"A9095-2025"
+ "Summary":"Requires the department of environmental conservation and the department of health, owners or operators of public water systems, and owners or operators of buildings to take actions to prevent and control waterborne pathogens including legionella from source-to-tap.",
+ "LawSection":"Public Health Law","LawCode":"Add Art 21 Title 9 §§2186 - 2186-f, Pub Health L; add §99-uu, St Fin L",
+ "ActClause":"AN ACT to amend the public health law and the state finance law, in relation to enacting the Legionnaires' disease prevention act"
 }
