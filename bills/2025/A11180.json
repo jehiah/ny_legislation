@@ -1,8 +1,12 @@
 {
- "PrintNo":"A11180","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-01T14:21:21.015381Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-01","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-05-01","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A11180","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-05-01T14:21:21.015381Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-05-01","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-05-11","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 11180A","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
  "Title":"Establishes a school speed zone camera demonstration program in the village of Pelham",
  "Summary":"Establishes a school speed zone camera demonstration program in the village of Pelham; repeals authorization of program December 31, 2031.",
