@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9107","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-03T14:55:53.431983Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-02-03","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-02-03","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1069","Date":"2026-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Extends the authorization of the town of Cornwall in Orange county to impose a hotel and motel tax",
  "Summary":"Extends the authorization of the town of Cornwall in Orange county to impose a hotel and motel tax by three years.",

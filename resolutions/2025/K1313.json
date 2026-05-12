@@ -1,17 +1,20 @@
 {
  "PrintNo":"K1313","Session":2025,"Chamber":"ASSEMBLY","BillType":"Regular","Resolution":true,
- "Published":"2026-05-08T10:26:15.224247Z","Status":"IN_ASSEMBLY_COMM","Committee":"Calendar",
- "Actions":[{"Text":"REFERRED TO CALENDAR","Date":"2026-05-08","Chamber":"ASSEMBLY"}],
+ "Published":"2026-05-08T10:26:15.224247Z","Status":"ADOPTED","Milestones":[{"Type":"ADOPTED","Date":"2026-05-11"}],
+ "Actions":[
+  {"Text":"REFERRED TO CALENDAR","Date":"2026-05-08","Chamber":"ASSEMBLY"},
+  {"Text":"ADOPTED","Date":"2026-05-11","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1566,"Name":"Andrea Bailey","Short":"BAILEY"},
   {"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"},
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":457,"Name":"Vivian Cook","Short":"COOK"},{"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},
-  {"ID":469,"Name":"Michael J. Fitzpatrick","Short":"FITZPATRICK"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
-  {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
-  {"ID":608,"Name":"Edward Ra","Short":"RA"},{"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},
-  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
-  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
+  {"ID":469,"Name":"Michael J. Fitzpatrick","Short":"FITZPATRICK"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":608,"Name":"Edward Ra","Short":"RA"},
+  {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"},{"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}
  ],

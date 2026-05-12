@@ -1,8 +1,11 @@
 {
  "PrintNo":"S9434","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-12T09:27:00.644925Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-12","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-03-12","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-03-12","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"}],
  "Title":"Relates to pharmacy benefits where a physician is authorized to dispense certain medications and practices medicine in the oncology setting",
  "Summary":"Relates to excepting situations where a physician or other licensed health care provider is authorized to dispense certain medications and is practicing medicine in the oncology setting and is dispensing oncology drugs or drugs related to an approved course of treatment used to manage symptoms related to cancer or cancer therapies.",

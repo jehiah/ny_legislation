@@ -1,14 +1,16 @@
 {
  "PrintNo":"A10405","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-03T12:01:25.048189Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-03","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-03-03","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.480","Date":"2026-05-07","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.480","Date":"2026-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

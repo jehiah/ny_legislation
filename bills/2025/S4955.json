@@ -1,7 +1,7 @@
 {
  "PrintNo":"S4955","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-14T14:52:17.285426Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Finance"}],
+ "Published":"2025-02-14T14:52:17.285426Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-12"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-03-04","Chamber":"SENATE"},
@@ -17,7 +17,8 @@
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-02-25","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 4955B","Date":"2026-02-25","Chamber":"SENATE","Version":"B"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE","Version":"B"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.1051","Date":"2026-05-12","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

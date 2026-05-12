@@ -1,10 +1,11 @@
 {
  "PrintNo":"S1984","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T13:32:42.411308Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2026-03-30"},{"Type":"PASSED_SENATE","Date":"2026-04-16"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Environmental Conservation"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Environmental Conservation"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-12"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-14","Chamber":"SENATE"},
@@ -22,7 +23,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-30","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-04-16","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-16","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-16","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-16","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A11029","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.490","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-12","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

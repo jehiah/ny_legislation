@@ -1,11 +1,15 @@
 {
  "PrintNo":"S9348","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-04T09:17:25.147674Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-15","Committee":"Consumer Protection"}],
+ "Published":"2026-03-04T09:17:25.147674Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-15","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-03-04","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2026-04-15","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9348A","Date":"2026-04-15","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9348A","Date":"2026-04-15","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1107","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Prohibits motor vehicle manufacturers and dealers from charging a subscription fee for certain functions of a motor vehicle after the vehicle is sold",

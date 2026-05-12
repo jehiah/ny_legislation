@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9777","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-06T13:15:05.544626Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-06","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-06","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1081","Date":"2026-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
   {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},

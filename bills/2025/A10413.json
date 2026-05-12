@@ -1,9 +1,15 @@
 {
  "PrintNo":"A10413","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-03T12:29:15.174642Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-03","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2026-03-03","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2026-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-12","Chamber":"ASSEMBLY"}
+ ],
+ "Sponsors":[
+  {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":500,"Name":"William Colton","Short":"COLTON"}
+ ],
  "Title":"Relates to access to prescription medication and coordination with workers' compensation board regulations governing network pharmacy use",
  "Summary":"Codifies certain regulations of the workers' compensation board relating to access to prescription medication and coordination with workers' compensation board regulations governing network pharmacy use; requires the workers' compensation board to file a report on out-of-network pharmacy use within 3 years of the effective date.",
  "LawSection":"Workers' Compensation Law","LawCode":"Amd §13, Work Comp L",

@@ -1,16 +1,21 @@
 {
- "PrintNo":"S8483","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-08-20T10:18:53.454293Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-12","Committee":"Internet And Technology"}],
+ "PrintNo":"S8483","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-08-20T10:18:53.454293Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-08-20","Chamber":"SENATE"},
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-02-12","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 8483A","Date":"2026-02-12","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 8483A","Date":"2026-02-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-05-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 8483B","Date":"2026-05-06","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-05-08","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 8483C","Date":"2026-05-08","Chamber":"SENATE","Version":"C"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-12","Chamber":"SENATE","Version":"C"}
  ],
  "Sponsors":[{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
  "Title":"Prohibits online retailers from basing prices on certain criteria",
- "Summary":"Prohibits online retailers from basing prices on the hardware, software, or geolocation of an online device.",
+ "Summary":"Prohibits online retailers from basing reference prices on the hardware, software, or geolocation of an online device.",
  "LawSection":"General Business Law","LawCode":"Add §219, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to prohibiting online retailers from basing prices on certain criteria"
 }

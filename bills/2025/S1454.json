@@ -1,11 +1,12 @@
 {
  "PrintNo":"S1454","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T09:09:47.907565Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
-  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-12","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -17,6 +18,18 @@
     {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
     {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Nay"},
     {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Nay"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-12","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Nay"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Nay"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
   }
  ],

@@ -1,12 +1,15 @@
 {
- "PrintNo":"S10224","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-07T11:16:37.386066Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-07","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2026-05-07","Chamber":"SENATE"}],
- "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"}],
+ "PrintNo":"S10224","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-05-07T11:16:37.386066Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2026-05-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10224A","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1225,"Name":"John Liu","Short":"LIU"}],
  "Title":"Enacts the sex buyer trafficking accountability act",
  "Summary":"Enacts the sex buyer trafficking accountability act which expands the definition of patronizing a person for prostitution.",
  "LawSection":"Penal Law","LawCode":"Amd §§230.02 & 230.15, Pen L",
- "ActClause":"AN ACT to amend the penal law, in relation to closing the patron exclusion in the definition of advancing prostitution and expanding the definition of patronizing a person for prostitution to include anything of value",
- "SameAsPrintNo":"A11300-2025"
+ "ActClause":"AN ACT to amend the penal law, in relation to closing the patron exclusion in the definition of advancing prostitution and expanding the definition of patronizing a person for prostitution to include anything of value"
 }

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S8199","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-20T12:21:09.43918Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-05-04"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-11"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-11"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-05-20","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-11","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

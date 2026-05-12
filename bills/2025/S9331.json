@@ -1,9 +1,9 @@
 {
  "PrintNo":"S9331","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-02T15:33:59.879877Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Labor",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-03-02","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-05-04"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-11"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-11"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Labor"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2026-03-02","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-11","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"REFERRED TO LABOR","Date":"2026-05-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

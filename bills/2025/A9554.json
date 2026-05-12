@@ -1,11 +1,37 @@
 {
- "PrintNo":"A9554","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-14T15:38:27.469745Z","Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-02","Committee":"Banks"}],
+ "PrintNo":"A9554","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-14T15:38:27.469745Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2026-01-14","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-03-02","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 9554A","Date":"2026-03-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 9554A","Date":"2026-03-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 9554B","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-11","Chamber":"ASSEMBLY","Committee":"BANKS",
+   "Votes":[
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":1254,"Short":"BURKE","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1563,"Short":"WIEDER","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},{"ID":1248,"Short":"SMULLEN","Vote":"Nay"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Nay"},{"ID":1528,"Short":"CHANG","Vote":"Nay"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":469,"Short":"FITZPATRICK","Vote":"Excused"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"},{"ID":1477,"Short":"SEPTIMO","Vote":"Absent"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},
@@ -26,7 +52,8 @@
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1485,"Name":"Josh Jensen","Short":"JENSEN"}
  ],
  "Title":"Enacts the \"deed protection act\"",
- "Summary":"Enacts the \"deed protection act\" in relation to prohibiting a financial institution from taking possession of a property based on the failure to repay a loan provided by such financial institution for such property if such loan was provided to a person who obtained title to such property by deed theft and such financial institution failed to conduct due diligence to determine whether any such deed theft had occurred.",
- "LawSection":"Banking Law","LawCode":"Add §6-q, Bank L",
- "ActClause":"AN ACT to amend the banking law, in relation to enacting the \"deed protection act\""
+ "Summary":"Enacts the \"deed protection act\" in relation to prohibiting a mortgage banker or mortgage loan servicer from commencing, maintaining, or proceeding with a foreclosure action on a mortgage loan where such mortgage banker or mortgage loan servicer knows or has reason to know that the mortgage securing such loan is dependent on a deed, conveyance, or other instrument affecting title to residential real property that was procured by fraud, forgery, or other unlawful means.",
+ "LawSection":"Banking Law","LawCode":"Add §595-d, Bank L",
+ "ActClause":"AN ACT to amend the banking law, in relation to enacting the \"deed protection act\"",
+ "SameAsPrintNo":"S9309-2025"
 }

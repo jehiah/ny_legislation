@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1100","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T10:07:58.560246Z","Status":"IN_SENATE_COMM","Committee":"Libraries",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Libraries"}],
+ "Published":"2025-01-08T10:07:58.560246Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2026-05-12"}],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.650","Date":"2025-04-08","Chamber":"SENATE"},
@@ -19,7 +19,8 @@
   {"Text":"REFERRED TO LIBRARIES AND EDUCATION TECHNOLOGY","Date":"2025-06-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO LIBRARIES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO LIBRARIES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1010","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -177,7 +178,7 @@
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
   {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
   {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Enacts the \"open shelves act\"",
  "Summary":"Ensures that library staff of free association, public, and hospital libraries, and with certain advice, Indian libraries, are able to develop collections, services, and programming that reflect the values and protections established under the human rights law and the equal rights amendment to the state constitution.",

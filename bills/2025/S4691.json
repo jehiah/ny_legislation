@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4691","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-11T13:01:17.14465Z","Status":"PASSED_SENATE",
+ "Published":"2025-02-11T13:01:17.14465Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-21"},{"Type":"PASSED_SENATE","Date":"2026-05-11"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"},{"Type":"PASSED_SENATE","Date":"2026-05-11"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-02-11","Chamber":"SENATE"},
@@ -22,7 +23,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
   {"Text":"AMENDED ON THIRD READING 4691B","Date":"2026-04-21","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-05-11","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

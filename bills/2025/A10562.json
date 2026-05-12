@@ -1,10 +1,24 @@
 {
  "PrintNo":"A10562","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-13T16:05:45.424684Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-05","Committee":"Ways And Means"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-03-13","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-05","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-05","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-12","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-05","Chamber":"ASSEMBLY",
+   "Committee":"REAL PROPERTY TAXATION",
+   "Votes":[
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1576,"Short":"MORENO","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1147,"Name":"Steve Stern","Short":"STERN"}],
  "Title":"Establishes a real property tax exemption for surviving spouses of correction officers who died in the line of duty",

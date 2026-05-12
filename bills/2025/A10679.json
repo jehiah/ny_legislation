@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10679","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-20T15:41:40.847177Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2026-03-20","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10679","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-20T15:41:40.847177Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10679A","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"},{"ID":1244,"Name":"Charles Fall","Short":"FALL"},

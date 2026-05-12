@@ -1,10 +1,12 @@
 {
- "PrintNo":"S527","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T09:58:26.263642Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "PrintNo":"S527","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-02T09:58:26.263642Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-05-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 527A","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
@@ -17,5 +19,5 @@
  "Summary":"Relates to revisions to charter schools that would expand the grades served at such charter schools.",
  "LawSection":"Education Law","LawCode":"Amd §2852, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to revision to charter schools",
- "SameAsPrintNo":"A6891-2025","PreviousVersions":["S5950-2019","S676-2021","S2974-2023"]
+ "PreviousVersions":["S5950-2019","S676-2021","S2974-2023"]
 }

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S10188","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-05T09:50:27.309813Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-05","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1090","Date":"2026-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Repeals section 2 of chapter 316 of the laws of 2025 relating to the use of tax funds collected by the county of Orange",
  "Summary":"Repeals certain provisions of law relating to the use of tax funds collected by the county of Orange, which permits Orange county to distribute all of its sales and compensating use taxes to the municipalities thereof.",

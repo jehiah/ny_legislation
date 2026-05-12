@@ -1,9 +1,10 @@
 {
  "PrintNo":"S9677","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-01T14:10:41.30018Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-04-01","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-06"},{"Type":"PASSED_SENATE","Date":"2026-05-11"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-06"},{"Type":"PASSED_SENATE","Date":"2026-05-11"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Cities"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-04-01","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-05-05","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-06","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-11","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CITIES","Date":"2026-05-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

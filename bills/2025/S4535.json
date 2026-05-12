@@ -1,7 +1,7 @@
 {
  "PrintNo":"S4535","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-06T13:01:57.396229Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-12"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-02-06","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-03","Chamber":"SENATE"},
@@ -13,7 +13,8 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-04","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1050","Date":"2026-05-12","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -155,5 +156,5 @@
  "Summary":"Relates to conducting investigations into the administration and enforcement of the New York state uniform fire prevention and building code and the New York state energy conservation construction code by counties.",
  "LawSection":"Executive Law","LawCode":"Amd §381, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to conducting investigations into the administration and enforcement of the New York state uniform fire prevention and building code and the New York state energy conservation construction code",
- "PreviousVersions":["S7300-2019","S1830-2021","S3354-2023"]
+ "SameAsPrintNo":"A11016-2025","PreviousVersions":["S7300-2019","S1830-2021","S3354-2023"]
 }

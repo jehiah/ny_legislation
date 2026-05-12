@@ -1,11 +1,14 @@
 {
- "PrintNo":"A10999","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-15T17:24:32.121065Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-15","Committee":"Cities"}],
- "Actions":[{"Text":"REFERRED TO CITIES","Date":"2026-04-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10999","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-15T17:24:32.121065Z","Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Cities"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES","Date":"2026-04-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CITIES","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10999A","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1530,"Name":"Grace Lee","Short":"LEE"}],"Title":"Enacts the \"teardown tax act\"",
  "Summary":"Enacts the \"teardown tax act\"; establishes a dwelling unit removal surcharge on the removal of dwelling units from the residential housing market in the city of New York.",
  "LawSection":"New York City Administrative Code","LawCode":"Add §28-112.14, NYC Ad Cd",
- "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to enacting the \"teardown tax act\"",
- "SameAsPrintNo":"S9867-2025"
+ "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to enacting the \"teardown tax act\""
 }

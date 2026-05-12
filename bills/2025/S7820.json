@@ -1,8 +1,10 @@
 {
  "PrintNo":"S7820","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-09T11:23:47.577567Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-26","Committee":"Investigations And Government Operations"}],
+ "Published":"2025-05-09T11:23:47.577567Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-26","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-05-09","Chamber":"SENATE"},
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"},
@@ -12,7 +14,8 @@
    "Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-26","Chamber":"SENATE",
    "Version":"A"
   },
-  {"Text":"PRINT NUMBER 7820B","Date":"2026-03-26","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 7820B","Date":"2026-03-26","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.1063","Date":"2026-05-12","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}],
  "Title":"Authorizes the town of Gardiner to impose a hotel and motel tax",

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10421","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-04T16:19:53.082357Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-04","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-03-04","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10421","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-04T16:19:53.082357Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10421A","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},

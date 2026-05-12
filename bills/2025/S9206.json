@@ -1,9 +1,10 @@
 {
  "PrintNo":"S9206","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-13T13:58:54.65949Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-02-13","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-07"},{"Type":"PASSED_SENATE","Date":"2026-05-11"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-07"},{"Type":"PASSED_SENATE","Date":"2026-05-11"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-13","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-05-06","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-07","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-11","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-11","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

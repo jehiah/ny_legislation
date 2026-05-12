@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9704","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-02T10:17:22.802601Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-04-02","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-04-02","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1109","Date":"2026-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],"Title":"Enacts the \"no toxics tent act\"",
  "Summary":"Relates to the definition of portable temporary shelters for the purposes of prohibitions on the manufacture or sale of products containing highly flammable materials.",
  "LawSection":"General Business Law","LawCode":"Amd §500, Gen Bus L",

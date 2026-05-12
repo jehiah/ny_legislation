@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9374","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-05T11:41:05.039887Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-05","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-05","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-05","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1075","Date":"2026-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
  "Title":"Authorizes the town of Clinton to impose an occupancy tax",
  "Summary":"Authorizes the town of Clinton to impose a 3% occupancy tax upon persons occupying hotel or motel rooms in such town; provides for the repeal of such provisions upon expiration thereof.",

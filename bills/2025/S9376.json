@@ -1,12 +1,15 @@
 {
  "PrintNo":"S9376","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-06T13:12:24.492553Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Investigations And Government Operations"}],
+ "Published":"2026-03-06T13:12:24.492553Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-06","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-20","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9376A","Date":"2026-04-20","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9376A","Date":"2026-04-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1076","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}],
  "Title":"Authorizes the town of Lancaster to impose an occupancy tax",

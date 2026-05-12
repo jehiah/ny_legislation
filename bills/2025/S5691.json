@@ -1,8 +1,10 @@
 {
  "PrintNo":"S5691","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-27T15:38:36.33246Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-07","Committee":"Investigations And Government Operations"}],
+ "Published":"2025-02-27T15:38:36.33246Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-07","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-02-27","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-06-05","Chamber":"SENATE"},
@@ -12,7 +14,8 @@
    "Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-07","Chamber":"SENATE",
    "Version":"A"
   },
-  {"Text":"PRINT NUMBER 5691B","Date":"2026-05-07","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 5691B","Date":"2026-05-07","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.1059","Date":"2026-05-12","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"}],
  "Title":"Authorizes the town justice of the town of West Almond, county of Allegany, to be a nonresident of such town",

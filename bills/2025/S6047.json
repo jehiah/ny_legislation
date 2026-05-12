@@ -1,13 +1,16 @@
 {
  "PrintNo":"S6047","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-05T09:29:31.278485Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-30","Committee":"Investigations And Government Operations"}],
+ "Published":"2025-03-05T09:29:31.278485Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-30","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-05","Chamber":"SENATE"},
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-30","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 6047A","Date":"2026-04-30","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6047A","Date":"2026-04-30","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1060","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Permits the town of Monroe to impose a hotel and motel tax",

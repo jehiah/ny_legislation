@@ -1,12 +1,15 @@
 {
  "PrintNo":"S9264","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-02-19T15:29:55.209828Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Investigations And Government Operations"}],
+ "Published":"2026-02-19T15:29:55.209828Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-02-19","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-02","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9264A","Date":"2026-04-02","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9264A","Date":"2026-04-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1071","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Extends the authorization of the city of Beacon to impose a hotel and motel tax for an additional three years",

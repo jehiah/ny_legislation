@@ -1,12 +1,15 @@
 {
  "PrintNo":"S9504","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-18T15:19:33.494521Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Investigations And Government Operations"}],
+ "Published":"2026-03-18T15:19:33.494521Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-03-18","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-02","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9504A","Date":"2026-04-02","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9504A","Date":"2026-04-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1077","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Extends the authority of the city of Poughkeepsie to impose a hotel and motel tax for an additional 3 years",

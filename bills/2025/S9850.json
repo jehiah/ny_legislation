@@ -1,12 +1,15 @@
 {
  "PrintNo":"S9850","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-04-08T10:09:17.949937Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Investigations And Government Operations"}],
+ "Published":"2026-04-08T10:09:17.949937Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-08","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-05","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9850A","Date":"2026-05-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9850A","Date":"2026-05-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1083","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER"}],
  "Title":"Authorizes an occupancy tax in the town of Amherst",

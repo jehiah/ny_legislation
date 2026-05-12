@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9979","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-20T16:06:40.523685Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Investigations And Government Operations"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1085","Date":"2026-05-12","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Authorizes retail licensees to purchase alcohol with a business payment",
  "Summary":"Authorizes retail licensees to purchase alcohol with a business payment card.",

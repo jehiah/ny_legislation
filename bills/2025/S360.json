@@ -1,7 +1,7 @@
 {
  "PrintNo":"S360","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-30T10:26:27.644363Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-24","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-24","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-12"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-04","Chamber":"SENATE"},
@@ -14,7 +14,8 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-24","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1036","Date":"2026-05-12","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -155,7 +156,8 @@
  ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},
-  {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}
+  {"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}
  ],
  "Title":"Relates to expanding the health department's review of correctional health services",
  "Summary":"Expands the health department's review of correctional health services by including a biennial study of health care staffing at facilities operated by the department of corrections and community supervision.",

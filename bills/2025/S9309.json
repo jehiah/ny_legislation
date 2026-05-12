@@ -1,11 +1,17 @@
 {
- "PrintNo":"S9309","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-27T09:38:05.382089Z",
- "Status":"IN_SENATE_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-27","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2026-02-27","Chamber":"SENATE"}],
+ "PrintNo":"S9309","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-02-27T09:38:05.382089Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Judiciary"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2026-02-27","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO JUDICIARY","Date":"2026-05-12","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-05-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9309A","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
  "Title":"Enacts the \"deed protection act\"",
- "Summary":"Enacts the \"deed protection act\" in relation to prohibiting a financial institution from taking possession of a property based on the failure to repay a loan provided by such financial institution for such property if such loan was provided to a person who obtained title to such property by deed theft and such financial institution failed to conduct due diligence to determine whether any such deed theft had occurred.",
- "LawSection":"Banking Law","LawCode":"Add §6-q, Bank L",
- "ActClause":"AN ACT to amend the banking law, in relation to enacting the \"deed protection act\""
+ "Summary":"Enacts the \"deed protection act\" in relation to prohibiting a mortgage banker or mortgage loan servicer from commencing, maintaining, or proceeding with a foreclosure action on a mortgage loan where such mortgage banker or mortgage loan servicer knows or has reason to know that the mortgage securing such loan is dependent on a deed, conveyance, or other instrument affecting title to residential real property that was procured by fraud, forgery, or other unlawful means.",
+ "LawSection":"Banking Law","LawCode":"Add §595-d, Bank L",
+ "ActClause":"AN ACT to amend the banking law, in relation to enacting the \"deed protection act\"",
+ "SameAsPrintNo":"A9554-2025"
 }

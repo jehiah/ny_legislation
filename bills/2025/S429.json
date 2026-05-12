@@ -1,7 +1,7 @@
 {
  "PrintNo":"S429","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T11:27:28.045264Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-12"}],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.256","Date":"2025-02-04","Chamber":"SENATE"},
@@ -13,7 +13,8 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-04","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1037","Date":"2026-05-12","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -93,6 +94,18 @@
     {"ID":885,"Name":"Robert Ortt","Short":"ORTT","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-02-04","Chamber":"SENATE","Committee":"Crime Victims, Crime And Correction",
+   "Votes":[
+    {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"}
    ]
   }
  ],
