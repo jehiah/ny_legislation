@@ -1,13 +1,16 @@
 {
- "PrintNo":"S9908","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-13T16:50:54.442512Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S9908","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-13T16:50:54.442512Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-04-13","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-04-13","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.896","Date":"2026-05-04","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.896","Date":"2026-05-04","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-05","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-06","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 9908A","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -34,7 +37,9 @@
  ],
  "Title":"Requires the division of housing and community renewal to calculate the period of rent reduction due to diminution of services from the date of actual diminution of the services",
  "Summary":"Requires the division of housing and community renewal to calculate the period of rent reduction due to diminution of services from the date of actual diminution of the services.",
- "LawSection":"New York City",
- "ActClause":"AN ACT in relation to requiring the division of housing and community renewal to calculate the period of rent reduction due to diminution of services from the date of actual diminution of the services",
+ "LawSection":"New York City Administrative Code",
+ "LawCode":"Amd §7, Emergy Prot Act of 1974; amd §§26-514 & 26-405, NYC Ad Cd; amd §4, Emerg Hous Rent Cont L",
+ "ActClause":"AN ACT to amend the emergency tenant protection act of nineteen seventy-four, the administrative code of the city of New York and the emergency housing rent control law, in relation to requiring the division of housing and community renewal to calculate the period of rent reduction due to diminution of services from the date of actual diminution of the services",
+ "SameAsPrintNo":"A6839-2025",
  "PreviousVersions":["S4884-2013","S498-2015","S94-2017","S15-2019","S692-2021","S3233-2023","S3198-2025"]
 }

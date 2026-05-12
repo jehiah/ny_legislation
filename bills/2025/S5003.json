@@ -1,11 +1,9 @@
 {
- "PrintNo":"S5003","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-14T16:25:58.409482Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Corporations, Authorities And Commissions",
+ "PrintNo":"S5003","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-14T16:25:58.409482Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-09","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-09"},{"Type":"PASSED_SENATE","Date":"2026-02-26"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Corporations, Authorities And Commissions"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-14","Chamber":"SENATE"},
@@ -29,7 +27,9 @@
    "Version":"A"
   },
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-12","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 5003B","Date":"2026-05-12","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -221,5 +221,5 @@
  "Summary":"Rededicates the Franklin Delano Roosevelt Mid-Hudson bridge to Franklin and Eleanor Roosevelt.",
  "LawSection":"Public Authorities Law","LawCode":"Add §526-c, Pub Auth L",
  "ActClause":"AN ACT to amend the public authorities law, in relation to rededicating the Franklin Delano Roosevelt Mid-Hudson bridge to Franklin and Eleanor Roosevelt",
- "PreviousVersions":["S7836-2019","S3938-2021","S4669-2023"]
+ "SameAsPrintNo":"A5066-2025","PreviousVersions":["S7836-2019","S3938-2021","S4669-2023"]
 }

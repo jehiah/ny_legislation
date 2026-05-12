@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10141","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-09T09:35:46.42956Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-09","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-09","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10141","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-09T09:35:46.42956Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Environmental Conservation"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-09","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10141A","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
@@ -20,12 +24,13 @@
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
-  {"ID":1564,"Name":"Paula Kay","Short":"KAY"}
+  {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"},
+  {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"}
  ],
  "Title":"Imposes a moratorium on data center permit issuance; and relates to data center rate impacts",
- "Summary":"Imposes a moratorium on the issuance of permits for new data centers; requires the public service commission to issue an order or orders to minimize the impact of new data centers on electricity and gas rates for residential, commercial, and industrial users.",
+ "Summary":"Imposes a moratorium on the issuance of permits for new data centers; requires the public service commission to issue an order or orders to minimize the impact of new data centers on electricity and gas rates for residential, commercial, and industrial users; clarifies that certain provisions are applicable to the Long Island power authority.",
  "LawSection":"Environmental Conservation Law",
- "LawCode":"Add Art 31 §§31-0101 - 31-0107, En Con L; add §66-x, Pub Serv L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to imposing a moratorium on data center permit issuance; and to amend the public service law, in relation to data center rate impacts",
+ "LawCode":"Add Art 31 §§31-0101 - 31-0107, En Con L; add §66-x, Pub Serv L; add §1014-a, amd §1020-s, Pub Auth L",
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to imposing a moratorium on data center permit issuance; to amend the public service law, in relation to data center rate impacts; and to amend the public authorities law, in relation to applicability of certain provisions to the Long Island power authority",
  "SameAsPrintNo":"S9144-2025"
 }

@@ -1,10 +1,9 @@
 {
- "PrintNo":"S5257","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-20T10:53:56.028539Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "PrintNo":"S5257","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-20T10:53:56.028539Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-04"},{"Type":"PASSED_SENATE","Date":"2026-03-09"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-09","Committee":"Economic Development"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-20","Chamber":"SENATE"},
@@ -27,7 +26,9 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-09","Chamber":"SENATE","Version":"B"},
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-03-09","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-12","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 5257C","Date":"2026-05-12","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -210,7 +211,8 @@
   {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
  ],
  "Title":"Requires mandatory background checks for persons employed by certain businesses serving minors and prohibiting certain persons from owning such businesses",
- "Summary":"Requires mandatory background checks for persons employed by or volunteering at any business, organization, or entity that regularly provides instructional, recreational or extracurricular services to minors, including but not limited to dance studios, gymnastic schools, martial arts academies, sports training facilities, music schools and performing arts schools, tutoring and academic enrichment centers; provides for enforcement and penalties; prohibits certain people from owning such businesses.",
- "LawSection":"General Business Law","LawCode":"Add §398-g, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to requiring mandatory background checks for persons employed by certain businesses serving minors and prohibiting certain persons from owning such businesses"
+ "Summary":"Requires mandatory background checks for persons employed by or volunteering at any business corporation, not-for-profit corporation, limited liability company, or limited partnership that regularly provides instructional, recreational or extracurricular services to minors, including but not limited to dance studios, gymnastic schools, martial arts academies, sports training facilities, music schools and performing arts schools, tutoring and academic enrichment centers; provides for enforcement and penalties; prohibits certain people from owning such businesses.",
+ "LawSection":"General Business Law","LawCode":"Add §398-h, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to requiring mandatory background checks for persons employed by certain businesses serving minors and prohibiting certain persons from owning such businesses",
+ "SameAsPrintNo":"A6568-2025"
 }

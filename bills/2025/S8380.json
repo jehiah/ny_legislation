@@ -1,10 +1,12 @@
 {
- "PrintNo":"S8380","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-06T15:28:31.37367Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S8380","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-06-06T15:28:31.37367Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-06","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-05-12","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8380A","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
@@ -12,7 +14,7 @@
  ],
  "Title":"Requires covered entities report to the department of health regarding certain 340B drug discounts",
  "Summary":"Requires covered entities report to the department of health regarding certain 340B drug discounts and what percentage of patients benefit from such discounts.",
- "LawSection":"Public Health Law","LawCode":"Add §280-d, Pub Health L",
+ "LawSection":"Public Health Law","LawCode":"Add §280-e, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to requiring transparency requirements for certain 340B drugs",
  "SameAsPrintNo":"A6987-2025"
 }
