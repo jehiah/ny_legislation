@@ -1,12 +1,14 @@
 {
  "PrintNo":"A2601","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-21T10:05:02.38047Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-21","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.313","Date":"2026-03-19","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S1946","Date":"2026-05-13","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

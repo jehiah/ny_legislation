@@ -1,7 +1,10 @@
 {
  "PrintNo":"A9350","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-12-19T15:59:18.844035Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Labor"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"}],
+ "Published":"2025-12-19T15:59:18.844035Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Labor"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-13"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-12-19","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -11,7 +14,9 @@
   {"Text":"PRINT NUMBER 9350B","Date":"2026-03-12","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ADVANCED TO THIRD READING CAL.417","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"AMENDED ON THIRD READING 9350C","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"AMENDED ON THIRD READING 9350C","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -44,7 +49,8 @@
   {"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},
-  {"ID":1540,"Name":"Brian Maher","Short":"MAHER"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}
+  {"ID":1540,"Name":"Brian Maher","Short":"MAHER"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1147,"Name":"Steve Stern","Short":"STERN"}
  ],
  "Title":"Provides for permitted leaves of absence for members of civil air patrol",
  "Summary":"Provides for permitted leaves of absence for members of the civil air patrol during emergencies for purposes of assisting with such emergencies.",

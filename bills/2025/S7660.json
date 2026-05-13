@@ -1,14 +1,16 @@
 {
- "PrintNo":"S7660","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-25T14:56:39.120137Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "PrintNo":"S7660","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-25T14:56:39.120137Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-04-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1162","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2025-05-21","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-22","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2026-05-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7660A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -34,7 +36,7 @@
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Details the procedure that certain school districts must follow when dealing with disciplinary actions for bus drivers and bus driver's assistants",
  "Summary":"Details the procedure that certain school districts must follow when dealing with disciplinary actions for bus drivers and bus drivers' assistants.",
- "LawSection":"Education Law","LawCode":"Amd §§1604, 1709, 2503 & 2554, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to contracts regarding bus drivers and bus driver's assistants",
- "SameAsPrintNo":"A8094-2025","PreviousVersions":["S7415-2023"]
+ "LawSection":"Education Law","LawCode":"Amd §1604, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to contracts regarding bus drivers and bus driver's assistants; and providing for the repeal of such provisions upon expiration thereof",
+ "PreviousVersions":["S7415-2023"]
 }

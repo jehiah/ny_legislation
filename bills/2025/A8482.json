@@ -1,7 +1,10 @@
 {
  "PrintNo":"A8482","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-16T17:57:01.528308Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"}],
+ "Published":"2025-05-16T17:57:01.528308Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-13"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-05-16","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
@@ -14,7 +17,9 @@
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.213","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 8482A","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 8482A","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -111,7 +116,8 @@
  "Sponsors":[
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
-  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
  ],
  "Title":"Prohibits insurance carriers and employers from withholding certain benefits from injured workers based on attachment to the labor market",
  "Summary":"Prohibits insurance carriers and employers from withholding certain benefits from injured workers based on a claim that such workers have voluntarily withdrawn from the labor market by not seeking alternate employment that their injury or illness does not preclude them from performing.",

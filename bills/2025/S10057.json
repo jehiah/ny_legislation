@@ -1,8 +1,11 @@
 {
  "PrintNo":"S10057","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-24T15:46:49.680502Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Labor"}],
- "Actions":[{"Text":"REFERRED TO LABOR","Date":"2026-04-24","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-05-13"}],
+ "Actions":[
+  {"Text":"REFERRED TO LABOR","Date":"2026-04-24","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1116","Date":"2026-05-13","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"}],
  "Title":"Relates to requiring employers to obtain an acknowledgement of receipt from employees of their sexual harassment prevention policy and sexual harassment prevention training program",
  "Summary":"Relates to requiring employers to obtain an acknowledgement of receipt from employees of their sexual harassment prevention policy and sexual harassment prevention training program in writing in English and in employees' primary languages; requires employers to obtain acknowledgements from employees and keep such acknowledgements for six years.",

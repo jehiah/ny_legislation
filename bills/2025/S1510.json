@@ -1,7 +1,7 @@
 {
- "PrintNo":"S1510","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T11:05:53.923026Z",
- "Status":"IN_SENATE_COMM","Committee":"New York City Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"New York City Education"}],
+ "PrintNo":"S1510","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-10T11:05:53.923026Z","Status":"IN_SENATE_COMM","Committee":"New York City Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"New York City Education"}],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1305","Date":"2025-05-27","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO EDUCATION","Date":"2025-06-04","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO NEW YORK CITY EDUCATION","Date":"2026-05-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1510A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -100,5 +102,5 @@
  "Summary":"Allows the president of the citywide council on high schools to participate in the selection of the members of the board of education elected by the community district education council presidents.",
  "LawSection":"Education Law","LawCode":"Amd §2590-b, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to allowing the president of the citywide council on high schools to participate in the selection of the members of the board of education elected by the community district education council presidents",
- "PreviousVersions":["S9336-2023"]
+ "SameAsPrintNo":"A10446-2025","PreviousVersions":["S9336-2023"]
 }

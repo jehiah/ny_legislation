@@ -1,7 +1,7 @@
 {
  "PrintNo":"S845","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-06T12:59:22.560192Z",
- "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Women's Issues"}],
+ "Status":"IN_SENATE_COMM","Committee":"Alcoholism And Substance Use Disorders",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"Alcoholism And Substance Use Disorders"}],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO HEALTH","Date":"2025-04-29","Chamber":"SENATE"},
@@ -9,7 +9,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2025-05-14","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2026-05-13","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -40,6 +41,18 @@
     {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Nay"},
     {"ID":397,"Name":"Jack M. Martins","Short":"MARTINS","Vote":"Nay"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-13","Chamber":"SENATE","Committee":"Women's Issues",
+   "Votes":[
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Nay"}
    ]
   }
  ],

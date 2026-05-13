@@ -1,7 +1,10 @@
 {
  "PrintNo":"S6200","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-06T12:11:27.708942Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Energy And Telecommunications"}],
+ "Published":"2025-03-06T12:11:27.708942Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-13"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-03-06","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1099","Date":"2025-05-13","Chamber":"SENATE"},
@@ -16,7 +19,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-04-27","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 6200A","Date":"2026-04-27","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6200A","Date":"2026-04-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1118","Date":"2026-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -99,6 +103,21 @@
     {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-13","Version":"A","Chamber":"SENATE",
+   "Committee":"Energy And Telecommunications",
+   "Votes":[
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
    ]
   }
  ],

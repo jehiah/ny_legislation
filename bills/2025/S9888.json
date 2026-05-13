@@ -9,12 +9,26 @@
    "Chamber":"SENATE"
   }
  ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-12","Chamber":"SENATE","Committee":"Consumer Protection",
+   "Votes":[
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},
   {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
  ],
  "Title":"Requires certain motion picture theaters to provide scheduled showings of motion pictures with open motion picture captioning",
  "Summary":"Requires a motion picture theater that offers more than ten motion picture showings per week to provide scheduled showings of motion pictures with open motion picture captioning such that at least one quarter of all showings of a motion picture with four or more showings during a one-week time period shall have open motion picture captioning; provides exceptions and penalties for violations.",

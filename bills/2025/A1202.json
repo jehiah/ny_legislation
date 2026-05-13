@@ -1,9 +1,9 @@
 {
  "PrintNo":"A1202","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-09T10:31:36.662061Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-09T10:31:36.662061Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-09","Committee":"Governmental Employees"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-15"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-15"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -11,7 +11,9 @@
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2026-01-09","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 1202A","Date":"2026-01-09","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.220","Date":"2026-01-15","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.220","Date":"2026-01-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

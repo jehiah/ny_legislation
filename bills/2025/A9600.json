@@ -1,8 +1,12 @@
 {
- "PrintNo":"A9600","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-21T16:44:12.188698Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-21","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A9600","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-21T16:44:12.188698Z","Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Mental Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO MENTAL HEALTH","Date":"2026-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9600A","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
@@ -12,7 +16,6 @@
  ],
  "Title":"Includes avoidant/restrictive food intake disorders as eating disorders for the purposes of mental health",
  "Summary":"Includes avoidant/restrictive food intake disorders as eating disorders for the purposes of mental health.",
- "LawSection":"Mental Hygiene Law","LawCode":"Amd §30.02, Ment Hyg L; amd §207, Pub Health L",
- "ActClause":"AN ACT to amend the mental hygiene law and the public health law, in relation to including avoidant/restrictive food intake disorders as eating disorders for the purposes of mental health",
- "SameAsPrintNo":"S9063-2025"
+ "LawSection":"Mental Hygiene Law","LawCode":"Amd §30.02, Ment Hyg L",
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to including avoidant/restrictive food intake disorders as eating disorders for the purposes of mental health"
 }

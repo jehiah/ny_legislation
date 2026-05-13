@@ -3,7 +3,10 @@
  "Status":"IN_SENATE_COMM","Committee":"Transportation",
  "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Transportation"}],
  "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-27","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}],
+ "Sponsors":[
+  {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"},{"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN"},
+  {"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"}
+ ],
  "Title":"Relates to the registration of bicycles with electric assist used for commercial purposes",
  "Summary":"Requires the registration of bicycles with electric assist used for commercial purposes; provides liability of employers for certain violations.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Add §1244, amd §1242, V & T L; amd §10-157, NYC Ad Cd",

@@ -1,8 +1,11 @@
 {
  "PrintNo":"A10357","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-26T16:28:45.538626Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Science And Technology",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-26","Committee":"Science And Technology"}],
- "Actions":[{"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-02-26","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-13","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
@@ -20,7 +23,8 @@
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},
-  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"}
+  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"}
  ],
  "Title":"Provides for the protection of health information",
  "Summary":"Provides for the protection of health information; establishes requirements for communications to individuals about their health information; requires either written consent or a designated necessary purpose for the processing of an individual's health information.",

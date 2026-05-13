@@ -1,9 +1,9 @@
 {
  "PrintNo":"A9570","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-15T17:02:01.24703Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2026-01-15T17:02:01.24703Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-01-15","Chamber":"ASSEMBLY"},
@@ -14,7 +14,9 @@
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ADVANCED TO THIRD READING CAL.419","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"AMENDED ON THIRD READING 9570C","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"AMENDED ON THIRD READING 9570C","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -60,7 +62,8 @@
  "Sponsors":[
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1243,"Name":"Simcha Eichenstein","Short":"EICHENSTEIN"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
-  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}
+  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
+  {"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"}
  ],
  "Title":"Relates to the clergy property tax exemption",
  "Summary":"Permits local governments to extend the existing clergy residential property tax exemption to include clergy residing in co-ops; clarifies that the clergy property tax exemption shall not affect eligibility for certain other tax abatements.",

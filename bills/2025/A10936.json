@@ -1,14 +1,16 @@
 {
  "PrintNo":"A10936","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-14T10:29:16.601916Z",
- "Status":"ASSEMBLY_FLOOR",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-14","Committee":"Environmental Conservation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-14","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-04-21","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.387","Date":"2026-04-23","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.387","Date":"2026-04-23","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-13","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

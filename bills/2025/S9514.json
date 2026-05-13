@@ -8,6 +8,20 @@
   {"Text":"PRINT NUMBER 9514A","Date":"2026-03-30","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1032","Date":"2026-05-12","Chamber":"SENATE","Version":"A"}
  ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-12","Version":"A","Chamber":"SENATE","Committee":"Banks",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
  "Title":"Prohibits certain financial institutions from charging a fee based on the frequency of payments or for changing the frequency of mortgage payments",
  "Summary":"Prohibits certain financial institutions from charging a fee for making monthly, semi-monthly, and biweekly payments or for changing the frequency of mortgage payments.",

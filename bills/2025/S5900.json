@@ -1,9 +1,10 @@
 {
  "PrintNo":"S5900","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-03T15:49:55.551145Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Alcoholism And Drug Abuse",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Alcoholism And Substance Use Disorders"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-05"},{"Type":"PASSED_SENATE","Date":"2026-05-07"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"},{"Type":"PASSED_SENATE","Date":"2026-05-07"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-07","Committee":"Alcoholism And Drug Abuse"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2025-03-03","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-05-04","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-07","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-07","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-07","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-05-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -188,6 +190,5 @@
  "Summary":"Relates to the distribution of educational materials regarding the misuse of and addiction to prescription drugs in counties with the most prevalent abuse of prescription opioids.",
  "LawSection":"Mental Hygiene Law","LawCode":"Amd §19.09, Ment Hyg L",
  "ActClause":"AN ACT to amend the mental hygiene law, in relation to the distribution in counties with the most prevalent prescription opioid abuse of educational materials regarding the misuse of and addiction to prescription drugs",
- "SameAsPrintNo":"A8948-2025",
  "PreviousVersions":["S6725-2013","S8080-2015","S4326-2017","S379-2019","S5566-2021","S4321-2023"]
 }

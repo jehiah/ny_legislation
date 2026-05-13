@@ -1,8 +1,25 @@
 {
  "PrintNo":"S9733","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-02T11:22:49.016141Z",
- "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Women's Issues"}],
- "Actions":[{"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-04-02","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-04-02","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO HEALTH","Date":"2026-05-13","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-13","Chamber":"SENATE","Committee":"Women's Issues",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":400,"Name":"Toby Ann Stavisky","Short":"STAVISKY","Vote":"Aye"},
+    {"ID":1515,"Name":"Lea Webb","Short":"WEBB","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],
  "Title":"Relates to information sharing between the boards of maternal mortality and morbidity review, the New York city department of health and mental hygiene, and county health departments",
  "Summary":"Requires maternal mortality review boards to annually share information with the New York city and county health departments, including circumstances, common factors and patterns, best practices and strategies, primary data, vital records data, and any other guidance associated with reported cases of maternal mortality and morbidity.",

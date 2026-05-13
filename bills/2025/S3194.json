@@ -1,7 +1,8 @@
 {
- "PrintNo":"S3194","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T10:24:20.85551Z",
- "Status":"IN_SENATE_COMM","Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "PrintNo":"S3194","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T10:24:20.85551Z","Status":"IN_SENATE_COMM",
+ "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"Veterans, Homeland Security And Military Affairs"}],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-09","Chamber":"SENATE"},
@@ -11,7 +12,12 @@
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-06-10","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE"},
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-05-13",
+   "Chamber":"SENATE"
+  },
+  {"Text":"PRINT NUMBER 3194A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -117,8 +123,8 @@
   {"ID":1490,"Name":"Dan Stec","Short":"STEC"}
  ],
  "Title":"Relates to defining \"period of war\" for the alternative veterans' exemption",
- "Summary":"Relates to defining \"period of war\" for the alternative veterans' exemption; includes more recent hostilities in the definition of \"period of war\".",
- "LawSection":"Real Property Tax Law","LawCode":"Amd §458-a, RPT L",
+ "Summary":"Defines \"period of war\" for the alternative veterans' exemption.","LawSection":"Real Property Tax Law",
+ "LawCode":"Amd §458-a, RPT L",
  "ActClause":"AN ACT to amend the real property tax law, in relation to defining \"period of war\" for the alternative veterans' exemption",
  "SameAsPrintNo":"A3450-2025","PreviousVersions":["S1676-2019","S1779-2021","S1938-2023"]
 }
