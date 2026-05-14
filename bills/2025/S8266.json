@@ -1,14 +1,16 @@
 {
- "PrintNo":"S8266","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-28T11:01:43.671213Z",
- "Status":"IN_SENATE_COMM","Committee":"New York City Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"New York City Education"}],
+ "PrintNo":"S8266","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-28T11:01:43.671213Z","Status":"IN_SENATE_COMM","Committee":"New York City Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"New York City Education"}],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-05-28","Chamber":"SENATE"},
-  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO NEW YORK CITY EDUCATION","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8266A","Date":"2026-05-14","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}],
  "Title":"Relates to providing transportation after four o'clock",
- "Summary":"Relates to providing transportation after four o'clock; provides a formula for aid.",
- "LawSection":"Education Law","LawCode":"Amd §3627, Ed L",
+ "Summary":"Relates to providing transportation after four o'clock.","LawSection":"Education Law",
+ "LawCode":"Amd §3627, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to providing transportation after four o'clock"
 }

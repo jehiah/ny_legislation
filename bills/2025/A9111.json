@@ -1,7 +1,7 @@
 {
  "PrintNo":"A9111","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-09-26T10:29:21.208053Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-08","Committee":"Energy"}],
+ "Published":"2025-09-26T10:29:21.208053Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-14"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-09-26","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2025-12-12","Chamber":"ASSEMBLY"},
@@ -10,7 +10,56 @@
   {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 9111B","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"PRINT NUMBER 9111C","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"PRINT NUMBER 9111C","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RULES REPORT CAL.124","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.124","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-11","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Nay"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},{"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":900,"Short":"DILAN","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-05-14","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},{"ID":608,"Short":"RA","Vote":"Nay"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Nay"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":1148,"Short":"SMITH","Vote":"Nay"},{"ID":1485,"Short":"JENSEN","Vote":"Nay"},
+    {"ID":1465,"Short":"GANDOLFO","Vote":"Nay"},{"ID":900,"Short":"DILAN","Vote":"Excused"},
+    {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1245,"Short":"REILLY","Vote":"Excused"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
@@ -36,5 +85,6 @@
  "Title":"Relates to portable solar generation devices",
  "Summary":"Defines \"portable solar generation device\"; exempts portable solar generation devices from interconnection or net metering requirements; requires the state energy conservation construction code to allow for portable solar generation devices to be connected to a building's wiring through an electrical outlet.",
  "LawSection":"Public Service Law","LawCode":"Amd §66-j, Pub Serv L; amd §378, Exec L",
- "ActClause":"AN ACT to amend the public service law and the executive law, in relation to portable solar generation devices"
+ "ActClause":"AN ACT to amend the public service law and the executive law, in relation to portable solar generation devices",
+ "SameAsPrintNo":"S8512-2025"
 }

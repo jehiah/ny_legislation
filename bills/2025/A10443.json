@@ -1,12 +1,18 @@
 {
- "PrintNo":"A10443","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T09:36:46.657636Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-29","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}],
+ "PrintNo":"A10443","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-06T09:36:46.657636Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-29","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-11"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-14"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-03-06","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-04-29","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.482","Date":"2026-05-07","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.482","Date":"2026-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING (T) 10443A","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -61,9 +67,8 @@
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":457,"Name":"Vivian Cook","Short":"COOK"}
  ],
- "Title":"Clarifies that certain prohibitions on insurance companies shall apply to policies or contracts purchased and delivered or issued for delivery in the state of New York",
- "Summary":"Clarifies that certain prohibitions on insurance companies relating to misrepresentations, misleading statements and incomplete comparisons shall apply to policies or contracts purchased and delivered or issued for delivery in the state of New York.",
+ "Title":"Clarifies who may sue an insurer for violations related to misrepresentations, misleading statements and incomplete comparisons",
+ "Summary":"Clarifies that residents of the state and any policyholder, contract holder, certificate holder, or beneficiary of a policy, contract, or certificate of life, accident and health insurance may sue an insurer for violations related to misrepresentations, misleading statements and incomplete comparisons.",
  "LawSection":"Insurance Law","LawCode":"Amd §4226, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to clarifying that certain prohibitions on insurance companies shall apply to policies or contracts purchased and delivered or issued for delivery in the state of New York",
- "SameAsPrintNo":"S9746-2025"
+ "ActClause":"AN ACT to amend the insurance law, in relation to clarifying the application of subsection (d) of section 4226 of such law"
 }

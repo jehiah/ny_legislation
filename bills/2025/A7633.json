@@ -1,7 +1,10 @@
 {
  "PrintNo":"A7633","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-02T11:35:14.347094Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"}],
+ "Published":"2025-04-02T11:35:14.347094Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-14"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-04-02","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-04-08","Chamber":"ASSEMBLY"},
@@ -12,7 +15,9 @@
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.192","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 7633A","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 7633A","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

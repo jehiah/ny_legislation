@@ -1,9 +1,10 @@
 {
  "PrintNo":"S8563","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-11-03T15:10:48.609161Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-12"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Codes"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-12"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Codes"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-14"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-11-03","Chamber":"SENATE"},
@@ -12,7 +13,9 @@
   {"Text":"ORDERED TO THIRD READING CAL.1008","Date":"2026-05-12","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2026-05-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A9212","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.126","Date":"2026-05-14","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

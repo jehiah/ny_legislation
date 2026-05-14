@@ -1,10 +1,11 @@
 {
  "PrintNo":"S8440","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-06-12T13:20:53.021173Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-06-12T13:20:53.021173Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"},
   {"Type":"SENATE_FLOOR","Date":"2026-03-23"},{"Type":"PASSED_SENATE","Date":"2026-04-01"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-01","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-01","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-14"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-14"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
@@ -21,7 +22,11 @@
   {"Text":"AMENDED ON THIRD READING 8440A","Date":"2026-03-23","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2026-04-01","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-01","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-04-01","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-04-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8897A","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.123","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,12 +1,15 @@
 {
- "PrintNo":"S9885","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-13T15:35:15.650204Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-13","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2026-04-13","Chamber":"SENATE"}],
+ "PrintNo":"S9885","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-13T15:35:15.650204Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Education"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-04-13","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9885A","Date":"2026-05-14","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}],
- "Title":"Relates to reimbursement for grants for the hiring of teachers, arts and music teacher grants and nonpublic school safety equipment grants",
- "Summary":"Provides that reimbursement payable for grants for the hiring of teachers, arts and music teachers and nonpublic school safety equipment shall be paid within twelve months of the education department's receipt of a complete application for such grant; requires the commissioner of education to report on any such reimbursements payable.",
- "LawSection":"Education Law","LawCode":"Amd §3037, add §§3037-a - 3037-c, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to reimbursement for grants for the hiring of teachers, arts and music teacher grants and nonpublic school safety equipment grants",
- "SameAsPrintNo":"A10618-2025"
+ "Title":"Relates to reimbursement for nonpublic school safety equipment grants",
+ "Summary":"Provides that reimbursement payable for grants for nonpublic school safety equipment shall be paid within twelve months of the nonpublic school furnishing all required application materials for such grant to the department of education; requires the commissioner of education to report on any such reimbursements payable.",
+ "LawSection":"Education Law","LawCode":"Amd §305, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to reimbursement for nonpublic school safety equipment grants"
 }

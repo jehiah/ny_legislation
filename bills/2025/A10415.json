@@ -1,4 +1,80 @@
 {
  "PrintNo":"A10415","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-03T12:30:50.967315Z",
- "Sponsors":[{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"}]
+ "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-14"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-14"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Energy And Telecommunications"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.130","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.130","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-05-14","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-11","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-05-14","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":636,"Short":"FRIEND","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Aye"},{"ID":608,"Short":"RA","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":589,"Short":"HAWLEY","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Aye"},{"ID":533,"Short":"DINOWITZ","Vote":"Aye"},
+    {"ID":635,"Short":"PALMESANO","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Excused"},
+    {"ID":535,"Short":"HEASTIE","Vote":"Excused"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1245,"Short":"REILLY","Vote":"Excused"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"}],
+ "Title":"Extends provisions of law relating to the New York telecommunications relay service center",
+ "Summary":"Extends provisions of law relating to the New York telecommunications relay service center from June 30, 2027 until June 30, 2030.",
+ "LawSection":"Public Services","LawCode":"Amd Part H1 §4, Chap 62 of 2003",
+ "ActClause":"AN ACT to amend chapter 62 of the laws of 2003, amending the public service law relating to establishing the New York telecommunications relay service center, in relation to extending certain provisions of such center",
+ "SameAsPrintNo":"S9305-2025","PreviousVersions":["A3164-2023"]
 }

@@ -1,13 +1,17 @@
 {
  "PrintNo":"S4272","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-03T15:25:39.980555Z","Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-07","Committee":"Cities 1"}],
+ "Published":"2025-02-03T15:25:39.980555Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Energy And Telecommunications"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-20","Chamber":"SENATE"},
   {"Text":"REFERRED TO CITIES 1","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CITIES 1","Date":"2026-05-07","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 4272A","Date":"2026-05-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 4272A","Date":"2026-05-07","Chamber":"SENATE","Version":"A"},
+  {
+   "Text":"REPORTED AND COMMITTED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-05-14","Chamber":"SENATE",
+   "Version":"A"
+  }
  ],
  "Votes":[
   {
@@ -23,7 +27,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"}],
+ "Sponsors":[
+  {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}
+ ],
  "Title":"Provides for direct-pay tax abatement credits for solar electric generating systems and electric energy storage systems in connection with eligible buildings",
  "Summary":"Provides for direct-pay tax abatement credits for solar electric generating systems and electric energy storage systems in connection with eligible buildings; provides such eligible properties shall include: 501(c)(3) corporations, associations, organizations or trusts and income-restricted affordable housing properties.",
  "LawSection":"Real Property Tax Law","LawCode":"Amd §§499-bbbb & 499-cccc, RPT L",

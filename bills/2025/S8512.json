@@ -1,10 +1,7 @@
 {
- "PrintNo":"S8512","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-09-24T09:02:09.177063Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-04-20"},
-  {"Type":"PASSED_SENATE","Date":"2026-04-21"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Energy"}
- ],
+ "PrintNo":"S8512","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-09-24T09:02:09.177063Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-09-24","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO RULES","Date":"2025-12-10","Chamber":"SENATE"},
@@ -19,7 +16,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.698","Date":"2026-04-20","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-04-21","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-21","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO ENERGY","Date":"2026-04-22","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO ENERGY","Date":"2026-04-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 8512C","Date":"2026-05-14","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -132,5 +133,6 @@
  "Title":"Relates to portable solar generation devices",
  "Summary":"Defines \"portable solar generation device\"; exempts portable solar generation devices from interconnection or net metering requirements; requires the state energy conservation construction code to allow for portable solar generation devices to be connected to a building's wiring through an electrical outlet.",
  "LawSection":"Public Service Law","LawCode":"Amd §66-j, Pub Serv L; amd §378, Exec L",
- "ActClause":"AN ACT to amend the public service law and the energy law, in relation to portable solar generation devices"
+ "ActClause":"AN ACT to amend the public service law and the executive law, in relation to portable solar generation devices",
+ "SameAsPrintNo":"A9111-2025"
 }

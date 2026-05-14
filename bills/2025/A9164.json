@@ -1,10 +1,12 @@
 {
- "PrintNo":"A9164","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-10-17T14:30:10.276547Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Housing"}],
+ "PrintNo":"A9164","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-10-17T14:30:10.276547Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Housing"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-10-17","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HOUSING","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HOUSING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9164A","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"},
@@ -17,5 +19,5 @@
  "Summary":"Establishes uniform waiting list priorities for domestic violence survivors applying for public housing.",
  "LawSection":"Public Housing Law","LawCode":"Add §62, Pub Hous L",
  "ActClause":"AN ACT to amend the public housing law, in relation to establishing uniform waiting list priorities for domestic violence survivors applying for public housing",
- "SameAsPrintNo":"S871-2025","PreviousVersions":["S8694-2017","A9735-2019","A3534-2021","A1113-2023"]
+ "PreviousVersions":["S8694-2017","A9735-2019","A3534-2021","A1113-2023"]
 }

@@ -1,8 +1,12 @@
 {
- "PrintNo":"S10313","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-12T16:19:46.212978Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-12","Chamber":"SENATE"}],
+ "PrintNo":"S10313","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-05-12T16:19:46.212978Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-12","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10313A","Date":"2026-05-14","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Requires digital parking payment applications to provide notice of applicable parking restrictions",
  "Summary":"Requires digital parking payment applications to provide notice of applicable parking restrictions to users based on location.",
