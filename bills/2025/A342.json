@@ -1,10 +1,12 @@
 {
- "PrintNo":"A342","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2024-12-31T12:28:32.10435Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Ways And Means"}],
+ "PrintNo":"A342","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-31T12:28:32.10435Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-01-08","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 342A","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},
@@ -17,8 +19,8 @@
   {"ID":1576,"Name":"Diana Moreno","Short":"MORENO"}
  ],
  "Title":"Establishes the end toxic home flipping act",
- "Summary":"Establishes the end toxic home flipping act; imposes a tax on the transfer of certain residential properties which are sold within two years of the prior conveyance of such property; exempts certain purchases of residential properties from mortgage recording taxes; imposes a tax on the transfer of certain properties in the city of New York which are sold for one million dollars or more.",
+ "Summary":"Establishes the end predatory home flipping act; imposes a tax on the transfer of certain residential properties which are sold within two years of the prior conveyance of such property; exempts certain purchases of residential properties from mortgage recording taxes; imposes a tax on the transfer of certain properties in the city of New York which are sold for one million dollars or more.",
  "LawSection":"New York City Administrative Code","LawCode":"Add §11-2120, NYC Ad Cd",
  "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to the imposition of tax on the transfer of certain properties in the city of New York",
- "PreviousVersions":["A6574-2021","A1023-2023"]
+ "SameAsPrintNo":"S574-2025","PreviousVersions":["A6574-2021","A1023-2023"]
 }

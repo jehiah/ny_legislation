@@ -1,15 +1,18 @@
 {
- "PrintNo":"A10088","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-30T14:06:12.267015Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10088","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-30T14:06:12.267015Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Economic Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10088A","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
-  {"ID":1487,"Name":"William Conrad","Short":"CONRAD"}
+  {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"}
  ],
- "Title":"Requires prospective licensees of cannabis licenses to submit proof of local municipal compliance to the Cannabis Control Board when applying for an OCM Cannabis license",
- "Summary":"Requires prospective licensees of cannabis licenses to submit proof of local municipal compliance to the Cannabis Control Board when applying for an OCM Cannabis license.",
- "LawSection":"Cannabis Law","LawCode":"Amd §61, Cannabis L",
- "ActClause":"AN ACT to amend the cannabis law, in relation to require prospective licensees of cannabis licenses to submit proof of local municipal compliance to the Cannabis Control Board when applying for an OCM Cannabis license",
- "SameAsPrintNo":"S10347-2025"
+ "Title":"Requires require prospective licensees of cannabis licenses to submit a formal attestation of compliance with local zoning laws, land-use regulations, and municipal code requirements",
+ "Summary":"Requires prospective licensees of cannabis licenses to submit a formal attestation of compliance with local zoning laws, land-use regulations, and municipal code requirements and proof of local municipal compliance to the Cannabis Control Board when applying for an OCM Cannabis license, and give municipalities the ability to request an extension of time to submit an opinion on the prosepctive licensee application.",
+ "LawSection":"Cannabis Law","LawCode":"Amd §§61 & 76, Cannabis L",
+ "ActClause":"AN ACT to amend the cannabis law, in relation to requiring prospective licensees of cannabis licenses to submit a formal attestation of compliance with local zoning laws, land-use regulations, and municipal code requirements and proof of local municipal compliance to the Cannabis Control Board when applying for an OCM Cannabis license, and give municipalities the ability to request an extension of time to submit an opinion on the prospective licensee application"
 }

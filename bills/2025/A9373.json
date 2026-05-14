@@ -1,10 +1,12 @@
 {
- "PrintNo":"A9373","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-12-19T16:09:51.523441Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "PrintNo":"A9373","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-12-19T16:09:51.523441Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-12-19","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9373A","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
@@ -16,8 +18,7 @@
   {"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"}
  ],
  "Title":"Relates to the purchase of firearms, ammunition, and firearm accessories",
- "Summary":"Requires bidders on contracts to purchase firearms, ammunition, and firearm accessories follow certain requirements to ensure public safety.",
- "LawSection":"State Finance Law","LawCode":"Add §169, St Fin L",
- "ActClause":"AN ACT to amend the state finance law, in relation to the purchase of firearms, ammunition, and firearm accessories",
- "SameAsPrintNo":"S8608-2025"
+ "Summary":"Requires bidders on contracts to purchase firearms, ammunition, and firearm accessories to submit a statement that the bidder is licensed and in compliance with all applicable federal, state, and local laws, rules and regulations relating to the sale, transfer, storage and disposition of firearms, ammunition and firearm accessories.",
+ "LawSection":"State Finance Law","LawCode":"Add §139-n, St Fin L",
+ "ActClause":"AN ACT to amend the state finance law, in relation to the purchase of firearms, ammunition, and firearm accessories"
 }
