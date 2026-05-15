@@ -1,8 +1,14 @@
 {
- "PrintNo":"A10899","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-08T13:02:27.759866Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-08","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2026-04-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10899","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-08T13:02:27.759866Z","Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-15","Committee":"Banks"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2026-04-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10899A","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10899B","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"B"}
+ ],
  "Sponsors":[
   {"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
@@ -13,5 +19,5 @@
  "Title":"Relates to crypto kiosks",
  "Summary":"Provides for the registration and regulation of crypto kiosk and cashier crypto exchange operators.",
  "LawSection":"Banking Law","LawCode":"Add Art 2-AAA §§76-a - 76-n, Bank L",
- "ActClause":"AN ACT to amend the banking law, in relation to crypto kiosks","SameAsPrintNo":"S9891-2025"
+ "ActClause":"AN ACT to amend the banking law, in relation to crypto kiosks"
 }

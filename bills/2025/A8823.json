@@ -1,8 +1,8 @@
 {
- "PrintNo":"A8823","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A8823","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-06-09T17:24:28.307431Z","Status":"IN_ASSEMBLY_COMM",
  "Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-04","Committee":"Corporations, Authorities And Commissions"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-15","Committee":"Corporations, Authorities And Commissions"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -12,12 +12,16 @@
    "Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-03-04","Chamber":"ASSEMBLY",
    "Version":"A"
   },
-  {"Text":"PRINT NUMBER 8823B","Date":"2026-03-04","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 8823B","Date":"2026-03-04","Chamber":"ASSEMBLY","Version":"B"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-15",
+   "Chamber":"ASSEMBLY","Version":"B"
+  },
+  {"Text":"PRINT NUMBER 8823C","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Establishes a usage monitor program",
- "Summary":"Establishes a usage monitor program for the purposes of notifying residential customers when energy usage exceeds a cost or usage threshold in a given billing period determined by the residential customer.",
- "LawSection":"Public Service Law","LawCode":"Amd §44, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to establishing a usage monitor program",
- "SameAsPrintNo":"S8062-2025"
+ "Summary":"Requires certain utility corporations and the Long Island power authority to establish a meter usage monitor program for the purposes of notifying residential customers when energy usage exceeds a cost or usage threshold in a given billing period determined by the residential customer.",
+ "LawSection":"Public Service Law","LawCode":"Add §39-a, Pub Serv L; add Art 5 Title 1-A §1020-nn, Pub Auth L",
+ "ActClause":"AN ACT to amend the public service law and the public authorities law, in relation to requiring certain utility corporations and the Long Island power authority to establish a meter usage monitoring program"
 }
