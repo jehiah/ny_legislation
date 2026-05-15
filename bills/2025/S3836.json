@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3836","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T10:57:03.601162Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_SENATE","Date":"2026-05-14"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_SENATE","Date":"2026-05-14"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Economic Development"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-30","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-03-25","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-14","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-05-14","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

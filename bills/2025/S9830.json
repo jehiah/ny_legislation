@@ -1,8 +1,12 @@
 {
- "PrintNo":"S9830","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-07T13:14:18.567367Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-07","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-04-07","Chamber":"SENATE"}],
+ "PrintNo":"S9830","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-07T13:14:18.567367Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-15","Committee":"Energy And Telecommunications"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-04-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-05-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9830A","Date":"2026-05-15","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Relates to enhanced community benefit agreements between renewable owners and host municipalities",
  "Summary":"Authorizes renewable owners to enter into enhanced community benefit agreements with the governing bodies of host municipalities under which direct bill credits are offered to residential customers.",

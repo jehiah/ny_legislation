@@ -1,15 +1,18 @@
 {
- "PrintNo":"S9930","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S9930","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2026-04-16T11:35:33.872519Z","Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-15","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-04-16","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-04-28","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9930A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9930A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-05-15","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 9930B","Date":"2026-05-15","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
- "Title":"Enacts the \"Sacred Burial Law\" facilitating the handling of certain unclaimed bodies",
- "Summary":"Requires entities having possession of unclaimed bodies of deceased persons known to be of Jewish descent or to be of Muslim descent to contact certain organizations to inquire if such organizations are willing to assume responsibility for the burial or cremation of such persons.",
+ "Title":"Relates to the handling of certain unclaimed human remains",
+ "Summary":"Prohibits unclaimed human remains from being buried, cremated, or otherwise finally disposed of unless such remains have first been entered into the National Missing and Unidentified Persons System, and for a period of time thereafter as specified by the commissioner of health.",
  "LawSection":"Public Health Law","LawCode":"Add §4211-a, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation the handling of certain unclaimed bodies"
+ "ActClause":"AN ACT to amend the public health law, in relation to the handling of certain unclaimed remains",
+ "SameAsPrintNo":"A11146-2025"
 }

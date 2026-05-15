@@ -1,10 +1,29 @@
 {
- "PrintNo":"A9349","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-12-17T11:25:18.442077Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Consumer Affairs And Protection"}],
+ "PrintNo":"A9349","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-12-17T11:25:18.442077Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-12-17","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-05-06","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9349A","Date":"2026-05-06","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-11","Chamber":"ASSEMBLY",
+   "Committee":"CONSUMER AFFAIRS AND PROTECTION",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1530,"Short":"LEE","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Nay"},
+    {"ID":1466,"Short":"DURSO","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},
+    {"ID":1474,"Short":"FORREST","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
@@ -19,12 +38,13 @@
   {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},
   {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},
   {"ID":1576,"Name":"Diana Moreno","Short":"MORENO"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
-  {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
-  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}
+  {"ID":1525,"Name":"Steven Raga","Short":"RAGA"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
+  {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":457,"Name":"Vivian Cook","Short":"COOK"},
+  {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}
  ],
- "Title":"Prohibits the use of algorithmically set prices and requires the disclosure of automated pricing systems",
- "Summary":"Prohibits the use of algorithmically set prices; requires the disclosure of automated pricing systems; creates a private cause of action for violations of such prohibition.",
+ "Title":"Prohibits the use of surveillance pricing",
+ "Summary":"Prohibits the use of surveillance pricing, directly or indirectly; prohibits the collection, use, retention, or sharing of data to facilitate surveillance pricing; provides exceptions; provides for enforcement by the attorney general; makes related provisions.",
  "LawSection":"General Business Law","LawCode":"Amd §349-a, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the use of algorithmically set prices and requires the disclosure of automated pricing systems",
- "SameAsPrintNo":"S8623-2025"
+ "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the use of surveillance pricing"
 }

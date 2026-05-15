@@ -1,10 +1,12 @@
 {
- "PrintNo":"S9539","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-23T13:27:49.192464Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Finance"}],
+ "PrintNo":"S9539","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-23T13:27:49.192464Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-15","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-03-23","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-05","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-05","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2026-05-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9539A","Date":"2026-05-15","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,9 +37,9 @@
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
  ],
- "Title":"Relates to reporting of drinking water lead testing in schools",
- "Summary":"Improves reporting systems for results of drinking water lead testing in schools; directs a five-year plan with proposals to best mitigate the persistence of lead in schools.",
+ "Title":"Requires the department of health to create and issue a five-year plan with its proposals to best mitigate the persistence of lead in school water across the state",
+ "Summary":"Requires the department of health, in consultation with the commissioner of education, to create and issue a five-year plan with proposals to best mitigate the persistence of lead in schools.",
  "LawSection":"Public Health Law","LawCode":"Amd §1110, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to requiring the department of health to utilize a more transparent and accurate reporting system for cases of lead in school water, and to create and issue a five-year plan with its proposals to best mitigate the persistence of lead in school water across the state",
+ "ActClause":"AN ACT to amend the public health law, in relation to requiring the department of health to create and issue a five-year plan with its proposals to best mitigate the persistence of lead in school water across the state",
  "SameAsPrintNo":"A11112-2025"
 }

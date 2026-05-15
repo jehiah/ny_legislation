@@ -1,9 +1,10 @@
 {
  "PrintNo":"S9742","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-04-02T13:20:27.883355Z","Status":"PASSED_SENATE",
+ "Published":"2026-04-02T13:20:27.883355Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-11"},{"Type":"PASSED_SENATE","Date":"2026-05-14"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-11"},{"Type":"PASSED_SENATE","Date":"2026-05-14"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Housing"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-04-02","Chamber":"SENATE"},
@@ -12,7 +13,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-22","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING 9742A","Date":"2026-05-11","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO HOUSING","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

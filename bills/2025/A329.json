@@ -1,10 +1,9 @@
 {
- "PrintNo":"A329","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-31T12:22:33.795076Z","Status":"IN_SENATE_COMM","Committee":"Mental Health",
+ "PrintNo":"A329","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2024-12-31T12:22:33.795076Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Mental Health"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-23"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Mental Health"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -19,7 +18,9 @@
   {"Text":"DELIVERED TO SENATE","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-03-23","Chamber":"SENATE","Version":"B"},
   {"Text":"RECALLED FROM SENATE","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-12","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING (T) 329C","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -45,16 +46,28 @@
     {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
     {"ID":1505,"Short":"GIBBS","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"","Date":"2026-05-12","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Excused"}
+   ]
   }
  ],
  "Sponsors":[
   {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"}
  ],
- "Title":"Relates to setting comprehensive outpatient services",
- "Summary":"Authorizes the commissioner of the office of mental health, and the office of addiction services and support to jointly establish a single set of licensing standards and requirements for the construction, operation, reporting and surveillance of comprehensive outpatient services centers.",
+ "Title":"Relates to setting integrated behavioral health services",
+ "Summary":"Authorizes the commissioner of the office of mental health, and the office of addiction services and support to jointly establish a single set of licensing standards and requirements for the construction, operation, reporting and surveillance of integrated behavioral health services.",
  "LawSection":"Mental Hygiene Law",
- "LawCode":"Add §36.08, amd §§31.02 & 32.05, Ment Hyg L; amd §488, Soc Serv L; amd §2801, Pub Health L",
- "ActClause":"AN ACT to amend the mental hygiene law, the public health law and the social services law, in relation to setting comprehensive outpatient services",
+ "LawCode":"Add §36.08, amd §§36.06, 31.02, 32.05 & 43.02, Ment Hyg L; amd §488, Soc Serv L; amd §2801, Pub Health L",
+ "ActClause":"AN ACT to amend the mental hygiene law, the public health law and the social services law, in relation to setting integrated behavioral health services",
  "SameAsPrintNo":"S3051-2025","PreviousVersions":["A8099-2021","A3870-2023"]
 }

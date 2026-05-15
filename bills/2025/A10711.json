@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10711","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-26T15:22:31.6566Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-04-21"},{"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-21"},{"Type":"PASSED_SENATE","Date":"2026-04-21"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-21"},{"Type":"PASSED_SENATE","Date":"2026-04-21"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-05-15"},{"Type":"SIGNED_BY_GOV","Date":"2026-05-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-03-26","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S9598","Date":"2026-04-21","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.658","Date":"2026-04-21","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-04-21","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-21","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.115","Date":"2026-05-15","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

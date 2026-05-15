@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10710","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-26T15:21:25.819177Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-04-21"},{"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-11"},{"Type":"PASSED_SENATE","Date":"2026-05-11"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-11"},{"Type":"PASSED_SENATE","Date":"2026-05-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-05-15"},{"Type":"SIGNED_BY_GOV","Date":"2026-05-15"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-03-26","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S9599","Date":"2026-05-11","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.659","Date":"2026-05-11","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-11","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.114","Date":"2026-05-15","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

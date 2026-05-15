@@ -1,9 +1,10 @@
 {
  "PrintNo":"S1811","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T08:48:10.046132Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-01-27"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-07"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-07"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-07","Committee":"Governmental Operations"}
  ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-14","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-01-21","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-01-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-07","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-07","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-07","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-05-07","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -215,7 +217,7 @@
  ],
  "Sponsors":[
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
-  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"}
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Designates May ninth as Opioid Awareness Day","Summary":"Designates May ninth as \"Opioid Awareness Day\".",
  "LawSection":"Executive Law","LawCode":"Amd §168-a, Exec L",

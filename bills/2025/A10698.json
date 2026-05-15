@@ -1,15 +1,18 @@
 {
- "PrintNo":"A10698","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-20T15:49:55.432703Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-20","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-03-20","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10698","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-20T15:49:55.432703Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Economic Development"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-03-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10698A","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}
  ],
  "Title":"Prohibits cannabis inversion",
- "Summary":"Enacts the \"cannabis supply chain integrity and anti-inversion act\"; prohibits any act or omission involving illicit cannabis; provides penalties for such cannabis inversion; provides whistleblower protection for any employee or contractor who, in good faith, reported or attempted to report suspected prohibitions and restrictions to the office, the board or any law enforcement agency.",
- "LawSection":"Cannabis Law","LawCode":"Amd §§136 & 138-a, add §§125-a & 138-c, Cannabis L",
- "ActClause":"AN ACT to amend the cannabis law, in relation to prohibiting cannabis inversion and establishing penalties and whistleblower protections",
- "SameAsPrintNo":"S8951-2025"
+ "Summary":"Enacts the \"cannabis supply chain integrity and anti-inversion act\"; prohibits any act or omission involving illicit cannabis; provides penalties for such cannabis inversion.",
+ "LawSection":"Cannabis Law","LawCode":"Amd §§136, 133, 17 & 138-a, add §125-a, Cannabis L",
+ "ActClause":"AN ACT to amend the cannabis law, in relation to prohibiting cannabis inversion and establishing penalties"
 }

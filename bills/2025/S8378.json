@@ -1,9 +1,10 @@
 {
  "PrintNo":"S8378","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-06-06T15:28:00.372577Z","Status":"PASSED_SENATE",
+ "Published":"2025-06-06T15:28:00.372577Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-12"},{"Type":"PASSED_SENATE","Date":"2026-05-14"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-12"},{"Type":"PASSED_SENATE","Date":"2026-05-14"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-06","Chamber":"SENATE"},
@@ -17,7 +18,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-12","Chamber":"SENATE","Version":"B"},
   {"Text":"HOME RULE REQUEST","Date":"2026-05-14","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-05-14","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

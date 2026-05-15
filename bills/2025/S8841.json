@@ -1,12 +1,13 @@
 {
- "PrintNo":"S8841","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-08T15:57:08.904378Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-04-27"}],
+ "PrintNo":"S8841","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-08T15:57:08.904378Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-05-13"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-08","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.812","Date":"2026-04-21","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-22","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 8841A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -35,9 +36,9 @@
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
  ],
- "Title":"Allows individuals to register in the donate life registry through mandatory personal income tax electronic tax filings",
- "Summary":"Allows individuals to register in the \"donate life registry\" on any mandatory electronic personal income tax filing.",
- "LawSection":"Public Health Law","LawCode":"Amd §4310, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to allowing individuals to register in the \"donate life registry\" through mandatory electronic personal income tax filings",
+ "Title":"Allows individuals to register in the donate life registry through personal income tax filings",
+ "Summary":"Directs the department of taxation and finance to include an opportunity on certain personal income tax forms for individuals to provide written consent to be added to the donate life registry; makes related provisions.",
+ "LawSection":"Tax Law","LawCode":"Add §171-bb, amd §697, Tax L; amd §4310, Pub Health L",
+ "ActClause":"AN ACT to amend the tax law and the public health law, in relation to allowing individuals to register in the \"donate life registry\" through personal income tax filings",
  "SameAsPrintNo":"A10299-2025","PreviousVersions":["S7331-2025"]
 }

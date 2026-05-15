@@ -1,9 +1,10 @@
 {
  "PrintNo":"S7713","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-01T10:05:22.984238Z","Status":"PASSED_SENATE",
+ "Published":"2025-05-01T10:05:22.984238Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Internet And Technology"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-13"},{"Type":"PASSED_SENATE","Date":"2026-05-14"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-13"},{"Type":"PASSED_SENATE","Date":"2026-05-14"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Consumer Affairs And Protection"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-05-01","Chamber":"SENATE"},
@@ -22,7 +23,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-04-07","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-13","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,10 +1,12 @@
 {
- "PrintNo":"S9272","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-20T13:16:11.700264Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-29","Committee":"Education"}],
+ "PrintNo":"S9272","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-02-20T13:16:11.700264Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS","Date":"2026-02-20","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO EDUCATION","Date":"2026-04-29","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO EDUCATION","Date":"2026-04-29","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-05-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9272A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -21,7 +23,7 @@
  ],
  "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
  "Title":"Relates to expanding opioid overdose prevention measures in certain settings",
- "Summary":"Requires school districts, public libraries, BOCES, county vocational education and extension boards, charter schools, and non-public schools to provide and maintain on-site opioid antagonists.",
+ "Summary":"Requires school districts, public libraries, BOCES, county vocational education and extension boards, charter schools, and non-public schools to provide and maintain on-site opioid antagonists; requires the department of health to provide such opioid antagonists to such entities upon request.",
  "LawSection":"Education Law","LawCode":"Amd §922, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to expanding opioid overdose prevention measures in certain settings",
  "SameAsPrintNo":"A8814-2025"

@@ -1,12 +1,16 @@
 {
- "PrintNo":"A11112","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-24T10:11:11.572417Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-24","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-04-24","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A11112","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-24T10:11:11.572417Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-15","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-04-24","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 11112A","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}],
  "Title":"Relates to reporting of drinking water lead testing in schools",
- "Summary":"Improves reporting systems for results of drinking water lead testing in schools; directs a five-year plan with proposals to best mitigate the persistence of lead in schools.",
+ "Summary":"Requires the department of health, in consultation with the commissioner of education, to create and issue a five-year plan with proposals to best mitigate the persistence of lead in schools.",
  "LawSection":"Public Health Law","LawCode":"Amd §1110, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to requiring the department of health to utilize a more transparent and accurate reporting system for cases of lead in school water, and to create and issue a five-year plan with its proposals to best mitigate the persistence of lead in school water across the state",
+ "ActClause":"AN ACT to amend the public health law, in relation to requiring the department of health to create and issue a five-year plan with its proposals to best mitigate the persistence of lead in school water across the state",
  "SameAsPrintNo":"S9539-2025"
 }

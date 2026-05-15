@@ -1,9 +1,9 @@
 {
  "PrintNo":"S4867","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-13T14:16:53.881242Z","Status":"PASSED_SENATE",
+ "Published":"2025-02-13T14:16:53.881242Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-04-22"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-07"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-07"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-07","Committee":"Insurance"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-13","Chamber":"SENATE"},
@@ -17,7 +17,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-04-21","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-22","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-05-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -123,7 +124,8 @@
  ],
  "Sponsors":[
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
-  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Prohibits the application of fail-first or step therapy protocols to coverage for the diagnosis and treatment of serious mental health conditions",
  "Summary":"Prohibits the application of fail-first or step therapy protocols to coverage for the diagnosis and treatment of serious mental health conditions; defines serious mental health condition.",

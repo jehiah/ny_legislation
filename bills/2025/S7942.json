@@ -1,9 +1,10 @@
 {
  "PrintNo":"S7942","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-14T15:01:59.545314Z","Status":"PASSED_SENATE",
+ "Published":"2025-05-14T15:01:59.545314Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-09"},{"Type":"PASSED_SENATE","Date":"2026-05-14"}
+  {"Type":"SENATE_FLOOR","Date":"2026-02-09"},{"Type":"PASSED_SENATE","Date":"2026-05-14"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Transportation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-14","Chamber":"SENATE"},
@@ -14,7 +15,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

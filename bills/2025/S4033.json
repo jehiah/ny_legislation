@@ -1,9 +1,10 @@
 {
  "PrintNo":"S4033","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-31T10:59:33.340573Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-31T10:59:33.340573Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-30"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-14"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-14"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Environmental Conservation"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-31","Chamber":"SENATE"},
@@ -26,7 +27,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-10","Chamber":"SENATE","Version":"B"},
   {"Text":"AMENDED ON THIRD READING 4033C","Date":"2026-03-30","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2026-05-14","Chamber":"SENATE","Version":"C"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"C"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-14","Chamber":"SENATE","Version":"C"},
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

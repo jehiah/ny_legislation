@@ -1,11 +1,13 @@
 {
- "PrintNo":"A10299","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A10299","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2026-02-20T16:38:33.442313Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-02","Committee":"Health"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-15","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-02-20","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-03-02","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 10299A","Date":"2026-03-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 10299A","Date":"2026-03-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10299B","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
@@ -29,9 +31,9 @@
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1566,"Name":"Andrea Bailey","Short":"BAILEY"},
   {"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"}
  ],
- "Title":"Allows individuals to register in the donate life registry through mandatory personal income tax electronic tax filings",
- "Summary":"Allows individuals to register in the \"donate life registry\" on any mandatory electronic personal income tax filing.",
- "LawSection":"Public Health Law","LawCode":"Amd §4310, Pub Health L",
+ "Title":"Allows individuals to register in the donate life registry through personal income tax filings",
+ "Summary":"Directs the department of taxation and finance to include an opportunity on certain personal income tax forms for individuals to provide written consent to be added to the donate life registry; makes related provisions.",
+ "LawSection":"Public Health Law","LawCode":"Add §171-bb, amd §697, Tax L; amd §4310, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to allowing individuals to register in the \"donate life registry\" through mandatory electronic personal income tax filings",
  "SameAsPrintNo":"S8841-2025","PreviousVersions":["A7011-2025"]
 }
