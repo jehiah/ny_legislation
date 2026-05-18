@@ -1,13 +1,15 @@
 {
- "PrintNo":"A3459","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A3459","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-27T11:49:18.648139Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-01-27","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2025-05-14","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 3459A","Date":"2025-05-14","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-19","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 3459B","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -40,5 +42,5 @@
  "Summary":"Relates to civil penalties for certain fraud or misrepresentation of a material fact with respect to a financial product or service.",
  "LawSection":"Financial Services Law","LawCode":"Amd §408, Fin Serv L",
  "ActClause":"AN ACT to amend the financial services law, in relation to civil penalties for certain fraud or misrepresentation of a material fact with respect to a financial product or service",
- "SameAsPrintNo":"S3789-2025","PreviousVersions":["A7814-2023"]
+ "PreviousVersions":["A7814-2023"]
 }
