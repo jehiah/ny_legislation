@@ -1,7 +1,12 @@
 {
  "PrintNo":"S7328","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-10T11:07:15.93886Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-04"}],
+ "Published":"2025-04-10T11:07:15.93886Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-27","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-04"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-18"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Corporations, Authorities And Commissions"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1100","Date":"2025-05-13","Chamber":"SENATE"},
@@ -28,7 +33,13 @@
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-04","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 7328B","Date":"2026-05-04","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 7328B","Date":"2026-05-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"REPASSED SENATE","Date":"2026-05-18","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-18","Chamber":"SENATE","Version":"B"},
+  {
+   "Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-18","Chamber":"ASSEMBLY",
+   "Version":"B"
+  }
  ],
  "Votes":[
   {

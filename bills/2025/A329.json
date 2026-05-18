@@ -1,9 +1,9 @@
 {
  "PrintNo":"A329","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-31T12:22:33.795076Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2024-12-31T12:22:33.795076Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Mental Health"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-12"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-12"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-18"}
  ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -20,7 +20,9 @@
   {"Text":"RECALLED FROM SENATE","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-12","Chamber":"SENATE","Version":"B"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"AMENDED ON THIRD READING (T) 329C","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"AMENDED ON THIRD READING (T) 329C","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPASSED ASSEMBLY","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

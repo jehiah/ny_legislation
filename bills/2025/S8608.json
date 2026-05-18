@@ -1,14 +1,17 @@
 {
- "PrintNo":"S8608","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-12-08T11:29:07.848264Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Procurement And Contracts"}],
+ "PrintNo":"S8608","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-12-08T11:29:07.848264Z","Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-18","Committee":"Procurement And Contracts"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-12-08","Chamber":"SENATE"},
-  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO PROCUREMENT AND CONTRACTS","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8608A","Date":"2026-05-18","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"}],
  "Title":"Relates to the purchase of firearms, ammunition, and firearm accessories",
- "Summary":"Requires bidders on contracts to purchase firearms, ammunition, and firearm accessories follow certain requirements to ensure public safety.",
- "LawSection":"State Finance Law","LawCode":"Add §169, St Fin L",
- "ActClause":"AN ACT to amend the state finance law, in relation to the purchase of firearms, ammunition, and firearm accessories"
+ "Summary":"Requires bidders on contracts to purchase firearms, ammunition, and firearm accessories to submit a statement that the bidder is licensed and in compliance with all applicable federal, state, and local laws, rules and regulations relating to the sale, transfer, storage and disposition of firearms, ammunition and firearm accessories.",
+ "LawSection":"State Finance Law","LawCode":"Add §139-n, St Fin L",
+ "ActClause":"AN ACT to amend the state finance law, in relation to the purchase of firearms, ammunition, and firearm accessories",
+ "SameAsPrintNo":"A9373-2025"
 }

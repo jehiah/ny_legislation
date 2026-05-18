@@ -1,7 +1,11 @@
 {
  "PrintNo":"S7335","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-10T14:22:08.380903Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-04"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-04"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-18"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Ways And Means"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-04-10","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-04-29","Chamber":"SENATE"},
@@ -16,7 +20,10 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.850","Date":"2026-04-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-18","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -164,7 +171,8 @@
   }
  ],
  "Sponsors":[
-  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"},
+  {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
   {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
   {"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3247","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T13:09:47.849771Z",
- "Status":"SENATE_FLOOR",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-07"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-11"},{"Type":"PASSED_SENATE","Date":"2026-05-18"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Energy"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-24","Chamber":"SENATE"},
@@ -17,7 +18,11 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.989","Date":"2026-05-06","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-05-07","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-07","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"REFERRED TO ENERGY","Date":"2026-05-18","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,13 +1,15 @@
 {
- "PrintNo":"A10132","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-02-03T12:02:55.618114Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Codes"}],
+ "PrintNo":"A10132","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-03T12:02:55.618114Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-18"}],
  "Actions":[
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-02-03","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-10","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-02-12","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10132A","Date":"2026-02-12","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING CAL.280","Date":"2026-02-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 10132B","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -20,9 +22,30 @@
     {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},{"ID":1466,"Short":"DURSO","Vote":"Excused"},
     {"ID":1505,"Short":"GIBBS","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-02-25","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1531,"Short":"BORES","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Nay"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1466,"Short":"DURSO","Vote":"Excused"},{"ID":1505,"Short":"GIBBS","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Excused"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Excused"}
+   ]
   }
  ],
- "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
+ "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}],
  "Title":"Enacts the \"connected consumer product end of life disclosure act\"",
  "Summary":"Enacts the \"connected consumer product end of life disclosure act\", relating to requiring manufacturers of connected consumer products to disclose for how long they will provide technical support, security updates, or bug fixes for the software, hardware, or firmware necessary for the product to securely function.",
  "LawSection":"General Business Law","LawCode":"Add §399-mm, Gen Bus L",

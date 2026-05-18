@@ -1,8 +1,11 @@
 {
  "PrintNo":"S10017","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-22T14:15:55.288028Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-22","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2026-04-22","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-22","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-05-18"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-04-22","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1128","Date":"2026-05-18","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}

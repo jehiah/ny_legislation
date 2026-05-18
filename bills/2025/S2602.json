@@ -1,7 +1,11 @@
 {
  "PrintNo":"S2602","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-21T17:28:53.654752Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-18"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Governmental Operations"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2025-01-21","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-06-12","Chamber":"SENATE"},
@@ -14,7 +18,10 @@
   {"Text":"REFERRED TO FINANCE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1048","Date":"2026-05-12","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-05-18","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -139,7 +146,7 @@
   }
  ],
  "Sponsors":[
-  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
+  {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":885,"Name":"Robert Ortt","Short":"ORTT"},
   {"ID":1490,"Name":"Dan Stec","Short":"STEC"}
  ],

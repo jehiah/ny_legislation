@@ -1,7 +1,7 @@
 {
- "PrintNo":"S180","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S180","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2024-12-19T15:16:17.650048Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-20","Committee":"Finance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-18","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-01-22","Chamber":"SENATE"},
@@ -17,7 +17,9 @@
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO SOCIAL SERVICES","Date":"2026-01-08","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 180B","Date":"2026-01-08","Chamber":"SENATE","Version":"B"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-20","Chamber":"SENATE","Version":"B"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-01-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-05-18","Chamber":"SENATE","Version":"B"},
+  {"Text":"PRINT NUMBER 180C","Date":"2026-05-18","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -125,12 +127,24 @@
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-01-20","Version":"B","Chamber":"SENATE","Committee":"Social Services",
+   "Votes":[
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
   }
  ],
  "Sponsors":[
   {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
   {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"},
-  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"}
+  {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
  ],
  "Title":"Increases the amount certain individuals are eligible for when receiving enhanced residential care",
  "Summary":"Increases the amount certain individuals are eligible for when receiving enhanced residential care.",

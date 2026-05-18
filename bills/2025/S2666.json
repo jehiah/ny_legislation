@@ -1,10 +1,7 @@
 {
- "PrintNo":"S2666","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-22T13:09:44.274672Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"},
-  {"Type":"PASSED_SENATE","Date":"2026-04-13"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-13","Committee":"Correction"}
- ],
+ "PrintNo":"S2666","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-22T13:09:44.274672Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-18"}],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-01-22","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.383","Date":"2025-02-25","Chamber":"SENATE"},
@@ -23,7 +20,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-04-13","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-04-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-04-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-18","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-18","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 2666B","Date":"2026-05-18","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -223,8 +224,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to the provision of breast pumps to certain incarcerated birth parents and allowing children to remain with their incarcerated birth parent for a period of time",
- "Summary":"Relates to the provision of breast pumps and related collection and storage materials to certain incarcerated nursing birth parents who are confined in or committed to an institution or local correctional facility with or without their child subject to specific time limitations; requires institutions and local correctional facilities to provide pumps and related materials to such incarcerated birth parents, but not beyond the date such child reaches twenty-four months of age except in limited circumstances related to parole; allows children to remain with their incarcerated birth parents in a correctional institution until twenty-four months of age, or longer in certain cases related to parole; requires the commissioner of corrections and community supervision to issue an annual report on data relating to incarcerated birth parents.",
+ "Summary":"Relates to the provision of breast pumps and related collection and storage materials to certain incarcerated nursing birth parents who are confined in or committed to an institution or local correctional facility with or without their child subject to specific time limitations; requires institutions and local correctional facilities to provide pumps and related materials to such incarcerated birth parents; requires the commissioner of corrections and community supervision to issue an annual report on data relating to incarcerated birth parents.",
  "LawSection":"Correction Law","LawCode":"Amd §611, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to providing breast pumps to certain incarcerated nursing birth parents",
- "PreviousVersions":["A4610-2021","S9817-2023"]
+ "SameAsPrintNo":"A1607-2025","PreviousVersions":["A4610-2021","S9817-2023"]
 }

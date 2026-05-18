@@ -1,14 +1,38 @@
 {
  "PrintNo":"A9693","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-21T17:16:23.502545Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Tourism, Parks, Arts And Sports Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Tourism, Parks, Arts And Sports Development"}],
+ "Status":"IN_SENATE_COMM","Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Tourism, Parks, Arts And Sports Development"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-26"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-04","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2026-01-21","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-02-26","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.278","Date":"2026-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-03-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2026-02-26","Chamber":"ASSEMBLY","Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "Votes":[
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1573,"Short":"CASHMAN","Vote":"Aye"},
+    {"ID":1577,"Short":"POWERS","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Absent"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Absent"},{"ID":1541,"Short":"SHRESTHA","Vote":"Absent"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-03-04","Chamber":"ASSEMBLY","Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
    "Votes":[
     {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
     {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
@@ -29,5 +53,5 @@
  "Summary":"Extends the effectiveness of certain provisions of law relating to the operation of personal watercraft and specialty prop-craft.",
  "LawSection":"State Finance","LawCode":"Amd §8, Chap 138 of 1998",
  "ActClause":"AN ACT to amend chapter 138 of the laws of 1998, amending the navigation law and the state finance law relating to the operation of personal watercraft and specialty prop-craft, in relation to the effectiveness thereof",
- "PreviousVersions":["A9978-2021","A10333-2023","A4431-2025"]
+ "SameAsPrintNo":"S10525-2025","PreviousVersions":["A9978-2021","A10333-2023","A4431-2025"]
 }

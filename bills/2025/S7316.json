@@ -1,9 +1,10 @@
 {
  "PrintNo":"S7316","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-09T15:39:59.378396Z",
- "Status":"SENATE_FLOOR",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-27"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-27"},{"Type":"PASSED_SENATE","Date":"2026-05-18"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-04-09","Chamber":"SENATE"},
@@ -17,7 +18,10 @@
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.762","Date":"2026-04-21","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-22","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-18","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,10 +1,12 @@
 {
- "PrintNo":"A2617","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-21T10:12:42.662753Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"}],
+ "PrintNo":"A2617","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-21T10:12:42.662753Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-21","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-18","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 2617A","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
@@ -15,5 +17,5 @@
  "LawSection":"Public Authorities Law",
  "LawCode":"Amd §1281, Pub Auth L; amd §1160, Pub Health L; amd Part T §6, Chap 57 of 2017; amd §102, RPT L",
  "ActClause":"AN ACT to amend the public authorities law, the public health law, the New York State water infrastructure improvement act of 2017, and the real property tax law, in relation to providing access to water quality infrastructure improvement funding to water utilities",
- "SameAsPrintNo":"S6885-2025","PreviousVersions":["A7521-2023"]
+ "PreviousVersions":["A7521-2023"]
 }

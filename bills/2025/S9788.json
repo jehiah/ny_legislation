@@ -1,12 +1,19 @@
 {
  "PrintNo":"S9788","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-06T13:32:50.015939Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2026-05-07"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2026-05-07"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-18"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Ways And Means"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2026-04-06","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.915","Date":"2026-05-05","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-06","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-07","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-07","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-18","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

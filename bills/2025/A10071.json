@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10071","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-30T14:00:20.559705Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2026-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10071","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-30T14:00:20.559705Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2026-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2026-05-18","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10071A","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
@@ -13,6 +17,5 @@
  "Title":"Requires gas corporations to file maps with the public service commission",
  "Summary":"Requires gas corporations to file maps with the public service commission annually to assess leak-prone gas infrastructure and the decommissioning of such leak-prone gas lines; requires the public service commission to publish such maps and certain accompanying documents on the commission's website; directs the public service commission to designate neighborhood priority decarbonization zones.",
  "LawSection":"Public Service Law","LawCode":"Add §77-a, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to requiring gas corporations to file maps with the public service commission detailing the location of current and planned gas distribution line replacement, repair, renewal and retirement projects",
- "SameAsPrintNo":"S9075-2025"
+ "ActClause":"AN ACT to amend the public service law, in relation to requiring gas corporations to file maps with the public service commission detailing the location of current and planned gas distribution line replacement, repair, renewal and retirement projects"
 }

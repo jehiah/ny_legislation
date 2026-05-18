@@ -6,7 +6,20 @@
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-05-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-13","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-13","Chamber":"ASSEMBLY",
+   "Committee":"SCIENCE AND TECHNOLOGY",
+   "Votes":[
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1531,"Name":"Alex Bores","Short":"BORES"}],
  "Title":"Relates to prohibiting the use of stealth crawlers",
  "Summary":"Prohibits the deployment of a stealth crawler in a manner that would damage, impair or burden the operation of a covered news source or otherwise cause a news source economic harm.",
  "LawSection":"General Business Law","LawCode":"Add Art 48 §§1750 - 1755, Gen Bus L",
