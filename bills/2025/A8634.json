@@ -1,14 +1,36 @@
 {
  "PrintNo":"A8634","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-22T14:35:07.986565Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Health"}],
+ "Published":"2025-05-22T14:35:07.986565Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-22","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-05-12","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 8634A","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 8634B","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 8634B","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-19","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},{"ID":1486,"Short":"LUNSFORD","Vote":"Excused"},
+    {"ID":1257,"Short":"REYES","Vote":"Absent"},{"ID":1474,"Short":"FORREST","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},
@@ -27,5 +49,5 @@
  "Summary":"Establishes maximum contaminant levels in drinking water for certain per- and polyfluoroalkyl substances (PFAS); sets such levels at no higher than 4 parts per trillion (ppt) for perfluorooctane sulfonic acid (PFOS) and perfluorooctanoic acid (PFOA) and no higher than 10 parts per trillion (ppt) for perfluorononanoic acid (PFNA), perfluorohexane sulfonate (PFHxS), and hexafluoropropylene oxide dimer acid (HFPO-DA).",
  "LawSection":"Public Health Law","LawCode":"Amd §1112, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to establishing maximum contaminant levels and a hazard index in drinking water for certain per- and polyfluoroalkyl substances (PFAS)",
- "PreviousVersions":["S9661-2023"]
+ "SameAsPrintNo":"S3207-2025","PreviousVersions":["S9661-2023"]
 }

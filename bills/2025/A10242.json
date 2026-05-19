@@ -1,18 +1,37 @@
 {
- "PrintNo":"A10242","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-12T14:29:06.802102Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-02-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10242","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-12T14:29:06.802102Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO MENTAL HEALTH","Date":"2026-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10242A","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-19","Chamber":"ASSEMBLY",
+   "Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},
-  {"ID":1545,"Name":"Sam Berger","Short":"BERGER"}
+  {"ID":1545,"Name":"Sam Berger","Short":"BERGER"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"}
  ],
  "Title":"Relates to former patients interred at present and former state mental health hospital cemeteries",
  "Summary":"Provides for the availability of certain records of former patients interred at state mental health hospital cemeteries.",
- "LawSection":"Mental Hygiene Law","LawCode":"Add §33.26, amd §33.16, Ment Hyg L",
- "ActClause":"AN ACT to amend the mental hygiene law, in relation to former patients interred at present and former state mental health hospital cemeteries",
- "SameAsPrintNo":"S8903-2025"
+ "LawSection":"Mental Hygiene Law","LawCode":"Add §33.26, Ment Hyg L",
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to former patients interred at present and former state mental health hospital cemeteries"
 }

@@ -1,14 +1,19 @@
 {
  "PrintNo":"A10411","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-03T12:28:40.841939Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}],
+ "Published":"2026-03-03T12:28:40.841939Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-03-03","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-04-14","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10411A","Date":"2026-04-14","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING CAL.481","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING CAL.481","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

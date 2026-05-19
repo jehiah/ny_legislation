@@ -1,10 +1,25 @@
 {
  "PrintNo":"A8751","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-02T10:58:24.86065Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Mental Health"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-06-02","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-19","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-19","Chamber":"ASSEMBLY","Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1566,"Short":"BAILEY","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1539,"Short":"EACHUS","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},

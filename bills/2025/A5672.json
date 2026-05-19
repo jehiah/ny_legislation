@@ -1,14 +1,17 @@
 {
- "PrintNo":"A5672","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-19T10:40:22.044963Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "PrintNo":"A5672","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-19T10:40:22.044963Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-19","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5672A","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}],"Title":"Relates to observing Atlantic time",
- "Summary":"Relates to causing New York to observe Atlantic time.","LawSection":"General Construction Law",
- "LawCode":"Amd §52, Gen Con L; amd §2-106, NYC Ad Cd",
- "ActClause":"AN ACT to amend the general construction law and the administrative code of the city of New York, in relation to observing Atlantic time",
- "PreviousVersions":["S7080-2019","A7258-2021","A5611-2023"]
+ "Sponsors":[{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}],
+ "Title":"Relates to observing daylight savings time permanently; repealer",
+ "Summary":"Relates to New York observing daylight savings time permanently.","LawSection":"General Construction Law",
+ "LawCode":"Rpld §2-106, NYC Ad Cd; amd §52, Gen Con L",
+ "ActClause":"AN ACT to amend the general construction law, in relation to observing daylight savings time permanently; and to repeal section 2-106 of the administrative code of the city of New York in relation to daylight savings time",
+ "SameAsPrintNo":"S5725-2025","PreviousVersions":["S7080-2019","A7258-2021","A5611-2023"]
 }

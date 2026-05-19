@@ -1,14 +1,29 @@
 {
  "PrintNo":"A1670","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-10T13:06:58.238401Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-15","Committee":"Correction"}],
+ "Published":"2025-01-10T13:06:58.238401Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-10","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-01-20","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 1670A","Date":"2026-01-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 1670B","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 1670B","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-19","Chamber":"ASSEMBLY","Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1577,"Short":"POWERS","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Nay"},{"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
@@ -23,7 +38,8 @@
   {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
   {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
-  {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"}
+  {"ID":665,"Name":"Steven Otis","Short":"OTIS"},{"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},
+  {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"}
  ],
  "Title":"Prohibits the use of restraints on incarcerated individuals during labor, absent extraordinary circumstances, and on pregnant persons during a custodial interrogation",
  "Summary":"Prohibits the use of restraints on and the use of force against incarcerated individuals during labor and incarcerated individuals who have experienced different pregnancy outcomes, absent extraordinary circumstances, and on pregnant and post-pregnancy persons during a custodial interrogation; provides for certain exceptions for restraints to be used and in such case limits the use to wrist restraints.",

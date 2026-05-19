@@ -1,16 +1,40 @@
 {
- "PrintNo":"A10435","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-06T09:33:55.246299Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-08","Committee":"Higher Education"}],
+ "PrintNo":"A10435","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-06T09:33:55.246299Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2026-05-08","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 10435A","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 10435A","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10435B","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-19","Chamber":"ASSEMBLY",
+   "Committee":"HIGHER EDUCATION",
+   "Votes":[
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1125,"Short":"MILLER","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":1474,"Short":"FORREST","Vote":"Excused"},
+    {"ID":1257,"Short":"REYES","Vote":"Excused"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}],
- "Title":"Authorizes and directs the commissioner of education establish rules and regulations for a college or university seeking to cease operations",
- "Summary":"Authorizes and directs the commissioner of education to establish rules and regulations for a college or university seeking to cease operations in an orderly process.",
- "LawSection":"Education Law","LawCode":"Amd §305, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to authorizing and directing the commissioner of education establish rules and regulations for a college or university seeking to cease operations",
+ "Title":"Requires every college and university to provide public notice of cessation of operation and to develop transition plans for shared services",
+ "Summary":"Requires every college and university to provide public notice of cessation of operation and to develop transition plans for shared services with local governments, agencies, or not-for-profit corporations.",
+ "LawSection":"Education Law","LawCode":"Add §115, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to requiring every college and university to provide public notice of cessation of operation and to develop transition plans for shared services",
  "PreviousVersions":["A10396-2023"]
 }

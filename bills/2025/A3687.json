@@ -1,7 +1,10 @@
 {
  "PrintNo":"A3687","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-30T10:43:38.236035Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "Published":"2025-01-30T10:43:38.236035Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-30","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2025-04-28","Chamber":"ASSEMBLY"},
@@ -17,7 +20,9 @@
   {"Text":"REFERRED TO RULES","Date":"2025-06-12","Chamber":"SENATE","Version":"B"},
   {"Text":"DIED IN SENATE","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-01-07","Chamber":"SENATE","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING CAL.116","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING CAL.116","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,14 +1,38 @@
 {
- "PrintNo":"A8467","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-16T12:01:39.826759Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"A8467","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-05-16T12:01:39.826759Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-05-16","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 8467A","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-19","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},{"ID":1486,"Short":"LUNSFORD","Vote":"Excused"},
+    {"ID":1257,"Short":"REYES","Vote":"Absent"},{"ID":1474,"Short":"FORREST","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"}],
  "Title":"Relates to notice to fire departments when oxygen is in use at a residence",
- "Summary":"Requires a medical equipment service agency that has supplied oxygen or an oxygen delivery system to a patient to notify the appropriate fire department or company serving the municipality in which the patient resides of the name, address, and age of the patient and the existence of the oxygen or oxygen delivery system at the patient's residence; provides for informed consent; requires notice to the fire department of removal of such equipment.",
+ "Summary":"Requires the department of health to develop a conspicuous warning sticker for the purpose of notifying firefighters that a residence contains a flammable oxygen delivery system.",
  "LawSection":"Public Health Law","LawCode":"Ren §3656 to be §3657, add §3656, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to notice to fire departments when oxygen is in use at a residence"
 }
