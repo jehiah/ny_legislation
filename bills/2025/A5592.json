@@ -1,7 +1,10 @@
 {
  "PrintNo":"A5592","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-18T09:55:28.662469Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-05"}],
+ "Published":"2025-02-18T09:55:28.662469Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-16","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-05"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-18","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2025-06-13","Chamber":"ASSEMBLY"},
@@ -11,7 +14,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.792","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED BY S2011","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING CAL.142","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 5592A","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 5592A","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

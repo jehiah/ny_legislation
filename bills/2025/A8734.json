@@ -9,7 +9,25 @@
   {"Text":"PRINT NUMBER 8734A","Date":"2026-02-25","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-18","Chamber":"ASSEMBLY",
+   "Committee":"ALCOHOLISM AND DRUG ABUSE",
+   "Votes":[
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1573,"Short":"CASHMAN","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}
+ ],
  "Title":"Enacts the individual counseling rate enhancement act",
  "Summary":"Requires a rate enhancement for reimbursement of individual psychotherapy services provided by a mental health counselor, a clinical social worker, or a psychologist where such services are provided in an outpatient substance use disorder clinic.",
  "LawSection":"Mental Hygiene Law","LawCode":"Add §19.18-d, Ment Hyg L",

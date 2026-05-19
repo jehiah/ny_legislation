@@ -1,8 +1,26 @@
 {
  "PrintNo":"S9685","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-01T14:24:23.898772Z",
- "Status":"IN_SENATE_COMM","Committee":"Cultural Affairs, Tourism, Parks And Recreation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-01","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}],
- "Actions":[{"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-04-01","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-19","Committee":"Finance"}],
+ "Actions":[
+  {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-04-01","Chamber":"SENATE"},
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-19","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-19","Chamber":"SENATE",
+   "Committee":"Cultural Affairs, Tourism, Parks And Recreation",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":951,"Name":"Pamela Helming","Short":"HELMING","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Requires the council on arts to make recommendations on the renaming of the agency buildings located at the empire state plaza",
  "Summary":"Requires the council on arts to make recommendations on the renaming of the agency buildings located at the empire state plaza; requires the governor to choose the new agency building names within 60 days after the council's recommendation.",

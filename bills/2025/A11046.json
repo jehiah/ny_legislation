@@ -1,14 +1,32 @@
 {
  "PrintNo":"A11046","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-24T09:51:02.39933Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Ways And Means"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO SMALL BUSINESS","Date":"2026-04-24","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-13","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-13","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-19","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-13","Chamber":"ASSEMBLY",
+   "Committee":"SMALL BUSINESS",
+   "Votes":[
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1543,"Short":"BENDETT","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1573,"Short":"CASHMAN","Vote":"Aye"},
+    {"ID":1576,"Short":"MORENO","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
-  {"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"}
+  {"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"},{"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"}
  ],
  "Title":"Requires the division for small-business to publish a small business compliance guide",
  "Summary":"Requires the division for small-business to publish a small business compliance guide and post such guide to the division for small-business's website.",

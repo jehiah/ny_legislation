@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9061","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-28T14:21:58.150321Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-28","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-28","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1274","Date":"2026-05-19","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":885,"Name":"Robert Ortt","Short":"ORTT"}],
  "Title":"Dedicates a portion of the state highway system to the Lemcke Brothers Military Service",
  "Summary":"Dedicates a portion of the state highway system in the town of Parma, county of Monroe, to the Lemcke Brothers Military Service.",

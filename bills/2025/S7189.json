@@ -1,7 +1,10 @@
 {
  "PrintNo":"S7189","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-03T12:34:18.98171Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Transportation"}],
+ "Published":"2025-04-03T12:34:18.98171Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-03","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-05-09","Chamber":"SENATE"},
@@ -15,7 +18,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-03-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 7189B","Date":"2026-03-09","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 7189B","Date":"2026-03-09","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.1268","Date":"2026-05-19","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -116,5 +120,5 @@
  "Sponsors":[{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"}],
  "Title":"Dedicates a portion of the state highway system to Police Officer Frederick G. Maley",
  "Summary":"Dedicates a portion of the state highway system to Police Officer Frederick G. Maley in the hamlet of North Bellmore, town of Hempstead, county of Nassau.",
- "LawSection":"Highway Law","LawCode":"Add §344-s, Hway L"
+ "LawSection":"Highway Law","LawCode":"Add §344-s, Hway L","SameAsPrintNo":"A8181-2025"
 }

@@ -6,6 +6,21 @@
   {"Text":"REFERRED TO ALCOHOLISM AND DRUG ABUSE","Date":"2026-02-12","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-18","Chamber":"ASSEMBLY"}
  ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-18","Chamber":"ASSEMBLY",
+   "Committee":"ALCOHOLISM AND DRUG ABUSE",
+   "Votes":[
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1573,"Short":"CASHMAN","Vote":"Aye"},{"ID":1559,"Short":"VALDEZ","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
@@ -13,7 +28,7 @@
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},
   {"ID":500,"Name":"William Colton","Short":"COLTON"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
-  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"}
+  {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"}
  ],
  "Title":"Establishes the \"recovery ready workplace act\"",
  "Summary":"Establishes the \"recovery ready workplace act\" which provides for the certification of an employer to become a recovery ready workplace.",

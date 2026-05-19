@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9319","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-27T10:18:29.651866Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-27","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-02-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-27","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-02-27","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1227","Date":"2026-05-19","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Relates to the use of assumed and corporate names pertaining to household goods moving",
  "Summary":"Relates to the use of assumed and corporate names by companies in the business of household goods moving; provides that companies may not use the words \"mover\", \"moving\", or \"relocation service\" or any abbreviation or derivative thereof unless approved by the commissioner of transportation.",

@@ -1,16 +1,36 @@
 {
  "PrintNo":"A8030","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-22T15:51:44.324924Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-24","Committee":"Judiciary"}],
+ "Published":"2025-04-22T15:51:44.324924Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-22","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-04-24","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 8030A","Date":"2026-04-24","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 8030A","Date":"2026-04-24","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-18","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"}],
  "Title":"Relates to limits on amount of flood insurance required by a mortgagee",
  "Summary":"Sets the definition of \"principal\" for the purposes of limits on amount of flood insurance required by a mortgagee; clarifies applicability of the state law relative to certain federal programs and requirements.",
  "LawSection":"Real Property Law","LawCode":"Amd §283, RP L",
- "ActClause":"AN ACT to amend the real property law, in relation to limits on amount of flood insurance required by a mortgagee"
+ "ActClause":"AN ACT to amend the real property law, in relation to limits on amount of flood insurance required by a mortgagee",
+ "SameAsPrintNo":"S8066-2025"
 }

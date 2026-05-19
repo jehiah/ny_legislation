@@ -1,7 +1,10 @@
 {
  "PrintNo":"S6355","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-11T14:32:21.599223Z","Status":"IN_SENATE_COMM","Committee":"New York City Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-20","Committee":"New York City Education"}],
+ "Published":"2025-03-11T14:32:21.599223Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-20","Committee":"New York City Education"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-03-11","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1307","Date":"2025-05-27","Chamber":"SENATE"},
@@ -10,7 +13,8 @@
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO NEW YORK CITY EDUCATION","Date":"2026-02-20","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 6355A","Date":"2026-02-20","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 6355A","Date":"2026-02-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1172","Date":"2026-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,5 +33,6 @@
  "Title":"Relates to the qualifications to serve as a member of the citywide council on English language learners and of the citywide council on high schools",
  "Summary":"Allows parents of a child who has ever received services through an English as a second language program to serve as a member of the citywide council on English language learners and of the citywide council on high schools even if the child is no longer enrolled.",
  "LawSection":"Education Law","LawCode":"Amd §2590-b, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to the qualifications to serve as a member of the citywide council on English language learners and of the citywide council on high schools"
+ "ActClause":"AN ACT to amend the education law, in relation to the qualifications to serve as a member of the citywide council on English language learners and of the citywide council on high schools",
+ "SameAsPrintNo":"A10079-2025"
 }

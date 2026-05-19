@@ -1,7 +1,10 @@
 {
  "PrintNo":"S8397","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-08T19:03:08.078265Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-08","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1938","Date":"2025-06-12","Chamber":"SENATE"},
@@ -10,7 +13,8 @@
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1224","Date":"2026-05-19","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -113,5 +117,6 @@
  "Summary":"Permits process to be served electronically by certain entities on the secretary of state for certain purposes.",
  "LawSection":"Business Corporation Law",
  "LawCode":"Amd §306, BC L; amd §19, Gen Assoc L; amd §303, Lim Lil L; amd §306, N-PC L; amd §§121-109 & 121-1505, Partn L; amd §339-n, RP L",
- "ActClause":"AN ACT to amend the business corporation law, general associations law, limited liability company law, not-for-profit corporation law, partnership law and real property law, in relation to electronic service of process"
+ "ActClause":"AN ACT to amend the business corporation law, general associations law, limited liability company law, not-for-profit corporation law, partnership law and real property law, in relation to electronic service of process",
+ "SameAsPrintNo":"A11390-2025"
 }

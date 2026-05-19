@@ -1,13 +1,41 @@
 {
  "PrintNo":"A10706","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-24T17:41:09.193328Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-03-24","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-03-24","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-11","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-11","Chamber":"ASSEMBLY",
+   "Committee":"CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+   "Votes":[
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1562,"Short":"WRIGHT","Vote":"Aye"},
+    {"ID":636,"Short":"FRIEND","Vote":"Nay"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"},
+  {"ID":900,"Name":"Erik Dilan","Short":"DILAN"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"}
+ ],
  "Title":"Prohibits the operation of N.Y. city transit authority subways or trains without a conductor on board",
  "Summary":"Prohibits the operation of NYC transit authority subways or trains without at least one conductor on board except where it is currently permissible.",
  "LawSection":"Public Authorities Law","LawCode":"Add §1205-b, Pub Auth L",
  "ActClause":"AN ACT to amend the public authorities law, in relation to requiring the New York city transit authority to have at least one conductor on board",
+ "SameAsPrintNo":"S9586-2025",
  "PreviousVersions":[
   "A4073-2007","A3559-2009","A4065-2011","A4816-2013","A6393-2015","A916-2017","A441-2019","A1483-2021","A6455-2023",
   "A4873-2025"

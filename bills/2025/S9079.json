@@ -1,11 +1,15 @@
 {
  "PrintNo":"S9079","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-01-29T11:34:30.76522Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Local Government"}],
+ "Published":"2026-01-29T11:34:30.76522Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-29","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-04-21","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9079A","Date":"2026-04-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9079A","Date":"2026-04-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1246","Date":"2026-05-19","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"}],
  "Title":"Authorizes the town of Brookhaven to alienate certain lands used as parklands and to lease such lands for cell tower installation",

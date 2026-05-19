@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9751","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-02T14:58:24.049421Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-02","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-02","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1279","Date":"2026-05-19","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Relates to drivers of buses, taxis and livery vehicles using hands-free mobile telephones",
  "Summary":"Prohibits drivers of a bus, taxi or livery from using hands-free mobile telephones; provides for certain exceptions.",

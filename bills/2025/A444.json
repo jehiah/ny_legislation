@@ -7,10 +7,25 @@
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-05","Chamber":"ASSEMBLY"}
  ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-05","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL OPERATIONS",
+   "Votes":[
+    {"ID":662,"Short":"MCDONALD","Vote":"Aye"},{"ID":1542,"Short":"BEEPHAN","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1556,"Short":"NORBER","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Excused"},
+    {"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Excused"},{"ID":1525,"Short":"RAGA","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":675,"Name":"Phil Steck","Short":"STECK"}],
  "Title":"Relates to the application of New York state's human rights law to out-of-state employees",
  "Summary":"Relates to the application of New York state's human rights law to employees who work outside of the state of New York, if their employer maintains a physical address within New York state.",
  "LawSection":"Executive Law","LawCode":"Add §298-b, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to protecting remote workers who reside out-of-state under New York state's human rights law",
- "PreviousVersions":["A10699-2023"]
+ "SameAsPrintNo":"S10539-2025","PreviousVersions":["A10699-2023"]
 }

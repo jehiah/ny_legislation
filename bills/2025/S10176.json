@@ -1,8 +1,14 @@
 {
  "PrintNo":"S10176","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-04T13:56:13.136324Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1229","Date":"2026-05-19","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":427,"Name":"Patrick M. Gallivan","Short":"GALLIVAN"}],
  "Title":"Authorizes non-resident volunteer membership within the East Concord Fire Department, Inc.",
  "Summary":"Exempts the East Concord Fire Department, Inc. from the requirement that the percentage of non-resident fire department members not exceed forty-five percent of the membership.",

@@ -1,8 +1,14 @@
 {
  "PrintNo":"S10170","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-04T10:30:27.643237Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-04","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-04","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1255","Date":"2026-05-19","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Directs the the state board of real property tax services to conduct a study on the feasibility of amending property tax revisions for senior citizens located in special districts",
  "Summary":"Directs the state board of real property tax services conduct a study on the feasibility of amending property tax revisions for senior citizens located in special districts and provide a report for such study.",

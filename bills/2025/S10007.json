@@ -1,11 +1,20 @@
 {
- "PrintNo":"S10007","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-22T11:33:11.276737Z",
- "Status":"IN_SENATE_COMM","Committee":"New York City Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-22","Committee":"New York City Education"}],
- "Actions":[{"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-04-22","Chamber":"SENATE"}],
+ "PrintNo":"S10007","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-22T11:33:11.276737Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"New York City Education"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-04-22","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO NEW YORK CITY EDUCATION","Date":"2026-05-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10007A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1173","Date":"2026-05-19","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Relates to the submission of requests to the committee on special education for the educational services mandated by an individualized education services program",
- "Summary":"Requires the school district of location shall annually provide written notice to all parents or persons in parental relation to students with disabilities attending nonpublic schools within their district regarding the process for requesting special education services; relates to the denial of services in a city having a population of one million or more for the 2025--2026 school year.",
- "LawSection":"Education Law","LawCode":"Amd §3602-c, Ed L","SameAsPrintNo":"A3950-2025",
- "PreviousVersions":["S1325-2025"]
+ "Summary":"Requires the school district of location shall annually provide written notice to all parents or persons in parental relation to students with disabilities attending nonpublic schools within their district regarding the process for requesting special education services; relates to the denial of services in a city having a population of one million or more for the 2024--2025 school year.",
+ "LawSection":"Education Law","LawCode":"Amd §3602-c, Ed L",
+ "ActClause":"AN ACT to amend the education law, in relation to the submission of requests to the committee on special education for the educational services mandated by an individualized education services program",
+ "SameAsPrintNo":"A3950-2025","PreviousVersions":["S1325-2025"]
 }

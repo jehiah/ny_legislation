@@ -1,8 +1,14 @@
 {
  "PrintNo":"S9468","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-16T13:44:11.960815Z",
- "Status":"IN_SENATE_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-16","Committee":"Corporations, Authorities And Commissions"}],
- "Actions":[{"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-03-16","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-16","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-03-16","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1228","Date":"2026-05-19","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Relates to the administration of dormant lot-specific cemetery trusts",
  "Summary":"Relates to the administration of dormant lot-specific cemetery trusts; provides for custodianship, accounting, and related administrative provisions for such trusts.",

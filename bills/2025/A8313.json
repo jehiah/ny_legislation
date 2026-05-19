@@ -1,7 +1,7 @@
 {
  "PrintNo":"A8313","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-13T14:24:43.821544Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Ways And Means"}],
+ "Published":"2025-05-13T14:24:43.821544Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-05-13","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HOUSING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -9,7 +9,30 @@
   {"Text":"PRINT NUMBER 8313A","Date":"2026-03-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 8313B","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-12","Chamber":"ASSEMBLY",
+   "Committee":"HOUSING",
+   "Votes":[
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Aye"},
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1461,"Short":"BROWN K","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN EA","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":469,"Short":"FITZPATRICK","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1462,"Short":"MEEKS","Vote":"Excused"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Excused"},{"ID":1507,"Short":"LUCAS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"}],
  "Title":"Requires NYCHA to provide information and trainings to residents regarding resident management corporations",

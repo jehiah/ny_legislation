@@ -1,8 +1,14 @@
 {
  "PrintNo":"S10244","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-08T09:24:13.009633Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-08","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-08","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1258","Date":"2026-05-19","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
  "Title":"Relates to the use of certain moneys received by the West Babylon Volunteer Firemen's Benevolent Association and the modernization of certain language",
  "Summary":"Relates to the use of certain moneys received by the West Babylon Volunteer Firemen's Benevolent Association and modernization of certain gendered language.",
