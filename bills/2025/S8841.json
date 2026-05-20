@@ -1,9 +1,9 @@
 {
  "PrintNo":"S8841","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-01-08T15:57:08.904378Z","Status":"PASSED_SENATE",
+ "Published":"2026-01-08T15:57:08.904378Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-08","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-05-13"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-19"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-19"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Health"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-08","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"},
   {"Text":"AMENDED ON THIRD READING (T) 8841A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

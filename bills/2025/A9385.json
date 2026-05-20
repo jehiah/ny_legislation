@@ -1,10 +1,12 @@
 {
- "PrintNo":"A9385","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-12-19T16:16:59.05836Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "PrintNo":"A9385","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-12-19T16:16:59.05836Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-07","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-12-19","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9385A","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
@@ -15,10 +17,12 @@
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
   {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
-  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"}
+  {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}
  ],
  "Title":"Relates to due process rights for non-public school students with special needs",
  "Summary":"Relates to due process rights for non-public school students with special needs.",
  "LawSection":"Education Law","LawCode":"Amd §3602-c, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to due process rights for non-public school students with special needs"
+ "ActClause":"AN ACT to amend the education law, in relation to due process rights for non-public school students with special needs",
+ "SameAsPrintNo":"S8842-2025"
 }

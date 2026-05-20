@@ -1,9 +1,9 @@
 {
  "PrintNo":"S8624","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-12-19T09:15:08.632647Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2026-04-27"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-19"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-19"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-12-19","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-04-22","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-19","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"REFERRED TO CODES","Date":"2026-05-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -108,10 +109,11 @@
   }
  ],
  "Sponsors":[
-  {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
-  {"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
-  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}
+  {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
+  {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},
+  {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}
  ],
  "Title":"Permits courts to award punitive damages against an estate for sexual abuse",
  "Summary":"Permits courts to award punitive damages against an estate for sexual abuse.",

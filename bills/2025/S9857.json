@@ -1,11 +1,29 @@
 {
  "PrintNo":"S9857","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-08T15:55:27.696218Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-08","Committee":"Elections"}],
- "Actions":[{"Text":"REFERRED TO ELECTIONS","Date":"2026-04-08","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-08","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2026-05-20"}],
+ "Actions":[
+  {"Text":"REFERRED TO ELECTIONS","Date":"2026-04-08","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1316","Date":"2026-05-20","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-20","Chamber":"SENATE","Committee":"Elections",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"}],
  "Title":"Provides for the notification of individuals when their address confidentiality time period is expiring",
  "Summary":"Provides for the notification of individuals when their address confidentiality time period is expiring no later than six months prior to such expiration; provides that such notification shall include information on how to reapply.",
  "LawSection":"Election Law","LawCode":"Amd §5-508, El L; amd §108, Exec L",
- "ActClause":"AN ACT to amend the election law and the executive law, in relation to providing notice to individuals when their address confidentiality time period is expiring"
+ "ActClause":"AN ACT to amend the election law and the executive law, in relation to providing notice to individuals when their address confidentiality time period is expiring",
+ "SameAsPrintNo":"A11416-2025"
 }

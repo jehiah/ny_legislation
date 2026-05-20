@@ -1,7 +1,7 @@
 {
  "PrintNo":"S7689","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-29T16:28:05.612163Z","Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-13","Committee":"Elections"}],
+ "Published":"2025-04-29T16:28:05.612163Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-13","Committee":"Elections"},{"Type":"SENATE_FLOOR","Date":"2026-05-20"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-04-29","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ELECTIONS","Date":"2025-05-14","Chamber":"SENATE"},
@@ -15,7 +15,8 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO ELECTIONS","Date":"2026-03-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 7689B","Date":"2026-03-13","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 7689B","Date":"2026-03-13","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.1315","Date":"2026-05-20","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -110,6 +111,18 @@
     {"ID":1521,"Name":"Dean Murray","Short":"MURRAY","Vote":"Excused"},
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-20","Version":"B","Chamber":"SENATE","Committee":"Elections",
+   "Votes":[
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":1370,"Name":"George Borrello","Short":"BORRELLO","Vote":"Nay"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
    ]
   }
  ],

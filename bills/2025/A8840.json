@@ -1,18 +1,34 @@
 {
  "PrintNo":"A8840","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-06-09T17:29:49.139624Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-15","Committee":"Correction"}],
+ "Published":"2025-06-09T17:29:49.139624Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-05-15","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 8840A","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 8840A","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-19","Chamber":"ASSEMBLY","Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1577,"Short":"POWERS","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Nay"},{"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1484,"Short":"GALLAHAN","Vote":"Nay"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
-  {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}
+  {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
  ],
  "Title":"Provides that no state or local correctional facility shall deny entry to a visitor to such facility due to the fact that such person is menstruating, wearing a menstrual product or has a contraceptive device",
  "Summary":"Provides that no state or local correctional facility shall deny entry to a person visiting such facility due to the fact that such person is menstruating or has a contraceptive device or appears on body scan imaging or alternative methods to have or be using a menstrual product or contraceptive device.",

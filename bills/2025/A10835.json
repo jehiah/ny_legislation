@@ -1,15 +1,32 @@
 {
  "PrintNo":"A10835","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-04-01T16:06:34.603705Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Governmental Employees"}],
+ "Published":"2026-04-01T16:06:34.603705Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-04-01","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES","Date":"2026-04-22","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 10835A","Date":"2026-04-22","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 10835A","Date":"2026-04-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-19","Chamber":"ASSEMBLY",
+   "Committee":"GOVERNMENTAL EMPLOYEES",
+   "Votes":[
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":1464,"Short":"GIGLIO","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
-  {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"}
+  {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1564,"Name":"Paula Kay","Short":"KAY"},
+  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"}
  ],
  "Title":"Prohibits the impersonation of an employee organization or an employee representative",
  "Summary":"Prohibits falsely impersonating an employee organization or an employee representative with the intent to deceive the recipient and thereby cause harm to such recipient or employee organization by the use of fraud, misrepresentation, material omission, or other deception in making and disseminating a verbal, written or electronic communication; provides that the attorney general may bring an action or proceeding to enjoin such unlawful acts or practices.",

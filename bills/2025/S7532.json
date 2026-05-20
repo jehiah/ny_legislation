@@ -1,7 +1,10 @@
 {
  "PrintNo":"S7532","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-22T09:54:24.869748Z","Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Environmental Conservation"}],
+ "Published":"2025-04-22T09:54:24.869748Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-22","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.771","Date":"2025-04-29","Chamber":"SENATE"},
@@ -18,7 +21,8 @@
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-25","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 7532B","Date":"2026-03-25","Chamber":"SENATE","Version":"B"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-14","Chamber":"SENATE","Version":"B"},
-  {"Text":"PRINT NUMBER 7532C","Date":"2026-05-14","Chamber":"SENATE","Version":"C"}
+  {"Text":"PRINT NUMBER 7532C","Date":"2026-05-14","Chamber":"SENATE","Version":"C"},
+  {"Text":"1ST REPORT CAL.1308","Date":"2026-05-20","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

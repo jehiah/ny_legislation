@@ -1,12 +1,17 @@
 {
- "PrintNo":"A10611","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-13T16:34:44.983473Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-13","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2026-03-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10611","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-13T16:34:44.983473Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INSURANCE","Date":"2026-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10611A","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-20","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
- "Title":"Removes requirement for advertisements referring to an insurer to include the insurer's full name and principal office",
- "Summary":"Removes requirement for advertisements referring to an insurer to include the insurer's full name and principal office; makes technical corrections relating thereto.",
- "LawSection":"Insurance Law","LawCode":"Amd §§2122, 1101 & 2117, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to removing the requirement for advertisements referring to an insurer to include the insurer's full name and principal office and making technical corrections related thereto",
+ "Title":"Relates to digital advertisements for insurance agents and brokers",
+ "Summary":"Provides that the requirement for advertisements referring to an insurer to include the insurer's full name and principal office shall not apply to digital advertisements.",
+ "LawSection":"Insurance Law","LawCode":"Amd §2122, Ins L",
+ "ActClause":"AN ACT to amend the insurance law, in relation to digital advertisements of insurance agents and brokers",
  "SameAsPrintNo":"S9403-2025"
 }

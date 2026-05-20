@@ -1,9 +1,10 @@
 {
  "PrintNo":"S1185","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-08T12:50:43.933479Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-04"},{"Type":"PASSED_SENATE","Date":"2026-05-19"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-04"},{"Type":"PASSED_SENATE","Date":"2026-05-19"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-01-08","Chamber":"SENATE"},
@@ -12,7 +13,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-19","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

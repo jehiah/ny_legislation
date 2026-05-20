@@ -1,18 +1,22 @@
 {
- "PrintNo":"S5303","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-20T14:19:09.816054Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "PrintNo":"S5303","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-20T14:19:09.816054Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-08","Committee":"Health"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-02-20","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-05-08","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 5303A","Date":"2026-05-08","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
-  {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
+  {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
+  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
  ],
- "Title":"Allows the growth, cultivation, and adult use of psilocybin for the treatment of certain health conditions",
- "Summary":"Allows the growth, cultivation, and regulated adult use of psilocybin for the treatment of certain health conditions; provides for the certification of support service providers and the licensure of cultivators.",
- "LawSection":"Public Health Law","LawCode":"Add Art 33 Title 5-B §§3369-aa - 3369-ii, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to promoting the health and well-being of the citizens of the state of New York by establishing a comprehensive framework supporting public health and safety through regulated adult use, support services, and cultivation of psilocybin-containing fungi, and providing for the taxation of psilocybin regulated activities",
+ "Title":"Enacts the medical psilocybin act",
+ "Summary":"Authorizes the use of psilocybin to treat qualified medical conditions; prohibits criminal diversion of medical psilocybin.",
+ "LawSection":"Public Health Law",
+ "LawCode":"Add Art 33 Title 5-B §§3369-aa - 3369-kk, Pub Health L; add Art 174 §§174.00 - 174.20, Pen L",
+ "ActClause":"AN ACT to amend the public health law and the penal law, in relation to authorizing the use of psilocybin to treat qualified medical conditions",
  "SameAsPrintNo":"A2142-2025"
 }

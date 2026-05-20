@@ -1,6 +1,6 @@
 {
- "PrintNo":"S5168","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T13:01:31.176471Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S5168","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-19T13:01:31.176471Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"},
   {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
@@ -15,7 +15,8 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1245","Date":"2026-05-19","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1245","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"AMENDED 5168A","Date":"2026-05-20","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -111,6 +112,18 @@
     {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Excused"},
     {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Excused"}
    ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-19","Chamber":"SENATE","Committee":"Local Government",
+   "Votes":[
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"}
+   ]
   }
  ],
  "Sponsors":[{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
@@ -118,5 +131,5 @@
  "Summary":"Authorizes the City of Newburgh to add unpaid housing code violation penalties, costs and fines to such city's annual tax levy in accordance with applicable law.",
  "LawSection":"Real Property Tax Law","LawCode":"Add §903, RPT L",
  "ActClause":"AN ACT to amend the real property tax law, in relation to authorizing the city of Newburgh to add unpaid housing code violation penalties, costs and fines to such city's annual tax levy in accordance with applicable law",
- "SameAsPrintNo":"A5033-2025","PreviousVersions":["S6918-2023"]
+ "PreviousVersions":["S6918-2023"]
 }

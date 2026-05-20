@@ -1,9 +1,9 @@
 {
  "PrintNo":"S8848","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-09T10:49:13.492908Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-09","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-19"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-19"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Judiciary"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-09","Chamber":"SENATE"},
@@ -11,7 +11,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-19","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-05-19","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

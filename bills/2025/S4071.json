@@ -1,9 +1,11 @@
 {
  "PrintNo":"S4071","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-31T15:21:21.891731Z","Status":"PASSED_SENATE",
+ "Published":"2025-01-31T15:21:21.891731Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-09","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-05"},{"Type":"PASSED_SENATE","Date":"2026-05-19"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"},{"Type":"PASSED_SENATE","Date":"2026-05-19"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Corporations, Authorities And Commissions"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-31","Chamber":"SENATE"},
@@ -23,7 +25,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-01-27","Chamber":"SENATE","Version":"A"},
   {"Text":"AMENDED ON THIRD READING 4071B","Date":"2026-05-05","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-05-19","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE","Version":"B"},
+  {
+   "Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-19","Chamber":"ASSEMBLY",
+   "Version":"B"
+  }
  ],
  "Votes":[
   {

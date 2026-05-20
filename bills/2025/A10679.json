@@ -1,18 +1,38 @@
 {
  "PrintNo":"A10679","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-20T15:41:40.847177Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Judiciary"}],
+ "Published":"2026-03-20T15:41:40.847177Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2026-03-20","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-05-12","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10679A","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO JUDICIARY","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 10679B","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 10679B","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-18","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":1127,"Short":"WALSH","Vote":"Nay"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":1148,"Short":"SMITH","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":1470,"Name":"Jenifer Rajkumar","Short":"RAJKUMAR"},{"ID":1244,"Name":"Charles Fall","Short":"FALL"},
-  {"ID":1577,"Name":"Keith Powers","Short":"POWERS"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}
+  {"ID":1577,"Name":"Keith Powers","Short":"POWERS"},{"ID":1545,"Name":"Sam Berger","Short":"BERGER"},
+  {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"}
  ],
  "Title":"Relates to access to fair and transparent real estate listings",
  "Summary":"Requires timely public advertising or marketing of listed residential properties on platforms accessible to the general public; permits non-public marketing only where the seller gives informed, written direction after receiving a standardized state disclosure that clearly explains the risks and tradeoffs of withholding a listing from public marketing.",
