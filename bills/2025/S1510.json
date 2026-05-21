@@ -3,7 +3,7 @@
  "Published":"2025-01-10T11:05:53.923026Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"New York City Education"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-01-10","Chamber":"SENATE"},
@@ -18,7 +18,9 @@
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO NEW YORK CITY EDUCATION","Date":"2026-05-13","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 1510A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"1ST REPORT CAL.1170","Date":"2026-05-19","Chamber":"SENATE","Version":"A"}
+  {"Text":"1ST REPORT CAL.1170","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -98,6 +100,18 @@
     {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Excused"},
     {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Excused"},
     {"ID":1491,"Name":"Sean Ryan","Short":"RYAN S","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-19","Version":"A","Chamber":"SENATE","Committee":"New York City Education",
+   "Votes":[
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
    ]
   }
  ],

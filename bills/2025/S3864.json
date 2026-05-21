@@ -1,11 +1,13 @@
 {
- "PrintNo":"S3864","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-30T13:16:51.17469Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
+ "PrintNo":"S3864","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-30T13:16:51.17469Z","Status":"IN_SENATE_COMM","Committee":"Judiciary",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-21","Committee":"Judiciary"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-11","Chamber":"SENATE"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO JUDICIARY","Date":"2026-05-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3864A","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -37,9 +39,9 @@
   {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
   {"ID":438,"Name":"Brad Hoylman-Sigal","Short":"HOYLMAN-SIGAL"}
  ],
- "Title":"Relates to enacting the \"criminal court opinion transparency act\"",
- "Summary":"Relates to the publication of judicial opinions rendered in criminal causes.","LawSection":"Judiciary Law",
- "LawCode":"Amd §§212 & 432, add §§433-b & 433-c, Judy L; amd §10.40, CP L",
- "ActClause":"AN ACT to amend the judiciary law and the criminal procedure law, in relation to the publication of opinions rendered in criminal causes",
+ "Title":"Enacts the \"criminal court opinion transparency act\"",
+ "Summary":"Requires the chief adminitrator of the courts to submit a report to the legislature and the governor on: an evaluation of the feasibility and benefit of publishing suppression rulings rendered by trial-level criminal courts and/or collection of data regarding such rulings; whether the publication of additional decisions and/or collection of data would improve the practice of law; an evaluation of the means by which such publication and/or collection of data may be effectuated to improve transparency and the public understanding of these courts; an assessment of any further resources that would be necessary to support increased publication or data collection; and recommendations regarding legislation and administrative measures that could be taken.",
+ "LawSection":"Judiciary Law","LawCode":"Amd §212, Judy L",
+ "ActClause":"AN ACT to amend the judiciary law, in relation to the publication of opinions rendered in criminal causes",
  "SameAsPrintNo":"A4674-2025","PreviousVersions":["S9674-2023"]
 }

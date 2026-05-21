@@ -3,13 +3,29 @@
  "Published":"2026-04-22T11:33:11.276737Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"New York City Education"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-04-22","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO NEW YORK CITY EDUCATION","Date":"2026-05-13","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 10007A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"1ST REPORT CAL.1173","Date":"2026-05-19","Chamber":"SENATE","Version":"A"}
+  {"Text":"1ST REPORT CAL.1173","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-19","Version":"A","Chamber":"SENATE","Committee":"New York City Education",
+   "Votes":[
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1225,"Name":"John Liu","Short":"LIU"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Relates to the submission of requests to the committee on special education for the educational services mandated by an individualized education services program",

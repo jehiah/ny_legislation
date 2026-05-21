@@ -1,7 +1,7 @@
 {
  "PrintNo":"S3243","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-24T13:08:29.747052Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-19"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-21"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-24","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HEALTH","Date":"2025-06-04","Chamber":"SENATE"},
@@ -15,7 +15,9 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-04-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"1ST REPORT CAL.1203","Date":"2026-05-19","Chamber":"SENATE","Version":"A"}
+  {"Text":"1ST REPORT CAL.1203","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -159,7 +161,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"}],
+ "Sponsors":[
+  {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
+  {"ID":951,"Name":"Pamela Helming","Short":"HELMING"}
+ ],
  "Title":"Establishes a dental health demonstration project in the county of Monroe",
  "Summary":"Establishes a five-year dental health demonstration project in the county of Monroe for the purpose of reimbursement to providers for eligible dental diagnostic services for certain eligible populations, including but not limited to pregnant persons and post-partum persons.",
  "LawSection":"Social Services Law","LawCode":"Add §368-g, Soc Serv L",

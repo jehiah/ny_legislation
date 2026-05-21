@@ -1,10 +1,7 @@
 {
- "PrintNo":"S2436","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T11:33:08.863177Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cities 1"},{"Type":"SENATE_FLOOR","Date":"2026-02-05"},
-  {"Type":"PASSED_SENATE","Date":"2026-02-09"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-09","Committee":"Cities"}
- ],
+ "PrintNo":"S2436","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-17T11:33:08.863177Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Cities 1"},{"Type":"SENATE_FLOOR","Date":"2026-05-21"}],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2025-01-17","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.535","Date":"2025-03-11","Chamber":"SENATE"},
@@ -21,7 +18,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-05","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-02-09","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-09","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CITIES","Date":"2026-02-09","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CITIES","Date":"2026-02-09","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-21","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 2436A","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -195,5 +196,5 @@
  "LawSection":"New York City Administrative Code",
  "LawCode":"Add Title 20 Chap 5 Subchap 13-A §§20-764 & 20-766, NYC Ad Cd; amd §2282, V & T L",
  "ActClause":"AN ACT to amend the administrative code of the city of New York and the vehicle and traffic law, in relation to prohibiting the sale of ATVs and off-highway motorcycles in the city of New York",
- "SameAsPrintNo":"A10708-2025","PreviousVersions":["S2773-2023"]
+ "PreviousVersions":["S2773-2023"]
 }

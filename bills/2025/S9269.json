@@ -1,11 +1,31 @@
 {
  "PrintNo":"S9269","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-20T09:31:19.953735Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-20","Committee":"Internet And Technology"}],
- "Actions":[{"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-02-20","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-20","Committee":"Internet And Technology"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-21"}
+ ],
+ "Actions":[
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-02-20","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1324","Date":"2026-05-21","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-21","Chamber":"SENATE","Committee":"Internet And Technology",
+   "Votes":[
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES","Vote":"Aye"},
+    {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER","Vote":"Aye"},
+    {"ID":1523,"Name":"Mark Walczyk","Short":"WALCZYK","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":401,"Name":"Liz Krueger","Short":"KRUEGER"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},
-  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Provides for the protection of health information",
  "Summary":"Provides for the protection of health information; establishes requirements for communications to individuals about their health information; requires either written consent or a designated necessary purpose for the processing of an individual's health information.",

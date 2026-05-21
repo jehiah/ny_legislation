@@ -1,14 +1,15 @@
 {
- "PrintNo":"A707","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-06T14:27:25.200567Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"}],
+ "PrintNo":"A707","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-06T14:27:25.200567Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-28","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2025-05-29","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.284","Date":"2025-05-29","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.284","Date":"2025-05-29","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING CAL.28","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING CAL.28","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 707A","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -67,11 +68,12 @@
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},
-  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"}
+  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
+  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
  ],
  "Title":"Directs the division of criminal justice services to promulgate safety standards and training requirements for the protection of law enforcement against biological hazards posed by certain persons in custody",
  "Summary":"Directs the division of criminal justice services to promulgate safety standards and training requirements for the protection of law enforcement staff against biological hazards posed by spitting of persons in custody.",
  "LawSection":"Executive Law","LawCode":"Amd §837, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to directing the division of criminal justice services to promulgate safety standards and training requirements for the protection of law enforcement staff against the biological hazards posed by certain persons in custody",
- "SameAsPrintNo":"S7521-2025","PreviousVersions":["A4566-2021","A1492-2023"]
+ "PreviousVersions":["A4566-2021","A1492-2023"]
 }

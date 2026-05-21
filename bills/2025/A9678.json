@@ -1,15 +1,20 @@
 {
- "PrintNo":"A9678","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-21T17:11:45.155909Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-01-21","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A9678","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-21T17:11:45.155909Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-21","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9678A","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
-  {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
+  {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
+  {"ID":519,"Name":"Deborah Glick","Short":"GLICK"}
  ],
  "Title":"Enacts the \"Jamie Rose care provider act\"",
- "Summary":"Enacts the \"Jamie Rose care provider act\"; requires health care facilities have policies for suspected victims of domestic abuse.",
- "LawSection":"Social Services Law","LawCode":"Add §459-i, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to enacting the \"Jamie Rose care provider act\"",
- "SameAsPrintNo":"S4445-2025","PreviousVersions":["A5319-2023","A3617-2025"]
+ "Summary":"Enacts the \"Jamie Rose care provider act\"; requires home care services agencies have policies and procedures for home care domestic violence and elder abuse.",
+ "LawSection":"Social Services Law","LawCode":"Add §3623, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to enacting the \"Jamie Rose care provider act\"",
+ "PreviousVersions":["A5319-2023","A3617-2025"]
 }

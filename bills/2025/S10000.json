@@ -3,15 +3,32 @@
  "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-04-22","Committee":"Children And Families"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-04-22","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1167","Date":"2026-05-19","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1167","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-19","Chamber":"SENATE","Committee":"Children And Families",
+   "Votes":[
+    {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT","Vote":"Aye"},
+    {"ID":1500,"Name":"Samra Brouk","Short":"BROUK","Vote":"Aye"},
+    {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ","Vote":"Aye"},
+    {"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"}],
  "Title":"Authorizes children who will be 18 or older on the date of a permanency hearing to apply to dispense with the provision of notice and copy of the hearing report",
  "Summary":"Authorizes children who will be 18 or older on the date of a permanency hearing to apply to dispense with the provision of notice and copy of such hearing and to redact portions of the hearing report.",
  "LawSection":"Family Court Act","LawCode":"Amd §1089, Fam Ct Act",
- "ActClause":"AN ACT to amend the family court act, in relation to protection of the confidentiality rights of youth over the age of 18 in foster care with respect to permanency hearings"
+ "ActClause":"AN ACT to amend the family court act, in relation to protection of the confidentiality rights of youth over the age of 18 in foster care with respect to permanency hearings",
+ "SameAsPrintNo":"A11467-2025"
 }

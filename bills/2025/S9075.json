@@ -1,8 +1,12 @@
 {
- "PrintNo":"S9075","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-29T10:23:58.995871Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-29","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-29","Chamber":"SENATE"}],
+ "PrintNo":"S9075","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-29T10:23:58.995871Z","Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-21","Committee":"Energy And Telecommunications"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-29","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-05-21","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9075A","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}

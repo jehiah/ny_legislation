@@ -1,11 +1,33 @@
 {
  "PrintNo":"A11024","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-23T12:07:46.889469Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-23","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-04-23","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-28","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-04-23","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-28","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-04-28","Chamber":"ASSEMBLY",
+   "Committee":"MENTAL HEALTH",
+   "Votes":[
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":0,"Short":"CHANDLER-WATERM","Vote":"Excused"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
+  {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}
+ ],
  "Title":"Relates to a competency restoration workgroup to evaluate",
  "Summary":"Establishes a competency restoration workgroup to evaluate and improve the efficiency and effectiveness of the competency restoration process as it relates to defendants who are being evaluated and receiving restoration under article seven hundred thirty of the criminal procedure law to permit legal proceedings to resume without undue delay.",
  "LawSection":"Mental Hygiene Law","LawCode":"Add §7.50, Ment Hyg L",
- "ActClause":"AN ACT to amend the mental hygiene law, in relation to a statewide competency restoration workgroup; and providing for the repeal of such provisions upon the expiration thereof"
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to a statewide competency restoration workgroup; and providing for the repeal of such provisions upon the expiration thereof",
+ "SameAsPrintNo":"S10309-2025"
 }
