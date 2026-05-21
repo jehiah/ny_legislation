@@ -1,7 +1,7 @@
 {
  "PrintNo":"A4877","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-07T16:00:15.306712Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-07","Committee":"Housing"}],
+ "Published":"2025-02-07T16:00:15.306712Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-02-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2025-02-18","Chamber":"ASSEMBLY"},
@@ -10,7 +10,60 @@
   {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2026-03-27","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 4877B","Date":"2026-03-27","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2026-04-07","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"PRINT NUMBER 4877C","Date":"2026-04-07","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"PRINT NUMBER 4877C","Date":"2026-04-07","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-20","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-20","Chamber":"ASSEMBLY","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-20","Chamber":"ASSEMBLY","Committee":"HOUSING",
+   "Votes":[
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},
+    {"ID":1461,"Short":"BROWN K","Vote":"Nay"},{"ID":0,"Short":"BROWN EA","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1528,"Short":"CHANG","Vote":"Nay"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Excused"},{"ID":1257,"Short":"REYES","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-20","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":659,"Short":"KIM","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":1478,"Short":"BURDICK","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1577,"Short":"POWERS","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Nay"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},
+    {"ID":1461,"Short":"BROWN K","Vote":"Nay"},{"ID":0,"Short":"BROWN EA","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1528,"Short":"CHANG","Vote":"Nay"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Nay"},{"ID":1556,"Short":"NORBER","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":1135,"Short":"MORINELLO","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":1481,"Short":"ANGELINO","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Excused"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Excused"},
+    {"ID":1257,"Short":"REYES","Vote":"Absent"},{"ID":1257,"Short":"REYES","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},
@@ -42,7 +95,9 @@
   {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},
   {"ID":1577,"Name":"Keith Powers","Short":"POWERS"},{"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},
-  {"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"}
+  {"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"},
+  {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},
+  {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}
  ],
  "Title":"Relates to enacting the rent emergency stabilization for tenants act on local determinations of a housing emergency",
  "Summary":"Relates to enacting the rent emergency stabilization for tenants act on local determinations of a housing emergency; authorizes a city with a population of one million or more to declare an emergency as to any class of housing accommodations if the vacancy rate for the housing accommodations in such class within such municipality is not in excess of five percent and a declaration of emergency may be made as to all housing accommodations if the vacancy rate for the housing accommodations within such municipality is not in excess of five percent; authorizes other cities, towns and villages to declare a housing emergency after considering publicly available data and holding public hearings.",
