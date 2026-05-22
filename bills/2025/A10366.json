@@ -1,15 +1,38 @@
 {
  "PrintNo":"A10366","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-02T12:33:15.441293Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Tourism, Parks, Arts And Sports Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-02","Committee":"Tourism, Parks, Arts And Sports Development"}],
- "Actions":[{"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2026-03-02","Chamber":"ASSEMBLY"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2026-03-02","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-20","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-20","Chamber":"ASSEMBLY",
+   "Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "Votes":[
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1573,"Short":"CASHMAN","Vote":"Aye"},{"ID":1577,"Short":"POWERS","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},
   {"ID":1254,"Name":"Patrick Burke","Short":"BURKE"},{"ID":1487,"Name":"William Conrad","Short":"CONRAD"},
   {"ID":1488,"Name":"Jonathan Rivera","Short":"RIVERA"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
-  {"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
+  {"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"}
  ],
  "Title":"Establishes the white elephant housing historic rehabilitation projects tax credit program",
  "Summary":"Establishes the large projects historic rehabilitation tax credit and the \"white elephant\" housing historic rehabilitation projects tax credit program for qualified rehabilitation expenditures totaling fifty million dollars or more with respect to a certified historic structure that has been vacant, as determined by local code enforcement or other reasonable means, for at least ten of fifteen consecutive years preceding the date of the taxpayer's application for the rehabilitation credit.",

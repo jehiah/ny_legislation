@@ -1,11 +1,13 @@
 {
- "PrintNo":"A10852","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A10852","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2026-04-08T12:30:03.77198Z","Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Environmental Conservation"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-21","Committee":"Environmental Conservation"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-13","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 10852A","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 10852A","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10852B","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
@@ -13,8 +15,8 @@
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}
  ],
  "Title":"Enacts the stop subsidizing data centers act",
- "Summary":"Prohibits allocation of economic development power to data centers; provides for certain caps on amounts and eligibility for industrial development agency financial assistance; provides for the return of industrial development agency-awarded financial assistance if certain job levels are not maintained within 5 years of project completion; designates the department of environmental conservation as the mandatory lead agency for environmental quality review of any action consuming over 50 megawatts; requires environmental quality review for any action within 10 miles of a federally recognized Indian nation's territory.",
- "LawSection":"Economic Development Law",
+ "Summary":"Prohibits allocation of economic development power to data centers; provides for certain caps on amounts and eligibility for industrial development agency financial assistance; provides for the return of industrial development agency-awarded financial assistance if certain job levels are not maintained within 5 years of project completion; designates the department of environmental conservation as the mandatory lead agency for environmental quality review of any action consuming over 20 megawatts; requires environmental quality review for any action within 10 miles of a federally recognized Indian nation's territory.",
+ "LawSection":"Public Authorities Law",
  "LawCode":"Amd §2, Pub Auth L; amd §187, Ec Dev L; amd §1005, Pub Auth L; amd §874, Gen Muni L; amd §§8-0111 & 8-0109, En Con L",
  "ActClause":"AN ACT to amend the public authorities law, the economic development law, the general municipal law and the environmental conservation law, in relation to enacting the \"stop subsidizing data centers act\"",
  "SameAsPrintNo":"S9182-2025"

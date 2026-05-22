@@ -1,10 +1,12 @@
 {
- "PrintNo":"S8026","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T15:32:28.527259Z",
- "Status":"IN_SENATE_COMM","Committee":"Social Services",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"}],
+ "PrintNo":"S8026","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T15:32:28.527259Z","Status":"IN_SENATE_COMM","Committee":"Social Services",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-20","Committee":"Social Services"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-05-15","Chamber":"SENATE"},
-  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO SOCIAL SERVICES","Date":"2026-05-20","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8026A","Date":"2026-05-20","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
@@ -17,7 +19,7 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Provides internet access to all individuals residing in temporary housing",
- "Summary":"Provides \"WiFi service\" internet access to all individuals residing in temporary housing; relates to funding for internet service under the ConnectAll digital equity grant program.",
+ "Summary":"Provides WiFi service and internet access to all individuals residing in temporary housing; relates to funding for internet service under the ConnectAll digital equity grant program.",
  "LawSection":"Social Services Law","LawCode":"Amd §17, Soc Serv L; amd §16-gg, UDC Act",
  "ActClause":"AN ACT to amend the social services law, in relation to providing internet access to all individuals residing in temporary housing; and to amend the New York state urban development corporation act, in relation to the ConnectAll digital equity grant program",
  "SameAsPrintNo":"A1755-2025","PreviousVersions":["S9030-2019","S3593-2021","S4561-2023"]

@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10906","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-08T13:05:48.522048Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-08","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10906","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-08T13:05:48.522048Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-22","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-05-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10906A","Date":"2026-05-22","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"}],
  "Title":"Dedicates a portion of the state highway system to PFC Travis C. Krege",
  "Summary":"Dedicates a portion of the state highway system constituting the bridge on Cleveland Drive crossing interstate route 90 in the town of Cheektowaga, county of Erie, to PFC Travis C. Krege.",

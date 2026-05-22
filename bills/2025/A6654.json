@@ -1,19 +1,22 @@
 {
- "PrintNo":"A6654","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A6654","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-03-06T15:13:28.668483Z","Status":"IN_ASSEMBLY_COMM","Committee":"Housing",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-02","Committee":"Housing"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Housing"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HOUSING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2026-02-02","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 6654A","Date":"2026-02-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 6654A","Date":"2026-02-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO HOUSING","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 6654B","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
   {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}
  ],
  "Title":"Relates to authorizing a reduction of taxes pursuant to shelter rent",
- "Summary":"Relates to authorizing a reduction of taxes pursuant to shelter rent; provides that such taxes shall not be assessed on projects located in New York City.",
- "LawSection":"Private Housing Finance Law","LawCode":"Amd §§33 & 125, Priv Hous Fin L",
- "ActClause":"AN ACT to amend the private housing finance law, in relation to authorizing a reduction of taxes pursuant to shelter rent"
+ "Summary":"Relates to authorizing a reduction of taxes pursuant to shelter rent; provides that upon consent of the local legislative body in a city with a population of one million or more such taxes may be reduced to five per centum or less, including a full reduction of the annual shelter rent or carrying charges of a project.",
+ "LawSection":"Private Housing Finance Law","LawCode":"Amd §§33, 125 & 93, Priv Hous Fin L",
+ "ActClause":"AN ACT to amend the private housing finance law, in relation to authorizing a reduction of taxes pursuant to shelter rent",
+ "SameAsPrintNo":"S5662-2025"
 }
