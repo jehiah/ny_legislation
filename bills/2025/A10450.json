@@ -1,14 +1,20 @@
 {
- "PrintNo":"A10450","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T09:39:12.16948Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-06","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10450","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-06T09:39:12.16948Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-22","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-04-22","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10450A","Date":"2026-04-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-05-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10450B","Date":"2026-05-22","Chamber":"ASSEMBLY","Version":"B"}
+ ],
  "Sponsors":[
   {"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"}
  ],
- "Title":"Dedicates a portion of the state highway system to ECO Stephen L. Raymond",
- "Summary":"Dedicates a portion of the state highway system, consisting of the bridge located on Diamond Point road at exit twenty-three of interstate eighty-seven in the town of Lake George, county of Warren, to ECO Stephen L. Raymond.",
+ "Title":"Dedicates a portion of the state highway system to Officer Stephen L. Raymond",
+ "Summary":"Dedicates a portion of the state highway system, consisting of the bridge located on Diamond Point road at exit twenty-three of interstate eighty-seven in the town of Lake George, county of Warren, to Officer Stephen L. Raymond.",
  "LawSection":"Highway Law","LawCode":"Add §345-e, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to ECO Stephen L. Raymond"
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Officer Stephen L. Raymond"
 }

@@ -1,7 +1,7 @@
 {
- "PrintNo":"A1430","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A1430","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-09T13:13:34.263511Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-28","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-15","Chamber":"ASSEMBLY"},
@@ -9,7 +9,9 @@
   {"Text":"REPORTED REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 1430B","Date":"2025-06-09","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 1430C","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -51,11 +53,12 @@
   {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
   {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},
-  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"}
+  {"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
+  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}
  ],
  "Title":"Prohibits the sale of medical adhesives and bandages containing perfluoroalkyl and polyfluoroalkyl substances",
  "Summary":"Prohibits the sale of medical adhesives and bandages containing perfluoroalkyl and polyfluoroalkyl substances; provides penalties for violations.",
  "LawSection":"Environmental Conservation Law","LawCode":"Add §37-0123, amd §71-3703, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to prohibiting the sale of medical adhesives and bandages containing perfluoroalkyl and polyfluoroalkyl substances",
- "PreviousVersions":["A10184-2023"]
+ "SameAsPrintNo":"S7839-2025","PreviousVersions":["A10184-2023"]
 }
