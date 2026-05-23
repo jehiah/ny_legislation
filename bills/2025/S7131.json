@@ -1,9 +1,9 @@
 {
- "PrintNo":"S7131","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7131","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-04-01T15:57:10.773582Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-05"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-04-01","Chamber":"SENATE"},
@@ -21,7 +21,9 @@
    "Version":"A"
   },
   {"Text":"1ST REPORT CAL.238","Date":"2026-02-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 7131B","Date":"2026-05-20","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -61,6 +63,7 @@
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Establishes standards for the design and construction of all-gender bathrooms",
  "Summary":"Establishes standards for the design and construction of all-gender bathrooms in the state and in New York city; provides standards will be permitted in both new construction and existing structures undergoing repair, renovation, or alteration work.",
- "LawSection":"Executive Law","LawCode":"Amd §378, Exec L; add §403.5, NYC Ad Cd",
- "ActClause":"AN ACT to amend the executive law and the administrative code of the city of New York, in relation to establishing standards for the design and construction of all-gender bathrooms"
+ "LawSection":"Executive Law","LawCode":"Amd §378, Exec L; add §403.6, NYC Ad Cd",
+ "ActClause":"AN ACT to amend the executive law and the administrative code of the city of New York, in relation to establishing standards for the design and construction of all-gender bathrooms",
+ "SameAsPrintNo":"A10658-2025","PreviousVersions":["A6964-2025"]
 }
