@@ -1,10 +1,9 @@
 {
- "PrintNo":"S1462","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-10T09:29:48.662732Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
+ "PrintNo":"S1462","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-10T09:29:48.662732Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_SENATE","Date":"2026-04-01"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-01","Committee":"Corporations, Authorities And Commissions"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-10","Chamber":"SENATE"},
@@ -22,7 +21,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-04-01","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-01","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-04-01","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-26","Chamber":"SENATE"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-26","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 1462A","Date":"2026-05-26","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

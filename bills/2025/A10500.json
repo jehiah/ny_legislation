@@ -1,12 +1,37 @@
 {
- "PrintNo":"A10500","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T10:06:24.001666Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-06","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-03-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10500","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-06T10:06:24.001666Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-26","Committee":"Ways And Means"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO WAYS AND MEANS","Date":"2026-05-26","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10500A","Date":"2026-05-26","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-19","Chamber":"ASSEMBLY",
+   "Committee":"ECONOMIC DEVELOPMENT",
+   "Votes":[
+    {"ID":571,"Short":"STIRPE","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1503,"Short":"TAPIA","Vote":"Aye"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1558,"Short":"HOOKS","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1554,"Short":"KASSAY","Vote":"Aye"},
+    {"ID":636,"Short":"FRIEND","Vote":"Nay"},{"ID":1135,"Short":"MORINELLO","Vote":"Nay"},
+    {"ID":1483,"Short":"LEMONDES","Vote":"Nay"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Nay"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Excused"},{"ID":1561,"Short":"LASHER","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"}],
  "Title":"Exempts certain parcels of land from licensing restrictions relating to alcoholic beverages",
- "Summary":"Exempts certain parcels of land from licensing restrictions prohibiting manufacturers, wholesalers and retailers of alcoholic beverages from sharing an interest in a licensed premises and from selling at retail for consumption off the premises.",
- "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§101 & 105, ABC L",
- "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to the exemption of certain parcels of land from licensing restrictions prohibiting manufacturers, wholesalers and retailers of alcoholic beverages from sharing an interest in a licensed premises or to sell at retail for consumption off the premises",
- "SameAsPrintNo":"S9317-2025"
+ "Summary":"Exempts certain parcels of land from licensing restrictions prohibiting manufacturers, wholesalers and retailers of alcoholic beverages from sharing an interest in a licensed premises and from selling at retail for consumption on the premises.",
+ "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §§101 & 106, ABC L",
+ "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to the exemption of certain parcels of land from licensing restrictions prohibiting manufacturers, wholesalers and retailers of alcoholic beverages from sharing an interest in a licensed premises or to sell at retail for consumption on the premises"
 }
