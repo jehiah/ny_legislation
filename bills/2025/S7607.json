@@ -1,10 +1,9 @@
 {
- "PrintNo":"S7607","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-23T10:52:18.685292Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "PrintNo":"S7607","Version":"D","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-23T10:52:18.685292Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-27"},{"Type":"PASSED_SENATE","Date":"2026-05-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Transportation"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-04-23","Chamber":"SENATE"},
@@ -20,7 +19,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2026-05-12","Chamber":"SENATE","Version":"C"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-12","Chamber":"SENATE","Version":"C"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-26","Chamber":"SENATE","Version":"C"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-26","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE","Version":"C"},
+  {"Text":"AMENDED ON THIRD READING 7607D","Date":"2026-05-26","Chamber":"SENATE","Version":"D"}
  ],
  "Votes":[
   {
@@ -113,5 +116,6 @@
  "Title":"Dedicates a portion of the state highway system to Lt. Gary A. Scott",
  "Summary":"Dedicates a portion of the state highway system to Lt. Gary A. Scott in the town of LeRoy, county of Genesee.",
  "LawSection":"Highway Law","LawCode":"Add §344-r, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Lt. Gary A. Scott"
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Lt. Gary A. Scott",
+ "SameAsPrintNo":"A8340-2025"
 }

@@ -1,7 +1,7 @@
 {
- "PrintNo":"S4922","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S4922","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-02-14T13:05:01.822679Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-05-20"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-05-26"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-14","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-05","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"AMENDED BY RESTORING TO PREVIOUS PRINT 4922A","Date":"2026-01-28","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1138","Date":"2026-05-18","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-20","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 4922C","Date":"2026-05-26","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -43,8 +44,9 @@
   {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},
   {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
- "Title":"Relates to the sale and possession of self-defense spray devices in the state",
- "Summary":"Relates to the sale and possession of self-defense spray devices in the state; removes the requirement that only authorized dealers and pharmacists could sell such devices; permits shipping of such devices within the state; repeals certain provisions of law relating thereto.",
- "LawSection":"Penal Law","LawCode":"Amd §265.20, rpld §265.20 ¶15, Pen L",
- "ActClause":"AN ACT to amend the penal law, in relation to the sale and possession of self-defense spray devices; and to repeal certain provisions of such law relating thereto"
+ "Title":"Relates to the sale and possession of self-defense spray devices in the state; repealer",
+ "Summary":"Relates to the sale and possession of self-defense spray devices in the state; removes the requirement that only authorized dealers and pharmacists could sell such devices; provides that no more than two self-defense spray devices may be sold at any one time to a single purchaser; repeals certain provisions of law relating thereto.",
+ "LawSection":"Penal Law","LawCode":"Amd §265.20, rpld §265.20 sub a ¶15, Pen L",
+ "ActClause":"AN ACT to amend the penal law, in relation to the sale and possession of self-defense spray devices; and to repeal certain provisions of such law relating thereto",
+ "SameAsPrintNo":"A1838-2025","PreviousVersions":["A8140-2023"]
 }

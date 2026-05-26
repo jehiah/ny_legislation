@@ -1,7 +1,7 @@
 {
- "PrintNo":"S4155","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-03T10:32:42.877442Z",
- "Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Procurement And Contracts"}],
+ "PrintNo":"S4155","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-03T10:32:42.877442Z","Status":"IN_SENATE_COMM","Committee":"Procurement And Contracts",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-26","Committee":"Procurement And Contracts"}],
  "Actions":[
   {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2025-02-03","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1397","Date":"2025-05-28","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-06-13","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO PROCUREMENT AND CONTRACTS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO PROCUREMENT AND CONTRACTS","Date":"2026-05-26","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 4155A","Date":"2026-05-26","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -105,5 +107,5 @@
  "Summary":"Requires contracting agencies to contact minority and women-owned business enterprises when such enterprise is listed on a utilization plan and when a contract is awarded; mandates that the prime contractor use such enterprise identified on the utilization plan, unless such enterprise cannot perform or is no longer state certified.",
  "LawSection":"Executive Law","LawCode":"Amd §313, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to requiring contracting agencies to contact minority and women-owned business enterprises when such enterprise is listed on a utilization plan and when a contract is awarded",
- "PreviousVersions":["S9094-2019","S634-2021","S1757-2023"]
+ "SameAsPrintNo":"A3518-2025","PreviousVersions":["S9094-2019","S634-2021","S1757-2023"]
 }

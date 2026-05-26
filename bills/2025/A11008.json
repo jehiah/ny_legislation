@@ -1,11 +1,12 @@
 {
  "PrintNo":"A11008","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-17T17:28:45.388638Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-17","Committee":"Correction"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-28"},
   {"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-11"},{"Type":"PASSED_SENATE","Date":"2026-05-11"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-11"},{"Type":"PASSED_SENATE","Date":"2026-05-11"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-05-26"},{"Type":"SIGNED_BY_GOV","Date":"2026-05-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2026-04-17","Chamber":"ASSEMBLY"},
@@ -17,7 +18,9 @@
   {"Text":"SUBSTITUTED FOR S9973","Date":"2026-05-11","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.903","Date":"2026-05-11","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-11","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-05-26","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.119","Date":"2026-05-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

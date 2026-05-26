@@ -1,10 +1,9 @@
 {
- "PrintNo":"S6952","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-27T11:26:51.222041Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "PrintNo":"S6952","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-27T11:26:51.222041Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-03-05","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-27"},{"Type":"PASSED_SENATE","Date":"2026-04-29"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-29","Committee":"Transportation"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-27","Chamber":"SENATE"},
@@ -25,7 +24,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-04-29","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-29","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-29","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-26","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-26","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 6952C","Date":"2026-05-26","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

@@ -1,11 +1,16 @@
 {
- "PrintNo":"S9725","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-02T11:11:45.808274Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-02","Chamber":"SENATE"}],
+ "PrintNo":"S9725","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-02T11:11:45.808274Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-26","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-02","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-05-26","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9725A","Date":"2026-05-26","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Dedicates a portion of the state highway system to Pietro Viviano",
  "Summary":"Dedicates a portion of the state highway system to Pietro Viviano in the town of New Castle, county of Westchester.",
  "LawSection":"Highway Law","LawCode":"Add §344-s, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Pietro Viviano"
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to Pietro Viviano",
+ "SameAsPrintNo":"A10897-2025"
 }

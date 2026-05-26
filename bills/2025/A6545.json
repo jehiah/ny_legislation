@@ -1,7 +1,7 @@
 {
- "PrintNo":"A6545","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A6545","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-03-06T14:31:33.770907Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-04-07","Chamber":"ASSEMBLY"},
@@ -10,7 +10,22 @@
   {"Text":"REFERENCE CHANGED TO SCIENCE AND TECHNOLOGY","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO SCIENCE AND TECHNOLOGY","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 6545B","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 6545C","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-13","Chamber":"ASSEMBLY",
+   "Committee":"SCIENCE AND TECHNOLOGY",
+   "Votes":[
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
@@ -36,5 +51,6 @@
  "Title":"Imposes liability for damages caused by a chatbot impersonating certain licensed professionals",
  "Summary":"Imposes liability for damages caused by a chatbot impersonating certain licensed professionals.",
  "LawSection":"General Business Law","LawCode":"Add §390-f, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to imposing liability for damages caused by a chatbot impersonating certain licensed professionals"
+ "ActClause":"AN ACT to amend the general business law, in relation to imposing liability for damages caused by a chatbot impersonating certain licensed professionals",
+ "SameAsPrintNo":"S7263-2025"
 }
