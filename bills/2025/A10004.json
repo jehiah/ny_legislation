@@ -1,7 +1,10 @@
 {
  "PrintNo":"A10004","Version":"D","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-21T12:16:54.998248Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-27"}],
+ "Published":"2026-01-21T12:16:54.998248Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-27"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-27"},{"Type":"IN_SENATE_COMM","Date":"2026-05-27","Committee":"Finance"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-21","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2026-02-20","Chamber":"ASSEMBLY"},
@@ -15,7 +18,11 @@
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"D"},
   {"Text":"REPORTED","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"D"},
   {"Text":"RULES REPORT CAL.215","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"D"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.215","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"D"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.215","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"REFERRED TO FINANCE","Date":"2026-05-27","Chamber":"SENATE","Version":"D"}
  ],
  "Votes":[
   {

@@ -1,11 +1,16 @@
 {
- "PrintNo":"A10218","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-12T14:18:51.003236Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Insurance"}],
- "Actions":[{"Text":"REFERRED TO INSURANCE","Date":"2026-02-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10218","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-12T14:18:51.003236Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Insurance"}],
+ "Actions":[
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10218A","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
- "Title":"Markes permanent certain provisions of law relating to catastrophic or reinsurance coverage issued to certain small groups",
+ "Title":"Extends certain provisions of law relating to catastrophic or reinsurance coverage issued to certain small groups",
  "Summary":"Makes permanent certain provisions of law relating to catastrophic or reinsurance coverage issued to certain small groups.",
  "LawSection":"Insurance","LawCode":"Amd §5, Chap 589 of 2015; amd §5, Chap 588 of 2015",
- "ActClause":"AN ACT to amend chapter 589 of the laws of 2015, amending the insurance law relating to catastrophic or reinsurance coverage issued to certain small groups, in relation to the effectiveness thereof; and to amend chapter 588 of the laws of 2015, amending the insurance law relating to catastrophic or reinsurance coverage issued to certain small groups, in relation to the effectiveness thereof"
+ "ActClause":"AN ACT to amend chapter 589 of the laws of 2015, amending the insurance law relating to catastrophic or reinsurance coverage issued to certain small groups, in relation to the effectiveness thereof; and to amend chapter 588 of the laws of 2015, amending the insurance law relating to catastrophic or reinsurance coverage issued to certain small groups, in relation to the effectiveness thereof",
+ "SameAsPrintNo":"S9367-2025"
 }

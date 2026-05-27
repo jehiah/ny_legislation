@@ -1,17 +1,19 @@
 {
- "PrintNo":"A5410","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-13T15:47:44.123316Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Transportation"}],
+ "PrintNo":"A5410","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-13T15:47:44.123316Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-13","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5410A","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1245,"Name":"Mike Reilly","Short":"REILLY"},{"ID":1527,"Name":"Michael Novakhov","Short":"NOVAKHOV"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"}
  ],
  "Title":"Authorizes the adoption of a rule permitting the use of the Korean war veterans parkway in Richmond county by certain commercial vehicles",
- "Summary":"Authorizes the New York city department of transportation to adopt a rule permitting the use of the Korean war veterans parkway in Richmond county by single unit commercial vehicles having no more than three axles and ten tires.",
+ "Summary":"Authorizes the New York city department of transportation to adopt a rule permitting the use of the Korean war veterans parkway in Richmond county by single unit commercial vehicles having no more than two axles and six tires.",
  "LawSection":"Highway Law","LawCode":"Amd §349-c, Hway L",
  "ActClause":"AN ACT to amend the highway law, in relation to the creation of an exception on the Korean war veterans parkway in Richmond county for the use of certain commercial vehicles"
 }
