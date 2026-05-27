@@ -1,16 +1,18 @@
 {
- "PrintNo":"S8623","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-12-19T09:14:45.880846Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S8623","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-12-19T09:14:45.880846Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-12-19","Chamber":"SENATE"},
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.835","Date":"2026-04-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 8623A","Date":"2026-05-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 8623B","Date":"2026-05-27","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -27,12 +29,12 @@
   }
  ],
  "Sponsors":[
-  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
-  {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}
+  {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},
+  {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},
+  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"}
  ],
- "Title":"Prohibits the use of algorithmically set prices and requires the disclosure of automated pricing systems",
- "Summary":"Prohibits the use of algorithmically set prices; requires the disclosure of automated pricing systems; creates a private cause of action for violations of such prohibition.",
+ "Title":"Prohibits the use of surveillance pricing",
+ "Summary":"Prohibits the use of surveillance pricing, directly or indirectly; prohibits the collection, use, retention, or sharing of data to facilitate surveillance pricing; provides exceptions; provides for enforcement by the attorney general; makes related provisions.",
  "LawSection":"General Business Law","LawCode":"Amd §349-a, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the use of algorithmically set prices and requires the disclosure of automated pricing systems",
- "SameAsPrintNo":"A9349-2025"
+ "ActClause":"AN ACT to amend the general business law, in relation to prohibiting the use of surveillance pricing"
 }

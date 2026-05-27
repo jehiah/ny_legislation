@@ -1,8 +1,12 @@
 {
- "PrintNo":"S10321","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-13T10:45:04.968056Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-13","Chamber":"SENATE"}],
+ "PrintNo":"S10321","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-05-13T10:45:04.968056Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-27","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-13","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-05-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10321A","Date":"2026-05-27","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],
  "Title":"Authorizes the town of Hempstead to file an application for exemption from real property taxes for a certain parcel of land located in the hamlet of West Hempstead",
  "Summary":"Authorizes the town of Hempstead to file an application for exemption from real property taxes for a certain parcel of land located in the hamlet of West Hempstead.",

@@ -1,7 +1,7 @@
 {
  "PrintNo":"S9003","Version":"D","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-01-21T12:32:34.445724Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-26","Committee":"Finance"}],
+ "Published":"2026-01-21T12:32:34.445724Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-26","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-27"}],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2026-01-21","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-02-20","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-05-26","Chamber":"SENATE","Version":"B"},
   {"Text":"PRINT NUMBER 9003C","Date":"2026-05-26","Chamber":"SENATE","Version":"C"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-05-26","Chamber":"SENATE","Version":"C"},
-  {"Text":"PRINT NUMBER 9003D","Date":"2026-05-26","Chamber":"SENATE","Version":"D"}
+  {"Text":"PRINT NUMBER 9003D","Date":"2026-05-26","Chamber":"SENATE","Version":"D"},
+  {"Text":"ORDERED TO THIRD READING CAL.1331","Date":"2026-05-27","Chamber":"SENATE","Version":"D"},
+  {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2026-05-27","Chamber":"SENATE","Version":"D"}
  ],
  "Title":"AID TO LOCALITIES BUDGET",
  "Summary":"Makes appropriations for the support of government - Aid to Localities Budget.","LawSection":"Budget Bills",
