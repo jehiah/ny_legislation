@@ -1,9 +1,10 @@
 {
  "PrintNo":"S7236","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-04T15:50:40.512384Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-19"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Codes"}
+  {"Type":"PASSED_SENATE","Date":"2026-05-19"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Codes"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-04-04","Chamber":"SENATE"},
@@ -17,7 +18,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-26","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-19","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2026-05-19","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2026-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A7983","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING CAL.274","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

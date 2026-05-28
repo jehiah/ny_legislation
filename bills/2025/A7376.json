@@ -1,11 +1,7 @@
 {
- "PrintNo":"A7376","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-25T16:48:12.476908Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-11"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-05-11","Committee":"Consumer Protection"}
- ],
+ "PrintNo":"A7376","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-25T16:48:12.476908Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -18,7 +14,9 @@
   {"Text":"DELIVERED TO SENATE","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-05-11","Chamber":"SENATE","Version":"A"},
   {"Text":"RECALLED FROM SENATE","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 7376B","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -91,7 +89,7 @@
   {"ID":1530,"Name":"Grace Lee","Short":"LEE"},{"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"},
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
  ],
- "Title":"Requires third-party food delivery services to provide the ability to include a gratuity at the same point in the online order process when the underlying order is placed",
+ "Title":"Requires third-party food delivery services and third-party grocery delivery services to provide the ability to include a gratuity at the same point in the online order process when the underlying order is placed",
  "Summary":"Requires third-party food delivery services to provide the ability to include a gratuity at the same point in the online order process when the underlying order is placed; provides that customers shall not be required to pay a gratuity; provides that third-party delivery services shall not reduce the compensation of any worker as a result of gratuities; establishes penalties for violations of such provisions.",
  "LawSection":"General Business Law","LawCode":"Add §391-vv, Gen Bus L",
  "ActClause":"AN ACT to amend the general business law, in relation to the payment of gratuities for orders placed through third-party food delivery services",

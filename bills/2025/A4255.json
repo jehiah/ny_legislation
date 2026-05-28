@@ -1,10 +1,12 @@
 {
- "PrintNo":"A4255","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-31T15:28:36.69967Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Economic Development"}],
+ "PrintNo":"A4255","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-01-31T15:28:36.69967Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Economic Development"}],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-01-31","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 4255A","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
@@ -12,10 +14,10 @@
   {"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"}
  ],
  "Title":"Establishes an economic grant program for the Second Avenue Subway construction project area",
- "Summary":"Establishes an economic development grant program for the Second Avenue Subway construction project area; defines micro business.",
- "LawSection":"New York State Urban Development Corporation Act",
- "LawCode":"Add §16-bb, UDC Act; add §131-a, Ec Dev L",
- "ActClause":"AN ACT to amend the New York state urban development corporation act, in relation to establishing a Second Avenue Subway construction economic development grant program; and to amend the economic development law, in relation to the definition of micro business",
+ "Summary":"Establishes an economic development grant program for the Second Avenue Subway construction project area.",
+ "LawSection":"New York State Urban Development Corporation Act","LawCode":"Add §16-bb, UDC Act",
+ "ActClause":"AN ACT to amend the New York state urban development corporation act, in relation to establishing a Second Avenue Subway construction economic development grant program",
+ "SameAsPrintNo":"S1370-2025",
  "PreviousVersions":[
   "A10594-2007","A6137-2009","A1116-2011","A9021-2011","A1514-2013","A990-2015","A674-2017","A2545-2019","A4168-2021",
   "A9489-2021","A540-2023"
