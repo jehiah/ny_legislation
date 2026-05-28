@@ -1,12 +1,17 @@
 {
  "PrintNo":"S10049","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-24T15:44:23.409875Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-05-07"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-05-07"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2026-04-24","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.911","Date":"2026-05-05","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-06","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-07","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-07","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -30,7 +35,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Updates the definition of cyberbullying in the dignity for all students act",
  "Summary":"Updates the definition of cyberbullying in the dignity for all students act to include intentionally using artificial intelligence to mimic or alter a person's likeness or voice without their consent.",
  "LawSection":"Education Law","LawCode":"Amd §11, Ed L",

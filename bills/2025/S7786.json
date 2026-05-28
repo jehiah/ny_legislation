@@ -1,8 +1,10 @@
 {
- "PrintNo":"S7786","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-06T14:36:19.571968Z","Status":"IN_SENATE_COMM",
- "Committee":"Veterans, Homeland Security And Military Affairs",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Veterans, Homeland Security And Military Affairs"}],
+ "PrintNo":"S7786","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-06T14:36:19.571968Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-12","Committee":"Veterans, Homeland Security And Military Affairs"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2025-05-06","Chamber":"SENATE"},
   {
@@ -13,9 +15,35 @@
   {
    "Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-07","Chamber":"SENATE",
    "Version":"A"
+  },
+  {
+   "Text":"AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-01-12",
+   "Chamber":"SENATE","Version":"A"
+  },
+  {"Text":"PRINT NUMBER 7786B","Date":"2026-01-12","Chamber":"SENATE","Version":"B"},
+  {"Text":"1ST REPORT CAL.1162","Date":"2026-05-18","Chamber":"SENATE","Version":"B"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-19","Chamber":"SENATE","Version":"B"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"SUBSTITUTED BY A7627B","Date":"2026-05-28","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-18","Version":"B","Chamber":"SENATE",
+   "Committee":"Veterans, Homeland Security And Military Affairs",
+   "Votes":[
+    {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO","Vote":"Aye"},
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1552,"Name":"April Baskin","Short":"BASKIN","Vote":"Aye"},
+    {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":373,"Name":"José M. Serrano","Short":"SERRANO","Vote":"Aye"},
+    {"ID":1490,"Name":"Dan Stec","Short":"STEC","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Excused"}
+   ]
   }
  ],
- "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
+ "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}],
  "Title":"Relates to the availability of information on home care services",
  "Summary":"Authorizes the Department of Veterans' Services to consult and collaborate with relevant offices in the federal department of veterans affairs, the department of health, the state office for the aging and other HCBS experts to develop educational materials for veterans and their families about the accessibility to home and community-based services.",
  "LawSection":"Veterans' Service Law","LawCode":"Amd §§4 & 15, Veterans' Services L",

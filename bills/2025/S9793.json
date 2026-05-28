@@ -1,12 +1,17 @@
 {
  "PrintNo":"S9793","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-06T14:00:55.440621Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-06","Committee":"Judiciary"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2026-04-06","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1021","Date":"2026-05-12","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

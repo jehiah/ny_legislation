@@ -1,7 +1,7 @@
 {
- "PrintNo":"S1476","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-10T09:51:59.994093Z","Status":"IN_SENATE_COMM","Committee":"Higher Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Higher Education"}],
+ "PrintNo":"S1476","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-10T09:51:59.994093Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO HIGHER EDUCATION","Date":"2025-06-06","Chamber":"SENATE"},
@@ -13,7 +13,11 @@
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-06-10","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HIGHER EDUCATION","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 1476B","Date":"2026-05-13","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1346","Date":"2026-05-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -119,9 +123,9 @@
   {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
   {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Requires certain health care providers to disclose the fact that the provider is on probation to current and new patients",
- "Summary":"Requires certain health care providers to disclose the fact that the provider is on probation to current and new patients.",
+ "Title":"Requires certain health care providers to disclose their disciplinary status to current and new patients",
+ "Summary":"Requires certain health care providers to disclose disciplinary status to current and new patients.",
  "LawSection":"Public Health Law","LawCode":"Amd §230, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to requiring certain health care providers to disclose the fact that the provider is on probation to current and new patients",
+ "ActClause":"AN ACT to amend the public health law, in relation to requiring certain health care providers to disclose their disciplinary status to current and new patients",
  "SameAsPrintNo":"A10022-2025","PreviousVersions":["S7241-2023"]
 }

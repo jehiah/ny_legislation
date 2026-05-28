@@ -1,10 +1,9 @@
 {
- "PrintNo":"S2091","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-15T10:55:39.070376Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "PrintNo":"S2091","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-15T10:55:39.070376Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-23"},{"Type":"PASSED_SENATE","Date":"2026-03-30"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-30","Committee":"Governmental Operations"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-15","Chamber":"SENATE"},
@@ -24,7 +23,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-30","Chamber":"SENATE"},
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-03-30","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 2091A","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A3029A","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -199,9 +201,9 @@
   {"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1237,"Name":"Rachel May","Short":"MAY"},
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
- "Title":"Establishes standards for the reuse of solid-sawn lumber in construction",
- "Summary":"Establishes standards for the reuse of deconstructed building materials; requires the uniform building code to set standards for the use of solid-sawn lumber in construction and for the grading of used solid-sawn lumber; requires the secretary of state to develop a program for grading reclaimed wood for structural purposes.",
+ "Title":"Establishes standards for the reuse of deconstructed building materials",
+ "Summary":"Establishes standards for the reuse of deconstructed building materials; requires the uniform building code to set standards for salvage lumber; requires the secretary of state to develop a program for grading salvage lumber for structural purposes.",
  "LawSection":"Executive Law","LawCode":"Amd §§377, 378 & 376, Exec L",
  "ActClause":"AN ACT to amend the executive law, in relation to establishing standards for the reuse of deconstructed building materials",
- "PreviousVersions":["S8614-2023"]
+ "SameAsPrintNo":"A3029-2025","PreviousVersions":["S8614-2023"]
 }

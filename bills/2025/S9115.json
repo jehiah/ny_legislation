@@ -1,12 +1,14 @@
 {
  "PrintNo":"S9115","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-02-04T13:01:10.934177Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Finance"}],
+ "Published":"2026-02-04T13:01:10.934177Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-02-04","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-03","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 9115A","Date":"2026-03-03","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-10","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1397","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -26,7 +28,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
+ "Sponsors":[
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
+  {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}
+ ],
  "Title":"Relates to the management of PFAS in biosolids",
  "Summary":"Relates to the management of PFAS in biosolids in the state by requiring testing and reporting of certain groundwater, biosolids, and soil and establishing a moratorium on the sale and use of biosolids; establishes the PFAS agricultural response program and fund to assist farms found to have levels of PFAS contamination which exceed regulatory standards.",
  "LawSection":"Environmental Conservation Law",

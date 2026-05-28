@@ -1,14 +1,35 @@
 {
  "PrintNo":"S8706","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-01-07T13:44:01.905344Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Finance"}],
+ "Published":"2026-01-07T13:44:01.905344Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO LABOR","Date":"2026-01-15","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 8706A","Date":"2026-01-15","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO LABOR","Date":"2026-04-22","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 8706B","Date":"2026-04-22","Chamber":"SENATE","Version":"B"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-04-28","Chamber":"SENATE","Version":"B"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-04-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1386","Date":"2026-05-28","Chamber":"SENATE","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-04-28","Version":"B","Chamber":"SENATE","Committee":"Labor",
+   "Votes":[
+    {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":1143,"Name":"Shelley Mayer","Short":"MAYER","Vote":"Aye"},
+    {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS","Vote":"Aye"},
+    {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C","Vote":"Aye"},
+    {"ID":432,"Name":"James Sanders Jr.","Short":"SANDERS","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER","Vote":"Aye"},
+    {"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS","Vote":"Aye"},
+    {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
  "Title":"Requires covered businesses to annually report to the department of labor regarding the impact of artificial intelligence on hiring and the nature of artificial intelligence use",

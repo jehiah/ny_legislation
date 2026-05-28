@@ -1,7 +1,10 @@
 {
  "PrintNo":"S5067","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-18T14:36:22.528784Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-04-27"}],
+ "Published":"2025-02-18T14:36:22.528784Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-04-27"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-02-18","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1159","Date":"2025-05-20","Chamber":"SENATE"},
@@ -23,7 +26,9 @@
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-04-27","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-04-27","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 5067B","Date":"2026-04-27","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 5067B","Date":"2026-04-27","Chamber":"SENATE","Version":"B"},
+  {"Text":"REPASSED SENATE","Date":"2026-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

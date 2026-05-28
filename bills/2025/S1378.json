@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1378","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-09T13:13:50.469978Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-17","Committee":"Finance"}],
+ "Published":"2025-01-09T13:13:50.469978Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2025-01-09","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-20","Chamber":"SENATE"},
@@ -20,7 +20,9 @@
    "Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-01-07","Chamber":"SENATE",
    "Version":"A"
   },
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-03-17","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1345","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

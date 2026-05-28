@@ -1,8 +1,12 @@
 {
  "PrintNo":"S9199","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-13T11:44:15.560941Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-13","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-02-13","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-02-13","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1398","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}],
  "Title":"Creates the state office of the utility consumer advocate",
  "Summary":"Creates the state office of the utility consumer advocate to represent interests of residential utility customers including a proposed change of rates, charges, terms and conditions of service, the adoption of rules, regulations, guidelines, orders, standards or final policy decisions.",

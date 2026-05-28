@@ -1,11 +1,12 @@
 {
  "PrintNo":"S9002","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-01-21T12:31:58.679956Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2026-01-21T12:31:58.679956Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-03-26"},
   {"Type":"PASSED_SENATE","Date":"2026-03-26"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-26","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-26"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-26"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2026-01-21","Chamber":"SENATE"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR A10002A","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.89","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-03-26","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

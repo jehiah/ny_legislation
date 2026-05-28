@@ -1,8 +1,12 @@
 {
  "PrintNo":"S10531","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-19T10:50:30.612512Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-19","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-19","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1441","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Extends the effectiveness of chapter 435 of the laws of 2014 relating to defining spearguns and allowing recreational spearfishing in New York's marine and coastal waters",
  "Summary":"Extends the effectiveness of certain provisions relating to defining spearguns and allowing recreational spearfishing in New York's marine and coastal waters.",

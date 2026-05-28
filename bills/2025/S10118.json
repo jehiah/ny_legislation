@@ -1,8 +1,12 @@
 {
  "PrintNo":"S10118","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-30T11:27:11.66601Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-30","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-04-30","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-04-30","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1430","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"}],
  "Title":"Authorizes the town attorney of the town of Islip to be a nonresident of such town",
  "Summary":"Authorizes the town attorney of the town of Islip, in the county of Suffolk, to be a nonresident of such town.",

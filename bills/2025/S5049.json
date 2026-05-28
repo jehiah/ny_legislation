@@ -1,9 +1,9 @@
 {
- "PrintNo":"S5049","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-18T14:15:59.619466Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
+ "PrintNo":"S5049","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-18T14:15:59.619466Z","Status":"PASSED_SENATE",
  "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-02-11"},
-  {"Type":"PASSED_SENATE","Date":"2026-02-24"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-24","Committee":"Insurance"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-05-19"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-18","Chamber":"SENATE"},
@@ -23,7 +23,11 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-02-24","Chamber":"SENATE"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-02-24","Chamber":"ASSEMBLY"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 5049A","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"REPASSED SENATE","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -197,8 +201,8 @@
  ],
  "Sponsors":[{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},{"ID":951,"Name":"Pamela Helming","Short":"HELMING"}],
  "Title":"Relates to licensing of independent insurance adjusters",
- "Summary":"Relates to licensing of independent insurance adjusters by waiving requirements regarding a written examination if the applicant holds a claim certification from a national or state-based claims association.",
+ "Summary":"Relates to licensing of independent insurance adjusters by deeming requirements regarding a written examination met if the applicant holds a claim certification from a national or state-based claims association.",
  "LawSection":"Insurance Law","LawCode":"Amd §2108, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to licensing of independent adjusters",
- "PreviousVersions":["S6954-2017","S3636-2019","S3579-2021","S1468-2023"]
+ "SameAsPrintNo":"A11042-2025","PreviousVersions":["S6954-2017","S3636-2019","S3579-2021","S1468-2023"]
 }

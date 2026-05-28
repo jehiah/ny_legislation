@@ -1,12 +1,14 @@
 {
  "PrintNo":"S8592","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-11-26T09:07:40.198767Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Insurance"}],
+ "Published":"2025-11-26T09:07:40.198767Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-11-26","Chamber":"SENATE"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-02-04","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 8592A","Date":"2026-02-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 8592A","Date":"2026-02-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1382","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},

@@ -1,10 +1,9 @@
 {
- "PrintNo":"S1783","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-13T14:48:38.763576Z","Status":"IN_ASSEMBLY_COMM","Committee":"Agriculture",
+ "PrintNo":"S1783","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-13T14:48:38.763576Z","Status":"PASSED_SENATE",
  "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-02-04"},
-  {"Type":"PASSED_SENATE","Date":"2026-03-05"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-05","Committee":"Agriculture"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-05-19"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-13","Chamber":"SENATE"},
@@ -26,7 +25,11 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-05","Chamber":"SENATE","Version":"B"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-19","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING (T) 1783C","Date":"2026-05-19","Chamber":"SENATE","Version":"C"},
+  {"Text":"REPASSED SENATE","Date":"2026-05-28","Chamber":"SENATE","Version":"C"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -195,9 +198,9 @@
   }
  ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
- "Title":"Prohibits the misrepresentation or collection of certain fees related to the delivery, usage, and storage of liquified petroleum",
+ "Title":"Prohibits the misrepresentation or collection of certain fees related to the delivery, usage, and storage of liquefied petroleum",
  "Summary":"Prohibits the misrepresentation or collection of certain fees related to the delivery, usage, and storage of liquified petroleum.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Amd §192-e, Ag & Mkts L",
- "ActClause":"AN ACT to amend the agriculture and markets law, in relation to fees related to liquified petroleum",
- "PreviousVersions":["S8606-2023"]
+ "ActClause":"AN ACT to amend the agriculture and markets law, in relation to fees related to liquefied petroleum",
+ "SameAsPrintNo":"A6825-2025","PreviousVersions":["S8606-2023"]
 }

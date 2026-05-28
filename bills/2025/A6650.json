@@ -1,14 +1,20 @@
 {
  "PrintNo":"A6650","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-06T15:15:16.587191Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-21"}],
+ "Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-21"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-28"},{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Insurance"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-06","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-20","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-05-21","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.176","Date":"2026-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.176","Date":"2026-05-21","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.176","Date":"2026-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,8 +1,12 @@
 {
  "PrintNo":"S9728","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-02T11:12:31.828821Z",
- "Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Children And Families"}],
- "Actions":[{"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-04-02","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-04-02","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1415","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1500,"Name":"Samra Brouk","Short":"BROUK"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to caregiver requirements for certain day care homes",
  "Summary":"Requires one caregiver for every two children under eighteen months of age in group family day care homes and family day care homes.",

@@ -1,7 +1,7 @@
 {
  "PrintNo":"S6976","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-27T15:44:52.310275Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-03","Committee":"Transportation"}],
+ "Published":"2025-03-27T15:44:52.310275Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-27","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2025-04-09","Chamber":"SENATE"},
@@ -16,7 +16,9 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-02-03","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 6976B","Date":"2026-02-03","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 6976B","Date":"2026-02-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1364","Date":"2026-05-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -109,7 +111,8 @@
  "Sponsors":[
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":888,"Name":"Leroy Comrie","Short":"COMRIE"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
+  {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Establishes the New York road salt reduction council and the New York road salt reduction advisory committee",
  "Summary":"Establishes the New York road salt reduction council and the New York road salt reduction advisory committee to provide a mechanism for interagency cooperation and coordination to implement the recommendations of the report of the Adirondack road salt reduction task force.",

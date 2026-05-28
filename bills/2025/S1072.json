@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1072","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-07T15:36:41.959567Z","Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Education"}],
+ "Published":"2025-01-07T15:36:41.959567Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2025-05-29","Chamber":"SENATE"},
@@ -13,7 +13,9 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-04-28","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 1072A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 1072A","Date":"2026-04-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1340","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

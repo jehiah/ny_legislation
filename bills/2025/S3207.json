@@ -1,9 +1,9 @@
 {
- "PrintNo":"S3207","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-24T10:40:09.55584Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "PrintNo":"S3207","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-24T10:40:09.55584Z","Status":"PASSED_SENATE",
  "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-02-26"},
-  {"Type":"PASSED_SENATE","Date":"2026-03-19"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-19","Committee":"Health"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-05-19"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-01-24","Chamber":"SENATE"},
@@ -24,7 +24,11 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-03-19","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 3207B","Date":"2026-05-19","Chamber":"SENATE","Version":"B"},
+  {"Text":"REPASSED SENATE","Date":"2026-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -220,5 +224,5 @@
  "Summary":"Establishes maximum contaminant levels in drinking water for certain per- and polyfluoroalkyl substances (PFAS); sets such levels at no higher than 4 parts per trillion (ppt) for perfluorooctane sulfonic acid (PFOS) and perfluorooctanoic acid (PFOA) and no higher than 10 parts per trillion (ppt) for perfluorononanoic acid (PFNA), perfluorohexane sulfonate (PFHxS), and hexafluoropropylene oxide dimer acid (HFPO-DA).",
  "LawSection":"Public Health Law","LawCode":"Amd §1112, Pub Health L",
  "ActClause":"AN ACT to amend the public health law, in relation to establishing maximum contaminant levels and a hazard index in drinking water for certain per- and polyfluoroalkyl substances (PFAS)",
- "PreviousVersions":["S9661-2023"]
+ "SameAsPrintNo":"A8634-2025","PreviousVersions":["S9661-2023"]
 }

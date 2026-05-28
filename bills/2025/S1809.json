@@ -1,7 +1,7 @@
 {
  "PrintNo":"S1809","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T08:47:27.73326Z",
- "Status":"IN_SENATE_COMM","Committee":"Elections",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Elections"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.293","Date":"2025-02-10","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO ELECTION LAW","Date":"2025-03-19","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1348","Date":"2026-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

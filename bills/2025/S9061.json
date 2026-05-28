@@ -1,15 +1,16 @@
 {
- "PrintNo":"S9061","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-28T14:21:58.150321Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S9061","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-28T14:21:58.150321Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-27"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-28","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1274","Date":"2026-05-19","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 9061A","Date":"2026-05-27","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -34,5 +35,6 @@
  "Title":"Dedicates a portion of the state highway system to the Lemcke Brothers Military Service",
  "Summary":"Dedicates a portion of the state highway system in the town of Parma, county of Monroe, to the Lemcke Brothers Military Service.",
  "LawSection":"Highway Law","LawCode":"Add §344-s, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to the Lemcke Brothers Military Service"
+ "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state highway system to the Lemcke Brothers Military Service",
+ "SameAsPrintNo":"A9320-2025"
 }

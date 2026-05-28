@@ -1,9 +1,10 @@
 {
  "PrintNo":"A8447","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-16T10:40:55.639848Z","Status":"IN_SENATE_COMM","Committee":"Aging",
+ "Published":"2025-05-16T10:40:55.639848Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-06","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-09"},{"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Aging"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-09"},{"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Aging"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-28"},{"Type":"PASSED_SENATE","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2025-05-16","Chamber":"ASSEMBLY"},
@@ -21,7 +22,11 @@
   {"Text":"AMENDED ON THIRD READING 8447A","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-03-09","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-03-09","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO AGING","Date":"2026-03-09","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO AGING","Date":"2026-03-09","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED FOR S8072B","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"3RD READING CAL.229","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

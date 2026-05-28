@@ -1,13 +1,18 @@
 {
  "PrintNo":"A11164","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-29T17:08:41.682773Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-21"}],
+ "Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-21"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-28"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-04-29","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-20","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-05-21","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.190","Date":"2026-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.190","Date":"2026-05-21","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.190","Date":"2026-05-21","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -62,7 +67,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"}],
+ "Sponsors":[{"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"}],
  "Title":"Provides for the issuance of pet insurance",
  "Summary":"Provides for the issuance of pet insurance that provides coverage for accidents and illnesses of pets.",
  "LawSection":"Insurance Law","LawCode":"Amd §1113, add §3463, Ins L",

@@ -1,8 +1,12 @@
 {
  "PrintNo":"S9419","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-11T13:26:00.951894Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-11","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-11","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-11","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1406","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}],
  "Title":"Authorizes the department of motor vehicles to accept certain documentation issued to veterans of the military as acceptable proofs of identity when applying for a driver license or state identification card",
  "Summary":"Authorizes the department of motor vehicles to accept a certificate of release or discharge from active duty issued by the United States department of defense (DD form 214), a veteran identification card issued by the United States department of veterans affairs, or a veterans health identification card issued by the United States department of veterans affairs from veterans of the military as acceptable proofs of identity when applying for a driver license or state identification card.",

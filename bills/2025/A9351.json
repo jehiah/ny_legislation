@@ -1,10 +1,11 @@
 {
  "PrintNo":"A9351","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-12-19T15:59:38.931664Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Published":"2025-12-19T15:59:38.931664Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-27"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Transportation"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Transportation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-12-19","Chamber":"ASSEMBLY"},
@@ -16,7 +17,9 @@
   {"Text":"ADVANCED TO THIRD READING CAL.370","Date":"2026-04-23","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-04-27","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-04-27","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-27","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED FOR S8571A","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"3RD READING CAL.1271","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -118,7 +121,7 @@
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"},
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
-  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"}
  ],
  "Title":"Relates to the issuance of license plates for disabled veterans",
  "Summary":"Relates to the issuance of license plates for persons rated one hundred percent disabled by the United States department of veterans affairs.",

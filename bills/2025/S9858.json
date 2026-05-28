@@ -1,11 +1,13 @@
 {
  "PrintNo":"S9858","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-04-09T09:18:12.046807Z","Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-06","Committee":"Codes"}],
+ "Published":"2026-04-09T09:18:12.046807Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2026-04-09","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-06","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9858A","Date":"2026-05-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9858A","Date":"2026-05-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1418","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
  "Title":"Amends the definition of mental health care provider for purposes of sex offenses",

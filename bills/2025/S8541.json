@@ -1,10 +1,12 @@
 {
  "PrintNo":"S8541","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-10-22T16:24:25.33222Z",
- "Status":"IN_SENATE_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Health"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-10-22","Chamber":"SENATE"},
-  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1379","Date":"2026-05-28","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Requires medical assistance to include medical care, services or supplies to monitor blood pressure that have been validated for accuracy and are furnished without prior authorization to eligible pregnant women",

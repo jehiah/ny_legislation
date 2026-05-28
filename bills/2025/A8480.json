@@ -1,9 +1,10 @@
 {
  "PrintNo":"A8480","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-05-16T17:31:09.047846Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-09"},{"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Labor"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-09"},{"Type":"IN_SENATE_COMM","Date":"2026-03-09","Committee":"Labor"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-28"},{"Type":"PASSED_SENATE","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-05-16","Chamber":"ASSEMBLY"},
@@ -20,7 +21,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.212","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-03-09","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-03-09","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO LABOR","Date":"2026-03-09","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LABOR","Date":"2026-03-09","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S8131","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.870","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {

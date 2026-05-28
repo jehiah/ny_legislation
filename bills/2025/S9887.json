@@ -1,8 +1,12 @@
 {
  "PrintNo":"S9887","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-13T15:35:54.680793Z",
- "Status":"IN_SENATE_COMM","Committee":"Children And Families",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-13","Committee":"Children And Families"}],
- "Actions":[{"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-04-13","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-04-13","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1420","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1515,"Name":"Lea Webb","Short":"WEBB"}],
  "Title":"Requires the office of children and family services to notify child day care providers of updates on any forms listed on their website",
  "Summary":"Directs the office of children and family services to provide written and electronic notice to child day care providers whenever such office has updated any form necessary for the delivery of services listed on its website; provides that such notice shall be disseminated in concurrence with the publication of updated forms.",

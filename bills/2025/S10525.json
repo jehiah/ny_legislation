@@ -1,8 +1,12 @@
 {
  "PrintNo":"S10525","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-18T13:05:43.052976Z",
- "Status":"IN_SENATE_COMM","Committee":"Cultural Affairs, Tourism, Parks And Recreation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-18","Committee":"Cultural Affairs, Tourism, Parks And Recreation"}],
- "Actions":[{"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-05-18","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1440","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"}],
  "Title":"Extends the effectiveness of certain provisions of law relating to the operation of personal watercraft and specialty prop-craft",
  "Summary":"Extends the effectiveness of certain provisions of law relating to the operation of personal watercraft and specialty prop-craft.",

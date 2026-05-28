@@ -1,14 +1,16 @@
 {
  "PrintNo":"S8969","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-01-21T16:40:01.525943Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-22","Committee":"Finance"}],
+ "Published":"2026-01-21T16:40:01.525943Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-21","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-03-16","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 8969A","Date":"2026-03-16","Chamber":"SENATE","Version":"A"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-04-20","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-04-22","Chamber":"SENATE","Version":"A"},
-  {"Text":"PRINT NUMBER 8969B","Date":"2026-04-22","Chamber":"SENATE","Version":"B"}
+  {"Text":"PRINT NUMBER 8969B","Date":"2026-04-22","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1389","Date":"2026-05-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

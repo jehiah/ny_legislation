@@ -1,9 +1,9 @@
 {
  "PrintNo":"S7779","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-06T14:15:11.45137Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-27"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-27"},{"Type":"PASSED_SENATE","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-06","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.781","Date":"2026-04-21","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-22","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -54,7 +56,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"}],
+ "Sponsors":[{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"}],
  "Title":"Creates a distinctive license plate for veterans honoring Borinqueneers",
  "Summary":"Creates a distinctive license plate for veterans honoring Borinqueneers; defines \"veteran\" as a person who is a resident of this state, who served in the armed forces of the United States, and was honorably discharged from the armed forces, or has a qualifying condition, as defined in section one of the veterans' services law, and has received a discharge other than bad conduct or dishonorable from such service, or is a discharged LGBT veteran, as defined in section one of the veterans' services law, and has received a discharge other than bad conduct or dishonorable from such service.",
  "LawSection":"Vehicle and Traffic Law","LawCode":"Add §404-ff, V & T L",

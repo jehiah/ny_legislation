@@ -1,14 +1,39 @@
 {
  "PrintNo":"A8814","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-06-09T17:20:18.452655Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Education"}],
+ "Published":"2025-06-09T17:20:18.452655Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-06-09","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-05-13","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 8814A","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 8814A","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes        Correction Date:05/22/2026","Date":"2026-05-18",
+   "Chamber":"ASSEMBLY","Committee":"EDUCATION",
+   "Votes":[
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":0,"Short":"BROWN","Vote":"Aye"},{"ID":665,"Short":"OTIS","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1534,"Short":"ZACCARO","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":659,"Short":"KIM","Vote":"Excused"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Absent"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Absent"},{"ID":1487,"Short":"CONRAD","Vote":"Absent"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}],
  "Title":"Relates to expanding opioid overdose prevention measures in certain settings",
  "Summary":"Requires school districts, public libraries, BOCES, county vocational education and extension boards, charter schools, and non-public schools to provide and maintain on-site opioid antagonists; requires the department of health to provide such opioid antagonists to such entities upon request.",
  "LawSection":"Education Law","LawCode":"Amd §922, Ed L",

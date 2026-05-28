@@ -1,8 +1,12 @@
 {
  "PrintNo":"S10273","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-11T11:27:18.675182Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-11","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-11","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1433","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"}],
  "Title":"Relates to the determination of adjusted base proportions in special assessing units which are cities",
  "Summary":"Relates to the determination of adjusted base proportions in special assessing units which are cities for fiscal year 2027.",

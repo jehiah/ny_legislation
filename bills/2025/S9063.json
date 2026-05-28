@@ -1,8 +1,14 @@
 {
- "PrintNo":"S9063","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-28T14:22:27.687282Z",
- "Status":"IN_SENATE_COMM","Committee":"Mental Health",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Mental Health"}],
- "Actions":[{"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-28","Chamber":"SENATE"}],
+ "PrintNo":"S9063","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-28T14:22:27.687282Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-28","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO MENTAL HEALTH","Date":"2026-05-13","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9063A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1396","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},
@@ -14,6 +20,7 @@
  ],
  "Title":"Includes avoidant/restrictive food intake disorders as eating disorders for the purposes of mental health",
  "Summary":"Includes avoidant/restrictive food intake disorders as eating disorders for the purposes of mental health.",
- "LawSection":"Mental Hygiene Law","LawCode":"Amd §30.02, Ment Hyg L; amd §207, Pub Health L",
- "ActClause":"AN ACT to amend the mental hygiene law and the public health law, in relation to including avoidant/restrictive food intake disorders as eating disorders for the purposes of mental health"
+ "LawSection":"Mental Hygiene Law","LawCode":"Amd §30.02, Ment Hyg L",
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to including avoidant/restrictive food intake disorders as eating disorders for the purposes of mental health",
+ "SameAsPrintNo":"A9600-2025"
 }

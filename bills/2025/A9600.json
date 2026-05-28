@@ -1,7 +1,10 @@
 {
  "PrintNo":"A9600","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-21T16:44:12.188698Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-21"}],
+ "Published":"2026-01-21T16:44:12.188698Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-21"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-28"},{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-21","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO MENTAL HEALTH","Date":"2026-05-13","Chamber":"ASSEMBLY"},
@@ -9,7 +12,10 @@
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RULES REPORT CAL.182","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.182","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.182","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

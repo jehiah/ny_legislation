@@ -1,9 +1,9 @@
 {
  "PrintNo":"S7131","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-01T15:57:10.773582Z","Status":"SENATE_FLOOR",
+ "Published":"2025-04-01T15:57:10.773582Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-20"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-20"},{"Type":"PASSED_SENATE","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-04-01","Chamber":"SENATE"},
@@ -23,7 +23,9 @@
   {"Text":"1ST REPORT CAL.238","Date":"2026-02-04","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-02-05","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-02-09","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 7131B","Date":"2026-05-20","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 7131B","Date":"2026-05-20","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2026-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

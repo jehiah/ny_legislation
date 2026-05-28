@@ -1,12 +1,16 @@
 {
  "PrintNo":"S9305","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-27T09:36:56.548851Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-27","Committee":"Energy And Telecommunications"}],
- "Actions":[{"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-02-27","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-02-27","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1401","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
  "Title":"Extends provisions of law relating to the New York telecommunications relay service center",
  "Summary":"Extends provisions of law relating to the New York telecommunications relay service center from June 30, 2027 until June 30, 2030.",
  "LawSection":"Public Services","LawCode":"Amd Part H1 §4, Chap 62 of 2003",
  "ActClause":"AN ACT to amend chapter 62 of the laws of 2003, amending the public service law relating to establishing the New York telecommunications relay service center, in relation to extending certain provisions of such center",
- "PreviousVersions":["S3533-2023"]
+ "SameAsPrintNo":"A10415-2025","PreviousVersions":["S3533-2023"]
 }

@@ -1,8 +1,12 @@
 {
  "PrintNo":"S9541","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-23T13:28:20.278035Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-23","Chamber":"SENATE"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-28"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-23","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.1408","Date":"2026-05-28","Chamber":"SENATE"}
+ ],
  "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
  "Title":"Requires a collecting officer of taxes to accept payments of tax, including any interest due thereon, rounded to the nearest five cent denomination",
  "Summary":"Requires a collecting officer of taxes to accept payments of tax, including any interest due thereon, rounded to the nearest five cent denomination for taxpayers seeking to pay therefor with legal tender.",

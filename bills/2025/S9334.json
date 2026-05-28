@@ -1,8 +1,12 @@
 {
- "PrintNo":"S9334","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-03T11:04:26.962562Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-03","Committee":"Codes"}],
- "Actions":[{"Text":"REFERRED TO CODES","Date":"2026-03-03","Chamber":"SENATE"}],
+ "PrintNo":"S9334","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-03T11:04:26.962562Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Codes"}],
+ "Actions":[
+  {"Text":"REFERRED TO CODES","Date":"2026-03-03","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9334A","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1574,"Name":"Erik Bottcher","Short":"BOTTCHER"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1552,"Name":"April Baskin","Short":"BASKIN"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
@@ -16,5 +20,6 @@
  "Title":"Relates to consumer warnings regarding rifles, shotguns, and firearms",
  "Summary":"Relates to consumer warnings regarding rifles, shotguns, and firearms; provides that a graphic warning that depicts the nature of the health and safety risks of firearms be provided when any license or permit is issued or amended.",
  "LawSection":"Penal Law","LawCode":"Amd §400.00, Pen L",
- "ActClause":"AN ACT to amend the penal law, in relation to consumer warnings regarding rifles, shotguns, and firearms"
+ "ActClause":"AN ACT to amend the penal law, in relation to consumer warnings regarding rifles, shotguns, and firearms",
+ "SameAsPrintNo":"A10485-2025"
 }

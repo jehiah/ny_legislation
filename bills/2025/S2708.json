@@ -1,10 +1,9 @@
 {
- "PrintNo":"S2708","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-22T15:47:12.37233Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "PrintNo":"S2708","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-22T15:47:12.37233Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-16"},{"Type":"PASSED_SENATE","Date":"2026-04-20"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-20","Committee":"Energy"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-22","Chamber":"SENATE"},
@@ -23,7 +22,11 @@
   {"Text":"AMENDED ON THIRD READING (T) 2708A","Date":"2026-03-16","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-04-20","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-20","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO ENERGY","Date":"2026-04-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO ENERGY","Date":"2026-04-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 2708B","Date":"2026-05-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -191,10 +194,9 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],
- "Title":"Relates to advanced transmission technologies, and directs NYSERDA to conduct a study on the effectiveness thereof",
+ "Sponsors":[{"ID":1237,"Name":"Rachel May","Short":"MAY"}],"Title":"Relates to advanced transmission technologies",
  "Summary":"Directs electric corporations and combination electric and gas corporations to file a cost-effectiveness and timetable analysis as part of any base rate proceeding with the public service commission; directs NYSERDA to conduct a study on the effectiveness of advanced transmission technologies.",
  "LawSection":"Public Service Law","LawCode":"Add §66-x, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law and the public authorities law, in relation to advancing grid enhancement technologies",
+ "ActClause":"AN ACT to amend the public service law, in relation to advanced transmission technologies; and to direct the New York state energy research and development authority to conduct a study on the effectiveness of such technologies",
  "SameAsPrintNo":"A8934-2025","PreviousVersions":["S7868-2023"]
 }
