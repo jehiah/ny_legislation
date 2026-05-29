@@ -2,14 +2,31 @@
  "PrintNo":"A10430","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T09:30:40.309961Z",
  "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-06","Committee":"Correction"}],
- "Actions":[{"Text":"REFERRED TO CORRECTION","Date":"2026-03-06","Chamber":"ASSEMBLY"}],
+ "Actions":[
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN CORRECTION","Date":"2026-05-19","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2026-05-19","Chamber":"ASSEMBLY","Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1577,"Short":"POWERS","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Nay"},{"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1484,"Short":"GALLAHAN","Vote":"Nay"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Excused"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":656,"Name":"David DiPietro","Short":"DIPIETRO"},{"ID":608,"Name":"Edward Ra","Short":"RA"},
   {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},
   {"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},{"ID":635,"Name":"Philip Palmesano","Short":"PALMESANO"},
   {"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"},{"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"},
   {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":1568,"Name":"Paula Bologna","Short":"BOLOGNA"},
-  {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"}
+  {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},{"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"}
  ],
  "Title":"Relates to certain conduct that may place a person in segregated confinement",
  "Summary":"Relates to certain conduct that may place a person in segregated confinement; expands the criteria that can be used for calculating good behavior allowances.",
