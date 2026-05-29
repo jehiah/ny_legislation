@@ -1,11 +1,7 @@
 {
- "PrintNo":"S8616","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-12-12T15:53:22.451328Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-12"},
-  {"Type":"PASSED_SENATE","Date":"2026-05-13"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Consumer Affairs And Protection"}
- ],
+ "PrintNo":"S8616","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-12-12T15:53:22.451328Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-29"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-12-12","Chamber":"SENATE"},
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
@@ -15,7 +11,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.1009","Date":"2026-05-12","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 8616B","Date":"2026-05-29","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -164,7 +164,8 @@
   {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}
  ],
  "Title":"Establishes the \"protecting consumers and jobs from discriminatory pricing act\"",
- "Summary":"Prohibits the use of electronic shelving labels, digital shelf display technology, and surveillance pricing in food retail establishments and drug retail establishments; provides injunctive relief, and civil penalties.",
+ "Summary":"Prohibits the use of electronic shelving labels, digital shelf display technology, and surveillance pricing in food retail establishments and drug retail establishments; provides injunctive relief and civil penalties.",
  "LawSection":"General Business Law","LawCode":"Add §349-a-1, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to establishing the protecting consumers and jobs from discriminatory pricing act"
+ "ActClause":"AN ACT to amend the general business law, in relation to establishing the protecting consumers and jobs from discriminatory pricing act",
+ "SameAsPrintNo":"A9396-2025"
 }

@@ -1,16 +1,35 @@
 {
  "PrintNo":"A11300","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-05-11T12:39:14.214854Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Codes"}],
+ "Published":"2026-05-11T12:39:14.214854Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2026-05-11","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-12","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 11300A","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 11300A","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Excused"},
+    {"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
-  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"}
  ],
  "Title":"Enacts the sex trafficking accountability act",
  "Summary":"Closes the patron exclusion in the definition of advancing prostitution; expands the definition of patronizing a person for prostitution to include anything of value.",

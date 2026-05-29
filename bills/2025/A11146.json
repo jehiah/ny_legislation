@@ -1,7 +1,10 @@
 {
  "PrintNo":"A11146","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-04-24T10:23:50.086747Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"}],
+ "Published":"2026-04-24T10:23:50.086747Z","Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},{"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Health"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-04-24","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-04-28","Chamber":"ASSEMBLY"},
@@ -9,7 +12,12 @@
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 11146B","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.244","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.244","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-05-29","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -65,7 +73,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"}],
+ "Sponsors":[{"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"},{"ID":1244,"Name":"Charles Fall","Short":"FALL"}],
  "Title":"Relates to the handling of certain unclaimed human remains",
  "Summary":"Prohibits unclaimed human remains from being buried, cremated, or otherwise finally disposed of unless such remains have first been entered into the National Missing and Unidentified Persons System, and for a period of time thereafter as specified by the commissioner of health.",
  "LawSection":"Public Health Law","LawCode":"Add §4211-a, Pub Health L",

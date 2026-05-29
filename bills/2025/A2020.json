@@ -1,7 +1,10 @@
 {
  "PrintNo":"A2020","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T12:40:34.002588Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Rules"}],
+ "Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},{"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Codes"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
@@ -16,7 +19,12 @@
   {"Text":"ORDERED TO THIRD READING CAL.78","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"COMMITTED TO CODES","Date":"2026-01-12","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-13","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.219","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.219","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CODES","Date":"2026-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

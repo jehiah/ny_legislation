@@ -1,11 +1,25 @@
 {
  "PrintNo":"A11390","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-15T15:36:51.214597Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-21","Committee":"Rules"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Corporations, Authorities And Commissions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-29"},{"Type":"PASSED_SENATE","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-15","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.255","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.255","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S8397","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.1224","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

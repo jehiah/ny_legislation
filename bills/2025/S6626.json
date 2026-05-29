@@ -1,7 +1,10 @@
 {
  "PrintNo":"S6626","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-18T15:44:52.071634Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-29","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-21"}],
+ "Published":"2025-03-18T15:44:52.071634Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-29","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-21"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS","Date":"2025-03-18","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-05-21","Chamber":"SENATE"},
@@ -21,7 +24,9 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-04-29","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1208","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

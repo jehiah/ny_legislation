@@ -1,11 +1,70 @@
 {
- "PrintNo":"A11369","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-14T13:52:20.764772Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-14","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-14","Chamber":"ASSEMBLY"}],
- "Sponsors":[{"ID":519,"Name":"Deborah Glick","Short":"GLICK"}],
+ "PrintNo":"A11369","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-05-14T13:52:20.764772Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules 11369a",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-29","Committee":"Rules 11369a"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-14","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-20","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO RULES 11369A","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-20","Chamber":"ASSEMBLY",
+   "Committee":"ENVIRONMENTAL CONSERVATION",
+   "Votes":[
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Excused"},{"ID":1530,"Short":"LEE","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":1480,"Short":"SIMPSON","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1536,"Short":"SLATER","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1532,"Short":"SIMONE","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1487,"Short":"CONRAD","Vote":"Aye"},
+    {"ID":1561,"Short":"LASHER","Vote":"Aye"},{"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},
+    {"ID":1554,"Short":"KASSAY","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Excused"},{"ID":1530,"Short":"LEE","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"},{"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Enacts the \"extended producer responsibility for artificial turf act of 2026\"",
- "Summary":"Enacts the \"extended producer responsibility for artificial turf act of 2026\".",
+ "Summary":"Enacts the \"extended producer responsibility for artificial turf act\".",
  "LawSection":"Environmental Conservation Law","LawCode":"Amd En Con L, generally",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to enacting the \"extended producer responsibility for artificial turf act of 2026\"",
  "SameAsPrintNo":"S10168-2025"

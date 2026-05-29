@@ -1,7 +1,10 @@
 {
  "PrintNo":"S520","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-02T09:38:34.259655Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-25","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-25","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-03-11","Chamber":"SENATE"},
@@ -16,7 +19,9 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-25","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1038","Date":"2026-05-12","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

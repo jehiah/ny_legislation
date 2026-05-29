@@ -1,10 +1,29 @@
 {
  "PrintNo":"A3925","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-30T14:52:27.591303Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Judiciary"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-01-30","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-18","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-18","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},{"ID":1127,"Short":"WALSH","Vote":"Nay"},
+    {"ID":0,"Short":"BROWN","Vote":"Nay"},{"ID":1148,"Short":"SMITH","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
@@ -19,11 +38,11 @@
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
-  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"}
+  {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"}
  ],
  "Title":"Relates to ensuring the privacy of name change actions and of sex designation change actions; repealer",
  "Summary":"Requires the office of court administration, clerks, and all other records custodians to develop policies and procedures to ensure no identifying information or documentation relating to name change actions or sex designation change actions is visible or retrievable in any electronic database maintained by the state of New York or a subdivision thereof.",
  "LawSection":"Civil Rights Law","LawCode":"Rpld & add §§64-a & 67-b, Civ Rts L",
  "ActClause":"AN ACT to amend the civil rights law, in relation to ensuring the privacy of name change actions and of sex designation change actions; and to repeal certain provisions of such law relating thereto",
- "PreviousVersions":["S9141-2023"]
+ "SameAsPrintNo":"S10600-2025","PreviousVersions":["S9141-2023"]
 }

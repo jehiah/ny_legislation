@@ -1,11 +1,19 @@
 {
  "PrintNo":"A11313","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-11T12:43:00.917527Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Rules"}],
+ "Status":"IN_SENATE_COMM","Committee":"Health",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},{"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Health"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-05-11","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-27","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.250","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.250","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO HEALTH","Date":"2026-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

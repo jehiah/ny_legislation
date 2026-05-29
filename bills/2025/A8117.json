@@ -1,7 +1,10 @@
 {
  "PrintNo":"A8117","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-01T10:47:31.086698Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"}],
+ "Published":"2025-05-01T10:47:31.086698Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-05-01","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -9,7 +12,11 @@
   {"Text":"PRINT NUMBER 8117A","Date":"2026-03-18","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.229","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.229","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

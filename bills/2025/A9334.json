@@ -1,14 +1,25 @@
 {
  "PrintNo":"A9334","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-12-10T10:03:57.712044Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Rules"}],
+ "Published":"2025-12-10T10:03:57.712044Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Investigations And Government Operations"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-12-10","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-02-18","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9334A","Date":"2026-02-18","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.233","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.233","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"HOME RULE REQUEST","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

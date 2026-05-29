@@ -1,7 +1,11 @@
 {
  "PrintNo":"A9183","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-10-17T14:33:38.728093Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"}],
+ "Published":"2025-10-17T14:33:38.728093Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Local Government"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-10-17","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -9,7 +13,12 @@
   {"Text":"PRINT NUMBER 9183A","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.232","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.232","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

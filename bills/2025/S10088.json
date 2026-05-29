@@ -1,13 +1,17 @@
 {
  "PrintNo":"S10088","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-27T16:20:27.699348Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-11"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-13"},{"Type":"PASSED_SENATE","Date":"2026-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-04-27","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.1003","Date":"2026-05-11","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.1003","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-12","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-13","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -28,7 +32,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"}],
+ "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
  "Title":"Relates to the docketing of judgments imposing civil penalties for the violation of certain requirements imposed by the zoning resolution of the city of New York",
  "Summary":"Relates to the docketing of judgments imposing civil penalties for the violation of certain requirements imposed by the zoning resolution of the city of New York; makes other technical changes.",
  "LawSection":"New York City Administrative Code",

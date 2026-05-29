@@ -1,9 +1,10 @@
 {
  "PrintNo":"S3208","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-24T10:41:32.613268Z",
- "Status":"PASSED_SENATE",
+ "Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-04"},{"Type":"PASSED_SENATE","Date":"2026-05-07"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-04"},{"Type":"PASSED_SENATE","Date":"2026-05-07"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-07","Committee":"Housing"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-24","Chamber":"SENATE"},
@@ -16,7 +17,10 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-07","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-07","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-07","Chamber":"SENATE"},
+  {"Text":"REFERRED TO HOUSING","Date":"2026-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A2286","Date":"2026-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.220","Date":"2026-05-29","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

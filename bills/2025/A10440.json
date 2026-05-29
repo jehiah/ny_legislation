@@ -1,16 +1,24 @@
 {
- "PrintNo":"A10440","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T09:35:30.012396Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-06","Committee":"Racing And Wagering"}],
- "Actions":[{"Text":"REFERRED TO RACING AND WAGERING","Date":"2026-03-06","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10440","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-06T09:35:30.012396Z","Status":"IN_ASSEMBLY_COMM","Committee":"Racing And Wagering",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-29","Committee":"Racing And Wagering"}],
+ "Actions":[
+  {"Text":"REFERRED TO RACING AND WAGERING","Date":"2026-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO RACING AND WAGERING","Date":"2026-04-16","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10440A","Date":"2026-04-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO RACING AND WAGERING","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10440B","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"B"}
+ ],
  "Sponsors":[
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
-  {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"}
+  {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1544,"Name":"Scott Gray","Short":"GRAY"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
  ],
  "Title":"Relates to preventing minors from participating in sports wagering",
  "Summary":"Relates to preventing minors from participating in sports wagering and creating accounts on mobile sports wagering platforms; requires platforms to employ commercially reasonable and technically feasible age assurance methods.",
  "LawSection":"Racing, Pari-Mutuel Wagering and Breeding Law","LawCode":"Amd §§1367 & 1367-a, RWB L",
- "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to preventing minors from participating in sports wagering"
+ "ActClause":"AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to preventing minors from participating in sports wagering",
+ "SameAsPrintNo":"S7908-2025"
 }

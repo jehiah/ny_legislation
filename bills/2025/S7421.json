@@ -1,9 +1,9 @@
 {
- "PrintNo":"S7421","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S7421","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-04-15T15:58:12.984355Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-26"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-04-15","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1307","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 7421B","Date":"2026-05-29","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -33,7 +34,8 @@
   }
  ],
  "Sponsors":[
-  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
+  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1574,"Name":"Erik Bottcher","Short":"BOTTCHER"},
+  {"ID":1494,"Name":"Jabari Brisport","Short":"BRISPORT"},
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"},
   {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},{"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},
   {"ID":1521,"Name":"Dean Murray","Short":"MURRAY"},{"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},
@@ -41,7 +43,8 @@
   {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO"}
  ],
  "Title":"Prohibits octopus farming",
- "Summary":"Provides that no person shall engage in the aquaculture of any species of octopus in the state for the purpose of human consumption.",
- "LawSection":"Environmental Conservation Law","LawCode":"Add §13-0316-a, amd §71-0925, En Con L",
- "ActClause":"AN ACT to amend the environmental conservation law, in relation to octopus farming"
+ "Summary":"Provides that no person shall engage in the operation of a marine hatchery or in the off-bottom or on-bottom culture of any species belonging to the order Octopoda unless for scientific or educational purposes for the purpose of human consumption.",
+ "LawSection":"Environmental Conservation Law","LawCode":"Amd §§13-0316 & 71-0925, En Con L",
+ "ActClause":"AN ACT to amend the environmental conservation law, in relation to octopus farming",
+ "SameAsPrintNo":"A8043-2025"
 }

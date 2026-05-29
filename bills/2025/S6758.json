@@ -1,7 +1,10 @@
 {
  "PrintNo":"S6758","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-24T09:55:03.738408Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"}],
+ "Published":"2025-03-24T09:55:03.738408Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-24","Chamber":"SENATE"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"SENATE"},
@@ -11,7 +14,9 @@
   {"Text":"PRINT NUMBER 6758B","Date":"2026-05-05","Chamber":"SENATE","Version":"B"},
   {"Text":"1ST REPORT CAL.1095","Date":"2026-05-12","Chamber":"SENATE","Version":"B"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE","Version":"B"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE","Version":"B"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -37,8 +42,8 @@
  ],
  "Sponsors":[
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"},
-  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
-  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
+  {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"},
+  {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"}
  ],
  "Title":"Requires practitioners to discuss certain risks with a patient who is being prescribed a controlled substance or an opioid analgesic",
  "Summary":"Requires practitioners to discuss certain risks with a patient who is being prescribed a schedule II controlled substance or an opioid analgesic; requires the department of health to develop practitioner guidelines.",

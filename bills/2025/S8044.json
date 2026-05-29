@@ -1,7 +1,10 @@
 {
  "PrintNo":"S8044","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T17:06:45.249042Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"}],
+ "Published":"2025-05-15T17:06:45.249042Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Libraries"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LIBRARIES","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"REFERRED TO LIBRARIES","Date":"2026-01-07","Chamber":"SENATE"},
@@ -9,7 +12,9 @@
   {"Text":"PRINT NUMBER 8044A","Date":"2026-05-05","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1013","Date":"2026-05-12","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

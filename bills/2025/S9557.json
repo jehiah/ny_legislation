@@ -1,9 +1,9 @@
 {
  "PrintNo":"S9557","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-25T09:12:30.525863Z","Status":"SENATE_FLOOR",
+ "Published":"2026-03-25T09:12:30.525863Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-03-25","Committee":"Ethics And Internal Governance"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-05"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-05"},{"Type":"PASSED_SENATE","Date":"2026-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ETHICS AND INTERNAL GOVERNANCE","Date":"2026-03-25","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"AMENDED 9557A","Date":"2026-04-29","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING 9557B","Date":"2026-05-05","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING 9557B","Date":"2026-05-05","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -31,5 +33,6 @@
  "Title":"Expands disclosure requirements for lobbyists",
  "Summary":"Expands disclosure requirements for lobbyists to include appropriations, gubernatorial or local executive orders and tribal-state agreements.",
  "LawSection":"Legislative Law","LawCode":"Amd §§1-h & 1-j, Leg L",
- "ActClause":"AN ACT to amend the legislative law, in relation to requiring lobbyists to disclose their positions on bills"
+ "ActClause":"AN ACT to amend the legislative law, in relation to requiring lobbyists to disclose their positions on bills",
+ "SameAsPrintNo":"A9559-2025"
 }

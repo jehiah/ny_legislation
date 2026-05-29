@@ -1,13 +1,16 @@
 {
- "PrintNo":"A9396","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A9396","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-12-19T16:19:42.798835Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-12-19","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-05-01","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9396A","Date":"2026-05-01","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 9396B","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -44,10 +47,13 @@
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},
-  {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"}
+  {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
+  {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1254,"Name":"Patrick Burke","Short":"BURKE"}
  ],
  "Title":"Establishes the \"protecting consumers and jobs from discriminatory pricing act\"",
- "Summary":"Prohibits the use of electronic shelving labels, digital shelf display technology in food retail establishments and drug retail establishments; provides injunctive relief and civil penalties.",
+ "Summary":"Prohibits the use of electronic shelving labels, digital shelf display technology, and surveillance pricing in food retail establishments and drug retail establishments; provides injunctive relief and civil penalties.",
  "LawSection":"General Business Law","LawCode":"Add §349-a-1, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to establishing the protecting consumers and jobs from discriminatory pricing act"
+ "ActClause":"AN ACT to amend the general business law, in relation to establishing the protecting consumers and jobs from discriminatory pricing act",
+ "SameAsPrintNo":"S8616-2025"
 }

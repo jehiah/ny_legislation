@@ -1,11 +1,32 @@
 {
  "PrintNo":"S9350","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-04T09:18:01.377649Z","Status":"IN_SENATE_COMM","Committee":"Civil Service And Pensions",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Civil Service And Pensions"}],
+ "Published":"2026-03-04T09:18:01.377649Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Civil Service And Pensions"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-20"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-03-04","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO CIVIL SERVICE AND PENSIONS","Date":"2026-03-10","Chamber":"SENATE"},
-  {"Text":"PRINT NUMBER 9350A","Date":"2026-03-10","Chamber":"SENATE","Version":"A"}
+  {"Text":"PRINT NUMBER 9350A","Date":"2026-03-10","Chamber":"SENATE","Version":"A"},
+  {"Text":"1ST REPORT CAL.1150","Date":"2026-05-18","Chamber":"SENATE","Version":"A"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A10293A","Date":"2026-05-29","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-18","Version":"A","Chamber":"SENATE","Committee":"Civil Service And Pensions",
+   "Votes":[
+    {"ID":1574,"Name":"Erik Bottcher","Short":"BOTTCHER","Vote":"Aye"},
+    {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1492,"Name":"Mario Mattera","Short":"MATTERA","Vote":"Aye"},
+    {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1493,"Name":"Alexis Weik","Short":"WEIK","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER"}],
  "Title":"Authorizes Michael O'Brien to take the competitive civil service examination for the position of police officer and be placed on the eligible list to be a full-time police officer for the village of Le Roy",

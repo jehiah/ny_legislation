@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10424","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-05T16:12:15.765923Z",
- "Status":"IN_SENATE_COMM","Committee":"Energy And Telecommunications",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-05","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-26"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-30"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Energy And Telecommunications"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-29"},{"Type":"PASSED_SENATE","Date":"2026-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-03-05","Chamber":"ASSEMBLY"},
@@ -12,7 +13,11 @@
   {"Text":"ADVANCED TO THIRD READING CAL.338","Date":"2026-03-26","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-03-30","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-03-30","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-30","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-30","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S1236A","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.987","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

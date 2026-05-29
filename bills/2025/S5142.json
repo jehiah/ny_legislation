@@ -1,7 +1,10 @@
 {
  "PrintNo":"S5142","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-19T11:15:47.952468Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-02-19","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-25","Chamber":"SENATE"},
@@ -17,7 +20,9 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-26","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1052","Date":"2026-05-12","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

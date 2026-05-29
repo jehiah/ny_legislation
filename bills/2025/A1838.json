@@ -1,7 +1,11 @@
 {
  "PrintNo":"A1838","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-14T10:29:33.278565Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Codes"}],
+ "Published":"2025-01-14T10:29:33.278565Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},{"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Codes"},
+  {"Type":"SENATE_FLOOR","Date":"2026-05-29"},{"Type":"PASSED_SENATE","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-05","Chamber":"ASSEMBLY"},
@@ -11,7 +15,68 @@
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"AMENDED BY RESTORING TO PREVIOUS PRINT 1838A","Date":"2026-01-20","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-20","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 1838C","Date":"2026-05-20","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"PRINT NUMBER 1838C","Date":"2026-05-20","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RULES REPORT CAL.257","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.257","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REFERRED TO CODES","Date":"2026-05-29","Chamber":"SENATE","Version":"C"},
+  {"Text":"SUBSTITUTED FOR S4922C","Date":"2026-05-29","Chamber":"SENATE","Version":"C"},
+  {"Text":"3RD READING CAL.1138","Date":"2026-05-29","Chamber":"SENATE","Version":"C"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE","Version":"C"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"},{"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-05-29","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Excused"},
+    {"ID":669,"Short":"ROZIC","Vote":"Excused"},{"ID":1141,"Short":"TAYLOR","Vote":"Excused"},
+    {"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},{"ID":669,"Name":"Nily Rozic","Short":"ROZIC"},
@@ -25,7 +90,8 @@
   {"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1251,"Name":"Brian Manktelow","Short":"MANKTELOW"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},
   {"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
-  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"}
+  {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Relates to the sale and possession of self-defense spray devices in the state",
  "Summary":"Relates to the sale and possession of self-defense spray devices in the state; removes the requirement that only authorized dealers and pharmacists could sell such devices; provides that no more than two self-defense spray devices may be sold at any one time to a single purchaser; repeals certain provisions of law relating thereto.",

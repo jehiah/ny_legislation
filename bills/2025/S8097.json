@@ -1,13 +1,18 @@
 {
  "PrintNo":"S8097","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-15T18:09:12.816363Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-03-11"}],
+ "Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-03-11"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-05-15","Chamber":"SENATE"},
   {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.488","Date":"2026-03-09","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-10","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-11","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-11","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,24 +1,82 @@
 {
- "PrintNo":"A10899","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-04-08T13:02:27.759866Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Codes"}],
+ "PrintNo":"A10899","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-08T13:02:27.759866Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules 10899c",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-29","Committee":"Rules 10899c"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2026-04-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-05-15","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10899A","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 10899B","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-18","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO RULES 10899C","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"C"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-18","Chamber":"ASSEMBLY","Committee":"BANKS",
+   "Votes":[
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1258,"Short":"SAYEGH","Vote":"Excused"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"},{"ID":1477,"Short":"SEPTIMO","Vote":"Excused"},
+    {"ID":1530,"Short":"LEE","Vote":"Excused"},{"ID":1525,"Short":"RAGA","Vote":"Excused"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Aye"},{"ID":1483,"Short":"LEMONDES","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Aye"},{"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1476,"Short":"JACKSON","Vote":"Aye"},{"ID":1548,"Short":"TORRES","Vote":"Aye"},
+    {"ID":1558,"Short":"HOOKS","Vote":"Aye"},{"ID":1563,"Short":"WIEDER","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1258,"Short":"SAYEGH","Vote":"Excused"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Excused"},{"ID":1477,"Short":"SEPTIMO","Vote":"Excused"},
+    {"ID":1530,"Short":"LEE","Vote":"Excused"},{"ID":1525,"Short":"RAGA","Vote":"Excused"},
+    {"ID":1562,"Short":"WRIGHT","Vote":"Excused"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Excused"},
+    {"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1249,"Name":"Marianne Buttenschon","Short":"BUTTENSCHON"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":457,"Name":"Vivian Cook","Short":"COOK"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
-  {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}
+  {"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}
  ],
  "Title":"Relates to crypto kiosks",
- "Summary":"Provides for the registration and regulation of crypto kiosk and cashier crypto exchange operators.",
+ "Summary":"Provides for the registration and regulation of crypto kiosks and exchanges and licensing of cashier crypto exchange operators.",
  "LawSection":"Banking Law","LawCode":"Add Art 2-AAA §§76-a - 76-n, Bank L",
  "ActClause":"AN ACT to amend the banking law, in relation to crypto kiosks","SameAsPrintNo":"S9891-2025"
 }

@@ -1,10 +1,11 @@
 {
  "PrintNo":"S5265","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-20T11:18:38.45225Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-02-20T11:18:38.45225Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"},
   {"Type":"SENATE_FLOOR","Date":"2026-04-16"},{"Type":"PASSED_SENATE","Date":"2026-05-19"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-20","Chamber":"SENATE"},
@@ -29,7 +30,9 @@
   {"Text":"AMENDED ON THIRD READING (T) 5265A","Date":"2026-04-16","Chamber":"SENATE","Version":"A"},
   {"Text":"REPASSED SENATE","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A3399A","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.222","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,14 +1,16 @@
 {
- "PrintNo":"S7919","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-14T09:44:16.582404Z",
- "Status":"IN_SENATE_COMM","Committee":"Insurance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Insurance"}],
+ "PrintNo":"S7919","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-14T09:44:16.582404Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Insurance"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-05-14","Chamber":"SENATE"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INSURANCE","Date":"2026-05-29","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7919A","Date":"2026-05-29","Chamber":"SENATE","Version":"A"}
  ],
- "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],"Title":"Relates to third-party network contracts",
- "Summary":"Allows dental provider networks, certain health and hospital service corporations, and health care plans to enter into a third-party network contract to provide access to care services and discounted rates of a provider under a provider network contract.",
+ "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
+ "Title":"Relates to third-party network contracts",
+ "Summary":"Allows dental provider networks, certain health and hospital service corporations, and health care plans to enter into contracts with a third party  to gain access to services and discounted rates of a provider under a provider network contract.",
  "LawSection":"Insurance Law","LawCode":"Add §§3217-k, 4242 & 4325-a, Ins L; add §4406-j, Pub Health L",
- "ActClause":"AN ACT to amend the insurance law and the public health law, in relation to third-party network contracts",
- "SameAsPrintNo":"A6650-2025"
+ "ActClause":"AN ACT to amend the insurance law and the public health law, in relation to third-party network contracts"
 }

@@ -1,12 +1,13 @@
 {
- "PrintNo":"S9239","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-18T12:29:14.841264Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-18","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2026-04-27"}],
+ "PrintNo":"S9239","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-02-18T12:29:14.841264Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-18","Committee":"Aging"},{"Type":"SENATE_FLOOR","Date":"2026-05-29"}],
  "Actions":[
   {"Text":"REFERRED TO AGING","Date":"2026-02-18","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.726","Date":"2026-04-21","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-22","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 9239A","Date":"2026-05-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,6 +28,7 @@
   {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"}
  ],
  "Title":"Establishes the caregiver coordinating commission",
- "Summary":"Establishes the caregiver coordinating commission to coordinate statewide planning, development, and implementation of caregiver support services, including respite care, for informal family caregivers caring for those across the lifespan.",
- "LawSection":"Aged","ActClause":"AN ACT to establish the caregiver coordinating commission"
+ "Summary":"Establishes the caregiver coordinating commission to review and evaluate statewide planning, development, and implementation of caregiver support services, including respite care, for informal family caregivers caring for those across the lifespan.",
+ "LawSection":"Aged","ActClause":"AN ACT to establish the caregiver coordinating commission",
+ "SameAsPrintNo":"A10291-2025","PreviousVersions":["A10291-2025"]
 }

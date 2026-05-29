@@ -1,7 +1,10 @@
 {
  "PrintNo":"S6573","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-17T16:07:22.567834Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-05-11"}],
+ "Published":"2025-03-17T16:07:22.567834Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-05-12"},
+  {"Type":"PASSED_SENATE","Date":"2026-05-29"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-03-17","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO LOCAL GOVERNMENT","Date":"2025-05-14","Chamber":"SENATE"},
@@ -16,7 +19,10 @@
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.997","Date":"2026-05-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-05-11","Chamber":"SENATE","Version":"A"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-12","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -141,7 +147,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
+ "Sponsors":[
+  {"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
+  {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"}
+ ],
  "Title":"Requires municipal employees to attempt to identify and notify the owners of a deceased dog or cat recovered on public roads",
  "Summary":"Requires municipal employees to attempt to identify and notify the owners of a deceased dog or cat recovered on public roads by such municipal employees.",
  "LawSection":"Agriculture and Markets Law","LawCode":"Add §377-b, Ag & Mkts L",

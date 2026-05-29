@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4832","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-13T10:38:28.977766Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-02-13T10:38:28.977766Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"},{"Type":"SENATE_FLOOR","Date":"2026-04-21"},
   {"Type":"PASSED_SENATE","Date":"2026-05-19"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-13","Chamber":"SENATE"},
@@ -23,7 +24,9 @@
   {"Text":"AMENDED ON THIRD READING 4832A","Date":"2026-04-21","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A5809A","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.224","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
