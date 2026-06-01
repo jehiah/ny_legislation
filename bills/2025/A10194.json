@@ -1,17 +1,22 @@
 {
- "PrintNo":"A10194","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-12T14:09:38.024968Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-12","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-02-12","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10194","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-12T14:09:38.024968Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-30","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-02-12","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-05-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10194A","Date":"2026-05-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"},
   {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},
-  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"}
+  {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"},
+  {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"}
  ],
- "Title":"Dedicates a portion of the state and county highway system to the Harriet Tubman Underground Railroad Byway",
- "Summary":"Dedicates a portion of the state and county highway system to the Harriet Tubman Underground Railroad Byway.",
- "LawSection":"Highway Law","LawCode":"Add §342-fff, Hway L",
- "ActClause":"AN ACT to amend the highway law, in relation to dedicating a portion of the state and county highway system to the Harriet Tubman Underground Railroad Byway",
+ "Title":"Adds the Harriet Tubman Underground Railroad scenic byway into the state scenic byways system",
+ "Summary":"Adds the Harriet Tubman Underground Railroad scenic byway into the state scenic byways system.",
+ "LawSection":"Highway Law","LawCode":"Amd §349-dd, Hway L",
+ "ActClause":"AN ACT to amend the highway law, in relation to adding the Harriet Tubman Underground Railroad scenic byway into the state scenic byways system",
  "SameAsPrintNo":"S9057-2025"
 }

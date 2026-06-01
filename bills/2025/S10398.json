@@ -1,8 +1,12 @@
 {
- "PrintNo":"S10398","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-15T11:33:49.218836Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-15","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-15","Chamber":"SENATE"}],
+ "PrintNo":"S10398","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-05-15T11:33:49.218836Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-15","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-06-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10398A","Date":"2026-06-01","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
  "Title":"Relates to exempting disabled veterans from certain fees relating to physical modification of a residence to accommodate a disability",
  "Summary":"Relates to exempting disabled veterans from application fees relating to physical modification of a residence to accommodate a disability, including permit fees, plan review fees, inspection fees and reinspection fees.",

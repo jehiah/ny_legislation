@@ -1,8 +1,9 @@
 {
  "PrintNo":"A6804","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-14T10:08:09.958946Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-03-14T10:08:09.958946Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Judiciary"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-03-14","Chamber":"ASSEMBLY"},
@@ -15,7 +16,9 @@
   {"Text":"RECALLED FROM SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-29","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 6804A","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 6804A","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPASSED ASSEMBLY","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -36,6 +39,22 @@
   },
   {
    "VoteType":"","Date":"2026-05-04","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
+   "Votes":[
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":675,"Short":"STECK","Vote":"Aye"},{"ID":1150,"Short":"MIKULIN","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":1255,"Short":"MCMAHON","Vote":"Aye"},{"ID":1472,"Short":"MITAYNES","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":907,"Short":"SIMON","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-05-29","Chamber":"ASSEMBLY","Committee":"JUDICIARY",
    "Votes":[
     {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1127,"Short":"WALSH","Vote":"Aye"},
@@ -74,8 +93,8 @@
   {"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}
  ],
  "Title":"Relates to the disclosure of the records of court proceedings in certain mental hygiene proceedings",
- "Summary":"Provides that court records in a proceeding under articles 77, 78 and 81 of the mental hygiene law shall not be perused, examined, disclosed, taken or copied by any other person than a party, the attorney or counsel of a party, the guardian, the court evaluator or the court examiner except by order of the court.",
+ "Summary":"Provides that court records in a proceeding under articles 77, 78 and 81 of the mental hygiene law shall not be perused, examined, disclosed, taken or copied by any other person than a party, the attorney or counsel of a party, the guardian, the court evaluator or the court examiner except by order of the court, or the office of the attorney general.",
  "LawSection":"Mental Hygiene Law","LawCode":"Amd §81.14, Ment Hyg L",
  "ActClause":"AN ACT to amend the mental hygiene law, in relation to disclosure of the records of court proceedings",
- "PreviousVersions":["A10122-2017","A6229-2019","A4070-2021","A9448-2023"]
+ "SameAsPrintNo":"S1728-2025","PreviousVersions":["A10122-2017","A6229-2019","A4070-2021","A9448-2023"]
 }

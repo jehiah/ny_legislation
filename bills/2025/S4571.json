@@ -1,14 +1,17 @@
 {
- "PrintNo":"S4571","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-07T14:02:29.69109Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-06","Committee":"Finance"}],
+ "PrintNo":"S4571","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-07T14:02:29.69109Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-07","Chamber":"SENATE"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-25","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2025-03-06","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 4571A","Date":"2025-03-06","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-06","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-06","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-05-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 4571B","Date":"2026-05-26","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-01","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -44,7 +47,7 @@
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Establishes a floating solar incentive and education program",
  "Summary":"Directs the New York state energy research and development authority to establish a floating solar incentive and education program to provide information and resources including technical assistance, access to industry standards, and financing available through the authority or other public or private sector sources, to municipalities, developers, builders, design professionals, and potential owners for the construction of floating solar.",
- "LawSection":"Public Authorities Law","LawCode":"Add §1885, Pub Auth L",
+ "LawSection":"Public Authorities Law","LawCode":"Add §1886, Pub Auth L",
  "ActClause":"AN ACT to amend the public authorities law, in relation to establishing a floating solar incentive and education program",
  "SameAsPrintNo":"A6577-2025"
 }

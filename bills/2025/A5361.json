@@ -1,14 +1,20 @@
 {
- "PrintNo":"A5361","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-13T15:35:25.0581Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Governmental Operations"}],
+ "PrintNo":"A5361","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-02-13T15:35:25.0581Z","Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Operations",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-31","Committee":"Governmental Operations"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-02-13","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 5361A","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO GOVERNMENTAL OPERATIONS","Date":"2026-05-31","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 5361B","Date":"2026-05-31","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
-  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
+  {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"}
  ],
  "Title":"Relates to access to and signage for lactation rooms in public buildings",
  "Summary":"Relates to access to lactation rooms in public buildings; requires signage for lactation rooms in public buildings.",

@@ -1,11 +1,16 @@
 {
- "PrintNo":"A9642","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-21T16:59:11.006202Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-21","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-21","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A9642","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-21T16:59:11.006202Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-21","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9642A","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"}],
  "Title":"Requires the registration of data brokers and establishing a data deletion mechanism for consumers",
  "Summary":"Requires the registration of data brokers; imposes regulations upon data brokers; establishes a data deletion mechanism for consumers; imposes penalties upon data brokers for violations of the law.",
- "LawSection":"General Business Law","LawCode":"Add Art 42-A §§1150 - 1154, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to requiring the registration of data brokers and establishing a data deletion mechanism for consumers"
+ "LawSection":"General Business Law","LawCode":"Add Art 42-A §§1150 - 1158, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to requiring the registration of data brokers and establishing a data deletion mechanism for consumers",
+ "SameAsPrintNo":"S9088-2025"
 }

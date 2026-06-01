@@ -1,7 +1,7 @@
 {
- "PrintNo":"S1169","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S1169","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-08T12:24:28.19879Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-21","Committee":"Finance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2025-06-09","Chamber":"SENATE"},
@@ -14,7 +14,9 @@
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-05-29","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 1169B","Date":"2026-05-29","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -137,8 +139,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Relates to the development and use of certain artificial intelligence systems",
- "Summary":"Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general as well as a private right of action.",
- "LawSection":"Civil Rights Law","LawCode":"Add Art 8-A §§85 - 89-d, Civ Rts L; amd §296, Exec L",
+ "Summary":"Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general.",
+ "LawSection":"Civil Rights Law","LawCode":"Add Art 10-A §§105 - 115, Civ Rts L; amd §296, Exec L",
  "ActClause":"AN ACT to amend the civil rights law and the executive law, in relation to the use of artificial intelligence systems",
  "SameAsPrintNo":"A8884-2025"
 }

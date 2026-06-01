@@ -1,7 +1,10 @@
 {
  "PrintNo":"A8313","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-13T14:24:43.821544Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-21"}],
+ "Published":"2025-05-13T14:24:43.821544Z","Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-21"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING","Date":"2025-05-13","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HOUSING","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -13,7 +16,9 @@
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"RULES REPORT CAL.180","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.180","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.180","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -127,7 +132,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"}],
+ "Sponsors":[
+  {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},
+  {"ID":1530,"Name":"Grace Lee","Short":"LEE"}
+ ],
  "Title":"Requires NYCHA to provide information and trainings to residents regarding resident management corporations",
  "Summary":"Requires NYCHA to provide information and trainings to all residents regarding the formation of resident management corporations, the requirements of such resident management corporations and the potential benefits of creating such resident management corporations.",
  "LawSection":"Public Housing Law","LawCode":"Add §402-i, Pub Hous L",

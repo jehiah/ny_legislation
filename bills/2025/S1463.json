@@ -1,10 +1,9 @@
 {
- "PrintNo":"S1463","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-10T09:30:15.991751Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "PrintNo":"S1463","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-10T09:30:15.991751Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-30"},{"Type":"PASSED_SENATE","Date":"2026-04-21"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Ways And Means"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-01"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-01-10","Chamber":"SENATE"},
@@ -24,7 +23,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-30","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-04-21","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-04-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-04-22","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-04-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 1463B","Date":"2026-06-01","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -232,5 +235,5 @@
  "Summary":"Establishes extended producer responsibility for mattresses.","LawSection":"Environmental Conservation Law",
  "LawCode":"Add Art 27 Title 34 §§27-3401 - 27-3415, amd §71-1701, En Con L",
  "ActClause":"AN ACT to amend the environmental conservation law, in relation to establishing extended producer responsibility for mattresses",
- "PreviousVersions":["S6419-2023"]
+ "SameAsPrintNo":"A1209-2025","PreviousVersions":["S6419-2023"]
 }

@@ -1,9 +1,12 @@
 {
  "PrintNo":"S9881","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-10T15:02:12.871646Z",
- "Status":"IN_SENATE_COMM","Committee":"Cities 1",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-10","Committee":"Cities 1"}],
- "Actions":[{"Text":"REFERRED TO CITIES 1","Date":"2026-04-10","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES 1","Date":"2026-04-10","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-01","Chamber":"SENATE"}
+ ],
+ "Sponsors":[{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"}],
  "Title":"Provides for a disability retirement for certain deputy sheriff members of a retirement system in certain cities",
  "Summary":"Provides for a line of duty disability presumption for any condition of impairment of health caused by diseases of the lung, resulting in total or partial disability or death of certain deputy sheriff members of a retirement system in certain cities.",
  "LawSection":"General Municipal Law","LawCode":"Add §207-r, Gen Muni L",

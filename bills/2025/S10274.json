@@ -1,14 +1,17 @@
 {
  "PrintNo":"S10274","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-11T11:27:32.902704Z",
- "Status":"IN_SENATE_COMM","Committee":"Judiciary",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-11","Committee":"Judiciary"}],
- "Actions":[{"Text":"REFERRED TO JUDICIARY","Date":"2026-05-11","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-01","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},
-  {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},
-  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
+  {"ID":1229,"Name":"Andrew Gounardes","Short":"GOUNARDES"},{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},
+  {"ID":1551,"Name":"Christopher Ryan","Short":"RYAN C"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
-  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}
+  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}
  ],
  "Title":"Relates to access to fair and transparent real estate listings",
  "Summary":"Requires timely public advertising or marketing of listed residential properties on platforms accessible to the general public; permits non-public marketing only where the seller gives informed, written direction after receiving a standardized state disclosure that clearly explains the risks and tradeoffs of withholding a listing from public marketing.",

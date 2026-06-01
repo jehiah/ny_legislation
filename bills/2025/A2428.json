@@ -5,9 +5,31 @@
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2025-01-16","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-12","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-12","Chamber":"ASSEMBLY",
+   "Committee":"HIGHER EDUCATION",
+   "Votes":[
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":1148,"Short":"SMITH","Vote":"Aye"},{"ID":571,"Short":"STIRPE","Vote":"Aye"},
+    {"ID":907,"Short":"SIMON","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1255,"Short":"MCMAHON","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":0,"Short":"CHANDLER-WATERM","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1248,"Short":"SMULLEN","Vote":"Nay"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},{"ID":1474,"Short":"FORREST","Vote":"Excused"},
+    {"ID":469,"Short":"FITZPATRICK","Vote":"Absent"},{"ID":1245,"Short":"REILLY","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"}],
  "Title":"Requires that free menstrual products be provided in the bathrooms of private colleges and universities",
  "Summary":"Requires that free menstrual products be provided in the commonly used bathrooms of private universities.",
  "LawSection":"Public Health Law","LawCode":"Add §267-c, Pub Health L",

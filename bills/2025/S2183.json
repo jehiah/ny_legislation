@@ -1,14 +1,16 @@
 {
- "PrintNo":"S2183","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S2183","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-15T15:38:06.761543Z","Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-24","Committee":"Finance"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-01-15","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 2183A","Date":"2025-02-10","Chamber":"SENATE","Version":"A"},
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2025-02-25","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-24","Chamber":"SENATE","Version":"A"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-24","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 2183B","Date":"2026-06-01","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -42,9 +44,9 @@
    ]
   }
  ],
- "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],"Title":"Enacts the \"electric super highway act\"",
- "Summary":"Enacts the \"electric super highway act\", requiring alternative fuels to be available for public use along the New York state thruway after November 1, 2025 and providing each recommended alternative fuel at least every one hundred twenty miles on both sides of the thruway; defines \"alternative fuel\".",
- "LawSection":"Energy Law","LawCode":"Amd §1-103, add §5-129, Energy L; amd §354, Pub Auth L",
- "ActClause":"AN ACT to amend the energy law and the public authorities law, in relation to the availability of alternative fuels along the New York state thruway",
+ "Sponsors":[{"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"}],"Title":"Enacts the \"Greener Highways Act\"",
+ "Summary":"Enacts the \"Greener Highways Act\", requiring alternative fuels to be available for public use along the New York state thruway after November 1, 2029 and providing each recommended alternative fuel at least every one hundred twenty miles on both sides of the thruway; defines \"alternative fuel\".",
+ "LawSection":"Public Authorities Law","LawCode":"Amd §§1851, 1855 & 354, Pub Auth L",
+ "ActClause":"AN ACT to amend the public authorities law, in relation to the availability of alternative fuels along the New York state thruway",
  "PreviousVersions":["S1988-2007","S1938-2009","S1067-2011","S1618-2013","S1411-2015","S2239-2017","S3597-2019","S3288-2021","S4941-2023"]
 }

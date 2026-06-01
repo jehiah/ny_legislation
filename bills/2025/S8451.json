@@ -1,10 +1,14 @@
 {
- "PrintNo":"S8451","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-07-07T11:33:55.744346Z",
- "Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Internet And Technology"}],
+ "PrintNo":"S8451","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-07-07T11:33:55.744346Z","Status":"IN_SENATE_COMM","Committee":"Internet And Technology",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Internet And Technology"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-07-07","Chamber":"SENATE"},
-  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8451A","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
+  {"Text":"PRINT NUMBER 8451B","Date":"2026-06-01","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},
@@ -18,8 +22,8 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"}
  ],
  "Title":"Enacts the New York fundamental artificial intelligence requirements in (FAIR) news act",
- "Summary":"Enacts the \"New York fundamental artificial intelligence requirements in (FAIR) news act\"; provides requirements for fairness in disclosures to news media workers, news media consumers, oversight of AI systems, and workplace protections for news media workers.",
- "LawSection":"General Business Law","LawCode":"Add Art 42-A §§1150 - 1155, Gen Bus L; amd §79-h, Civ Rts L",
- "ActClause":"AN ACT to amend the general business law and the civil rights law, in relation to enacting the \"New York fundamental artificial intelligence requirements in (FAIR) news act\"",
+ "Summary":"Enacts the \"New York fundamental artificial intelligence requirements in (FAIR) news act\"; provides transparency requirements for news media content composed, authored, or otherwise created through generative AI.",
+ "LawSection":"General Business Law","LawCode":"Add Art 48 §§1800 - 1803, Gen Bus L",
+ "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"New York fundamental artificial intelligence requirements in (FAIR) news act\"",
  "SameAsPrintNo":"A8962-2025"
 }

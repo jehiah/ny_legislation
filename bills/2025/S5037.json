@@ -1,7 +1,7 @@
 {
- "PrintNo":"S5037","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-18T13:22:17.199546Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-04"}],
+ "PrintNo":"S5037","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-18T13:22:17.199546Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-11"}],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-02-18","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.606","Date":"2025-03-25","Chamber":"SENATE"},
@@ -16,7 +16,9 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-02-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.847","Date":"2026-04-28","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-29","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 5037A","Date":"2026-05-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A4603A","Date":"2026-06-01","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -151,7 +153,7 @@
  ],
  "Title":"Establishes visiting policies for incarcerated individuals",
  "Summary":"Establishes visiting policies for incarcerated people, to provide incarcerated people opportunities for personal contact with relatives, friends, clergy, volunteers and other persons to promote better institutional adjustment and better community adjustment upon release.",
- "LawSection":"Correction Law","LawCode":"Add §138-b, Cor L",
+ "LawSection":"Correction Law","LawCode":"Add §138-c, Cor L",
  "ActClause":"AN ACT to amend the correction law, in relation to the establishment of visiting policies for incarcerated individuals",
- "PreviousVersions":["A7241-2017","S2698-2019","S2841-2021","S3318-2023"]
+ "SameAsPrintNo":"A4603-2025","PreviousVersions":["A7241-2017","S2698-2019","S2841-2021","S3318-2023"]
 }

@@ -1,12 +1,16 @@
 {
- "PrintNo":"A1210","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A1210","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-01-09T10:36:28.371363Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-24","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-09","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-04-24","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 1210A","Date":"2026-04-24","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 1210A","Date":"2026-04-24","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 1210B","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 1210C","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":533,"Name":"Jeffrey Dinowitz","Short":"DINOWITZ"},
@@ -14,8 +18,8 @@
   {"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"}
  ],
  "Title":"Establishes a waiting period before a firearm, shotgun or rifle may be delivered to a person",
- "Summary":"Establishes a three calendar day waiting period from contact of the New York State National Instant Background Check System (NYS NICS) before a firearm, shotgun or rifle may be delivered to a person; provides exceptions where a person possesses a license to carry or possess a pistol, revolver, or semiautomatic rifle.",
+ "Summary":"Establishes a three calendar day waiting period from contact of the New York State National Instant Background Check System (NYS NICS) before a firearm, shotgun or rifle may be delivered to a person; provides exceptions where a person possesses a license to purchase, carry or possess a pistol, revolver, or semiautomatic rifle.",
  "LawSection":"Penal Law","LawCode":"Amd §§400.00 & 400.20, Pen L; amd §§897 & 898, Gen Bus L",
  "ActClause":"AN ACT to amend the penal law and the general business law, in relation to establishing a waiting period before a firearm, shotgun or rifle may be delivered to a person",
- "PreviousVersions":["A11287-2017","A890-2019","A449-2021","A4261-2023"]
+ "SameAsPrintNo":"S9338-2025","PreviousVersions":["A11287-2017","A890-2019","A449-2021","A4261-2023"]
 }
