@@ -1,15 +1,16 @@
 {
- "PrintNo":"S10200","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-05T11:05:42.4964Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"}],
+ "PrintNo":"S10200","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-05-05T11:05:42.4964Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-01"}],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2026-05-05","Chamber":"SENATE"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-01","Chamber":"SENATE"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-01","Chamber":"SENATE"},
+  {"Text":"ORDERED TO THIRD READING CAL.1510","Date":"2026-06-01","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 10200A","Date":"2026-06-01","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1140,"Name":"Brian Kavanagh","Short":"KAVANAGH"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"}],
  "Title":"Relates to energy efficiency improvements and certain alterations to multiple dwellings",
  "Summary":"Provides for energy efficiency improvements to certain windows; relates to certain alterations concerning windows and HVAC equipment in multiple dwellings.",
  "LawSection":"Multiple Dwelling Law","LawCode":"Amd Mult Dwell L, generally",
- "ActClause":"AN ACT to amend the multiple dwelling law, in relation to energy efficiency improvements and certain alterations to multiple dwellings",
- "SameAsPrintNo":"A11319-2025"
+ "ActClause":"AN ACT to amend the multiple dwelling law, in relation to energy efficiency improvements and certain alterations to multiple dwellings"
 }

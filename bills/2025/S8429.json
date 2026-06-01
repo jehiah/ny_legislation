@@ -1,16 +1,31 @@
 {
- "PrintNo":"S8429","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-10T15:58:00.252314Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-11","Committee":"Finance"}],
+ "PrintNo":"S8429","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-06-10T15:58:00.252314Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Finance"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-10","Chamber":"SENATE"},
   {"Text":"REFERRED TO DISABILITIES","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-11","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-11","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO FINANCE","Date":"2026-06-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8429A","Date":"2026-06-01","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-11","Chamber":"SENATE","Committee":"Disabilities",
+   "Votes":[
+    {"ID":1522,"Name":"Jake Ashby","Short":"ASHBY","Vote":"Aye"},
+    {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY","Vote":"Aye"},
+    {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1518,"Name":"William Weber","Short":"WEBER","Vote":"Aye"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}],
- "Title":"Authorizes holders of certain operating certificates to employ or contract with applied behavior analysts and mental health counselors",
- "Summary":"Authorizes holders of certain operating certificates for treatment of persons with developmental disabilities to employ or contract with applied behavior analysts and mental health counselors.",
+ "Title":"Relates to holders of certain operating certificates authorized to provide behavioral analysis services, or to employ or contract with applied behavior analysts and mental health counselors",
+ "Summary":"Authorizes holders of certain operating certificates for treatment of persons with developmental disabilities to provide behavioral analysis services, so long as the professional providing such services is operating within their scope of practice; authorizes holders of such operating certificates to employ or contract with applied behavior analysts and mental health counselors.",
  "LawSection":"Mental Hygiene Law","LawCode":"Amd §16.03, Ment Hyg L",
- "ActClause":"AN ACT to amend the mental hygiene law, in relation to authorizing holders of certain operating certificates to employ or contract with applied behavior analysts and mental health counselors",
- "SameAsPrintNo":"A8751-2025"
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to holders of certain operating certificates authorized to provide behavioral analysis services, or to employ or contract with applied behavior analysts and mental health counselors"
 }
