@@ -1,11 +1,13 @@
 {
- "PrintNo":"S440","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2024-12-31T11:57:02.574046Z",
- "Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Crime Victims, Crime And Correction"}],
+ "PrintNo":"S440","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2024-12-31T11:57:02.574046Z","Status":"IN_SENATE_COMM","Committee":"Crime Victims, Crime And Correction",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Crime Victims, Crime And Correction"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"REFERRED TO ELECTIONS","Date":"2026-01-07","Chamber":"SENATE"},
-  {"Text":"REPORTED AND COMMITTED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-04-21","Chamber":"SENATE"}
+  {"Text":"REPORTED AND COMMITTED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-04-21","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 440A","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -29,14 +31,15 @@
   {"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"},{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"},
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1225,"Name":"John Liu","Short":"LIU"},
   {"ID":1237,"Name":"Rachel May","Short":"MAY"},{"ID":1143,"Name":"Shelley Mayer","Short":"MAYER"},
-  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
-  {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},{"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},
+  {"ID":1226,"Name":"Jessica Ramos","Short":"RAMOS"},{"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},
+  {"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},{"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA"},
+  {"ID":373,"Name":"José M. Serrano","Short":"SERRANO"},{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"},
   {"ID":1575,"Name":"Jeremy Zellner","Short":"ZELLNER"}
  ],
  "Title":"Relates to voting rights and access for incarcerated individuals",
  "Summary":"Relates to voting rights and access for incarcerated individuals; authorizes polling places to be available at correctional facilities and local facilities; requires such facilities to provide persons detained or confined in such facilities access to register to vote or apply for an absentee ballot; requires voting information to be included in the inmate handbook.",
  "LawSection":"Election Law",
- "LawCode":"Add §§8-109, 8-415 & 3-507, amd §§8-406, 8-407 & 17-208, El L; amd §§500-j, 146, 75, 510 & 137, Cor L; amd §§1057-a & 3202, NYC Chart",
+ "LawCode":"Add §§8-109 & 8-415, amd §17-208, El L; amd §§75 & 510, Cor L; amd §§1057-a & 3202, NYC Chart",
  "ActClause":"AN ACT to amend the election law, the correction law and the New York city charter, in relation to voting rights and access for incarcerated individuals",
  "SameAsPrintNo":"A2121-2025","PreviousVersions":["S6875-2023"]
 }

@@ -1,10 +1,13 @@
 {
- "PrintNo":"S1443","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-09T15:40:04.557136Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"}],
+ "PrintNo":"S1443","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-09T15:40:04.557136Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-01-09","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-02-25","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 1443A","Date":"2026-02-25","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1370,"Name":"George Borrello","Short":"BORRELLO"}],
  "Title":"Authorizes the town justice of the town of Rushford, county of Allegany, to be a nonresident of such town",

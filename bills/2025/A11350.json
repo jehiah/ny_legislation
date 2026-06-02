@@ -1,12 +1,15 @@
 {
  "PrintNo":"A11350","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-13T14:12:56.431489Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-01"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-05-13","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-05-29","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-01","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-06-01","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.326","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.326","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S5069","Date":"2026-06-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -79,7 +82,7 @@
   {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
   {"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},
-  {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"}
+  {"ID":1486,"Name":"Jen Lunsford","Short":"LUNSFORD"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}
  ],
  "Title":"Provides a filing extension for the \"enhanced\" STAR exemption to eligible applicants",
  "Summary":"Provides a filing extension for the \"enhanced\" STAR exemption to initial applicants provided that such applicants have not been granted such extension before and such applicants are otherwise entitled to the exemption.",

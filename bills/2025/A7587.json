@@ -1,12 +1,66 @@
 {
  "PrintNo":"A7587","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-01T14:29:56.673639Z","Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Cities"}],
+ "Published":"2025-04-01T14:29:56.673639Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-21","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-02"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-02"},{"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CITIES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO CITIES","Date":"2026-05-11","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 7587A","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 7587A","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.344","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.344","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-21","Chamber":"ASSEMBLY","Committee":"CITIES",
+   "Votes":[
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},
+    {"ID":1577,"Short":"POWERS","Vote":"Nay"},{"ID":1568,"Short":"BOLOGNA","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-06-02","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":468,"Short":"RAMOS","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1546,"Short":"DAIS","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":539,"Short":"PRETLOW","Vote":"Aye"},{"ID":519,"Short":"GLICK","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":576,"Short":"LUPARDO","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":655,"Short":"DAVILA","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1118,"Short":"VANEL","Vote":"Aye"},
+    {"ID":1528,"Short":"CHANG","Vote":"Nay"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Nay"},
+    {"ID":499,"Short":"BROOK-KRASNY","Vote":"Nay"},{"ID":1527,"Short":"NOVAKHOV","Vote":"Nay"},
+    {"ID":1577,"Short":"POWERS","Vote":"Nay"},{"ID":608,"Short":"RA","Vote":"Nay"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Nay"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":908,"Short":"BRABENEC","Vote":"Nay"},{"ID":635,"Short":"PALMESANO","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":1148,"Short":"SMITH","Vote":"Nay"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Nay"},{"ID":1465,"Short":"GANDOLFO","Vote":"Nay"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Excused"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Excused"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},{"ID":1560,"Name":"Kalman Yeger","Short":"YEGER"}],
  "Title":"Requires compliance with the city's uniform land use review procedure",

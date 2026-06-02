@@ -1,9 +1,10 @@
 {
  "PrintNo":"A10510","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T10:13:18.211884Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-20"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"},{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2026-03-06","Chamber":"ASSEMBLY"},
@@ -12,7 +13,10 @@
   {"Text":"RULES REPORT CAL.156","Date":"2026-05-20","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.156","Date":"2026-05-20","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-01","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO SENATE","Date":"2026-06-01","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-01","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S9251","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.1292","Date":"2026-06-02","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -67,7 +71,8 @@
   {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
-  {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"}
+  {"ID":1547,"Name":"Patrick J. Carroll","Short":"CARROLL P"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"}
  ],
  "Title":"Prohibits gas and electric corporations from recovering costs related to labor-related legal activity or workers' compensation loss adjustment expenses from ratepayers",
  "Summary":"Prohibits gas and electric corporations from recovering labor-related legal costs or workers' compensation loss adjustment expenses from ratepayers through rates, charges, surcharges, adjustment mechanisms, riders, or reconciliation mechanisms; defines labor-related legal activity.",

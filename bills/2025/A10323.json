@@ -1,8 +1,13 @@
 {
- "PrintNo":"A10323","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-20T16:55:16.774954Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-20","Committee":"Cities"}],
- "Actions":[{"Text":"REFERRED TO CITIES","Date":"2026-02-20","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10323","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-02-20T16:55:16.774954Z","Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-30","Committee":"Cities"}],
+ "Actions":[
+  {"Text":"REFERRED TO CITIES","Date":"2026-02-20","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO CITIES","Date":"2026-05-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10323A","Date":"2026-05-30","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1459,"Name":"Khaleel Anderson","Short":"ANDERSON"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
@@ -11,8 +16,8 @@
   {"ID":655,"Name":"Maritza Davila","Short":"DAVILA"}
  ],
  "Title":"Allows commuter vans to accept hails from prospective passengers in the street",
- "Summary":"Allows commuter vans to accept hails from prospective passengers in the street; directs the New York city taxi and limousine commission to submit to the mayor and the speaker of the council and publish on its website a report on an evaluation of the impact, if any, of authorizing commuter vans to accept hails from passengers in the street on the safe and efficient operation of commuter van services.",
- "LawSection":"New York City Administrative Code","LawCode":"Amd §§19-502, 19-504, 19-516 & 19-529.7, NYC Ad Cd",
- "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to allowing commuter vans to accept hails from prospective passengers in the street",
+ "Summary":"Directs the New York city taxi and limousine commission to establish a pilot program to evaluate the impact of commuter vans accepting street hails; authorizes commuter vans to accept hails from prospective passengers in the street in certain locations until June thirtieth, two thousand thirty; directs the New York city taxi and limousine commission to submit a report evaluating such pilot program to the mayor, the speaker of the council, the governor, the temporary president of the senate, and the speaker of the assembly, no later than February first, two thousand twenty-eight and annually thereafter until the completion of such pilot program.",
+ "LawSection":"New York City Administrative Code","LawCode":"Amd §§19-502, 19-504 & 19-516, NYC Ad Cd",
+ "ActClause":"AN ACT to amend the administrative code of the city of New York, in relation to establishing a pilot program to evaluate the impact of commuter vans accepting hails from prospective passengers in the street",
  "SameAsPrintNo":"S9358-2025"
 }

@@ -1,9 +1,10 @@
 {
  "PrintNo":"A6522","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-05T14:00:43.778036Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Published":"2025-03-05T14:00:43.778036Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},{"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Insurance"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},{"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Insurance"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-03-05","Chamber":"ASSEMBLY"},
@@ -14,11 +15,31 @@
   {"Text":"ADVANCED TO THIRD READING CAL.411","Date":"2026-04-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-05-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-05-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED FOR S2113A","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"3RD READING CAL.1124","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
    "VoteType":"Favorable","Date":"2026-04-29","Chamber":"ASSEMBLY","Committee":"INSURANCE",
+   "Votes":[
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1485,"Short":"JENSEN","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1543,"Short":"BENDETT","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1459,"Short":"ANDERSON","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1545,"Short":"BERGER","Vote":"Aye"},
+    {"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},{"ID":1564,"Short":"KAY","Vote":"Aye"},
+    {"ID":1560,"Short":"YEGER","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":900,"Short":"DILAN","Vote":"Excused"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Excused"},{"ID":1563,"Short":"WIEDER","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-05-04","Chamber":"ASSEMBLY","Committee":"INSURANCE",
    "Votes":[
     {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
     {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},

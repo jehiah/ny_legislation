@@ -1,10 +1,10 @@
 {
  "PrintNo":"A622","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-06T14:25:29.41147Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Published":"2025-01-06T14:25:29.41147Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-02","Committee":"Rules 622b"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-31"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Insurance"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-31","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -19,7 +19,9 @@
   {"Text":"AMENDED ON THIRD READING 622C","Date":"2026-01-12","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-03-31","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-03-31","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-03-31","Chamber":"SENATE","Version":"C"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-03-31","Chamber":"SENATE","Version":"C"},
+  {"Text":"SUBSTITUTED FOR S5955B","Date":"2026-06-02","Chamber":"SENATE","Version":"C"},
+  {"Text":"3RD READING CAL.487","Date":"2026-06-02","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

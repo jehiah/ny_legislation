@@ -1,7 +1,7 @@
 {
- "PrintNo":"S3789","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "PrintNo":"S3789","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
  "Published":"2025-01-30T09:01:45.543513Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-05-14"}],
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Banks"},{"Type":"SENATE_FLOOR","Date":"2026-06-02"}],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2025-01-30","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.390","Date":"2025-02-25","Chamber":"SENATE"},
@@ -12,7 +12,9 @@
   {"Text":"REFERRED TO BANKS","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1027","Date":"2026-05-12","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 3789B","Date":"2026-05-19","Chamber":"SENATE","Version":"B"},
+  {"Text":"AMENDED ON THIRD READING 3789C","Date":"2026-06-02","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {
@@ -45,5 +47,5 @@
  "Summary":"Relates to civil penalties for certain fraud or misrepresentation of a material fact with respect to a financial product or service.",
  "LawSection":"Financial Services Law","LawCode":"Amd §408, Fin Serv L",
  "ActClause":"AN ACT to amend the financial services law, in relation to civil penalties for certain fraud or misrepresentation of a material fact with respect to a financial product or service",
- "PreviousVersions":["S6639-2023"]
+ "SameAsPrintNo":"A3459-2025","PreviousVersions":["S6639-2023"]
 }

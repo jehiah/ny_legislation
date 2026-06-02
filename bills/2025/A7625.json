@@ -1,14 +1,16 @@
 {
  "PrintNo":"A7625","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-01T14:45:17.597552Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"}],
+ "Published":"2025-04-01T14:45:17.597552Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"}],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ENERGY","Date":"2025-06-02","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 7625A","Date":"2025-06-02","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO ENERGY","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.228","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.228","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -63,7 +65,7 @@
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1530,"Name":"Grace Lee","Short":"LEE"},
   {"ID":1468,"Name":"Jessica Gonzalez-Rojas","Short":"GONZALEZ-ROJAS"},
-  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"}
+  {"ID":1242,"Name":"Catalina Cruz","Short":"CRUZ"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"}
  ],
  "Title":"Relates to requiring gas pipeline facilities to accelerate the repair, rehabilitation, and replacement of equipment or pipelines that are leaking or leak prone",
  "Summary":"Requires gas pipeline facilities to accelerate the repair, rehabilitation, and replacement of equipment or pipelines that are leaking or leak prone and increase safety reporting relating to gas pipeline leaks; requires the public service commission to establish timelines for the repair, rehabilitation or replacement of leaking or leak prone infrastructure; requires the commission to provide a gas safety report to the legislature.",

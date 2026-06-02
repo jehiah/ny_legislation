@@ -1,15 +1,16 @@
 {
- "PrintNo":"S9056","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-28T11:40:05.506206Z",
- "Status":"SENATE_FLOOR",
+ "PrintNo":"S9056","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-28T11:40:05.506206Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-28","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-07"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-28","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.943","Date":"2026-05-05","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-06","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-07","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-07","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING 9056A","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -32,8 +33,8 @@
   }
  ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
- "Title":"Relates to a comprehensive study of worker safety on highway road projects",
- "Summary":"Directs the commissioner of transportation to enter into a contract with a third-party entity to conduct a comprehensive study of worker safety on highway road projects.",
+ "Title":"Establishes a comprehensive study of highway construction and maintenance worker safety",
+ "Summary":"Directs the department of transportation to conduct a comprehensive study of highway construction and maintenance worker safety; directs the department to gather feedback from stakeholders; requires the department to submit a report on its findings and recommendations.",
  "LawSection":"Transportation",
  "ActClause":"AN ACT in relation to establishing a comprehensive study examining highway safety standards and necessary worker protection improvements",
  "SameAsPrintNo":"A10066-2025"

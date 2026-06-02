@@ -1,7 +1,7 @@
 {
  "PrintNo":"S8389","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-06-06T16:30:14.163611Z",
- "Status":"IN_SENATE_COMM","Committee":"Labor",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Labor"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-06-06","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1937","Date":"2025-06-12","Chamber":"SENATE"},
@@ -10,7 +10,8 @@
   {"Text":"REFERRED TO LABOR","Date":"2025-06-12","Chamber":"ASSEMBLY"},
   {"Text":"DIED IN ASSEMBLY","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-02","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -112,5 +113,6 @@
  "Title":"Relates to the New York state workforce development board",
  "Summary":"Renames the New York state workforce investment board as the New York state workforce development board; revises the duties of the board.",
  "LawSection":"Labor Law","LawCode":"Amd §852, Lab L",
- "ActClause":"AN ACT to amend the labor law, in relation to the New York state workforce development board"
+ "ActClause":"AN ACT to amend the labor law, in relation to the New York state workforce development board",
+ "SameAsPrintNo":"A10267-2025"
 }

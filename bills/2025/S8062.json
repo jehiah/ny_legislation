@@ -1,11 +1,9 @@
 {
- "PrintNo":"S8062","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-15T17:29:02.151911Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Corporations, Authorities And Commissions",
+ "PrintNo":"S8062","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-15T17:29:02.151911Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-26"},{"Type":"PASSED_SENATE","Date":"2026-04-15"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-16","Committee":"Corporations, Authorities And Commissions"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-05-15","Chamber":"SENATE"},
@@ -26,7 +24,11 @@
   {
    "Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-04-16","Chamber":"ASSEMBLY",
    "Version":"A"
-  }
+  },
+  {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING (T) 8062B","Date":"2026-06-02","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -210,8 +212,9 @@
   {"ID":1515,"Name":"Lea Webb","Short":"WEBB"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1499,"Name":"Peter Oberacker","Short":"OBERACKER"}
  ],
- "Title":"Establishes a usage monitor program",
- "Summary":"Establishes a usage monitor program for the purposes of notifying residential customers when energy usage exceeds a cost or usage threshold in a given billing period determined by the residential customer.",
- "LawSection":"Public Service Law","LawCode":"Amd §44, Pub Serv L",
- "ActClause":"AN ACT to amend the public service law, in relation to establishing a usage monitor program"
+ "Title":"Requires certain utility corporations and the Long Island power authority to establish a meter usage monitor program",
+ "Summary":"Requires certain utility corporations and the Long Island power authority to establish a meter usage monitor program for the purposes of notifying residential customers when energy usage exceeds a cost or usage threshold in a given billing period determined by the residential customer.",
+ "LawSection":"Public Service Law","LawCode":"Add §39-a, Pub Serv L; add Art 5 Title 1-A §1020-nn, Pub Auth L",
+ "ActClause":"AN ACT to amend the public service law and the public authorities law, in relation to requiring certain utility corporations and the Long Island power authority to establish a meter usage monitoring program",
+ "SameAsPrintNo":"A8823-2025"
 }

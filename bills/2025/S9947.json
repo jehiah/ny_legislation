@@ -1,8 +1,13 @@
 {
- "PrintNo":"S9947","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-16T15:43:29.552736Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-16","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-04-16","Chamber":"SENATE"}],
+ "PrintNo":"S9947","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-16T15:43:29.552736Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-04-16","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-05-27","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9947A","Date":"2026-05-27","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"}],
  "Title":"Relates to the collection and use of foreign fire insurance premium taxes",
  "Summary":"Updates provisions regarding the collection and use of foreign fire insurance premium taxes by the Centerport Volunteer Exempt Firefighter's Benevolent Association.",

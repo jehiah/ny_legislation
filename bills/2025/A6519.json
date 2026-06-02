@@ -1,14 +1,17 @@
 {
- "PrintNo":"A6519","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-05T13:59:55.575872Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Transportation"}],
+ "PrintNo":"A6519","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-03-05T13:59:55.575872Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-03-05","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-06-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 6519A","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},{"ID":1135,"Name":"Angelo J. Morinello","Short":"MORINELLO"},
-  {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"}
+  {"ID":1248,"Name":"Robert Smullen","Short":"SMULLEN"},{"ID":480,"Name":"David McDonough","Short":"MCDONOUGH"},
+  {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
  ],
  "Title":"Relates to demonstration programs imposing monetary liability on the owner of a vehicle for failure of an operator thereof to comply with certain posted maximum speed limits in the town of Yorktown",
  "Summary":"Authorizes the town of Yorktown, Westchester county, shall have the ability to install and operate photo speed violation monitoring systems within construction or maintenance work areas that fall within the border or jurisdiction of such municipality; makes related provisions.",

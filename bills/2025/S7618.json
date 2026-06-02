@@ -1,11 +1,11 @@
 {
  "PrintNo":"S7618","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-23T11:12:45.931168Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-04-23T11:12:45.931168Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-05-05"},
   {"Type":"PASSED_SENATE","Date":"2026-05-11"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Agriculture"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-04-23","Chamber":"SENATE"},
@@ -26,7 +26,9 @@
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-11","Chamber":"SENATE","Version":"B"},
   {"Text":"REFERRED TO AGRICULTURE","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"SUBSTITUTED FOR A7291B","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.264","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.264","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

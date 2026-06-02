@@ -1,15 +1,20 @@
 {
- "PrintNo":"A10066","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-30T13:57:04.49582Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10066","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-30T13:57:04.49582Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10066A","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":570,"Name":"William Magnarelli","Short":"MAGNARELLI"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
-  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":500,"Name":"William Colton","Short":"COLTON"}
+  {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"}
  ],
- "Title":"Relates to a comprehensive study of worker safety on highway road projects",
- "Summary":"Directs the commissioner of transportation to enter into a contract with a third-party entity to conduct a comprehensive study of worker safety on highway road projects.",
+ "Title":"Establishes a comprehensive study of highway construction and maintenance worker safety",
+ "Summary":"Directs the department of transportation to conduct a comprehensive study of highway construction and maintenance worker safety; directs the department to gather feedback from stakeholders; requires the department to submit a report on its findings and recommendations.",
  "LawSection":"Transportation",
  "ActClause":"AN ACT in relation to establishing a comprehensive study examining highway safety standards and necessary worker protection improvements",
  "SameAsPrintNo":"S9056-2025"

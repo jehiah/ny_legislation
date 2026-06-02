@@ -1,12 +1,15 @@
 {
- "PrintNo":"A10898","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-08T13:02:09.404774Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-08","Committee":"Real Property Taxation"}],
- "Actions":[{"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-04-08","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10898","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-08T13:02:09.404774Z","Status":"IN_ASSEMBLY_COMM","Committee":"Real Property Taxation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Real Property Taxation"}],
+ "Actions":[
+  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-04-08","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2026-06-02","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10898A","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":1511,"Name":"Jake Ryan Blumencranz","Short":"BLUMENCRANZ"}],
  "Title":"Authorizes the Hicksville Water District to receive retroactive real property tax exempt status",
  "Summary":"Authorizes the Hicksville Water District to receive retroactive real property tax exempt status.",
  "LawSection":"Real Property Taxation",
- "ActClause":"AN ACT authorizing the Hicksville Water District to receive retroactive real property tax exempt status",
- "SameAsPrintNo":"S10095-2025"
+ "ActClause":"AN ACT authorizing the Hicksville Water District to receive retroactive real property tax exempt status"
 }

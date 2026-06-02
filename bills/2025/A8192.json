@@ -1,8 +1,7 @@
 {
  "PrintNo":"A8192","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-05T17:22:05.733484Z","Status":"IN_ASSEMBLY_COMM",
- "Committee":"Tourism, Parks, Arts And Sports Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Tourism, Parks, Arts And Sports Development"}],
+ "Published":"2025-05-05T17:22:05.733484Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-02"}],
  "Actions":[
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2025-05-05","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -20,11 +19,66 @@
    "Text":"AMEND (T) AND RECOMMIT TO TOURISM, PARKS, ARTS AND SPORTS DEVELOPMENT","Date":"2026-05-13",
    "Chamber":"ASSEMBLY","Version":"B"
   },
-  {"Text":"PRINT NUMBER 8192C","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"PRINT NUMBER 8192C","Date":"2026-05-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-20","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RULES REPORT CAL.347","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.347","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"C"}
  ],
- "Sponsors":[{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"}],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-20","Chamber":"ASSEMBLY",
+   "Committee":"TOURISM, ARTS AND SPORTS DEVELOPMENT",
+   "Votes":[
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1573,"Short":"CASHMAN","Vote":"Aye"},{"ID":1577,"Short":"POWERS","Vote":"Aye"},
+    {"ID":1480,"Short":"SIMPSON","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"Favorable","Date":"2026-06-02","Chamber":"ASSEMBLY","Committee":"RULES",
+   "Votes":[
+    {"ID":659,"Short":"KIM","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1152,"Short":"TAGUE","Vote":"Aye"},
+    {"ID":886,"Short":"WOERNER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":0,"Short":"CARROLL","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":1254,"Short":"BURKE","Vote":"Aye"},{"ID":1484,"Short":"GALLAHAN","Vote":"Aye"},
+    {"ID":1244,"Short":"FALL","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1535,"Short":"SHIMSKY","Vote":"Aye"},
+    {"ID":1559,"Short":"VALDEZ","Vote":"Aye"},{"ID":1561,"Short":"LASHER","Vote":"Aye"},
+    {"ID":1573,"Short":"CASHMAN","Vote":"Aye"},{"ID":1577,"Short":"POWERS","Vote":"Aye"},
+    {"ID":608,"Short":"RA","Vote":"Aye"},{"ID":539,"Short":"PRETLOW","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Aye"},
+    {"ID":519,"Short":"GLICK","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":635,"Short":"PALMESANO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":1245,"Short":"REILLY","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},{"ID":534,"Short":"BENEDETTO","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":576,"Short":"LUPARDO","Vote":"Aye"},
+    {"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},{"ID":655,"Short":"DAVILA","Vote":"Aye"},
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":633,"Short":"BRONSON","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1105,"Short":"HUNTER","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":535,"Short":"HEASTIE","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":591,"Short":"PEOPLES-STOKES","Vote":"Excused"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Excused"},{"ID":1480,"Short":"SIMPSON","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"}],
  "Title":"Requires signage be placed alongside art and artifacts stolen during the transatlantic slave period and the domestic slave trade period indicating such material was stolen",
  "Summary":"Requires signage be placed alongside art and artifacts, including art and artifacts created using metal materials used in the exchange for enslaved human captives, which were stolen during the transatlantic slave period and the domestic slave trade period, between the 16th and 19th centuries, with its peak between 1700 and 1870, indicating such information.",
  "LawSection":"Education Law","LawCode":"Amd §233-aa, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to requiring signage be placed alongside cultural materials, including artwork and artifacts stolen during the transatlantic slave period and the domestic slave trade period, between the 16th and 19th centuries, with its peak between 1700 and 1870, indicating such cultural material was stolen and/or made with materials used in the exchange for enslaved human captives"
+ "ActClause":"AN ACT to amend the education law, in relation to requiring signage be placed alongside cultural materials, including artwork and artifacts stolen during the transatlantic slave period and the domestic slave trade period, between the 16th and 19th centuries, with its peak between 1700 and 1870, indicating such cultural material was stolen and/or made with materials used in the exchange for enslaved human captives",
+ "SameAsPrintNo":"S10107-2025"
 }

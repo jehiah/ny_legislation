@@ -1,9 +1,13 @@
 {
- "PrintNo":"S10348","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-14T11:10:54.22285Z",
- "Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Consumer Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-05-14","Chamber":"SENATE"}],
- "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"}],
+ "PrintNo":"S10348","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-05-14T11:10:54.22285Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-15","Committee":"Consumer Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER PROTECTION","Date":"2026-05-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10348A","Date":"2026-05-15","Chamber":"SENATE","Version":"A"}
+ ],
+ "Sponsors":[{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1521,"Name":"Dean Murray","Short":"MURRAY"}],
  "Title":"Relates to pricing changes for online grocery delivery and online pick-up services",
  "Summary":"Requires the clear and conspicuous disclosure of pricing changes for online grocery delivery and online pick-up services; imposes a fine of not more than one hundred dollars for the first offense and not more than two hundred fifty dollars for a second and each subsequent offense for violations.",
  "LawSection":"General Business Law","LawCode":"Add Art 38-C §§840 & 841, Gen Bus L",

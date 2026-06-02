@@ -1,7 +1,11 @@
 {
  "PrintNo":"A10698","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-20T15:49:55.432703Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Rules"}],
+ "Published":"2026-03-20T15:49:55.432703Z","Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-01"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"},{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-03-20","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2026-05-14","Chamber":"ASSEMBLY"},
@@ -10,7 +14,14 @@
   {"Text":"PRINT NUMBER 10698B","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.319","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.319","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-01","Chamber":"SENATE","Version":"B"},
+  {"Text":"SUBSTITUTED FOR S8951B","Date":"2026-06-02","Chamber":"SENATE","Version":"B"},
+  {"Text":"3RD READING CAL.1144","Date":"2026-06-02","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -92,7 +103,8 @@
   {"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},
   {"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},{"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},
   {"ID":1510,"Name":"Monique Chandler-Waterman","Short":"CHANDLER-WATERMAN"},
-  {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+  {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
+  {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"}
  ],
  "Title":"Prohibits cannabis inversion",
  "Summary":"Enacts the \"cannabis supply chain integrity and anti-inversion act\"; prohibits any act or omission involving illicit cannabis; provides penalties for such cannabis inversion.",

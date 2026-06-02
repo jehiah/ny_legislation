@@ -1,11 +1,11 @@
 {
  "PrintNo":"A6559","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-06T14:45:02.460654Z","Status":"IN_SENATE_COMM",
- "Committee":"Veterans, Homeland Security And Military Affairs",
+ "Published":"2025-03-06T14:45:02.460654Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-12"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-02-26"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Veterans, Homeland Security And Military Affairs"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Veterans, Homeland Security And Military Affairs"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-03-06","Chamber":"ASSEMBLY"},
@@ -32,7 +32,9 @@
   {
    "Text":"REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS","Date":"2026-02-26","Chamber":"SENATE",
    "Version":"C"
-  }
+  },
+  {"Text":"SUBSTITUTED FOR S7708B","Date":"2026-06-02","Chamber":"SENATE","Version":"C"},
+  {"Text":"3RD READING CAL.1161","Date":"2026-06-02","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

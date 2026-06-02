@@ -1,12 +1,15 @@
 {
- "PrintNo":"S10555","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-21T11:26:08.375871Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-21","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-21","Chamber":"SENATE"}],
+ "PrintNo":"S10555","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-05-21T11:26:08.375871Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-21","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10555A","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":397,"Name":"Jack M. Martins","Short":"MARTINS"}],
  "Title":"Authorizes the village of Upper Brookville, county of Nassau to discontinue and alienate the use of certain parklands",
  "Summary":"Authorizes the village of Upper Brookville, county of Nassau, to discontinue and alienate the use of certain parklands.",
  "LawSection":"Parks",
- "ActClause":"AN ACT authorizing the village of Upper Brookville, county of Nassau, to alienate and discontinue the use of certain parklands",
- "SameAsPrintNo":"A11343-2025"
+ "ActClause":"AN ACT authorizing the village of Upper Brookville, county of Nassau, to alienate and discontinue the use of certain parklands"
 }

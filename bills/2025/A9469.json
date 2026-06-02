@@ -1,14 +1,23 @@
 {
- "PrintNo":"A9469","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-06T17:43:47.134538Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"}],
+ "PrintNo":"A9469","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-06T17:43:47.134538Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Corporations, Authorities And Commissions"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-06","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9469A","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {
+   "Text":"AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-06-02","Chamber":"ASSEMBLY",
+   "Version":"A"
+  },
+  {"Text":"PRINT NUMBER 9469B","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[{"ID":1563,"Name":"Aron Wieder","Short":"WIEDER"}],
  "Title":"Enacts the \"CR clean water and sewer authority act\"",
- "Summary":"Enacts the \"CR clean water and sewer authority act\" in relation to creating the CR clean water and sewer authority.",
- "LawSection":"Public Authorities Law","LawCode":"Add Art 5 Title 11-E §§1349-a - 1349-z, Pub Auth L",
- "ActClause":"AN ACT to amend the public authorities law, in relation to creating the CR clean water and sewer authority"
+ "Summary":"Enacts the \"CR clean water and sewer authority act\" in relation to creating the CR clean water and sewer authority in the county of Rockland.",
+ "LawSection":"Public Authorities Law","LawCode":"Add Art 5 Title 11-E §§1349-a - 1349-y, Pub Auth L",
+ "ActClause":"AN ACT to amend the public authorities law, in relation to creating the CR clean water and sewer authority",
+ "SameAsPrintNo":"S8846-2025"
 }

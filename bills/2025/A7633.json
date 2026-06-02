@@ -1,9 +1,11 @@
 {
  "PrintNo":"A7633","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-02T11:35:14.347094Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-04-02T11:35:14.347094Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-04-02","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-04"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-14"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-05-14"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-04-02","Chamber":"ASSEMBLY"},
@@ -17,7 +19,10 @@
   {"Text":"ORDERED TO THIRD READING CAL.192","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMENDED ON THIRD READING 7633A","Date":"2026-05-04","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"DELIVERED TO SENATE","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO SENATE","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED FOR S7260A","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"3RD READING CAL.1120","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -36,6 +41,20 @@
   },
   {
    "VoteType":"","Date":"2025-05-22","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1469,"Short":"MAMDANI","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1541,"Short":"SHRESTHA","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":631,"Short":"BLANKENBUSH","Vote":"Nay"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Nay"},{"ID":635,"Short":"PALMESANO","Vote":"Excused"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-05-14","Chamber":"ASSEMBLY","Committee":"ENERGY",
    "Votes":[
     {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},
     {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},

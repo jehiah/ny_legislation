@@ -1,10 +1,12 @@
 {
- "PrintNo":"S7802","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-05-09T11:00:04.201415Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"}],
+ "PrintNo":"S7802","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-05-09T11:00:04.201415Z","Status":"IN_SENATE_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Transportation"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-09","Chamber":"SENATE"},
-  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-06-01","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7802A","Date":"2026-06-01","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1233,"Name":"Pete Harckham","Short":"HARCKHAM"}],
  "Title":"Relates to demonstration programs imposing monetary liability on the owner of a vehicle for failure of an operator thereof to comply with certain posted maximum speed limits in the town of Yorktown",

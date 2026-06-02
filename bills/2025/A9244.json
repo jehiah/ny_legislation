@@ -1,13 +1,14 @@
 {
- "PrintNo":"A9244","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-11-07T13:11:41.984555Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"}],
+ "PrintNo":"A9244","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-11-07T13:11:41.984555Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-01"}],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-11-07","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-03-17","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-05-05","Chamber":"ASSEMBLY"},
-  {"Text":"ADVANCED TO THIRD READING CAL.471","Date":"2026-05-07","Chamber":"ASSEMBLY"}
+  {"Text":"ADVANCED TO THIRD READING CAL.471","Date":"2026-05-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMENDED ON THIRD READING 9244A","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -56,7 +57,8 @@
   {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"}
  ],
  "Title":"Allows a person a second hearing to seal their child protective services records",
- "Summary":"Allows a person a second hearing to seal their child protective services records upon a significant change in life circumstances.",
+ "Summary":"Allows a person a second hearing to seal their child protective services records upon a showing of good cause and there is no evidence the subject has committed maltreatment of a child in the preceding two years.",
  "LawSection":"Social Services Law","LawCode":"Amd §422, Soc Serv L",
- "ActClause":"AN ACT to amend the social services law, in relation to allowing persons to request a second hearing to seal child protective services records"
+ "ActClause":"AN ACT to amend the social services law, in relation to allowing persons to request a second hearing to seal child protective services records",
+ "SameAsPrintNo":"S9421-2025"
 }

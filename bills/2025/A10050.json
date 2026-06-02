@@ -1,8 +1,13 @@
 {
- "PrintNo":"A10050","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-30T13:52:15.931227Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-30","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10050","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-01-30T13:52:15.931227Z","Status":"IN_ASSEMBLY_COMM","Committee":"Transportation",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Transportation"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-30","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10050A","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},
   {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
@@ -15,9 +20,9 @@
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}
  ],
- "Title":"Creates a road salt applicator training program for use by state agencies and state contractors",
- "Summary":"Requires the commissioner of the department of transportation, in consultation with the commissioner of environmental conservation to establish a comprehensive road salt reduction program and standards to design a road salt applicator training program; requires the department, every state agency and state contractor which uses road salt shall use such training materials to train and inform employees on the best practices of using such materials.",
+ "Title":"Creates a road salt reduction policies and applicator training program for use by state agencies and state contractors",
+ "Summary":"Requires the commissioner of the department of transportation, in consultation with the commissioner of environmental conservation to establish a set of comprehensive road salt reduction policies and to design a road salt applicator training program; requires the department, every state agency and state contractor which uses road salt to use such training materials to train and inform employees on the best practices of using such materials.",
  "LawSection":"Transportation Law","LawCode":"Add §23, Transp L",
- "ActClause":"AN ACT to amend the transportation law, in relation to creating a road salt applicator training program and requires the training of state agencies and state contractors which use road salt",
+ "ActClause":"AN ACT to amend the transportation law, in relation to creating a road salt reduction policies and applicator training program and requiring the training of state agencies and state contractors which use road salt",
  "SameAsPrintNo":"S5010-2025"
 }

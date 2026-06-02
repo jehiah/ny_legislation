@@ -1,7 +1,7 @@
 {
- "PrintNo":"A8712","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A8712","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-06-02T10:46:28.967798Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-21","Committee":"Codes"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-02","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -12,7 +12,9 @@
    "Version":"A"
   },
   {"Text":"PRINT NUMBER 8712B","Date":"2026-05-17","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 8712C","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -35,7 +37,7 @@
    ]
   }
  ],
- "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
+ "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"}],
  "Title":"Prohibits utility service terminations in multiple dwellings",
  "Summary":"Prohibits utility service terminations in multiple dwellings; authorizes utility companies or municipalities to commence an action against the owner of the premises affected to seek the appointment of a receiver of rents or payments for use and occupancy or common charges.",
  "LawSection":"Real Property Law","LawCode":"Amd §235-a, RP L; amd §§33 & 116, Pub Serv L",

@@ -1,12 +1,15 @@
 {
  "PrintNo":"A11447","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-18T17:04:52.848124Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-01"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-05-18","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-27","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-01","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-06-01","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.328","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.328","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S5932A","Date":"2026-06-01","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -111,7 +114,8 @@
  "Sponsors":[
   {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},
   {"ID":474,"Name":"Charles Lavine","Short":"LAVINE"},{"ID":1461,"Name":"Keith Brown","Short":"BROWN K"},
-  {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"}
+  {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
+  {"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"}
  ],
  "Title":"Authorizes the town of Huntington to alienate and discontinue the use of certain parklands to the Huntington African American Museum",
  "Summary":"Authorizes the town of Huntington to alienate and discontinue the use of certain parklands to the Huntington African American Museum.",
