@@ -1,9 +1,9 @@
 {
- "PrintNo":"S4500","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-06T09:29:15.72422Z","Status":"SENATE_FLOOR",
+ "PrintNo":"S4500","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-02-06T09:29:15.72422Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-26"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-28"},{"Type":"PASSED_SENATE","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-02-06","Chamber":"SENATE"},
@@ -19,7 +19,10 @@
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1294","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-21","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 4500B","Date":"2026-05-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -124,9 +127,9 @@
   {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}
  ],
  "Title":"Enacts the consumer wheelchair repair bill of rights act",
- "Summary":"Enacts the \"consumer wheelchair repair bill of rights act\" requiring manufacturers to make available certain documentation, parts, embedded software, firmware, or tools necessary for repairing equipment; establishes a timely repair for wheelchair program; extends the warranty period for wheelchairs to 2 years; deems all wheelchair repairs needed within 5 years of initial prescription medically necessary.",
+ "Summary":"Enacts the \"consumer wheelchair repair bill of rights act\" requiring manufacturers to make available certain documentation, parts, embedded software, firmware, or tools necessary for repairing equipment; establishes a timely repair for wheelchair program; deems all wheelchair repairs needed within 5 years of initial prescription medically necessary.",
  "LawSection":"General Business Law",
  "LawCode":"Ren Art 32 §670 to be Art 32-A §676, add §§677, 678 & 679, amd §676, Gen Bus L; add §367-j, Soc Serv L",
- "ActClause":"AN ACT to amend the general business law, in relation to enacting the \"consumer wheelchair repair bill of rights act\"",
+ "ActClause":"AN ACT to amend the general business law and the social services law, in relation to enacting the \"consumer wheelchair repair bill of rights act\"",
  "SameAsPrintNo":"A6569-2025"
 }

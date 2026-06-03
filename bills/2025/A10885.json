@@ -1,9 +1,10 @@
 {
  "PrintNo":"A10885","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-04-08T12:52:59.297641Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Published":"2026-04-08T12:52:59.297641Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-01"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"},{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"},{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"},{"Type":"PASSED_SENATE","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-04-08","Chamber":"ASSEMBLY"},
@@ -18,7 +19,11 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.322","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO RULES","Date":"2026-06-01","Chamber":"SENATE","Version":"B"}
+  {"Text":"REFERRED TO RULES","Date":"2026-06-01","Chamber":"SENATE","Version":"B"},
+  {"Text":"SUBSTITUTED FOR S9502A","Date":"2026-06-02","Chamber":"SENATE","Version":"B"},
+  {"Text":"3RD READING CAL.766","Date":"2026-06-02","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

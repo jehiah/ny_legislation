@@ -1,9 +1,9 @@
 {
  "PrintNo":"S3819","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-30T10:33:13.663689Z","Status":"SENATE_FLOOR",
+ "Published":"2025-01-30T10:33:13.663689Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Housing, Construction And Community Development"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-29"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-29"},{"Type":"PASSED_SENATE","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT","Date":"2025-01-30","Chamber":"SENATE"},
@@ -29,7 +29,9 @@
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO SENATE","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-05-29","Chamber":"SENATE","Version":"A"},
-  {"Text":"AMENDED ON THIRD READING (T) 3819B","Date":"2026-05-29","Chamber":"SENATE","Version":"B"}
+  {"Text":"AMENDED ON THIRD READING (T) 3819B","Date":"2026-05-29","Chamber":"SENATE","Version":"B"},
+  {"Text":"REPASSED SENATE","Date":"2026-06-02","Chamber":"SENATE","Version":"B"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

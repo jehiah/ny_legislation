@@ -1,9 +1,9 @@
 {
  "PrintNo":"S10007","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-04-22T11:33:11.276737Z","Status":"SENATE_FLOOR",
+ "Published":"2026-04-22T11:33:11.276737Z","Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"New York City Education"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-21"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-21"},{"Type":"PASSED_SENATE","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-04-22","Chamber":"SENATE"},
@@ -11,7 +11,9 @@
   {"Text":"PRINT NUMBER 10007A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1173","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

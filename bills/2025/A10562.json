@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10562","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-13T16:05:45.424684Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-14"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-14"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Local Government"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Local Government"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"},{"Type":"PASSED_SENATE","Date":"2026-06-02"}
  ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-03-13","Chamber":"ASSEMBLY"},
@@ -15,7 +16,11 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.133","Date":"2026-05-14","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-05-14","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-05-14","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-14","Chamber":"SENATE"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S9325","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.667","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"}
  ],
  "Votes":[
   {
