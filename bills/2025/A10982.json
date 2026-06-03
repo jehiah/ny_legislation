@@ -1,11 +1,16 @@
 {
  "PrintNo":"A10982","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-04-14T15:22:16.749145Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-20","Committee":"Ways And Means"}],
+ "Published":"2026-04-14T15:22:16.749145Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-04-14","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2026-04-20","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 10982A","Date":"2026-04-20","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 10982A","Date":"2026-04-20","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.423","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.423","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED BY S9376A","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"}],
  "Title":"Authorizes the town of Lancaster to impose an occupancy tax",

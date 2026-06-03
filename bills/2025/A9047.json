@@ -1,9 +1,10 @@
 {
  "PrintNo":"A9047","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-09-05T10:31:55.86779Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-09-05T10:31:55.86779Z","Status":"IN_SENATE_COMM","Committee":"Rules",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Environmental Conservation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-28"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-02"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-28"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-02"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-09-05","Chamber":"ASSEMBLY"},
@@ -13,7 +14,8 @@
   {"Text":"AMENDED ON THIRD READING (T) 9047A","Date":"2026-02-03","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMENDED ON THIRD READING 9047B","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"DELIVERED TO SENATE","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

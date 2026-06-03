@@ -1,7 +1,7 @@
 {
  "PrintNo":"A8181","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-05T17:16:30.022867Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Rules"}],
+ "Published":"2025-05-05T17:16:30.022867Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-05-05","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2025-06-05","Chamber":"ASSEMBLY"},
@@ -12,7 +12,11 @@
   {"Text":"AMEND AND RECOMMIT TO TRANSPORTATION","Date":"2026-04-14","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PRINT NUMBER 8181C","Date":"2026-04-14","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RULES REPORT CAL.401","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.401","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SUBSTITUTED BY S7189B","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

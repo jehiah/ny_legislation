@@ -1,7 +1,7 @@
 {
  "PrintNo":"A1607","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-10T12:49:34.24518Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Rules"}],
+ "Published":"2025-01-10T12:49:34.24518Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-01-10","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2025-05-06","Chamber":"ASSEMBLY"},
@@ -10,7 +10,10 @@
   {"Text":"AMEND (T) AND RECOMMIT TO CORRECTION","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 1607B","Date":"2026-05-14","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.386","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.386","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -72,7 +75,7 @@
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},
-  {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"}
+  {"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},{"ID":1559,"Name":"Claire Valdez","Short":"VALDEZ"}
  ],
  "Title":"Relates to the provision of breast pumps to certain incarcerated birth parents and allowing children to remain with their incarcerated birth parent for a period of time",
  "Summary":"Relates to the provision of breast pumps and related collection and storage materials to certain incarcerated nursing birth parents who are confined in or committed to an institution or local correctional facility with or without their child subject to specific time limitations; requires institutions and local correctional facilities to provide pumps and related materials to such incarcerated birth parents; requires the commissioner of corrections and community supervision to issue an annual report on data relating to incarcerated birth parents.",

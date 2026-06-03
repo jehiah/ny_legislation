@@ -1,8 +1,15 @@
 {
  "PrintNo":"A10489","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T09:41:01.686235Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-06","Committee":"Local Governments"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-03-06","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-03-06","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.454","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.454","Date":"2026-06-03","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":1540,"Name":"Brian Maher","Short":"MAHER"}],
  "Title":"Relates to the residency of certain officers of the village of Washingtonville, Orange county",
  "Summary":"Expands the residency requirement for the village clerk, deputy village clerk, village treasurer, and deputy village treasurer of the village of Washingtonville such that such person need not be a resident of such village, but must be a resident in the county in which such village is located or an adjoining county within the state of New York.",

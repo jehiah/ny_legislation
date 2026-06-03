@@ -1,8 +1,15 @@
 {
  "PrintNo":"A11437","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-15T16:55:58.08919Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-15","Committee":"Economic Development"}],
- "Actions":[{"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-05-15","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
+ "Actions":[
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.433","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.433","Date":"2026-06-03","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}],
  "Title":"Relates to license fees required to be paid by wholesale beer licensees to sell cider",
  "Summary":"Requires wholesale beer licensees to only need to pay a one time additional license fee to sell cider.",

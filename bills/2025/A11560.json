@@ -1,8 +1,14 @@
 {
  "PrintNo":"A11560","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-06-02T00:12:23.93383Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.468","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.468","Date":"2026-06-03","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[
   {"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":519,"Name":"Deborah Glick","Short":"GLICK"},
@@ -10,7 +16,13 @@
   {"ID":1474,"Name":"Phara Souffrant Forrest","Short":"FORREST"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
   {"ID":1561,"Name":"Micah Lasher","Short":"LASHER"},{"ID":1531,"Name":"Alex Bores","Short":"BORES"},
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":1472,"Name":"Marcela Mitaynes","Short":"MITAYNES"},
-  {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"}
+  {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
+  {"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},{"ID":1576,"Name":"Diana Moreno","Short":"MORENO"},
+  {"ID":1573,"Name":"Michael Cashman","Short":"CASHMAN"},{"ID":665,"Name":"Steven Otis","Short":"OTIS"},
+  {"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},
+  {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
+  {"ID":1487,"Name":"William Conrad","Short":"CONRAD"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
+  {"ID":1564,"Name":"Paula Kay","Short":"KAY"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
  ],
  "Title":"Enacts the responsible data center development act",
  "Summary":"Places a one year moratorium on the issuance of data center permits; requires utilities to establish an independent classification of service for large data centers; sets energy efficiency goals for data centers; provides for benefits for host communities; sets labor standards for the construction of data centers.",

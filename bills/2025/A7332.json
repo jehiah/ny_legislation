@@ -1,16 +1,44 @@
 {
  "PrintNo":"A7332","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-25T16:04:42.014656Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-21","Committee":"Health"}],
+ "Published":"2025-03-25T16:04:42.014656Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-25","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-05-21","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 7332A","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 7332A","Date":"2026-05-21","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.398","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.398","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED BY S5665B","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-27","Chamber":"ASSEMBLY",
+   "Committee":"HEALTH",
+   "Votes":[
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":1485,"Short":"JENSEN","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1465,"Short":"GANDOLFO","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":610,"Short":"BRAUNSTEIN","Vote":"Aye"},
+    {"ID":1567,"Short":"CHLUDZINSKI","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":1258,"Short":"SAYEGH","Vote":"Aye"},
+    {"ID":1466,"Short":"DURSO","Vote":"Aye"},{"ID":662,"Short":"MCDONALD","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1468,"Short":"GONZALEZ-ROJAS","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1474,"Short":"FORREST","Vote":"Aye"},
+    {"ID":1482,"Short":"KELLES","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1486,"Short":"LUNSFORD","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1544,"Short":"GRAY","Vote":"Excused"},{"ID":1462,"Short":"MEEKS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":1562,"Name":"Jordan Wright","Short":"WRIGHT"}],
  "Title":"Includes doula awareness in the department of health's education and outreach program",
  "Summary":"Includes doula awareness and the advantages of utilizing a doula in the department of health's education and outreach program.",
  "LawSection":"Public Health Law","LawCode":"Amd §207, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to including doula awareness in the department of health's education and outreach program"
+ "ActClause":"AN ACT to amend the public health law, in relation to including doula awareness in the department of health's education and outreach program",
+ "SameAsPrintNo":"S5665-2025"
 }

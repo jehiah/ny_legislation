@@ -1,8 +1,40 @@
 {
  "PrintNo":"A11341","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-11T18:05:10.507837Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-11","Committee":"Education"}],
- "Actions":[{"Text":"REFERRED TO EDUCATION","Date":"2026-05-11","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
+ "Actions":[
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-05-11","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.429","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.429","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S10264","Date":"2026-06-03","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-27","Chamber":"ASSEMBLY",
+   "Committee":"EDUCATION",
+   "Votes":[
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Aye"},
+    {"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},{"ID":540,"Short":"PAULIN","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":0,"Short":"BROWN","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1528,"Short":"CHANG","Vote":"Aye"},
+    {"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Aye"},
+    {"ID":1258,"Short":"SAYEGH","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},{"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":659,"Short":"KIM","Vote":"Excused"},
+    {"ID":1505,"Short":"GIBBS","Vote":"Excused"},{"ID":468,"Short":"RAMOS","Vote":"Absent"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Absent"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"}],
  "Title":"Permits the Chenango Forks central school district to create an insurance reserve fund",
  "Summary":"Permits the Chenango Forks central school district to create an insurance reserve fund.",

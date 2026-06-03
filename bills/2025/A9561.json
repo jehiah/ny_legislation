@@ -1,13 +1,19 @@
 {
  "PrintNo":"A9561","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-14T15:38:38.905414Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-02"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-02"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-03"},{"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-14","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-20","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-06-02","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.353","Date":"2026-06-02","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.353","Date":"2026-06-02","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.353","Date":"2026-06-02","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-03","Chamber":"SENATE"}
  ],
  "Votes":[
   {

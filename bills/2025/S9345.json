@@ -1,9 +1,10 @@
 {
  "PrintNo":"S9345","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-03T15:11:23.365265Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-03-03","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-21"},{"Type":"PASSED_SENATE","Date":"2026-06-02"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-21"},{"Type":"PASSED_SENATE","Date":"2026-06-02"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-03","Chamber":"SENATE"},
@@ -11,7 +12,8 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-02","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

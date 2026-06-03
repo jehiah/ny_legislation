@@ -1,10 +1,17 @@
 {
- "PrintNo":"S8864","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-12T11:33:22.881477Z",
- "Status":"IN_SENATE_COMM","Committee":"Transportation",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-12","Committee":"Transportation"}],
- "Actions":[{"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-12","Chamber":"SENATE"}],
+ "PrintNo":"S8864","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-01-12T11:33:22.881477Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-12","Chamber":"SENATE"},
+  {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-05-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 8864A","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"}],
- "Title":"Relates to the Detective Thomas M. Inman bridge",
- "Summary":"Amends the name of the Detective Thomas Inman bridge to include his middle initial.",
- "LawSection":"Highway Law","LawCode":"Amd §344-r, Hway L"
+ "Title":"Changes the dedication of the bridge dedicated to Detective Thomas M. Inman",
+ "Summary":"Changes the dedication of the bridge dedicated to Detective Thomas M. Inman.","LawSection":"Highway Law",
+ "LawCode":"Amd §344-r, Hway L; amd §2, Chap 398 of 2025",
+ "ActClause":"AN ACT to amend the highway law and chapter 398 of the laws of 2025 amending the highway law relating to dedicating a portion of the state highway system to \"Port Authority Detective Thomas Inman\", in relation to changing the dedication of the bridge dedicated to Detective Thomas M. Inman",
+ "SameAsPrintNo":"A10171-2025"
 }

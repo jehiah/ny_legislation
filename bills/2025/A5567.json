@@ -1,14 +1,38 @@
 {
  "PrintNo":"A5567","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-14T10:33:49.918752Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-15","Committee":"Codes"}],
+ "Published":"2025-02-14T10:33:49.918752Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-02-14","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2025-05-22","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 5567A","Date":"2025-05-22","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 5567B","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 5567B","Date":"2026-05-15","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-20","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.392","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.392","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-20","Chamber":"ASSEMBLY",
+   "Committee":"CODES",
+   "Votes":[
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1577,"Short":"POWERS","Vote":"Aye"},
+    {"ID":474,"Short":"LAVINE","Vote":"Aye"},{"ID":484,"Short":"WEPRIN","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1118,"Short":"VANEL","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Nay"},{"ID":1245,"Short":"REILLY","Vote":"Nay"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Nay"},{"ID":1570,"Short":"MOLITOR","Vote":"Nay"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"},{"ID":1257,"Short":"REYES","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1473,"Name":"Stefani Zinerman","Short":"ZINERMAN"},
@@ -22,5 +46,5 @@
  "LawSection":"Criminal Procedure Law",
  "LawCode":"Amd §§730.10, 730.20, 730.30, 730.40, 730.50, 730.60 & 730.70, CP L; amd §§9.33, 15.33 & 43.03, Ment Hyg L",
  "ActClause":"AN ACT to amend the criminal procedure law and the mental hygiene law, in relation to determining the capacity of a defendant to stand trial",
- "PreviousVersions":["A8402-2021","A5063-2023"]
+ "SameAsPrintNo":"S1004-2025","PreviousVersions":["A8402-2021","A5063-2023"]
 }

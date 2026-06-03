@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10633","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-13T16:39:20.455927Z",
- "Status":"IN_SENATE_COMM","Committee":"Environmental Conservation",
+ "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-13","Committee":"Environmental Conservation"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-28"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Environmental Conservation"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Environmental Conservation"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-03-13","Chamber":"ASSEMBLY"},
@@ -12,7 +13,9 @@
   {"Text":"ADVANCED TO THIRD READING CAL.383","Date":"2026-04-23","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-04-28","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-04-28","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-28","Chamber":"SENATE"}
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-28","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S9462","Date":"2026-06-03","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.946","Date":"2026-06-03","Chamber":"SENATE"}
  ],
  "Votes":[
   {
@@ -62,7 +65,8 @@
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},
   {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
-  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"}
+  {"ID":1257,"Name":"Karines Reyes","Short":"REYES"},{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},
+  {"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"}
  ],
  "Title":"Relates to deer management permits; repealer",
  "Summary":"Provides for the issuance of deer management permits in the northern zone of the state.",

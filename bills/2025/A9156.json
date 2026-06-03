@@ -1,7 +1,7 @@
 {
  "PrintNo":"A9156","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-10-17T14:25:36.04645Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-08","Committee":"Consumer Affairs And Protection"}],
+ "Published":"2025-10-17T14:25:36.04645Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-10-17","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -11,7 +11,54 @@
    "Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-05-08","Chamber":"ASSEMBLY",
    "Version":"A"
   },
-  {"Text":"PRINT NUMBER 9156B","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 9156B","Date":"2026-05-08","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-05-11","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.408","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.408","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Codes","Date":"2026-05-11","Chamber":"ASSEMBLY",
+   "Committee":"CONSUMER AFFAIRS AND PROTECTION",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},
+    {"ID":1474,"Short":"FORREST","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Excused"}
+   ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-28","Chamber":"ASSEMBLY",
+   "Committee":"CODES",
+   "Votes":[
+    {"ID":669,"Short":"ROZIC","Vote":"Aye"},{"ID":1244,"Short":"FALL","Vote":"Aye"},
+    {"ID":1125,"Short":"MILLER","Vote":"Aye"},{"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},
+    {"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1530,"Short":"LEE","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":0,"Short":"CARROLL","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":1570,"Short":"MOLITOR","Vote":"Aye"},
+    {"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},{"ID":896,"Short":"WALKER","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1511,"Short":"BLUMENCRANZ","Vote":"Excused"},
+    {"ID":1474,"Short":"FORREST","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Excused"},
+    {"ID":457,"Short":"COOK","Vote":"Excused"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":1531,"Short":"BORES","Vote":"Excused"},{"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":675,"Name":"Phil Steck","Short":"STECK"},{"ID":1127,"Name":"Mary Beth Walsh","Short":"WALSH"},
@@ -20,7 +67,8 @@
   {"ID":519,"Name":"Deborah Glick","Short":"GLICK"},{"ID":1089,"Name":"Alicia Hyndman","Short":"HYNDMAN"},
   {"ID":608,"Name":"Edward Ra","Short":"RA"},{"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
   {"ID":1527,"Name":"Michael Novakhov","Short":"NOVAKHOV"},{"ID":1480,"Name":"Matthew Simpson","Short":"SIMPSON"},
-  {"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"},{"ID":1466,"Name":"Michael Durso","Short":"DURSO"}
+  {"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"},{"ID":1466,"Name":"Michael Durso","Short":"DURSO"},
+  {"ID":886,"Name":"Carrie Woerner","Short":"WOERNER"}
  ],
  "Title":"Prohibits the sale of 7-hydroxymitragynine products",
  "Summary":"Prohibits the sale of products that contain 7-hydroxymitragynine at a level that exceeds 2% of total alkaloids or one milligram per serving; establishes fines for the sale of such products.",

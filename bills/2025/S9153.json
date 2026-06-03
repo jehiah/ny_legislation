@@ -1,10 +1,11 @@
 {
  "PrintNo":"S9153","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-02-06T16:31:26.846959Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-02-06","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2026-04-22"},{"Type":"PASSED_SENATE","Date":"2026-05-19"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Economic Development"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Economic Development"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-02-06","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-22","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-19","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"},
-  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-05-19","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A10749","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.420","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-03","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

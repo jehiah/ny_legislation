@@ -1,10 +1,14 @@
 {
- "PrintNo":"S9746","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-02T14:56:55.305446Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-05-04"}],
+ "PrintNo":"S9746","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-02T14:56:55.305446Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-02","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-04-02","Chamber":"SENATE"},
-  {"Text":"1ST REPORT CAL.887","Date":"2026-05-04","Chamber":"SENATE"}
+  {"Text":"1ST REPORT CAL.887","Date":"2026-05-04","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-05","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-06","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 9746A","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A10443A","Date":"2026-06-03","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -28,9 +32,9 @@
   {"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"}
  ],
- "Title":"Clarifies that certain prohibitions on insurance companies shall apply to policies or contracts purchased and delivered or issued for delivery in the state of New York",
- "Summary":"Clarifies that certain prohibitions on insurance companies relating to misrepresentations, misleading statements and incomplete comparisons shall apply to policies or contracts purchased and delivered or issued for delivery in the state of New York.",
+ "Title":"Clarifies who may sue an insurer for violations related to misrepresentations, misleading statements and incomplete comparisons",
+ "Summary":"Clarifies that residents of the state and any policyholder, contract holder, certificate holder, or beneficiary of a policy, contract, or certificate of life, accident and health insurance may sue an insurer for violations related to misrepresentations, misleading statements and incomplete comparisons.",
  "LawSection":"Insurance Law","LawCode":"Amd §4226, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to clarifying that certain prohibitions on insurance companies shall apply to policies or contracts purchased and delivered or issued for delivery in the state of New York",
+ "ActClause":"AN ACT to amend the insurance law, in relation to clarifying the application of subsection (d) of section 4226 of such law",
  "SameAsPrintNo":"A10443-2025"
 }

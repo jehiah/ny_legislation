@@ -1,11 +1,15 @@
 {
  "PrintNo":"A8757","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-02T11:00:38.291562Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Ways And Means"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-06-02","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-27","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.406","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.406","Date":"2026-06-03","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -32,7 +36,8 @@
   {"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"},
   {"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"},{"ID":906,"Name":"Rebecca Seawright","Short":"SEAWRIGHT"},
   {"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},{"ID":1507,"Name":"Nikki Lucas","Short":"LUCAS"},
-  {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"}
+  {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},{"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
  ],
  "Title":"Establishes the \"SNAP for students act\"",
  "Summary":"Establishes the \"SNAP for students act\" requiring the office of temporary and disability assistance to create informational materials to provide information regarding student eligibility for SNAP benefits and to provide digital versions of such materials to institutions of higher education in the state; requires institutions of higher education to notify students of their potential eligibility for SNAP benefits.",

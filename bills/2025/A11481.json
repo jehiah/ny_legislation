@@ -1,8 +1,15 @@
 {
  "PrintNo":"A11481","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-27T09:41:18.617267Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-27","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-27","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.437","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.437","Date":"2026-06-03","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":1482,"Name":"Anna Kelles","Short":"KELLES"}],
  "Title":"Extends provisions authorizing hunting big game by rifle in the county of Tompkins",
  "Summary":"Extends provisions authorizing hunting big game by rifle in the county of Tompkins until 2028.",

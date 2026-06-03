@@ -1,8 +1,15 @@
 {
  "PrintNo":"A11532","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-29T18:25:17.270865Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Environmental Conservation",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-29","Committee":"Environmental Conservation"}],
- "Actions":[{"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-29","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.439","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.439","Date":"2026-06-03","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"}],
  "Title":"Extends certain provisions relating to a Long Island deer management pilot program",
  "Summary":"Extends certain provisions relating to a Long Island deer management pilot program for an additional 3 years.",

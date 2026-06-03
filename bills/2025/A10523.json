@@ -1,12 +1,22 @@
 {
  "PrintNo":"A10523","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-06T10:15:22.286606Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Ways And Means"}],
+ "Published":"2026-03-06T10:15:22.286606Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-03"},{"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-03-06","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-05-22","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10523A","Date":"2026-05-22","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.416","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.416","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

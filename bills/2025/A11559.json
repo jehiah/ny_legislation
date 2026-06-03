@@ -1,8 +1,14 @@
 {
  "PrintNo":"A11559","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-06-01T23:56:52.964284Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"}],
- "Actions":[{"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
+ "Actions":[
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.467","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.467","Date":"2026-06-03","Chamber":"ASSEMBLY"}
+ ],
  "Sponsors":[{"ID":539,"Name":"J. Gary Pretlow","Short":"PRETLOW"}],
  "Title":"Relates to the ability of the New York state medical care facilities finance agency to issue certain bonds and notes",
  "Summary":"Increases the authorization of the Dormitory Authority of the State of New York (\"DASNY\"), as successor to the New York State Medical Care Facilities Finance Agency (\"MCFFA\") pursuant to the Health Care Financing Consolidation Act of 1995, to issue hospital and nursing home project bonds and notes from $20 billion to $21.8 billion.",

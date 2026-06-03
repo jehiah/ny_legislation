@@ -1,12 +1,14 @@
 {
- "PrintNo":"S9403","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-10T11:30:48.224623Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-04-22"}],
+ "PrintNo":"S9403","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-03-10T11:30:48.224623Z","Status":"SENATE_FLOOR",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Insurance"},{"Type":"SENATE_FLOOR","Date":"2026-05-19"}],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2026-03-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.706","Date":"2026-04-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-22","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-22","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 9403A","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED BY A10611A","Date":"2026-06-03","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -27,9 +29,9 @@
   }
  ],
  "Sponsors":[{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"}],
- "Title":"Removes requirement for advertisements referring to an insurer to include the insurer's full name and principal office",
- "Summary":"Removes requirement for advertisements referring to an insurer to include the insurer's full name and principal office; makes technical corrections relating thereto.",
- "LawSection":"Insurance Law","LawCode":"Amd §§2122, 1101 & 2117, Ins L",
- "ActClause":"AN ACT to amend the insurance law, in relation to removing the requirement for advertisements referring to an insurer to include the insurer's full name and principal office and making technical corrections related thereto",
+ "Title":"Relates to digital advertisements for insurance agents and brokers",
+ "Summary":"Provides that the requirement for advertisements referring to an insurer to include the insurer's full name and principal office shall not apply to digital advertisements.",
+ "LawSection":"Insurance Law","LawCode":"Amd §2122, Ins L",
+ "ActClause":"AN ACT to amend the insurance law, in relation to digital advertisements of insurance agents and brokers",
  "SameAsPrintNo":"A10611-2025"
 }

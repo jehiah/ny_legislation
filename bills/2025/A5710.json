@@ -1,9 +1,10 @@
 {
  "PrintNo":"A5710","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-20T11:13:50.067709Z","Status":"IN_SENATE_COMM","Committee":"Insurance",
+ "Published":"2025-02-20T11:13:50.067709Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-12","Committee":"Insurance"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-19"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-23"},{"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Insurance"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-23"},{"Type":"IN_SENATE_COMM","Date":"2026-03-23","Committee":"Insurance"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INSURANCE","Date":"2025-02-20","Chamber":"ASSEMBLY"},
@@ -14,7 +15,9 @@
   {"Text":"ADVANCED TO THIRD READING CAL.317","Date":"2026-03-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO INSURANCE","Date":"2026-03-23","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-03-23","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED FOR S9941","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"3RD READING CAL.889","Date":"2026-06-03","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -62,5 +65,5 @@
  "Summary":"Prohibits insurers from refusing to renew a policy on certain automobiles used for volunteer social service transportation.",
  "LawSection":"Insurance Law","LawCode":"Amd §3425, Ins L",
  "ActClause":"AN ACT to amend the insurance law, in relation to prohibiting insurers from refusing to renew a policy on certain automobiles used for volunteer social service transportation",
- "PreviousVersions":["A9525-2021","A9365-2023"]
+ "SameAsPrintNo":"S9941-2025","PreviousVersions":["A9525-2021","A9365-2023"]
 }

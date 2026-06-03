@@ -1,12 +1,15 @@
 {
- "PrintNo":"S9972","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-20T14:11:50.256546Z",
- "Status":"IN_SENATE_COMM","Committee":"Local Government",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-20","Committee":"Local Government"}],
- "Actions":[{"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-04-20","Chamber":"SENATE"}],
+ "PrintNo":"S9972","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-04-20T14:11:50.256546Z","Status":"IN_SENATE_COMM","Committee":"Local Government",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Local Government"}],
+ "Actions":[
+  {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-04-20","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENT","Date":"2026-06-03","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 9972A","Date":"2026-06-03","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1518,"Name":"William Weber","Short":"WEBER"}],
  "Title":"Authorizes Simcray Holdings, LLC. to receive retroactive real property tax exempt status",
  "Summary":"Authorizes Simcray Holdings, LLC. to receive retroactive real property tax exempt status for the 2023, 2024 and 2025 assessment rolls and all of the 2023-2024, 2024-2025 and 2025-2026 school taxes.",
  "LawSection":"Real Property Taxation",
- "ActClause":"AN ACT authorizing Simcray Holdings, LLC. to receive retroactive real property tax exempt status",
- "SameAsPrintNo":"A11265-2025"
+ "ActClause":"AN ACT authorizing Simcray Holdings, LLC. to receive retroactive real property tax exempt status"
 }
