@@ -1,14 +1,22 @@
 {
  "PrintNo":"A11077","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-04-24T10:13:49.670574Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"}],
+ "Published":"2026-04-24T10:13:49.670574Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"},{"Type":"IN_SENATE_COMM","Date":"2026-06-04","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-24","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO TRANSPORTATION","Date":"2026-05-27","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 11077A","Date":"2026-05-27","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.518","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.518","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-04","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1557,"Name":"Noah Burroughs","Short":"BURROUGHS"}],
  "Title":"Relates to dedicating a portion of the state highway system in the hamlet of Uniondale to Jomani Wright",

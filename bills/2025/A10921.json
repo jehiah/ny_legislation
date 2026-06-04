@@ -1,14 +1,22 @@
 {
  "PrintNo":"A10921","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-04-08T13:12:06.18879Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"}],
+ "Published":"2026-04-08T13:12:06.18879Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"},{"Type":"IN_SENATE_COMM","Date":"2026-06-04","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-04-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-05-30","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 10921A","Date":"2026-05-30","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.513","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.513","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-04","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[{"ID":1147,"Name":"Steve Stern","Short":"STERN"}],
  "Title":"Relates to exempting disabled veterans from certain fees relating to physical modification of a residence to accommodate a disability",

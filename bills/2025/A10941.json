@@ -1,12 +1,21 @@
 {
  "PrintNo":"A10941","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-14T15:10:59.629323Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"},{"Type":"IN_SENATE_COMM","Date":"2026-06-04","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-04-14","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-03","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.514","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.514","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"HOME RULE REQUEST","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-04","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":1540,"Name":"Brian Maher","Short":"MAHER"}],
  "Title":"Authorizes the commissioner of the department of civil service to reinstate John Raftery on the eligible civil service list for employment as a police officer in the town of Shawangunk",

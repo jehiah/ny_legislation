@@ -1,9 +1,10 @@
 {
  "PrintNo":"S9573","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-03-25T14:45:42.334011Z",
- "Status":"PASSED_SENATE",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-03-25","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-04-27"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-02"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-02"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-03-25","Chamber":"SENATE"},
@@ -11,7 +12,11 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-04-22","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-27","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR A11569","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.529","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

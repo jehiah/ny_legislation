@@ -1,7 +1,11 @@
 {
  "PrintNo":"S4602","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-10T10:22:19.98972Z","Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"}],
+ "Published":"2025-02-10T10:22:19.98972Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
+  {"Type":"PASSED_SENATE","Date":"2026-06-04"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Ways And Means"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ELECTIONS","Date":"2025-02-10","Chamber":"SENATE"},
   {"Text":"AMEND AND RECOMMIT TO ELECTIONS","Date":"2025-04-07","Chamber":"SENATE"},
@@ -10,7 +14,11 @@
   {"Text":"REPORTED AND COMMITTED TO FINANCE","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 4602B","Date":"2026-06-01","Chamber":"SENATE","Version":"B"},
-  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"B"}
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING CAL.1613","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

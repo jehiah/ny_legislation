@@ -1,11 +1,11 @@
 {
  "PrintNo":"A6285","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-03T16:38:21.070475Z",
- "Status":"SENATE_FLOOR",
+ "Status":"PASSED_SENATE",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-03-03","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-03-24"},
   {"Type":"IN_SENATE_COMM","Date":"2026-03-24","Committee":"Energy And Telecommunications"},
-  {"Type":"SENATE_FLOOR","Date":"2026-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-03-03","Chamber":"ASSEMBLY"},
@@ -21,7 +21,9 @@
   {"Text":"DELIVERED TO SENATE","Date":"2026-03-24","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-24","Chamber":"SENATE"},
   {"Text":"SUBSTITUTED FOR S4430","Date":"2026-06-04","Chamber":"SENATE"},
-  {"Text":"3RD READING CAL.1353","Date":"2026-06-04","Chamber":"SENATE"}
+  {"Text":"3RD READING CAL.1353","Date":"2026-06-04","Chamber":"SENATE"},
+  {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE"},
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {

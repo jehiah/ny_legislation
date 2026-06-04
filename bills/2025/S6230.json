@@ -1,7 +1,10 @@
 {
  "PrintNo":"S6230","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-07T09:16:41.847817Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-02-19","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-06-01"}],
+ "Published":"2025-03-07T09:16:41.847817Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-02-19","Committee":"Health"},{"Type":"SENATE_FLOOR","Date":"2026-06-01"},
+  {"Type":"PASSED_SENATE","Date":"2026-06-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2025-03-07","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2025-06-09","Chamber":"SENATE"},
@@ -12,7 +15,9 @@
   {"Text":"1ST REPORT CAL.1094","Date":"2026-05-12","Chamber":"SENATE","Version":"B"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE","Version":"B"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE","Version":"B"},
-  {"Text":"AMENDED ON THIRD READING (T) 6230C","Date":"2026-06-01","Chamber":"SENATE","Version":"C"}
+  {"Text":"AMENDED ON THIRD READING (T) 6230C","Date":"2026-06-01","Chamber":"SENATE","Version":"C"},
+  {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"C"}
  ],
  "Votes":[
   {

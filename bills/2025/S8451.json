@@ -1,7 +1,10 @@
 {
  "PrintNo":"S8451","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-07-07T11:33:55.744346Z","Status":"SENATE_FLOOR",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"}],
+ "Published":"2025-07-07T11:33:55.744346Z","Status":"PASSED_SENATE",
+ "Milestones":[
+  {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
+  {"Type":"PASSED_SENATE","Date":"2026-06-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-07-07","Chamber":"SENATE"},
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-07","Chamber":"SENATE"},
@@ -10,7 +13,9 @@
   {"Text":"AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PRINT NUMBER 8451B","Date":"2026-06-01","Chamber":"SENATE","Version":"B"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
-  {"Text":"ORDERED TO THIRD READING CAL.1635","Date":"2026-06-03","Chamber":"SENATE","Version":"B"}
+  {"Text":"ORDERED TO THIRD READING CAL.1635","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"B"}
  ],
  "Sponsors":[
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":1552,"Name":"April Baskin","Short":"BASKIN"},
