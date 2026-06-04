@@ -1,9 +1,10 @@
 {
  "PrintNo":"A6950","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:16:44.094428Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-01"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"},{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"},{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-03-18","Chamber":"ASSEMBLY"},
@@ -15,7 +16,9 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.295","Date":"2026-06-01","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-01","Chamber":"ASSEMBLY"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-06-01","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO RULES","Date":"2026-06-01","Chamber":"SENATE"}
+  {"Text":"REFERRED TO RULES","Date":"2026-06-01","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S9843","Date":"2026-06-04","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.731","Date":"2026-06-04","Chamber":"SENATE"}
  ],
  "Votes":[
   {

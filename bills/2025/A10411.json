@@ -1,10 +1,11 @@
 {
  "PrintNo":"A10411","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-03T12:28:40.841939Z","Status":"IN_SENATE_COMM","Committee":"Consumer Protection",
+ "Published":"2026-03-03T12:28:40.841939Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-19"},
-  {"Type":"IN_SENATE_COMM","Date":"2026-05-19","Committee":"Consumer Protection"}
+  {"Type":"IN_SENATE_COMM","Date":"2026-05-19","Committee":"Consumer Protection"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-03-03","Chamber":"ASSEMBLY"},
@@ -15,7 +16,9 @@
   {"Text":"ADVANCED TO THIRD READING CAL.481","Date":"2026-05-07","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-05-19","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-05-19","Chamber":"SENATE","Version":"A"}
+  {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED FOR S9348A","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"3RD READING CAL.1107","Date":"2026-06-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

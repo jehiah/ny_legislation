@@ -1,7 +1,10 @@
 {
  "PrintNo":"A5404","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-13T15:46:13.73874Z","Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
+ "Published":"2025-02-13T15:46:13.73874Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"},{"Type":"IN_SENATE_COMM","Date":"2026-06-04","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2025-02-13","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2025-05-07","Chamber":"ASSEMBLY"},
@@ -15,7 +18,10 @@
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"RULES REPORT CAL.445","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.445","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.445","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-04","Chamber":"SENATE","Version":"C"}
  ],
  "Sponsors":[
   {"ID":1147,"Name":"Steve Stern","Short":"STERN"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
@@ -26,7 +32,7 @@
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"},
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":673,"Name":"Michaelle C. Solages","Short":"SOLAGES"},
   {"ID":1460,"Name":"Sarah Clark","Short":"CLARK"},{"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},
-  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"}
  ],
  "Title":"Relates to the municipal sustainable energy loan program",
  "Summary":"Relates to the municipal sustainable energy loan program regarding qualifying water improvements, qualifying resiliency improvements and, in a city with a population of one million or more, the use of low carbon intensity building components.",

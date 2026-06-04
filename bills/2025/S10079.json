@@ -1,8 +1,11 @@
 {
  "PrintNo":"S10079","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-27T15:25:34.767732Z",
- "Status":"IN_SENATE_COMM","Committee":"Finance",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Finance"}],
- "Actions":[{"Text":"REFERRED TO FINANCE","Date":"2026-04-27","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-04","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO FINANCE","Date":"2026-04-27","Chamber":"SENATE"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-04","Chamber":"SENATE"}
+ ],
  "Sponsors":[
   {"ID":383,"Name":"Michael Gianaris","Short":"GIANARIS"},{"ID":1520,"Name":"Nathalia Fernandez","Short":"FERNANDEZ"},
   {"ID":1513,"Name":"Kristen Gonzalez","Short":"GONZALEZ"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},

@@ -1,10 +1,28 @@
 {
  "PrintNo":"A6732","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-11T10:36:40.799422Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-03-11","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-19","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-05-19","Chamber":"ASSEMBLY",
+   "Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1471,"Short":"GALLAGHER","Vote":"Aye"},{"ID":1577,"Short":"POWERS","Vote":"Aye"},
+    {"ID":656,"Short":"DIPIETRO","Vote":"Nay"},{"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},
+    {"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},{"ID":1484,"Short":"GALLAHAN","Vote":"Nay"},
+    {"ID":1462,"Short":"MEEKS","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1505,"Name":"Eddie Gibbs","Short":"GIBBS"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},

@@ -1,11 +1,13 @@
 {
  "PrintNo":"A5000","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-10T14:03:36.795914Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-04","Committee":"Codes"}],
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-10","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-04","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-04","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -27,13 +29,45 @@
     {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
     {"ID":656,"Short":"DIPIETRO","Vote":"Nay"}
    ]
+  },
+  {
+   "VoteType":"Favorable refer to committee Rules","Date":"2026-05-28","Chamber":"ASSEMBLY","Committee":"CODES",
+   "Votes":[
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1466,"Short":"DURSO","Vote":"Aye"},
+    {"ID":500,"Short":"COLTON","Vote":"Aye"},{"ID":908,"Short":"BRABENEC","Vote":"Aye"},
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":488,"Short":"HEVESI","Vote":"Aye"},
+    {"ID":1135,"Short":"MORINELLO","Vote":"Aye"},{"ID":669,"Short":"ROZIC","Vote":"Aye"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Aye"},{"ID":675,"Short":"STECK","Vote":"Aye"},
+    {"ID":1464,"Short":"GIGLIO","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1536,"Short":"SLATER","Vote":"Aye"},{"ID":1257,"Short":"REYES","Vote":"Aye"},
+    {"ID":1556,"Short":"NORBER","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":1473,"Short":"ZINERMAN","Vote":"Aye"},{"ID":1141,"Short":"TAYLOR","Vote":"Aye"},
+    {"ID":1503,"Short":"TAPIA","Vote":"Aye"},{"ID":1507,"Short":"LUCAS","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1525,"Short":"RAGA","Vote":"Aye"},
+    {"ID":1488,"Short":"RIVERA","Vote":"Aye"},{"ID":1531,"Short":"BORES","Vote":"Aye"},
+    {"ID":1532,"Short":"SIMONE","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":533,"Short":"DINOWITZ","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":1245,"Short":"REILLY","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":484,"Short":"WEPRIN","Vote":"Aye"},{"ID":1475,"Short":"TANNOUSIS","Vote":"Aye"},
+    {"ID":488,"Short":"HEVESI","Vote":"Aye"},{"ID":1481,"Short":"ANGELINO","Vote":"Aye"},
+    {"ID":906,"Short":"SEAWRIGHT","Vote":"Aye"},{"ID":520,"Short":"ROSENTHAL","Vote":"Aye"},
+    {"ID":896,"Short":"WALKER","Vote":"Aye"},{"ID":1242,"Short":"CRUZ","Vote":"Aye"},
+    {"ID":1257,"Short":"REYES","Vote":"Aye"},{"ID":1508,"Short":"CUNNINGHAM","Vote":"Aye"},
+    {"ID":1565,"Short":"ROMERO","Vote":"Aye"},{"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},
+    {"ID":1141,"Short":"TAYLOR","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Nay"},
+    {"ID":1570,"Short":"MOLITOR","Vote":"Nay"},{"ID":457,"Short":"COOK","Vote":"Excused"},
+    {"ID":1150,"Short":"MIKULIN","Vote":"Excused"},{"ID":1531,"Short":"BORES","Vote":"Excused"},
+    {"ID":1118,"Short":"VANEL","Vote":"Absent"}
+   ]
   }
  ],
  "Sponsors":[
   {"ID":633,"Name":"Harry B. Bronson","Short":"BRONSON"},{"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},
   {"ID":1255,"Name":"Karen McMahon","Short":"MCMAHON"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
   {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":500,"Name":"William Colton","Short":"COLTON"},
-  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
+  {"ID":468,"Name":"Philip Ramos","Short":"RAMOS"}
  ],
  "Title":"Clarifies that the statutory damages available for certain wage violations are not punitive in nature and are designed to compensate workers",
  "Summary":"Clarifies that the statutory damages available for certain wage violations are not punitive in nature and are designed to be liquidated damages rather than penalties or to compensate workers for the employer's failure to prevent wage theft and for the harm to employees that results from such failure.",

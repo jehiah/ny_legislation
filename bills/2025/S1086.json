@@ -1,8 +1,7 @@
 {
- "PrintNo":"S1086","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T09:27:10.929536Z","Status":"IN_SENATE_COMM",
- "Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-19","Committee":"Investigations And Government Operations"}],
+ "PrintNo":"S1086","Version":"D","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-08T09:27:10.929536Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-04","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-01-08","Chamber":"SENATE"},
   {"Text":"AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-06-05","Chamber":"SENATE"},
@@ -17,7 +16,13 @@
    "Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-19","Chamber":"SENATE",
    "Version":"B"
   },
-  {"Text":"PRINT NUMBER 1086C","Date":"2026-05-19","Chamber":"SENATE","Version":"C"}
+  {"Text":"PRINT NUMBER 1086C","Date":"2026-05-19","Chamber":"SENATE","Version":"C"},
+  {
+   "Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-06-01","Chamber":"SENATE",
+   "Version":"C"
+  },
+  {"Text":"PRINT NUMBER 1086D","Date":"2026-06-01","Chamber":"SENATE","Version":"D"},
+  {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-04","Chamber":"SENATE","Version":"D"}
  ],
  "Sponsors":[
   {"ID":377,"Name":"Gustavo Rivera","Short":"RIVERA"},{"ID":1102,"Name":"Jamaal Bailey","Short":"BAILEY"},
@@ -37,5 +42,5 @@
  "LawSection":"Civil Rights Law",
  "LawCode":"Add Art 4-D §§49 - 49-b, Civ Rts L; amd §89, Pub Off L; amd §5, Tax L; amd §3-503, Gen Ob L; amd Ed L, generally; amd §§110 & 126, rpld §126 sub 3, ABC L; amd §10, Gen City L; rpld §3421 sub 2 ¶(a), Pub Health L; amd §41, Gen Bus L; amd §341, Lab L; amd §460, Judy L",
  "ActClause":"AN ACT to amend the civil rights law, the public officers law, the tax law, the general obligations law, the education law, the alcoholic beverage control law, the general city law, the general business law, the labor law and the judiciary law, in relation to enacting the empire state licensing act; and to repeal certain provisions of the education law, the alcoholic beverage control law and the public health law relating thereto",
- "PreviousVersions":["S8481-2019","S3046-2021","S5964-2023"]
+ "SameAsPrintNo":"A675-2025","PreviousVersions":["S8481-2019","S3046-2021","S5964-2023"]
 }

@@ -1,10 +1,51 @@
 {
  "PrintNo":"A10135","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-02-04T16:07:55.139782Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-04","Committee":"Energy"}],
+ "Status":"SENATE_FLOOR",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-04","Committee":"Energy"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-02-26"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-03-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-03-04","Committee":"Energy And Telecommunications"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY","Date":"2026-02-04","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-02-25","Chamber":"ASSEMBLY"},
+  {"Text":"ADVANCED TO THIRD READING CAL.281","Date":"2026-02-26","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-03-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2026-03-04","Chamber":"SENATE"},
+  {"Text":"SUBSTITUTED FOR S9122","Date":"2026-06-04","Chamber":"SENATE"},
+  {"Text":"3RD READING CAL.1213","Date":"2026-06-04","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable","Date":"2026-02-25","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Excused"},{"ID":1541,"Short":"SHRESTHA","Vote":"Excused"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  },
+  {
+   "VoteType":"","Date":"2026-03-04","Chamber":"ASSEMBLY","Committee":"ENERGY",
+   "Votes":[
+    {"ID":625,"Short":"BARRETT","Vote":"Aye"},{"ID":1544,"Short":"GRAY","Vote":"Aye"},
+    {"ID":670,"Short":"SANTABARBARA","Vote":"Aye"},{"ID":900,"Short":"DILAN","Vote":"Aye"},
+    {"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},{"ID":1147,"Short":"STERN","Vote":"Aye"},
+    {"ID":1529,"Short":"PIROZZOLO","Vote":"Aye"},{"ID":1459,"Short":"ANDERSON","Vote":"Aye"},
+    {"ID":1568,"Short":"BOLOGNA","Vote":"Aye"},{"ID":1488,"Short":"RIVERA","Vote":"Aye"},
+    {"ID":1487,"Short":"CONRAD","Vote":"Aye"},{"ID":1460,"Short":"CLARK","Vote":"Aye"},
+    {"ID":1546,"Short":"DAIS","Vote":"Aye"},{"ID":1259,"Short":"JACOBSON","Vote":"Aye"},
+    {"ID":631,"Short":"BLANKENBUSH","Vote":"Excused"},{"ID":1541,"Short":"SHRESTHA","Vote":"Excused"},
+    {"ID":1507,"Short":"LUCAS","Vote":"Absent"}
+   ]
+  }
  ],
  "Sponsors":[{"ID":625,"Name":"Didi Barrett","Short":"BARRETT"},{"ID":670,"Name":"Angelo Santabarbara","Short":"SANTABARBARA"}],
  "Title":"Directs the public service commission to develop, publish, and update a guidebook on the gas and electric ratemaking process",

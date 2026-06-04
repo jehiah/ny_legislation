@@ -1,14 +1,20 @@
 {
  "PrintNo":"A11547","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-06-01T18:14:46.526849Z",
- "Status":"ASSEMBLY_FLOOR",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"},{"Type":"IN_SENATE_COMM","Date":"2026-06-04","Committee":"Rules"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-06-01","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-03","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED","Date":"2026-06-03","Chamber":"ASSEMBLY"},
   {"Text":"RULES REPORT CAL.462","Date":"2026-06-03","Chamber":"ASSEMBLY"},
-  {"Text":"ORDERED TO THIRD READING RULES CAL.462","Date":"2026-06-03","Chamber":"ASSEMBLY"}
+  {"Text":"ORDERED TO THIRD READING RULES CAL.462","Date":"2026-06-03","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"REFERRED TO RULES","Date":"2026-06-04","Chamber":"SENATE"}
  ],
  "Sponsors":[{"ID":591,"Name":"Crystal Peoples-Stokes","Short":"PEOPLES-STOKES"}],
  "Title":"Relates to the staffing and operations of a cancer research institute and a related not-for-profit corporation",

@@ -1,9 +1,10 @@
 {
  "PrintNo":"A65","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2024-12-20T09:43:56.57381Z","Status":"IN_SENATE_COMM","Committee":"Finance",
+ "Published":"2024-12-20T09:43:56.57381Z","Status":"SENATE_FLOOR",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-24"},
-  {"Type":"PASSED_ASSEMBLY","Date":"2026-04-28"},{"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Finance"}
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-04-28"},{"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Finance"},
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CHILDREN AND FAMILIES","Date":"2025-01-08","Chamber":"ASSEMBLY"},
@@ -22,7 +23,9 @@
   {"Text":"AMENDED ON THIRD READING 65B","Date":"2026-03-24","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"DELIVERED TO SENATE","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REFERRED TO FINANCE","Date":"2026-04-28","Chamber":"SENATE","Version":"B"}
+  {"Text":"REFERRED TO FINANCE","Date":"2026-04-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"SUBSTITUTED FOR S9498","Date":"2026-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"3RD READING CAL.1407","Date":"2026-06-04","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {

@@ -1,9 +1,10 @@
 {
  "PrintNo":"A2321","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-16T10:44:25.266867Z","Status":"ASSEMBLY_FLOOR",
+ "Published":"2025-01-16T10:44:25.266867Z","Status":"IN_SENATE_COMM","Committee":"Rules",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-01-16","Committee":"Governmental Operations"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-01"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-01"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"},
+  {"Type":"IN_SENATE_COMM","Date":"2026-06-04","Committee":"Rules"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-16","Chamber":"ASSEMBLY"},
@@ -21,7 +22,10 @@
   {"Text":"RECALLED FROM SENATE","Date":"2026-06-01","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-01","Chamber":"SENATE"},
   {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-06-01","Chamber":"ASSEMBLY"},
-  {"Text":"AMENDED ON THIRD READING 2321A","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 2321A","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-04","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

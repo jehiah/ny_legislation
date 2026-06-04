@@ -1,10 +1,11 @@
 {
  "PrintNo":"S10484","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-05-15T17:01:05.435918Z","Status":"IN_ASSEMBLY_COMM","Committee":"Higher Education",
+ "Published":"2026-05-15T17:01:05.435918Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-02"},
   {"Type":"PASSED_SENATE","Date":"2026-06-02"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Higher Education"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Higher Education"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-05-15","Chamber":"SENATE"},
@@ -14,7 +15,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.1584","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A11385A","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.167","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
