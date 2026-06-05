@@ -1,15 +1,13 @@
 {
  "PrintNo":"S10003","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-22T11:31:38.716677Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-04-22","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-26"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-22","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1310","Date":"2026-05-20","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-21","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,13 +1,16 @@
 {
  "PrintNo":"A11570","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-06-02T22:05:20.011083Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-02","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.530","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.530","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S10648","Date":"2026-06-05","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}],
+ "Sponsors":[{"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"}],
  "Title":"Implements an agreement between the state and an employee organization; providing for the adjustment of salaries of certain incumbents in the professional service in the state university; appropriation",
  "Summary":"Implements an agreement between the state and an employee organization; provides for the adjustment of salaries of certain incumbents in the professional service in the state university; makes an appropriation for the purpose of effectuating certain provisions thereof.",
  "LawSection":"Civil Service",

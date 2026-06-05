@@ -1,16 +1,14 @@
 {
  "PrintNo":"S7632","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-24T11:02:43.940351Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Social Services"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-14"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2025-04-24","Chamber":"SENATE"},
   {"Text":"REFERRED TO SOCIAL SERVICES","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1024","Date":"2026-05-12","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

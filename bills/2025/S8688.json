@@ -1,9 +1,9 @@
 {
  "PrintNo":"S8688","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-01-07T13:07:54.515832Z","Status":"PASSED_SENATE",
+ "Published":"2026-01-07T13:07:54.515832Z","Status":"IN_ASSEMBLY_COMM","Committee":"Cities",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Cities"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CITIES 1","Date":"2026-01-07","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"ORDERED TO THIRD READING CAL.1638","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO CITIES","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

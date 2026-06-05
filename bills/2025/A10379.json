@@ -1,7 +1,7 @@
 {
  "PrintNo":"A10379","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-03-03T11:53:09.72841Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"}],
+ "Published":"2026-03-03T11:53:09.72841Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"}],
  "Actions":[
   {"Text":"REFERRED TO SCIENCE AND TECHNOLOGY","Date":"2026-03-03","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO SCIENCE AND TECHNOLOGY","Date":"2026-03-23","Chamber":"ASSEMBLY"},
@@ -12,7 +12,10 @@
   {"Text":"PRINT NUMBER 10379C","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RULES REPORT CAL.506","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.506","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SUBSTITUTED BY S9051B","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[
   {"ID":1531,"Name":"Alex Bores","Short":"BORES"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},

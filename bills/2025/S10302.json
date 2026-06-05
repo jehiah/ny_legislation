@@ -1,16 +1,18 @@
 {
  "PrintNo":"S10302","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-12T11:21:36.674044Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Governmental Employees"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-05-12","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1681","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

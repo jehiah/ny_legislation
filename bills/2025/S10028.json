@@ -1,16 +1,18 @@
 {
  "PrintNo":"S10028","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-23T10:39:14.715854Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-04-23","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1670","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

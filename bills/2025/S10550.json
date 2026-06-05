@@ -1,16 +1,18 @@
 {
  "PrintNo":"S10550","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-20T15:56:47.677986Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-20","Chamber":"SENATE"},
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1688","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

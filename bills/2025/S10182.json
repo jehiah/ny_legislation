@@ -1,11 +1,7 @@
 {
- "PrintNo":"S10182","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-05-04T15:50:23.077734Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-26"},{"Type":"PASSED_SENATE","Date":"2026-05-29"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-29","Committee":"Local Governments"}
- ],
+ "PrintNo":"S10182","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-05-04T15:50:23.077734Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-05-04","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1256","Date":"2026-05-19","Chamber":"SENATE"},
@@ -16,7 +12,10 @@
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE","Version":"A"},
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-05-29","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"RECALLED FROM ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"VOTE RECONSIDERED - RESTORED TO THIRD READING","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"AMENDED ON THIRD READING 10182B","Date":"2026-06-04","Chamber":"SENATE","Version":"B"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
@@ -101,8 +100,8 @@
   }
  ],
  "Sponsors":[{"ID":951,"Name":"Pamela Helming","Short":"HELMING"}],
- "Title":"Relates to the purpose of the Macedon Center Volunteer and Exempt Firemen's Benevolent Association, Inc., and the use of foreign fire insurance premium taxes",
- "Summary":"Relates to the purpose of the Macedon Center Volunteer and Exempt Firemen's Benevolent Association, Inc., and the use of foreign fire insurance premium taxes.",
+ "Title":"Relates to the purpose of the Macedon Center Volunteer and Exempt Firefighter's Benevolent Association, Inc., and the use of foreign fire insurance premium taxes",
+ "Summary":"Relates to the purpose of the Macedon Center Volunteer and Exempt Firefighter's Benevolent Association, Inc., and the use of foreign fire insurance premium taxes.",
  "LawSection":"Firefighters' Benevolent Association","LawCode":"Amd §§1, 2, 3 & 7, Chap 117 of 1983",
  "ActClause":"AN ACT to amend chapter 117 of the laws of 1983 incorporating the Macedon Center Volunteer and Exempt Firemen's Benevolent Association, Inc., and providing for its powers and duties, in relation to the purpose of such association and the use of foreign fire insurance premium taxes",
  "SameAsPrintNo":"A11272-2025"

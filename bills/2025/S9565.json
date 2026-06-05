@@ -1,9 +1,9 @@
 {
  "PrintNo":"S9565","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-25T10:46:16.151115Z","Status":"PASSED_SENATE",
+ "Published":"2026-03-25T10:46:16.151115Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Education"}
  ],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2026-03-25","Chamber":"SENATE"},
@@ -12,7 +12,8 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"ORDERED TO THIRD READING CAL.1659","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,7 +1,7 @@
 {
  "PrintNo":"A4134","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-01-31T14:22:39.011146Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"}],
+ "Published":"2025-01-31T14:22:39.011146Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"}],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2025-01-31","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -9,9 +9,12 @@
   {"Text":"PRINT NUMBER 4134A","Date":"2026-05-12","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RULES REPORT CAL.475","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.475","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED BY S6020A","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}],
+ "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"},{"ID":1558,"Name":"Larinda Hooks","Short":"HOOKS"}],
  "Title":"Requires the director of the division of minority and women's business development in the department of economic development to give additional time for a business enterprise to cure defects",
  "Summary":"Requires the director of the division of minority and women's business development in the department of economic development to give additional time for a business enterprise to cure defects in its application for certification or correct defects when a certification is denied, revoked, or changed.",
  "LawSection":"Executive Law","LawCode":"Amd §314, Exec L",

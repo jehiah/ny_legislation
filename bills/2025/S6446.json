@@ -1,10 +1,7 @@
 {
  "PrintNo":"S6446","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-14T11:26:52.408174Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-19"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-03-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.946","Date":"2025-05-06","Chamber":"SENATE"},
@@ -20,7 +17,8 @@
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.544","Date":"2026-03-17","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-18","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-19","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

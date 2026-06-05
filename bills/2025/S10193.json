@@ -1,8 +1,28 @@
 {
  "PrintNo":"S10193","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-05T09:52:02.24536Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-05","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-05","Chamber":"SENATE"}],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-05","Chamber":"SENATE"},
+  {"Text":"1ST REPORT CAL.1136","Date":"2026-05-18","Chamber":"SENATE"},
+  {"Text":"2ND REPORT CAL.","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-20","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-18","Chamber":"SENATE","Committee":"Investigations And Government Operations",
+   "Votes":[
+    {"ID":1574,"Name":"Erik Bottcher","Short":"BOTTCHER","Vote":"Aye"},
+    {"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE","Vote":"Aye"},
+    {"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE","Vote":"Aye"},
+    {"ID":1237,"Name":"Rachel May","Short":"MAY","Vote":"Aye"},
+    {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS","Vote":"Aye"},
+    {"ID":415,"Name":"Thomas F. O'Mara","Short":"O'MARA","Vote":"Aye"},
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Nay"}
+   ]
+  }
+ ],
  "Sponsors":[{"ID":1549,"Name":"Siela Bynoe","Short":"BYNOE"}],
  "Title":"Relates to the ability of government agencies in New York to claim copyright protection",
  "Summary":"Waives the ability of government agencies in New York to claim copyright protection except where the record reflects artistic, creative or scholarly works of authorship, academic course materials, or scientific or academic research, or if the copyright owner intends to distribute the record of derivative work based on it to the public by sale or other transfer of ownership.",

@@ -1,9 +1,10 @@
 {
  "PrintNo":"S7529","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-21T16:46:44.098626Z",
- "Status":"PASSED_SENATE",
+ "Status":"IN_ASSEMBLY_COMM","Committee":"Governmental Employees",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Governmental Employees"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-04-21","Chamber":"SENATE"},
@@ -16,7 +17,8 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"ORDERED TO THIRD READING CAL.1625","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"},
+  {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
@@ -131,9 +133,9 @@
   {"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},{"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN"},
   {"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"},{"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},
   {"ID":1221,"Name":"Monica Martinez","Short":"MARTINEZ"},{"ID":1492,"Name":"Mario Mattera","Short":"MATTERA"},
-  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},
-  {"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},{"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"},
-  {"ID":1518,"Name":"William Weber","Short":"WEBER"}
+  {"ID":1489,"Name":"Anthony H. Palumbo","Short":"PALUMBO"},{"ID":1516,"Name":"Steve Rhoads","Short":"RHOADS"},
+  {"ID":1519,"Name":"Robert Rolison","Short":"ROLISON"},{"ID":1232,"Name":"James Skoufis","Short":"SKOUFIS"},
+  {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"},{"ID":1518,"Name":"William Weber","Short":"WEBER"}
  ],
  "Title":"Relates to the eligibility of New York city transit authority employees for performance of duty disability retirement",
  "Summary":"Relates to the eligibility of New York city transit authority employees for performance of duty disability retirement.",

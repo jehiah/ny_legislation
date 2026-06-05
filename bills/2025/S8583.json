@@ -1,9 +1,9 @@
 {
  "PrintNo":"S8583","Version":"C","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-11-17T09:18:28.301817Z","Status":"PASSED_SENATE",
+ "Published":"2025-11-17T09:18:28.301817Z","Status":"IN_ASSEMBLY_COMM","Committee":"Insurance",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Insurance"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-11-17","Chamber":"SENATE"},
@@ -17,7 +17,8 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"C"},
   {"Text":"ORDERED TO THIRD READING CAL.1637","Date":"2026-06-03","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE","Version":"C"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"C"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"C"},
+  {"Text":"REFERRED TO INSURANCE","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {

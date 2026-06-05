@@ -1,9 +1,10 @@
 {
  "PrintNo":"S9567","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-25T10:47:19.443365Z","Status":"PASSED_SENATE",
+ "Published":"2026-03-25T10:47:19.443365Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Ways And Means"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HEALTH","Date":"2026-03-25","Chamber":"SENATE"},
@@ -14,7 +15,8 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"ORDERED TO THIRD READING CAL.1660","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

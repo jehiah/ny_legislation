@@ -1,8 +1,12 @@
 {
- "PrintNo":"A10569","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-13T16:08:25.971129Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Health",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-13","Committee":"Health"}],
- "Actions":[{"Text":"REFERRED TO HEALTH","Date":"2026-03-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10569","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-13T16:08:25.971129Z","Status":"IN_ASSEMBLY_COMM","Committee":"Health",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Health"}],
+ "Actions":[
+  {"Text":"REFERRED TO HEALTH","Date":"2026-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO HEALTH","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10569A","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"},{"ID":1553,"Name":"Tommy Schiavoni","Short":"SCHIAVONI"},
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1554,"Name":"Rebecca Kassay","Short":"KASSAY"},
@@ -10,11 +14,11 @@
   {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},{"ID":1464,"Name":"Jodi Giglio","Short":"GIGLIO"},
   {"ID":469,"Name":"Michael J. Fitzpatrick","Short":"FITZPATRICK"},
   {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
-  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
+  {"ID":1241,"Name":"Judy Griffin","Short":"GRIFFIN"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1466,"Name":"Michael Durso","Short":"DURSO"}
  ],
- "Title":"Establishes pediatric palliative care centers",
- "Summary":"Enacts the \"pediatric palliative care act\" to establish pediatric palliative care centers to provide palliative care to individuals who are under twenty-one years of age, have been diagnosed with a chronic, complex, life-threatening illness that is expected to shorten their life expectancy, and is not expected to survive past twenty-one years of age.",
- "LawSection":"Public Health Law","LawCode":"Add §2801-I, amd §2807, Pub Health L",
- "ActClause":"AN ACT to amend the public health law, in relation to establishing pediatric palliative care homes that would fall under the category of residential care facilities",
- "SameAsPrintNo":"S9323-2025"
+ "Title":"Establishes a demonstration program for pediatric palliative care centers",
+ "Summary":"Enacts the \"pediatric palliative care center act\" to establish a demonstration program for pediatric palliative care centers for up to five not-for-profits to provide palliative care to individuals who are under twenty-one years of age, have been diagnosed with a chronic, complex, life-threatening illness that is expected to shorten their life expectancy, and is not expected to survive past twenty-one years of age; authorizes the establishment or approval of a rate methodology.",
+ "LawSection":"Public Health Law","LawCode":"Add §2801-i, amd §2807, Pub Health L",
+ "ActClause":"AN ACT to amend the public health law, in relation to establishing a demonstration program for pediatric palliative care centers; authorizing a rate methodology for pediatric palliative care centers; and providing for the repeal of such provisions upon expiration thereof"
 }

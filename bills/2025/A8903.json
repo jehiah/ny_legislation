@@ -1,18 +1,23 @@
 {
- "PrintNo":"A8903","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-06-16T12:24:42.311627Z","Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-22","Committee":"Local Governments"}],
+ "PrintNo":"A8903","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-06-16T12:24:42.311627Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-05-05","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 8903A","Date":"2026-05-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-05-22","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"PRINT NUMBER 8903B","Date":"2026-05-22","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"PRINT NUMBER 8903B","Date":"2026-05-22","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-05-26","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"PRINT NUMBER 8903C","Date":"2026-05-26","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"}],
  "Title":"Authorizes the county of Putnam to lease certain lands used as parklands",
  "Summary":"Authorizes the county of Putnam to lease certain lands used as parklands in the town of Carmel for use as a cell tower for thirty years.",
  "LawSection":"Putnam County",
- "ActClause":"AN ACT in relation to authorizing the county of Putnam to lease certain lands used as parklands"
+ "ActClause":"AN ACT in relation to authorizing the county of Putnam to lease certain lands used as parklands",
+ "SameAsPrintNo":"S8852-2025"
 }

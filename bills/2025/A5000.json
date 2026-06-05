@@ -1,13 +1,16 @@
 {
  "PrintNo":"A5000","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-02-10T14:03:36.795914Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"}],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-02-10","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LABOR","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO CODES","Date":"2026-02-04","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-28","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.477","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.477","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S4473","Date":"2026-06-04","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

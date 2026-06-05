@@ -1,7 +1,7 @@
 {
  "PrintNo":"A5036","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-11T12:57:16.44519Z","Status":"IN_ASSEMBLY_COMM","Committee":"Election Law",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Election Law"}],
+ "Published":"2025-02-11T12:57:16.44519Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO ELECTION LAW","Date":"2025-02-11","Chamber":"ASSEMBLY"},
   {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2025-02-14","Chamber":"ASSEMBLY"},
@@ -18,7 +18,13 @@
   {"Text":"OPINION REFERRED TO JUDICIARY","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"AMEND AND RECOMMIT TO ELECTION LAW","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PRINT NUMBER 5036C","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"TO ATTORNEY-GENERAL FOR OPINION","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"OPINION REFERRED TO JUDICIARY","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RULES REPORT CAL.534","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.534","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[{"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"}],
  "Title":"Requires elections and terms of certain officials occur on even-numbered years except in the city of New York",

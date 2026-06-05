@@ -1,9 +1,9 @@
 {
  "PrintNo":"S7491","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-17T14:38:34.684835Z","Status":"PASSED_SENATE",
+ "Published":"2025-04-17T14:38:34.684835Z","Status":"IN_ASSEMBLY_COMM","Committee":"Judiciary",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Judiciary"}
  ],
  "Actions":[
   {"Text":"REFERRED TO JUDICIARY","Date":"2025-04-17","Chamber":"SENATE"},
@@ -18,7 +18,8 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"ORDERED TO THIRD READING CAL.1624","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO JUDICIARY","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

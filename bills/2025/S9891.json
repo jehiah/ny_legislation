@@ -1,9 +1,9 @@
 {
  "PrintNo":"S9891","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-04-13T15:37:24.490186Z","Status":"PASSED_SENATE",
+ "Published":"2026-04-13T15:37:24.490186Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-03","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-03"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-03"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Codes"}
  ],
  "Actions":[
   {"Text":"REFERRED TO BANKS","Date":"2026-04-13","Chamber":"SENATE"},
@@ -15,7 +15,8 @@
   {"Text":"COMMITTEE DISCHARGED AND COMMITTED TO RULES","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"ORDERED TO THIRD READING CAL.1665","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"B"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE","Version":"B"},
+  {"Text":"REFERRED TO CODES","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

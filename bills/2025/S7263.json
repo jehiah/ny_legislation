@@ -1,10 +1,7 @@
 {
  "PrintNo":"S7263","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-04-07T14:14:22.876573Z","Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Internet And Technology"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-26"}
- ],
+ "Published":"2025-04-07T14:14:22.876573Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2025-04-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.931","Date":"2025-05-05","Chamber":"SENATE"},
@@ -15,7 +12,8 @@
   {"Text":"1ST REPORT CAL.434","Date":"2026-02-25","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-04","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING 7263A","Date":"2026-05-26","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 7263A","Date":"2026-05-26","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

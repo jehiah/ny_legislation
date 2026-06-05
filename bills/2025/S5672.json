@@ -1,16 +1,14 @@
 {
  "PrintNo":"S5672","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-02-27T10:45:02.896126Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-21"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-02-27","Chamber":"SENATE"},
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1265","Date":"2026-05-19","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

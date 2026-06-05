@@ -1,10 +1,7 @@
 {
  "PrintNo":"S1510","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-10T11:05:53.923026Z","Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-05-13","Committee":"New York City Education"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-21"}
- ],
+ "Published":"2025-01-10T11:05:53.923026Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO NEW YORK CITY EDUCATION","Date":"2025-01-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1305","Date":"2025-05-27","Chamber":"SENATE"},
@@ -20,7 +17,8 @@
   {"Text":"PRINT NUMBER 1510A","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"1ST REPORT CAL.1170","Date":"2026-05-19","Chamber":"SENATE","Version":"A"},
   {"Text":"2ND REPORT CAL.","Date":"2026-05-20","Chamber":"SENATE","Version":"A"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE","Version":"A"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-21","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

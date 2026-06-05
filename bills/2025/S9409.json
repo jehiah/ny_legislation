@@ -1,16 +1,14 @@
 {
  "PrintNo":"S9409","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-03-10T11:33:25.428671Z","Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-03-10","Committee":"Local Government"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-18"}
- ],
+ "Published":"2026-03-10T11:33:25.428671Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2026-03-10","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.670","Date":"2026-03-31","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-04-01","Chamber":"SENATE"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-04-07","Chamber":"SENATE"},
-  {"Text":"AMENDED ON THIRD READING 9409A","Date":"2026-05-18","Chamber":"SENATE","Version":"A"}
+  {"Text":"AMENDED ON THIRD READING 9409A","Date":"2026-05-18","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -30,5 +28,6 @@
  "Title":"Authorizes the commissioner of transportation to extend a lease of certain state lands located in the hamlet of Farmingdale, town of Babylon, county of Suffolk, state of New York",
  "Summary":"Authorizes the commissioner of transportation to execute a one-time extension of an existing lease of state-owned lands located at 1 and 2 Marriott Plaza located in the hamlet of Farmingdale, town of Babylon, county of Suffolk, state of New York.",
  "LawSection":"Suffolk County",
- "ActClause":"AN ACT authorizing the commissioner of transportation to extend a lease of certain state lands located in the hamlet of Farmingdale, town of Babylon, county of Suffolk, state of New York"
+ "ActClause":"AN ACT authorizing the commissioner of transportation to extend a lease of certain state lands located in the hamlet of Farmingdale, town of Babylon, county of Suffolk, state of New York",
+ "SameAsPrintNo":"A10662-2025"
 }

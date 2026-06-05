@@ -1,10 +1,7 @@
 {
  "PrintNo":"S6727","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-20T15:50:53.332306Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Crime Victims, Crime And Correction"},
-  {"Type":"SENATE_FLOOR","Date":"2026-02-26"}
- ],
+ "Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2025-03-20","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.1035","Date":"2025-05-13","Chamber":"SENATE"},
@@ -13,7 +10,9 @@
   {"Text":"COMMITTED TO RULES","Date":"2025-06-13","Chamber":"SENATE"},
   {"Text":"REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.426","Date":"2026-02-25","Chamber":"SENATE"},
-  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE"}
+  {"Text":"2ND REPORT CAL.","Date":"2026-02-26","Chamber":"SENATE"},
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-04","Chamber":"SENATE"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE"}
  ],
  "Votes":[
   {

@@ -1,10 +1,7 @@
 {
- "PrintNo":"S1859","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T10:16:32.458501Z",
- "Status":"SENATE_FLOOR",
- "Milestones":[
-  {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-19"}
- ],
+ "PrintNo":"S1859","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-14T10:16:32.458501Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-05","Committee":"Rules"}],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2025-01-14","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.942","Date":"2025-05-06","Chamber":"SENATE"},
@@ -18,7 +15,9 @@
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-07","Chamber":"SENATE"},
   {"Text":"1ST REPORT CAL.540","Date":"2026-03-17","Chamber":"SENATE"},
   {"Text":"2ND REPORT CAL.","Date":"2026-03-18","Chamber":"SENATE"},
-  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-19","Chamber":"SENATE"}
+  {"Text":"ADVANCED TO THIRD READING","Date":"2026-03-19","Chamber":"SENATE"},
+  {"Text":"AMENDED ON THIRD READING (T) 1859A","Date":"2026-05-11","Chamber":"SENATE","Version":"A"},
+  {"Text":"COMMITTED TO RULES","Date":"2026-06-05","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
@@ -114,9 +113,9 @@
   }
  ],
  "Sponsors":[{"ID":1228,"Name":"Zellnor Myrie","Short":"MYRIE"}],
- "Title":"Requires issuers of credit cards to give the cardholder at least 45 days notice before closing the cardholder's account",
- "Summary":"Requires issuers of credit cards to give the cardholder at least 45 days written notice via email, text message, or written letter before closing the cardholder's account.",
+ "Title":"Requires issuers of credit cards to give the cardholder at least thirty days notice before closing, cancelling, or terminating the cardholder's account",
+ "Summary":"Requires issuers of credit cards to give the cardholder at least thirty days written notice via email, text message, or written letter before closing, cancelling, or terminating the cardholder's account.",
  "LawSection":"General Business Law","LawCode":"Add §520-f, Gen Bus L",
- "ActClause":"AN ACT to amend the general business law, in relation to requiring issuers of credit cards to give the cardholder at least 45 days notice before closing the cardholder's account",
+ "ActClause":"AN ACT to amend the general business law, in relation to requiring issuers of credit cards to give the cardholder at least thirty days notice before closing, cancelling, or terminating the cardholder's account",
  "SameAsPrintNo":"A8744-2025","PreviousVersions":["S9583-2021","S223-2023"]
 }
