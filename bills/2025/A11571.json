@@ -1,11 +1,15 @@
 {
  "PrintNo":"A11571","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-06-03T13:22:23.207781Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-03","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.631","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.631","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S10586","Date":"2026-06-05","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":1576,"Name":"Diana Moreno","Short":"MORENO"}],
  "Title":"Extends provisions relating to public hearings on proposed rules",

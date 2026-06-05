@@ -1,10 +1,11 @@
 {
  "PrintNo":"S8681","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-01-07T11:04:58.510725Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Local Governments",
+ "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"SENATE_FLOOR","Date":"2026-05-04"},{"Type":"PASSED_SENATE","Date":"2026-05-12"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Local Governments"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Local Governments"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"SENATE"},
@@ -13,7 +14,11 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-12","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-12","Chamber":"SENATE"},
-  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-05-12","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-05-12","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED FOR A9200","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.573","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

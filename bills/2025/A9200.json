@@ -1,12 +1,16 @@
 {
  "PrintNo":"A9200","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-11-03T11:56:35.080706Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-29","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-11-03","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-05-18","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-29","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-05-29","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.573","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.573","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S8681","Date":"2026-06-05","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

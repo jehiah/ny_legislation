@@ -1,7 +1,7 @@
 {
  "PrintNo":"A8903","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-06-16T12:24:42.311627Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"}],
+ "Published":"2025-06-16T12:24:42.311627Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2025-06-16","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
@@ -12,7 +12,11 @@
   {"Text":"AMEND AND RECOMMIT TO LOCAL GOVERNMENTS","Date":"2026-05-26","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PRINT NUMBER 8903C","Date":"2026-05-26","Chamber":"ASSEMBLY","Version":"C"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"C"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"REPORTED","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"RULES REPORT CAL.571","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.571","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"SUBSTITUTED BY S8852C","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Sponsors":[{"ID":1536,"Name":"Matthew Slater","Short":"SLATER"}],
  "Title":"Authorizes the county of Putnam to lease certain lands used as parklands",

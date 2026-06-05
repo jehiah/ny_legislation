@@ -1,11 +1,19 @@
 {
  "PrintNo":"A10952","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-14T15:12:39.64111Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"}],
+ "Status":"PASSED_ASSEMBLY",
+ "Milestones":[
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
+ ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-04-14","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-02","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.596","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.596","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":608,"Name":"Edward Ra","Short":"RA"}],
  "Title":"Relates to the Volunteer and Exempt Firefighter's Benevolent Association of Albertson",

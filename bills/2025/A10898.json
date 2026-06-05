@@ -1,7 +1,7 @@
 {
  "PrintNo":"A10898","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-04-08T13:02:09.404774Z","Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"}],
+ "Published":"2026-04-08T13:02:09.404774Z","Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-04-08","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2026-06-02","Chamber":"ASSEMBLY"},
@@ -9,7 +9,11 @@
   {"Text":"AMEND AND RECOMMIT TO REAL PROPERTY TAXATION","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PRINT NUMBER 10898B","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"REPORTED","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"RULES REPORT CAL.592","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.592","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED BY S10095B","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[{"ID":1511,"Name":"Jake Ryan Blumencranz","Short":"BLUMENCRANZ"}],
  "Title":"Authorizes the Hicksville Water District to receive retroactive real property tax exempt status",

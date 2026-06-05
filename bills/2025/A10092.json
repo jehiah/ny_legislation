@@ -1,10 +1,14 @@
 {
  "PrintNo":"A10092","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-01-30T14:07:14.637428Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-30","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.577","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.577","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S9027","Date":"2026-06-05","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":1569,"Name":"Joseph Sempolinski","Short":"SEMPOLINSKI"}],
  "Title":"Authorizes the village of Ellicottville to impose a hotel and motel tax",

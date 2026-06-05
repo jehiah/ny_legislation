@@ -1,11 +1,15 @@
 {
  "PrintNo":"A11240","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-01T14:40:17.789566Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-05-01","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-03","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.614","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.614","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S9989","Date":"2026-06-05","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":908,"Name":"Karl Brabenec","Short":"BRABENEC"}],
  "Title":"Authorizes the Tovas Dovid Community Kollel, Inc. to receive retroactive real property tax exempt status",

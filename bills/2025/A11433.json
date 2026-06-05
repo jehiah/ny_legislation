@@ -1,16 +1,20 @@
 {
- "PrintNo":"A11433","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-15T16:54:26.297493Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-15","Committee":"Energy"}],
- "Actions":[{"Text":"REFERRED TO ENERGY","Date":"2026-05-15","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A11433","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-05-15T16:54:26.297493Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2026-05-15","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2026-06-01","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 11433A","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":907,"Name":"Jo Anne Simon","Short":"SIMON"},{"ID":1535,"Name":"MaryJane Shimsky","Short":"SHIMSKY"},
   {"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
   {"ID":1541,"Name":"Sarahana Shrestha","Short":"SHRESTHA"},{"ID":468,"Name":"Philip Ramos","Short":"RAMOS"},
-  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"}
+  {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
  ],
  "Title":"Enacts the NYS ratepayer protection nuclear moratorium act",
- "Summary":"Enacts the \"NYS ratepayer protection nuclear moratorium act\" under which certain state funds and subsidies are prohibited from being expended for new nuclear power facilities and related entities; creates a nuclear assessment task force.",
+ "Summary":"Enacts the \"NYS ratepayer protection nuclear moratorium act\" under which certain state funds and subsidies are prohibited from being expended for new, reopened or rebuilt closed nuclear power facilities and related entities; creates a nuclear assessment task force.",
  "LawSection":"Energy",
  "ActClause":"AN ACT in relation to enacting the \"NYS ratepayer protection nuclear moratorium act\"; and providing for the repeal of such provisions upon expiration thereof",
  "SameAsPrintNo":"S9962-2025"

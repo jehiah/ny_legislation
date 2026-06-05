@@ -1,10 +1,11 @@
 {
  "PrintNo":"S8616","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-12-12T15:53:22.451328Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-12-12T15:53:22.451328Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-05-29"},
   {"Type":"PASSED_SENATE","Date":"2026-06-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RULES","Date":"2025-12-12","Chamber":"SENATE"},
@@ -22,7 +23,9 @@
   {"Text":"AMENDED ON THIRD READING 8616B","Date":"2026-05-29","Chamber":"SENATE","Version":"B"},
   {"Text":"REPASSED SENATE","Date":"2026-06-04","Chamber":"SENATE","Version":"B"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED FOR A9396B","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.545","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

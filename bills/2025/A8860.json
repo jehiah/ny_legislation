@@ -1,16 +1,26 @@
 {
- "PrintNo":"A8860","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-09T17:24:36.708853Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Corporations, Authorities And Commissions",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"}],
+ "PrintNo":"A8860","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-06-09T17:24:36.708853Z","Status":"IN_ASSEMBLY_COMM",
+ "Committee":"Corporations, Authorities And Commissions",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Corporations, Authorities And Commissions"}],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-06-09","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {
+   "Text":"AMEND (T) AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-06-05",
+   "Chamber":"ASSEMBLY"
+  },
+  {"Text":"PRINT NUMBER 8860A","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"}],
+ "Sponsors":[
+  {"ID":1546,"Name":"Landon C. Dais","Short":"DAIS"},{"ID":1532,"Name":"Tony Simone","Short":"SIMONE"},
+  {"ID":1131,"Name":"Stacey Pheffer Amato","Short":"PHEFFER AMATO"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"},
+  {"ID":1238,"Name":"Joe DeStefano","Short":"DESTEFANO"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"}
+ ],
  "Title":"Relates to enforcement of toll collection regulations and license plate violations",
  "Summary":"Relates to enforcement of toll collection regulations and license plate violations; permits registration suspension, seizure and liens.",
  "LawSection":"Public Authorities Law",
- "LawCode":"Amd §2985, Pub Auth L; amd §§510, 401 & 402-b, add §2105-b, V & T L; amd §165.15, Pen L; amd §5230, CPLR; amd §184, add §212, Lien L",
- "ActClause":"AN ACT to amend the public authorities law, the vehicle and traffic law, the penal law, the civil practice law and rules and the lien law, in relation to enforcement of toll collection regulations and license plate violations",
+ "LawCode":"Amd §§2985, 2855 & 2985-a, Pub Auth L; amd §§510, 401 & 402-b, add §2105-b, V & T L",
+ "ActClause":"AN ACT to amend the public authorities law and the vehicle and traffic law, in relation to enforcement of toll collection regulations and license plate violations",
  "SameAsPrintNo":"S7905-2025"
 }

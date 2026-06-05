@@ -1,11 +1,15 @@
 {
  "PrintNo":"A11528","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-28T20:09:20.885718Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"}],
+ "Status":"ASSEMBLY_FLOOR",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"}],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-05-28","Chamber":"ASSEMBLY"},
   {"Text":"REFERENCE CHANGED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY"},
-  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"REPORTED REFERRED TO RULES","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"REPORTED","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"RULES REPORT CAL.628","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.628","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"SUBSTITUTED BY S10598","Date":"2026-06-05","Chamber":"ASSEMBLY"}
  ],
  "Sponsors":[{"ID":1466,"Name":"Michael Durso","Short":"DURSO"}],
  "Title":"Dedicates a portion of the state highway system to Trooper Gerard B. Kane",

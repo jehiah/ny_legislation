@@ -1,9 +1,11 @@
 {
  "PrintNo":"S9934","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-04-16T14:28:23.00259Z","Status":"PASSED_SENATE",
+ "Published":"2026-04-16T14:28:23.00259Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Internet And Technology"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-27"},{"Type":"PASSED_SENATE","Date":"2026-06-02"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-27"},{"Type":"PASSED_SENATE","Date":"2026-06-02"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},
+  {"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-04-16","Chamber":"SENATE"},
@@ -13,7 +15,11 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-05-26","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-27","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A11292","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.633","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
