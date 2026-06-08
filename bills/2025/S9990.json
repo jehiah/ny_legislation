@@ -1,10 +1,12 @@
 {
  "PrintNo":"S9990","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-04-21T11:35:14.029675Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2026-04-21T11:35:14.029675Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-04-21","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2026-06-01"},{"Type":"PASSED_SENATE","Date":"2026-06-04"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-06-08"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-04-21","Chamber":"SENATE"},
@@ -14,7 +16,12 @@
   {"Text":"AMENDED ON THIRD READING 9990A","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A11564","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.556","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-06-08","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
