@@ -3,7 +3,8 @@
  "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-02"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-02"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03"},
+  {"Type":"PASSED_SENATE","Date":"2026-06-02"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-03"}
  ],
  "Actions":[
@@ -12,6 +13,7 @@
   {"Text":"ORDERED TO THIRD READING CAL.1578","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-02","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A11341","Date":"2026-06-03","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.429","Date":"2026-06-03","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-03","Chamber":"ASSEMBLY"},

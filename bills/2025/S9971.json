@@ -3,7 +3,8 @@
  "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-02"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-02"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05"},
+  {"Type":"PASSED_SENATE","Date":"2026-06-02"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Real Property Taxation"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
  ],
  "Actions":[
@@ -12,6 +13,7 @@
   {"Text":"ORDERED TO THIRD READING CAL.1573","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-06-02","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A11134","Date":"2026-06-05","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.608","Date":"2026-06-05","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY"},

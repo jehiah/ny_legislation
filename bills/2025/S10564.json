@@ -3,7 +3,8 @@
  "Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-02"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-02"},{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04"},
+  {"Type":"PASSED_SENATE","Date":"2026-06-02"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Transportation"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"}
  ],
  "Actions":[
@@ -13,6 +14,7 @@
   {"Text":"HOME RULE REQUEST","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-06-02","Chamber":"ASSEMBLY"},
   {"Text":"SUBSTITUTED FOR A11479","Date":"2026-06-04","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.526","Date":"2026-06-04","Chamber":"ASSEMBLY"},
   {"Text":"HOME RULE REQUEST","Date":"2026-06-04","Chamber":"ASSEMBLY"},

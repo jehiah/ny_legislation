@@ -4,7 +4,7 @@
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Internet And Technology"},
   {"Type":"SENATE_FLOOR","Date":"2026-05-27"},{"Type":"PASSED_SENATE","Date":"2026-06-02"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
  ],
  "Actions":[
@@ -16,6 +16,7 @@
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-27","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO CODES","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"SUBSTITUTED FOR A11292","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.633","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
