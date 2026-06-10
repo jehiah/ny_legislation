@@ -1,11 +1,11 @@
 {
  "PrintNo":"A10000","Version":"D","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-21T12:11:16.560294Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2026-01-21T12:11:16.560294Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-27","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-27"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-27"},{"Type":"IN_SENATE_COMM","Date":"2026-05-27","Committee":"Finance"},
   {"Type":"SENATE_FLOOR","Date":"2026-05-27"},{"Type":"PASSED_SENATE","Date":"2026-05-27"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2026-05-28"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-05-28"},{"Type":"SIGNED_BY_GOV","Date":"2026-06-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-01-21","Chamber":"ASSEMBLY"},
@@ -30,7 +30,9 @@
   {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2026-05-27","Chamber":"SENATE","Version":"D"},
   {"Text":"PASSED SENATE","Date":"2026-05-27","Chamber":"SENATE","Version":"D"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-27","Chamber":"SENATE","Version":"D"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"D"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"SIGNED CHAP.50","Date":"2026-06-09","Chamber":"ASSEMBLY","Version":"D"},
+  {"Text":"LINE VETO MEMO.1","Date":"2026-06-09","Chamber":"ASSEMBLY","Version":"D"}
  ],
  "Votes":[
   {
