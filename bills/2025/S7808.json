@@ -1,10 +1,11 @@
 {
  "PrintNo":"S7808","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-05-09T11:01:43.533531Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-05-09T11:01:43.533531Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-01"},
   {"Type":"PASSED_SENATE","Date":"2026-06-01"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2025-05-09","Chamber":"SENATE"},
@@ -17,7 +18,12 @@
   {"Text":"HOME RULE REQUEST","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8322A","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.492","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"HOME RULE REQUEST","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

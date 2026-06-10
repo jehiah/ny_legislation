@@ -1,10 +1,11 @@
 {
  "PrintNo":"S3610","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-29T08:57:20.176252Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-01-29T08:57:20.176252Z","Status":"PASSED_ASSEMBLY",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-01"},
   {"Type":"PASSED_SENATE","Date":"2026-06-01"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"}
  ],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-01-29","Chamber":"SENATE"},
@@ -22,7 +23,11 @@
   {"Text":"ORDERED TO THIRD READING CAL.1450","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A8434","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.494","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

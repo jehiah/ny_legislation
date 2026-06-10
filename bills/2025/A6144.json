@@ -4,9 +4,37 @@
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-02-26","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN EDUCATION","Date":"2026-05-18","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},{"ID":1485,"Name":"Josh Jensen","Short":"JENSEN"}],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration         Correction Date:05/22/2026","Date":"2026-05-18","Chamber":"ASSEMBLY",
+   "Committee":"EDUCATION",
+   "Votes":[
+    {"ID":534,"Short":"BENEDETTO","Vote":"Aye"},{"ID":570,"Short":"MAGNARELLI","Vote":"Aye"},
+    {"ID":540,"Short":"PAULIN","Vote":"Aye"},{"ID":468,"Short":"RAMOS","Vote":"Aye"},
+    {"ID":665,"Short":"OTIS","Vote":"Aye"},{"ID":1089,"Short":"HYNDMAN","Vote":"Aye"},
+    {"ID":633,"Short":"BRONSON","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1259,"Short":"JACOBSON","Vote":"Aye"},{"ID":1476,"Short":"JACKSON","Vote":"Aye"},
+    {"ID":1472,"Short":"MITAYNES","Vote":"Aye"},{"ID":1506,"Short":"DE LOS SANTOS","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Aye"},{"ID":1505,"Short":"GIBBS","Vote":"Aye"},
+    {"ID":1460,"Short":"CLARK","Vote":"Aye"},{"ID":1534,"Short":"ZACCARO","Vote":"Aye"},
+    {"ID":1548,"Short":"TORRES","Vote":"Aye"},{"ID":1148,"Short":"SMITH","Vote":"Nay"},
+    {"ID":1245,"Short":"REILLY","Vote":"Nay"},{"ID":0,"Short":"BROWN","Vote":"Nay"},
+    {"ID":1528,"Short":"CHANG","Vote":"Nay"},{"ID":1529,"Short":"PIROZZOLO","Vote":"Nay"},
+    {"ID":1569,"Short":"SEMPOLINSKI","Vote":"Nay"},{"ID":1125,"Short":"MILLER","Vote":"Nay"},
+    {"ID":480,"Short":"MCDONOUGH","Vote":"Excused"},{"ID":1150,"Short":"MIKULIN","Vote":"Excused"},
+    {"ID":659,"Short":"KIM","Vote":"Excused"},{"ID":0,"Short":"BICHOTTE HERMEL","Vote":"Absent"},
+    {"ID":1249,"Short":"BUTTENSCHON","Vote":"Absent"},{"ID":1487,"Short":"CONRAD","Vote":"Absent"},
+    {"ID":1477,"Short":"SEPTIMO","Vote":"Absent"}
+   ]
+  }
+ ],
+ "Sponsors":[
+  {"ID":1483,"Name":"John Lemondes","Short":"LEMONDES"},{"ID":1485,"Name":"Josh Jensen","Short":"JENSEN"},
+  {"ID":589,"Name":"Stephen Hawley","Short":"HAWLEY"}
+ ],
  "Title":"Requires instruction in agriculture",
  "Summary":"Requires instruction in agriculture in every elementary, middle, and high school under state control or supported wholly or partly by the state.",
  "LawSection":"Education Law","LawCode":"Add §819, Ed L",

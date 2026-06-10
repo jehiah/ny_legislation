@@ -1,10 +1,11 @@
 {
  "PrintNo":"S4571","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-07T14:02:29.69109Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-02-07T14:02:29.69109Z","Status":"ASSEMBLY_FLOOR",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-01"},
   {"Type":"PASSED_SENATE","Date":"2026-06-01"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENERGY AND TELECOMMUNICATIONS","Date":"2025-02-07","Chamber":"SENATE"},
@@ -19,7 +20,9 @@
   {"Text":"ORDERED TO THIRD READING CAL.1456","Date":"2026-06-01","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-06-01","Chamber":"SENATE","Version":"B"},
   {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-01","Chamber":"SENATE","Version":"B"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"SUBSTITUTED FOR A6577B","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.395","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
