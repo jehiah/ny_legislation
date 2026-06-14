@@ -1,11 +1,12 @@
 {
  "PrintNo":"S10655","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-06-04T21:51:23.624045Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-04","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-06-04"},
   {"Type":"PASSED_SENATE","Date":"2026-06-04"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-05","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-06-12"}
  ],
  "Actions":[
   {"Text":"REFERRED TO FINANCE","Date":"2026-06-04","Chamber":"SENATE"},
@@ -20,7 +21,8 @@
   {"Text":"MESSAGE OF NECESSITY - APPROPRIATION","Date":"2026-06-05","Chamber":"ASSEMBLY"},
   {"Text":"MESSAGE OF NECESSITY - 3 DAY MESSAGE","Date":"2026-06-05","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-06-12","Chamber":"SENATE"}
  ],
  "Votes":[
   {
