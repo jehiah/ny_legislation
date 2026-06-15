@@ -1,10 +1,12 @@
 {
- "PrintNo":"S3990","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-31T09:51:59.78337Z",
- "Status":"IN_SENATE_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "PrintNo":"S3990","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-01-31T09:51:59.78337Z","Status":"IN_SENATE_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-06-15","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-31","Chamber":"SENATE"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-06-15","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 3990A","Date":"2026-06-15","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":416,"Name":"Kevin S. Parker","Short":"PARKER"},{"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD"},
@@ -14,5 +16,5 @@
  "Summary":"Relates to establishing the offense of false pretense.","LawSection":"Penal Law",
  "LawCode":"Add §190.22, Pen L",
  "ActClause":"AN ACT to amend the penal law, in relation to establishing the offense of false pretense",
- "SameAsPrintNo":"A1957-2025","PreviousVersions":["S5871-2015","S2848-2017","S4505-2019","S4789-2021","S5769-2023"]
+ "PreviousVersions":["S5871-2015","S2848-2017","S4505-2019","S4789-2021","S5769-2023"]
 }
