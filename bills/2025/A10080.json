@@ -1,11 +1,12 @@
 {
  "PrintNo":"A10080","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-30T14:05:56.937297Z","Status":"PASSED_SENATE",
+ "Published":"2026-01-30T14:05:56.937297Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-05","Committee":"Governmental Operations"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-25"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-30"},
   {"Type":"IN_SENATE_COMM","Date":"2026-03-30","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-01"},{"Type":"PASSED_SENATE","Date":"2026-04-01"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-01"},{"Type":"PASSED_SENATE","Date":"2026-04-01"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-06-18"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL OPERATIONS","Date":"2026-01-30","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S9020C","Date":"2026-04-01","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.532","Date":"2026-04-01","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-04-01","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-01","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-01","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-06-18","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {

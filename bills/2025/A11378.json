@@ -1,10 +1,11 @@
 {
  "PrintNo":"A11378","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-15T09:41:41.941514Z",
- "Status":"PASSED_SENATE",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},{"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Cities 1"},
-  {"Type":"SENATE_FLOOR","Date":"2026-06-03"},{"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-03"},{"Type":"PASSED_SENATE","Date":"2026-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-06-18"}
  ],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-05-15","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR S10365","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1685","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-06-18","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
