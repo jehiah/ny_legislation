@@ -1,12 +1,12 @@
 {
  "PrintNo":"A10851","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-07T12:13:16.436799Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-07","Committee":"Economic Development"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-28"},
   {"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Commerce, Economic Development And Small Business"},
   {"Type":"SENATE_FLOOR","Date":"2026-06-02"},{"Type":"PASSED_SENATE","Date":"2026-06-02"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2026-06-18"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-06-18"},{"Type":"SIGNED_BY_GOV","Date":"2026-06-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-04-07","Chamber":"ASSEMBLY"},
@@ -19,7 +19,8 @@
   {"Text":"3RD READING CAL.1592","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-06-18","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-06-18","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.143","Date":"2026-06-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

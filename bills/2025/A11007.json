@@ -1,11 +1,12 @@
 {
  "PrintNo":"A11007","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-17T13:31:41.680831Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-07"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-12"},
   {"Type":"IN_SENATE_COMM","Date":"2026-05-12","Committee":"Education"},{"Type":"SENATE_FLOOR","Date":"2026-06-01"},
-  {"Type":"PASSED_SENATE","Date":"2026-06-01"},{"Type":"DELIVERED_TO_GOV","Date":"2026-06-18"}
+  {"Type":"PASSED_SENATE","Date":"2026-06-01"},{"Type":"DELIVERED_TO_GOV","Date":"2026-06-18"},
+  {"Type":"SIGNED_BY_GOV","Date":"2026-06-26"}
  ],
  "Actions":[
   {"Text":"REFERRED TO HIGHER EDUCATION","Date":"2026-04-17","Chamber":"ASSEMBLY"},
@@ -19,7 +20,8 @@
   {"Text":"3RD READING CAL.1516","Date":"2026-06-01","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-01","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-01","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-06-18","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-06-18","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.146","Date":"2026-06-26","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
