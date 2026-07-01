@@ -4,9 +4,24 @@
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Correction"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-02-04","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN CORRECTION","Date":"2026-04-21","Chamber":"ASSEMBLY"}
  ],
- "Sponsors":[{"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"}],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2026-04-21","Chamber":"ASSEMBLY","Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1577,"Short":"POWERS","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Nay"}
+   ]
+  }
+ ],
+ "Sponsors":[{"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"},{"ID":1481,"Name":"Joe Angelino","Short":"ANGELINO"}],
  "Title":"Relates to membership on the state board of parole",
  "Summary":"Requires the state board of parole to include at least one member who is or was a member of law enforcement and at least one member who is a crime victim or crime victim's representative.",
  "LawSection":"Executive Law","LawCode":"Amd §259-b, Exec L",

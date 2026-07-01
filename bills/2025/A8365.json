@@ -1,16 +1,36 @@
 {
  "PrintNo":"A8365","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-13T14:40:56.318193Z","Status":"IN_ASSEMBLY_COMM","Committee":"Veterans' Affairs",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-22","Committee":"Veterans' Affairs"}],
+ "Published":"2025-05-13T14:40:56.318193Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-28","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2025-05-13","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO VETERANS' AFFAIRS","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO VETERANS' AFFAIRS","Date":"2026-04-22","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 8365A","Date":"2026-04-22","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 8365A","Date":"2026-04-22","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-28","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-04-28","Chamber":"ASSEMBLY",
+   "Committee":"VETERANS' AFFAIRS",
+   "Votes":[
+    {"ID":1147,"Short":"STERN","Vote":"Aye"},{"ID":1251,"Short":"MANKTELOW","Vote":"Aye"},
+    {"ID":1105,"Short":"HUNTER","Vote":"Aye"},{"ID":1135,"Short":"MORINELLO","Vote":"Aye"},
+    {"ID":589,"Short":"HAWLEY","Vote":"Aye"},{"ID":1249,"Short":"BUTTENSCHON","Vote":"Aye"},
+    {"ID":1248,"Short":"SMULLEN","Vote":"Aye"},{"ID":1470,"Short":"RAJKUMAR","Vote":"Aye"},
+    {"ID":1481,"Short":"ANGELINO","Vote":"Aye"},{"ID":1477,"Short":"SEPTIMO","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1539,"Short":"EACHUS","Vote":"Aye"},
+    {"ID":1545,"Short":"BERGER","Vote":"Aye"},{"ID":1241,"Short":"GRIFFIN","Vote":"Aye"},
+    {"ID":1564,"Short":"KAY","Vote":"Aye"},{"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},
+    {"ID":1553,"Short":"SCHIAVONI","Vote":"Aye"},{"ID":1573,"Short":"CASHMAN","Vote":"Aye"},
+    {"ID":1131,"Short":"PHEFFER AMATO","Vote":"Excused"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},{"ID":1147,"Name":"Steve Stern","Short":"STERN"},
-  {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"}
+  {"ID":1555,"Name":"Kwani O'Pharrow","Short":"O'PHARROW"},{"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},
+  {"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}
  ],
  "Title":"Relates to eligibility for admission to New York state veterans' homes",
  "Summary":"Expands eligibility for admission to New York state veterans' homes to certain veterans who have an immediate family member who shall have been a resident of this state for six months prior to the date of application for admission; defines an immediate family member to include a spouse, or a birth or adoptive parent, child, sibling, stepparent, stepchild, stepsibling, grandparent and grandchild; requires, where applicable, the immediate family member of a veteran applicant to file an affidavit of New York state residence; authorizes veterans with an immediate family member who has been a New York state resident for six months to be entitled to admission to the Long Island state veterans home at Stony Brook university.",
