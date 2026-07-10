@@ -1,10 +1,12 @@
 {
- "PrintNo":"S7445","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-04-16T13:23:33.419027Z",
- "Status":"IN_SENATE_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Education"}],
+ "PrintNo":"S7445","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-04-16T13:23:33.419027Z","Status":"IN_SENATE_COMM","Committee":"Education",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-07-10","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-04-16","Chamber":"SENATE"},
-  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO EDUCATION","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO EDUCATION","Date":"2026-07-10","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7445A","Date":"2026-07-10","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1571,"Name":"Patricia Fahy","Short":"FAHY"},{"ID":384,"Name":"Joseph P. Addabbo Jr.","Short":"ADDABBO"},
@@ -12,9 +14,9 @@
   {"ID":951,"Name":"Pamela Helming","Short":"HELMING"},{"ID":1227,"Name":"Julia Salazar","Short":"SALAZAR"},
   {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON"}
  ],
- "Title":"Requires schools to follow seizure action plans developed by health care providers of students diagnosed with a seizure disorder",
- "Summary":"Requires schools to follow seizure action plans developed by health care providers of students diagnosed with a seizure disorder; requires schools to provide seizure awareness training to certain employees on the recognition of signs and symptoms of a seizure and the appropriate steps to be taken to respond to such symptoms.",
- "LawSection":"Education Law","LawCode":"Add §§3001-e & 3001-f, amd §921, Ed L",
+ "Title":"Requires public schools to follow seizure action plans developed by health care providers of students diagnosed with a seizure disorder",
+ "Summary":"Requires public schools to follow seizure action plans developed by health care providers of students diagnosed with a seizure disorder; requires schools to provide seizure awareness training to certain employees on the recognition of signs and symptoms of a seizure and the appropriate steps to be taken to respond to such symptoms.",
+ "LawSection":"Education Law","LawCode":"Add §§916-c, 3039 & 916-d, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to seizure action plans for students diagnosed with a seizure disorder and requiring training on the signs and symptoms of a seizure and how to respond to such symptoms",
  "SameAsPrintNo":"A8726-2025","PreviousVersions":["A9996-2019","A6019-2021","S7073-2023"]
 }

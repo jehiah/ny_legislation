@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9234","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-11-07T13:08:25.313138Z","Status":"PASSED_SENATE",
+ "Published":"2025-11-07T13:08:25.313138Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-20","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-03-12"},{"Type":"PASSED_ASSEMBLY","Date":"2026-03-16"},
   {"Type":"IN_SENATE_COMM","Date":"2026-03-16","Committee":"Racing, Gaming And Wagering"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-24"},{"Type":"PASSED_SENATE","Date":"2026-03-24"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-24"},{"Type":"PASSED_SENATE","Date":"2026-03-24"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-07-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO RACING AND WAGERING","Date":"2025-11-07","Chamber":"ASSEMBLY"},
@@ -23,7 +24,8 @@
   {"Text":"SUBSTITUTED FOR S9183","Date":"2026-03-24","Chamber":"SENATE","Version":"B"},
   {"Text":"3RD READING CAL.552","Date":"2026-03-24","Chamber":"SENATE","Version":"B"},
   {"Text":"PASSED SENATE","Date":"2026-03-24","Chamber":"SENATE","Version":"B"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-03-24","Chamber":"SENATE","Version":"B"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-03-24","Chamber":"SENATE","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-07-10","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
