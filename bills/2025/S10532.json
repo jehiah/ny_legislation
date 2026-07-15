@@ -1,12 +1,17 @@
 {
- "PrintNo":"S10532","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-19T10:50:44.641177Z",
- "Status":"IN_SENATE_COMM","Committee":"Investigations And Government Operations",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-05-19","Committee":"Investigations And Government Operations"}],
- "Actions":[{"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-19","Chamber":"SENATE"}],
+ "PrintNo":"S10532","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-05-19T10:50:44.641177Z","Status":"IN_SENATE_COMM",
+ "Committee":"Investigations And Government Operations",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-07-08","Committee":"Investigations And Government Operations"}],
+ "Actions":[
+  {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2026-07-08","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10532A","Date":"2026-07-08","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1497,"Name":"Michelle Hinchey","Short":"HINCHEY"}],
  "Title":"Authorizes Ulster county to establish a property tax offset by means of a resident income tax surcharge",
  "Summary":"Authorizes Ulster county to establish a property tax offset by means of a resident income tax surcharge; requires the Ulster county legislature to adopt a local law prior to imposing such surcharge.",
- "LawSection":"Tax Law","LawCode":"Add Art 30-C §§1360 - 1376, Tax L",
+ "LawSection":"Tax Law","LawCode":"Add Art 30-D §§1360 - 1376, Tax L",
  "ActClause":"AN ACT to amend the tax law, in relation to establishing a property tax offset in Ulster county",
  "SameAsPrintNo":"A11460-2025"
 }
