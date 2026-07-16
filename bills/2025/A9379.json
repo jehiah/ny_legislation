@@ -1,13 +1,15 @@
 {
- "PrintNo":"A9379","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A9379","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2025-12-19T16:14:56.737276Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-10","Committee":"Ways And Means"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2025-12-19","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO MENTAL HEALTH","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO MENTAL HEALTH","Date":"2026-03-05","Chamber":"ASSEMBLY"},
   {"Text":"PRINT NUMBER 9379A","Date":"2026-03-05","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-10","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-03-10","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND AND RECOMMIT TO WAYS AND MEANS","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 9379B","Date":"2026-06-01","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Votes":[
   {
@@ -30,10 +32,12 @@
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1537,"Name":"Dana Levenberg","Short":"LEVENBERG"},
   {"ID":1539,"Name":"Christopher Eachus","Short":"EACHUS"},
   {"ID":898,"Name":"Rodneyse Bichotte Hermelyn","Short":"BICHOTTE HERMELYN"},
-  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"}
+  {"ID":1258,"Name":"Nader Sayegh","Short":"SAYEGH"},{"ID":1534,"Name":"John Zaccaro Jr.","Short":"ZACCARO"},
+  {"ID":1530,"Name":"Grace Lee","Short":"LEE"}
  ],
  "Title":"Establishes a master of social work paid field practicum pilot program",
  "Summary":"Establishes a master of social work paid field practicum pilot program to provide a stipend to students who are enrolled in a master of social work program for the first 450 hours of field practicum completed towards such masters' degree; requires the office of mental health to complete a report making recommendations on how to expand the pilot program to increase the number of social workers in the state, improve representation in the field of social work, mitigate student debt and improve labor conditions for social workers upon graduation.",
  "LawSection":"Mental Hygiene Law","LawCode":"Add §7.51, Ment Hyg L",
- "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing a master of social work paid field practicum pilot program"
+ "ActClause":"AN ACT to amend the mental hygiene law, in relation to establishing a master of social work paid field practicum pilot program",
+ "SameAsPrintNo":"S7894-2025"
 }
