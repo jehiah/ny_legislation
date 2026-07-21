@@ -4,7 +4,20 @@
  "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Real Property Taxation"}],
  "Actions":[
   {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2025-01-16","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO REAL PROPERTY TAXATION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"HELD FOR CONSIDERATION IN REAL PROPERTY TAXATION","Date":"2026-05-12","Chamber":"ASSEMBLY"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Held for Consideration","Date":"2026-05-12","Chamber":"ASSEMBLY","Committee":"REAL PROPERTY TAXATION",
+   "Votes":[
+    {"ID":1116,"Short":"WILLIAMS","Vote":"Aye"},{"ID":1243,"Short":"EICHENSTEIN","Vote":"Aye"},
+    {"ID":1533,"Short":"ALVAREZ","Vote":"Aye"},{"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},
+    {"ID":1555,"Short":"O'PHARROW","Vote":"Aye"},{"ID":1565,"Short":"ROMERO","Vote":"Aye"},
+    {"ID":1576,"Short":"MORENO","Vote":"Aye"},{"ID":1566,"Short":"BAILEY","Vote":"Nay"},
+    {"ID":1125,"Short":"MILLER","Vote":"Nay"},{"ID":1152,"Short":"TAGUE","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1465,"Name":"Jerett Gandolfo","Short":"GANDOLFO"},{"ID":631,"Name":"Kenneth Blankenbush","Short":"BLANKENBUSH"},
@@ -20,7 +33,7 @@
   {"ID":1484,"Name":"Jeff Gallahan","Short":"GALLAHAN"},{"ID":1150,"Name":"John K. Mikulin","Short":"MIKULIN"},
   {"ID":1529,"Name":"Samuel Pirozzolo","Short":"PIROZZOLO"},{"ID":1542,"Name":"Anil Beephan Jr.","Short":"BEEPHAN"},
   {"ID":499,"Name":"Alec Brook-Krasny","Short":"BROOK-KRASNY"},
-  {"ID":1475,"Name":"Michael Tannousis","Short":"TANNOUSIS"}
+  {"ID":1475,"Name":"Michael Tannousis","Short":"TANNOUSIS"},{"ID":1148,"Name":"Doug Smith","Short":"SMITH"}
  ],
  "Title":"Relates to raising the income cap for senior citizens applying for the enhanced STAR property tax exemption",
  "Summary":"Relates to raising the income cap for senior citizens applying for the enhanced STAR property tax exemption to $120,000.",
