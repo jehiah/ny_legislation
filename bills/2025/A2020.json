@@ -1,10 +1,11 @@
 {
  "PrintNo":"A2020","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-14T12:40:34.002588Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-13","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},{"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Codes"},
-  {"Type":"SENATE_FLOOR","Date":"2026-06-03"},{"Type":"PASSED_SENATE","Date":"2026-06-03"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-03"},{"Type":"PASSED_SENATE","Date":"2026-06-03"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-07-17"},{"Type":"SIGNED_BY_GOV","Date":"2026-07-24"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-14","Chamber":"ASSEMBLY"},
@@ -29,7 +30,9 @@
   {"Text":"SUBSTITUTED FOR S1679","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1610","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-07-17","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.170","Date":"2026-07-24","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

@@ -1,11 +1,12 @@
 {
  "PrintNo":"A10525","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-06T10:16:00.348783Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},
   {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Commerce, Economic Development And Small Business"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-19"},{"Type":"PASSED_SENATE","Date":"2026-05-19"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-19"},{"Type":"PASSED_SENATE","Date":"2026-05-19"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-07-17"},{"Type":"SIGNED_BY_GOV","Date":"2026-07-24"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-03-06","Chamber":"ASSEMBLY"},
@@ -18,7 +19,9 @@
   {"Text":"SUBSTITUTED FOR S9543","Date":"2026-05-19","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.876","Date":"2026-05-19","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-19","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-19","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-07-17","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.177","Date":"2026-07-24","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
