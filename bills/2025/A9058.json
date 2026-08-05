@@ -1,11 +1,11 @@
 {
  "PrintNo":"A9058","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-09-05T10:36:16.362071Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-09-05T10:36:16.362071Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-10","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-03-12"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-03-16"},{"Type":"IN_SENATE_COMM","Date":"2026-03-16","Committee":"Cities 1"},
   {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2026-07-31"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-07-31"},{"Type":"SIGNED_BY_GOV","Date":"2026-08-05"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CITIES","Date":"2025-09-05","Chamber":"ASSEMBLY"},
@@ -22,7 +22,8 @@
   {"Text":"3RD READING CAL.1734","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-07-31","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-07-31","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.206","Date":"2026-08-05","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
