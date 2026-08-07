@@ -1,11 +1,12 @@
 {
  "PrintNo":"A8515","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-20T14:55:59.796655Z","Status":"PASSED_SENATE",
+ "Published":"2025-05-20T14:55:59.796655Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-05","Committee":"Environmental Conservation"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-02-12"},{"Type":"PASSED_ASSEMBLY","Date":"2026-02-24"},
   {"Type":"IN_SENATE_COMM","Date":"2026-02-24","Committee":"Environmental Conservation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-03-05"},{"Type":"PASSED_SENATE","Date":"2026-03-05"}
+  {"Type":"SENATE_FLOOR","Date":"2026-03-05"},{"Type":"PASSED_SENATE","Date":"2026-03-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-08-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2025-05-20","Chamber":"ASSEMBLY"},
@@ -20,7 +21,8 @@
   {"Text":"SUBSTITUTED FOR S2292B","Date":"2026-03-05","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.376","Date":"2026-03-05","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-03-05","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-03-05","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-03-05","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-08-07","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
@@ -141,7 +143,8 @@
   {"ID":1259,"Name":"Jonathan Jacobson","Short":"JACOBSON"},{"ID":576,"Name":"Donna Lupardo","Short":"LUPARDO"},
   {"ID":488,"Name":"Andrew Hevesi","Short":"HEVESI"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
   {"ID":1122,"Name":"Robert C. Carroll","Short":"CARROLL R"},
-  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"}
+  {"ID":662,"Name":"John T. McDonald III","Short":"MCDONALD"},
+  {"ID":469,"Name":"Michael J. Fitzpatrick","Short":"FITZPATRICK"}
  ],
  "Title":"Enacts the whale awareness act",
  "Summary":"Enacts the whale awareness act directing the department of environmental conservation to establish recommendations and educational materials for reduction of marine mammal interactions.",

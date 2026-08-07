@@ -1,11 +1,12 @@
 {
  "PrintNo":"S10042","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-24T13:36:21.964879Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-04-24","Committee":"Environmental Conservation"},
   {"Type":"SENATE_FLOOR","Date":"2026-05-07"},{"Type":"PASSED_SENATE","Date":"2026-05-18"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Environmental Conservation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-28"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-28"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-08-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-04-24","Chamber":"SENATE"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR A11361","Date":"2026-05-28","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.197","Date":"2026-05-28","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-05-28","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-05-28","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-05-28","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-08-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {

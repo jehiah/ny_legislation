@@ -1,11 +1,12 @@
 {
  "PrintNo":"S9864","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-04-09T09:19:40.153272Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-02"},
   {"Type":"PASSED_SENATE","Date":"2026-06-02"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Transportation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-08-07"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2026-04-09","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.519","Date":"2026-06-04","Chamber":"ASSEMBLY"},
   {"Text":"HOME RULE REQUEST","Date":"2026-06-04","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-08-07","Chamber":"SENATE"}
  ],
  "Votes":[
   {
