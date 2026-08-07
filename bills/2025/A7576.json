@@ -1,18 +1,34 @@
 {
  "PrintNo":"A7576","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-04-01T14:24:01.145072Z","Status":"IN_ASSEMBLY_COMM","Committee":"Correction",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-17","Committee":"Correction"}],
+ "Published":"2025-04-01T14:24:01.145072Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Ways And Means"}],
  "Actions":[
   {"Text":"REFERRED TO CORRECTION","Date":"2025-04-01","Chamber":"ASSEMBLY"},
   {"Text":"REFERRED TO CORRECTION","Date":"2026-01-07","Chamber":"ASSEMBLY"},
   {"Text":"AMEND AND RECOMMIT TO CORRECTION","Date":"2026-04-17","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 7576A","Date":"2026-04-17","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 7576A","Date":"2026-04-17","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"REPORTED REFERRED TO WAYS AND MEANS","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"A"}
+ ],
+ "Votes":[
+  {
+   "VoteType":"Favorable refer to committee Ways and Means","Date":"2026-04-21","Chamber":"ASSEMBLY",
+   "Committee":"CORRECTION",
+   "Votes":[
+    {"ID":900,"Short":"DILAN","Vote":"Aye"},{"ID":500,"Short":"COLTON","Vote":"Aye"},
+    {"ID":1478,"Short":"BURDICK","Vote":"Aye"},{"ID":1482,"Short":"KELLES","Vote":"Aye"},
+    {"ID":1242,"Short":"CRUZ","Vote":"Aye"},{"ID":1537,"Short":"LEVENBERG","Vote":"Aye"},
+    {"ID":1557,"Short":"BURROUGHS","Vote":"Aye"},{"ID":474,"Short":"LAVINE","Vote":"Aye"},
+    {"ID":1577,"Short":"POWERS","Vote":"Aye"},{"ID":656,"Short":"DIPIETRO","Vote":"Nay"},
+    {"ID":1238,"Short":"DESTEFANO","Vote":"Nay"},{"ID":1542,"Short":"BEEPHAN","Vote":"Nay"},
+    {"ID":1484,"Short":"GALLAHAN","Vote":"Nay"}
+   ]
+  }
  ],
  "Sponsors":[
   {"ID":1533,"Name":"George Alvarez","Short":"ALVAREZ"},{"ID":1141,"Name":"Al Taylor","Short":"TAYLOR"},
   {"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},{"ID":1506,"Name":"Manny De Los Santos","Short":"DE LOS SANTOS"},
   {"ID":1476,"Name":"Chantel Jackson","Short":"JACKSON"},{"ID":1144,"Name":"Harvey Epstein","Short":"EPSTEIN"},
-  {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"}
+  {"ID":1462,"Name":"Demond Meeks","Short":"MEEKS"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}
  ],
  "Title":"Enacts the \"McDow Watson medical transparency in correctional facilities act\"",
  "Summary":"Relates to required notification of an incarcerated individual's emergency contacts when such incarcerated individual experiences a serious medical event; provides that incarcerated individuals and their representatives shall have the right to access such incarcerated individual's medical records; provides requirements for access to such medical records; requires the department of corrections and community supervision to collect data on medical incidents and response times, and to publish an annual report detailing such data.",
