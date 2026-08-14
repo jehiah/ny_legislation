@@ -1,15 +1,17 @@
 {
- "PrintNo":"A7639","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-04-04T12:49:15.80165Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Economic Development"}],
+ "PrintNo":"A7639","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-04-04T12:49:15.80165Z","Status":"IN_ASSEMBLY_COMM","Committee":"Economic Development",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-08-14","Committee":"Economic Development"}],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-04-04","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND (T) AND RECOMMIT TO ECONOMIC DEVELOPMENT","Date":"2026-08-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 7639A","Date":"2026-08-14","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Sponsors":[{"ID":571,"Name":"Albert A. Stirpe","Short":"STIRPE"}],
- "Title":"Allows cooperative agreements by licensees to sell wine or liquor at retail for consumption off the premises",
- "Summary":"Allows certain licensees to form cooperative agreements to make joint purchases of alcoholic beverages provided that such agreement and activity conform to certain standards.",
- "LawSection":"Alcoholic Beverage Control Law","LawCode":"Add §106-c, ABC L",
- "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to allowing cooperative agreements by licensees to sell wine or liquor at retail for consumption off the premises",
- "PreviousVersions":["A10306-2021","A9060-2023"]
+ "Title":"Allows licensees to sell wine or liquor at retail to certain other licensees for resale for consumption off the premises",
+ "Summary":"Allows licensees to sell wine or liquor at retail for consumption off the premises to certain other licensees; allows such other licensees to resell such wine or liquor for consumption off the premises.",
+ "LawSection":"Alcoholic Beverage Control Law","LawCode":"Amd §105, ABC L",
+ "ActClause":"AN ACT to amend the alcoholic beverage control law, in relation to allowing licensees to sell wine or liquor at retail for consumption off the premises to other licensees, and allowing such licensees to purchase and resell wine or liquor at retail for consumption off the premises",
+ "SameAsPrintNo":"S370-2025","PreviousVersions":["A10306-2021","A9060-2023"]
 }

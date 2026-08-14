@@ -1,13 +1,18 @@
 {
- "PrintNo":"A10640","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-13T16:43:07.480753Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-13","Committee":"Banks"}],
- "Actions":[{"Text":"REFERRED TO BANKS","Date":"2026-03-13","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10640","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-13T16:43:07.480753Z","Status":"IN_ASSEMBLY_COMM","Committee":"Banks",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-08-14","Committee":"Banks"}],
+ "Actions":[
+  {"Text":"REFERRED TO BANKS","Date":"2026-03-13","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO BANKS","Date":"2026-08-14","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10640A","Date":"2026-08-14","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1118,"Name":"Clyde Vanel","Short":"VANEL"},{"ID":1503,"Name":"Yudelka Tapia","Short":"TAPIA"},
   {"ID":484,"Name":"David Weprin","Short":"WEPRIN"}
  ],
  "Title":"Relates to the accessibility of consumer financial data and the prohibition of fees for the transfer of such data to authorized parties",
  "Summary":"Provides for the accessibility of consumer financial data; prohibits fees for the transfer of such data to authorized parties.",
- "LawSection":"Banking Law","LawCode":"Add Art 14-C §§800 - 805, Bank L","SameAsPrintNo":"S9483-2025"
+ "LawSection":"Banking Law","LawCode":"Add Art 14-C §§800 - 805, Bank L",
+ "ActClause":"AN ACT to amend the banking law, in relation to the accessibility of consumer financial data and the prohibition of fees for the transfer of such data to authorized parties"
 }
