@@ -1,11 +1,12 @@
 {
  "PrintNo":"S4325","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-02-04T10:01:43.744464Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2025-02-04T10:01:43.744464Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Local Government"},
   {"Type":"SENATE_FLOOR","Date":"2026-05-13"},{"Type":"PASSED_SENATE","Date":"2026-05-18"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-18","Committee":"Real Property Taxation"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-08-14"},{"Type":"SIGNED_BY_GOV","Date":"2026-08-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENT","Date":"2025-02-04","Chamber":"SENATE"},
@@ -28,7 +29,9 @@
   {"Text":"SUBSTITUTED FOR A8894A","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.570","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-08-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.243","Date":"2026-08-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

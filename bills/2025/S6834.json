@@ -1,9 +1,12 @@
 {
  "PrintNo":"S6834","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-03-25T10:32:59.38068Z","Status":"PASSED_SENATE",
+ "Published":"2025-03-25T10:32:59.38068Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Investigations And Government Operations"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-14"},{"Type":"PASSED_SENATE","Date":"2026-05-28"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-14"},{"Type":"PASSED_SENATE","Date":"2026-05-28"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-08-14"},{"Type":"SIGNED_BY_GOV","Date":"2026-08-21"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS","Date":"2025-03-25","Chamber":"SENATE"},
@@ -14,7 +17,15 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-05-13","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-14","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-05-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A7960","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.539","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"HOME RULE REQUEST","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-08-14","Chamber":"SENATE","Version":"A"},
+  {"Text":"SIGNED CHAP.246","Date":"2026-08-21","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
