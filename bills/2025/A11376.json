@@ -1,10 +1,11 @@
 {
  "PrintNo":"A11376","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-14T18:07:38.684913Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},{"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-08-21"},{"Type":"SIGNED_BY_GOV","Date":"2026-08-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ENVIRONMENTAL CONSERVATION","Date":"2026-05-14","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S9903","Date":"2026-06-04","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1426","Date":"2026-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-08-21","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.275","Date":"2026-08-28","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
