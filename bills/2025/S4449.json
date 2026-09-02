@@ -9,6 +9,20 @@
   {"Text":"AMEND AND RECOMMIT TO FINANCE","Date":"2026-05-20","Chamber":"SENATE"},
   {"Text":"PRINT NUMBER 4449A","Date":"2026-05-20","Chamber":"SENATE","Version":"A"}
  ],
+ "Votes":[
+  {
+   "VoteType":"COMMITTEE","Date":"2026-05-19","Chamber":"SENATE","Committee":"New York City Education",
+   "Votes":[
+    {"ID":1550,"Name":"Stephen T. Chan","Short":"CHAN","Vote":"Aye"},
+    {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON","Vote":"Aye"},
+    {"ID":1225,"Name":"John Liu","Short":"LIU","Vote":"Aye"},
+    {"ID":914,"Name":"Roxanne J. Persaud","Short":"PERSAUD","Vote":"Aye"},
+    {"ID":1142,"Name":"Luis R. Sepúlveda","Short":"SEPULVEDA","Vote":"Aye"},
+    {"ID":1572,"Name":"Sam Sutton","Short":"SUTTON","Vote":"Aye"},
+    {"ID":1103,"Name":"James Tedisco","Short":"TEDISCO","Vote":"Aye"}
+   ]
+  }
+ ],
  "Sponsors":[
   {"ID":1230,"Name":"Robert Jackson","Short":"JACKSON"},{"ID":1504,"Name":"Cordell Cleare","Short":"CLEARE"},
   {"ID":1225,"Name":"John Liu","Short":"LIU"}
@@ -17,5 +31,5 @@
  "Summary":"Relates to making a city school district in a city having a population of one million or more eligible for transitional aid for charter school payments.",
  "LawSection":"Education Law","LawCode":"Amd §3602, Ed L",
  "ActClause":"AN ACT to amend the education law, in relation to making a city school district in a city having a population of one million or more eligible for transitional aid for charter school payments",
- "PreviousVersions":["S8579-2023"]
+ "SameAsPrintNo":"A11702-2025","PreviousVersions":["S8579-2023"]
 }
