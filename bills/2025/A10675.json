@@ -1,16 +1,18 @@
 {
- "PrintNo":"A10675","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "PrintNo":"A10675","Version":"B","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
  "Published":"2026-03-20T15:40:38.283977Z","Status":"IN_ASSEMBLY_COMM","Committee":"Education",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-13","Committee":"Education"}],
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-09-02","Committee":"Education"}],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2026-03-20","Chamber":"ASSEMBLY"},
   {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2026-04-13","Chamber":"ASSEMBLY"},
-  {"Text":"PRINT NUMBER 10675A","Date":"2026-04-13","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"PRINT NUMBER 10675A","Date":"2026-04-13","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"AMEND (T) AND RECOMMIT TO EDUCATION","Date":"2026-09-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PRINT NUMBER 10675B","Date":"2026-09-02","Chamber":"ASSEMBLY","Version":"B"}
  ],
  "Sponsors":[{"ID":1545,"Name":"Sam Berger","Short":"BERGER"}],
  "Title":"Updates school concussion management and response protocols",
  "Summary":"Updates school concussion management and response protocols; requires that the injured student have returned to a full class schedule without academic accommodations prior to resuming athletic activity; authorizes physician assistants to evaluate pupils with concussions.",
- "LawSection":"Education Law","LawCode":"Amd §305, Ed L",
- "ActClause":"AN ACT to amend the education law, in relation to updating school concussion management and response protocols",
- "SameAsPrintNo":"S9686-2025","PreviousVersions":["S8550-2019","S1074-2021","S3184-2023","S5499-2025"]
+ "LawSection":"Public Health Law","LawCode":"Amd §206, Pub Health L, amd §305, Ed L",
+ "ActClause":"AN ACT to amend the public health law and the education law, in relation to updating school concussion management and response protocols",
+ "PreviousVersions":["S8550-2019","S1074-2021","S3184-2023","S5499-2025"]
 }
