@@ -1,11 +1,12 @@
 {
  "PrintNo":"A10835","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-04-01T16:06:34.603705Z","Status":"PASSED_SENATE",
+ "Published":"2026-04-01T16:06:34.603705Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-20","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-21"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-28"},
   {"Type":"IN_SENATE_COMM","Date":"2026-05-28","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-09-09"},{"Type":"SIGNED_BY_GOV","Date":"2026-09-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-04-01","Chamber":"ASSEMBLY"},
@@ -22,7 +23,9 @@
   {"Text":"SUBSTITUTED FOR S9577A","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1151","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-09-09","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.292","Date":"2026-09-09","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

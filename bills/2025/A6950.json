@@ -1,10 +1,11 @@
 {
  "PrintNo":"A6950","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-03-18T13:16:44.094428Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-28","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-06-01"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-06-01"},{"Type":"IN_SENATE_COMM","Date":"2026-06-01","Committee":"Rules"},
-  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-09-09"},{"Type":"SIGNED_BY_GOV","Date":"2026-09-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LABOR","Date":"2025-03-18","Chamber":"ASSEMBLY"},
@@ -20,7 +21,10 @@
   {"Text":"SUBSTITUTED FOR S9843","Date":"2026-06-04","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.731","Date":"2026-06-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-09-09","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.291","Date":"2026-09-09","Chamber":"ASSEMBLY"},
+  {"Text":"APPROVAL MEMO.2","Date":"2026-09-09","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

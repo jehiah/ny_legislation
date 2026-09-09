@@ -1,11 +1,12 @@
 {
  "PrintNo":"S10085","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-04-27T15:27:25.971671Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2026-04-27T15:27:25.971671Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-06-02","Committee":"Rules"},{"Type":"SENATE_FLOOR","Date":"2026-06-02"},
   {"Type":"PASSED_SENATE","Date":"2026-06-02"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Governmental Employees"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-09-09"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CIVIL SERVICE AND PENSIONS","Date":"2026-04-27","Chamber":"SENATE"},
@@ -19,7 +20,8 @@
   {"Text":"SUBSTITUTED FOR A11213A","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.612","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-09-09","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {
