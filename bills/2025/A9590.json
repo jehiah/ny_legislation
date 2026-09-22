@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9590","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2026-01-21T16:38:52.140407Z","Status":"PASSED_SENATE",
+ "Published":"2026-01-21T16:38:52.140407Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-21","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},{"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},
   {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Corporations, Authorities And Commissions"},
-  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-09-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-01-21","Chamber":"ASSEMBLY"},
@@ -23,7 +24,8 @@
   {"Text":"SUBSTITUTED FOR S8839A","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.324","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-09-22","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

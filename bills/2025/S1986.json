@@ -1,11 +1,12 @@
 {
  "PrintNo":"S1986","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-14T14:08:11.842977Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-02-26","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-05-21"},
   {"Type":"PASSED_SENATE","Date":"2026-06-01"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-01","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-02"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-02"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-02"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-02"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-09-22"}
  ],
  "Actions":[
   {"Text":"REFERRED TO EDUCATION","Date":"2025-01-14","Chamber":"SENATE"},
@@ -28,7 +29,8 @@
   {"Text":"SUBSTITUTED FOR A6318","Date":"2026-06-02","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.342","Date":"2026-06-02","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-02","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-06-02","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-02","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-09-22","Chamber":"SENATE"}
  ],
  "Votes":[
   {
