@@ -1,11 +1,12 @@
 {
  "PrintNo":"S10176","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-05-04T13:56:13.136324Z",
- "Status":"PASSED_ASSEMBLY",
+ "Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"SENATE_FLOOR","Date":"2026-05-21"},{"Type":"PASSED_SENATE","Date":"2026-06-03"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-03","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-05"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-10-16"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2026-05-04","Chamber":"SENATE"},
@@ -18,7 +19,8 @@
   {"Text":"SUBSTITUTED FOR A11318","Date":"2026-06-05","Chamber":"ASSEMBLY"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.621","Date":"2026-06-05","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-10-16","Chamber":"SENATE"}
  ],
  "Votes":[
   {
