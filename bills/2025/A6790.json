@@ -1,12 +1,12 @@
 {
  "PrintNo":"A6790","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-03-14T10:01:33.111982Z","Status":"DELIVERED_TO_GOV",
+ "Published":"2025-03-14T10:01:33.111982Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-12","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-14"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-14"},
   {"Type":"IN_SENATE_COMM","Date":"2026-05-14","Committee":"Budget And Revenue"},
   {"Type":"SENATE_FLOOR","Date":"2026-06-01"},{"Type":"PASSED_SENATE","Date":"2026-06-01"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2026-10-16"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-10-16"},{"Type":"SIGNED_BY_GOV","Date":"2026-10-19"}
  ],
  "Actions":[
   {"Text":"REFERRED TO WAYS AND MEANS","Date":"2025-03-14","Chamber":"ASSEMBLY"},
@@ -24,7 +24,9 @@
   {"Text":"3RD READING CAL.1466","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-01","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-10-16","Chamber":"ASSEMBLY","Version":"A"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-10-16","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.313","Date":"2026-10-19","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"APPROVAL MEMO.4","Date":"2026-10-19","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
