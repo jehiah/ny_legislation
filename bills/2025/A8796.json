@@ -1,12 +1,12 @@
 {
  "PrintNo":"A8796","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-06-05T16:00:35.509498Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-27"},
   {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Investigations And Government Operations"},
   {"Type":"SENATE_FLOOR","Date":"2026-05-29"},{"Type":"PASSED_SENATE","Date":"2026-05-29"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2026-10-16"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-10-16"},{"Type":"SIGNED_BY_GOV","Date":"2026-10-23"}
  ],
  "Actions":[
   {"Text":"REFERRED TO ECONOMIC DEVELOPMENT","Date":"2025-06-05","Chamber":"ASSEMBLY"},
@@ -22,7 +22,8 @@
   {"Text":"3RD READING CAL.1088","Date":"2026-05-29","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-29","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-29","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-10-16","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-10-16","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.318","Date":"2026-10-23","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

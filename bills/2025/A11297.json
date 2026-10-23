@@ -1,12 +1,12 @@
 {
  "PrintNo":"A11297","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-11T12:38:20.401562Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-29","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-29"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},
   {"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"SENATE_FLOOR","Date":"2026-06-03"},{"Type":"PASSED_SENATE","Date":"2026-06-03"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2026-10-16"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-10-16"},{"Type":"SIGNED_BY_GOV","Date":"2026-10-23"}
  ],
  "Actions":[
   {"Text":"REFERRED TO LOCAL GOVERNMENTS","Date":"2026-05-11","Chamber":"ASSEMBLY"},
@@ -22,7 +22,8 @@
   {"Text":"3RD READING CAL.1682","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-03","Chamber":"SENATE"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-03","Chamber":"SENATE"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-10-16","Chamber":"ASSEMBLY"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-10-16","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.327","Date":"2026-10-23","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

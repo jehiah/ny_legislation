@@ -1,17 +1,22 @@
 {
- "PrintNo":"A10808","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-04-01T15:57:48.466188Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-04-01","Committee":"Consumer Affairs And Protection"}],
- "Actions":[{"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-04-01","Chamber":"ASSEMBLY"}],
+ "PrintNo":"A10808","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-04-01T15:57:48.466188Z","Status":"IN_ASSEMBLY_COMM","Committee":"Consumer Affairs And Protection",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-10-23","Committee":"Consumer Affairs And Protection"}],
+ "Actions":[
+  {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-04-01","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION","Date":"2026-10-23","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10808A","Date":"2026-10-23","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[
   {"ID":1105,"Name":"Pamela J. Hunter","Short":"HUNTER"},{"ID":1471,"Name":"Emily Gallagher","Short":"GALLAGHER"},
   {"ID":1478,"Name":"Chris Burdick","Short":"BURDICK"},{"ID":1576,"Name":"Diana Moreno","Short":"MORENO"},
   {"ID":1548,"Name":"Emerita Torres","Short":"TORRES"},{"ID":1565,"Name":"Gabriella Romero","Short":"ROMERO"},
   {"ID":1482,"Name":"Anna Kelles","Short":"KELLES"},{"ID":1525,"Name":"Steven Raga","Short":"RAGA"},
-  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}
+  {"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1543,"Name":"Scott H. Bendett","Short":"BENDETT"}
  ],
  "Title":"Relates to automatic license plate reader systems",
  "Summary":"Prohibits the use of automatic license plate reader systems or captured plate data by government entities except for certain purposes.",
  "LawSection":"General Business Law","LawCode":"Add §397-c, Gen Bus L; amd §2985, Pub Auth L",
- "ActClause":"AN ACT to amend the general business law and the public authorities law, in relation to automatic license plate reader systems"
+ "ActClause":"AN ACT to amend the general business law and the public authorities law, in relation to automatic license plate reader systems",
+ "SameAsPrintNo":"S9890-2025"
 }
