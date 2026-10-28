@@ -1,11 +1,12 @@
 {
  "PrintNo":"A5175","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-02-12T11:50:40.662723Z","Status":"PASSED_SENATE",
+ "Published":"2025-02-12T11:50:40.662723Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-04-30"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-04"},
   {"Type":"IN_SENATE_COMM","Date":"2026-05-04","Committee":"Internet And Technology"},
-  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_SENATE","Date":"2026-06-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-10-28"},{"Type":"SIGNED_BY_GOV","Date":"2026-10-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER AFFAIRS AND PROTECTION","Date":"2025-02-12","Chamber":"ASSEMBLY"},
@@ -21,7 +22,9 @@
   {"Text":"SUBSTITUTED FOR S9508","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1747","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-04","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-10-28","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SIGNED CHAP.367","Date":"2026-10-28","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {

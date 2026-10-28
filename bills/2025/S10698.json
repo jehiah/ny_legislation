@@ -1,8 +1,12 @@
 {
- "PrintNo":"S10698","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2026-09-11T09:38:00.823079Z",
- "Status":"IN_SENATE_COMM","Committee":"Rules",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-09-11","Committee":"Rules"}],
- "Actions":[{"Text":"REFERRED TO RULES","Date":"2026-09-11","Chamber":"SENATE"}],
+ "PrintNo":"S10698","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2026-09-11T09:38:00.823079Z","Status":"IN_SENATE_COMM","Committee":"Rules",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-10-28","Committee":"Rules"}],
+ "Actions":[
+  {"Text":"REFERRED TO RULES","Date":"2026-09-11","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO RULES","Date":"2026-10-28","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 10698A","Date":"2026-10-28","Chamber":"SENATE","Version":"A"}
+ ],
  "Sponsors":[{"ID":1501,"Name":"Jeremy Cooney","Short":"COONEY"}],
  "Title":"Relates to health care for children; repealer",
  "Summary":"Removes the household income as a factor for determining eligibility for healthcare for children.",

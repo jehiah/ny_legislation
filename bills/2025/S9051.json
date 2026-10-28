@@ -1,11 +1,12 @@
 {
  "PrintNo":"S9051","Version":"B","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-01-27T15:35:30.630859Z","Status":"PASSED_ASSEMBLY",
+ "Published":"2026-01-27T15:35:30.630859Z","Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-02-25","Committee":"Finance"},{"Type":"SENATE_FLOOR","Date":"2026-06-01"},
   {"Type":"PASSED_SENATE","Date":"2026-06-04"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-04","Committee":"Ways And Means"},
-  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"}
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-10-28"},{"Type":"SIGNED_BY_GOV","Date":"2026-10-28"}
  ],
  "Actions":[
   {"Text":"REFERRED TO INTERNET AND TECHNOLOGY","Date":"2026-01-27","Chamber":"SENATE"},
@@ -21,7 +22,10 @@
   {"Text":"SUBSTITUTED FOR A10379C","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"ORDERED TO THIRD READING RULES CAL.506","Date":"2026-06-04","Chamber":"ASSEMBLY","Version":"B"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"},
-  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"}
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"B"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-10-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"SIGNED CHAP.368","Date":"2026-10-28","Chamber":"SENATE","Version":"B"},
+  {"Text":"APPROVAL MEMO.6","Date":"2026-10-28","Chamber":"SENATE","Version":"B"}
  ],
  "Votes":[
   {
