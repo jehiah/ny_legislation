@@ -1,14 +1,17 @@
 {
- "PrintNo":"A9253","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-11-21T11:49:47.058428Z",
- "Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
- "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-07","Committee":"Codes"}],
+ "PrintNo":"A9253","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2025-11-21T11:49:47.058428Z","Status":"IN_ASSEMBLY_COMM","Committee":"Codes",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-17","Committee":"Codes"}],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-11-21","Chamber":"ASSEMBLY"},
-  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"}
+  {"Text":"REFERRED TO CODES","Date":"2026-01-07","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO CODES","Date":"2026-03-17","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 9253A","Date":"2026-03-17","Chamber":"ASSEMBLY","Version":"A"}
  ],
- "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"}],
+ "Sponsors":[{"ID":520,"Name":"Linda Rosenthal","Short":"ROSENTHAL"},{"ID":1257,"Name":"Karines Reyes","Short":"REYES"}],
  "Title":"Relates to disclosure of the use of artificial intelligence by law enforcement agencies",
  "Summary":"Requires policing agencies to conduct an inventory of, and develop a publicly-available policy for, any artificial intelligence used to aid criminal investigations.",
- "LawSection":"Executive Law","LawCode":"Add §837-z, Exec L",
- "ActClause":"AN ACT to amend the executive law, in relation to requiring policing agencies to conduct an inventory of, and develop a publicly-available policy for, any artificial intelligence used to aid criminal investigations"
+ "LawSection":"Executive Law","LawCode":"Add §837-ww, Exec L",
+ "ActClause":"AN ACT to amend the executive law, in relation to requiring policing agencies to conduct an inventory of, and develop a publicly-available policy for, any artificial intelligence used to aid criminal investigations",
+ "SameAsPrintNo":"S10425-2025"
 }
