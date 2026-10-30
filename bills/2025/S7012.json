@@ -1,18 +1,20 @@
 {
- "PrintNo":"S7012","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-03-28T14:27:33.044341Z",
- "Status":"IN_SENATE_COMM","Committee":"Women's Issues",
- "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Women's Issues"}],
+ "PrintNo":"S7012","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
+ "Published":"2025-03-28T14:27:33.044341Z","Status":"IN_SENATE_COMM","Committee":"Women's Issues",
+ "Milestones":[{"Type":"IN_SENATE_COMM","Date":"2026-10-30","Committee":"Women's Issues"}],
  "Actions":[
   {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2025-03-28","Chamber":"SENATE"},
-  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-01-07","Chamber":"SENATE"}
+  {"Text":"REFERRED TO WOMEN'S ISSUES","Date":"2026-01-07","Chamber":"SENATE"},
+  {"Text":"AMEND AND RECOMMIT TO WOMEN'S ISSUES","Date":"2026-10-30","Chamber":"SENATE"},
+  {"Text":"PRINT NUMBER 7012A","Date":"2026-10-30","Chamber":"SENATE","Version":"A"}
  ],
  "Sponsors":[
   {"ID":1512,"Name":"Jessica Scarcella-Spanton","Short":"SCARCELLA-SPANTON"},
   {"ID":1517,"Name":"Patricia Canzoneri-Fitzpatrick","Short":"CANZONERI-FITZPATRICK"}
  ],
- "Title":"Requires health care providers facilitate a screening for maternal depression within the first six weeks of a person giving birth",
- "Summary":"Requires health care providers facilitate a screening for maternal depression, unless refused by the birth mother, within the first six weeks of birth and that such screening be covered by insurance.",
+ "Title":"Requires health care providers facilitate a screening for maternal depression within a certain time frame",
+ "Summary":"Requires health care providers facilitate a screening for maternal depression, unless refused by the birth mother, prior to the patient leaving the birthing facility and during the first postnatal visit, and that such screening be covered by insurance.",
  "LawSection":"Public Health Law","LawCode":"Amd §2500-k, Pub Health L; amd §§3216, 3221, 4303 & 3217-g, Ins L",
  "ActClause":"AN ACT to amend the public health law and the insurance law, in relation to requiring maternal depression screenings and that such screenings are covered by insurance",
- "SameAsPrintNo":"A7448-2025","PreviousVersions":["A9579-2023"]
+ "PreviousVersions":["A9579-2023"]
 }

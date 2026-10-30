@@ -1,6 +1,16 @@
 {
- "PrintNo":"A10376","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-03-03T11:52:01.944987Z",
+ "PrintNo":"A10376","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
+ "Published":"2026-03-03T11:52:01.944987Z","Status":"IN_ASSEMBLY_COMM","Committee":"Energy",
+ "Milestones":[{"Type":"IN_ASSEMBLY_COMM","Date":"2026-10-30","Committee":"Energy"}],
+ "Actions":[
+  {"Text":"REFERRED TO ENERGY","Date":"2026-03-03","Chamber":"ASSEMBLY"},
+  {"Text":"AMEND AND RECOMMIT TO ENERGY","Date":"2026-10-30","Chamber":"ASSEMBLY"},
+  {"Text":"PRINT NUMBER 10376A","Date":"2026-10-30","Chamber":"ASSEMBLY","Version":"A"}
+ ],
  "Sponsors":[{"ID":540,"Name":"Amy Paulin","Short":"PAULIN"}],
+ "Title":"Requires utility service providers to disclose planned rate increases to consumers within a certain amount of time",
  "Summary":"Requires utility service providers to disclose planned rate increases to consumers within thirty days before a planned price increase takes effect; requires utility providers to provide contact information and a mechanism to cancel service completely.",
- "PreviousVersions":["S6278-2021","S2993-2023"]
+ "LawSection":"Public Service Law","LawCode":"Add §28, Pub Serv L; add §399-ww, Gen Bus L; amd §1020-cc, Pub Auth L",
+ "ActClause":"AN ACT to amend the public service law, the general business law and the public authorities law, in relation to requiring utility service providers to disclose planned rate increases to consumers within a certain amount of time",
+ "SameAsPrintNo":"S4989-2025","PreviousVersions":["S6278-2021","S2993-2023"]
 }
