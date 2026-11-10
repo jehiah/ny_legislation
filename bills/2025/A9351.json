@@ -1,11 +1,12 @@
 {
  "PrintNo":"A9351","Version":"A","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-12-19T15:59:38.931664Z","Status":"PASSED_SENATE",
+ "Published":"2025-12-19T15:59:38.931664Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-24","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-23"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-27"},
   {"Type":"IN_SENATE_COMM","Date":"2026-04-27","Committee":"Transportation"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-28"},{"Type":"PASSED_SENATE","Date":"2026-05-28"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-28"},{"Type":"PASSED_SENATE","Date":"2026-05-28"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-11-10"}
  ],
  "Actions":[
   {"Text":"REFERRED TO TRANSPORTATION","Date":"2025-12-19","Chamber":"ASSEMBLY"},
@@ -21,7 +22,8 @@
   {"Text":"SUBSTITUTED FOR S8571A","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
   {"Text":"3RD READING CAL.1271","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"A"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-28","Chamber":"SENATE","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-11-10","Chamber":"ASSEMBLY","Version":"A"}
  ],
  "Votes":[
   {
