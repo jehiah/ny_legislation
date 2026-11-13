@@ -1,9 +1,12 @@
 {
  "PrintNo":"S8925","Version":"A","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2026-01-16T09:18:50.394179Z","Status":"PASSED_SENATE",
+ "Published":"2026-01-16T09:18:50.394179Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-05-11","Committee":"Consumer Protection"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-26"},{"Type":"PASSED_SENATE","Date":"2026-06-02"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-26"},{"Type":"PASSED_SENATE","Date":"2026-06-02"},
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-06-02","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-03"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-05"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-11-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CONSUMER PROTECTION","Date":"2026-01-16","Chamber":"SENATE"},
@@ -13,7 +16,13 @@
   {"Text":"2ND REPORT CAL.","Date":"2026-05-21","Chamber":"SENATE","Version":"A"},
   {"Text":"ADVANCED TO THIRD READING","Date":"2026-05-26","Chamber":"SENATE","Version":"A"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
-  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"A"}
+  {"Text":"DELIVERED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE","Version":"A"},
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-06-02","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"SUBSTITUTED FOR A9156B","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"ORDERED TO THIRD READING RULES CAL.408","Date":"2026-06-03","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-06-05","Chamber":"ASSEMBLY","Version":"A"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-11-13","Chamber":"SENATE","Version":"A"}
  ],
  "Votes":[
   {

@@ -1,10 +1,12 @@
 {
  "PrintNo":"S1239","Version":"F","Session":2025,"Chamber":"SENATE","BillType":"Senate",
- "Published":"2025-01-08T15:14:45.110751Z","Status":"IN_ASSEMBLY_COMM","Committee":"Ways And Means",
+ "Published":"2025-01-08T15:14:45.110751Z","Status":"DELIVERED_TO_GOV",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Agriculture"},{"Type":"SENATE_FLOOR","Date":"2026-03-18"},
   {"Type":"PASSED_SENATE","Date":"2026-03-23"},
-  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-23","Committee":"Ways And Means"}
+  {"Type":"IN_ASSEMBLY_COMM","Date":"2026-03-23","Committee":"Ways And Means"},
+  {"Type":"ASSEMBLY_FLOOR","Date":"2026-04-21"},{"Type":"PASSED_ASSEMBLY","Date":"2026-04-21"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-11-13"}
  ],
  "Actions":[
   {"Text":"REFERRED TO AGRICULTURE","Date":"2025-01-08","Chamber":"SENATE"},
@@ -40,7 +42,12 @@
   {"Text":"AMENDED ON THIRD READING 1239F","Date":"2026-03-18","Chamber":"SENATE","Version":"F"},
   {"Text":"REPASSED SENATE","Date":"2026-03-23","Chamber":"SENATE","Version":"F"},
   {"Text":"RETURNED TO ASSEMBLY","Date":"2026-03-23","Chamber":"SENATE","Version":"F"},
-  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"F"}
+  {"Text":"REFERRED TO WAYS AND MEANS","Date":"2026-03-23","Chamber":"ASSEMBLY","Version":"F"},
+  {"Text":"SUBSTITUTED FOR A1556G","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"F"},
+  {"Text":"ORDERED TO THIRD READING CAL.62","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"F"},
+  {"Text":"PASSED ASSEMBLY","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"F"},
+  {"Text":"RETURNED TO SENATE","Date":"2026-04-21","Chamber":"ASSEMBLY","Version":"F"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-11-13","Chamber":"SENATE","Version":"F"}
  ],
  "Votes":[
   {
