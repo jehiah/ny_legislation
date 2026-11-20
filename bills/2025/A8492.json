@@ -1,10 +1,11 @@
 {
  "PrintNo":"A8492","Version":"C","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly",
- "Published":"2025-05-20T14:43:58.488832Z","Status":"PASSED_SENATE",
+ "Published":"2025-05-20T14:43:58.488832Z","Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-01-30","Committee":"Codes"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-02-05"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-02-09"},{"Type":"IN_SENATE_COMM","Date":"2026-02-09","Committee":"Codes"},
-  {"Type":"SENATE_FLOOR","Date":"2026-04-01"},{"Type":"PASSED_SENATE","Date":"2026-04-01"}
+  {"Type":"SENATE_FLOOR","Date":"2026-04-01"},{"Type":"PASSED_SENATE","Date":"2026-04-01"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-11-13"},{"Type":"VETOED","Date":"2026-11-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-05-20","Chamber":"ASSEMBLY"},
@@ -24,7 +25,10 @@
   {"Text":"SUBSTITUTED FOR S8021C","Date":"2026-04-01","Chamber":"SENATE","Version":"C"},
   {"Text":"3RD READING CAL.618","Date":"2026-04-01","Chamber":"SENATE","Version":"C"},
   {"Text":"PASSED SENATE","Date":"2026-04-01","Chamber":"SENATE","Version":"C"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-01","Chamber":"SENATE","Version":"C"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-04-01","Chamber":"SENATE","Version":"C"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-11-13","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"VETOED MEMO.11","Date":"2026-11-20","Chamber":"ASSEMBLY","Version":"C"},
+  {"Text":"TABLED","Date":"2026-11-20","Chamber":"ASSEMBLY","Version":"C"}
  ],
  "Votes":[
   {
@@ -166,7 +170,10 @@
    ]
   }
  ],
- "Sponsors":[{"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":675,"Name":"Phil Steck","Short":"STECK"}],
+ "Sponsors":[
+  {"ID":484,"Name":"David Weprin","Short":"WEPRIN"},{"ID":675,"Name":"Phil Steck","Short":"STECK"},
+  {"ID":1567,"Name":"Patrick Chludzinski","Short":"CHLUDZINSKI"}
+ ],
  "Title":"Requires the development and implementation of a tattoo policy by law enforcement agencies",
  "Summary":"Requires the commissioner of the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo policy for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
  "LawSection":"Executive Law","LawCode":"Add §837-aa, Exec L",

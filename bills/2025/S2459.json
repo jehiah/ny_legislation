@@ -1,12 +1,12 @@
 {
  "PrintNo":"S2459","Session":2025,"Chamber":"SENATE","BillType":"Senate","Published":"2025-01-17T16:11:35.836255Z",
- "Status":"DELIVERED_TO_GOV",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_SENATE_COMM","Date":"2026-01-07","Committee":"Corporations, Authorities And Commissions"},
   {"Type":"SENATE_FLOOR","Date":"2026-01-27"},{"Type":"PASSED_SENATE","Date":"2026-02-11"},
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-02-11","Committee":"Ways And Means"},
   {"Type":"ASSEMBLY_FLOOR","Date":"2026-06-04"},{"Type":"PASSED_ASSEMBLY","Date":"2026-06-04"},
-  {"Type":"DELIVERED_TO_GOV","Date":"2026-11-13"}
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-11-13"},{"Type":"VETOED","Date":"2026-11-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS","Date":"2025-01-17","Chamber":"SENATE"},
@@ -29,7 +29,8 @@
   {"Text":"ORDERED TO THIRD READING RULES CAL.496","Date":"2026-06-04","Chamber":"ASSEMBLY"},
   {"Text":"PASSED ASSEMBLY","Date":"2026-06-04","Chamber":"ASSEMBLY"},
   {"Text":"RETURNED TO SENATE","Date":"2026-06-04","Chamber":"ASSEMBLY"},
-  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-11-13","Chamber":"SENATE"}
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-11-13","Chamber":"SENATE"},
+  {"Text":"VETOED MEMO.21","Date":"2026-11-20","Chamber":"SENATE"}
  ],
  "Votes":[
   {

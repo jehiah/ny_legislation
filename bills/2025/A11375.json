@@ -1,11 +1,12 @@
 {
  "PrintNo":"A11375","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2026-05-14T17:18:46.599642Z",
- "Status":"PASSED_SENATE",
+ "Status":"SIGNED_BY_GOV",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2026-05-19","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-05-28"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-05-29"},
   {"Type":"IN_SENATE_COMM","Date":"2026-05-29","Committee":"Civil Service And Pensions"},
-  {"Type":"SENATE_FLOOR","Date":"2026-06-02"},{"Type":"PASSED_SENATE","Date":"2026-06-02"}
+  {"Type":"SENATE_FLOOR","Date":"2026-06-02"},{"Type":"PASSED_SENATE","Date":"2026-06-02"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-11-13"},{"Type":"SIGNED_BY_GOV","Date":"2026-11-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO GOVERNMENTAL EMPLOYEES","Date":"2026-05-14","Chamber":"ASSEMBLY"},
@@ -19,7 +20,9 @@
   {"Text":"SUBSTITUTED FOR S10572","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.1591","Date":"2026-06-02","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-06-02","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-06-02","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-11-13","Chamber":"ASSEMBLY"},
+  {"Text":"SIGNED CHAP.398","Date":"2026-11-20","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {

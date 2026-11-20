@@ -1,10 +1,11 @@
 {
  "PrintNo":"A1422","Session":2025,"Chamber":"ASSEMBLY","BillType":"Assembly","Published":"2025-01-09T13:11:15.826419Z",
- "Status":"PASSED_SENATE",
+ "Status":"VETOED",
  "Milestones":[
   {"Type":"IN_ASSEMBLY_COMM","Date":"2025-06-09","Committee":"Rules"},{"Type":"ASSEMBLY_FLOOR","Date":"2026-01-07"},
   {"Type":"PASSED_ASSEMBLY","Date":"2026-04-28"},{"Type":"IN_SENATE_COMM","Date":"2026-04-28","Committee":"Codes"},
-  {"Type":"SENATE_FLOOR","Date":"2026-05-04"},{"Type":"PASSED_SENATE","Date":"2026-05-04"}
+  {"Type":"SENATE_FLOOR","Date":"2026-05-04"},{"Type":"PASSED_SENATE","Date":"2026-05-04"},
+  {"Type":"DELIVERED_TO_GOV","Date":"2026-11-13"},{"Type":"VETOED","Date":"2026-11-20"}
  ],
  "Actions":[
   {"Text":"REFERRED TO CODES","Date":"2025-01-09","Chamber":"ASSEMBLY"},
@@ -19,7 +20,10 @@
   {"Text":"SUBSTITUTED FOR S4525","Date":"2026-05-04","Chamber":"SENATE"},
   {"Text":"3RD READING CAL.614","Date":"2026-05-04","Chamber":"SENATE"},
   {"Text":"PASSED SENATE","Date":"2026-05-04","Chamber":"SENATE"},
-  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-04","Chamber":"SENATE"}
+  {"Text":"RETURNED TO ASSEMBLY","Date":"2026-05-04","Chamber":"SENATE"},
+  {"Text":"DELIVERED TO GOVERNOR","Date":"2026-11-13","Chamber":"ASSEMBLY"},
+  {"Text":"VETOED MEMO.8","Date":"2026-11-20","Chamber":"ASSEMBLY"},
+  {"Text":"TABLED","Date":"2026-11-20","Chamber":"ASSEMBLY"}
  ],
  "Votes":[
   {
